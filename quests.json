@@ -1,0 +1,581 @@
+[
+    {
+        "id": "1280648686736638002",
+        "config": {
+            "id": "1280648686736638002",
+            "config_version": 2,
+            "starts_at": "2024-09-17T17:00:00+00:00",
+            "expires_at": "2024-09-23T23:59:59+00:00",
+            "features": [
+                3
+            ],
+            "experiments": {
+                "rollout": "2024-09_final_fantasy_xvi_quest",
+                "targeting": "2024-09_final_fantasy_xvi_quest_targeting",
+                "preview": "2024-09_final_fantasy_xvi_quest_preview"
+            },
+            "application": {
+                "link": "https://www.finalfantasyxvi.com/?utm_source=discord&utm_medium=quest&utm_campaign=brand",
+                "id": "1283180127655559310",
+                "name": "FINAL FANTASY XVI"
+            },
+            "assets": {
+                "hero": "hero.webm",
+                "hero_video": null,
+                "quest_bar_hero": "quest_bar_hero.webm",
+                "quest_bar_hero_video": null,
+                "game_tile": "game_tile.svg",
+                "logotype": "game_logotype_v2.svg"
+            },
+            "colors": {
+                "primary": "#f5c95e",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "FFXVI",
+                "game_title": "FFXVI (Demo available)",
+                "game_publisher": "Square Enix"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "event_name": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "external_ids": []
+                    }
+                }
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 3,
+                        "sku_id": "1280648686736638003",
+                        "asset": "reward_with_background.mp4",
+                        "messages": {
+                            "name": "Torgal Puppy Avatar Decoration",
+                            "name_with_article": "a Torgal Puppy Avatar Decoration",
+                            "redemption_instructions_by_platform": {
+                                "0": "This collectible can be redeemed on Discord! Go to your Gift Inventory to redeem and equip."
+                            }
+                        },
+                        "expires_at": "2024-11-23T23:59:59+00:00"
+                    }
+                ],
+                "rewards_expire_at": "2024-10-23T23:59:59+00:00",
+                "platforms": [
+                    0
+                ]
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
+    },
+    {
+        "id": "1280648686749352006",
+        "config": {
+            "id": "1280648686749352006",
+            "config_version": 2,
+            "starts_at": "2024-09-06T17:00:00+00:00",
+            "expires_at": "2024-09-12T23:59:59+00:00",
+            "features": [
+                3
+            ],
+            "experiments": {
+                "rollout": "2024-09_quests_descendant_quest",
+                "targeting": "2024-09_quests_descendant_quest_targeting",
+                "preview": "2024-09_quests_descendant_quest_preview"
+            },
+            "application": {
+                "link": "https://tfd-abr.na.nexon.com/3btyg2",
+                "id": "1256912167685587034",
+                "name": "The First Descendant"
+            },
+            "assets": {
+                "hero": "hero.png",
+                "hero_video": null,
+                "quest_bar_hero": "quest_bar_hero.png",
+                "quest_bar_hero_video": null,
+                "game_tile": "game_tile.png",
+                "logotype": "game_logotype_cropped.png"
+            },
+            "colors": {
+                "primary": "#D53AD4",
+                "secondary": "#003895"
+            },
+            "messages": {
+                "quest_name": "Season 1 Invasion",
+                "game_title": "The First Descendant",
+                "game_publisher": "NEXON"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "event_name": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "external_ids": []
+                    }
+                }
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 3,
+                        "sku_id": "1280648686749352007",
+                        "asset": "reward.mp4",
+                        "messages": {
+                            "name": "Bunny Avatar Decoration",
+                            "name_with_article": "a Bunny Avatar Decoration",
+                            "redemption_instructions_by_platform": {
+                                "0": "This collectible can be redeemed on Discord! Go to your Gift Inventory to redeem and equip."
+                            }
+                        },
+                        "expires_at": "2024-11-12T23:59:59+00:00"
+                    }
+                ],
+                "rewards_expire_at": "2024-10-12T23:59:59+00:00",
+                "platforms": [
+                    0
+                ]
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
+    },
+    {
+        "id": "1280648686749352002",
+        "config": {
+            "id": "1280648686749352002",
+            "config_version": 2,
+            "starts_at": "2024-09-25T17:00:00+00:00",
+            "expires_at": "2024-09-29T23:59:59+00:00",
+            "features": [
+                3,
+                9,
+                11
+            ],
+            "experiments": {
+                "rollout": "2024-09_quests_street_fighter_6_quest",
+                "targeting": "2024-09_quests_street_fighter_6_quest_targeting",
+                "preview": "2024-09_quests_street_fighter_6_quest_preview"
+            },
+            "application": {
+                "link": "https://www.streetfighter.com/6/?utm_source=discord&utm_medium=quest_game_link&utm_campaign=street_fighter_6_quest_9_25_24",
+                "id": "1129504307851567196",
+                "name": "Street Fighter™ 6"
+            },
+            "assets": {
+                "hero": "hero_capcom_1.jpg",
+                "hero_video": null,
+                "quest_bar_hero": "quest_bar_hero_capcom_1.jpg",
+                "quest_bar_hero_video": null,
+                "game_tile": "game_tile_capcom_1.png",
+                "logotype": "logotype_small.png"
+            },
+            "colors": {
+                "primary": "#C63A15",
+                "secondary": "#D56717"
+            },
+            "messages": {
+                "quest_name": "Street Fighter 6",
+                "game_title": "Street Fighter™ 6",
+                "game_publisher": "CAPCOM"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "PLAY_ON_XBOX": {
+                        "event_name": "PLAY_ON_XBOX",
+                        "target": 900,
+                        "external_ids": [
+                            "1687588412"
+                        ]
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "event_name": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "external_ids": [
+                            "ELJM30264_00",
+                            "PPSA02632_00",
+                            "PPSA02633_00",
+                            "CUSA31499_00",
+                            "PPSA02635_00",
+                            "CUSA40459_00",
+                            "CUSA31500_00",
+                            "CUSA40566_00",
+                            "PPSA13615_00",
+                            "CUSA31498_00",
+                            "PLJM17200_00",
+                            "PPSA13469_00",
+                            "PPSA02634_00",
+                            "CUSA31497_00"
+                        ]
+                    },
+                    "PLAY_ON_DESKTOP": {
+                        "event_name": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "external_ids": []
+                    }
+                }
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 3,
+                        "sku_id": "1280648686749352003",
+                        "asset": "reward_with_background.mp4",
+                        "messages": {
+                            "name": "Street Fighter 6 Battle Field Avatar Decoration",
+                            "name_with_article": "the Street Fighter 6 Battle Field Avatar Decoration",
+                            "redemption_instructions_by_platform": {
+                                "0": "©CAPCOM STREET FIGHTER is a trademark and/or registered trademark of CAPCOM CO., LTD and/or its subsidiaries in the U.S. and/or other countries."
+                            }
+                        },
+                        "expires_at": "2024-11-29T11:59:59+00:00"
+                    }
+                ],
+                "rewards_expire_at": "2024-10-29T23:59:59+00:00",
+                "platforms": [
+                    0
+                ]
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
+    },
+    {
+        "id": "1286046055498252318",
+        "config": {
+            "id": "1286046055498252318",
+            "config_version": 2,
+            "starts_at": "2024-09-26T17:00:00+00:00",
+            "expires_at": "2024-09-30T23:59:59+00:00",
+            "features": [
+                3
+            ],
+            "experiments": {
+                "rollout": "2024-09_quests_throne_and_liberty_quest",
+                "targeting": "2024-09_quests_throne_and_liberty_quest_targeting",
+                "preview": "2024-09_quests_throne_and_liberty_quest_preview"
+            },
+            "application": {
+                "link": "https://www.playthroneandliberty.com/claim-the-throne/?utm_source=discord&utm_medium=discord&utm_campaign=_TLib_GLB_Launch&utm_content=NA",
+                "id": "1286341455773700096",
+                "name": "THRONE AND LIBERTY"
+            },
+            "assets": {
+                "hero": "hero.jpeg",
+                "hero_video": null,
+                "quest_bar_hero": "quest_bar_hero.jpeg",
+                "quest_bar_hero_video": null,
+                "game_tile": "game_tile.jpeg",
+                "logotype": "game_logotype3.png"
+            },
+            "colors": {
+                "primary": "#47045D",
+                "secondary": "#211636"
+            },
+            "messages": {
+                "quest_name": "Wolf Morph",
+                "game_title": "THRONE AND LIBERTY",
+                "game_publisher": "Amazon Games"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "event_name": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "external_ids": []
+                    }
+                }
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 3,
+                        "sku_id": "1286046055498252319",
+                        "asset": "reward.mp4",
+                        "messages": {
+                            "name": "Wolf Morph Avatar Decoration",
+                            "name_with_article": "a Wolf Morph Avatar Decoration",
+                            "redemption_instructions_by_platform": {
+                                "0": "This collectible can be redeemed on Discord! Go to your Gift Inventory to redeem and equip."
+                            }
+                        },
+                        "expires_at": "2024-11-30T23:59:59+00:00"
+                    }
+                ],
+                "rewards_expire_at": "2024-10-30T23:59:59+00:00",
+                "platforms": [
+                    0
+                ]
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
+    },
+    {
+        "id": "1280648686749352000",
+        "config": {
+            "id": "1280648686749352000",
+            "config_version": 2,
+            "starts_at": "2024-10-01T16:00:00+00:00",
+            "expires_at": "2024-10-15T23:59:59+00:00",
+            "features": [
+                3
+            ],
+            "experiments": {
+                "rollout": "2024-09_quests_throne_and_liberty_10_1_quest",
+                "targeting": "2024-09_quests_throne_and_liberty_10_1_quest_targeting",
+                "preview": "2024-09_quests_throne_and_liberty_10_1_quest_preview"
+            },
+            "application": {
+                "link": "https://www.playthroneandliberty.com/claim-the-throne/?utm_source=discord&utm_medium=discord&utm_campaign=_TLib_GLB_Launch&utm_content=NA",
+                "id": "1286341455773700096",
+                "name": "THRONE AND LIBERTY"
+            },
+            "assets": {
+                "hero": "hero.png",
+                "hero_video": null,
+                "quest_bar_hero": "quest_bar_hero.png",
+                "quest_bar_hero_video": null,
+                "game_tile": "game_tile.png",
+                "logotype": "game_logotype.png"
+            },
+            "colors": {
+                "primary": "#47045D",
+                "secondary": "#211636"
+            },
+            "messages": {
+                "quest_name": "Ornate Coin Chest",
+                "game_title": "THRONE AND LIBERTY",
+                "game_publisher": "Amazon Games"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "event_name": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "external_ids": []
+                    }
+                }
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 1,
+                        "sku_id": "1280648686749352001",
+                        "asset": "reward_tile.png",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "100x Ornate Coins",
+                            "name_with_article": "100x Ornate Coins",
+                            "redemption_instructions_by_platform": {
+                                "0": "1. Launch Throne and Liberty and progress to the Title Screen\n\n2. Either select an existing character if you have one, or create a new character if you do not\n\n3. Complete the tutorial and progress to Kastelton to unlock the Coupon feature\n\n4. Open the Main Menu and select the Coupon button from the right-most pane\n\n5. Enter the coupon code received, then press the \"Use\" button\n\n6. The Ornate Coins received will automatically be added to your balance once the coupon is claimed\n\n\nCoupon codes from this Quest can only be used once per account. Coupon codes received are valid until 10/31. Coupon codes can only be claimed after completing the tutorial and reaching Kastelton"
+                            }
+                        },
+                        "approximate_count": null
+                    }
+                ],
+                "rewards_expire_at": "2024-10-31T00:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
+    },
+    {
+        "id": "1289341631543119932",
+        "config": {
+            "id": "1289341631543119932",
+            "config_version": 2,
+            "starts_at": "2024-10-08T17:00:00+00:00",
+            "expires_at": "2024-10-22T23:59:59+00:00",
+            "features": [
+                9,
+                3
+            ],
+            "experiments": {
+                "rollout": "2024-10_destiny_2_10_08_2024_quest",
+                "targeting": "2024-10_destiny_2_10_08_2024_quest_targeting",
+                "preview": "2024-10_destiny_2_10_08_2024_quest_preview"
+            },
+            "application": {
+                "link": "https://www.bungie.net/7/en/destiny?utm_medium=creator&utm_source=discord&utm_campaign=discord_redemption&utm_content=celestial_ties_shader",
+                "id": "372438022647578634",
+                "name": "Destiny 2"
+            },
+            "assets": {
+                "hero": "hero.jpg",
+                "hero_video": null,
+                "quest_bar_hero": "quest_bar_hero.jpg",
+                "quest_bar_hero_video": null,
+                "game_tile": "game_tile.jpg",
+                "logotype": "logotype_v3.png"
+            },
+            "colors": {
+                "primary": "#5e0f15",
+                "secondary": "#410b0f"
+            },
+            "messages": {
+                "quest_name": "Destiny 2: Revenant",
+                "game_title": "Destiny 2: Revenant",
+                "game_publisher": "Destiny 2: Revenant"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "PLAY_ON_XBOX": {
+                        "event_name": "PLAY_ON_XBOX",
+                        "target": 900,
+                        "external_ids": [
+                            "144389848"
+                        ]
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "event_name": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "external_ids": [
+                            "CUSA05963_00",
+                            "CUSA06172_00",
+                            "PPSA02411_00",
+                            "PPSA02409_00",
+                            "CUSA05042_00",
+                            "PPSA02410_00"
+                        ]
+                    },
+                    "PLAY_ON_DESKTOP": {
+                        "event_name": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "external_ids": []
+                    }
+                }
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 1,
+                        "sku_id": "1289351671155265566",
+                        "asset": "reward_tile.jpg",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "Celestial Ties Shader",
+                            "name_with_article": "the Celestial Ties Shader",
+                            "redemption_instructions_by_platform": {
+                                "0": "To redeem your Celestial Ties Shader, visit Bungie.net/redeem and sign into your account.\n\nYou can then enter the code you received and pick up your Celestial Ties Shader in the Tower at the Special Deliveries terminal between the Cryptarch and Gunsmith.\n\nRedemption code expires 12/31/2024 0:00:00 (UTC-8)."
+                            }
+                        },
+                        "approximate_count": 500000
+                    }
+                ],
+                "rewards_expire_at": "2024-11-21T23:59:59+00:00",
+                "platforms": [
+                    0
+                ]
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
+    },
+    {
+        "id": "1289284766096687104",
+        "config": {
+            "id": "1289284766096687104",
+            "config_version": 2,
+            "starts_at": "2024-10-08T17:00:00+00:00",
+            "expires_at": "2024-10-15T23:59:59+00:00",
+            "features": [
+                3,
+                4,
+                12
+            ],
+            "experiments": {
+                "rollout": "2024-09_diablo_iv_quest",
+                "targeting": "2024-09_diablo_iv_quest_targeting",
+                "preview": "2024-09_diablo_iv_quest_preview"
+            },
+            "application": {
+                "link": "https://diablo4.blizzard.com",
+                "id": "1113966530531704943",
+                "name": "Diablo IV"
+            },
+            "assets": {
+                "hero": "hero.png",
+                "hero_video": null,
+                "quest_bar_hero": "quest_bar_hero.png",
+                "quest_bar_hero_video": null,
+                "game_tile": "game_tile.png",
+                "logotype": "game_logotype2.png"
+            },
+            "colors": {
+                "primary": "#439631",
+                "secondary": "#121711"
+            },
+            "messages": {
+                "quest_name": "Vessel of Hatred",
+                "game_title": "Diablo® IV: Vessel of Hatred™",
+                "game_publisher": "Blizzard Entertainment"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "STREAM_ON_DESKTOP": {
+                        "event_name": "STREAM_ON_DESKTOP",
+                        "target": 900,
+                        "external_ids": []
+                    }
+                }
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 1,
+                        "sku_id": "1289284766096687105",
+                        "asset": "reward_tile.jpeg",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "Sea of Voices Weapon Bundle",
+                            "name_with_article": "a Sea of Voices Weapon Bundle",
+                            "redemption_instructions_by_platform": {
+                                "0": "**Claim Your Code Online**\n\n1. Log into your Account Overview: [account.blizzard.com/overview](https://account.blizzard.com/overview)\n\n2. Enter the code in the Redeem a Code box and click Redeem Code\n\n**Claim Your Code on the Battle.net Desktop App**\n\n1. Login to the Battle.net Desktop App\n\n2. Click your profile icon at the top right corner of the App\n\n3. Click Redeem Code\n\n*Note: Reward code must be redeemed on Battle.net but will be accessible on Xbox Series X|S, Xbox One, PlayStation 4, PlayStation 5, and Steam, as long as the user has a valid Diablo IV license. Ensure that your Battle.net ID is linked to your gaming platform. After redeeming the code on Battle.net, your items will be available the next time you log into your selected platform.*"
+                            }
+                        },
+                        "approximate_count": null
+                    }
+                ],
+                "rewards_expire_at": "2024-11-14T23:59:59+00:00",
+                "platforms": [
+                    0
+                ]
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
+    }
+]
