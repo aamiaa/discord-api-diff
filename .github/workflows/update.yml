@@ -1,0 +1,46 @@
+name: Update
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 */3 * * *"
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+    
+    steps:
+      - name: Checkout action repo
+        uses: actions/checkout@v4
+        with:
+          repository: aamiaa/discord-api-diff-action
+          token: ${{ secrets.ACCESS_TOKEN }}
+          ref: "main"
+          path: ./action
+
+      - name: Checkout current repo
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.head_ref }}
+          path: ./repo
+
+      - name: Install dependencies
+        run: npm install --prefix ./action
+
+      - name: Get env variables
+        uses: oNaiPs/secrets-to-env-action@v1
+        with:
+          secrets: ${{ toJSON(secrets) }}
+
+      - name: Run actions
+        uses: ./action
+
+      - name: Commit
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          repository: ./repo
+          commit_message: Automatic update
+          commit_author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
