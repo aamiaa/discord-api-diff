@@ -110350,5 +110350,41 @@
         "hook": true,
         "id": "1295083685519036586",
         "name": "Simson Tuningwerkstatt 3D"
+    },
+    {
+        "executables": [
+            {
+                "is_launcher": false,
+                "name": "click click dig prologue/click click dig prologue.exe",
+                "os": "win32"
+            }
+        ],
+        "hook": true,
+        "id": "1295113903969402953",
+        "name": "Click Click Dig: Prologue"
+    },
+    {
+        "executables": [
+            {
+                "is_launcher": false,
+                "name": "hole dweller/holedweller.exe",
+                "os": "win32"
+            }
+        ],
+        "hook": true,
+        "id": "1295144088164765767",
+        "name": "Hole Dweller"
+    },
+    {
+        "executables": [
+            {
+                "is_launcher": false,
+                "name": "webfishing/webfishing.exe",
+                "os": "win32"
+            }
+        ],
+        "hook": true,
+        "id": "1295159185926783037",
+        "name": "WEBFISHING"
     }
 ]
