@@ -110422,5 +110422,29 @@
         "hook": true,
         "id": "1295506474935521332",
         "name": "Storage Hunter"
+    },
+    {
+        "executables": [
+            {
+                "is_launcher": false,
+                "name": "win64/hidenprop-win64-shipping.exe",
+                "os": "win32"
+            }
+        ],
+        "hook": true,
+        "id": "1295853757866709087",
+        "name": "HideNProp"
+    },
+    {
+        "executables": [
+            {
+                "is_launcher": false,
+                "name": "kunitsu-gami path of the goddess/kunitsugami.exe",
+                "os": "win32"
+            }
+        ],
+        "hook": true,
+        "id": "1295868864395218974",
+        "name": "Kunitsu-Gami: Path of the Goddess"
     }
 ]
