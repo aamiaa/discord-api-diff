@@ -4190,5 +4190,191 @@
                 "randomizedSources": []
             }
         ]
+    },
+    {
+        "type": 1,
+        "id": "1293373563398520832",
+        "sku_id": "1293373563381878836",
+        "title": "D20 Roll",
+        "description": "You win some, you lose some. This effect can show your profile admirers one of two random outcomes.",
+        "accessibilityLabel": "A 20-sided dice rolls into view, displaying 'Critical Failure' when landing on a 1, and 'Critical Success' when rolling a 20. The outcome it decides remains unknown to this day.",
+        "animationType": 2,
+        "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-10-07/d20/thumbnail_success.png",
+        "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-10-07/d20/reduced_motion_success.png",
+        "effects": [
+            {
+                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-10-07/d20/intro_[1-2].png",
+                "loop": false,
+                "height": 880,
+                "width": 450,
+                "duration": 3250,
+                "start": 0,
+                "loopDelay": 0,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "zIndex": 100,
+                "randomizedSources": [
+                    {
+                        "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-10-07/d20/intro_success.png"
+                    },
+                    {
+                        "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-10-07/d20/intro_failure.png"
+                    }
+                ]
+            },
+            {
+                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-10-07/d20/idle_[1-2].png",
+                "loop": true,
+                "height": 880,
+                "width": 450,
+                "duration": 3000,
+                "start": 3000,
+                "loopDelay": 4500,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "zIndex": 101,
+                "randomizedSources": [
+                    {
+                        "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-10-07/d20/idle_success.png"
+                    },
+                    {
+                        "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-10-07/d20/idle_failure.png"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": 1,
+        "id": "1293373563423686676",
+        "sku_id": "1293373563407175680",
+        "title": "Red Dragon",
+        "description": "Let’s play with fire.",
+        "accessibilityLabel": "A fearsome red dragon swoops into view, breathing flames that engulf the entire profile in a fiery inferno before vanishing in the flames.",
+        "animationType": 2,
+        "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-10-07/red_dragon/thumbnail.png",
+        "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-10-07/red_dragon/reduced_motion.png",
+        "effects": [
+            {
+                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-10-07/red_dragon/intro.png",
+                "loop": false,
+                "height": 880,
+                "width": 450,
+                "duration": 3750,
+                "start": 0,
+                "loopDelay": 0,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "zIndex": 101,
+                "randomizedSources": []
+            },
+            {
+                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-10-07/red_dragon/idle.png",
+                "loop": true,
+                "height": 880,
+                "width": 450,
+                "duration": 2988,
+                "start": 5000,
+                "loopDelay": 4500,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "zIndex": 100,
+                "randomizedSources": []
+            }
+        ]
+    },
+    {
+        "type": 1,
+        "id": "1293373563448852613",
+        "sku_id": "1293373563432341574",
+        "title": "Beholder",
+        "description": "Aren’t you a sight to behold!",
+        "accessibilityLabel": "Multiple glowing eyes appear until a menacing Beholder fully reveals itself in the dark, firing a deadly laser of arcane energy from its central eye.",
+        "animationType": 2,
+        "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-10-07/beholder/thumbnail.png",
+        "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-10-07/beholder/reduced_motion.png",
+        "effects": [
+            {
+                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-10-07/beholder/intro.png",
+                "loop": false,
+                "height": 880,
+                "width": 450,
+                "duration": 3333,
+                "start": 0,
+                "loopDelay": 0,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "zIndex": 100,
+                "randomizedSources": []
+            },
+            {
+                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-10-07/beholder/idle.png",
+                "loop": true,
+                "height": 880,
+                "width": 450,
+                "duration": 3000,
+                "start": 4500,
+                "loopDelay": 6000,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "zIndex": 101,
+                "randomizedSources": []
+            }
+        ]
+    },
+    {
+        "type": 1,
+        "id": "1293373563478212608",
+        "sku_id": "1293373563457507463",
+        "title": "Mimic",
+        "description": "Surprise!",
+        "accessibilityLabel": "A treasure chest falls from above but... surprise! The treasure chest reveals itself to be a Mimic that lashes its giant purple tongue out and bares rows upon rows of razor-sharp teeth.",
+        "animationType": 2,
+        "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-10-07/mimic/thumbnail.png",
+        "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-10-07/mimic/reduced_motion.png",
+        "effects": [
+            {
+                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-10-07/mimic/intro.png",
+                "loop": false,
+                "height": 880,
+                "width": 450,
+                "duration": 3250,
+                "start": 0,
+                "loopDelay": 0,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "zIndex": 100,
+                "randomizedSources": []
+            },
+            {
+                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-10-07/mimic/idle.png",
+                "loop": true,
+                "height": 880,
+                "width": 450,
+                "duration": 3000,
+                "start": 3000,
+                "loopDelay": 6000,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "zIndex": 101,
+                "randomizedSources": []
+            }
+        ]
     }
 ]
