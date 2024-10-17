@@ -577,5 +577,82 @@
         "user_status": null,
         "targeted_content": [],
         "preview": false
+    },
+    {
+        "id": "1294082738223321129",
+        "config": {
+            "id": "1294082738223321129",
+            "config_version": 2,
+            "starts_at": "2024-10-17T17:00:00+00:00",
+            "expires_at": "2024-10-23T23:59:59+00:00",
+            "features": [
+                9,
+                3
+            ],
+            "experiments": {
+                "rollout": "2024-10_quests_marvel_snap_quest_10_18_24",
+                "targeting": "2024-10_quests_marvel_snap_quest_10_18_24_targeting",
+                "preview": "2024-10_quests_marvel_snap_quest_10_18_24_preview"
+            },
+            "application": {
+                "link": "https://store.steampowered.com/app/1997040/MARVEL_SNAP?utm_source=discord&utm_medium=quest_game_link",
+                "id": "1067552066454695965",
+                "name": "MARVEL SNAP"
+            },
+            "assets": {
+                "hero": "hero.jpg",
+                "hero_video": null,
+                "quest_bar_hero": "quest_bar_hero.jpg",
+                "quest_bar_hero_video": null,
+                "game_tile": "game_tile.png",
+                "logotype": "logotype_snap.png"
+            },
+            "colors": {
+                "primary": "#ee6b33",
+                "secondary": "#f33748"
+            },
+            "messages": {
+                "quest_name": "MARVEL SNAP",
+                "game_title": "MARVEL SNAP",
+                "game_publisher": "Nuverse"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "event_name": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "external_ids": []
+                    }
+                }
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 1,
+                        "sku_id": "1294082738223321130",
+                        "asset": "reward.jpg",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "Spider-Armor Variant",
+                            "name_with_article": "the Spider-Armor Variant",
+                            "redemption_instructions_by_platform": {
+                                "0": "How To Use Redeem Codes\n\n\n1. Once you have a Redeem Code, head over to https://bit.ly/SNAPredeem to redeem it!\n\n2. To proceed, you will need to verify your SNAP ID, which can be found in-game at the bottom of your settings page. Simply tap on it to reveal your ID.\n\n3. Once your code is successfully redeemed, the reward will be sent to your in-game inbox!\n\n4. Please note, the Redeem Code is valid from Pacific Time (PT): October 17, 2024, 9:00:00 AM to October 31, 2024, 8:59:59 AM."
+                            }
+                        },
+                        "approximate_count": null
+                    }
+                ],
+                "rewards_expire_at": "2024-10-31T15:59:59+00:00",
+                "platforms": [
+                    0
+                ]
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
     }
 ]
