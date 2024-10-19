@@ -110530,5 +110530,29 @@
         "hook": true,
         "id": "1296880572823506964",
         "name": "孵道"
+    },
+    {
+        "executables": [
+            {
+                "is_launcher": false,
+                "name": "castle break/castlebreak_.exe",
+                "os": "win32"
+            }
+        ],
+        "hook": true,
+        "id": "1296940930007302155",
+        "name": "Castle Break"
+    },
+    {
+        "executables": [
+            {
+                "is_launcher": false,
+                "name": "win64/hellpie-win64-shipping.exe",
+                "os": "win32"
+            }
+        ],
+        "hook": true,
+        "id": "1296971146461315082",
+        "name": "Hell Pie"
     }
 ]
