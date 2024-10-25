@@ -660,5 +660,82 @@
         "user_status": null,
         "targeted_content": [],
         "preview": false
+    },
+    {
+        "id": "1298035818769940591",
+        "config": {
+            "id": "1298035818769940591",
+            "config_version": 2,
+            "starts_at": "2024-10-25T17:00:00+00:00",
+            "expires_at": "2024-10-31T23:59:59+00:00",
+            "features": [
+                3,
+                12
+            ],
+            "experiments": {
+                "rollout": "2024-10_quests_once_human_quest",
+                "targeting": "2024-10_quests_once_human_quest_targeting",
+                "preview": "2024-10_quests_once_human_quest_preview"
+            },
+            "application": {
+                "link": "https://engagements.appsflyer.com/v1.0/c2s/click/app/steam/2139460?af_media_source=discord&af_campaign_id=steamus&af_campaign=steamus&af_r=https%3A%2F%2Fstore.steampowered.com%2Fapp%2F2139460%3Futm_source%3DNAOCT%26utm_campaign%3DDC%26utm_content%3Ddiscordquest",
+                "id": "1260340082150346932",
+                "name": "Once Human"
+            },
+            "assets": {
+                "hero": "hero.jpg",
+                "hero_video": null,
+                "quest_bar_hero": "quests_bar_hero.jpg",
+                "quest_bar_hero_video": null,
+                "game_tile": "game_tile.jpg",
+                "logotype": "game_logotype.png"
+            },
+            "colors": {
+                "primary": "#156d81",
+                "secondary": "#0a94b1"
+            },
+            "messages": {
+                "quest_name": "Winter Survival",
+                "game_title": "Once Human",
+                "game_publisher": "NetEase"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "STREAM_ON_DESKTOP": {
+                        "event_name": "STREAM_ON_DESKTOP",
+                        "target": 900,
+                        "external_ids": []
+                    }
+                }
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 1,
+                        "sku_id": "1298035818769940592",
+                        "asset": "reward.jpg",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "Winter Survival Pack",
+                            "name_with_article": "the Winter Survival Pack",
+                            "redemption_instructions_by_platform": {
+                                "0": "To redeem your item, press F3 or ESC in the game to access the event interface (you must complete the tutorial first). Once there, either press X or click the “Redeem Code” button in the bottom right. Enter your code in the pop-up window and hit REDEEM to claim your reward."
+                            }
+                        },
+                        "approximate_count": null
+                    }
+                ],
+                "rewards_expire_at": "2024-11-30T23:59:59+00:00",
+                "platforms": [
+                    0
+                ]
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
     }
 ]
