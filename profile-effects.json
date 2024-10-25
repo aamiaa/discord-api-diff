@@ -4376,5 +4376,134 @@
                 "randomizedSources": []
             }
         ]
+    },
+    {
+        "type": 1,
+        "id": "1298033986743828531",
+        "sku_id": "1298033986727055370",
+        "title": "Spirit of the Kitsune",
+        "description": "Like the moon, kitsune are just full of secrets.",
+        "accessibilityLabel": "Under a glowing full moon surrounded by scarlet and blue clouds, a rare kitsune with fiery red fur and blue-tipped tails suddenly prances into view before dashing off into the night.",
+        "animationType": 2,
+        "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-10-21/spirit-of-the-kitsune/thumbnail.png",
+        "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-10-21/spirit-of-the-kitsune/reduced_motion.png",
+        "effects": [
+            {
+                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-10-21/spirit-of-the-kitsune/intro.png",
+                "loop": false,
+                "height": 880,
+                "width": 450,
+                "duration": 6640,
+                "start": 0,
+                "loopDelay": 0,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "zIndex": 100,
+                "randomizedSources": []
+            },
+            {
+                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-10-21/spirit-of-the-kitsune/idle.png",
+                "loop": true,
+                "height": 880,
+                "width": 450,
+                "duration": 5810,
+                "start": 11140,
+                "loopDelay": 4500,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "zIndex": 101,
+                "randomizedSources": []
+            }
+        ]
+    },
+    {
+        "type": 1,
+        "id": "1298033986769256479",
+        "sku_id": "1298033986752221204",
+        "title": "Flutter and Frolic",
+        "description": "Don't blink - you'll miss the magic.",
+        "accessibilityLabel": "Bright magical fairies playfully skim across water as they flutter and frlolic off into the horizon.",
+        "animationType": 2,
+        "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-10-21/flutter-and-frolic/thumbnail.png",
+        "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-10-21/flutter-and-frolic/reduced_motion.png",
+        "effects": [
+            {
+                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-10-21/flutter-and-frolic/intro.png",
+                "loop": false,
+                "height": 880,
+                "width": 450,
+                "duration": 3405,
+                "start": 0,
+                "loopDelay": 5000,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "zIndex": 100,
+                "randomizedSources": []
+            },
+            {
+                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-10-21/flutter-and-frolic/idle.png",
+                "loop": true,
+                "height": 880,
+                "width": 450,
+                "duration": 3154,
+                "start": 3405,
+                "loopDelay": 3500,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "zIndex": 101,
+                "randomizedSources": []
+            }
+        ]
+    },
+    {
+        "type": 1,
+        "id": "1298033986794422313",
+        "sku_id": "1298033986777387059",
+        "title": "Mermaid Whisperer",
+        "description": "Got no troubles when life is bubbles!",
+        "accessibilityLabel": "A rare mermaid with vibrant purple hair and a tail of shimmering blue and white scales makes a brief, magical appearance as she swims across the screen.",
+        "animationType": 2,
+        "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-10-21/mermaid-whisperer/thumbnail.png",
+        "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-10-21/mermaid-whisperer/reduced_motion.png",
+        "effects": [
+            {
+                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-10-21/mermaid-whisperer/intro.png",
+                "loop": false,
+                "height": 880,
+                "width": 450,
+                "duration": 4318,
+                "start": 0,
+                "loopDelay": 0,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "zIndex": 100,
+                "randomizedSources": []
+            },
+            {
+                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-10-21/mermaid-whisperer/idle.png",
+                "loop": true,
+                "height": 880,
+                "width": 450,
+                "duration": 5810,
+                "start": 5318,
+                "loopDelay": 3250,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "zIndex": 101,
+                "randomizedSources": []
+            }
+        ]
     }
 ]
