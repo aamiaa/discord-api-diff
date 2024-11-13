@@ -4505,5 +4505,150 @@
                 "randomizedSources": []
             }
         ]
+    },
+    {
+        "type": 1,
+        "id": "1303490165225816125",
+        "sku_id": "1303490165213237338",
+        "title": "Jinx and Pow-Pow",
+        "description": "Come on, shoot faster…",
+        "accessibilityLabel": "Clouds of smoke slowly dissipate, revealing Jinx wildly firing her minigun Pow-Pow in all directions with reckless abandon.",
+        "animationType": 1,
+        "staticFrameSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-11-05/jinx-and-powpow/static.png",
+        "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-11-05/jinx-and-powpow/thumbnail.png",
+        "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-11-05/jinx-and-powpow/reduced_motion.png",
+        "effects": [
+            {
+                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-11-05/jinx-and-powpow/intro.png",
+                "loop": true,
+                "height": 880,
+                "width": 450,
+                "duration": 4333,
+                "start": 0,
+                "loopDelay": 0,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "zIndex": 100,
+                "randomizedSources": []
+            },
+            {
+                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-11-05/jinx-and-powpow/idle.png",
+                "loop": true,
+                "height": 880,
+                "width": 450,
+                "duration": 5000,
+                "start": 8000,
+                "loopDelay": 4000,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "zIndex": 101,
+                "randomizedSources": []
+            }
+        ]
+    },
+    {
+        "type": 1,
+        "id": "1303490165246787706",
+        "sku_id": "1303490165234208810",
+        "title": "Ekko’s Aeroglider Stunts",
+        "description": "Ekko makes that look easier than it is.",
+        "accessibilityLabel": "Ekko swoops in on his hoverboard, flying and swerving effortlessly around with his trusty bat in hand.",
+        "animationType": 2,
+        "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-11-05/ekkos-aeroglider-stunts/thumbnail.png",
+        "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-11-05/ekkos-aeroglider-stunts/reduced_motion.png",
+        "effects": [
+            {
+                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-11-05/ekkos-aeroglider-stunts/intro.png",
+                "loop": false,
+                "height": 880,
+                "width": 450,
+                "duration": 3083,
+                "start": 0,
+                "loopDelay": 0,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "zIndex": 100,
+                "randomizedSources": []
+            },
+            {
+                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-11-05/ekkos-aeroglider-stunts/idle_1.png",
+                "loop": true,
+                "height": 880,
+                "width": 450,
+                "duration": 1500,
+                "start": 7000,
+                "loopDelay": 9167,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "zIndex": 101,
+                "randomizedSources": []
+            },
+            {
+                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-11-05/ekkos-aeroglider-stunts/idle_2.png",
+                "loop": true,
+                "height": 880,
+                "width": 450,
+                "duration": 1167,
+                "start": 12500,
+                "loopDelay": 9500,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "zIndex": 102,
+                "randomizedSources": []
+            }
+        ]
+    },
+    {
+        "type": 1,
+        "id": "1303490165267759214",
+        "sku_id": "1303490165255180298",
+        "title": "Paint the Town Blue",
+        "description": "And red, and green, and orange, and…",
+        "accessibilityLabel": "Clouds of smoke in vibrant colors explode around the avatar, creating a dazzling smokescreen.",
+        "animationType": 2,
+        "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-11-05/paint-the-town-blue/thumbnail.png",
+        "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-11-05/paint-the-town-blue/reduced_motion.png",
+        "effects": [
+            {
+                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-11-05/paint-the-town-blue/intro.png",
+                "loop": false,
+                "height": 880,
+                "width": 450,
+                "duration": 4250,
+                "start": 0,
+                "loopDelay": 0,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "zIndex": 100,
+                "randomizedSources": []
+            },
+            {
+                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-11-05/paint-the-town-blue/idle.png",
+                "loop": true,
+                "height": 880,
+                "width": 450,
+                "duration": 5000,
+                "start": 8000,
+                "loopDelay": 4000,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "zIndex": 101,
+                "randomizedSources": []
+            }
+        ]
     }
 ]
