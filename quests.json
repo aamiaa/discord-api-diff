@@ -737,5 +737,101 @@
         "user_status": null,
         "targeted_content": [],
         "preview": false
+    },
+    {
+        "id": "1301937819069190215",
+        "config": {
+            "id": "1301937819069190215",
+            "config_version": 2,
+            "starts_at": "2024-11-14T18:00:00+00:00",
+            "expires_at": "2024-11-26T00:59:59+00:00",
+            "features": [
+                3,
+                13
+            ],
+            "experiments": {
+                "rollout": "2024-11_quests_dune_prophecy_quest",
+                "targeting": "2024-11_quests_dune_prophecy_quest_targeting",
+                "preview": "2024-11_quests_dune_prophecy_quest_preview"
+            },
+            "application": {
+                "link": "https://www.max.com/shows/dune-prophecy-2024/57660b16-a32a-476f-89da-3302ac379e91?utm_source=discord&utm_medium=quest_link",
+                "id": "545364944258990091",
+                "name": "Dune: Prophecy"
+            },
+            "assets": {
+                "hero": "hero.jpg",
+                "hero_video": null,
+                "quest_bar_hero": "questbar_hero.jpg",
+                "quest_bar_hero_video": "questbar_hero.webm",
+                "game_tile": "game_tile.jpg",
+                "logotype": "logotype.png"
+            },
+            "colors": {
+                "primary": "#50615D",
+                "secondary": "#848B7D"
+            },
+            "messages": {
+                "quest_name": "Dune: Prophecy",
+                "game_title": "Dune: Prophecy",
+                "game_publisher": "Max"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "event_name": "WATCH_VIDEO",
+                        "target": 158,
+                        "external_ids": []
+                    }
+                }
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 3,
+                        "sku_id": "1305905202578325535",
+                        "asset": "reward3.mp4",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "Wallach IX Spaceport Avatar Decoration",
+                            "name_with_article": "a Wallach IX Spaceport Avatar Decoration",
+                            "redemption_instructions_by_platform": {
+                                "0": "This collectible can be redeemed on Discord! Go to your Gift Inventory to redeem and equip."
+                            }
+                        },
+                        "expires_at": "2025-01-25T08:00:00+00:00",
+                        "expires_at_premium": null,
+                        "expiration_mode": 1
+                    }
+                ],
+                "rewards_expire_at": "2024-12-26T00:59:59+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "video_metadata": {
+                "messages": {
+                    "video_title": "Dune: Prophecy Trailer",
+                    "video_end_cta_title": "NEW EPISODES | SUNDAYS 9PM",
+                    "video_end_cta_subtitle": "Streaming on Max. Click to find out more!"
+                },
+                "assets": {
+                    "video_player_video": "video_high_res2.mp4",
+                    "video_player_thumbnail": "video_thumbnail.jpg",
+                    "video_player_video_low_res": "video_low_res2.mp4",
+                    "video_player_caption": "caption3.vtt",
+                    "video_player_transcript": "transcript.txt",
+                    "quest_bar_preview_video": "questbar_preview.webm",
+                    "quest_bar_preview_thumbnail": "questbar_preview.jpg",
+                    "quest_home_video": "questhome.webm"
+                }
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
     }
 ]
