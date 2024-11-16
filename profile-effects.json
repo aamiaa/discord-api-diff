@@ -4650,5 +4650,48 @@
                 "randomizedSources": []
             }
         ]
+    },
+    {
+        "type": 1,
+        "id": "1306752744312541315",
+        "sku_id": "1306752744299954306",
+        "title": "Arcane Epiphany",
+        "description": "“What have we done…?”",
+        "accessibilityLabel": "Waves of colorful, shadow-like wisps swirl and shift across the profile like clouds.",
+        "animationType": 2,
+        "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-11-14/arcane-epiphany/thumbnail.png",
+        "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-11-14/arcane-epiphany/reduced_motion.png",
+        "effects": [
+            {
+                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-11-14/arcane-epiphany/intro.png",
+                "loop": false,
+                "height": 880,
+                "width": 450,
+                "duration": 4167,
+                "start": 0,
+                "loopDelay": 0,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "zIndex": 100,
+                "randomizedSources": []
+            },
+            {
+                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-11-14/arcane-epiphany/idle.png",
+                "loop": true,
+                "height": 880,
+                "width": 450,
+                "duration": 4167,
+                "start": 7000,
+                "loopDelay": 2500,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "zIndex": 101,
+                "randomizedSources": []
+            }
+        ]
     }
 ]
