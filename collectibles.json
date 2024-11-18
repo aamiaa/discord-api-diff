@@ -27599,12 +27599,16 @@
         },
         "logo": "1303490165288730724",
         "hero_ranking": [
+            "1306752744228524052",
+            "1306752744278982737",
+            "1306752744258011166",
+            "1306752744299954306",
             "1303490165045727317",
             "1303490165099991143",
-            "1303490165234208810",
+            "1303490165213237338",
             "1303490165171294268",
             "1303490165074825296",
-            "1303490165213237338",
+            "1303490165234208810",
             "1303490165150322698",
             "1303490165192265799",
             "1303490165120962651",
@@ -27618,6 +27622,459 @@
         "hero_banner": "1303490165339066469",
         "hero_logo": "1303890398137290793",
         "products": [
+            {
+                "sku_id": "1306752744228524052",
+                "name": "Anomaly Bundle",
+                "summary": "A bundle of collectibles.",
+                "store_listing_id": "1306752744249626734",
+                "banner": "1303490165297123358",
+                "unpublished_at": null,
+                "styles": {
+                    "background_colors": [
+                        724282,
+                        18
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 2899,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 2199,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    }
+                },
+                "items": [
+                    {
+                        "type": 0,
+                        "id": "1306752744274792448",
+                        "sku_id": "1306752744258011166",
+                        "asset": "a_af5ee420e5f860ff2cdbb5fa4633f2cf",
+                        "label": "The mysterious Anomaly has taken over your avatar, its weblike surface stretching and wrapping around it endlessly."
+                    },
+                    {
+                        "type": 1,
+                        "id": "1306752744312541315",
+                        "sku_id": "1306752744299954306"
+                    }
+                ],
+                "type": 1000,
+                "premium_type": 0,
+                "category_sku_id": "1303490165284802580",
+                "bundled_products": [
+                    {
+                        "sku_id": "1306752744258011166",
+                        "name": "The Anomaly",
+                        "summary": "Beautiful. Impossible. Inevitable.",
+                        "type": 0,
+                        "premium_type": 0,
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 1599,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 1199,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            },
+                            "5": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 1599,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            },
+                            "7": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 1199,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "sku_id": "1306752744299954306",
+                        "name": "Arcane Epiphany",
+                        "summary": "“What have we done…?”",
+                        "type": 1,
+                        "premium_type": 0,
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 1599,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 1199,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            },
+                            "5": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 1599,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            },
+                            "7": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 1199,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ],
+                "google_sku_ids": {}
+            },
+            {
+                "sku_id": "1306752744258011166",
+                "name": "The Anomaly",
+                "summary": "Beautiful. Impossible. Inevitable.",
+                "store_listing_id": "1306752744266268823",
+                "banner": "1303490165297123358",
+                "unpublished_at": null,
+                "styles": {
+                    "background_colors": [
+                        724282,
+                        18
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 1599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 1199,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "5": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 1599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "7": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 1199,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    }
+                },
+                "items": [
+                    {
+                        "type": 0,
+                        "id": "1306752744274792448",
+                        "sku_id": "1306752744258011166",
+                        "asset": "a_af5ee420e5f860ff2cdbb5fa4633f2cf",
+                        "label": "The mysterious Anomaly has taken over your avatar, its weblike surface stretching and wrapping around it endlessly."
+                    }
+                ],
+                "type": 0,
+                "premium_type": 0,
+                "category_sku_id": "1303490165284802580",
+                "google_sku_ids": {
+                    "5": "1306752744258011166_1307056209727066123"
+                }
+            },
+            {
+                "sku_id": "1306752744278982737",
+                "name": "The Mark",
+                "summary": "An act of desperation. This changes nothing.",
+                "store_listing_id": "1306752744287244378",
+                "banner": "1303490165297123358",
+                "unpublished_at": null,
+                "styles": {
+                    "background_colors": [
+                        724282,
+                        18
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 1599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 1199,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "5": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 1599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "7": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 1199,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    }
+                },
+                "items": [
+                    {
+                        "type": 0,
+                        "id": "1306752744295497789",
+                        "sku_id": "1306752744278982737",
+                        "asset": "a_04ae300464c572430e64a4b251e81de6",
+                        "label": "A circle of black rose petals bloom over the avatar, then smolder away in flames. The Black Rose sends their regards."
+                    }
+                ],
+                "type": 0,
+                "premium_type": 0,
+                "category_sku_id": "1303490165284802580",
+                "google_sku_ids": {
+                    "5": "1306752744278982737_1307053300881035295"
+                }
+            },
+            {
+                "sku_id": "1306752744299954306",
+                "name": "Arcane Epiphany",
+                "summary": "“What have we done…?”",
+                "store_listing_id": "1306752744308215808",
+                "banner": "1303490165297123358",
+                "unpublished_at": null,
+                "styles": {
+                    "background_colors": [
+                        724282,
+                        18
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 1599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 1199,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "5": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 1599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "7": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 1199,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    }
+                },
+                "items": [
+                    {
+                        "type": 1,
+                        "id": "1306752744312541315",
+                        "sku_id": "1306752744299954306"
+                    }
+                ],
+                "type": 1,
+                "premium_type": 0,
+                "category_sku_id": "1303490165284802580",
+                "google_sku_ids": {
+                    "5": "1306752744299954306_1307053440534315068"
+                }
+            },
             {
                 "sku_id": "1303490165045727317",
                 "name": "Arcane Jinx Bundle",
