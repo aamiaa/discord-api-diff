@@ -4693,5 +4693,149 @@
                 "randomizedSources": []
             }
         ]
+    },
+    {
+        "type": 1,
+        "id": "1306330663154225194",
+        "sku_id": "1306330663137443991",
+        "title": "Plushie Party",
+        "description": "If the party never ends... the plushie limit does not exist!!",
+        "accessibilityLabel": "A collection of cute and cozy animal plushies - bunny, bear, squid, puppy, cat, and more - are playfully tossed into the air for a fun plushy party.",
+        "animationType": 2,
+        "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-11-13/plushie-party/thumbnail.png",
+        "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-11-13/plushie-party/reduced_motion.png",
+        "effects": [
+            {
+                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-11-13/plushie-party/intro.png",
+                "loop": false,
+                "height": 880,
+                "width": 450,
+                "duration": 3750,
+                "start": 0,
+                "loopDelay": 0,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "zIndex": 100,
+                "randomizedSources": []
+            },
+            {
+                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-11-13/plushie-party/idle.png",
+                "loop": true,
+                "height": 880,
+                "width": 450,
+                "duration": 1958,
+                "start": 4200,
+                "loopDelay": 3000,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "zIndex": 101,
+                "randomizedSources": []
+            }
+        ]
+    },
+    {
+        "type": 1,
+        "id": "1306330663175196753",
+        "sku_id": "1306330663162609685",
+        "title": "Bubble Tea Bliss",
+        "description": "Straws in, pearls out.",
+        "accessibilityLabel": "Pink bubble tea floods in, with vibrant purple pearls swirling about. A straw appears from the heavens and starts drinking all the tasty goodiness down to the last pearl.",
+        "animationType": 2,
+        "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-11-13/bubble-tea-bliss/thumbnail.png",
+        "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-11-13/bubble-tea-bliss/reduced_motion.png",
+        "effects": [
+            {
+                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-11-13/bubble-tea-bliss/intro.png",
+                "loop": false,
+                "height": 880,
+                "width": 450,
+                "duration": 4500,
+                "start": 0,
+                "loopDelay": 0,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "zIndex": 100,
+                "randomizedSources": []
+            },
+            {
+                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-11-13/bubble-tea-bliss/idle.png",
+                "loop": true,
+                "height": 880,
+                "width": 450,
+                "duration": 2833,
+                "start": 5000,
+                "loopDelay": 4500,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "zIndex": 101,
+                "randomizedSources": []
+            }
+        ]
+    },
+    {
+        "type": 1,
+        "id": "1306330663200362527",
+        "sku_id": "1306330663183581247",
+        "title": "Kawaii Mode",
+        "description": "When :3 is your game face.",
+        "accessibilityLabel": "An assortment of gaming trinkets - a headset, controllers, hex lights, and adorably cozy plushies - appear, signaling must-have items every gaming enthusiast should have in their dream setup.",
+        "animationType": 2,
+        "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-11-13/kawaii-mode/thumbnail.png",
+        "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-11-13/kawaii-mode/reduced_motion.png",
+        "effects": [
+            {
+                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-11-13/kawaii-mode/intro.png",
+                "loop": true,
+                "height": 880,
+                "width": 450,
+                "duration": 4375,
+                "start": 0,
+                "loopDelay": 2000,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "zIndex": 100,
+                "randomizedSources": []
+            },
+            {
+                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-11-13/kawaii-mode/loop_mouseright.png",
+                "loop": true,
+                "height": 880,
+                "width": 450,
+                "duration": 4375,
+                "start": 0,
+                "loopDelay": 15125,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "zIndex": 101,
+                "randomizedSources": []
+            },
+            {
+                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-11-13/kawaii-mode/loop_mouseleft.png",
+                "loop": true,
+                "height": 880,
+                "width": 450,
+                "duration": 4375,
+                "start": 8750,
+                "loopDelay": 15125,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "zIndex": 102,
+                "randomizedSources": []
+            }
+        ]
     }
 ]
