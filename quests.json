@@ -833,5 +833,103 @@
         "user_status": null,
         "targeted_content": [],
         "preview": false
+    },
+    {
+        "id": "1308069810789285959",
+        "config": {
+            "id": "1308069810789285959",
+            "config_version": 2,
+            "starts_at": "2024-11-25T18:00:00+00:00",
+            "expires_at": "2024-12-09T00:59:59+00:00",
+            "features": [
+                16,
+                9,
+                3,
+                13
+            ],
+            "experiments": {
+                "rollout": "2024-11_quests_batman_arkham_quest",
+                "targeting": "2024-11_quests_batman_arkham_quest_targeting",
+                "preview": "2024-11_quests_batman_arkham_quest_preview"
+            },
+            "application": {
+                "link": "https://www.meta.com/quest/batman-arkham-shadow/#hardware?utm_source=%esid!&utm_medium=rv&utm_campaign=%ebuy!&utm_term=%epid!&utm_content=%ecid!&utm_funnel=dgen",
+                "id": "545364944258990091",
+                "name": "Batman: Arkham Shadow"
+            },
+            "assets": {
+                "hero": "hero.jpg",
+                "hero_video": null,
+                "quest_bar_hero": "questbar_hero.jpg",
+                "quest_bar_hero_video": "questbar_hero.webm",
+                "game_tile": "game_tile.jpg",
+                "logotype": "logotype.png"
+            },
+            "colors": {
+                "primary": "#643431",
+                "secondary": "#FF0000"
+            },
+            "messages": {
+                "quest_name": "Batman: Arkham Shadow",
+                "game_title": "Only on Meta Quest 3/3S",
+                "game_publisher": "Meta Quest"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "event_name": "WATCH_VIDEO",
+                        "target": 29,
+                        "external_ids": []
+                    }
+                }
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 3,
+                        "sku_id": "1309270800099971122",
+                        "asset": "reward3.mp4",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "Batarang Avatar Decoration",
+                            "name_with_article": "a Batarang Avatar Decoration",
+                            "redemption_instructions_by_platform": {
+                                "0": "This collectible can be redeemed on Discord! Go to your Gift Inventory to redeem and equip."
+                            }
+                        },
+                        "expires_at": "2025-02-08T08:00:00+00:00",
+                        "expires_at_premium": null,
+                        "expiration_mode": 1
+                    }
+                ],
+                "rewards_expire_at": "2025-01-08T00:59:59+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "video_metadata": {
+                "messages": {
+                    "video_title": "Batman: Arkham Shadow Accolades Trailer",
+                    "video_end_cta_title": "BECOME THE KNIGHT",
+                    "video_end_cta_subtitle": "Only on Meta Quest 3/3S"
+                },
+                "assets": {
+                    "video_player_video": "video_high_res_f3fd484233.mp4",
+                    "video_player_thumbnail": "video_thumbnail.jpg",
+                    "video_player_video_low_res": "video_low_res_4f9e8369b7.mp4",
+                    "video_player_caption": "caption.vtt",
+                    "video_player_transcript": "transcript.txt",
+                    "quest_bar_preview_video": "questbar_preview.webm",
+                    "quest_bar_preview_thumbnail": "questbar_preview.jpg",
+                    "quest_home_video": "questhome.webm"
+                }
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
     }
 ]
