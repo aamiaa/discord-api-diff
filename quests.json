@@ -931,5 +931,197 @@
         "user_status": null,
         "targeted_content": [],
         "preview": false
+    },
+    {
+        "id": "1308101969486811188",
+        "config": {
+            "id": "1308101969486811188",
+            "config_version": 2,
+            "starts_at": "2024-11-29T18:00:00+00:00",
+            "expires_at": "2024-12-12T23:59:59+00:00",
+            "features": [
+                16,
+                9,
+                3,
+                13
+            ],
+            "experiments": {
+                "rollout": "2024-11_quests_xbox_pcgamepass_quest",
+                "targeting": "2024-11_quests_xbox_pcgamepass_quest_targeting",
+                "preview": "2024-11_quests_xbox_pcgamepass_quest_preview"
+            },
+            "application": {
+                "link": "https://xbox.com/pcgamepass?utm_source=discord&utm_medium=quest_link",
+                "id": "545364944258990091",
+                "name": "PC Game Pass"
+            },
+            "assets": {
+                "hero": "hero.jpg",
+                "hero_video": null,
+                "quest_bar_hero": "questbar_hero.jpg",
+                "quest_bar_hero_video": "questbar_hero.webm",
+                "game_tile": "game_tile.png",
+                "logotype": "logotype.png"
+            },
+            "colors": {
+                "primary": "#65a153",
+                "secondary": "#141414"
+            },
+            "messages": {
+                "quest_name": "PC Player",
+                "game_title": "PC Game Pass",
+                "game_publisher": "Microsoft"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "event_name": "WATCH_VIDEO",
+                        "target": 61,
+                        "external_ids": []
+                    }
+                }
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 1,
+                        "sku_id": "1308109728072863865",
+                        "asset": "reward3.jpg",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "14 day trial",
+                            "name_with_article": "a 14 Day Trial",
+                            "redemption_instructions_by_platform": {
+                                "0": "1. To redeem your 14-day PC Game Pass trial code visit [microsoft.com/redeem](https://microsoft.com/redeem) by December 30, 2024 11:59 PM\n\n2. Valid payment method required. Subscription continues automatically at then-current regular membership rate unless cancelled through your Microsoft Account. Limit: 1 per person/account. Subject to the Microsoft Services Agreement, Game Pass terms and system requirements at: [xbox.com/subscriptionterms](https://xbox.com/subscriptionterms).\n\nAvailable in US, CA, MX, BR, UK, FR, DE, AU, JP, KR."
+                            }
+                        },
+                        "approximate_count": null
+                    }
+                ],
+                "rewards_expire_at": "2025-01-01T07:59:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "video_metadata": {
+                "messages": {
+                    "video_title": "We Got You Video"
+                },
+                "assets": {
+                    "video_player_video": "video_high_res.mp4",
+                    "video_player_thumbnail": "video_thumbnail.jpg",
+                    "video_player_video_low_res": "video_low_res.mp4",
+                    "video_player_caption": "caption.vtt",
+                    "video_player_transcript": "transcript.txt",
+                    "quest_bar_preview_video": "questbar_preview.webm",
+                    "quest_bar_preview_thumbnail": "questbar_preview.jpg",
+                    "quest_home_video": "questhome.webm"
+                }
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
+    },
+    {
+        "id": "1308169595055771748",
+        "config": {
+            "id": "1308169595055771748",
+            "config_version": 2,
+            "starts_at": "2024-11-29T18:00:00+00:00",
+            "expires_at": "2024-12-06T00:59:59+00:00",
+            "features": [
+                9,
+                3,
+                12,
+                14
+            ],
+            "experiments": {
+                "rollout": "2024-11_quests_fortnite_quest",
+                "targeting": "2024-11_quests_fortnite_quest_targeting",
+                "preview": "2024-11_quests_fortnite_quest_preview"
+            },
+            "application": {
+                "link": "https://www.fortnite.com",
+                "id": "432980957394370572",
+                "name": "Fortnite"
+            },
+            "assets": {
+                "hero": "hero.jpg",
+                "hero_video": null,
+                "quest_bar_hero": "quest_bar_hero_square.jpg",
+                "quest_bar_hero_video": null,
+                "game_tile": "fortnite_tile_with_background.jpg",
+                "logotype": "fortnite_logotype.png"
+            },
+            "colors": {
+                "primary": "#753BBD",
+                "secondary": "#C98BDB"
+            },
+            "messages": {
+                "quest_name": "Fortnite",
+                "game_title": "Fortnite",
+                "game_publisher": "Epic Games"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "event_name": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "external_ids": []
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "event_name": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "external_ids": [
+                            "CUSA07669_00",
+                            "PPSA01922_00",
+                            "CUSA07022_00",
+                            "PPSA01923_00"
+                        ]
+                    },
+                    "PLAY_ON_XBOX": {
+                        "event_name": "PLAY_ON_XBOX",
+                        "target": 900,
+                        "external_ids": [
+                            "267695549"
+                        ]
+                    }
+                }
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 3,
+                        "sku_id": "1308169595055771749",
+                        "asset": "reward_tile.mp4",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "Rift Butterfly Avatar Decoration",
+                            "name_with_article": "a Rift Butterfly Avatar Decoration",
+                            "redemption_instructions_by_platform": {
+                                "0": "This collectible can be redeemed on Discord! Go to your Gift Inventory to redeem and equip."
+                            }
+                        },
+                        "expires_at": "2025-02-05T08:00:00+00:00",
+                        "expires_at_premium": null,
+                        "expiration_mode": 1
+                    }
+                ],
+                "rewards_expire_at": "2025-01-05T00:59:59+00:00",
+                "platforms": [
+                    0
+                ]
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
     }
 ]
