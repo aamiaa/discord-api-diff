@@ -1205,5 +1205,80 @@
         "user_status": null,
         "targeted_content": [],
         "preview": false
+    },
+    {
+        "id": "1309334608533258240",
+        "config": {
+            "id": "1309334608533258240",
+            "config_version": 2,
+            "starts_at": "2024-12-03T18:00:00+00:00",
+            "expires_at": "2024-12-09T23:59:59+00:00",
+            "features": [
+                9,
+                3
+            ],
+            "experiments": {
+                "rollout": "2024-11_discord_activities_quest",
+                "targeting": "2024-11_discord_activities_quest_targeting",
+                "preview": "2024-11_discord_activities_quest_preview"
+            },
+            "application": {
+                "link": "https://discord.com/blog/discover-more-ways-to-play-with-apps-now-anywhere-on-discord",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "hero.jpg",
+                "hero_video": null,
+                "quest_bar_hero": "quest_bar_hero.jpg",
+                "quest_bar_hero_video": null,
+                "game_tile": "game_tile.png",
+                "logotype": "game_logotype.png"
+            },
+            "colors": {
+                "primary": "#B377F3",
+                "secondary": "#5865F2"
+            },
+            "messages": {
+                "quest_name": "Discord Activities",
+                "game_title": "any Activity",
+                "game_publisher": "Discord"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "and",
+                "tasks": {
+                    "PLAY_ACTIVITY": {
+                        "event_name": "PLAY_ACTIVITY",
+                        "target": 900,
+                        "external_ids": []
+                    }
+                }
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 5,
+                        "sku_id": "1298745361602449479",
+                        "asset": "reward.png",
+                        "messages": {
+                            "name": "1 day of Nitro",
+                            "name_with_article": "1 day of Nitro",
+                            "redemption_instructions_by_platform": {
+                                "0": "Congrats! You earned 1 hour of Nitro."
+                            }
+                        }
+                    }
+                ],
+                "rewards_expire_at": "2025-01-08T23:59:59+00:00",
+                "platforms": [
+                    0
+                ]
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
     }
 ]
