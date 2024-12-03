@@ -1123,5 +1123,87 @@
         "user_status": null,
         "targeted_content": [],
         "preview": false
+    },
+    {
+        "id": "1309303538047909898",
+        "config": {
+            "id": "1309303538047909898",
+            "config_version": 2,
+            "starts_at": "2024-12-02T16:00:00+00:00",
+            "expires_at": "2024-12-10T00:59:59+00:00",
+            "features": [
+                9,
+                3
+            ],
+            "experiments": {
+                "rollout": "2024-12_quests_wow_mtn_dew_12_02_2024_quest",
+                "targeting": "2024-12_quests_wow_mtn_dew_12_02_2024_quest_targeting",
+                "preview": "2024-12_quests_wow_mtn_dew_12_02_2024_quest_preview"
+            },
+            "application": {
+                "link": "https://worldofwarcraft.blizzard.com/en-us/",
+                "id": "356875762940379136",
+                "name": "World of Warcraft"
+            },
+            "assets": {
+                "hero": "hero.jpg",
+                "hero_video": null,
+                "quest_bar_hero": "quest_bar_hero.jpg",
+                "quest_bar_hero_video": null,
+                "game_tile": "game_tile.png",
+                "logotype": "game_logotype_v2.png"
+            },
+            "colors": {
+                "primary": "#8D88BD",
+                "secondary": "#643D86"
+            },
+            "messages": {
+                "quest_name": "WoW x Mtn Dew",
+                "game_title": "World of Warcraft: War Within",
+                "game_publisher": "Blizzard Entertainment"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "STREAM_ON_DESKTOP": {
+                        "event_name": "STREAM_ON_DESKTOP",
+                        "target": 900,
+                        "external_ids": []
+                    }
+                }
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 1,
+                        "sku_id": "1309303538047909899",
+                        "asset": "reward_tile.jpg",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "Crown of the Violet Rose",
+                            "name_with_article": "the Crown of the Violet Rose",
+                            "redemption_instructions_by_platform": {
+                                "0": "To claim a code on the Battle.net Desktop App:\n\n\nLogin to the Battle.net Desktop App\n\nClick your profile icon at the top right corner of the App\n\nClick Redeem Code\n\nOr claim your code using the Battle.net Mobile App.\n"
+                            }
+                        },
+                        "approximate_count": null
+                    }
+                ],
+                "rewards_expire_at": "2025-01-09T00:59:59+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "cosponsor_metadata": {
+                "name": "Mountain Dew",
+                "redemption_instructions": "For more WoW and other rewards, grab a specially marked package of Mtn Dew, enter the code from the pack at [www.mtndewgaming.com](https://www.mtndewgaming.com/?utm_source=Discord&utm_medium=Discord&utm_campaign=Stream+Quest), and check out the massive marketplace of gaming rewards.",
+                "logotype": "cosponsor_logotype_v2.png"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
     }
 ]
