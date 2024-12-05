@@ -30568,12 +30568,11 @@
         "logo": "1309668861951479888",
         "hero_ranking": [
             "1309668861548957738",
+            "1309668861578186803",
             "1309668861674786877",
             "1309668861704146984",
             "1309668861645426729",
-            "1309668861599285249",
-            "1309668861817393263",
-            "1309668861620260874"
+            "1309668861599285249"
         ],
         "mobile_bg": "1309668861989359757",
         "pdp_bg": "1309668861980839999",
@@ -30889,6 +30888,63 @@
                         "name": "Playful Lofi Cat",
                         "summary": "Goofy, fluffy, chunky...",
                         "type": 0,
+                        "premium_type": 0,
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 999,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 799,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            },
+                            "5": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 999,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            },
+                            "7": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 799,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "sku_id": "1309668861901279422",
+                        "name": "Lofi Cat Zoomies",
+                        "summary": "Let the zoomies begin!",
+                        "type": 1,
                         "premium_type": 0,
                         "prices": {
                             "0": {
@@ -31700,6 +31756,97 @@
                 }
             },
             {
+                "sku_id": "1309668861788033074",
+                "name": "Cozy Post-It",
+                "summary": "Light up your day.",
+                "store_listing_id": "1309668861800349767",
+                "banner": "1309668861964193803",
+                "unpublished_at": null,
+                "styles": {
+                    "background_colors": [
+                        2431770,
+                        6761267
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 999,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 799,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "5": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 999,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "7": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 799,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    }
+                },
+                "items": [
+                    {
+                        "type": 0,
+                        "id": "1309668861808869447",
+                        "sku_id": "1309668861788033074",
+                        "asset": "a_e671277ab6d18c0de00871347eed94a7",
+                        "label": "Decorative warm white stringlights and a collection of post-it notes and cute stickers of Mochi and Lofi Girl's orange cat frame your avatar for a studious, cute and cozy look."
+                    }
+                ],
+                "type": 0,
+                "premium_type": 0,
+                "category_sku_id": "1309668861943218229",
+                "google_sku_ids": {
+                    "5": "1309668861788033074_1313330074551848981",
+                    "7": "1309668861788033074_1313330088040992789"
+                }
+            },
+            {
                 "sku_id": "1309668861817393263",
                 "name": "Lofi Girl Snow Angel",
                 "summary": "Childhood memories...",
@@ -31964,6 +32111,95 @@
                 "google_sku_ids": {
                     "5": "1309668861871919316_1313329571533164624",
                     "7": "1309668861871919316_1313329584548220988"
+                }
+            },
+            {
+                "sku_id": "1309668861901279422",
+                "name": "Lofi Cat Zoomies",
+                "summary": "Let the zoomies begin!",
+                "store_listing_id": "1309668861909663925",
+                "banner": "1309668861964193803",
+                "unpublished_at": null,
+                "styles": {
+                    "background_colors": [
+                        2431770,
+                        6761267
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 999,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 799,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "5": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 999,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "7": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 799,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    }
+                },
+                "items": [
+                    {
+                        "type": 1,
+                        "id": "1309668861922119762",
+                        "sku_id": "1309668861901279422"
+                    }
+                ],
+                "type": 1,
+                "premium_type": 0,
+                "category_sku_id": "1309668861943218229",
+                "google_sku_ids": {
+                    "5": "1309668861901279422_1313329311918325800",
+                    "7": "1309668861901279422_1313329325361336370"
                 }
             }
         ]
