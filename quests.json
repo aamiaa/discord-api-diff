@@ -1280,5 +1280,292 @@
         "user_status": null,
         "targeted_content": [],
         "preview": false
+    },
+    {
+        "id": "1308841639711866930",
+        "config": {
+            "id": "1308841639711866930",
+            "config_version": 2,
+            "starts_at": "2024-12-06T18:00:00+00:00",
+            "expires_at": "2024-12-13T18:00:00+00:00",
+            "features": [
+                9,
+                3,
+                13
+            ],
+            "experiments": {
+                "rollout": "2024-11_quests_descendant_12_6_quest",
+                "targeting": "2024-11_quests_descendant_12_6_quest_targeting",
+                "preview": "2024-11_quests_descendant_12_6_quest_preview"
+            },
+            "application": {
+                "link": "https://tfd-abr.na.nexon.com/n1phxp",
+                "id": "545364944258990091",
+                "name": "The First Descendant"
+            },
+            "assets": {
+                "hero": "hero.png",
+                "hero_video": null,
+                "quest_bar_hero": "questbar_hero.jpg",
+                "quest_bar_hero_video": "questbar_hero.webm",
+                "game_tile": "game_tile.png",
+                "logotype": "logotype.png"
+            },
+            "colors": {
+                "primary": "#4755c5",
+                "secondary": "#5865F2"
+            },
+            "messages": {
+                "quest_name": "THE FIRST DESCENDANT",
+                "game_title": "Season 2: Void Chaser Official Trailer",
+                "game_publisher": "Nexon Korea"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "event_name": "WATCH_VIDEO",
+                        "target": 117,
+                        "external_ids": []
+                    }
+                }
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 1,
+                        "sku_id": "1308841639711866931",
+                        "asset": "reward.png",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "Discord Collection Bundle",
+                            "name_with_article": "a Discord Collection Bundle",
+                            "redemption_instructions_by_platform": {
+                                "4": "**1. How to redeem in-game:**\n\n**[PC]**\n Start The First Descendant > Press [Esc] > [Options] > [Account] > [Enter] in the Enter Coupon option.\n Enter the coupon code and press [Confirm].\n Press [G] > [Albion] and access the mailbox to receive the item.\n\n**[Consoles]**\n Start The First Descendant > Press [Options] > [Account] > [Enter] in the Enter Coupon option. Enter the coupon code and press [Confirm]. Access the mailbox in Albion to receive the item.\n\n**2. How to redeem on the Coupons page:**\n\n**[PC & Consoles]**\n Enter The First Descendant’s Coupon page https://mcoupon.nexon.com/tfd.\n Enter your member code and coupon number to redeem the item.\n The member code can be copied from the Game Menu > Options > Account > Member Code.\n\n Rewards will be available until *December 31st at 23:59 (PT)*."
+                            }
+                        },
+                        "approximate_count": null
+                    }
+                ],
+                "rewards_expire_at": "2024-12-31T23:59:00+00:00",
+                "platforms": [
+                    4
+                ]
+            },
+            "video_metadata": {
+                "messages": {
+                    "video_title": "First Descendant Trailer",
+                    "video_end_cta_title": "PLAY FREE NOW",
+                    "video_end_cta_subtitle": "Available on PC and consoles"
+                },
+                "assets": {
+                    "video_player_video": "video_high_res3.mp4",
+                    "video_player_thumbnail": "video_thumbnail.jpg",
+                    "video_player_video_low_res": "video_low_res3.mp4",
+                    "video_player_caption": "caption3.vtt",
+                    "video_player_transcript": "transcript3.txt",
+                    "quest_bar_preview_video": "questbar_preview.webm",
+                    "quest_bar_preview_thumbnail": "questbar_preview.jpg",
+                    "quest_home_video": "questhome.webm"
+                }
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
+    },
+    {
+        "id": "1313630141968023582",
+        "config": {
+            "id": "1313630141968023582",
+            "config_version": 2,
+            "starts_at": "2024-12-06T18:00:00+00:00",
+            "expires_at": "2024-12-21T00:59:59+00:00",
+            "features": [
+                9,
+                3,
+                14
+            ],
+            "experiments": {
+                "rollout": "2024-12_quests_minecraft_quest_12_06_2024",
+                "targeting": "2024-12_quests_minecraft_quest_12_06_2024_targeting",
+                "preview": "2024-12_quests_minecraft_quest_12_06_2024_preview"
+            },
+            "application": {
+                "link": "https://www.minecraft.net/en-us",
+                "id": "356875570916753438",
+                "name": "Minecraft"
+            },
+            "assets": {
+                "hero": "hero.jpg",
+                "hero_video": null,
+                "quest_bar_hero": "quest_bar_hero.jpg",
+                "quest_bar_hero_video": null,
+                "game_tile": "game_tile.png",
+                "logotype": "game_logotype.png"
+            },
+            "colors": {
+                "primary": "#B4BFB1",
+                "secondary": "#4466BB"
+            },
+            "messages": {
+                "quest_name": "Minecraft Holiday",
+                "game_title": "Minecraft",
+                "game_publisher": "Minecraft"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "event_name": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "external_ids": []
+                    },
+                    "PLAY_ON_XBOX": {
+                        "event_name": "PLAY_ON_XBOX",
+                        "target": 900,
+                        "external_ids": [
+                            "1828326430"
+                        ]
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "event_name": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "external_ids": [
+                            "CUSA00265_00",
+                            "CUSA00744_00",
+                            "PPSA17221_00",
+                            "CUSA00283_00"
+                        ]
+                    }
+                }
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 1,
+                        "sku_id": "1313630141968023583",
+                        "asset": "reward_tile.jpg",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "Skull Cloak",
+                            "name_with_article": "the Skull Cloak",
+                            "redemption_instructions_by_platform": {
+                                "0": "1. To redeem your Minecraft Holiday Quest gift code, visit Minecraft’s code redemption website ([www.minecraft.net/en-us/redeem](https://www.minecraft.net/en-us/redeem)) and log in to your account.\n\n2. While there, scroll to find the module and paste your gift code to obtain your Minecraft Skull Cloak.\n\n3. Requires Minecraft: Bedrock Edition; redeem by January 20, 2025."
+                            }
+                        },
+                        "approximate_count": 1000000
+                    }
+                ],
+                "rewards_expire_at": "2025-01-20T00:59:59+00:00",
+                "platforms": [
+                    0
+                ]
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
+    },
+    {
+        "id": "1313309630851448832",
+        "config": {
+            "id": "1313309630851448832",
+            "config_version": 2,
+            "starts_at": "2024-12-06T18:00:00+00:00",
+            "expires_at": "2024-12-11T00:59:59+00:00",
+            "features": [
+                9,
+                3,
+                12
+            ],
+            "experiments": {
+                "rollout": "2024-12_quests_fortnite_og_quest",
+                "targeting": "2024-12_quests_fortnite_og_quest_targeting",
+                "preview": "2024-12_quests_fortnite_og_quest_preview"
+            },
+            "application": {
+                "link": "https://www.fortnite.com",
+                "id": "432980957394370572",
+                "name": "Fortnite"
+            },
+            "assets": {
+                "hero": "hero.jpg",
+                "hero_video": null,
+                "quest_bar_hero": "quest_bar_hero.jpg",
+                "quest_bar_hero_video": null,
+                "game_tile": "game_tile.jpg",
+                "logotype": "logotype.png"
+            },
+            "colors": {
+                "primary": "#009639",
+                "secondary": "#292B2F"
+            },
+            "messages": {
+                "quest_name": "Fortnite OG",
+                "game_title": "Fortnite OG",
+                "game_publisher": "Epic Games"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "event_name": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "external_ids": []
+                    },
+                    "PLAY_ON_XBOX": {
+                        "event_name": "PLAY_ON_XBOX",
+                        "target": 900,
+                        "external_ids": [
+                            "267695549"
+                        ]
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "event_name": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "external_ids": [
+                            "CUSA07669_00",
+                            "CUSA07022_00",
+                            "PPSA01922_00",
+                            "PPSA01923_00"
+                        ]
+                    }
+                }
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 3,
+                        "sku_id": "1313309630851448833",
+                        "asset": "reward_tile_2.mp4",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "Bush Camper Avatar Decoration",
+                            "name_with_article": "a Bush Camper Avatar Decoration",
+                            "redemption_instructions_by_platform": {
+                                "0": "This collectible can be redeemed on Discord! Go to your Gift Inventory to redeem and equip."
+                            }
+                        },
+                        "expires_at": "2025-02-11T08:00:00+00:00",
+                        "expires_at_premium": null,
+                        "expiration_mode": 1
+                    }
+                ],
+                "rewards_expire_at": "2025-01-10T00:59:59+00:00",
+                "platforms": [
+                    0
+                ]
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
     }
 ]
