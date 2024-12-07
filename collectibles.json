@@ -29123,7 +29123,7 @@
         "success_modal_bg": "1306330663263404102",
         "mobile_banner": "1313681337064095825",
         "featured_block": "1306330663271665694",
-        "hero_banner": "1306330663280050186",
+        "hero_banner": null,
         "hero_logo": "1306330663284375663",
         "products": [
             {
@@ -30570,7 +30570,7 @@
             "1309668861548957738",
             "1309668861578186803",
             "1309668861674786877",
-            "1309668861704146984",
+            "1309668861758672997",
             "1309668861645426729",
             "1309668861599285249"
         ],
@@ -31653,7 +31653,7 @@
                         "id": "1313683136986484747",
                         "sku_id": "1309668861729312898",
                         "asset": "a_8ad98d25ee4e4512704f759476eeb294",
-                        "label": "Mochi, Froggy, and Birdie - Lofi Girl's friendly plushie study companions - hang out excitedly around your avatar while giving big bugs."
+                        "label": "Mochi, Froggy, and Birdie - Lofi Girl's friendly plushie study companions - hang out excitedly around your avatar while giving big hugs."
                     }
                 ],
                 "type": 0,
@@ -31662,97 +31662,6 @@
                 "google_sku_ids": {
                     "5": "1309668861729312898_1313329960999719014",
                     "7": "1309668861729312898_1313329983120478208"
-                }
-            },
-            {
-                "sku_id": "1309668861758672997",
-                "name": "Cozy Post-It (Festive)",
-                "summary": "Light up your day.",
-                "store_listing_id": "1309668861771251722",
-                "banner": "1309668861964193803",
-                "unpublished_at": null,
-                "styles": {
-                    "background_colors": [
-                        2431770,
-                        6761267
-                    ],
-                    "button_colors": [
-                        5793266,
-                        5793266
-                    ],
-                    "confetti_colors": [
-                        43772,
-                        15774258,
-                        16414587,
-                        3000177,
-                        9739511
-                    ]
-                },
-                "prices": {
-                    "0": {
-                        "country_prices": {
-                            "country_code": "US",
-                            "prices": [
-                                {
-                                    "amount": 999,
-                                    "currency": "usd",
-                                    "exponent": 2
-                                }
-                            ]
-                        }
-                    },
-                    "4": {
-                        "country_prices": {
-                            "country_code": "US",
-                            "prices": [
-                                {
-                                    "amount": 799,
-                                    "currency": "usd",
-                                    "exponent": 2
-                                }
-                            ]
-                        }
-                    },
-                    "5": {
-                        "country_prices": {
-                            "country_code": "US",
-                            "prices": [
-                                {
-                                    "amount": 999,
-                                    "currency": "usd",
-                                    "exponent": 2
-                                }
-                            ]
-                        }
-                    },
-                    "7": {
-                        "country_prices": {
-                            "country_code": "US",
-                            "prices": [
-                                {
-                                    "amount": 799,
-                                    "currency": "usd",
-                                    "exponent": 2
-                                }
-                            ]
-                        }
-                    }
-                },
-                "items": [
-                    {
-                        "type": 0,
-                        "id": "1309668861779513414",
-                        "sku_id": "1309668861758672997",
-                        "asset": "a_eeedc607577a90be18c61e27dbe0008e",
-                        "label": "Decorative stringlights in greens and yellows and a collection of post-it notes and cute stickers of Mochi and Lofi Girl's orange cat frame your avatar for a studious, cute and cozy look."
-                    }
-                ],
-                "type": 0,
-                "premium_type": 0,
-                "category_sku_id": "1309668861943218229",
-                "google_sku_ids": {
-                    "5": "1309668861758672997_1313331853981122672",
-                    "7": "1309668861758672997_1313331880078217247"
                 }
             },
             {
@@ -31844,6 +31753,97 @@
                 "google_sku_ids": {
                     "5": "1309668861788033074_1313330074551848981",
                     "7": "1309668861788033074_1313330088040992789"
+                }
+            },
+            {
+                "sku_id": "1309668861758672997",
+                "name": "Cozy Post-It (Festive)",
+                "summary": "Light up your day.",
+                "store_listing_id": "1309668861771251722",
+                "banner": "1309668861964193803",
+                "unpublished_at": null,
+                "styles": {
+                    "background_colors": [
+                        2431770,
+                        6761267
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 999,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 799,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "5": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 999,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "7": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 799,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    }
+                },
+                "items": [
+                    {
+                        "type": 0,
+                        "id": "1309668861779513414",
+                        "sku_id": "1309668861758672997",
+                        "asset": "a_eeedc607577a90be18c61e27dbe0008e",
+                        "label": "Decorative stringlights in greens and yellows and a collection of post-it notes and cute stickers of Mochi and Lofi Girl's orange cat frame your avatar for a studious, cute and cozy look."
+                    }
+                ],
+                "type": 0,
+                "premium_type": 0,
+                "category_sku_id": "1309668861943218229",
+                "google_sku_ids": {
+                    "5": "1309668861758672997_1313331853981122672",
+                    "7": "1309668861758672997_1313331880078217247"
                 }
             },
             {
@@ -32025,95 +32025,6 @@
                 }
             },
             {
-                "sku_id": "1309668861871919316",
-                "name": "Lofi Cat Zoomies (Festive)",
-                "summary": "Let the zoomies begin!",
-                "store_listing_id": "1309668861884497930",
-                "banner": "1309668861964193803",
-                "unpublished_at": null,
-                "styles": {
-                    "background_colors": [
-                        2431770,
-                        6761267
-                    ],
-                    "button_colors": [
-                        5793266,
-                        5793266
-                    ],
-                    "confetti_colors": [
-                        43772,
-                        15774258,
-                        16414587,
-                        3000177,
-                        9739511
-                    ]
-                },
-                "prices": {
-                    "0": {
-                        "country_prices": {
-                            "country_code": "US",
-                            "prices": [
-                                {
-                                    "amount": 999,
-                                    "currency": "usd",
-                                    "exponent": 2
-                                }
-                            ]
-                        }
-                    },
-                    "4": {
-                        "country_prices": {
-                            "country_code": "US",
-                            "prices": [
-                                {
-                                    "amount": 799,
-                                    "currency": "usd",
-                                    "exponent": 2
-                                }
-                            ]
-                        }
-                    },
-                    "5": {
-                        "country_prices": {
-                            "country_code": "US",
-                            "prices": [
-                                {
-                                    "amount": 999,
-                                    "currency": "usd",
-                                    "exponent": 2
-                                }
-                            ]
-                        }
-                    },
-                    "7": {
-                        "country_prices": {
-                            "country_code": "US",
-                            "prices": [
-                                {
-                                    "amount": 799,
-                                    "currency": "usd",
-                                    "exponent": 2
-                                }
-                            ]
-                        }
-                    }
-                },
-                "items": [
-                    {
-                        "type": 1,
-                        "id": "1309668861892759642",
-                        "sku_id": "1309668861871919316"
-                    }
-                ],
-                "type": 1,
-                "premium_type": 0,
-                "category_sku_id": "1309668861943218229",
-                "google_sku_ids": {
-                    "5": "1309668861871919316_1313329571533164624",
-                    "7": "1309668861871919316_1313329584548220988"
-                }
-            },
-            {
                 "sku_id": "1309668861901279422",
                 "name": "Lofi Cat Zoomies",
                 "summary": "Let the zoomies begin!",
@@ -32200,6 +32111,95 @@
                 "google_sku_ids": {
                     "5": "1309668861901279422_1313329311918325800",
                     "7": "1309668861901279422_1313329325361336370"
+                }
+            },
+            {
+                "sku_id": "1309668861871919316",
+                "name": "Lofi Cat Zoomies (Festive)",
+                "summary": "Let the zoomies begin!",
+                "store_listing_id": "1309668861884497930",
+                "banner": "1309668861964193803",
+                "unpublished_at": null,
+                "styles": {
+                    "background_colors": [
+                        2431770,
+                        6761267
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 999,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 799,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "5": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 999,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "7": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 799,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    }
+                },
+                "items": [
+                    {
+                        "type": 1,
+                        "id": "1309668861892759642",
+                        "sku_id": "1309668861871919316"
+                    }
+                ],
+                "type": 1,
+                "premium_type": 0,
+                "category_sku_id": "1309668861943218229",
+                "google_sku_ids": {
+                    "5": "1309668861871919316_1313329571533164624",
+                    "7": "1309668861871919316_1313329584548220988"
                 }
             }
         ]
