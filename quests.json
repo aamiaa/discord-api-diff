@@ -1481,7 +1481,8 @@
             "features": [
                 9,
                 3,
-                12
+                12,
+                14
             ],
             "experiments": {
                 "rollout": "2024-12_quests_fortnite_og_quest",
@@ -1530,10 +1531,10 @@
                         "event_name": "PLAY_ON_PLAYSTATION",
                         "target": 900,
                         "external_ids": [
-                            "CUSA07669_00",
                             "CUSA07022_00",
                             "PPSA01922_00",
-                            "PPSA01923_00"
+                            "PPSA01923_00",
+                            "CUSA07669_00"
                         ]
                     }
                 }
