@@ -1386,6 +1386,7 @@
             "features": [
                 9,
                 3,
+                12,
                 14
             ],
             "experiments": {
@@ -1436,9 +1437,9 @@
                         "target": 900,
                         "external_ids": [
                             "CUSA00265_00",
-                            "CUSA00744_00",
                             "PPSA17221_00",
-                            "CUSA00283_00"
+                            "CUSA00283_00",
+                            "CUSA00744_00"
                         ]
                     }
                 }
@@ -1563,6 +1564,104 @@
                 "platforms": [
                     0
                 ]
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
+    },
+    {
+        "id": "1313513117296099378",
+        "config": {
+            "id": "1313513117296099378",
+            "config_version": 2,
+            "starts_at": "2024-12-11T18:00:00+00:00",
+            "expires_at": "2024-12-14T23:59:59+00:00",
+            "features": [
+                16,
+                9,
+                3,
+                13
+            ],
+            "experiments": {
+                "rollout": "2024-12_quests_game_awards_quest",
+                "targeting": "2024-12_quests_game_awards_quest_targeting",
+                "preview": "2024-12_quests_game_awards_quest_preview"
+            },
+            "application": {
+                "link": "https://bit.ly/tga2024discord",
+                "id": "545364944258990091",
+                "name": "The Game Awards"
+            },
+            "assets": {
+                "hero": "hero.jpg",
+                "hero_video": null,
+                "quest_bar_hero": "questbar_hero.jpg",
+                "quest_bar_hero_video": "questbar_hero.webm",
+                "game_tile": "game_tile.png",
+                "logotype": "logotype.png"
+            },
+            "colors": {
+                "primary": "#bb4634",
+                "secondary": "#455A89"
+            },
+            "messages": {
+                "quest_name": "The Game Awards",
+                "game_title": "The Game Awards",
+                "game_publisher": "The Game Awards"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "event_name": "WATCH_VIDEO",
+                        "target": 29,
+                        "external_ids": []
+                    }
+                }
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 3,
+                        "sku_id": "1315853682235019326",
+                        "asset": "reward2.mp4",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "TGA Controller Avatar Decoration",
+                            "name_with_article": "a TGA Controller Avatar Decoration",
+                            "redemption_instructions_by_platform": {
+                                "0": "This collectible can be redeemed on Discord! Go to your Gift Inventory to redeem and equip."
+                            }
+                        },
+                        "expires_at": "2025-02-14T08:00:00+00:00",
+                        "expires_at_premium": null,
+                        "expiration_mode": 1
+                    }
+                ],
+                "rewards_expire_at": "2025-01-13T23:59:59+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "video_metadata": {
+                "messages": {
+                    "video_title": "Game Awards 2024 Trailer",
+                    "video_end_cta_title": "Watch Now",
+                    "video_end_cta_subtitle": "Streaming Live 12/12"
+                },
+                "assets": {
+                    "video_player_video": "video_high_res.mp4",
+                    "video_player_thumbnail": "video_thumbnail.jpg",
+                    "video_player_video_low_res": "video_low_res.mp4",
+                    "video_player_caption": "caption2.vtt",
+                    "video_player_transcript": "transcript.txt",
+                    "quest_bar_preview_video": "questbar_preview.webm",
+                    "quest_bar_preview_thumbnail": "questbar_preview.jpg",
+                    "quest_home_video": "questhome.webm"
+                }
             }
         },
         "user_status": null,
