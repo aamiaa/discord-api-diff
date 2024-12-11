@@ -1667,5 +1667,181 @@
         "user_status": null,
         "targeted_content": [],
         "preview": false
+    },
+    {
+        "id": "1315748881199267850",
+        "config": {
+            "id": "1315748881199267850",
+            "config_version": 2,
+            "starts_at": "2024-12-11T18:00:00+00:00",
+            "expires_at": "2024-12-18T00:59:59+00:00",
+            "features": [
+                9,
+                3,
+                14
+            ],
+            "experiments": {
+                "rollout": "2024-12_quests_delta_force_quest",
+                "targeting": "2024-12_quests_delta_force_quest_targeting",
+                "preview": "2024-12_quests_delta_force_quest_preview"
+            },
+            "application": {
+                "link": "https://store.steampowered.com/app/2507950?utm_source=discordquest",
+                "id": "1314682894106497096",
+                "name": "Delta Force"
+            },
+            "assets": {
+                "hero": "hero.png",
+                "hero_video": null,
+                "quest_bar_hero": "quest_bar_hero.jpg",
+                "quest_bar_hero_video": null,
+                "game_tile": "game_tile.png",
+                "logotype": "logotype.png"
+            },
+            "colors": {
+                "primary": "#0CA766",
+                "secondary": "#1A1A1A"
+            },
+            "messages": {
+                "quest_name": "Delta Force",
+                "game_title": "Delta Force",
+                "game_publisher": "TiMi Studio Group"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "event_name": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "external_ids": []
+                    }
+                }
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 1,
+                        "sku_id": "1315762399294394428",
+                        "asset": "reward.png",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "P90 - Pioneer Blue",
+                            "name_with_article": "a P90 - Pioneer Blue",
+                            "redemption_instructions_by_platform": {
+                                "0": "Redeem the code below on [Delta Force Official Website](https://www.playdeltaforce.com/en/cdkredeem.html) redemption page to get access to your reward."
+                            }
+                        },
+                        "approximate_count": null
+                    }
+                ],
+                "rewards_expire_at": "2025-01-17T00:59:59+00:00",
+                "platforms": [
+                    0
+                ]
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
+    },
+    {
+        "id": "1315750531330736210",
+        "config": {
+            "id": "1315750531330736210",
+            "config_version": 2,
+            "starts_at": "2024-12-11T18:00:00+00:00",
+            "expires_at": "2024-12-16T00:59:59+00:00",
+            "features": [
+                9,
+                3,
+                12,
+                14
+            ],
+            "experiments": {
+                "rollout": "2024-12_quests_fortnite_ballistic_quest_12_11_2024",
+                "targeting": "2024-12_quests_fortnite_ballistic_quest_12_11_2024_targeting",
+                "preview": "2024-12_quests_fortnite_ballistic_quest_12_11_2024_preview"
+            },
+            "application": {
+                "link": "https://www.fortnite.com",
+                "id": "432980957394370572",
+                "name": "Fortnite"
+            },
+            "assets": {
+                "hero": "hero.jpg",
+                "hero_video": null,
+                "quest_bar_hero": "quest_bar_hero.jpg",
+                "quest_bar_hero_video": null,
+                "game_tile": "game_tile.png",
+                "logotype": "game_logotype.png"
+            },
+            "colors": {
+                "primary": "#0e0e0f",
+                "secondary": "#fb0000"
+            },
+            "messages": {
+                "quest_name": "Fortnite Ballistic",
+                "game_title": "Fortnite Ballistic",
+                "game_publisher": "Epic Games"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "event_name": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "external_ids": []
+                    },
+                    "PLAY_ON_XBOX": {
+                        "event_name": "PLAY_ON_XBOX",
+                        "target": 900,
+                        "external_ids": [
+                            "267695549"
+                        ]
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "event_name": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "external_ids": [
+                            "PPSA01923_00",
+                            "CUSA07669_00",
+                            "CUSA07022_00",
+                            "PPSA01922_00"
+                        ]
+                    }
+                }
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 3,
+                        "sku_id": "1315750531330736211",
+                        "asset": "reward_tile.mp4",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "Shield Potion Avatar Decoration",
+                            "name_with_article": "a Shield Potion Avatar Decoration",
+                            "redemption_instructions_by_platform": {
+                                "0": "This collectible can be redeemed on Discord! Go to your Gift Inventory to redeem and equip."
+                            }
+                        },
+                        "expires_at": "2025-02-16T08:00:00+00:00",
+                        "expires_at_premium": null,
+                        "expiration_mode": 1
+                    }
+                ],
+                "rewards_expire_at": "2025-01-15T00:59:59+00:00",
+                "platforms": [
+                    0
+                ]
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
     }
 ]
