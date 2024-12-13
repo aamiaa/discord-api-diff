@@ -1845,5 +1845,195 @@
         "user_status": null,
         "targeted_content": [],
         "preview": false
+    },
+    {
+        "id": "1315761389343867031",
+        "config": {
+            "id": "1315761389343867031",
+            "config_version": 2,
+            "starts_at": "2024-12-13T18:00:00+00:00",
+            "expires_at": "2024-12-23T23:59:59+00:00",
+            "features": [
+                16,
+                9,
+                3,
+                13
+            ],
+            "experiments": {
+                "rollout": "2024-12_quests_cod_12_13_2024_quest",
+                "targeting": "2024-12_quests_cod_12_13_2024_quest_targeting",
+                "preview": "2024-12_quests_cod_12_13_2024_quest_preview"
+            },
+            "application": {
+                "link": "https://callofduty.com/redeem?utm_source=discord&utm_medium=quest&utm_campaign=brand",
+                "id": "545364944258990091",
+                "name": "Call of Duty: Black Ops 6"
+            },
+            "assets": {
+                "hero": "hero.jpg",
+                "hero_video": null,
+                "quest_bar_hero": "questbar_hero.jpg",
+                "quest_bar_hero_video": "questbar_hero.webm",
+                "game_tile": "game_tile.png",
+                "logotype": "logotype.png"
+            },
+            "colors": {
+                "primary": "#F96800",
+                "secondary": "#1A1A1A"
+            },
+            "messages": {
+                "quest_name": "COD: Black Ops 6",
+                "game_title": "Call of Duty: Black Ops 6",
+                "game_publisher": "Activision"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "event_name": "WATCH_VIDEO",
+                        "target": 29,
+                        "external_ids": []
+                    }
+                }
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 1,
+                        "sku_id": "1315762342742458368",
+                        "asset": "reward.jpg",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "15m 2XP Token",
+                            "name_with_article": "15m 2XP Token",
+                            "redemption_instructions_by_platform": {
+                                "0": "To redeem your COD: Black Ops 6 Quest reward, visit [Call of Duty’s code redemption website](https://profile.callofduty.com/cod/login?redirectUrl=https%3A%2F%2Fprofile.callofduty.com%2Fpromotions%2FredeemCode) and log in to your account. Enter your code to obtain your Double XP Token."
+                            }
+                        },
+                        "approximate_count": 2500000
+                    }
+                ],
+                "rewards_expire_at": "2025-01-01T07:59:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "video_metadata": {
+                "messages": {
+                    "video_title": "COD: Black Ops 6"
+                },
+                "assets": {
+                    "video_player_video": "video_high_res.mp4",
+                    "video_player_thumbnail": "video_thumbnail.jpg",
+                    "video_player_video_low_res": "video_low_res.mp4",
+                    "video_player_caption": "caption.vtt",
+                    "video_player_transcript": "transcript.txt",
+                    "quest_bar_preview_video": "questbar_preview.webm",
+                    "quest_bar_preview_thumbnail": "questbar_preview.jpg",
+                    "quest_home_video": "questhome.webm"
+                }
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
+    },
+    {
+        "id": "1316549584566358086",
+        "config": {
+            "id": "1316549584566358086",
+            "config_version": 2,
+            "starts_at": "2024-12-13T18:00:00+00:00",
+            "expires_at": "2024-12-21T23:59:59+00:00",
+            "features": [
+                16,
+                9,
+                3,
+                13
+            ],
+            "experiments": {
+                "rollout": "2024-12_sonic_3_quest",
+                "targeting": "2024-12_sonic_3_quest_targeting",
+                "preview": "2024-12_sonic_3_quest_preview"
+            },
+            "application": {
+                "link": "https://sonicthehedgehogmovie.com?utm_source=discord&utm_medium=quest_link",
+                "id": "545364944258990091",
+                "name": "Sonic 3"
+            },
+            "assets": {
+                "hero": "hero2.jpg",
+                "hero_video": null,
+                "quest_bar_hero": "questbar_hero.jpg",
+                "quest_bar_hero_video": "preview.webm",
+                "game_tile": "game_tile.png",
+                "logotype": "logotype.png"
+            },
+            "colors": {
+                "primary": "#005EB8",
+                "secondary": "#0033A0"
+            },
+            "messages": {
+                "quest_name": "Sonic 3",
+                "game_title": "Sonic 3",
+                "game_publisher": "Paramount"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "event_name": "WATCH_VIDEO",
+                        "target": 93,
+                        "external_ids": []
+                    }
+                }
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 3,
+                        "sku_id": "1316597786862419988",
+                        "asset": "reward.mp4",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "Shadow Avatar Decoration",
+                            "name_with_article": "a Shadow Avatar Decoration",
+                            "redemption_instructions_by_platform": {
+                                "0": "This collectible can be redeemed on Discord! Go to your Gift Inventory to redeem and equip."
+                            }
+                        },
+                        "expires_at": "2025-02-21T08:00:00+00:00",
+                        "expires_at_premium": null,
+                        "expiration_mode": 1
+                    }
+                ],
+                "rewards_expire_at": "2025-01-20T23:59:59+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "video_metadata": {
+                "messages": {
+                    "video_title": "Sonic 3 Trailer"
+                },
+                "assets": {
+                    "video_player_video": "video_high_res.mp4",
+                    "video_player_thumbnail": "video_thumbnail.jpg",
+                    "video_player_video_low_res": "video_low_res.mp4",
+                    "video_player_caption": "caption.vtt",
+                    "video_player_transcript": "transcript.txt",
+                    "quest_bar_preview_video": "preview.webm",
+                    "quest_bar_preview_thumbnail": "questbar_preview.jpg",
+                    "quest_home_video": "preview.webm"
+                }
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
     }
 ]
