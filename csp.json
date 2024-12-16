@@ -154,6 +154,7 @@
             "https://*.hcaptcha.com",
             "https://*.twitter.com",
             "https://*.website-files.com",
+            "https://ads.reddit.com",
             "https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js",
             "https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js",
             "https://boards-api.greenhouse.io",
@@ -178,6 +179,7 @@
             "https://www.google.com/recaptcha/",
             "https://www.googletagmanager.com",
             "https://www.gstatic.com/recaptcha/",
+            "https://www.redditstatic.com",
             "https://www.youtube.com/iframe_api",
             "https://www.youtube.com/s/player/"
         ],
@@ -193,6 +195,7 @@
         "img-src": [
             "https://*.website-files.com",
             "https://*.ytimg.com",
+            "https://alb.reddit.com",
             "https://assets-global.website-files.com",
             "https://cdn.discordapp.com",
             "https://cdn.localizeapi.com",
@@ -210,16 +213,19 @@
             "https://*.website-files.com",
             "https://fonts.gstatic.com",
             "https://fonts.gstatic.com",
-            "https://uploads-ssl.webflow.com"
+            "https://uploads-ssl.webflow.com",
+            "https://www.redditstatic.com"
         ],
         "connect-src": [
             "https://*.hcaptcha.com",
             "https://*.website-files.com",
+            "https://ads.reddit.com",
             "https://api.github.com",
             "https://api.greenhouse.io",
             "https://assets-tracking.crazyegg.com",
             "https://cdn.localizeapi.com",
             "https://connect.facebook.net",
+            "https://conversions-config.reddit.com",
             "https://discord.com",
             "https://discordapp.com",
             "https://geolocation.onetrust.com/cookieconsentpub/v1/geo/location",
@@ -227,12 +233,15 @@
             "https://hackerone-api.discord.workers.dev",
             "https://hcaptcha.com",
             "https://pagestates-tracking.crazyegg.com",
+            "https://pixel-config.reddit.com",
+            "https://redditstatic.com",
             "https://script.crazyegg.com",
             "https://sentry.io",
             "https://tracking.crazyegg.com",
             "https://uploads-ssl.webflow.com",
             "https://webflow.com/api/",
-            "https://www.google-analytics.com"
+            "https://www.google-analytics.com",
+            "https://www.redditstatic.com"
         ],
         "media-src": [
             "https://*.website-files.com",
