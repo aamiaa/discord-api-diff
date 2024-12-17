@@ -2035,5 +2035,83 @@
         "user_status": null,
         "targeted_content": [],
         "preview": false
+    },
+    {
+        "id": "1316460321329774692",
+        "config": {
+            "id": "1316460321329774692",
+            "config_version": 2,
+            "starts_at": "2024-12-17T18:00:00+00:00",
+            "expires_at": "2024-12-24T00:59:59+00:00",
+            "features": [
+                9,
+                3,
+                14
+            ],
+            "experiments": {
+                "rollout": "2024-12_garena_quests_delta_force_quest",
+                "targeting": "2024-12_garena_quests_delta_force_quest_targeting",
+                "preview": "2024-12_garena_quests_delta_force_quest_preview"
+            },
+            "application": {
+                "link": "https://deltaforce.garena.com/",
+                "id": "1314682894106497096",
+                "name": "Delta Force"
+            },
+            "assets": {
+                "hero": "hero_v2.jpg",
+                "hero_video": null,
+                "quest_bar_hero": "quest_bar_hero_v2.jpg",
+                "quest_bar_hero_video": null,
+                "game_tile": "game_tile.jpg",
+                "logotype": "logotype.png"
+            },
+            "colors": {
+                "primary": "#0CA766",
+                "secondary": "#1A1A1A"
+            },
+            "messages": {
+                "quest_name": "Garena Pioneer",
+                "game_title": "Garena® Delta Force",
+                "game_publisher": "Garena"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "event_name": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "external_ids": []
+                    }
+                }
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 1,
+                        "sku_id": "1316460321329774693",
+                        "asset": "reward2.jpg",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "P90 - Pioneer Blue",
+                            "name_with_article": "a P90 - Pioneer Blue",
+                            "redemption_instructions_by_platform": {
+                                "0": "Redeem the code below on [Garena Delta Force Redemption Center](https://redeem.df.garena.sg/cdkgarena.html) to access your reward."
+                            }
+                        },
+                        "approximate_count": null
+                    }
+                ],
+                "rewards_expire_at": "2025-01-23T00:59:59+00:00",
+                "platforms": [
+                    0
+                ]
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
     }
 ]
