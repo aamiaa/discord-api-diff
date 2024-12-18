@@ -2114,5 +2114,84 @@
         "user_status": null,
         "targeted_content": [],
         "preview": false
+    },
+    {
+        "id": "1316440465037463593",
+        "config": {
+            "id": "1316440465037463593",
+            "config_version": 2,
+            "starts_at": "2024-12-18T18:00:00+00:00",
+            "expires_at": "2024-12-25T01:00:00+00:00",
+            "features": [
+                9,
+                3,
+                12,
+                15
+            ],
+            "experiments": {
+                "rollout": "2024-12_roblox_quest_1224",
+                "targeting": "2024-12_roblox_quest_targeting",
+                "preview": "2024-12_roblox_quest_preview"
+            },
+            "application": {
+                "link": "https://www.roblox.com/",
+                "id": "363445589247131668",
+                "name": "Roblox"
+            },
+            "assets": {
+                "hero": "1317240442202620044.png",
+                "hero_video": null,
+                "quest_bar_hero": "1317240442688897055.png",
+                "quest_bar_hero_video": null,
+                "game_tile": "1317242698314551296.png",
+                "logotype": "1317242697404256408.png"
+            },
+            "colors": {
+                "primary": "#6A6F81",
+                "secondary": "#F7F7F8"
+            },
+            "messages": {
+                "quest_name": "Roblox Play",
+                "game_title": "Roblox",
+                "game_publisher": "Roblox"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "event_name": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "external_ids": []
+                    }
+                }
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 1,
+                        "sku_id": "1316440465037463594",
+                        "asset": "1317241740045975562.png",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "Bobo the Picnic Bear",
+                            "name_with_article": "a Bobo the Picnic Bear",
+                            "redemption_instructions_by_platform": {
+                                "0": "For app users, redeem the code below by going to the navigation bar on the left, click More - Gift Cards - Redeem Card, then enter the codes.\n\nFor web users, click on the navigation menu from the upper left side, click Gift Cards - Redeem Card, then enter the codes."
+                            }
+                        },
+                        "approximate_count": 750000
+                    }
+                ],
+                "rewards_expire_at": "2025-01-24T01:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
     }
 ]
