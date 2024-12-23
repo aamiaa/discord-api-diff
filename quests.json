@@ -2193,5 +2193,103 @@
         "user_status": null,
         "targeted_content": [],
         "preview": false
+    },
+    {
+        "id": "1318676891938328597",
+        "config": {
+            "id": "1318676891938328597",
+            "config_version": 2,
+            "starts_at": "2024-12-23T18:00:00+00:00",
+            "expires_at": "2024-12-30T01:00:00+00:00",
+            "features": [
+                9,
+                3,
+                14,
+                15
+            ],
+            "experiments": {
+                "rollout": "2024-12_rec_room_winter",
+                "targeting": "2024-12_rec_room_winter_targeting",
+                "preview": "2024-12_rec_room_winter_preview"
+            },
+            "application": {
+                "link": "https://recroom.sng.link/Da56h/imwqy",
+                "id": "451545342987468800",
+                "name": "rec room"
+            },
+            "assets": {
+                "hero": "hero.jpg",
+                "hero_video": null,
+                "quest_bar_hero": "quest_bar_hero.jpg",
+                "quest_bar_hero_video": null,
+                "game_tile": "brand_icon.png",
+                "logotype": "logotype.png"
+            },
+            "colors": {
+                "primary": "#FF6738",
+                "secondary": "#D23636"
+            },
+            "messages": {
+                "quest_name": "Rec Room Winter",
+                "game_title": "Rec Room",
+                "game_publisher": "Rec Room"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "event_name": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "external_ids": []
+                    },
+                    "PLAY_ON_XBOX": {
+                        "event_name": "PLAY_ON_XBOX",
+                        "target": 900,
+                        "external_ids": [
+                            "2138304024"
+                        ]
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "event_name": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "external_ids": [
+                            "CUSA09539_00",
+                            "CUSA08481_00",
+                            "PPSA05532_00",
+                            "PPSA05533_00"
+                        ]
+                    }
+                }
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 3,
+                        "sku_id": "1319423712474435655",
+                        "asset": "reward_tile.mp4",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "Rec Room Lightning Avatar Decoration",
+                            "name_with_article": "a Rec Room Lightning Avatar Decoration",
+                            "redemption_instructions_by_platform": {
+                                "0": ""
+                            }
+                        },
+                        "expires_at": "2025-03-01T01:00:00+00:00",
+                        "expires_at_premium": null,
+                        "expiration_mode": 1
+                    }
+                ],
+                "rewards_expire_at": "2025-01-29T01:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
     }
 ]
