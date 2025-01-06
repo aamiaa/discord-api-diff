@@ -2291,5 +2291,184 @@
         "user_status": null,
         "targeted_content": [],
         "preview": false
+    },
+    {
+        "id": "1324419049274347561",
+        "config": {
+            "id": "1324419049274347561",
+            "config_version": 2,
+            "starts_at": "2025-01-06T18:00:00+00:00",
+            "expires_at": "2025-01-13T05:59:00+00:00",
+            "features": [
+                9,
+                3,
+                12,
+                15
+            ],
+            "experiments": {
+                "rollout": "2025-01_v20_wuwa",
+                "targeting": "2025-01_v20_wuwa_targeting",
+                "preview": "2025-01_v20_wuwa_preview"
+            },
+            "application": {
+                "link": "https://wuwa.kurogames-global.com/DiscrodQuestV2",
+                "id": "1247227126416146462",
+                "name": "Wuthering Waves"
+            },
+            "assets": {
+                "hero": "hero.jpg",
+                "hero_video": null,
+                "quest_bar_hero": "quest_bar.jpg",
+                "quest_bar_hero_video": null,
+                "game_tile": "reward.jpg",
+                "logotype": "en.png"
+            },
+            "colors": {
+                "primary": "#29467B",
+                "secondary": "#0C0C0C"
+            },
+            "messages": {
+                "quest_name": "V2.0 WUWA",
+                "game_title": "Wuthering Waves",
+                "game_publisher": "Kuro Games"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "event_name": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "external_ids": []
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "event_name": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "external_ids": [
+                            "PPSA24686_00"
+                        ]
+                    }
+                }
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 1,
+                        "sku_id": "1324419049274347563",
+                        "asset": "reward.jpg",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "V2.0 WUWA Quest Pack",
+                            "name_with_article": "a V2.0 WUWA Quest Pack",
+                            "redemption_instructions_by_platform": {
+                                "0": "The V2.0 WUWA Quest Pack includes Shell Credit, Advanced Resonance Potion, Advanced Energy Core and Astrite.\n\n1. Select your server and enter the game, and then go to [Settings] - [Other] - [Redemption Code].\n\n2. Enter the [Redemption Code] and hit [Confirm] to redeem rewards. You can then claim them in your in-game mail.\n\n*The [Redemption Code] function will be unlocked once you've reached Union Level 2."
+                            }
+                        },
+                        "approximate_count": 300000
+                    }
+                ],
+                "rewards_expire_at": "2025-02-12T00:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
+    },
+    {
+        "id": "1319360437359214643",
+        "config": {
+            "id": "1319360437359214643",
+            "config_version": 2,
+            "starts_at": "2025-01-06T18:00:00+00:00",
+            "expires_at": "2025-01-13T01:00:00+00:00",
+            "features": [
+                9,
+                3,
+                15
+            ],
+            "experiments": {
+                "rollout": "2025-01_off_the_grid",
+                "targeting": "2025-01_off_the_grid_targeting",
+                "preview": "2025-01_off_the_grid_preview"
+            },
+            "application": {
+                "link": "https://otg.gg/DiscordQuest",
+                "id": "1310705150582853765",
+                "name": "Off The Grid"
+            },
+            "assets": {
+                "hero": "offthegrid-hero-image.png",
+                "hero_video": null,
+                "quest_bar_hero": "offthegrid-questbar-bkgrnd.png",
+                "quest_bar_hero_video": null,
+                "game_tile": "gz-square_v3.png",
+                "logotype": "logo2.png"
+            },
+            "colors": {
+                "primary": "#FF003A",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Off The Grid",
+                "game_title": "Off The Grid",
+                "game_publisher": "Gunzilla Games"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "event_name": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "external_ids": []
+                    },
+                    "PLAY_ON_XBOX": {
+                        "event_name": "PLAY_ON_XBOX",
+                        "target": 900,
+                        "external_ids": [
+                            "1684896411"
+                        ]
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "event_name": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "external_ids": [
+                            "PPSA18090_00",
+                            "PPSA23685_00"
+                        ]
+                    }
+                }
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 1,
+                        "sku_id": "1319360437359214645",
+                        "asset": "offthegrid-reward-title.png",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "Impact Junkie Set",
+                            "name_with_article": "an Impact Junkie Set",
+                            "redemption_instructions_by_platform": {
+                                "0": "To access your reward, redeem the code in Off The Grid under Account Settings > Promocodes and then decode the 6 Impact Junkie HEX cubes in the lobby under HEXES / PRO. "
+                            }
+                        },
+                        "approximate_count": 2000000
+                    }
+                ],
+                "rewards_expire_at": "2025-02-11T07:59:00+00:00",
+                "platforms": [
+                    0
+                ]
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
     }
 ]
