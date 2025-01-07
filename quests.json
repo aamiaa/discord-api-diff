@@ -2470,5 +2470,101 @@
         "user_status": null,
         "targeted_content": [],
         "preview": false
+    },
+    {
+        "id": "1319049790876684348",
+        "config": {
+            "id": "1319049790876684348",
+            "config_version": 2,
+            "starts_at": "2025-01-07T18:00:00+00:00",
+            "expires_at": "2025-01-14T01:00:00+00:00",
+            "features": [
+                9,
+                3,
+                12,
+                15
+            ],
+            "experiments": {
+                "rollout": "2025-01_valorant_go_get_em_quest",
+                "targeting": "2025-01_valorant_go_get_em_targeting",
+                "preview": "PLACEHOLDER_1319049790876684349_preview"
+            },
+            "application": {
+                "link": "https://playvalorant.com/",
+                "id": "700136079562375258",
+                "name": "VALORANT"
+            },
+            "assets": {
+                "hero": "hero.png",
+                "hero_video": null,
+                "quest_bar_hero": "questbar.png",
+                "quest_bar_hero_video": null,
+                "game_tile": "game_tile.png",
+                "logotype": "valorant_logo.png"
+            },
+            "colors": {
+                "primary": "#FF4655",
+                "secondary": "#0F1923"
+            },
+            "messages": {
+                "quest_name": "GO GET EM WINGS",
+                "game_title": "VALORANT",
+                "game_publisher": "Riot Games"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "event_name": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "external_ids": []
+                    },
+                    "PLAY_ON_XBOX": {
+                        "event_name": "PLAY_ON_XBOX",
+                        "target": 900,
+                        "external_ids": [
+                            "2139646219"
+                        ]
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "event_name": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "external_ids": [
+                            "PPSA20711_00",
+                            "PPSA20676_00"
+                        ]
+                    }
+                }
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 3,
+                        "sku_id": "1325880072972013670",
+                        "asset": "reward_tile.png",
+                        "asset_video": "reward_tile.mp4",
+                        "messages": {
+                            "name": "WINGMAN'S GOT IT Avatar Decoration",
+                            "name_with_article": "a WINGMAN'S GOT IT Avatar Decoration",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHODER FOR CROSS_PLATFORM"
+                            }
+                        },
+                        "expires_at": "2025-03-12T07:59:00+00:00",
+                        "expires_at_premium": null,
+                        "expiration_mode": 1
+                    }
+                ],
+                "rewards_expire_at": "2025-02-12T07:59:00+00:00",
+                "platforms": [
+                    0
+                ]
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
     }
 ]
