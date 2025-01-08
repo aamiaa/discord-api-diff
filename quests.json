@@ -2566,5 +2566,83 @@
         "user_status": null,
         "targeted_content": [],
         "preview": false
+    },
+    {
+        "id": "1324541122890170488",
+        "config": {
+            "id": "1324541122890170488",
+            "config_version": 2,
+            "starts_at": "2025-01-08T18:00:00+00:00",
+            "expires_at": "2025-01-16T01:00:00+00:00",
+            "features": [
+                3,
+                12,
+                15
+            ],
+            "experiments": {
+                "rollout": "2025-01_08_v53_quest",
+                "targeting": "2025-01_08_v53_quest_targeting",
+                "preview": "2025-01_08_v53_quest_preview"
+            },
+            "application": {
+                "link": "https://hoyo.link/2a1lFBAL",
+                "id": "762434991303950386",
+                "name": "Genshin Impact"
+            },
+            "assets": {
+                "hero": "hero.png",
+                "hero_video": null,
+                "quest_bar_hero": "questbar.png",
+                "quest_bar_hero_video": null,
+                "game_tile": "brandlogo.png",
+                "logotype": "wordmark.png"
+            },
+            "colors": {
+                "primary": "#373687",
+                "secondary": "#ed7437"
+            },
+            "messages": {
+                "quest_name": "V5.3 ",
+                "game_title": "Genshin Impact",
+                "game_publisher": "HoYoverse"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "STREAM_ON_DESKTOP": {
+                        "event_name": "STREAM_ON_DESKTOP",
+                        "target": 900,
+                        "external_ids": []
+                    }
+                }
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 1,
+                        "sku_id": "1324541122890170490",
+                        "asset": "reward.png",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "V5.3 Quest Bundle",
+                            "name_with_article": "a V5.3 Quest Bundle",
+                            "redemption_instructions_by_platform": {
+                                "0": "The V5.3 Quest Bundle contains Primogems ×30, Mora ×20,000, Sanctifying Unction ×4, Mystic Enhancement Ore ×5, and Hero's Wit ×3. *Bundles are limited in quantity. First come, first served!\nRedemption Method: Please visit the Genshin Impact official website's \"Redemption Page,\" log in to your game account, and then enter the redemption code as prompted. You will receive the bundle via in-game mail. The redemption code will expire on February 8, 2025 at 00:00 (UTC+8). This event is subject to Genshin Impact's Terms of Service and Privacy Policy. View the \"Help Center article\" for the full terms."
+                            }
+                        },
+                        "approximate_count": 900000
+                    }
+                ],
+                "rewards_expire_at": "2025-02-14T07:59:00+00:00",
+                "platforms": [
+                    0
+                ]
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
     }
 ]
