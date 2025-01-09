@@ -5537,5 +5537,236 @@
                 "randomizedSources": []
             }
         ]
+    },
+    {
+        "type": 1,
+        "id": "1324454241112166448",
+        "sku_id": "1324454241095647351",
+        "title": "Enchanted Forest",
+        "description": "You're walking in the forest and notice something magical and shiny.",
+        "accessibilityLabel": "A luminous fairy sprite suddenly emerges from an enchanted forest of lush, colorful plants, fluttering in view for a fleeting moment before darting back into the forest.",
+        "animationType": 1,
+        "staticFrameSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-01-02/enchanted-forest/static.png",
+        "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-01-02/enchanted-forest/thumbnail.png",
+        "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-01-02/enchanted-forest/reduced_motion.png",
+        "effects": [
+            {
+                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-01-02/enchanted-forest/intro.png",
+                "loop": false,
+                "height": 880,
+                "width": 450,
+                "duration": 3333,
+                "start": 0,
+                "loopDelay": 0,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "zIndex": 100,
+                "randomizedSources": []
+            },
+            {
+                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-01-08/enchanted-forest/new_idle_bg.png",
+                "loop": true,
+                "height": 880,
+                "width": 450,
+                "duration": 6750,
+                "start": 3083,
+                "loopDelay": 0,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "zIndex": 101,
+                "randomizedSources": []
+            },
+            {
+                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-01-08/enchanted-forest/new_idle_fg.png",
+                "loop": true,
+                "height": 880,
+                "width": 450,
+                "duration": 6750,
+                "start": 3083,
+                "loopDelay": 0,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "zIndex": 102,
+                "randomizedSources": []
+            }
+        ]
+    },
+    {
+        "type": 1,
+        "id": "1324454241133138042",
+        "sku_id": "1324454241120813056",
+        "title": "Portal Beyond (Purple)",
+        "description": "Let’s see what’s on the other side, shall we?",
+        "accessibilityLabel": "A mysterious vortex of purple energy swirls in view, forming a magical portal for the briefest of moments before fading away without a trace.",
+        "animationType": 2,
+        "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-01-02/portal-beyond-purple/thumbnail.png",
+        "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-01-02/portal-beyond-purple/reduced_motion.png",
+        "effects": [
+            {
+                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-01-02/portal-beyond-purple/intro.png",
+                "loop": false,
+                "height": 880,
+                "width": 450,
+                "duration": 4083,
+                "start": 0,
+                "loopDelay": 0,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "zIndex": 100,
+                "randomizedSources": []
+            },
+            {
+                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-01-02/portal-beyond-purple/idle.png",
+                "loop": true,
+                "height": 880,
+                "width": 450,
+                "duration": 3083,
+                "start": 4083,
+                "loopDelay": 3500,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "zIndex": 101,
+                "randomizedSources": []
+            }
+        ]
+    },
+    {
+        "type": 1,
+        "id": "1324454241191858186",
+        "sku_id": "1324454241141784697",
+        "title": "Portal Beyond (Blue)",
+        "description": "Let’s see what’s on the other side, shall we?",
+        "accessibilityLabel": "A mysterious vortex of blue energy swirls in view, forming a magical portal for the briefest of moments before fading away without a trace.",
+        "animationType": 2,
+        "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-01-02/portal-beyond-blue/thumbnail.png",
+        "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-01-02/portal-beyond-blue/reduced_motion.png",
+        "effects": [
+            {
+                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-01-02/portal-beyond-blue/intro.png",
+                "loop": false,
+                "height": 880,
+                "width": 450,
+                "duration": 4083,
+                "start": 0,
+                "loopDelay": 0,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "zIndex": 100,
+                "randomizedSources": []
+            },
+            {
+                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-01-02/portal-beyond-blue/idle.png",
+                "loop": true,
+                "height": 880,
+                "width": 450,
+                "duration": 3083,
+                "start": 4083,
+                "loopDelay": 3500,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "zIndex": 101,
+                "randomizedSources": []
+            }
+        ]
+    },
+    {
+        "type": 1,
+        "id": "1324454241212829817",
+        "sku_id": "1324454241196310685",
+        "title": "Mooncap Forest (Pink)",
+        "description": "Their gentle glows mark safe passage for those lost at night.",
+        "accessibilityLabel": "Clusters of fuchsia pink, luminescent mushrooms and green forest foliage frame your profile, bathing it with an enchanting glow.",
+        "animationType": 2,
+        "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-01-02/mooncap-forest-pink/thumbnail.png",
+        "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-01-02/mooncap-forest-pink/reduced_motion.png",
+        "effects": [
+            {
+                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-01-02/mooncap-forest-pink/intro.png",
+                "loop": false,
+                "height": 880,
+                "width": 450,
+                "duration": 5383,
+                "start": 0,
+                "loopDelay": 0,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "zIndex": 100,
+                "randomizedSources": []
+            },
+            {
+                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-01-08/mooncap-forest-pink/idle.png",
+                "loop": true,
+                "height": 880,
+                "width": 450,
+                "duration": 5710,
+                "start": 5083,
+                "loopDelay": 0,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "zIndex": 101,
+                "randomizedSources": []
+            }
+        ]
+    },
+    {
+        "type": 1,
+        "id": "1324454241237995630",
+        "sku_id": "1324454241221476525",
+        "title": "Mooncap Forest (Blue)",
+        "description": "Their gentle glows mark safe passage for those lost at night.",
+        "accessibilityLabel": "Clusters of blue, luminescent mushrooms and green forest foliage frame your profile, bathing it with an enchanting glow.",
+        "animationType": 2,
+        "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-01-02/mooncap-forest-blue/thumbnail.png",
+        "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-01-02/mooncap-forest-blue/reduced_motion.png",
+        "effects": [
+            {
+                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-01-02/mooncap-forest-blue/intro.png",
+                "loop": false,
+                "height": 880,
+                "width": 450,
+                "duration": 5383,
+                "start": 0,
+                "loopDelay": 0,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "zIndex": 100,
+                "randomizedSources": []
+            },
+            {
+                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-01-08/mooncap-forest-blue/new_idle.png",
+                "loop": true,
+                "height": 880,
+                "width": 450,
+                "duration": 5710,
+                "start": 5083,
+                "loopDelay": 0,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "zIndex": 101,
+                "randomizedSources": []
+            }
+        ]
     }
 ]
