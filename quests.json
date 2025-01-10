@@ -2644,5 +2644,98 @@
         "user_status": null,
         "targeted_content": [],
         "preview": false
+    },
+    {
+        "id": "1326694575057670186",
+        "config": {
+            "id": "1326694575057670186",
+            "config_version": 2,
+            "starts_at": "2025-01-10T18:00:00+00:00",
+            "expires_at": "2025-01-17T01:00:00+00:00",
+            "features": [
+                3,
+                15
+            ],
+            "experiments": {
+                "rollout": "2025-01_marvel_rivals",
+                "targeting": "2025-01_marvel_rivals_targeting",
+                "preview": "2025-01_marvel_rivals_preview"
+            },
+            "application": {
+                "link": "https://www.marvelrivals.com/",
+                "id": "1314395942253756416",
+                "name": "Marvel Rivals"
+            },
+            "assets": {
+                "hero": "hero_marvel_rivals.png",
+                "hero_video": "hero_video_marvel_rivals.mp4",
+                "quest_bar_hero": "questbar_marvel_rivals.jpg",
+                "quest_bar_hero_video": "questbar_video_marvel_rivals.mp4",
+                "game_tile": "brand_icon_marvel_rivals.png",
+                "logotype": "wordmark_marvel_rivals.png"
+            },
+            "colors": {
+                "primary": "#FDDA2D",
+                "secondary": "#01227F"
+            },
+            "messages": {
+                "quest_name": "Marvel Rivals",
+                "game_title": "Marvel Rivals",
+                "game_publisher": "NetEase Gaming"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "event_name": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "external_ids": []
+                    },
+                    "PLAY_ON_XBOX": {
+                        "event_name": "PLAY_ON_XBOX",
+                        "target": 900,
+                        "external_ids": [
+                            "1794906646"
+                        ]
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "event_name": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "external_ids": [
+                            "PPSA21669_00"
+                        ]
+                    }
+                }
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 3,
+                        "sku_id": "1326718812279799809",
+                        "asset": "marvel_rivals_static_2025_01.png",
+                        "asset_video": "marvel_rivals_2025_01.mp4",
+                        "messages": {
+                            "name": "Jeff the Land Shark Avatar Decoration",
+                            "name_with_article": "a Jeff the Land Shark Avatar Decoration",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHODER FOR CROSS_PLATFORM"
+                            }
+                        },
+                        "expires_at": "2025-03-16T00:00:00+00:00",
+                        "expires_at_premium": null,
+                        "expiration_mode": 1
+                    }
+                ],
+                "rewards_expire_at": "2025-02-16T00:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
     }
 ]
