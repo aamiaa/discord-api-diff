@@ -1638,7 +1638,7 @@
                         },
                         "expires_at": "2025-02-14T08:00:00+00:00",
                         "expires_at_premium": null,
-                        "expiration_mode": 1
+                        "expiration_mode": 3
                     }
                 ],
                 "rewards_expire_at": "2025-01-13T23:59:59+00:00",
@@ -2008,7 +2008,7 @@
                         },
                         "expires_at": "2025-02-21T08:00:00+00:00",
                         "expires_at_premium": null,
-                        "expiration_mode": 1
+                        "expiration_mode": 3
                     }
                 ],
                 "rewards_expire_at": "2025-01-20T23:59:59+00:00",
@@ -2254,10 +2254,10 @@
                         "event_name": "PLAY_ON_PLAYSTATION",
                         "target": 900,
                         "external_ids": [
+                            "PPSA05533_00",
                             "CUSA09539_00",
                             "CUSA08481_00",
-                            "PPSA05532_00",
-                            "PPSA05533_00"
+                            "PPSA05532_00"
                         ]
                     }
                 }
@@ -2279,7 +2279,7 @@
                         },
                         "expires_at": "2025-03-01T01:00:00+00:00",
                         "expires_at_premium": null,
-                        "expiration_mode": 1
+                        "expiration_mode": 3
                     }
                 ],
                 "rewards_expire_at": "2025-01-29T01:00:00+00:00",
@@ -2554,7 +2554,7 @@
                         },
                         "expires_at": "2025-03-12T07:59:00+00:00",
                         "expires_at_premium": null,
-                        "expiration_mode": 1
+                        "expiration_mode": 3
                     }
                 ],
                 "rewards_expire_at": "2025-02-12T07:59:00+00:00",
@@ -2725,7 +2725,7 @@
                         },
                         "expires_at": "2025-03-17T00:00:00+00:00",
                         "expires_at_premium": null,
-                        "expiration_mode": 1
+                        "expiration_mode": 3
                     }
                 ],
                 "rewards_expire_at": "2025-02-16T00:00:00+00:00",
