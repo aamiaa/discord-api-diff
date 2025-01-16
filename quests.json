@@ -2737,5 +2737,85 @@
         "user_status": null,
         "targeted_content": [],
         "preview": false
+    },
+    {
+        "id": "1328886572103503953",
+        "config": {
+            "id": "1328886572103503953",
+            "config_version": 2,
+            "starts_at": "2025-01-16T18:00:00+00:00",
+            "expires_at": "2025-01-24T01:00:00+00:00",
+            "features": [
+                3,
+                9,
+                13,
+                15,
+                16
+            ],
+            "experiments": {
+                "rollout": "2025-01_once_human_crazy",
+                "targeting": "2025-01_once_human_crazy_targeting",
+                "preview": "2025-01_once_human_crazy_preview"
+            },
+            "application": {
+                "link": "https://engagements.appsflyer.com/v1.0/c2s/click/app/steam/2139460?af_media_source=discord&af_campaign_id=steamus&af_campaign=steamus&af_r=https%3A%2F%2Fstore.steampowered.com%2Fapp%2F2139460%3Futm_source%3DNAOCT%26utm_campaign%3DDC%26utm_content%3Ddiscordquest",
+                "id": "1260340082150346932",
+                "name": "Once Human"
+            },
+            "assets": {
+                "hero": "hero.jpg",
+                "hero_video": null,
+                "quest_bar_hero": "quest_bar.jpeg",
+                "quest_bar_hero_video": null,
+                "game_tile": "gametile_v1.jpg",
+                "logotype": "logo.png"
+            },
+            "colors": {
+                "primary": "#153945",
+                "secondary": "#11222c"
+            },
+            "messages": {
+                "quest_name": "Once Human Crazy",
+                "game_title": "Once Human",
+                "game_publisher": "Starry Studio"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "event_name": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "external_ids": []
+                    }
+                }
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 1,
+                        "sku_id": "1328886572103503955",
+                        "asset": "reward.jpg",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "Gun Skin: Tiger Roar",
+                            "name_with_article": "Gun Skin: Tiger Roar",
+                            "redemption_instructions_by_platform": {
+                                "0": "**Step 1:** Access the Event Interface - Press F3 in the game scene or press ESC and click the button. Note: you must complete the tutorial level first.\n\n\n**Step 2:** Use the Redeem Code\n\n1. In the event interface, press \"X\" or click the \"Redeem Code\" button\n\n2. Enter your code in the pop-up interface and click \"REDEEM\"\n\n*If you already own the Tiger Roar gun skin, you can use the redeem code for another character.*"
+                            }
+                        },
+                        "approximate_count": 100000
+                    }
+                ],
+                "rewards_expire_at": "2025-02-22T00:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
     }
 ]
