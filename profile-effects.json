@@ -5768,5 +5768,134 @@
                 "randomizedSources": []
             }
         ]
+    },
+    {
+        "type": 1,
+        "id": "1326333074186829864",
+        "sku_id": "1326333074174382111",
+        "title": "Clockwork Butterflies",
+        "description": "Mechanical marvels! See how they flutter... as if nature and industry struck a most pleasant deal.",
+        "accessibilityLabel": "A flock of glistening, clockwork butterflies flutter into the horizon.",
+        "animationType": 2,
+        "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-01-07/clockwork-butterflies/thumbnail.png",
+        "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-01-07/clockwork-butterflies/reduced_motion.png",
+        "effects": [
+            {
+                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-01-14/clockwork-butterflies/intro.png",
+                "loop": false,
+                "height": 880,
+                "width": 450,
+                "duration": 5000,
+                "start": 0,
+                "loopDelay": 0,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "zIndex": 100,
+                "randomizedSources": []
+            },
+            {
+                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-01-14/clockwork-butterflies/idle.png",
+                "loop": true,
+                "height": 880,
+                "width": 450,
+                "duration": 5000,
+                "start": 6500,
+                "loopDelay": 2000,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "zIndex": 101,
+                "randomizedSources": []
+            }
+        ]
+    },
+    {
+        "type": 1,
+        "id": "1326333074207801344",
+        "sku_id": "1326333074191159439",
+        "title": "Cloud Zeppelin",
+        "description": "Full steam ahead, let the heavens be our domain!",
+        "accessibilityLabel": "A magestic steampunk zepplin, complete with a wooden gondola, zooms excitedly across the sky belching clouds of steam in its wake.",
+        "animationType": 2,
+        "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-01-07/cloud-zeppelin/thumbnail.png",
+        "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-01-07/cloud-zeppelin/reduced_motion.png",
+        "effects": [
+            {
+                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-01-14/cloud-zeppelin/intro.png",
+                "loop": false,
+                "height": 880,
+                "width": 450,
+                "duration": 5000,
+                "start": 0,
+                "loopDelay": 0,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "zIndex": 100,
+                "randomizedSources": []
+            },
+            {
+                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-01-14/cloud-zeppelin/idle.png",
+                "loop": true,
+                "height": 880,
+                "width": 450,
+                "duration": 5000,
+                "start": 6750,
+                "loopDelay": 4500,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "zIndex": 101,
+                "randomizedSources": []
+            }
+        ]
+    },
+    {
+        "type": 1,
+        "id": "1326333074224578702",
+        "sku_id": "1326333074212130859",
+        "title": "Innovator's Masterwork",
+        "description": "One may ask: Is it functional? Or is it art? The answer, my dear, is both.",
+        "accessibilityLabel": "An impressive machine of golden-copper clockwork gears, tubes filled with a mysterious glowing purple liquid, and pressure gauges frames your profile, gently puffing out small clouds of steam.",
+        "animationType": 2,
+        "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-01-07/innovators-masterwork/thumbnail.png",
+        "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-01-07/innovators-masterwork/reduced_motion.png",
+        "effects": [
+            {
+                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-01-14/innovators-masterwork/intro.png",
+                "loop": false,
+                "height": 880,
+                "width": 450,
+                "duration": 5000,
+                "start": 0,
+                "loopDelay": 0,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "zIndex": 100,
+                "randomizedSources": []
+            },
+            {
+                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-01-14/innovators-masterwork/idle.png",
+                "loop": true,
+                "height": 880,
+                "width": 450,
+                "duration": 5000,
+                "start": 5000,
+                "loopDelay": 0,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "zIndex": 101,
+                "randomizedSources": []
+            }
+        ]
     }
 ]
