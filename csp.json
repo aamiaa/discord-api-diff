@@ -144,6 +144,9 @@
             "https://assets.braintreegateway.com",
             "https://c.paypal.com",
             "https://checkout.paypal.com"
+        ],
+        "report-uri": [
+            "https://o64374.ingest.sentry.io/api/5441894/security/?sentry_key=8fbbce30bf5244ec9429546beef21870&sentry_environment=stable"
         ]
     },
     "marketing": {
