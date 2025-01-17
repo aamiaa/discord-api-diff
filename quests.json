@@ -2817,5 +2817,181 @@
         "user_status": null,
         "targeted_content": [],
         "preview": false
+    },
+    {
+        "id": "1328519498398957598",
+        "config": {
+            "id": "1328519498398957598",
+            "config_version": 2,
+            "starts_at": "2025-01-17T18:00:00+00:00",
+            "expires_at": "2025-01-24T01:00:00+00:00",
+            "features": [
+                16,
+                9,
+                3,
+                15
+            ],
+            "experiments": {
+                "rollout": "2025-01_strinova_fuchsia_play",
+                "targeting": "2025-01_strinova_fuchsia_play_targeting",
+                "preview": "2025-01_strinova_fuchsia_play_preview"
+            },
+            "application": {
+                "link": "https://www.strinova.com/download?media=EA&media_code=USS2DEP1DCFUCHISIA",
+                "id": "1309337599235588226",
+                "name": "Strinova"
+            },
+            "assets": {
+                "hero": "hero.jpg",
+                "hero_video": null,
+                "quest_bar_hero": "questbar_v1.jpg",
+                "quest_bar_hero_video": null,
+                "game_tile": "gametile.png",
+                "logotype": "logowhite_v1.png"
+            },
+            "colors": {
+                "primary": "#FF6B2F",
+                "secondary": "#EAEEF0"
+            },
+            "messages": {
+                "quest_name": "Strinova Fuchsia Play",
+                "game_title": "Strinova",
+                "game_publisher": "iDreamSky"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "event_name": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "external_ids": []
+                    }
+                }
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 1,
+                        "sku_id": "1328519498398957600",
+                        "asset": "reward.jpg",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "Fuchsia Free Agent",
+                            "name_with_article": "a Fuchsia Free Agent",
+                            "redemption_instructions_by_platform": {
+                                "0": "Congratulations! Here’s how to redeem your reward:\n\nOpen the game on PC/Steam/Epic Games and go to the Settings menu.\n\nSelect Redeem Code.\nEnter your code.\nConfirm to claim your reward.\n\nJust a friendly reminder that all codes must be redeemed within 30 days of Quest completion."
+                            }
+                        },
+                        "approximate_count": 400000
+                    }
+                ],
+                "rewards_expire_at": "2025-02-21T00:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
+    },
+    {
+        "id": "1328424484792701019",
+        "config": {
+            "id": "1328424484792701019",
+            "config_version": 2,
+            "starts_at": "2025-01-17T18:00:00+00:00",
+            "expires_at": "2025-01-24T01:00:00+00:00",
+            "features": [
+                3,
+                9,
+                13,
+                15,
+                16
+            ],
+            "experiments": {
+                "rollout": "2025-01_strinova_fuchsia",
+                "targeting": "2025-01_strinova_fuchsia_targeting",
+                "preview": "2025-01_strinova_fuchsia_preview"
+            },
+            "application": {
+                "link": "https://www.strinova.com/download?media=EA&media_code=USS2DEP1DCVIDEO",
+                "id": "1309337599235588226",
+                "name": "Strinova"
+            },
+            "assets": {
+                "hero": "hero.jpg",
+                "hero_video": null,
+                "quest_bar_hero": "video_preview_thumbnail.jpg",
+                "quest_bar_hero_video": "video_preview.webm",
+                "game_tile": "logo.png",
+                "logotype": "logowhite.png"
+            },
+            "colors": {
+                "primary": "#FF6B2F",
+                "secondary": "#EAEEF0"
+            },
+            "messages": {
+                "quest_name": "Strinova  Fuchsia",
+                "game_title": "Strinova",
+                "game_publisher": "iDreamSky"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "event_name": "WATCH_VIDEO",
+                        "target": 44,
+                        "external_ids": []
+                    }
+                }
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 3,
+                        "sku_id": "1329309467619229797",
+                        "asset": "reward2.mp4",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "Fuchsia Agent Avatar Decoration",
+                            "name_with_article": "a Fuchsia Agent Avatar Decoration",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHODER FOR CROSS_PLATFORM"
+                            }
+                        },
+                        "expires_at": "2025-03-24T01:00:00+00:00",
+                        "expires_at_premium": null,
+                        "expiration_mode": 1
+                    }
+                ],
+                "rewards_expire_at": "2025-02-22T00:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "video_metadata": {
+                "messages": {
+                    "video_title": "Strinova Trailer"
+                },
+                "assets": {
+                    "video_player_video": "video_high_res.mp4",
+                    "video_player_thumbnail": "video_thumbnail.jpg",
+                    "video_player_video_low_res": "video_low_res.mp4",
+                    "video_player_caption": "caption.vtt",
+                    "video_player_transcript": "transcript.txt",
+                    "quest_bar_preview_video": "video_preview.webm",
+                    "quest_bar_preview_thumbnail": "video_preview_thumbnail.jpg",
+                    "quest_home_video": "video_preview.webm"
+                }
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
     }
 ]
