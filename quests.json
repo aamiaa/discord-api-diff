@@ -2993,5 +2993,84 @@
         "user_status": null,
         "targeted_content": [],
         "preview": false
+    },
+    {
+        "id": "1328769568788709438",
+        "config": {
+            "id": "1328769568788709438",
+            "config_version": 2,
+            "starts_at": "2025-01-18T02:00:00+00:00",
+            "expires_at": "2025-01-24T01:00:00+00:00",
+            "features": [
+                16,
+                9,
+                3,
+                15
+            ],
+            "experiments": {
+                "rollout": "2025-01_delta_force_starfall",
+                "targeting": "2025-01_delta_force_starfall_targeting",
+                "preview": "2025-01_delta_force_starfall_preview"
+            },
+            "application": {
+                "link": "https://store.steampowered.com/app/2507950?utm_source=discordquest",
+                "id": "1314682894106497096",
+                "name": "Delta Force"
+            },
+            "assets": {
+                "hero": "hero.png",
+                "hero_video": null,
+                "quest_bar_hero": "questbar.png",
+                "quest_bar_hero_video": null,
+                "game_tile": "logo.png",
+                "logotype": "gametile.png"
+            },
+            "colors": {
+                "primary": "#0CA766",
+                "secondary": "#1A1A1A"
+            },
+            "messages": {
+                "quest_name": "DELTA FORCE STARFALL",
+                "game_title": "DELTA FORCE",
+                "game_publisher": "TiMi Studio Group"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "event_name": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "external_ids": []
+                    }
+                }
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 1,
+                        "sku_id": "1328769568788709440",
+                        "asset": "reward.jpg",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "SCAR-H Skin & Premium Armament Pack",
+                            "name_with_article": "a SCAR-H Skin & Premium Armament Pack",
+                            "redemption_instructions_by_platform": {
+                                "0": "Redeem the code below on [Delta Force Official Website](https://www.playdeltaforce.com/en/cdkredeem.html) redemption page to get access to your reward."
+                            }
+                        },
+                        "approximate_count": 4000000
+                    }
+                ],
+                "rewards_expire_at": "2025-02-22T00:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
     }
 ]
