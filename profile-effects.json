@@ -5897,5 +5897,106 @@
                 "randomizedSources": []
             }
         ]
+    },
+    {
+        "type": 1,
+        "id": "1329611507398610955",
+        "sku_id": "1329611507381829702",
+        "title": "Twist of Luck",
+        "description": "A rare meeting of Fate and Fortune. This may be a sign that good luck is headed your way.",
+        "accessibilityLabel": "Two snakes - one red and one golden orange - wrap and intertwine with each other to form different shapes and patterns in a mesmerizing display of dance.",
+        "animationType": 2,
+        "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-01-17/twist-of-luck/thumbnail.png",
+        "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-01-17/twist-of-luck/reduced_motion.png",
+        "effects": [
+            {
+                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-01-17/twist-of-luck/entry.png",
+                "loop": false,
+                "height": 880,
+                "width": 450,
+                "duration": 5000,
+                "start": 0,
+                "loopDelay": 0,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "zIndex": 100,
+                "randomizedSources": []
+            },
+            {
+                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-01-17/twist-of-luck/idle.png",
+                "loop": true,
+                "height": 880,
+                "width": 450,
+                "duration": 5000,
+                "start": 5000,
+                "loopDelay": 0,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "zIndex": 101,
+                "randomizedSources": []
+            }
+        ]
+    },
+    {
+        "type": 1,
+        "id": "1329611507419582515",
+        "sku_id": "1329611507402801312",
+        "title": "Koi Garden",
+        "description": "Go with the flow and good things will follow.",
+        "accessibilityLabel": "In a koi pond with clear water and floating lilypads, you spot a red koi fish swimming with its orange companion, circling each other in perfect calm and harmony.",
+        "animationType": 2,
+        "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-01-17/koi-garden/thumbnail.png",
+        "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-01-17/koi-garden/reduced_motion.png",
+        "effects": [
+            {
+                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-01-17/koi-garden/entry.png",
+                "loop": false,
+                "height": 880,
+                "width": 450,
+                "duration": 5000,
+                "start": 0,
+                "loopDelay": 0,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "zIndex": 100,
+                "randomizedSources": []
+            },
+            {
+                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-01-17/koi-garden/idleA.png",
+                "loop": true,
+                "height": 880,
+                "width": 450,
+                "duration": 5000,
+                "start": 7000,
+                "loopDelay": 10000,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "zIndex": 101,
+                "randomizedSources": []
+            },
+            {
+                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-01-17/koi-garden/idleB.png",
+                "loop": true,
+                "height": 880,
+                "width": 450,
+                "duration": 5000,
+                "start": 14500,
+                "loopDelay": 10000,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "zIndex": 102,
+                "randomizedSources": []
+            }
+        ]
     }
 ]
