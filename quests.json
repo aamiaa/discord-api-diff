@@ -3072,5 +3072,85 @@
         "user_status": null,
         "targeted_content": [],
         "preview": false
+    },
+    {
+        "id": "1329498874326548541",
+        "config": {
+            "id": "1329498874326548541",
+            "config_version": 2,
+            "starts_at": "2025-01-23T18:00:00+00:00",
+            "expires_at": "2025-01-31T01:00:00+00:00",
+            "features": [
+                3,
+                9,
+                14,
+                15,
+                16
+            ],
+            "experiments": {
+                "rollout": "2025-01_strinova_eika_quest",
+                "targeting": "2025-01_strinova_eika_quest_targeting",
+                "preview": "2025-01_strinova_eika_quest_preview"
+            },
+            "application": {
+                "link": "https://www.strinova.com/download?media=EA&media_code=USS2DEP1DCEIKA",
+                "id": "1309337599235588226",
+                "name": "Strinova"
+            },
+            "assets": {
+                "hero": "hero.jpg",
+                "hero_video": null,
+                "quest_bar_hero": "questbar.jpg",
+                "quest_bar_hero_video": null,
+                "game_tile": "gametile_v1.png",
+                "logotype": "logo.png"
+            },
+            "colors": {
+                "primary": "#FF6B2F",
+                "secondary": "#EAEEF0"
+            },
+            "messages": {
+                "quest_name": "Strinova Eika",
+                "game_title": "Strinova",
+                "game_publisher": "Strinova"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "event_name": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "external_ids": []
+                    }
+                }
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 1,
+                        "sku_id": "1329498874326548543",
+                        "asset": "reward.jpg",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "Eika Free Agent",
+                            "name_with_article": "an Eika Free Agent",
+                            "redemption_instructions_by_platform": {
+                                "0": "*Congratulations!* Here’s how to redeem your reward:\n\nOpen the game on PC/Steam/Epic Games and go to the Settings menu.\n\nSelect Redeem Code.\nEnter your code.\nConfirm to claim your reward.\n\nJust a friendly reminder that all codes must be redeemed within 30 days of Quest completion."
+                            }
+                        },
+                        "approximate_count": 40000
+                    }
+                ],
+                "rewards_expire_at": "2025-02-25T00:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
     }
 ]
