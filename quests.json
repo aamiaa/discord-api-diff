@@ -3152,5 +3152,104 @@
         "user_status": null,
         "targeted_content": [],
         "preview": false
+    },
+    {
+        "id": "1332467347549847602",
+        "config": {
+            "id": "1332467347549847602",
+            "config_version": 2,
+            "starts_at": "2025-01-31T18:00:00+00:00",
+            "expires_at": "2025-02-07T01:00:00+00:00",
+            "features": [
+                3,
+                9,
+                14,
+                15,
+                16
+            ],
+            "experiments": {
+                "rollout": "2025-01_fortnite_og_s2",
+                "targeting": "2025-01_fortnite_og_s2_targeting",
+                "preview": "2025-01_fortnite_og_s2_preview"
+            },
+            "application": {
+                "link": "https://www.fortnite.com/",
+                "id": "432980957394370572",
+                "name": "Fortnite OG"
+            },
+            "assets": {
+                "hero": "hero.jpg",
+                "hero_video": null,
+                "quest_bar_hero": "questbar.jpg",
+                "quest_bar_hero_video": null,
+                "game_tile": "gametile.jpg",
+                "logotype": "workmark.png"
+            },
+            "colors": {
+                "primary": "#ff5d70",
+                "secondary": "#1a1a1a"
+            },
+            "messages": {
+                "quest_name": "Fortnite OG S2",
+                "game_title": "Fortnite OG",
+                "game_publisher": "Epic Games"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "event_name": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "external_ids": []
+                    },
+                    "PLAY_ON_XBOX": {
+                        "event_name": "PLAY_ON_XBOX",
+                        "target": 900,
+                        "external_ids": [
+                            "267695549"
+                        ]
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "event_name": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "external_ids": [
+                            "PPSA01923_00",
+                            "PPSA01922_00",
+                            "CUSA07022_00",
+                            "CUSA07669_00"
+                        ]
+                    }
+                }
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 3,
+                        "sku_id": "1334270711790833776",
+                        "asset": "reward_tile_sm.mp4",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "Boogie Bomb Avatar Decoration",
+                            "name_with_article": "a Boogie Bomb Avatar Decoration",
+                            "redemption_instructions_by_platform": {
+                                "0": ""
+                            }
+                        },
+                        "expires_at": "2025-04-05T00:00:00+00:00",
+                        "expires_at_premium": null,
+                        "expiration_mode": 1
+                    }
+                ],
+                "rewards_expire_at": "2025-03-08T00:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
     }
 ]
