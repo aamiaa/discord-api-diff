@@ -3252,5 +3252,85 @@
         "user_status": null,
         "targeted_content": [],
         "preview": false
+    },
+    {
+        "id": "1333902474313990218",
+        "config": {
+            "id": "1333902474313990218",
+            "config_version": 2,
+            "starts_at": "2025-02-05T20:00:00+00:00",
+            "expires_at": "2025-02-12T01:00:00+00:00",
+            "features": [
+                3,
+                9,
+                14,
+                15,
+                16
+            ],
+            "experiments": {
+                "rollout": "2025-02_supervive",
+                "targeting": null,
+                "preview": "2025-02_supervive_preview"
+            },
+            "application": {
+                "link": "https://store.steampowered.com/app/1283700/SUPERVIVE/",
+                "id": "1257422382000246785",
+                "name": "SUPERVIVE"
+            },
+            "assets": {
+                "hero": "hero_img.png",
+                "hero_video": "hero_v2.mp4",
+                "quest_bar_hero": "quest_bar_img.png",
+                "quest_bar_hero_video": "quest_bar_video_v2.mp4",
+                "game_tile": "game_title.png",
+                "logotype": "wordmark_v1.png"
+            },
+            "colors": {
+                "primary": "#9724f0",
+                "secondary": "#0d0d2e"
+            },
+            "messages": {
+                "quest_name": "SUPERVIVE",
+                "game_title": "SUPERVIVE",
+                "game_publisher": "Theorycraft"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "event_name": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "external_ids": []
+                    }
+                }
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 1,
+                        "sku_id": "1333902474313990220",
+                        "asset": "reward.png",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "Crysta Hunter Bundle",
+                            "name_with_article": "a Crysta Hunter Bundle",
+                            "redemption_instructions_by_platform": {
+                                "0": "Reward Instructions: Login to SUPERVIVE\n\nClick on Store\nClick on Redeem in the subnav\nPaste your code into the field\nClick the Redeem button or press enter"
+                            }
+                        },
+                        "approximate_count": null
+                    }
+                ],
+                "rewards_expire_at": "2025-03-13T00:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
     }
 ]
