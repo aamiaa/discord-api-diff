@@ -3332,5 +3332,107 @@
         "user_status": null,
         "targeted_content": [],
         "preview": false
+    },
+    {
+        "id": "1334671918745518170",
+        "config": {
+            "id": "1334671918745518170",
+            "config_version": 2,
+            "starts_at": "2025-02-11T18:00:00+00:00",
+            "expires_at": "2025-02-26T01:00:00+00:00",
+            "features": [
+                3,
+                9,
+                13,
+                14,
+                15,
+                16
+            ],
+            "experiments": {
+                "rollout": "2025-02_sid_meiers_civilization_vii",
+                "targeting": "2025-02_sid_meiers_civilization_vii_targeting",
+                "preview": "2025-02_sid_meiers_civilization_vii_preview"
+            },
+            "application": {
+                "link": "https://civilization.2k.com/civ-vii/buy/?utm_source=DCM&utm_medium=agency&utm_campaign=CivilizationVII",
+                "id": "545364944258990091",
+                "name": "Sid Meier's Civilization VII"
+            },
+            "assets": {
+                "hero": "hero.jpg",
+                "hero_video": null,
+                "quest_bar_hero": "quest_bar_hero.jpg",
+                "quest_bar_hero_video": "preview.webm",
+                "game_tile": "game_logo.jpg",
+                "logotype": "wordmark.png"
+            },
+            "colors": {
+                "primary": "#141414",
+                "secondary": "#141414"
+            },
+            "messages": {
+                "quest_name": "Sid Meier's Civilization VII",
+                "game_title": "Civilization VII",
+                "game_publisher": "2K"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "event_name": "WATCH_VIDEO",
+                        "target": 30,
+                        "external_ids": []
+                    }
+                }
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 3,
+                        "sku_id": "1336439189041975316",
+                        "asset": "reward.mp4",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "Scout Avatar Decoration",
+                            "name_with_article": "a Scout Avatar Decoration",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHODER FOR CROSS_PLATFORM"
+                            }
+                        },
+                        "expires_at": "2025-04-26T00:00:00+00:00",
+                        "expires_at_premium": null,
+                        "expiration_mode": 1
+                    }
+                ],
+                "rewards_expire_at": "2025-03-26T00:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "video_metadata": {
+                "messages": {
+                    "video_title": "Sid Meier's Civilization VII",
+                    "video_end_cta_title": "Sid Meier’s Civilization VII",
+                    "video_end_cta_subtitle": "Available Now on PC and Console.",
+                    "video_end_cta_button_label": "Buy Now"
+                },
+                "assets": {
+                    "video_player_video_hls": null,
+                    "video_player_video": "video_player_v1.mp4",
+                    "video_player_thumbnail": "end_card.jpg",
+                    "video_player_video_low_res": "video_player_v1_low_res.mp4",
+                    "video_player_caption": "civi_video_caps.vtt",
+                    "video_player_transcript": "civi_transcript.txt",
+                    "quest_bar_preview_video": "preview.webm",
+                    "quest_bar_preview_thumbnail": "civi_thumbnail.jpg",
+                    "quest_home_video": "preview.webm"
+                }
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
     }
 ]
