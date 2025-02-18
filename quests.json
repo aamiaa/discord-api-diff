@@ -3543,5 +3543,107 @@
         "user_status": null,
         "targeted_content": [],
         "preview": false
+    },
+    {
+        "id": "1336113788159791135",
+        "config": {
+            "id": "1336113788159791135",
+            "config_version": 2,
+            "starts_at": "2025-02-18T19:00:00+00:00",
+            "expires_at": "2025-02-25T01:00:00+00:00",
+            "features": [
+                3,
+                9,
+                12,
+                14,
+                15,
+                16
+            ],
+            "experiments": {
+                "rollout": "2025-02_perked_up",
+                "targeting": null,
+                "preview": "2025-02_perked_up_preview"
+            },
+            "application": {
+                "link": "https://overwatch.blizzard.com/en-us/",
+                "id": "356875221078245376",
+                "name": "Overwatch 2"
+            },
+            "assets": {
+                "hero": "hero.png",
+                "hero_video": null,
+                "quest_bar_hero": "quest_bar.png",
+                "quest_bar_hero_video": null,
+                "game_tile": "gametile.png",
+                "logotype": "wordmark.png"
+            },
+            "colors": {
+                "primary": "#ed6516",
+                "secondary": "#333e48"
+            },
+            "messages": {
+                "quest_name": "Perked Up",
+                "game_title": "Overwatch 2",
+                "game_publisher": "Blizzard"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "event_name": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "external_ids": []
+                    },
+                    "PLAY_ON_XBOX": {
+                        "event_name": "PLAY_ON_XBOX",
+                        "target": 900,
+                        "external_ids": [
+                            "05A3C308"
+                        ]
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "event_name": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "external_ids": [
+                            "PPSA07805_00",
+                            "CUSA03975_00",
+                            "CUSA04065_00",
+                            "CUSA01842_00",
+                            "PPSA08259_00",
+                            "CUSA03974_00",
+                            "PPSA07821_00"
+                        ]
+                    }
+                }
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 1,
+                        "sku_id": "1336113788159791137",
+                        "asset": "reward.png",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "5 Loot Boxes",
+                            "name_with_article": "5 Loot Boxes",
+                            "redemption_instructions_by_platform": {
+                                "0": "1. Login to the Battle.net Desktop App  \n2. Click your profile icon at the top right corner of the App   \n3. Click Redeem Code   \n4. You can also redeem at https://shop.battle.net/ by navigating to Redeem Code under Account. \n \nNote: Codes must be redeemed on Battle.net specifically, but will appear for any platform where that user has a license."
+                            }
+                        },
+                        "approximate_count": 1000000,
+                        "redemption_link": null
+                    }
+                ],
+                "rewards_expire_at": "2025-03-10T00:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
     }
 ]
