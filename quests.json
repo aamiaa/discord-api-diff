@@ -3562,7 +3562,7 @@
             "experiments": {
                 "rollout": "2025-02_perked_up",
                 "targeting": null,
-                "preview": "2025-02_perked_up_preview"
+                "preview": null
             },
             "application": {
                 "link": "https://overwatch.blizzard.com/en-us/",
@@ -3599,6 +3599,7 @@
                         "event_name": "PLAY_ON_XBOX",
                         "target": 900,
                         "external_ids": [
+                            "94618376",
                             "05A3C308"
                         ]
                     },
@@ -3607,12 +3608,12 @@
                         "target": 900,
                         "external_ids": [
                             "PPSA07805_00",
+                            "PPSA07821_00",
+                            "CUSA01842_00",
                             "CUSA03975_00",
                             "CUSA04065_00",
-                            "CUSA01842_00",
                             "PPSA08259_00",
-                            "CUSA03974_00",
-                            "PPSA07821_00"
+                            "CUSA03974_00"
                         ]
                     }
                 }
