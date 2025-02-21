@@ -3646,5 +3646,87 @@
         "user_status": null,
         "targeted_content": [],
         "preview": false
+    },
+    {
+        "id": "1339694846566203457",
+        "config": {
+            "id": "1339694846566203457",
+            "config_version": 2,
+            "starts_at": "2025-02-21T01:00:00+00:00",
+            "expires_at": "2025-02-27T01:00:00+00:00",
+            "features": [
+                3,
+                9,
+                12,
+                14,
+                15,
+                16
+            ],
+            "experiments": {
+                "rollout": "2025-02_delta_force",
+                "targeting": null,
+                "preview": null
+            },
+            "application": {
+                "link": "https://store.steampowered.com/app/2918370?utm_source=discordquest",
+                "id": "1314682894106497096",
+                "name": "Delta Force"
+            },
+            "assets": {
+                "hero": "hero_image.png",
+                "hero_video": "hero.webm",
+                "quest_bar_hero": "quest_bar_img.png",
+                "quest_bar_hero_video": "questbar.webm",
+                "game_tile": "gametile.png",
+                "logotype": "workmark.png"
+            },
+            "colors": {
+                "primary": "#0CA766",
+                "secondary": "#1A1A1A"
+            },
+            "messages": {
+                "quest_name": "BLACK HAWK DOWN",
+                "game_title": "DELTA FORCE",
+                "game_publisher": "Team Jade"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "event_name": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "external_ids": []
+                    }
+                }
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 1,
+                        "sku_id": "1339694846566203459",
+                        "asset": "reward.png",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "Spray Paint & Premium Armament Pack",
+                            "name_with_article": "a Spray Paint & Premium Armament Pack",
+                            "redemption_instructions_by_platform": {
+                                "0": "**Reward Instructions:**  \n\nRedeem the code below on [Delta Force Official Website](https://www.playdeltaforce.com/en/cdkredeem.html)   \nredemption page to get access to your reward.\n"
+                            }
+                        },
+                        "approximate_count": 4000000,
+                        "redemption_link": null
+                    }
+                ],
+                "rewards_expire_at": "2025-03-28T00:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
     }
 ]
