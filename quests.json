@@ -3828,5 +3828,86 @@
         "user_status": null,
         "targeted_content": [],
         "preview": false
+    },
+    {
+        "id": "1342624440894361622",
+        "config": {
+            "id": "1342624440894361622",
+            "config_version": 2,
+            "starts_at": "2025-02-24T18:00:00+00:00",
+            "expires_at": "2025-03-03T01:00:00+00:00",
+            "features": [
+                3,
+                9,
+                14,
+                15,
+                16
+            ],
+            "experiments": {
+                "rollout": "2025-02_seekers_of_skyveil",
+                "targeting": null,
+                "preview": null
+            },
+            "application": {
+                "link": "https://store.steampowered.com/app/2402420/Seekers_of_Skyveil/",
+                "id": "1342666212986978314",
+                "name": "Seekers of Skyveil"
+            },
+            "assets": {
+                "hero": "hero.png",
+                "hero_video": "hero_video.webm",
+                "quest_bar_hero": "bar.png",
+                "quest_bar_hero_video": "quest_bar.webm",
+                "game_tile": "gametile.png",
+                "logotype": "wordmark.png"
+            },
+            "colors": {
+                "primary": "#0FCD94",
+                "secondary": "#122C61"
+            },
+            "messages": {
+                "quest_name": "Seekers of Skyveil",
+                "game_title": "Seekers of Skyveil",
+                "game_publisher": "Elodie"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "event_name": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "external_ids": []
+                    }
+                }
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 1,
+                        "sku_id": "1342624440894361624",
+                        "asset": "reward.png",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "Grassland Strix Skin",
+                            "name_with_article": "a Grassland Strix Skin",
+                            "redemption_instructions_by_platform": {
+                                "0": "Reward Instructions:\nGo to https://account.playseekers.com  \nSign into the account portal with the Steam login that is linked with your Seekers of Skyveil game.  \nClick on “Redeem Code” on the left sidebar  \nInput your reward code in the field provided and click the “Redeem Code” button  \nYour reward item(s) will then be delivered to your in-game account for your use  \n(Please note that these reward codes are only valid for Steam players who played Seekers of Skyveil via the Steam platform)"
+                            }
+                        },
+                        "approximate_count": null,
+                        "redemption_link": null
+                    }
+                ],
+                "rewards_expire_at": "2025-04-02T00:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
     }
 ]
