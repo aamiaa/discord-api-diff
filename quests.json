@@ -3909,5 +3909,111 @@
         "user_status": null,
         "targeted_content": [],
         "preview": false
+    },
+    {
+        "id": "1341815498404266087",
+        "config": {
+            "id": "1341815498404266087",
+            "config_version": 2,
+            "starts_at": "2025-02-28T18:00:00+00:00",
+            "expires_at": "2025-03-07T01:00:00+00:00",
+            "features": [
+                3,
+                9,
+                14,
+                15,
+                16,
+                17,
+                18
+            ],
+            "experiments": {
+                "rollout": "2025-02_monster_hunter_wilds",
+                "targeting": null,
+                "preview": null
+            },
+            "application": {
+                "link": "https://bit.ly/MHWilds01",
+                "id": "1336486500212150282",
+                "name": "Monster Hunter Wilds"
+            },
+            "assets": {
+                "hero": "hero.jpg",
+                "hero_video": null,
+                "quest_bar_hero": "PLACEHOLDER",
+                "quest_bar_hero_video": "preview_v1.webm",
+                "game_tile": "game_tile.png",
+                "logotype": "wordmarkd.png"
+            },
+            "colors": {
+                "primary": "#351806",
+                "secondary": "#B5BEA9"
+            },
+            "messages": {
+                "quest_name": "Monster Hunter Wilds",
+                "game_title": "Monster Hunter Wilds",
+                "game_publisher": "Capcom"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "event_name": "WATCH_VIDEO",
+                        "target": 134,
+                        "external_ids": []
+                    }
+                }
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 1,
+                        "sku_id": "1341815498404266089",
+                        "asset": "reward_tile.png",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "The Hunt Begins: Assistance Pack",
+                            "name_with_article": "a The Hunt Begins: Assistance Pack",
+                            "redemption_instructions_by_platform": {
+                                "1": "Please visit the platform of your choice and redeem through their code redemption system:  \n[Xbox Series X|N](https://www.xbox.com/en-US/redeem)",
+                                "2": "Please visit the platform of your choice and redeem through their code redemption system:  \n[PlayStation5](https://www.playstation.com/en-us/support/store/redeem-ps-store-voucher-code/)\n\n**Note: PlayStation Codes – Available for Use in the Americas Only**",
+                                "4": "Please visit the platform of your choice and redeem through their code redemption system:\n[Steam](https://help.steampowered.com/en/faqs/view/2A12-9D79-C3D7-F870)"
+                            }
+                        },
+                        "approximate_count": null,
+                        "redemption_link": null
+                    }
+                ],
+                "rewards_expire_at": "2025-04-06T00:00:00+00:00",
+                "platforms": [
+                    1,
+                    2,
+                    4
+                ]
+            },
+            "video_metadata": {
+                "messages": {
+                    "video_title": "\"The Wilds are Calling\" for a reward available on PS Americas, PC, and XBOX",
+                    "video_end_cta_title": "Monster Hunter Wilds",
+                    "video_end_cta_subtitle": "Available Now",
+                    "video_end_cta_button_label": "Learn More"
+                },
+                "assets": {
+                    "video_player_video_hls": "video_hls.m3u8",
+                    "video_player_video": "video_v1.mp4",
+                    "video_player_thumbnail": "end_card.jpg",
+                    "video_player_video_low_res": "video_v1_low_res.mp4",
+                    "video_player_caption": "transcript_v1.vtt",
+                    "video_player_transcript": "subs_v1.txt",
+                    "quest_bar_preview_video": "preview_v1.webm",
+                    "quest_bar_preview_thumbnail": "PLACEHOLDER.jpg",
+                    "quest_home_video": "preview_v1.webm"
+                }
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
     }
 ]
