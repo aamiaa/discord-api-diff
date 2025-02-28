@@ -2,10 +2,9 @@
     "app": {
         "script-src": [
             "https://*.hcaptcha.com",
+            "https://*.paypal.com",
             "https://assets.braintreegateway.com",
-            "https://c.paypal.com",
             "https://cdn.discordapp.com/animations/",
-            "https://checkout.paypal.com",
             "https://hcaptcha.com",
             "https://js.braintreegateway.com",
             "https://js.stripe.com",
@@ -30,11 +29,9 @@
             "https://*.discordapp.com",
             "https://*.discordapp.net",
             "https://*.giphy.com",
-            "https://*.stats.paypal.com",
             "https://*.youtube.com",
             "https://api.cash.app",
             "https://assets.braintreegateway.com",
-            "https://c.paypal.com",
             "https://c.tenor.com",
             "https://checkout.paypal.com",
             "https://i.imgur.com",
@@ -96,18 +93,19 @@
             "https://vid.me"
         ],
         "frame-src": [
+            "https://*.dcams.app",
             "https://*.discordsays.com",
             "https://*.hcaptcha.com",
+            "https://*.paypal.com",
             "https://*.watchanimeattheoffice.com",
             "https://assets.braintreegateway.com",
             "https://audius.co/embed/",
-            "https://c.paypal.com",
-            "https://checkout.paypal.com",
             "https://checkoutshopper-live.adyen.com",
             "https://clips.twitch.tv/embed",
             "https://d3ogqhtsivkon3.cloudfront.net/",
             "https://discordapp.com/domain-migration",
             "https://discordappcom.cloudflareaccess.com/",
+            "https://family.k-id.com/",
             "https://hcaptcha.com",
             "https://hooks.stripe.com",
             "https://js.stripe.com",
@@ -141,9 +139,8 @@
             "https://www.youtube.com/s/player/"
         ],
         "child-src": [
-            "https://assets.braintreegateway.com",
-            "https://c.paypal.com",
-            "https://checkout.paypal.com"
+            "https://*.paypal.com",
+            "https://assets.braintreegateway.com"
         ],
         "report-uri": [
             "https://o64374.ingest.sentry.io/api/5441894/security/?sentry_key=8fbbce30bf5244ec9429546beef21870&sentry_environment=stable"
