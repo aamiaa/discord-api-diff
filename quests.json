@@ -4015,5 +4015,104 @@
         "user_status": null,
         "targeted_content": [],
         "preview": false
+    },
+    {
+        "id": "1344062072622944346",
+        "config": {
+            "id": "1344062072622944346",
+            "config_version": 2,
+            "starts_at": "2025-03-06T18:00:00+00:00",
+            "expires_at": "2025-03-13T00:00:00+00:00",
+            "features": [
+                3,
+                9,
+                14,
+                15,
+                16
+            ],
+            "experiments": {
+                "rollout": "2025-03_wilds_of_talandre",
+                "targeting": null,
+                "preview": null
+            },
+            "application": {
+                "link": "https://www.playthroneandliberty.com/wilds-of-talandre?utm_source=Discord",
+                "id": "1286341455773700096",
+                "name": "THRONE AND LIBERTY"
+            },
+            "assets": {
+                "hero": "hero_v2.png",
+                "hero_video": null,
+                "quest_bar_hero": "questbar_v2.png",
+                "quest_bar_hero_video": null,
+                "game_tile": "gametile_v1.png",
+                "logotype": "wordmark_v1.png"
+            },
+            "colors": {
+                "primary": "#47045D",
+                "secondary": "#211636"
+            },
+            "messages": {
+                "quest_name": "Wilds of Talandre",
+                "game_title": "THRONE AND LIBERTY",
+                "game_publisher": "Amazon Games"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "event_name": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "external_ids": []
+                    },
+                    "PLAY_ON_XBOX": {
+                        "event_name": "PLAY_ON_XBOX",
+                        "target": 900,
+                        "external_ids": [
+                            "1801842805"
+                        ]
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "event_name": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "external_ids": [
+                            "PPSA15517_00",
+                            "PPSA16194_00",
+                            "PPSA23921_00",
+                            "PPSA23922_00",
+                            "PPSA15518_00"
+                        ]
+                    }
+                }
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 1,
+                        "sku_id": "1344062072622944348",
+                        "asset": "reward.png",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "Amitoi & Coin Bundle",
+                            "name_with_article": "an Amitoi & Coin Bundle",
+                            "redemption_instructions_by_platform": {
+                                "0": "Your Reward Code\n\n1. Launch Throne and Liberty and progress to the Title Screen\n2. Either select an existing character if you have one, or create a new character if you do not.  \n3. Complete the tutorial and progress to Kastelton to unlock the Coupon feature  \n4. Open the Main Menu and select the Coupon button from the right-most pane  \n5. Enter the coupon code received, then press the \"Use\" button.  \n6. The Amitoi, Ornate Coins, and Star Crystals will automatically become available on the character once the coupon is claimed\n\n\nCoupon codes from this Quest can only be used once per account. Coupon codes received are valid until 5/6. Coupon codes can only be claimed after completing the tutorial and reaching Kastelton.\n\nYou claimed this\nFuzzy Percy Amitoi, 200x Ornate Coins, 200x Star Crystals (Event Pass)"
+                            }
+                        },
+                        "approximate_count": null,
+                        "redemption_link": null
+                    }
+                ],
+                "rewards_expire_at": "2025-04-12T00:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
     }
 ]
