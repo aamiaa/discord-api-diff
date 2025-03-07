@@ -4114,5 +4114,87 @@
         "user_status": null,
         "targeted_content": [],
         "preview": false
+    },
+    {
+        "id": "1344789761738674216",
+        "config": {
+            "id": "1344789761738674216",
+            "config_version": 2,
+            "starts_at": "2025-03-06T23:30:00+00:00",
+            "expires_at": "2025-03-13T00:00:00+00:00",
+            "features": [
+                3,
+                9,
+                14,
+                15,
+                16
+            ],
+            "experiments": {
+                "rollout": "2025-03_fragpunk_launch",
+                "targeting": null,
+                "preview": null
+            },
+            "application": {
+                "link": "https://gsght.com/c/gzigqw",
+                "id": "1346600025110614026",
+                "name": "FragPunk"
+            },
+            "assets": {
+                "hero": "hero.jpg",
+                "hero_video": null,
+                "quest_bar_hero": "questbar.jpg",
+                "quest_bar_hero_video": null,
+                "game_tile": "gametile.png",
+                "logotype": "word_v2.png"
+            },
+            "colors": {
+                "primary": "#7A4DFE",
+                "secondary": "#B3FF0F"
+            },
+            "messages": {
+                "quest_name": "FragPunk Launch",
+                "game_title": "FragPunk",
+                "game_publisher": "Bad Guitar Studio"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "event_name": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "external_ids": []
+                    }
+                }
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 3,
+                        "sku_id": "1346915187243876474",
+                        "asset": "fragpunk_avatar_deco_clyde_v3.mp4",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "Pathojen Avatar Decoration",
+                            "name_with_article": "a Pathojen Avatar Decoration",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHODER FOR CROSS_PLATFORM"
+                            }
+                        },
+                        "expires_at": "2025-05-13T00:00:00+00:00",
+                        "expires_at_premium": null,
+                        "expiration_mode": 3
+                    }
+                ],
+                "rewards_expire_at": "2025-04-12T00:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
     }
 ]
