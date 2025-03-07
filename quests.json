@@ -4196,5 +4196,87 @@
         "user_status": null,
         "targeted_content": [],
         "preview": false
+    },
+    {
+        "id": "1346182653220753550",
+        "config": {
+            "id": "1346182653220753550",
+            "config_version": 2,
+            "starts_at": "2025-03-07T18:00:00+00:00",
+            "expires_at": "2025-03-14T00:00:00+00:00",
+            "features": [
+                3,
+                9,
+                14,
+                15,
+                16
+            ],
+            "experiments": {
+                "rollout": "2025-03_split_fiction",
+                "targeting": null,
+                "preview": null
+            },
+            "application": {
+                "link": "https://www.ea.com/games/split-fiction/split-fiction/buy",
+                "id": "1346539568043655208",
+                "name": "Split Fiction"
+            },
+            "assets": {
+                "hero": "hero.jpg",
+                "hero_video": null,
+                "quest_bar_hero": "questbar.jpg",
+                "quest_bar_hero_video": null,
+                "game_tile": "gametile.png",
+                "logotype": "wordmark_v1.png"
+            },
+            "colors": {
+                "primary": "#00bbde",
+                "secondary": "#0d0e20"
+            },
+            "messages": {
+                "quest_name": "Split Fiction",
+                "game_title": "Split Fiction",
+                "game_publisher": "Hazelight Studios and EA Originals"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "event_name": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "external_ids": []
+                    }
+                }
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 3,
+                        "sku_id": "1346987105028407307",
+                        "asset": "splitfaction_2025_03_video.mp4",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "Split Avatar Decoration",
+                            "name_with_article": "a Split Avatar Decoration",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHODER FOR CROSS_PLATFORM"
+                            }
+                        },
+                        "expires_at": "2025-05-12T00:00:00+00:00",
+                        "expires_at_premium": null,
+                        "expiration_mode": 3
+                    }
+                ],
+                "rewards_expire_at": "2025-04-12T00:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
     }
 ]
