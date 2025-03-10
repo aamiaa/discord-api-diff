@@ -4278,5 +4278,107 @@
         "user_status": null,
         "targeted_content": [],
         "preview": false
+    },
+    {
+        "id": "1344799996050018344",
+        "config": {
+            "id": "1344799996050018344",
+            "config_version": 2,
+            "starts_at": "2025-03-10T17:00:00+00:00",
+            "expires_at": "2025-03-17T00:00:00+00:00",
+            "features": [
+                3,
+                9,
+                14,
+                15,
+                16,
+                18
+            ],
+            "experiments": {
+                "rollout": "2025-03_khazan_video",
+                "targeting": null,
+                "preview": null
+            },
+            "application": {
+                "link": "https://ad.doubleclick.net/ddm/trackclk/N880306.3866164DISCORD.COM/B33107275.416131780;dc_trk_aid=608772993;dc_trk_cid=231862176;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1",
+                "id": "545364944258990091",
+                "name": "The First Berserker"
+            },
+            "assets": {
+                "hero": "hero.png",
+                "hero_video": null,
+                "quest_bar_hero": "questbar_img.png",
+                "quest_bar_hero_video": "quest_bar.webm",
+                "game_tile": "gametile.png",
+                "logotype": "wordmark.png"
+            },
+            "colors": {
+                "primary": "#89712F",
+                "secondary": "#2F333E"
+            },
+            "messages": {
+                "quest_name": "Khazan Video",
+                "game_title": "The First Berserker: Khazan",
+                "game_publisher": "Nexon"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "event_name": "WATCH_VIDEO",
+                        "target": 59,
+                        "external_ids": []
+                    }
+                }
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 3,
+                        "sku_id": "1347624589571788951",
+                        "asset": "reward.mp4",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "Khazan Avatar Decoration",
+                            "name_with_article": "a Khazan Avatar Decoration",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHODER FOR CROSS_PLATFORM"
+                            }
+                        },
+                        "expires_at": "2025-05-17T00:00:00+00:00",
+                        "expires_at_premium": null,
+                        "expiration_mode": 3
+                    }
+                ],
+                "rewards_expire_at": "2025-04-16T00:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "video_metadata": {
+                "messages": {
+                    "video_title": "The First Berserker Khazan",
+                    "video_end_cta_title": "Fight, Fall, Rise Again",
+                    "video_end_cta_subtitle": "Play Demo Now. Pre-Order Today. Out 3.27.25.",
+                    "video_end_cta_button_label": "Learn More"
+                },
+                "assets": {
+                    "video_player_video_hls": "multivariant.m3u8",
+                    "video_player_video": "hero_video_v1.mp4",
+                    "video_player_thumbnail": "end_card.jpg",
+                    "video_player_video_low_res": "hero_video_low_res.mp4",
+                    "video_player_caption": "PLACEHOLDER.vtt",
+                    "video_player_transcript": "PLACEHOLDER.txt",
+                    "quest_bar_preview_video": "quest_bar.webm",
+                    "quest_bar_preview_thumbnail": "questbar_img.png",
+                    "quest_home_video": "quest_bar.webm"
+                }
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
     }
 ]
