@@ -4477,5 +4477,109 @@
         "user_status": null,
         "targeted_content": [],
         "preview": false
+    },
+    {
+        "id": "1348728205061783622",
+        "config": {
+            "id": "1348728205061783622",
+            "config_version": 2,
+            "starts_at": "2025-03-13T17:00:00+00:00",
+            "expires_at": "2025-03-19T23:00:00+00:00",
+            "features": [
+                3,
+                9,
+                14,
+                15,
+                16
+            ],
+            "experiments": {
+                "rollout": "2025-03_metaphor_rank_up",
+                "targeting": null,
+                "preview": null
+            },
+            "application": {
+                "link": "https://ad.doubleclick.net/ddm/trackclk/N880306.3866164DISCORD.COM/B33192010.416439752;dc_trk_aid=608899288;dc_trk_cid=231427057;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=$%7BGDPR%7D;gdpr_consent=$%7BGDPR_CONSENT_755%7D;ltd=;dc_tdv=1",
+                "id": "1294162617006297148",
+                "name": "Metaphor: ReFantazio"
+            },
+            "assets": {
+                "hero": "hero_v2.jpg",
+                "hero_video": null,
+                "quest_bar_hero": "questbar_v2.jpg",
+                "quest_bar_hero_video": null,
+                "game_tile": "gametile.jpg",
+                "logotype": "wordmark.png"
+            },
+            "colors": {
+                "primary": "#28A29D",
+                "secondary": "#D44259"
+            },
+            "messages": {
+                "quest_name": "Metaphor Rank Up",
+                "game_title": "Metaphor: ReFantazio (Full Game)",
+                "game_publisher": "SEGA"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "event_name": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "external_ids": []
+                    },
+                    "PLAY_ON_XBOX": {
+                        "event_name": "PLAY_ON_XBOX",
+                        "target": 900,
+                        "external_ids": [
+                            "1846145161"
+                        ]
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "event_name": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "external_ids": [
+                            "PPSA02075_00",
+                            "CUSA47038_00",
+                            "CUSA23631_00",
+                            "CUSA47037_00",
+                            "PPSA23307_00",
+                            "PPSA25426_00",
+                            "PPSA20799_00",
+                            "PPSA20800_00",
+                            "PPSA25425_00"
+                        ]
+                    }
+                }
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 3,
+                        "sku_id": "1349045865188294719",
+                        "asset": "reward_2.mp4",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "Gallica Avatar Decoration",
+                            "name_with_article": "a Gallica Avatar Decoration",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHODER FOR CROSS_PLATFORM"
+                            }
+                        },
+                        "expires_at": "2025-05-18T00:00:00+00:00",
+                        "expires_at_premium": null,
+                        "expiration_mode": 3
+                    }
+                ],
+                "rewards_expire_at": "2025-04-18T00:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
     }
 ]
