@@ -3410,7 +3410,7 @@
                         },
                         "expires_at": "2025-04-26T00:00:00+00:00",
                         "expires_at_premium": null,
-                        "expiration_mode": 1
+                        "expiration_mode": 3
                     }
                 ],
                 "rewards_expire_at": "2025-03-26T00:00:00+00:00",
@@ -4539,15 +4539,15 @@
                         "event_name": "PLAY_ON_PLAYSTATION",
                         "target": 900,
                         "external_ids": [
-                            "PPSA02075_00",
-                            "CUSA47038_00",
                             "CUSA23631_00",
-                            "CUSA47037_00",
+                            "CUSA47038_00",
                             "PPSA23307_00",
-                            "PPSA25426_00",
-                            "PPSA20799_00",
+                            "CUSA47037_00",
                             "PPSA20800_00",
-                            "PPSA25425_00"
+                            "PPSA20799_00",
+                            "PPSA02075_00",
+                            "PPSA25425_00",
+                            "PPSA25426_00"
                         ]
                     }
                 }
@@ -4567,7 +4567,7 @@
                                 "0": "PLACEHODER FOR CROSS_PLATFORM"
                             }
                         },
-                        "expires_at": "2025-05-18T00:00:00+00:00",
+                        "expires_at": "2025-05-20T00:00:00+00:00",
                         "expires_at_premium": null,
                         "expiration_mode": 3
                     }
