@@ -4581,5 +4581,106 @@
         "user_status": null,
         "targeted_content": [],
         "preview": false
+    },
+    {
+        "id": "1348766983507939461",
+        "config": {
+            "id": "1348766983507939461",
+            "config_version": 2,
+            "starts_at": "2025-03-13T23:00:00+00:00",
+            "expires_at": "2025-03-17T23:00:00+00:00",
+            "features": [
+                3,
+                9,
+                14,
+                15,
+                16,
+                18
+            ],
+            "experiments": {
+                "rollout": "2025-03_roblox_video",
+                "targeting": null,
+                "preview": null
+            },
+            "application": {
+                "link": "https://www.roblox.com/home",
+                "id": "363445589247131668",
+                "name": "Roblox"
+            },
+            "assets": {
+                "hero": "hero.png",
+                "hero_video": null,
+                "quest_bar_hero": "questbar.webm",
+                "quest_bar_hero_video": "questbar.webm",
+                "game_tile": "gametile_v1.png",
+                "logotype": "wordmark_v1.png"
+            },
+            "colors": {
+                "primary": "#6A6F81",
+                "secondary": "#F7F7F8"
+            },
+            "messages": {
+                "quest_name": "Roblox Video",
+                "game_title": "Roblox",
+                "game_publisher": "Roblox"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "event_name": "WATCH_VIDEO",
+                        "target": 29,
+                        "external_ids": []
+                    }
+                }
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 1,
+                        "sku_id": "1348766983507939463",
+                        "asset": "reward.png",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "Cactrot",
+                            "name_with_article": "a Cactrot",
+                            "redemption_instructions_by_platform": {
+                                "0": "Redeem the code below by opening Roblox - Join The Hunt: Mega Edition experience (https://www.roblox.com/games/124180448122765/The-Hunt-Mega-Edition)\nOnce in it, click 'Redeem Code' on the upper left corner\nEnter the code"
+                            }
+                        },
+                        "approximate_count": null,
+                        "redemption_link": null
+                    }
+                ],
+                "rewards_expire_at": "2025-04-16T00:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "video_metadata": {
+                "messages": {
+                    "video_title": "The Hunt: Mega Edition Trailer",
+                    "video_end_cta_title": "The Hunt: Mega Edition ",
+                    "video_end_cta_subtitle": "Prove It in The Hunt: Mega Edition!",
+                    "video_end_cta_button_label": "Play Now"
+                },
+                "assets": {
+                    "video_player_video_hls": "main_hls.m3u8",
+                    "video_player_video": "main_video_v1.mp4",
+                    "video_player_thumbnail": "end_card.png",
+                    "video_player_video_low_res": "main_video_low_res.mp4",
+                    "video_player_caption": "PLACEHOLDER.vtt",
+                    "video_player_transcript": "PLACEHOLDER.txt",
+                    "quest_bar_preview_video": "questbar.webm",
+                    "quest_bar_preview_thumbnail": "PLACEHOLDER.jpg",
+                    "quest_home_video": "questbar.webm"
+                }
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
     }
 ]
