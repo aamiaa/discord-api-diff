@@ -4682,5 +4682,105 @@
         "user_status": null,
         "targeted_content": [],
         "preview": false
+    },
+    {
+        "id": "1349481683262636154",
+        "config": {
+            "id": "1349481683262636154",
+            "config_version": 2,
+            "starts_at": "2025-03-18T18:00:00+00:00",
+            "expires_at": "2025-03-24T23:00:00+00:00",
+            "features": [
+                3,
+                9,
+                14,
+                15,
+                16,
+                18
+            ],
+            "experiments": {
+                "rollout": "2025-03_lifeweaver_skin",
+                "targeting": null,
+                "preview": null
+            },
+            "application": {
+                "link": "https://overwatch.blizzard.com?utm_source=Discord&utm_medium=PaidXDM",
+                "id": "356875221078245376",
+                "name": "Overwatch 2"
+            },
+            "assets": {
+                "hero": "hero.png",
+                "hero_video": null,
+                "quest_bar_hero": "questbar.png",
+                "quest_bar_hero_video": "questbar_video.webm",
+                "game_tile": "gametile.png",
+                "logotype": "wordmark.png"
+            },
+            "colors": {
+                "primary": "#ed6516",
+                "secondary": "#333e48"
+            },
+            "messages": {
+                "quest_name": "Lifeweaver Skin",
+                "game_title": "Overwatch 2",
+                "game_publisher": "Blizzard"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "event_name": "WATCH_VIDEO",
+                        "target": 64,
+                        "external_ids": []
+                    }
+                }
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 1,
+                        "sku_id": "1349481683262636156",
+                        "asset": "reward.png",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "Frozen Seer Lifeweaver",
+                            "name_with_article": "a Frozen Seer Lifeweaver",
+                            "redemption_instructions_by_platform": {
+                                "0": "1. Login to the Battle.net Desktop App  \n2. Click your profile icon at the top right corner of the App  \n3. Click Redeem Code   \n4. You can also redeem at https://shop.battle.net/ by navigating to Redeem Code under Account.\n\n**Note**: Codes must be redeemed on Battle.net specifically, but will appear for any platform where that user has a license."
+                            }
+                        },
+                        "approximate_count": null,
+                        "redemption_link": null
+                    }
+                ],
+                "rewards_expire_at": "2025-04-23T23:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "video_metadata": {
+                "messages": {
+                    "video_title": "Overwatch 2 - Midseason Mashup Trailer",
+                    "video_end_cta_title": "Play Now",
+                    "video_end_cta_subtitle": "Overwatch 2"
+                },
+                "assets": {
+                    "video_player_video_hls": "video_hls.m3u8",
+                    "video_player_video": "main_video_v1.mp4",
+                    "video_player_thumbnail": "end_card.png",
+                    "video_player_video_low_res": "main_video_low_res.mp4",
+                    "video_player_caption": "PLACEHOLDER.vtt",
+                    "video_player_transcript": "PLACEHOLDER.txt",
+                    "quest_bar_preview_video": "questbar_video.webm",
+                    "quest_bar_preview_thumbnail": "questbar.png",
+                    "quest_home_video": "questbar_video.webm"
+                }
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
     }
 ]
