@@ -37,6 +37,8 @@ jobs:
 
       - name: Run actions
         uses: ./action
+        with:
+          modules: collectibles quests profile_effects changelogs csp
 
       - name: Commit
         uses: stefanzweifel/git-auto-commit-action@v4
