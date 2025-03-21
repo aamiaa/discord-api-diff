@@ -4782,5 +4782,106 @@
         "user_status": null,
         "targeted_content": [],
         "preview": false
+    },
+    {
+        "id": "1350217192792129546",
+        "config": {
+            "id": "1350217192792129546",
+            "config_version": 2,
+            "starts_at": "2025-03-21T16:00:00+00:00",
+            "expires_at": "2025-03-30T23:00:00+00:00",
+            "features": [
+                3,
+                9,
+                14,
+                15,
+                16,
+                18
+            ],
+            "experiments": {
+                "rollout": "2025-03_walmart_skyward",
+                "targeting": null,
+                "preview": null
+            },
+            "application": {
+                "link": "https://discord.gg/7BUquQ9KhQ",
+                "id": "356875570916753438",
+                "name": "Minecraft"
+            },
+            "assets": {
+                "hero": "hero.png",
+                "hero_video": null,
+                "quest_bar_hero": "questbar_img.png",
+                "quest_bar_hero_video": "questbar_video.webm",
+                "game_tile": "gametile.png",
+                "logotype": "wordmark.png"
+            },
+            "colors": {
+                "primary": "#0053E2",
+                "secondary": "#001E60"
+            },
+            "messages": {
+                "quest_name": "Walmart Skyward",
+                "game_title": "Minecraft",
+                "game_publisher": "Walmart"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "event_name": "WATCH_VIDEO",
+                        "target": 29,
+                        "external_ids": []
+                    }
+                }
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 1,
+                        "sku_id": "1350217192792129548",
+                        "asset": "reward.png",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "Marty the Hippo Pet",
+                            "name_with_article": "a Marty the Hippo Pet",
+                            "redemption_instructions_by_platform": {
+                                "0": "**Join the official Walmart Skyward Discord server.** Collect your one-time use code to claim your exclusive in-game pet.\n\n\n1. Join the Walmart Skyward Java Experience.  \n2. Launch Minecraft Java Edition (version 1.21.3).  \n3. Connect to the server using the IP: playskyward.gg. and redeem Your Pet Code.  \n4. Once inside the server, locate the Skyward Redemption NPC in the main hub area.  \n5. Approach the NPC and right-click to interact.  \n6. The Anvil GUI will open as a text prompt.  \n7. Enter your one-time use code in the text prompt and confirm.  \n8. Upon successful redemption, your exclusive pet will be added to your inventory."
+                            }
+                        },
+                        "approximate_count": null,
+                        "redemption_link": null
+                    }
+                ],
+                "rewards_expire_at": "2025-04-29T23:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "video_metadata": {
+                "messages": {
+                    "video_title": "Walmart Skyward cinematic trailer",
+                    "video_end_cta_title": "Join at playskyward.gg (Java Edition 1.21.3)",
+                    "video_end_cta_subtitle": "Play Now",
+                    "video_end_cta_button_label": "Join Server"
+                },
+                "assets": {
+                    "video_player_video_hls": "vmain_hls.m3u8",
+                    "video_player_video": "vmain_high.mp4",
+                    "video_player_thumbnail": "endcard.png",
+                    "video_player_video_low_res": "vmain_low.mp4",
+                    "video_player_caption": "PLACEHOLDER.vtt",
+                    "video_player_transcript": "PLACEHOLDER.txt",
+                    "quest_bar_preview_video": "questbar_video.webm",
+                    "quest_bar_preview_thumbnail": "questbar_img.png",
+                    "quest_home_video": "questbar_video.webm"
+                }
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
     }
 ]
