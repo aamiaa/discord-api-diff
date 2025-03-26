@@ -4884,5 +4884,105 @@
         "user_status": null,
         "targeted_content": [],
         "preview": false
+    },
+    {
+        "id": "1351995621594108046",
+        "config": {
+            "id": "1351995621594108046",
+            "config_version": 2,
+            "starts_at": "2025-03-25T17:00:00+00:00",
+            "expires_at": "2025-03-31T23:00:00+00:00",
+            "features": [
+                3,
+                9,
+                12,
+                14,
+                15,
+                16
+            ],
+            "experiments": {
+                "rollout": "2025-03_fortnite_og",
+                "targeting": null,
+                "preview": null
+            },
+            "application": {
+                "link": "https://www.fortnite.com/",
+                "id": "432980957394370572",
+                "name": "Fortnite"
+            },
+            "assets": {
+                "hero": "hero.png",
+                "hero_video": null,
+                "quest_bar_hero": "questbar.png",
+                "quest_bar_hero_video": null,
+                "game_tile": "gametile.png",
+                "logotype": "wordmark.png"
+            },
+            "colors": {
+                "primary": "#8f49a5",
+                "secondary": "#a3545e"
+            },
+            "messages": {
+                "quest_name": "Fortnite OG",
+                "game_title": "Fortnite OG Season 3",
+                "game_publisher": "Epic Games"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "event_name": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "external_ids": []
+                    },
+                    "PLAY_ON_XBOX": {
+                        "event_name": "PLAY_ON_XBOX",
+                        "target": 900,
+                        "external_ids": [
+                            "267695549"
+                        ]
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "event_name": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "external_ids": [
+                            "CUSA07669_00",
+                            "PPSA01922_00",
+                            "PPSA01923_00",
+                            "CUSA07022_00"
+                        ]
+                    }
+                }
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 3,
+                        "sku_id": "1352347590917882008",
+                        "asset": "fortnite_llama_vid.mp4",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "Supply Llama Avatar Decoration",
+                            "name_with_article": "a Supply Llama Avatar Decoration",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHODER FOR CROSS_PLATFORM"
+                            }
+                        },
+                        "expires_at": "2025-05-31T23:00:00+00:00",
+                        "expires_at_premium": null,
+                        "expiration_mode": 3
+                    }
+                ],
+                "rewards_expire_at": "2025-04-29T23:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
     }
 ]
