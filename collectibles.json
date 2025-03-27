@@ -52474,6 +52474,83 @@
                 }
             },
             {
+                "sku_id": "1352407446391492660",
+                "name": "Buffering...",
+                "summary": "New personality loading in 3..2..1..",
+                "store_listing_id": "1352407446400012319",
+                "banner": "1354160427122032771",
+                "unpublished_at": null,
+                "styles": {
+                    "background_colors": [
+                        7847144,
+                        12509931
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 3600,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 3600,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "items": [
+                    {
+                        "type": 0,
+                        "id": "1352407446408265759",
+                        "sku_id": "1352407446391492660",
+                        "asset": "a_780cd1b7e878dce85d20c7ee495a86fe",
+                        "label": "A buffering icon spinning over your forehead... this might take a while."
+                    }
+                ],
+                "type": 0,
+                "premium_type": 0,
+                "category_sku_id": "1352407446500675708",
+                "google_sku_ids": {
+                    "5": "1352407446391492660_1353216102552830102",
+                    "7": "1352407446391492660_1353216112933736681"
+                }
+            },
+            {
                 "sku_id": "1352407446416658493",
                 "name": "Nature is Healing",
                 "summary": "Don't just touch the grass. Feel it. Breathe it. Be it.",
