@@ -8071,5 +8071,149 @@
                 "randomizedSources": []
             }
         ]
+    },
+    {
+        "type": 1,
+        "id": "1352407446433431572",
+        "sku_id": "1352407446416658493",
+        "title": "Nature is Healing",
+        "description": "Don't just touch the grass. Feel it. Breathe it. Be it.",
+        "accessibilityLabel": "The adorable paws of a white kitty playfully pats tufts of fresh grass.",
+        "animationType": 2,
+        "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-03-20/nature_is_healing/thumbnail.png",
+        "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-03-20/nature_is_healing/reduced_motion.png",
+        "effects": [
+            {
+                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-03-20/nature_is_healing/intro_grass.png",
+                "loop": true,
+                "height": 880,
+                "width": 450,
+                "duration": 4000,
+                "start": 0,
+                "loopDelay": 0,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "zIndex": 100,
+                "randomizedSources": []
+            },
+            {
+                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-03-20/nature_is_healing/intro_cat.png",
+                "loop": false,
+                "height": 880,
+                "width": 450,
+                "duration": 4000,
+                "start": 0,
+                "loopDelay": 0,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "zIndex": 102,
+                "randomizedSources": []
+            },
+            {
+                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-03-20/nature_is_healing/idle.png",
+                "loop": true,
+                "height": 880,
+                "width": 450,
+                "duration": 4000,
+                "start": 4000,
+                "loopDelay": 2000,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "zIndex": 101,
+                "randomizedSources": []
+            }
+        ]
+    },
+    {
+        "type": 1,
+        "id": "1352407446458597376",
+        "sku_id": "1352407446441951242",
+        "title": "Nom Kitty Crunch",
+        "description": "explodingcat.gif",
+        "accessibilityLabel": "A cat tries to catch chicken nuggets raining from the sky in its mouth and explodes after successfully catching its first one. You... win?",
+        "animationType": 2,
+        "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-03-24/nom_kitty_crunch/thumbnail.png",
+        "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-03-20/nom_kitty_crunch/reduced_motion.png",
+        "effects": [
+            {
+                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-03-20/nom_kitty_crunch/intro.png",
+                "loop": false,
+                "height": 880,
+                "width": 450,
+                "duration": 4417,
+                "start": 0,
+                "loopDelay": 0,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "zIndex": 100,
+                "randomizedSources": []
+            },
+            {
+                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-03-20/nom_kitty_crunch/idle.png",
+                "loop": true,
+                "height": 880,
+                "width": 450,
+                "duration": 4000,
+                "start": 4417,
+                "loopDelay": 2000,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "zIndex": 101,
+                "randomizedSources": []
+            }
+        ]
+    },
+    {
+        "type": 1,
+        "id": "1352407446483763250",
+        "sku_id": "1352407446466990130",
+        "title": "Tumbleweeds",
+        "description": "Nothing to see here.",
+        "accessibilityLabel": "Tumbleweeds roll across your profile, seemingly barren of good style.",
+        "animationType": 2,
+        "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-03-20/tumbleweeds/thumbnail.png",
+        "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-03-20/tumbleweeds/reduced_motion.png",
+        "effects": [
+            {
+                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-03-20/tumbleweeds/intro.png",
+                "loop": false,
+                "height": 880,
+                "width": 450,
+                "duration": 4000,
+                "start": 0,
+                "loopDelay": 0,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "zIndex": 100,
+                "randomizedSources": []
+            },
+            {
+                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-03-20/tumbleweeds/idle.png",
+                "loop": true,
+                "height": 880,
+                "width": 450,
+                "duration": 4000,
+                "start": 4000,
+                "loopDelay": 2000,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "zIndex": 101,
+                "randomizedSources": []
+            }
+        ]
     }
 ]
