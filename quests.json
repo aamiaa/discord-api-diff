@@ -4984,5 +4984,105 @@
         "user_status": null,
         "targeted_content": [],
         "preview": false
+    },
+    {
+        "id": "1351274557138276435",
+        "config": {
+            "id": "1351274557138276435",
+            "config_version": 2,
+            "starts_at": "2025-03-27T17:00:00+00:00",
+            "expires_at": "2025-03-31T23:00:00+00:00",
+            "features": [
+                3,
+                9,
+                14,
+                15,
+                16
+            ],
+            "experiments": {
+                "rollout": "2025-03_pc_game_pass",
+                "targeting": null,
+                "preview": null
+            },
+            "application": {
+                "link": "https://xbox.com/pcgamepass",
+                "id": "545364944258990091",
+                "name": "Xbox Game Studios"
+            },
+            "assets": {
+                "hero": "hero.jpg",
+                "hero_video": null,
+                "quest_bar_hero": "quest_bar.jpg",
+                "quest_bar_hero_video": "questbar_preview_v2.webm",
+                "game_tile": "gametile.png",
+                "logotype": "wordmark.png"
+            },
+            "colors": {
+                "primary": "#141414",
+                "secondary": "#107c10"
+            },
+            "messages": {
+                "quest_name": "PC Game Pass",
+                "game_title": "Xbox Game Studios",
+                "game_publisher": "Microsoft"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "event_name": "WATCH_VIDEO",
+                        "target": 61,
+                        "external_ids": []
+                    }
+                }
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 1,
+                        "sku_id": "1351274557138276437",
+                        "asset": "reward.jpg",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "7-Day PC Game Pass Trial",
+                            "name_with_article": "a 7-Day PC Game Pass Trial",
+                            "redemption_instructions_by_platform": {
+                                "0": "1. To redeem your 7-day PC Game Pass trial code visit microsoft.com/redeem by **April 15, 2025 11:59 PM PST.** \n \n2. Valid payment method required. Subscription continues automatically at then-current regular membership rate unless cancelled through your Microsoft Account.\n\nLimit: 1 per person/account. Subject to the Microsoft Services Agreement, Game Pass terms and system requirements at: xbox.com/subscriptionterms.\n\n**Available in US, CA, MX, BR, UK, FR, DE, AU, JP, TH, MY, SG, KR.**\n\n**This reward is not available in Argentina, China, Russia, and Turkey.**"
+                            }
+                        },
+                        "approximate_count": null,
+                        "redemption_link": null
+                    }
+                ],
+                "rewards_expire_at": "2025-04-30T00:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "video_metadata": {
+                "messages": {
+                    "video_title": "We Got You video",
+                    "video_end_cta_title": "PC Game Pass",
+                    "video_end_cta_subtitle": "Claim a 7-day PC Game Pass trial.",
+                    "video_end_cta_button_label": "Get Offer"
+                },
+                "assets": {
+                    "video_player_video_hls": null,
+                    "video_player_video": "main_video_v1.mp4",
+                    "video_player_thumbnail": "endcard.jpg",
+                    "video_player_video_low_res": "main_video_low_res.mp4",
+                    "video_player_caption": "captions.vtt",
+                    "video_player_transcript": "subtitles.txt",
+                    "quest_bar_preview_video": "questbar_preview_v2.webm",
+                    "quest_bar_preview_thumbnail": "quest_bar.jpg",
+                    "quest_home_video": "questbar_preview_v2.webm"
+                }
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
     }
 ]
