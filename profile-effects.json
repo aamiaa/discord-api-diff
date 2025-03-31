@@ -8215,5 +8215,134 @@
                 "randomizedSources": []
             }
         ]
+    },
+    {
+        "type": 1,
+        "id": "1354894010782847179",
+        "sku_id": "1354894010761744455",
+        "title": "Lazy Loaf",
+        "description": "Ahhh to be a lazy loaf :3",
+        "accessibilityLabel": "A freshly baked bread dog strolls and lies down comfortably before being picked up and away with tongs.",
+        "animationType": 2,
+        "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-03-27/lazy_loaf/thumbnail.png",
+        "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-03-27/lazy_loaf/reduced_motion.png",
+        "effects": [
+            {
+                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-03-27/lazy_loaf/intro.png",
+                "loop": false,
+                "height": 880,
+                "width": 450,
+                "duration": 6875,
+                "start": 0,
+                "loopDelay": 0,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "zIndex": 100,
+                "randomizedSources": []
+            },
+            {
+                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-03-27/lazy_loaf/idle.png",
+                "loop": true,
+                "height": 880,
+                "width": 450,
+                "duration": 2208,
+                "start": 6875,
+                "loopDelay": 3000,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "zIndex": 101,
+                "randomizedSources": []
+            }
+        ]
+    },
+    {
+        "type": 1,
+        "id": "1354894010803818666",
+        "sku_id": "1354894010790969454",
+        "title": "Capyccino",
+        "description": "Pour yourself a cup!",
+        "accessibilityLabel": "Two capybaras and a duck relax on their spa day in a hot cup of cappuccino.",
+        "animationType": 2,
+        "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-03-27/capyccino/thumbnail.png",
+        "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-03-27/capyccino/reduced_motion.png",
+        "effects": [
+            {
+                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-03-27/capyccino/intro.png",
+                "loop": false,
+                "height": 880,
+                "width": 450,
+                "duration": 6750,
+                "start": 0,
+                "loopDelay": 0,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "zIndex": 100,
+                "randomizedSources": []
+            },
+            {
+                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-03-27/capyccino/idle.png",
+                "loop": true,
+                "height": 880,
+                "width": 450,
+                "duration": 3417,
+                "start": 6750,
+                "loopDelay": 3000,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "zIndex": 101,
+                "randomizedSources": []
+            }
+        ]
+    },
+    {
+        "type": 1,
+        "id": "1354894010828722259",
+        "sku_id": "1354894010811941054",
+        "title": "Pancake Pals",
+        "description": "So floofy! So soft! So sweet!",
+        "accessibilityLabel": "Lively animal-shaped pancakes, syrup, and berries fly into view for what'll make for a sweet and delicious breakfast.",
+        "animationType": 2,
+        "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-03-27/pancake_pals/thumbnail.png",
+        "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-03-27/pancake_pals/reduced_motion.png",
+        "effects": [
+            {
+                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-03-27/pancake_pals/intro.png",
+                "loop": false,
+                "height": 880,
+                "width": 450,
+                "duration": 2500,
+                "start": 0,
+                "loopDelay": 0,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "zIndex": 100,
+                "randomizedSources": []
+            },
+            {
+                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-03-27/pancake_pals/idle.png",
+                "loop": true,
+                "height": 880,
+                "width": 450,
+                "duration": 2833,
+                "start": 2500,
+                "loopDelay": 3000,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "zIndex": 101,
+                "randomizedSources": []
+            }
+        ]
     }
 ]
