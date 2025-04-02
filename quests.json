@@ -5084,5 +5084,87 @@
         "user_status": null,
         "targeted_content": [],
         "preview": false
+    },
+    {
+        "id": "1355245062296047666",
+        "config": {
+            "id": "1355245062296047666",
+            "config_version": 2,
+            "starts_at": "2025-04-02T19:00:00+00:00",
+            "expires_at": "2025-04-08T17:00:00+00:00",
+            "features": [
+                3,
+                9,
+                14,
+                15,
+                16,
+                19
+            ],
+            "experiments": {
+                "rollout": "2025-04_supervive",
+                "targeting": null,
+                "preview": null
+            },
+            "application": {
+                "link": "https://store.steampowered.com/app/1283700/SUPERVIVE/",
+                "id": "1257422382000246785",
+                "name": "SUPERVIVE"
+            },
+            "assets": {
+                "hero": "hero_img.png",
+                "hero_video": "hero_v2.mp4",
+                "quest_bar_hero": "quest_bar_img.png",
+                "quest_bar_hero_video": "quest_bar_video_v2.mp4",
+                "game_tile": "game_title.png",
+                "logotype": "wordmark.png"
+            },
+            "colors": {
+                "primary": "#9724f0",
+                "secondary": "#0d0d2e"
+            },
+            "messages": {
+                "quest_name": "SUPERVIVE",
+                "game_title": "SUPERVIVE",
+                "game_publisher": "Theorycraft Games"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "event_name": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "external_ids": []
+                    }
+                }
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 1,
+                        "sku_id": "1355245062296047668",
+                        "asset": "reward.png",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "the New Hunter: Eva",
+                            "name_with_article": "the New Hunter: Eva",
+                            "redemption_instructions_by_platform": {
+                                "0": "1. Login to SUPERVIVE   \n2. Click on Store\nClick on Redeem in the subnav\nPaste your code into the field  \n3. Click the Redeem button or press enter\n"
+                            }
+                        },
+                        "approximate_count": null,
+                        "redemption_link": null
+                    }
+                ],
+                "rewards_expire_at": "2025-05-08T00:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
     }
 ]
