@@ -5166,5 +5166,208 @@
         "user_status": null,
         "targeted_content": [],
         "preview": false
+    },
+    {
+        "id": "1354932025290919966",
+        "config": {
+            "id": "1354932025290919966",
+            "config_version": 2,
+            "starts_at": "2025-04-03T17:00:00+00:00",
+            "expires_at": "2025-04-16T23:00:00+00:00",
+            "features": [
+                3,
+                9,
+                14,
+                15,
+                16,
+                19,
+                20
+            ],
+            "experiments": {
+                "rollout": "2025-04_cod_warzone",
+                "targeting": null,
+                "preview": null
+            },
+            "application": {
+                "link": "https://www.callofduty.com/warzone?utm_source=discord_quest&utm_medium=referral&utm_campaign=sierradiscordquest",
+                "id": "1306357637893587014",
+                "name": "Call of Duty: Warzone"
+            },
+            "assets": {
+                "hero": "hero.jpg",
+                "hero_video": null,
+                "quest_bar_hero": "questbar.jpg",
+                "quest_bar_hero_video": null,
+                "game_tile": "gamename.jpg",
+                "logotype": "wordmark.png"
+            },
+            "colors": {
+                "primary": "#1F995C",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "COD: Warzone",
+                "game_title": "Call of Duty: Warzone",
+                "game_publisher": "Activision"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "event_name": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "external_ids": []
+                    },
+                    "PLAY_ON_XBOX": {
+                        "event_name": "PLAY_ON_XBOX",
+                        "target": 900,
+                        "external_ids": [
+                            "2001700854"
+                        ]
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "event_name": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "external_ids": [
+                            "PPSA07953_00",
+                            "PPSA01649_00",
+                            "CUSA23827_00",
+                            "CUSA34031_00",
+                            "CUSA34032_00",
+                            "CUSA34030_00",
+                            "CUSA34029_00",
+                            "PPSA07952_00",
+                            "PPSA07951_00",
+                            "PPSA07950_00"
+                        ]
+                    }
+                }
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 1,
+                        "sku_id": "1354932025290919968",
+                        "asset": "rewardv2.jpg",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "Calling Card + 2WXP Token",
+                            "name_with_article": "a Calling Card + 2WXP Token",
+                            "redemption_instructions_by_platform": {
+                                "0": "1. To redeem your COD: Warzone Quest reward, visit Call of Duty’s code redemption website (callofduty.com/redeem) and log in to your account.\n\n2. Enter your code to obtain your Calling Card and Double XP Token"
+                            }
+                        },
+                        "approximate_count": null,
+                        "redemption_link": null
+                    }
+                ],
+                "rewards_expire_at": "2025-05-16T23:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
+    },
+    {
+        "id": "1356415968183844924",
+        "config": {
+            "id": "1356415968183844924",
+            "config_version": 2,
+            "starts_at": "2025-04-03T17:00:00+00:00",
+            "expires_at": "2025-04-09T23:00:00+00:00",
+            "features": [
+                3,
+                9,
+                14,
+                15,
+                16,
+                19
+            ],
+            "experiments": {
+                "rollout": "2025-04_m3gan_20_trailer",
+                "targeting": null,
+                "preview": null
+            },
+            "application": {
+                "link": "https://www.m3ganmovie.com/",
+                "id": "111111111111111111",
+                "name": "M3GAN 2.0"
+            },
+            "assets": {
+                "hero": "hero.jpg",
+                "hero_video": null,
+                "quest_bar_hero": "questbar_img.png",
+                "quest_bar_hero_video": "questbar.webm",
+                "game_tile": "gametile.png",
+                "logotype": "wordmark.png"
+            },
+            "colors": {
+                "primary": "#FF7ABF",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "M3GAN 2.0 Trailer",
+                "game_title": "M3GAN 2.0",
+                "game_publisher": "Universal Pictures"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "event_name": "WATCH_VIDEO",
+                        "target": 165,
+                        "external_ids": []
+                    }
+                }
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 5,
+                        "sku_id": "1298745361602449479",
+                        "asset": "PLACEHOLDER",
+                        "messages": {
+                            "name": "1 day of Nitro",
+                            "name_with_article": "1 day of Nitro",
+                            "redemption_instructions_by_platform": {
+                                "0": "Congrats! You earned 1 day of Nitro."
+                            }
+                        }
+                    }
+                ],
+                "rewards_expire_at": "2025-05-09T23:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "video_metadata": {
+                "messages": {
+                    "video_title": "M3GAN 2.0 Trailer",
+                    "video_end_cta_title": "M3GAN 2.0",
+                    "video_end_cta_subtitle": "Only in Theaters June 27"
+                },
+                "assets": {
+                    "video_player_video_hls": null,
+                    "video_player_video": "main_video_v1.mp4",
+                    "video_player_thumbnail": "end_card.jpg",
+                    "video_player_video_low_res": "main_video_low_res.mp4",
+                    "video_player_caption": "captions.vtt",
+                    "video_player_transcript": "subs_v2.txt",
+                    "quest_bar_preview_video": "questbar.webm",
+                    "quest_bar_preview_thumbnail": "questbar_img.png",
+                    "quest_home_video": "questbar.webm"
+                }
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
     }
 ]
