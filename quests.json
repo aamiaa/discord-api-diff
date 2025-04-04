@@ -5369,5 +5369,106 @@
         "user_status": null,
         "targeted_content": [],
         "preview": false
+    },
+    {
+        "id": "1356396007298044110",
+        "config": {
+            "id": "1356396007298044110",
+            "config_version": 2,
+            "starts_at": "2025-04-04T17:00:00+00:00",
+            "expires_at": "2025-04-10T23:00:00+00:00",
+            "features": [
+                3,
+                9,
+                14,
+                15,
+                16,
+                18,
+                19
+            ],
+            "experiments": {
+                "rollout": "2025-04_pc_game_pass",
+                "targeting": null,
+                "preview": null
+            },
+            "application": {
+                "link": "https://xbox.com/pcgamepass",
+                "id": "111111111111111111",
+                "name": "Xbox Game Studios"
+            },
+            "assets": {
+                "hero": "hero_v3.jpg",
+                "hero_video": null,
+                "quest_bar_hero": "pcgamepass.png",
+                "quest_bar_hero_video": "questbar_v4.webm",
+                "game_tile": "gametile.jpg",
+                "logotype": "wordmark.png"
+            },
+            "colors": {
+                "primary": "#141414",
+                "secondary": "#107c10"
+            },
+            "messages": {
+                "quest_name": "PC Game Pass",
+                "game_title": "Xbox Game Studios",
+                "game_publisher": "Xbox"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "event_name": "WATCH_VIDEO",
+                        "target": 69,
+                        "external_ids": []
+                    }
+                }
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 1,
+                        "sku_id": "1356396007298044112",
+                        "asset": "reward.jpg",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "7-day Trial",
+                            "name_with_article": "a 7-day Trial",
+                            "redemption_instructions_by_platform": {
+                                "0": "1. To redeem your 7-day PC Game Pass trial code visit microsoft.com/redeem by April 15th 2025 11:59 PM PST  \n\n2. Valid payment method required. Subscription continues automatically at then-current regular membership rate unless cancelled through your Microsoft Account.\n\n**Limit: 1 per person/account.**\n\nSubject to the Microsoft Services Agreement, Game Pass terms and system requirements at: xbox.com/subscriptionterms.  \n**Available in US, CA, MX, BR, UK, FR, DE, AU, JP, TH, MY, SG** \n\n**This reward is not available in Korea, Argentina, China, Russia, and Turkey.**"
+                            }
+                        },
+                        "approximate_count": null,
+                        "redemption_link": null
+                    }
+                ],
+                "rewards_expire_at": "2025-05-10T23:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "video_metadata": {
+                "messages": {
+                    "video_title": "It's a Journey video",
+                    "video_end_cta_title": "PC Game Pass Quest",
+                    "video_end_cta_subtitle": "Claim a 7-day PC Game Pass trial"
+                },
+                "assets": {
+                    "video_player_video_hls": "main_hls.m3u8",
+                    "video_player_video": "mainvideo_v1.mp4",
+                    "video_player_thumbnail": "endcard.jpg",
+                    "video_player_video_low_res": "mainvideo_low_res.mp4",
+                    "video_player_caption": "pcpass_caps.vtt",
+                    "video_player_transcript": "pcpass_subs.txt",
+                    "quest_bar_preview_video": "questbar_v4.webm",
+                    "quest_bar_preview_thumbnail": "pcgamepass.png",
+                    "quest_home_video": "questbar_v4.webm"
+                }
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
     }
 ]
