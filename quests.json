@@ -5470,5 +5470,107 @@
         "user_status": null,
         "targeted_content": [],
         "preview": false
+    },
+    {
+        "id": "1357117252993814638",
+        "config": {
+            "id": "1357117252993814638",
+            "config_version": 2,
+            "starts_at": "2025-04-07T17:00:00+00:00",
+            "expires_at": "2025-04-14T06:59:00+00:00",
+            "features": [
+                3,
+                9,
+                14,
+                15,
+                16,
+                19
+            ],
+            "experiments": {
+                "rollout": "2025-04_the_last_of_us_season_2",
+                "targeting": null,
+                "preview": null
+            },
+            "application": {
+                "link": "https://www.max.com/the-last-of-us",
+                "id": "111111111111111111",
+                "name": "The Last of Us"
+            },
+            "assets": {
+                "hero": "hero.jpg",
+                "hero_video": null,
+                "quest_bar_hero": "questbar_img.png",
+                "quest_bar_hero_video": "quest_bar_video.webm",
+                "game_tile": "gametile.jpg",
+                "logotype": "wordmark.png"
+            },
+            "colors": {
+                "primary": "#203D35",
+                "secondary": "#677959"
+            },
+            "messages": {
+                "quest_name": "The Last of Us Season 2",
+                "game_title": "The Last of Us",
+                "game_publisher": "Max"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "event_name": "WATCH_VIDEO",
+                        "target": 29,
+                        "external_ids": []
+                    }
+                }
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 3,
+                        "sku_id": "1357852406079291593",
+                        "asset": "CCQ09-TUL_AD_The_Last_of_Us_288px_V01.mp4",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "Clicker Avatar Decoration",
+                            "name_with_article": "a Clicker Avatar Decoration",
+                            "redemption_instructions_by_platform": {
+                                "0": "This collectible can be redeemed on Discord! Go to your Gift Inventory to redeem and equip."
+                            }
+                        },
+                        "expires_at": "2025-06-13T23:00:00+00:00",
+                        "expires_at_premium": null,
+                        "expiration_mode": 1
+                    }
+                ],
+                "rewards_expire_at": "2025-05-13T23:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "video_metadata": {
+                "messages": {
+                    "video_title": "The Last of Us Season 2",
+                    "video_end_cta_title": "The Last of Us Season 2",
+                    "video_end_cta_subtitle": "The Last of Us returns this Sunday at 9pm on Max.",
+                    "video_end_cta_button_label": "Learn More"
+                },
+                "assets": {
+                    "video_player_video_hls": null,
+                    "video_player_video": "main_video_v1.mp4",
+                    "video_player_thumbnail": "endcard.jpg",
+                    "video_player_video_low_res": "main_video_low_res.mp4",
+                    "video_player_caption": "lastofus_v3.vtt",
+                    "video_player_transcript": "lastofus_subs.txt",
+                    "quest_bar_preview_video": "quest_bar_video.webm",
+                    "quest_bar_preview_thumbnail": "questbar_img.png",
+                    "quest_home_video": "quest_bar_video.webm"
+                }
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
     }
 ]
