@@ -5572,5 +5572,206 @@
         "user_status": null,
         "targeted_content": [],
         "preview": false
+    },
+    {
+        "id": "1355235504530002112",
+        "config": {
+            "id": "1355235504530002112",
+            "config_version": 2,
+            "starts_at": "2025-04-11T17:00:00+00:00",
+            "expires_at": "2025-04-17T23:00:00+00:00",
+            "features": [
+                3,
+                9,
+                14,
+                15,
+                16,
+                19
+            ],
+            "experiments": {
+                "rollout": "2029-12_path_of_exile_2",
+                "targeting": null,
+                "preview": null
+            },
+            "application": {
+                "link": "https://pathofexile2.com/",
+                "id": "1328876348361412619",
+                "name": "Path of Exile 2"
+            },
+            "assets": {
+                "hero": "hero_v2.png\t",
+                "hero_video": null,
+                "quest_bar_hero": "querbar_v2.png",
+                "quest_bar_hero_video": null,
+                "game_tile": "gametile_V2.png",
+                "logotype": "wordmark_v3.png"
+            },
+            "colors": {
+                "primary": "#6e0000",
+                "secondary": "#340106"
+            },
+            "messages": {
+                "quest_name": "Path of Exile 2",
+                "game_title": "Path of Exile 2",
+                "game_publisher": "Grinding Gear Games"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "event_name": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "external_ids": []
+                    },
+                    "PLAY_ON_XBOX": {
+                        "event_name": "PLAY_ON_XBOX",
+                        "target": 900,
+                        "external_ids": [
+                            "626b2198",
+                            "1651188120"
+                        ]
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "event_name": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "external_ids": [
+                            "PPSA22041_00",
+                            "PPSA22040_00",
+                            "PPSA23975_00",
+                            "PPSA23974_00"
+                        ]
+                    }
+                }
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 3,
+                        "sku_id": "1359328540104986636",
+                        "asset": "Avatar_Decoration_Dark_Template_.mp4",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "Face of Corruption Avatar Decoration",
+                            "name_with_article": "a Face of Corruption Avatar Decoration",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHODER FOR CROSS_PLATFORM"
+                            }
+                        },
+                        "expires_at": "2025-06-17T00:00:00+00:00",
+                        "expires_at_premium": null,
+                        "expiration_mode": 3
+                    }
+                ],
+                "rewards_expire_at": "2025-05-17T23:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
+    },
+    {
+        "id": "1358865241210880182",
+        "config": {
+            "id": "1358865241210880182",
+            "config_version": 2,
+            "starts_at": "2025-04-11T17:00:00+00:00",
+            "expires_at": "2025-04-18T06:00:00+00:00",
+            "features": [
+                3,
+                9,
+                12,
+                14,
+                15,
+                16,
+                19
+            ],
+            "experiments": {
+                "rollout": "2025-04_marvel_rivals_s2",
+                "targeting": null,
+                "preview": null
+            },
+            "application": {
+                "link": "https://www.marvelrivals.com/",
+                "id": "1314395942253756416",
+                "name": "Marvel Rivals"
+            },
+            "assets": {
+                "hero": "heroimg.png",
+                "hero_video": "herovideo_trim.webm",
+                "quest_bar_hero": "questbar_img_v3.png",
+                "quest_bar_hero_video": "questbar_v3.webm",
+                "game_tile": "gametile.png",
+                "logotype": "wordmark.png"
+            },
+            "colors": {
+                "primary": "#B49E15",
+                "secondary": "#01227F"
+            },
+            "messages": {
+                "quest_name": "Marvel Rivals S2",
+                "game_title": "Marvel Rivals",
+                "game_publisher": "NetEase Games"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "event_name": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "external_ids": []
+                    },
+                    "PLAY_ON_XBOX": {
+                        "event_name": "PLAY_ON_XBOX",
+                        "target": 900,
+                        "external_ids": [
+                            "1794906646",
+                            "1758492876"
+                        ]
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "event_name": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "external_ids": [
+                            "PPSA21669_00",
+                            "PPSA21668_00"
+                        ]
+                    }
+                }
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 3,
+                        "sku_id": "1359953429778137322",
+                        "asset": "marvelsnap_2025_04.mp4",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "Emma Frost Avatar Decoration",
+                            "name_with_article": "an Emma Frost Avatar Decoration",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHODER FOR CROSS_PLATFORM"
+                            }
+                        },
+                        "expires_at": "2025-06-18T07:00:00+00:00",
+                        "expires_at_premium": null,
+                        "expiration_mode": 3
+                    }
+                ],
+                "rewards_expire_at": "2025-05-17T00:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
     }
 ]
