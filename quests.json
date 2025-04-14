@@ -5773,5 +5773,108 @@
         "user_status": null,
         "targeted_content": [],
         "preview": false
+    },
+    {
+        "id": "1359952298775810048",
+        "config": {
+            "id": "1359952298775810048",
+            "config_version": 2,
+            "starts_at": "2025-04-14T17:00:00+00:00",
+            "expires_at": "2025-04-20T23:00:00+00:00",
+            "features": [
+                3,
+                9,
+                14,
+                15,
+                16,
+                18,
+                19
+            ],
+            "experiments": {
+                "rollout": "2025-04_marathon_reveal",
+                "targeting": null,
+                "preview": null
+            },
+            "application": {
+                "link": "http://discord.gg/marathonthegame",
+                "id": "111111111111111111",
+                "name": "Marathon"
+            },
+            "assets": {
+                "hero": "hero.jpg",
+                "hero_video": null,
+                "quest_bar_hero": "questbar_img.png",
+                "quest_bar_hero_video": "quest_bar.webm",
+                "game_tile": "gametile.png",
+                "logotype": "wordmark.png"
+            },
+            "colors": {
+                "primary": "#9AC603",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Marathon Reveal",
+                "game_title": "Marathon",
+                "game_publisher": "Bungie"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "event_name": "WATCH_VIDEO",
+                        "target": 103,
+                        "external_ids": []
+                    }
+                }
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 3,
+                        "sku_id": "1360316550313283748",
+                        "asset": "reward2.mp4",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "Signal from Tau Ceti Avatar Decoration",
+                            "name_with_article": "a Signal from Tau Ceti Avatar Decoration",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHODER FOR CROSS_PLATFORM"
+                            }
+                        },
+                        "expires_at": "2025-06-20T23:00:00+00:00",
+                        "expires_at_premium": null,
+                        "expiration_mode": 3
+                    }
+                ],
+                "rewards_expire_at": "2025-05-20T23:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "video_metadata": {
+                "messages": {
+                    "video_title": "Gameplay Reveal Trailer",
+                    "video_end_cta_title": "Marathon",
+                    "video_end_cta_subtitle": "Join the Discord to signup for the Closed Alpha",
+                    "video_end_cta_button_label": "Learn More"
+                },
+                "assets": {
+                    "video_player_video_hls": "main_hls.m3u8",
+                    "video_player_video": "main_video_v1.mp4",
+                    "video_player_thumbnail": "end_card.jpg",
+                    "video_player_video_low_res": "main_video_low_res.mp4",
+                    "video_player_caption": "captions.vtt",
+                    "video_player_transcript": "subs.txt",
+                    "quest_bar_preview_video": "quest_bar.webm",
+                    "quest_bar_preview_thumbnail": "questbar_img.jpg",
+                    "quest_home_video": "quest_bar.webm"
+                }
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
     }
 ]
