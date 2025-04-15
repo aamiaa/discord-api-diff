@@ -5599,7 +5599,7 @@
                 "name": "Path of Exile 2"
             },
             "assets": {
-                "hero": "hero_v2.png\t",
+                "hero": "hero_v2.png",
                 "hero_video": null,
                 "quest_bar_hero": "querbar_v2.png",
                 "quest_bar_hero_video": null,
@@ -5628,8 +5628,8 @@
                         "event_name": "PLAY_ON_XBOX",
                         "target": 900,
                         "external_ids": [
-                            "626b2198",
-                            "1651188120"
+                            "1651188120",
+                            "626b2198"
                         ]
                     },
                     "PLAY_ON_PLAYSTATION": {
@@ -5637,8 +5637,8 @@
                         "target": 900,
                         "external_ids": [
                             "PPSA22041_00",
-                            "PPSA22040_00",
                             "PPSA23975_00",
+                            "PPSA22040_00",
                             "PPSA23974_00"
                         ]
                     }
@@ -5871,6 +5871,106 @@
                     "quest_bar_preview_thumbnail": "questbar_img.jpg",
                     "quest_home_video": "quest_bar.webm"
                 }
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
+    },
+    {
+        "id": "1359985000526909820",
+        "config": {
+            "id": "1359985000526909820",
+            "config_version": 2,
+            "starts_at": "2025-04-15T17:00:00+00:00",
+            "expires_at": "2025-04-20T23:00:00+00:00",
+            "features": [
+                3,
+                9,
+                14,
+                15,
+                16,
+                19
+            ],
+            "experiments": {
+                "rollout": "2025-04_fortnite_reload",
+                "targeting": null,
+                "preview": null
+            },
+            "application": {
+                "link": "https://www.fortnite.com/",
+                "id": "432980957394370572",
+                "name": "Fortnite"
+            },
+            "assets": {
+                "hero": "hero.png",
+                "hero_video": null,
+                "quest_bar_hero": "bar_v2.png",
+                "quest_bar_hero_video": null,
+                "game_tile": "game.png",
+                "logotype": "word.png"
+            },
+            "colors": {
+                "primary": "#1AB5E7",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Fortnite Reload",
+                "game_title": "Fortnite Reload",
+                "game_publisher": "Epic Games"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "event_name": "PLAY_ON_DESKTOP",
+                        "target": 1800,
+                        "external_ids": []
+                    },
+                    "PLAY_ON_XBOX": {
+                        "event_name": "PLAY_ON_XBOX",
+                        "target": 1800,
+                        "external_ids": [
+                            "267695549"
+                        ]
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "event_name": "PLAY_ON_PLAYSTATION",
+                        "target": 1800,
+                        "external_ids": [
+                            "PPSA01923_00",
+                            "PPSA01922_00",
+                            "CUSA07669_00",
+                            "CUSA07022_00"
+                        ]
+                    }
+                }
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 3,
+                        "sku_id": "1360353397865447707",
+                        "asset": "reward2.mp4",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "Slurp Barrel Avatar Decoration",
+                            "name_with_article": "a Slurp Barrel Avatar Decoration",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHODER FOR CROSS_PLATFORM"
+                            }
+                        },
+                        "expires_at": "2025-06-20T23:00:00+00:00",
+                        "expires_at_premium": null,
+                        "expiration_mode": 1
+                    }
+                ],
+                "rewards_expire_at": "2025-05-20T23:00:00+00:00",
+                "platforms": [
+                    0
+                ]
             }
         },
         "user_status": null,
