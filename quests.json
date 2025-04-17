@@ -5976,5 +5976,104 @@
         "user_status": null,
         "targeted_content": [],
         "preview": false
+    },
+    {
+        "id": "1361413474898546819",
+        "config": {
+            "id": "1361413474898546819",
+            "config_version": 2,
+            "starts_at": "2025-04-17T17:00:00+00:00",
+            "expires_at": "2025-04-24T23:00:00+00:00",
+            "features": [
+                3,
+                9,
+                14,
+                15,
+                16,
+                18,
+                19
+            ],
+            "experiments": {
+                "rollout": "2025-04_mandragora",
+                "targeting": null,
+                "preview": null
+            },
+            "application": {
+                "link": "https://1l-go.my.games/r/adid/3885882_2102523/pid/130709/pof/1/f/1/?_1larg_sub=3885882&utm_source=Discord&utm_campaign=Mandragora_DiscordQuest_04.2025&utm_medium=paid&utm_content=3885882&utm_term=Other",
+                "id": "111111111111111111",
+                "name": "Mandragora"
+            },
+            "assets": {
+                "hero": "hero.png",
+                "hero_video": null,
+                "quest_bar_hero": "questbar_img.png",
+                "quest_bar_hero_video": "questbar.webm",
+                "game_tile": "game.png",
+                "logotype": "word_v3.png"
+            },
+            "colors": {
+                "primary": "#CAA767",
+                "secondary": "#333333"
+            },
+            "messages": {
+                "quest_name": "Mandragora",
+                "game_title": "Mandragora: Whispers of the Witch Tree",
+                "game_publisher": "My.Games"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "event_name": "WATCH_VIDEO",
+                        "target": 39,
+                        "external_ids": []
+                    }
+                }
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 5,
+                        "sku_id": "1298745361602449479",
+                        "asset": "PLACEHOLDER",
+                        "messages": {
+                            "name": "1 day of Nitro",
+                            "name_with_article": "1 day of Nitro",
+                            "redemption_instructions_by_platform": {
+                                "0": "Congrats! You earned 1 day of Nitro."
+                            }
+                        }
+                    }
+                ],
+                "rewards_expire_at": "2025-05-24T23:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "video_metadata": {
+                "messages": {
+                    "video_title": "Whispers of the Witch Tree",
+                    "video_end_cta_title": "Whispers of the Witch Tree",
+                    "video_end_cta_subtitle": "Mandragora Whispers of the Witch Tree is out Now!",
+                    "video_end_cta_button_label": "Play Now"
+                },
+                "assets": {
+                    "video_player_video_hls": "main_hls.m3u8",
+                    "video_player_video": "mainvideo_v1.mp4",
+                    "video_player_thumbnail": "end_card.png",
+                    "video_player_video_low_res": "mainvideo_low_res.mp4",
+                    "video_player_caption": "captions_v1.vtt",
+                    "video_player_transcript": "subs.txt",
+                    "quest_bar_preview_video": "questbar.webm",
+                    "quest_bar_preview_thumbnail": "questbar_img.png",
+                    "quest_home_video": "questbar.webm"
+                }
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
     }
 ]
