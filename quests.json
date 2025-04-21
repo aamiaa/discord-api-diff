@@ -6173,5 +6173,89 @@
         "user_status": null,
         "targeted_content": [],
         "preview": false
+    },
+    {
+        "id": "1362109389305155594",
+        "config": {
+            "id": "1362109389305155594",
+            "config_version": 2,
+            "starts_at": "2025-04-21T17:00:00+00:00",
+            "expires_at": "2025-04-27T23:00:00+00:00",
+            "features": [
+                3,
+                9,
+                12,
+                14,
+                15,
+                16,
+                19
+            ],
+            "experiments": {
+                "rollout": "2025-04_delta_force_quest_rollout",
+                "targeting": null,
+                "preview": null
+            },
+            "application": {
+                "link": "https://store.steampowered.com/app/2507950?utm_source=discordquest",
+                "id": "1314682894106497096",
+                "name": "Delta Force"
+            },
+            "assets": {
+                "hero": "hero_v1.png",
+                "hero_video": "hero_video_v1.webm",
+                "quest_bar_hero": "bar.png",
+                "quest_bar_hero_video": "bar_video.webm",
+                "game_tile": "game.png",
+                "logotype": "word.png"
+            },
+            "colors": {
+                "primary": "#0CA766",
+                "secondary": "#1A1A1A"
+            },
+            "messages": {
+                "quest_name": "Global Launch",
+                "game_title": "Delta Force",
+                "game_publisher": "Team Jade"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "event_name": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "external_ids": []
+                    }
+                }
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 3,
+                        "sku_id": "1362863977222115430",
+                        "asset": "delta_force_quest_4_2025.mp4",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "Hackclaw Avatar Decoration",
+                            "name_with_article": "a Hackclaw Avatar Decoration",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHODER FOR CROSS_PLATFORM"
+                            }
+                        },
+                        "expires_at": "2025-06-27T23:00:00+00:00",
+                        "expires_at_premium": null,
+                        "expiration_mode": 3
+                    }
+                ],
+                "rewards_expire_at": "2025-05-27T23:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
     }
 ]
