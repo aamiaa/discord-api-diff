@@ -4699,11 +4699,6 @@
                 16,
                 18
             ],
-            "experiments": {
-                "rollout": "2025-03_lifeweaver_skin",
-                "targeting": null,
-                "preview": null
-            },
             "application": {
                 "link": "https://overwatch.blizzard.com?utm_source=Discord&utm_medium=PaidXDM",
                 "id": "356875221078245376",
@@ -4799,11 +4794,6 @@
                 16,
                 18
             ],
-            "experiments": {
-                "rollout": "2025-03_walmart_skyward",
-                "targeting": null,
-                "preview": null
-            },
             "application": {
                 "link": "https://discord.gg/7BUquQ9KhQ",
                 "id": "111111111111111111",
@@ -4900,11 +4890,6 @@
                 15,
                 16
             ],
-            "experiments": {
-                "rollout": "2025-03_fortnite_og",
-                "targeting": null,
-                "preview": null
-            },
             "application": {
                 "link": "https://www.fortnite.com/",
                 "id": "432980957394370572",
@@ -4947,10 +4932,10 @@
                         "event_name": "PLAY_ON_PLAYSTATION",
                         "target": 900,
                         "external_ids": [
-                            "CUSA07022_00",
                             "PPSA01922_00",
+                            "CUSA07669_00",
                             "PPSA01923_00",
-                            "CUSA07669_00"
+                            "CUSA07022_00"
                         ]
                     }
                 }
@@ -4999,11 +4984,6 @@
                 15,
                 16
             ],
-            "experiments": {
-                "rollout": "2025-03_pc_game_pass",
-                "targeting": null,
-                "preview": null
-            },
             "application": {
                 "link": "https://xbox.com/pcgamepass",
                 "id": "545364944258990091",
@@ -5100,11 +5080,6 @@
                 16,
                 19
             ],
-            "experiments": {
-                "rollout": "2025-04_supervive",
-                "targeting": null,
-                "preview": null
-            },
             "application": {
                 "link": "https://store.steampowered.com/app/1283700/SUPERVIVE/",
                 "id": "1257422382000246785",
@@ -5183,11 +5158,6 @@
                 19,
                 20
             ],
-            "experiments": {
-                "rollout": "2025-04_cod_warzone",
-                "targeting": null,
-                "preview": null
-            },
             "application": {
                 "link": "https://www.callofduty.com/warzone?utm_source=discord_quest&utm_medium=referral&utm_campaign=sierradiscordquest",
                 "id": "1306357637893587014",
@@ -5230,16 +5200,16 @@
                         "event_name": "PLAY_ON_PLAYSTATION",
                         "target": 900,
                         "external_ids": [
-                            "PPSA07953_00",
                             "PPSA01649_00",
-                            "CUSA23827_00",
-                            "CUSA34031_00",
-                            "CUSA34032_00",
                             "CUSA34030_00",
-                            "CUSA34029_00",
+                            "CUSA23827_00",
                             "PPSA07952_00",
+                            "CUSA34031_00",
+                            "PPSA07950_00",
+                            "CUSA34029_00",
+                            "CUSA34032_00",
                             "PPSA07951_00",
-                            "PPSA07950_00"
+                            "PPSA07953_00"
                         ]
                     }
                 }
@@ -5288,11 +5258,6 @@
                 16,
                 19
             ],
-            "experiments": {
-                "rollout": "2025-04_m3gan_20_trailer",
-                "targeting": null,
-                "preview": null
-            },
             "application": {
                 "link": "https://www.m3ganmovie.com/",
                 "id": "111111111111111111",
@@ -5386,11 +5351,6 @@
                 18,
                 19
             ],
-            "experiments": {
-                "rollout": "2025-04_pc_game_pass",
-                "targeting": null,
-                "preview": null
-            },
             "application": {
                 "link": "https://xbox.com/pcgamepass",
                 "id": "111111111111111111",
@@ -5486,11 +5446,6 @@
                 16,
                 19
             ],
-            "experiments": {
-                "rollout": "2025-04_the_last_of_us_season_2",
-                "targeting": null,
-                "preview": null
-            },
             "application": {
                 "link": "https://www.max.com/the-last-of-us",
                 "id": "111111111111111111",
@@ -5588,11 +5543,6 @@
                 16,
                 19
             ],
-            "experiments": {
-                "rollout": "2029-12_path_of_exile_2",
-                "targeting": null,
-                "preview": null
-            },
             "application": {
                 "link": "https://pathofexile2.com/",
                 "id": "1328876348361412619",
@@ -5636,10 +5586,10 @@
                         "event_name": "PLAY_ON_PLAYSTATION",
                         "target": 900,
                         "external_ids": [
-                            "PPSA22041_00",
                             "PPSA23975_00",
                             "PPSA22040_00",
-                            "PPSA23974_00"
+                            "PPSA23974_00",
+                            "PPSA22041_00"
                         ]
                     }
                 }
@@ -5690,11 +5640,6 @@
                 16,
                 19
             ],
-            "experiments": {
-                "rollout": "2025-04_marvel_rivals_s2",
-                "targeting": null,
-                "preview": null
-            },
             "application": {
                 "link": "https://www.marvelrivals.com/",
                 "id": "1314395942253756416",
@@ -5730,16 +5675,16 @@
                         "event_name": "PLAY_ON_XBOX",
                         "target": 900,
                         "external_ids": [
-                            "1758492876",
-                            "1794906646"
+                            "1794906646",
+                            "1758492876"
                         ]
                     },
                     "PLAY_ON_PLAYSTATION": {
                         "event_name": "PLAY_ON_PLAYSTATION",
                         "target": 900,
                         "external_ids": [
-                            "PPSA21669_00",
-                            "PPSA21668_00"
+                            "PPSA21668_00",
+                            "PPSA21669_00"
                         ]
                     }
                 }
@@ -5790,11 +5735,6 @@
                 18,
                 19
             ],
-            "experiments": {
-                "rollout": "2025-04_marathon_reveal",
-                "targeting": null,
-                "preview": null
-            },
             "application": {
                 "link": "http://discord.gg/marathonthegame",
                 "id": "111111111111111111",
@@ -5892,11 +5832,6 @@
                 16,
                 19
             ],
-            "experiments": {
-                "rollout": "2025-04_fortnite_reload",
-                "targeting": null,
-                "preview": null
-            },
             "application": {
                 "link": "https://www.fortnite.com/",
                 "id": "432980957394370572",
@@ -5939,9 +5874,9 @@
                         "event_name": "PLAY_ON_PLAYSTATION",
                         "target": 1800,
                         "external_ids": [
-                            "PPSA01923_00",
                             "PPSA01922_00",
                             "CUSA07669_00",
+                            "PPSA01923_00",
                             "CUSA07022_00"
                         ]
                     }
@@ -5993,11 +5928,6 @@
                 18,
                 19
             ],
-            "experiments": {
-                "rollout": "2025-04_mandragora",
-                "targeting": null,
-                "preview": null
-            },
             "application": {
                 "link": "https://1l-go.my.games/r/adid/3885882_2102523/pid/130709/pof/1/f/1/?_1larg_sub=3885882&utm_source=Discord&utm_campaign=Mandragora_DiscordQuest_04.2025&utm_medium=paid&utm_content=3885882&utm_term=Other",
                 "id": "111111111111111111",
@@ -6190,11 +6120,6 @@
                 16,
                 19
             ],
-            "experiments": {
-                "rollout": "2025-04_delta_force_quest_rollout",
-                "targeting": null,
-                "preview": null
-            },
             "application": {
                 "link": "https://store.steampowered.com/app/2507950?utm_source=discordquest",
                 "id": "1314682894106497096",

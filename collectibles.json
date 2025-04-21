@@ -55497,5 +55497,683 @@
             "animated": null,
             "static": "https://cdn.discordapp.com/assets/content/4b5857e25ea6026579f867388e92968f2a76fd08aa0cd1474e5752252e616ba0.jpg"
         }
+    },
+    {
+        "sku_id": "1349849614353829990",
+        "name": "Nameplates",
+        "summary": "Your name, your style.",
+        "store_listing_id": "1349849614345306213",
+        "banner": "1349849614374666310",
+        "unpublished_at": null,
+        "styles": {
+            "background_colors": [
+                16777215,
+                16777215
+            ],
+            "button_colors": [
+                5793266,
+                5793266
+            ],
+            "confetti_colors": [
+                43772,
+                15774258,
+                16414587,
+                3000177,
+                9739511
+            ]
+        },
+        "logo": "1349849614362345614",
+        "hero_ranking": [
+            "1349849614102036581",
+            "1349849614198505602",
+            "1349849614257225760",
+            "1349849614286585866",
+            "1349849614143979540",
+            "1349849614227865711",
+            "1349849614173339688",
+            "1349849614311751731"
+        ],
+        "mobile_bg": null,
+        "pdp_bg": "1349849614391705723",
+        "success_modal_bg": "1349849614412419113",
+        "mobile_banner": null,
+        "featured_block": "1354674651367866589",
+        "hero_banner": null,
+        "wide_banner": null,
+        "hero_logo": "1349849614429327572",
+        "products": [
+            {
+                "sku_id": "1349849614102036581",
+                "name": "Cherry Blossoms",
+                "summary": "Personalize how your name looks, including in direct messages and member lists.",
+                "store_listing_id": "1349849614118949028",
+                "banner": "1349849614374666310",
+                "unpublished_at": null,
+                "styles": {
+                    "background_colors": [
+                        16777215,
+                        16777215
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 3600,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 3600,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "items": [
+                    {
+                        "type": 2,
+                        "id": "1349849614135853087",
+                        "sku_id": "1349849614102036581",
+                        "asset": "nameplates/nameplates/cherry_blossoms/",
+                        "label": "Placeholder",
+                        "palette": "berry"
+                    }
+                ],
+                "type": 2,
+                "premium_type": 0,
+                "category_sku_id": "1349849614353829990",
+                "google_sku_ids": {
+                    "5": "1349849614102036581_1350198954780000328",
+                    "7": "1349849614102036581_1350198966209216522"
+                }
+            },
+            {
+                "sku_id": "1349849614143979540",
+                "name": "Cat Beans",
+                "summary": "Personalize how your name looks, including in direct messages and member lists.",
+                "store_listing_id": "1349849614152503396",
+                "banner": "1349849614374666310",
+                "unpublished_at": null,
+                "styles": {
+                    "background_colors": [
+                        16777215,
+                        16777215
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 3600,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 3600,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "items": [
+                    {
+                        "type": 2,
+                        "id": "1349849614161019002",
+                        "sku_id": "1349849614143979540",
+                        "asset": "nameplates/nameplates/cat_beans/",
+                        "label": "Placeholder",
+                        "palette": "violet"
+                    }
+                ],
+                "type": 2,
+                "premium_type": 0,
+                "category_sku_id": "1349849614353829990",
+                "google_sku_ids": {
+                    "5": "1349849614143979540_1350200303093416046",
+                    "7": "1349849614143979540_1350200317484208278"
+                }
+            },
+            {
+                "sku_id": "1349849614173339688",
+                "name": "Spirit of Spring",
+                "summary": "Personalize how your name looks, including in direct messages and member lists.",
+                "store_listing_id": "1349849614185926686",
+                "banner": "1349849614374666310",
+                "unpublished_at": null,
+                "styles": {
+                    "background_colors": [
+                        16777215,
+                        16777215
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 3600,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 3600,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "items": [
+                    {
+                        "type": 2,
+                        "id": "1349849614194573312",
+                        "sku_id": "1349849614173339688",
+                        "asset": "nameplates/nameplates/spirit_of_spring/",
+                        "label": "Placeholder",
+                        "palette": "sky"
+                    }
+                ],
+                "type": 2,
+                "premium_type": 0,
+                "category_sku_id": "1349849614353829990",
+                "google_sku_ids": {
+                    "5": "1349849614173339688_1350200693801226290",
+                    "7": "1349849614173339688_1350200705322979338"
+                }
+            },
+            {
+                "sku_id": "1349849614198505602",
+                "name": "Twilight",
+                "summary": "Personalize how your name looks, including in direct messages and member lists.",
+                "store_listing_id": "1349849614211223573",
+                "banner": "1349849614374666310",
+                "unpublished_at": null,
+                "styles": {
+                    "background_colors": [
+                        16777215,
+                        16777215
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 3600,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 3600,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "items": [
+                    {
+                        "type": 2,
+                        "id": "1349849614219739227",
+                        "sku_id": "1349849614198505602",
+                        "asset": "nameplates/nameplates/twilight/",
+                        "label": "Placeholder",
+                        "palette": "cobalt"
+                    }
+                ],
+                "type": 2,
+                "premium_type": 0,
+                "category_sku_id": "1349849614353829990",
+                "google_sku_ids": {
+                    "5": "1349849614198505602_1350198501656625223",
+                    "7": "1349849614198505602_1350198512872067183"
+                }
+            },
+            {
+                "sku_id": "1349849614227865711",
+                "name": "Koi Pond",
+                "summary": "Personalize how your name looks, including in direct messages and member lists.",
+                "store_listing_id": "1349849614240583710",
+                "banner": "1349849614374666310",
+                "unpublished_at": null,
+                "styles": {
+                    "background_colors": [
+                        16777215,
+                        16777215
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 3600,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 3600,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "items": [
+                    {
+                        "type": 2,
+                        "id": "1349849614249099335",
+                        "sku_id": "1349849614227865711",
+                        "asset": "nameplates/nameplates/koi_pond/",
+                        "label": "Placeholder",
+                        "palette": "sky"
+                    }
+                ],
+                "type": 2,
+                "premium_type": 0,
+                "category_sku_id": "1349849614353829990",
+                "google_sku_ids": {
+                    "5": "1349849614227865711_1350201076619542568",
+                    "7": "1349849614227865711_1350201087172280370"
+                }
+            },
+            {
+                "sku_id": "1349849614257225760",
+                "name": "Vengeance",
+                "summary": "Personalize how your name looks, including in direct messages and member lists.",
+                "store_listing_id": "1349849614265749635",
+                "banner": "1349849614374666310",
+                "unpublished_at": null,
+                "styles": {
+                    "background_colors": [
+                        16777215,
+                        16777215
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 3600,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 3600,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "items": [
+                    {
+                        "type": 2,
+                        "id": "1349849614274265180",
+                        "sku_id": "1349849614257225760",
+                        "asset": "nameplates/nameplates/vengeance/",
+                        "label": "Placeholder",
+                        "palette": "violet"
+                    }
+                ],
+                "type": 2,
+                "premium_type": 0,
+                "category_sku_id": "1349849614353829990",
+                "google_sku_ids": {
+                    "5": "1349849614257225760_1350201399190884442",
+                    "7": "1349849614257225760_1350201410376957962"
+                }
+            },
+            {
+                "sku_id": "1349849614286585866",
+                "name": "Cityscape",
+                "summary": "Personalize how your name looks, including in direct messages and member lists.",
+                "store_listing_id": "1349849614295109652",
+                "banner": "1349849614374666310",
+                "unpublished_at": null,
+                "styles": {
+                    "background_colors": [
+                        16777215,
+                        16777215
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 3600,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 3600,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "items": [
+                    {
+                        "type": 2,
+                        "id": "1349849614303625308",
+                        "sku_id": "1349849614286585866",
+                        "asset": "nameplates/nameplates/cityscape/",
+                        "label": "Placeholder",
+                        "palette": "violet"
+                    }
+                ],
+                "type": 2,
+                "premium_type": 0,
+                "category_sku_id": "1349849614353829990",
+                "google_sku_ids": {
+                    "5": "1349849614286585866_1350198990897025176",
+                    "7": "1349849614286585866_1350199003572207717"
+                }
+            },
+            {
+                "sku_id": "1349849614311751731",
+                "name": "Angels",
+                "summary": "Personalize how your name looks, including in direct messages and member lists.",
+                "store_listing_id": "1349849614328664084",
+                "banner": "1349849614374666310",
+                "unpublished_at": null,
+                "styles": {
+                    "background_colors": [
+                        16777215,
+                        16777215
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 3600,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 3600,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "items": [
+                    {
+                        "type": 2,
+                        "id": "1349849614337179778",
+                        "sku_id": "1349849614311751731",
+                        "asset": "nameplates/nameplates/angels/",
+                        "label": "Placeholder",
+                        "palette": "bubble_gum"
+                    }
+                ],
+                "type": 2,
+                "premium_type": 0,
+                "category_sku_id": "1349849614353829990",
+                "google_sku_ids": {
+                    "5": "1349849614311751731_1350198298912362569",
+                    "7": "1349849614311751731_1350198309737988188"
+                }
+            }
+        ],
+        "banner_asset": {
+            "animated": null,
+            "static": "https://cdn.discordapp.com/assets/content/6e9143efc20856655971694a3fc651737a9768dcda06dd420f219ddd67b72798.png"
+        },
+        "hero_banner_asset": {
+            "animated": "https://cdn.discordapp.com/assets/content/72b3c3b11ae195d51eecd8840e59dfca3ccd741ff5bff724f0626e2a7bbbaae7.webm",
+            "static": "https://cdn.discordapp.com/assets/content/13fd7353c88666e8d56e3e460737fa33a5383868c9a64f09097ba16c927a2847.jpg"
+        }
     }
 ]
