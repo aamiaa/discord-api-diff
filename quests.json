@@ -6182,5 +6182,103 @@
         "user_status": null,
         "targeted_content": [],
         "preview": false
+    },
+    {
+        "id": "1360303440718467102",
+        "config": {
+            "id": "1360303440718467102",
+            "config_version": 2,
+            "starts_at": "2025-04-22T17:00:00+00:00",
+            "expires_at": "2025-04-29T00:00:00+00:00",
+            "features": [
+                3,
+                9,
+                14,
+                15,
+                16,
+                19
+            ],
+            "application": {
+                "link": "https://overwatch.blizzard.com/news/24178102?utm_source=Discord&utm_medium=PaidXDM",
+                "id": "356875221078245376",
+                "name": "Overwatch 2"
+            },
+            "assets": {
+                "hero": "hero_image.png",
+                "hero_video": null,
+                "quest_bar_hero": "quest_bar_background.png",
+                "quest_bar_hero_video": null,
+                "game_tile": "logo.png",
+                "logotype": "wordmark_new.png"
+            },
+            "colors": {
+                "primary": "#8d7353",
+                "secondary": "#001732"
+            },
+            "messages": {
+                "quest_name": "New Way to Play",
+                "game_title": "Overwatch 2",
+                "game_publisher": "Blizzard"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "event_name": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "external_ids": []
+                    },
+                    "PLAY_ON_XBOX": {
+                        "event_name": "PLAY_ON_XBOX",
+                        "target": 900,
+                        "external_ids": [
+                            "94618376",
+                            "05A3C308"
+                        ]
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "event_name": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "external_ids": [
+                            "CUSA04065_00",
+                            "PPSA08259_00",
+                            "PPSA07821_00",
+                            "CUSA03975_00",
+                            "CUSA03974_00",
+                            "PPSA07805_00",
+                            "CUSA01842_00"
+                        ]
+                    }
+                }
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 1,
+                        "sku_id": "1360303440718467104",
+                        "asset": "reward_tile.png",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "5 Loot Boxes",
+                            "name_with_article": "5 Loot Boxes",
+                            "redemption_instructions_by_platform": {
+                                "0": "1. Login to the Battle.net Desktop App  \n2. Click your profile icon at the top right corner of the App.  \n3. Click Redeem Code.          \n4. You can also redeem at https://shop.battle.net/ by navigating to Redeem Code under Account. \n \n**Note: Codes must be redeemed on Battle.net specifically, but will appear for any platform where that user has a license.**"
+                            }
+                        },
+                        "approximate_count": null,
+                        "redemption_link": null
+                    }
+                ],
+                "rewards_expire_at": "2025-05-12T00:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
     }
 ]
