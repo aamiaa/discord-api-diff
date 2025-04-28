@@ -6280,5 +6280,83 @@
         "user_status": null,
         "targeted_content": [],
         "preview": false
+    },
+    {
+        "id": "1354545229297881323",
+        "config": {
+            "id": "1354545229297881323",
+            "config_version": 2,
+            "starts_at": "2025-04-28T17:00:00+00:00",
+            "expires_at": "2025-05-06T00:00:00+00:00",
+            "features": [
+                3,
+                8,
+                9,
+                14,
+                15,
+                16,
+                19
+            ],
+            "application": {
+                "link": "https://www.missionimpossible.com/",
+                "id": "1353680152814555229",
+                "name": "Mission: Impossible Puzzle"
+            },
+            "assets": {
+                "hero": "hero.jpg",
+                "hero_video": "hero.mp4",
+                "quest_bar_hero": "bar_img.png",
+                "quest_bar_hero_video": "bar.webm",
+                "game_tile": "game.png",
+                "logotype": "wordmark.png"
+            },
+            "colors": {
+                "primary": "#b76d42",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Mission: Impossible Puzzle",
+                "game_title": "Mission: Impossible Puzzle",
+                "game_publisher": "Paramount"
+            },
+            "task_config": {
+                "type": 2,
+                "join_operator": "or",
+                "tasks": {
+                    "progress": {
+                        "event_name": "progress",
+                        "title": "Mission: Impossible Quest",
+                        "description": "Solve the first puzzle in the Mission: Impossible Puzzle Discord Activity to win 1 day of Nitro!",
+                        "target": 1
+                    }
+                },
+                "enrollment_url": "\"https://www.discord.com\"",
+                "developer_application_id": "1353680152814555229"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 5,
+                        "sku_id": "1298745361602449479",
+                        "asset": "PLACEHOLDER",
+                        "messages": {
+                            "name": "1 day of Nitro",
+                            "name_with_article": "1 day of Nitro",
+                            "redemption_instructions_by_platform": {
+                                "0": "Congrats! You earned 1 day of Nitro."
+                            }
+                        }
+                    }
+                ],
+                "rewards_expire_at": "2025-06-04T23:59:00+00:00",
+                "platforms": [
+                    0
+                ]
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
     }
 ]
