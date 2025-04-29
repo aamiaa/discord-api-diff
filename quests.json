@@ -6451,5 +6451,82 @@
         "user_status": null,
         "targeted_content": [],
         "preview": false
+    },
+    {
+        "id": "1362170603402166545",
+        "config": {
+            "id": "1362170603402166545",
+            "config_version": 2,
+            "starts_at": "2025-04-29T17:00:00+00:00",
+            "expires_at": "2025-05-05T23:00:00+00:00",
+            "features": [
+                3,
+                9,
+                14,
+                15,
+                16,
+                19
+            ],
+            "application": {
+                "link": "https://p.itddo2.com/DCquest",
+                "id": "1238113262969557002",
+                "name": "Arena Breakout: Infinite"
+            },
+            "assets": {
+                "hero": "hero.png",
+                "hero_video": "hero_video.webm",
+                "quest_bar_hero": "questbar.png",
+                "quest_bar_hero_video": "questbar_video.webm",
+                "game_tile": "game.png",
+                "logotype": "wordmark.png"
+            },
+            "colors": {
+                "primary": "#e38b3f",
+                "secondary": "#ffa200"
+            },
+            "messages": {
+                "quest_name": "Arena Breakout: Infinite",
+                "game_title": "Arena Breakout: Infinite",
+                "game_publisher": "MoreFun Studios"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "event_name": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "external_ids": []
+                    }
+                }
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 1,
+                        "sku_id": "1362170603402166547",
+                        "asset": "reward.jpg",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "Vector 45 Skin & 7-Day Secure Case",
+                            "name_with_article": "a Vector 45 Skin & 7-Day Secure Case",
+                            "redemption_instructions_by_platform": {
+                                "0": "Congratulations on completing the quest! You have two ways to claim your reward:\n\n**Path 1**\n- Visit [playabi.com](https://www.arenabreakoutinfinite.com/act/a20240731cdk) to redeem the code.  \n**Path 2**\n- Launch the game and find **Reward Code Redemption** in the **Events** section.\n\n**Rewards**\n- **Redwood Stain Vector 45 Micro SMG (skin)**\n- **7-Day Elite Membership Card** (including a 2x2 secure case)\n\n**Support and Assistance**\n**Arena Breakout: Infinite New Season: IGNITION** is now available to play for free.  \nIf you encounter any issues during the redemption process, please join our Discord server: [Arena Breakout: Infinite](https://discord.com/invite/arenabreakoutinfinite) for assistance and the latest information on future events and more rewards."
+                            }
+                        },
+                        "approximate_count": null,
+                        "redemption_link": null
+                    }
+                ],
+                "rewards_expire_at": "2025-06-04T23:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
     }
 ]
