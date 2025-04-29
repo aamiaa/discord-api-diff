@@ -6358,5 +6358,98 @@
         "user_status": null,
         "targeted_content": [],
         "preview": false
+    },
+    {
+        "id": "1365416858106200072",
+        "config": {
+            "id": "1365416858106200072",
+            "config_version": 2,
+            "starts_at": "2025-04-29T17:00:00+00:00",
+            "expires_at": "2025-05-06T23:00:00+00:00",
+            "features": [
+                3,
+                9,
+                14,
+                15,
+                16,
+                19
+            ],
+            "application": {
+                "link": "https://gsght.com/c/429s1b",
+                "id": "1346600025110614026",
+                "name": "Fragpunk"
+            },
+            "assets": {
+                "hero": "hero.jpg",
+                "hero_video": null,
+                "quest_bar_hero": "bar2.jpg",
+                "quest_bar_hero_video": null,
+                "game_tile": "game.jpg",
+                "logotype": "wordv1.png"
+            },
+            "colors": {
+                "primary": "#7A4DFE",
+                "secondary": "#B3FF0F"
+            },
+            "messages": {
+                "quest_name": "Season 1 Chapter 2",
+                "game_title": "Fragpunk",
+                "game_publisher": "Bad Guitar Studio"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "event_name": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "external_ids": []
+                    },
+                    "PLAY_ON_XBOX": {
+                        "event_name": "PLAY_ON_XBOX",
+                        "target": 900,
+                        "external_ids": [
+                            "1616563209",
+                            "9MW715J1P29D"
+                        ]
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "event_name": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "external_ids": [
+                            "PPSA26492_00"
+                        ]
+                    }
+                }
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 3,
+                        "sku_id": "1366429159961919569",
+                        "asset": "reward.mp4",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "Friend of Dex Avatar Decoration",
+                            "name_with_article": "a Friend of Dex Avatar Decoration",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHODER FOR CROSS_PLATFORM"
+                            }
+                        },
+                        "expires_at": "2025-07-05T23:00:00+00:00",
+                        "expires_at_premium": null,
+                        "expiration_mode": 3
+                    }
+                ],
+                "rewards_expire_at": "2025-06-05T23:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
     }
 ]
