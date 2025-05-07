@@ -7,6 +7,3 @@ Every set interval, data indicated by the file names is pulled from the api, com
 For `changelogs.json`, `collectibles.json`, `profile-effects.json`, and `quests.json`, top level entries may only get added or updated. If an entry is removed from the api, it will **not** be removed from the repo.
 
 For `csp.json`, both additions and removals are tracked (since both are interesting).
-
-> [!WARNING]  
-> As of April 2025, Discord started excluding certain accounts from certain quests basing on unknown criteria. Because of this, some quests in `quests.json` may have all fields except `id` missing until I manually backfill them.
