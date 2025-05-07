@@ -6110,13 +6110,9 @@
                 14,
                 15,
                 16,
+                18,
                 19
             ],
-            "experiments": {
-                "rollout": "2025-04_him_official_teaser",
-                "targeting": null,
-                "preview": null
-            },
             "application": {
                 "link": "https://www.himmovie.com?utm_source=discord&utm_medium=quest_link",
                 "id": "111111111111111111",
@@ -6179,7 +6175,7 @@
                     "video_end_cta_button_label": "Learn More"
                 },
                 "assets": {
-                    "video_player_video_hls": null,
+                    "video_player_video_hls": "main_hls.m3u8",
                     "video_player_video": "main_video_v1.mp4",
                     "video_player_thumbnail": "endcard_v2.jpg",
                     "video_player_video_low_res": "main_video_low_res.mp4",
@@ -6190,10 +6186,7 @@
                     "quest_home_video": "quesbar_v2.webm"
                 }
             }
-        },
-        "user_status": null,
-        "targeted_content": [],
-        "preview": false
+        }
     },
     {
         "id": "1362109389305155594",
@@ -6615,10 +6608,7 @@
                     0
                 ]
             }
-        },
-        "user_status": null,
-        "targeted_content": [],
-        "preview": false
+        }
     },
     {
         "id": "1366884556954931322",
@@ -6714,9 +6704,173 @@
         "preview": false
     },
     {
-        "id": "1362097608524435697"
+        "id": "1362097608524435697",
+        "config": {
+            "id": "1362097608524435697",
+            "config_version": 2,
+            "starts_at": "2025-05-06T17:00:00+00:00",
+            "expires_at": "2025-05-12T23:00:00+00:00",
+            "features": [
+                3,
+                9,
+                14,
+                15,
+                16,
+                19
+            ],
+            "application": {
+                "link": "https://doom.com",
+                "id": "111111111111111111",
+                "name": "DOOM: The Dark Ages"
+            },
+            "assets": {
+                "hero": "hero.jpg",
+                "hero_video": null,
+                "quest_bar_hero": "bar_img.png",
+                "quest_bar_hero_video": "bar.webm",
+                "game_tile": "game.png",
+                "logotype": "word.png"
+            },
+            "colors": {
+                "primary": "#828854",
+                "secondary": "#79401B"
+            },
+            "messages": {
+                "quest_name": "DOOM: The Dark Ages",
+                "game_title": "DOOM: The Dark Ages",
+                "game_publisher": "Bethesda"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "event_name": "WATCH_VIDEO",
+                        "target": 171,
+                        "external_ids": []
+                    }
+                }
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 3,
+                        "sku_id": "1362863977222115433",
+                        "asset": "doom_quest_4_2025.mp4",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "Shield Saw Avatar Decoration",
+                            "name_with_article": "a Shield Saw Avatar Decoration",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHODER FOR CROSS_PLATFORM"
+                            }
+                        },
+                        "expires_at": "2025-07-11T23:00:00+00:00",
+                        "expires_at_premium": null,
+                        "expiration_mode": 3
+                    }
+                ],
+                "rewards_expire_at": "2025-06-11T23:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "video_metadata": {
+                "messages": {
+                    "video_title": "the Offical Trailer 2",
+                    "video_end_cta_title": "DOOM: The Dark Ages Quest",
+                    "video_end_cta_subtitle": "Claim your Discord Avatar Decoration",
+                    "video_end_cta_button_label": "Pre-Order Now"
+                },
+                "assets": {
+                    "video_player_video_hls": null,
+                    "video_player_video": "video_v1.mp4",
+                    "video_player_thumbnail": "end_card.jpg",
+                    "video_player_video_low_res": "video_low_res.mp4",
+                    "video_player_caption": "captions2.vtt",
+                    "video_player_transcript": "subs3.txt",
+                    "quest_bar_preview_video": "bar.webm",
+                    "quest_bar_preview_thumbnail": "bar_img.png",
+                    "quest_home_video": "bar.webm"
+                }
+            }
+        }
     },
     {
-        "id": "1361776064501649551"
+        "id": "1361776064501649551",
+        "config": {
+            "id": "1361776064501649551",
+            "config_version": 2,
+            "starts_at": "2025-05-06T15:00:00+00:00",
+            "expires_at": "2025-05-09T00:00:00+00:00",
+            "features": [
+                3,
+                9,
+                14,
+                15,
+                16,
+                19,
+                21
+            ],
+            "application": {
+                "link": "https://www.minecraft.net/en-us/about-minecraft",
+                "id": "356875570916753438",
+                "name": "Minecraft"
+            },
+            "assets": {
+                "hero": "hero.jpg",
+                "hero_video": null,
+                "quest_bar_hero": "bar.jpg",
+                "quest_bar_hero_video": null,
+                "game_tile": "game_tile.png",
+                "logotype": "word.png"
+            },
+            "colors": {
+                "primary": "#8A2BE2",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Ads Staff Test",
+                "game_title": "Minecraft",
+                "game_publisher": "Discord"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "event_name": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "external_ids": []
+                    }
+                }
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 3,
+                        "sku_id": "1144003752978829455",
+                        "asset": "DECO_PLACEHOLDER_reward.mp4",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "Ads Test Deco",
+                            "name_with_article": "an Ads Test Deco",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHODER FOR CROSS_PLATFORM"
+                            }
+                        },
+                        "expires_at": "2030-01-01T00:00:00+00:00",
+                        "expires_at_premium": null,
+                        "expiration_mode": 3
+                    }
+                ],
+                "rewards_expire_at": "2025-05-10T00:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            }
+        }
     }
 ]
