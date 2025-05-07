@@ -5204,6 +5204,15 @@
                     }
                 }
             },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900
+                    }
+                },
+                "join_operator": "or"
+            },
             "rewards_config": {
                 "assignment_method": 1,
                 "rewards": [
@@ -5291,19 +5300,51 @@
                         "event_name": "PLAY_ON_PLAYSTATION",
                         "target": 900,
                         "external_ids": [
-                            "PPSA01649_00",
-                            "CUSA34030_00",
                             "CUSA23827_00",
-                            "PPSA07952_00",
-                            "CUSA34031_00",
                             "PPSA07950_00",
+                            "PPSA01649_00",
+                            "PPSA07953_00",
+                            "CUSA34031_00",
                             "CUSA34029_00",
-                            "CUSA34032_00",
                             "PPSA07951_00",
-                            "PPSA07953_00"
+                            "CUSA34032_00",
+                            "PPSA07952_00",
+                            "CUSA34030_00"
                         ]
                     }
                 }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900
+                    },
+                    "PLAY_ON_XBOX": {
+                        "type": "PLAY_ON_XBOX",
+                        "target": 900,
+                        "external_ids": [
+                            "2001700854"
+                        ]
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "type": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "external_ids": [
+                            "CUSA23827_00",
+                            "PPSA07950_00",
+                            "PPSA01649_00",
+                            "PPSA07953_00",
+                            "CUSA34031_00",
+                            "CUSA34029_00",
+                            "PPSA07951_00",
+                            "CUSA34032_00",
+                            "PPSA07952_00",
+                            "CUSA34030_00"
+                        ]
+                    }
+                },
+                "join_operator": "or"
             },
             "rewards_config": {
                 "assignment_method": 1,
@@ -5381,6 +5422,34 @@
                         "external_ids": []
                     }
                 }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 165,
+                        "assets": {
+                            "video": {
+                                "url": "main_video_v1.mp4",
+                                "thumbnail": "end_card.jpg",
+                                "caption": "captions_v2.vtt",
+                                "transcript": "subs_v2.txt"
+                            },
+                            "video_low_res": {
+                                "url": "main_video_low_res.mp4",
+                                "thumbnail": "end_card.jpg",
+                                "caption": "captions_v2.vtt",
+                                "transcript": "subs_v2.txt"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "M3GAN 2.0 Trailer",
+                            "video_end_cta_title": "M3GAN 2.0",
+                            "video_end_cta_subtitle": "Only in Theaters June 27"
+                        }
+                    }
+                },
+                "join_operator": "or"
             },
             "rewards_config": {
                 "assignment_method": 1,
@@ -5474,6 +5543,40 @@
                         "external_ids": []
                     }
                 }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 69,
+                        "assets": {
+                            "video": {
+                                "url": "mainvideo_v1.mp4",
+                                "thumbnail": "endcard.jpg",
+                                "caption": "pcpass_caps.vtt",
+                                "transcript": "pcpass_subs.txt"
+                            },
+                            "video_low_res": {
+                                "url": "mainvideo_low_res.mp4",
+                                "thumbnail": "endcard.jpg",
+                                "caption": "pcpass_caps.vtt",
+                                "transcript": "pcpass_subs.txt"
+                            },
+                            "video_hls": {
+                                "url": "main_hls.m3u8",
+                                "thumbnail": "endcard.jpg",
+                                "caption": "pcpass_caps.vtt",
+                                "transcript": "pcpass_subs.txt"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "It's a Journey video",
+                            "video_end_cta_title": "PC Game Pass Quest",
+                            "video_end_cta_subtitle": "Claim a 7-day PC Game Pass trial"
+                        }
+                    }
+                },
+                "join_operator": "or"
             },
             "rewards_config": {
                 "assignment_method": 1,
@@ -5569,6 +5672,35 @@
                         "external_ids": []
                     }
                 }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 29,
+                        "assets": {
+                            "video": {
+                                "url": "main_video_v1.mp4",
+                                "thumbnail": "endcard.jpg",
+                                "caption": "lastofus_v3.vtt",
+                                "transcript": "lastofus_subs.txt"
+                            },
+                            "video_low_res": {
+                                "url": "main_video_low_res.mp4",
+                                "thumbnail": "endcard.jpg",
+                                "caption": "lastofus_v3.vtt",
+                                "transcript": "lastofus_subs.txt"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "The Last of Us Season 2",
+                            "video_end_cta_title": "The Last of Us Season 2",
+                            "video_end_cta_subtitle": "The Last of Us returns this Sunday at 9pm on Max.",
+                            "video_end_cta_button_label": "Learn More"
+                        }
+                    }
+                },
+                "join_operator": "or"
             },
             "rewards_config": {
                 "assignment_method": 1,
@@ -5677,13 +5809,40 @@
                         "event_name": "PLAY_ON_PLAYSTATION",
                         "target": 900,
                         "external_ids": [
+                            "PPSA22041_00",
                             "PPSA23975_00",
                             "PPSA22040_00",
-                            "PPSA23974_00",
-                            "PPSA22041_00"
+                            "PPSA23974_00"
                         ]
                     }
                 }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900
+                    },
+                    "PLAY_ON_XBOX": {
+                        "type": "PLAY_ON_XBOX",
+                        "target": 900,
+                        "external_ids": [
+                            "1651188120",
+                            "626b2198"
+                        ]
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "type": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "external_ids": [
+                            "PPSA22041_00",
+                            "PPSA23975_00",
+                            "PPSA22040_00",
+                            "PPSA23974_00"
+                        ]
+                    }
+                },
+                "join_operator": "or"
             },
             "rewards_config": {
                 "assignment_method": 1,
@@ -5766,8 +5925,8 @@
                         "event_name": "PLAY_ON_XBOX",
                         "target": 900,
                         "external_ids": [
-                            "1794906646",
-                            "1758492876"
+                            "1758492876",
+                            "1794906646"
                         ]
                     },
                     "PLAY_ON_PLAYSTATION": {
@@ -5779,6 +5938,31 @@
                         ]
                     }
                 }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900
+                    },
+                    "PLAY_ON_XBOX": {
+                        "type": "PLAY_ON_XBOX",
+                        "target": 900,
+                        "external_ids": [
+                            "1758492876",
+                            "1794906646"
+                        ]
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "type": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "external_ids": [
+                            "PPSA21668_00",
+                            "PPSA21669_00"
+                        ]
+                    }
+                },
+                "join_operator": "or"
             },
             "rewards_config": {
                 "assignment_method": 1,
@@ -5858,6 +6042,41 @@
                         "external_ids": []
                     }
                 }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 103,
+                        "assets": {
+                            "video": {
+                                "url": "main_video_v1.mp4",
+                                "thumbnail": "end_card.jpg",
+                                "caption": "captions.vtt",
+                                "transcript": "subs.txt"
+                            },
+                            "video_low_res": {
+                                "url": "main_video_low_res.mp4",
+                                "thumbnail": "end_card.jpg",
+                                "caption": "captions.vtt",
+                                "transcript": "subs.txt"
+                            },
+                            "video_hls": {
+                                "url": "main_hls.m3u8",
+                                "thumbnail": "end_card.jpg",
+                                "caption": "captions.vtt",
+                                "transcript": "subs.txt"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "Gameplay Reveal Trailer",
+                            "video_end_cta_title": "Marathon",
+                            "video_end_cta_subtitle": "Join the Discord to signup for the Closed Alpha",
+                            "video_end_cta_button_label": "Learn More"
+                        }
+                    }
+                },
+                "join_operator": "or"
             },
             "rewards_config": {
                 "assignment_method": 1,
@@ -5965,13 +6184,39 @@
                         "event_name": "PLAY_ON_PLAYSTATION",
                         "target": 1800,
                         "external_ids": [
-                            "PPSA01922_00",
+                            "CUSA07022_00",
                             "CUSA07669_00",
-                            "PPSA01923_00",
-                            "CUSA07022_00"
+                            "PPSA01922_00",
+                            "PPSA01923_00"
                         ]
                     }
                 }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 1800
+                    },
+                    "PLAY_ON_XBOX": {
+                        "type": "PLAY_ON_XBOX",
+                        "target": 1800,
+                        "external_ids": [
+                            "267695549"
+                        ]
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "type": "PLAY_ON_PLAYSTATION",
+                        "target": 1800,
+                        "external_ids": [
+                            "CUSA07022_00",
+                            "CUSA07669_00",
+                            "PPSA01922_00",
+                            "PPSA01923_00"
+                        ]
+                    }
+                },
+                "join_operator": "or"
             },
             "rewards_config": {
                 "assignment_method": 1,
@@ -6051,6 +6296,41 @@
                         "external_ids": []
                     }
                 }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 39,
+                        "assets": {
+                            "video": {
+                                "url": "mainvideo_v1.mp4",
+                                "thumbnail": "end_card.png",
+                                "caption": "captions_v1.vtt",
+                                "transcript": "subs.txt"
+                            },
+                            "video_low_res": {
+                                "url": "mainvideo_low_res.mp4",
+                                "thumbnail": "end_card.png",
+                                "caption": "captions_v1.vtt",
+                                "transcript": "subs.txt"
+                            },
+                            "video_hls": {
+                                "url": "main_hls.m3u8",
+                                "thumbnail": "end_card.png",
+                                "caption": "captions_v1.vtt",
+                                "transcript": "subs.txt"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "Whispers of the Witch Tree",
+                            "video_end_cta_title": "Whispers of the Witch Tree",
+                            "video_end_cta_subtitle": "Mandragora Whispers of the Witch Tree is out Now!",
+                            "video_end_cta_button_label": "Play Now"
+                        }
+                    }
+                },
+                "join_operator": "or"
             },
             "rewards_config": {
                 "assignment_method": 1,
@@ -6146,6 +6426,41 @@
                     }
                 }
             },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 104,
+                        "assets": {
+                            "video": {
+                                "url": "main_video_v1.mp4",
+                                "thumbnail": "endcard_v2.jpg",
+                                "caption": "captions_v1.vtt",
+                                "transcript": "transcript.txt"
+                            },
+                            "video_low_res": {
+                                "url": "main_video_low_res.mp4",
+                                "thumbnail": "endcard_v2.jpg",
+                                "caption": "captions_v1.vtt",
+                                "transcript": "transcript.txt"
+                            },
+                            "video_hls": {
+                                "url": "main_hls.m3u8",
+                                "thumbnail": "endcard_v2.jpg",
+                                "caption": "captions_v1.vtt",
+                                "transcript": "transcript.txt"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "HIM OFFICIAL TEASER",
+                            "video_end_cta_title": "HIM",
+                            "video_end_cta_subtitle": "HIM Only in theaters September 19",
+                            "video_end_cta_button_label": "Learn More"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
             "rewards_config": {
                 "assignment_method": 1,
                 "rewards": [
@@ -6237,6 +6552,15 @@
                     }
                 }
             },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900
+                    }
+                },
+                "join_operator": "or"
+            },
             "rewards_config": {
                 "assignment_method": 1,
                 "rewards": [
@@ -6325,16 +6649,46 @@
                         "event_name": "PLAY_ON_PLAYSTATION",
                         "target": 900,
                         "external_ids": [
-                            "CUSA04065_00",
-                            "PPSA08259_00",
-                            "PPSA07821_00",
                             "CUSA03975_00",
-                            "CUSA03974_00",
                             "PPSA07805_00",
+                            "PPSA07821_00",
+                            "CUSA03974_00",
+                            "PPSA08259_00",
+                            "CUSA04065_00",
                             "CUSA01842_00"
                         ]
                     }
                 }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900
+                    },
+                    "PLAY_ON_XBOX": {
+                        "type": "PLAY_ON_XBOX",
+                        "target": 900,
+                        "external_ids": [
+                            "94618376",
+                            "05A3C308"
+                        ]
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "type": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "external_ids": [
+                            "CUSA03975_00",
+                            "PPSA07805_00",
+                            "PPSA07821_00",
+                            "CUSA03974_00",
+                            "PPSA08259_00",
+                            "CUSA04065_00",
+                            "CUSA01842_00"
+                        ]
+                    }
+                },
+                "join_operator": "or"
             },
             "rewards_config": {
                 "assignment_method": 1,
@@ -6417,6 +6771,20 @@
                 "enrollment_url": "\"https://www.discord.com\"",
                 "developer_application_id": "1353680152814555229"
             },
+            "task_config_v2": {
+                "tasks": {
+                    "ACHIEVEMENT_IN_ACTIVITY": {
+                        "type": "ACHIEVEMENT_IN_ACTIVITY",
+                        "target": 1,
+                        "event_name": "progress",
+                        "messages": {
+                            "task_title": "Mission: Impossible Quest",
+                            "task_description": "Solve the first puzzle in the Mission: Impossible Puzzle Discord Activity to win 1 day of Nitro!"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
             "rewards_config": {
                 "assignment_method": 1,
                 "rewards": [
@@ -6493,8 +6861,8 @@
                         "event_name": "PLAY_ON_XBOX",
                         "target": 900,
                         "external_ids": [
-                            "1616563209",
-                            "9MW715J1P29D"
+                            "9MW715J1P29D",
+                            "1616563209"
                         ]
                     },
                     "PLAY_ON_PLAYSTATION": {
@@ -6505,6 +6873,30 @@
                         ]
                     }
                 }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900
+                    },
+                    "PLAY_ON_XBOX": {
+                        "type": "PLAY_ON_XBOX",
+                        "target": 900,
+                        "external_ids": [
+                            "9MW715J1P29D",
+                            "1616563209"
+                        ]
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "type": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "external_ids": [
+                            "PPSA26492_00"
+                        ]
+                    }
+                },
+                "join_operator": "or"
             },
             "rewards_config": {
                 "assignment_method": 1,
@@ -6584,6 +6976,15 @@
                     }
                 }
             },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900
+                    }
+                },
+                "join_operator": "or"
+            },
             "rewards_config": {
                 "assignment_method": 1,
                 "rewards": [
@@ -6657,6 +7058,35 @@
                         "external_ids": []
                     }
                 }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 29,
+                        "assets": {
+                            "video": {
+                                "url": "main_video_v1.mp4",
+                                "thumbnail": "endcard2.png",
+                                "caption": "PLACEHOLDER.vtt",
+                                "transcript": "PLACEHOLDER.txt"
+                            },
+                            "video_low_res": {
+                                "url": "main_video_low_res.mp4",
+                                "thumbnail": "endcard2.png",
+                                "caption": "PLACEHOLDER.vtt",
+                                "transcript": "PLACEHOLDER.txt"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "SID MEIER'S CIVILIZATION® VII - VR TRAILER",
+                            "video_end_cta_title": "Only on Meta Quest 3/3S",
+                            "video_end_cta_subtitle": "Only on Meta Quest 3/3S",
+                            "video_end_cta_button_label": "Shop Now"
+                        }
+                    }
+                },
+                "join_operator": "or"
             },
             "rewards_config": {
                 "assignment_method": 1,
@@ -6750,6 +7180,35 @@
                         "external_ids": []
                     }
                 }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 171,
+                        "assets": {
+                            "video": {
+                                "url": "video_v1.mp4",
+                                "thumbnail": "end_card.jpg",
+                                "caption": "captions2.vtt",
+                                "transcript": "subs3.txt"
+                            },
+                            "video_low_res": {
+                                "url": "video_low_res.mp4",
+                                "thumbnail": "end_card.jpg",
+                                "caption": "captions2.vtt",
+                                "transcript": "subs3.txt"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "the Offical Trailer 2",
+                            "video_end_cta_title": "DOOM: The Dark Ages Quest",
+                            "video_end_cta_subtitle": "Claim your Discord Avatar Decoration",
+                            "video_end_cta_button_label": "Pre-Order Now"
+                        }
+                    }
+                },
+                "join_operator": "or"
             },
             "rewards_config": {
                 "assignment_method": 1,
@@ -6845,6 +7304,15 @@
                         "external_ids": []
                     }
                 }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900
+                    }
+                },
+                "join_operator": "or"
             },
             "rewards_config": {
                 "assignment_method": 1,
