@@ -8688,5 +8688,178 @@
                 "randomizedSources": []
             }
         ]
+    },
+    {
+        "type": 1,
+        "id": "1369434230907605154",
+        "sku_id": "1369434230895018004",
+        "title": "Farming Town",
+        "description": "Come meet your neighbors!",
+        "accessibilityLabel": "A cozy, quaint farming town of local buildings and neighbors bustles with daily activities!",
+        "animationType": 2,
+        "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-05-07/farming_town/thumbnail.png",
+        "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-05-07/farming_town/reduced_motion.png",
+        "effects": [
+            {
+                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-05-07/farming_town/intro.png",
+                "loop": false,
+                "height": 880,
+                "width": 450,
+                "duration": 6250,
+                "start": 0,
+                "loopDelay": 0,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "zIndex": 100,
+                "randomizedSources": []
+            },
+            {
+                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-05-07/farming_town/idle_top.png",
+                "loop": true,
+                "height": 880,
+                "width": 450,
+                "duration": 5125,
+                "start": 8000,
+                "loopDelay": 8000,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "zIndex": 101,
+                "randomizedSources": []
+            },
+            {
+                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-05-07/farming_town/idle_bot.png",
+                "loop": true,
+                "height": 880,
+                "width": 450,
+                "duration": 5125,
+                "start": 14500,
+                "loopDelay": 8000,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "zIndex": 102,
+                "randomizedSources": []
+            }
+        ]
+    },
+    {
+        "type": 1,
+        "id": "1369434230928576642",
+        "sku_id": "1369434230916120616",
+        "title": "Fishing Village",
+        "description": "Ahhh, what a fine day for fishin'!",
+        "accessibilityLabel": "A villager happily boats across the local lake amidst a fishing port bustling with fishermens' daily activities.",
+        "animationType": 2,
+        "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-05-07/fishing_village/thumbnail.png",
+        "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-05-07/fishing_village/reduced_motion.png",
+        "effects": [
+            {
+                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-05-07/fishing_village/intro.png",
+                "loop": false,
+                "height": 880,
+                "width": 450,
+                "duration": 9083,
+                "start": 0,
+                "loopDelay": 0,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "zIndex": 100,
+                "randomizedSources": []
+            },
+            {
+                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-05-07/fishing_village/idle_fish.png",
+                "loop": true,
+                "height": 880,
+                "width": 450,
+                "duration": 6000,
+                "start": 11000,
+                "loopDelay": 4500,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "zIndex": 101,
+                "randomizedSources": []
+            },
+            {
+                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-05-07/fishing_village/idle.png",
+                "loop": true,
+                "height": 880,
+                "width": 450,
+                "duration": 6000,
+                "start": 9000,
+                "loopDelay": 0,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "zIndex": 102,
+                "randomizedSources": []
+            }
+        ]
+    },
+    {
+        "type": 1,
+        "id": "1369434230949412884",
+        "sku_id": "1369434230936961095",
+        "title": "Baking Challenge",
+        "description": "Does the perfect pie exist?",
+        "accessibilityLabel": "A large pie appears on your profile, randomized to appear either baked to perfection or burnt to a crisp.",
+        "animationType": 2,
+        "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-05-07/baking_challenge/thumbnail.png",
+        "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-05-07/baking_challenge/reduced_motion.png",
+        "effects": [
+            {
+                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-05-07/baking_challenge/intro_[1-2].png",
+                "loop": false,
+                "height": 880,
+                "width": 450,
+                "duration": 7625,
+                "start": 0,
+                "loopDelay": 0,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "zIndex": 100,
+                "randomizedSources": [
+                    {
+                        "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-05-07/baking_challenge/intro_success.png"
+                    },
+                    {
+                        "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-05-07/baking_challenge/intro_failure.png"
+                    }
+                ]
+            },
+            {
+                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-05-07/baking_challenge/idle_[1-2].png",
+                "loop": true,
+                "height": 880,
+                "width": 450,
+                "duration": 9750,
+                "start": 9000,
+                "loopDelay": 3500,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "zIndex": 101,
+                "randomizedSources": [
+                    {
+                        "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-05-07/baking_challenge/idle_success.png"
+                    },
+                    {
+                        "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-05-07/baking_challenge/idle_failure.png"
+                    }
+                ]
+            }
+        ]
     }
 ]
