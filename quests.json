@@ -7953,5 +7953,126 @@
         "user_status": null,
         "targeted_content": [],
         "preview": false
+    },
+    {
+        "id": "1372342731594272990",
+        "config": {
+            "id": "1372342731594272990",
+            "config_version": 2,
+            "starts_at": "2025-05-20T17:00:00+00:00",
+            "expires_at": "2025-05-26T23:00:00+00:00",
+            "features": [
+                3,
+                9,
+                14,
+                15,
+                16,
+                19
+            ],
+            "application": {
+                "link": "https://www.jurassicworld.com/tickets",
+                "id": "111111111111111111",
+                "name": "Jurassic World Rebirth"
+            },
+            "assets": {
+                "hero": "hero.jpg",
+                "hero_video": null,
+                "quest_bar_hero": "bar.png",
+                "quest_bar_hero_video": "bar.webm",
+                "game_tile": "gametile.png",
+                "logotype": "word.png"
+            },
+            "colors": {
+                "primary": "#325353",
+                "secondary": "#e7a909"
+            },
+            "messages": {
+                "quest_name": "Jurassic World Rebirth Trailer",
+                "game_title": "Jurassic World Rebirth",
+                "game_publisher": "Universal Pictures"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "event_name": "WATCH_VIDEO",
+                        "target": 153,
+                        "external_ids": []
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 153,
+                        "assets": {
+                            "video": {
+                                "url": "main_video_v2.mp4",
+                                "thumbnail": "endcard.jpg",
+                                "caption": "WEBVTT.vtt",
+                                "transcript": "script.txt"
+                            },
+                            "video_low_res": {
+                                "url": "main_video_low_res.mp4",
+                                "thumbnail": "endcard.jpg",
+                                "caption": "WEBVTT.vtt",
+                                "transcript": "script.txt"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "Jurassic World Rebirth Trailer",
+                            "video_end_cta_title": "Jurassic World Rebirth",
+                            "video_end_cta_subtitle": "In Theaters July 2 – Get Tickets Now"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 3,
+                        "sku_id": "1374170804769652797",
+                        "asset": "reward.mp4",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "Dilophosaurus Avatar Decoration",
+                            "name_with_article": "a Dilophosaurus Avatar Decoration",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHODER FOR CROSS_PLATFORM"
+                            }
+                        },
+                        "expires_at": "2025-07-25T23:00:00+00:00",
+                        "expires_at_premium": null,
+                        "expiration_mode": 3
+                    }
+                ],
+                "rewards_expire_at": "2025-06-25T23:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "video_metadata": {
+                "messages": {
+                    "video_title": "Jurassic World Rebirth Trailer",
+                    "video_end_cta_title": "Jurassic World Rebirth",
+                    "video_end_cta_subtitle": "In Theaters July 2 – Get Tickets Now"
+                },
+                "assets": {
+                    "video_player_video_hls": null,
+                    "video_player_video": "main_video_v2.mp4",
+                    "video_player_thumbnail": "endcard.jpg",
+                    "video_player_video_low_res": "main_video_low_res.mp4",
+                    "video_player_caption": "WEBVTT.vtt",
+                    "video_player_transcript": "script.txt",
+                    "quest_bar_preview_video": null,
+                    "quest_bar_preview_thumbnail": null,
+                    "quest_home_video": "bar.webm"
+                }
+            }
+        }
     }
 ]
