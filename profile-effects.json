@@ -8861,5 +8861,134 @@
                 ]
             }
         ]
+    },
+    {
+        "type": 1,
+        "id": "1373015260541227128",
+        "sku_id": "1373015260528902205",
+        "title": "Full Cowling",
+        "description": "Izuko Midoriya's Ultimate Move.",
+        "accessibilityLabel": "An electric flash reveals Deku as he kicks across with Saint Louis Smash Air Force!",
+        "animationType": 2,
+        "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-05-16/full_cowling/thumbnail.png",
+        "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-05-16/full_cowling/reduced_motion.png",
+        "effects": [
+            {
+                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-05-16/full_cowling/intro.png",
+                "loop": false,
+                "height": 880,
+                "width": 450,
+                "duration": 2905,
+                "start": 0,
+                "loopDelay": 0,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "zIndex": 100,
+                "randomizedSources": []
+            },
+            {
+                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-05-16/full_cowling/idle.png",
+                "loop": true,
+                "height": 880,
+                "width": 450,
+                "duration": 2822,
+                "start": 2905,
+                "loopDelay": 3000,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "zIndex": 101,
+                "randomizedSources": []
+            }
+        ]
+    },
+    {
+        "type": 1,
+        "id": "1373015260562198608",
+        "sku_id": "1373015260549873715",
+        "title": "Cluster",
+        "description": "Katsuki Bakugo's Ultimate Move.",
+        "accessibilityLabel": "Bakugo sets a fiery explosion with his 'Cluster' ability sparking across your profile.",
+        "animationType": 2,
+        "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-05-16/cluster/thumbnail.png",
+        "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-05-16/cluster/reduced_motion.png",
+        "effects": [
+            {
+                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-05-16/cluster/intro.png",
+                "loop": false,
+                "height": 880,
+                "width": 450,
+                "duration": 2905,
+                "start": 0,
+                "loopDelay": 0,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "zIndex": 100,
+                "randomizedSources": []
+            },
+            {
+                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-05-16/cluster/idle.png",
+                "loop": true,
+                "height": 880,
+                "width": 450,
+                "duration": 2988,
+                "start": 2905,
+                "loopDelay": 3000,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "zIndex": 101,
+                "randomizedSources": []
+            }
+        ]
+    },
+    {
+        "type": 1,
+        "id": "1373015260583170089",
+        "sku_id": "1373015260570845185",
+        "title": "League of Villains",
+        "description": "Meet Tomura Shigaraki, Dabi, and Himiko Toga.",
+        "accessibilityLabel": "Tomura Shigaraki, Dabi, and Himiko Toga appear and hop around your profile, grinning mischievously.",
+        "animationType": 2,
+        "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-05-16/league_of_villains/thumbnail.png",
+        "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-05-16/league_of_villains/reduced_motion.png",
+        "effects": [
+            {
+                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-05-16/league_of_villains/intro.png",
+                "loop": false,
+                "height": 880,
+                "width": 450,
+                "duration": 3000,
+                "start": 0,
+                "loopDelay": 0,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "zIndex": 100,
+                "randomizedSources": []
+            },
+            {
+                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-05-16/league_of_villains/idle.png",
+                "loop": true,
+                "height": 880,
+                "width": 450,
+                "duration": 3000,
+                "start": 5500,
+                "loopDelay": 3000,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "zIndex": 101,
+                "randomizedSources": []
+            }
+        ]
     }
 ]
