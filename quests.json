@@ -7980,7 +7980,7 @@
                 "quest_bar_hero": "bar.png",
                 "quest_bar_hero_video": "bar.webm",
                 "game_tile": "gametile.png",
-                "logotype": "word.png"
+                "logotype": "logo_v2.png"
             },
             "colors": {
                 "primary": "#325353",
@@ -8071,6 +8071,121 @@
                     "quest_bar_preview_video": null,
                     "quest_bar_preview_thumbnail": null,
                     "quest_home_video": "bar.webm"
+                }
+            }
+        }
+    },
+    {
+        "id": "1333839522189938740",
+        "config": {
+            "id": "1333839522189938740",
+            "config_version": 2,
+            "starts_at": "2025-04-16T17:00:00+00:00",
+            "expires_at": "2025-06-10T17:00:00+00:00",
+            "features": [
+                16,
+                9,
+                3,
+                15
+            ],
+            "application": {
+                "link": "https://example.com",
+                "id": "545364944258990091",
+                "name": "PLACEHOLDER"
+            },
+            "assets": {
+                "hero": "orbs_quest_card_banner_4.jpeg",
+                "hero_video": null,
+                "quest_bar_hero": "orbs_quest_bar.png",
+                "quest_bar_hero_video": null,
+                "game_tile": "discord_game_tile.png",
+                "logotype": "discord_logo.png"
+            },
+            "colors": {
+                "primary": "#5865F2",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Discord Orbs Intro",
+                "game_title": "Discord",
+                "game_publisher": "Discord"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "event_name": "WATCH_VIDEO",
+                        "target": 31,
+                        "external_ids": []
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 31,
+                        "assets": {
+                            "video": {
+                                "url": "main_video_v1.mp4",
+                                "thumbnail": "endcard.png",
+                                "caption": "caption.vtt",
+                                "transcript": "transcript.txt"
+                            },
+                            "video_low_res": {
+                                "url": "main_video_low_res.mp4",
+                                "thumbnail": "endcard.png",
+                                "caption": "caption.vtt",
+                                "transcript": "transcript.txt"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "intro to Discord Orbs",
+                            "video_end_cta_title": "Learn more about Orbs",
+                            "video_end_cta_subtitle": "Head to our Help Center for more information."
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "150 Orbs",
+                            "name_with_article": "150 Discord Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 150
+                    }
+                ],
+                "rewards_expire_at": "2025-06-15T00:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "video_metadata": {
+                "messages": {
+                    "video_title": "intro to Discord Orbs",
+                    "video_end_cta_title": "Learn more about Orbs",
+                    "video_end_cta_subtitle": "Head to our Help Center for more information."
+                },
+                "assets": {
+                    "video_player_video_hls": null,
+                    "video_player_video": "main_video_v1.mp4",
+                    "video_player_thumbnail": "endcard.png",
+                    "video_player_video_low_res": "main_video_low_res.mp4",
+                    "video_player_caption": "caption.vtt",
+                    "video_player_transcript": "transcript.txt",
+                    "quest_bar_preview_video": "barv2.webm",
+                    "quest_bar_preview_thumbnail": "bar.png",
+                    "quest_home_video": "barv2.webm"
                 }
             }
         }
