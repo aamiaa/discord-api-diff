@@ -8189,5 +8189,132 @@
                 }
             }
         }
+    },
+    {
+        "id": "1373009353962946601",
+        "config": {
+            "id": "1373009353962946601",
+            "config_version": 2,
+            "starts_at": "2025-05-22T17:00:00+00:00",
+            "expires_at": "2025-05-29T23:00:00+00:00",
+            "features": [
+                3,
+                9,
+                14,
+                15,
+                16,
+                19,
+                22
+            ],
+            "application": {
+                "link": "https://store.steampowered.com/app/2918300/Splitgate_2/",
+                "id": "111111111111111111",
+                "name": "Splitgate 2"
+            },
+            "assets": {
+                "hero": "hero.jpg",
+                "hero_video": null,
+                "quest_bar_hero": "bar.png",
+                "quest_bar_hero_video": "bar3.webm",
+                "game_tile": "gametile.png",
+                "logotype": "word.png"
+            },
+            "colors": {
+                "primary": "#7DF2FF",
+                "secondary": "#406EEB"
+            },
+            "messages": {
+                "quest_name": "Open Beta",
+                "game_title": "Splitgate 2",
+                "game_publisher": "1047 Games"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "event_name": "WATCH_VIDEO",
+                        "target": 96,
+                        "external_ids": []
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 96,
+                        "assets": {
+                            "video": {
+                                "url": "main_video_v1.mp4",
+                                "thumbnail": "endcard.jpg",
+                                "caption": "PLACEHOLDER.vtt",
+                                "transcript": "PLACEHOLDER.txt"
+                            },
+                            "video_low_res": {
+                                "url": "main_video_low_res.mp4",
+                                "thumbnail": "endcard.jpg",
+                                "caption": "PLACEHOLDER.vtt",
+                                "transcript": "PLACEHOLDER.txt"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "Splitgate 2 Open Beta Trailer",
+                            "video_end_cta_title": "Splitgate 2",
+                            "video_end_cta_subtitle": "The Open Beta is Live Now!",
+                            "video_end_cta_button_label": "Play Now"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 3,
+                        "sku_id": "1374394443997642803",
+                        "asset": "reward.mp4",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "Portal Pulse Avatar Decoration",
+                            "name_with_article": "a Portal Pulse Avatar Decoration",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHODER FOR CROSS_PLATFORM"
+                            }
+                        },
+                        "expires_at": "2025-07-28T23:00:00+00:00",
+                        "expires_at_premium": null,
+                        "expiration_mode": 3
+                    }
+                ],
+                "rewards_expire_at": "2025-06-28T23:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "video_metadata": {
+                "messages": {
+                    "video_title": "Splitgate 2 Open Beta Trailer",
+                    "video_end_cta_title": "Splitgate 2",
+                    "video_end_cta_subtitle": "The Open Beta is Live Now!",
+                    "video_end_cta_button_label": "Play Now"
+                },
+                "assets": {
+                    "video_player_video_hls": null,
+                    "video_player_video": "main_video_v1.mp4",
+                    "video_player_thumbnail": "endcard.jpg",
+                    "video_player_video_low_res": "main_video_low_res.mp4",
+                    "video_player_caption": "PLACEHOLDER.vtt",
+                    "video_player_transcript": "PLACEHOLDER.txt",
+                    "quest_bar_preview_video": "bar3.webm",
+                    "quest_bar_preview_thumbnail": "bar.png",
+                    "quest_home_video": "bar3.webm"
+                }
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
     }
 ]
