@@ -7472,6 +7472,7 @@
             "features": [
                 3,
                 9,
+                13,
                 14,
                 15,
                 16,
@@ -7717,6 +7718,7 @@
             "features": [
                 3,
                 9,
+                13,
                 14,
                 15,
                 16,
@@ -8083,10 +8085,11 @@
             "starts_at": "2025-04-16T17:00:00+00:00",
             "expires_at": "2025-06-10T17:00:00+00:00",
             "features": [
-                16,
-                9,
                 3,
-                15
+                9,
+                13,
+                15,
+                16
             ],
             "application": {
                 "link": "https://example.com",
@@ -8200,6 +8203,7 @@
             "features": [
                 3,
                 9,
+                13,
                 14,
                 15,
                 16,
@@ -8316,5 +8320,375 @@
         "user_status": null,
         "targeted_content": [],
         "preview": false
+    },
+    {
+        "id": "1371562573773799495",
+        "config": {
+            "id": "1371562573773799495",
+            "config_version": 2,
+            "starts_at": "2025-05-23T17:00:00+00:00",
+            "expires_at": "2025-05-29T23:00:00+00:00",
+            "features": [
+                3,
+                9,
+                13,
+                14,
+                15,
+                16,
+                19
+            ],
+            "application": {
+                "link": "https://www.lostiposmalos.mx",
+                "id": "111111111111111111",
+                "name": "Los Tipos Malos 2"
+            },
+            "assets": {
+                "hero": "heromx.jpg",
+                "hero_video": null,
+                "quest_bar_hero": "bar.png",
+                "quest_bar_hero_video": "bar.webm",
+                "game_tile": "logo.png",
+                "logotype": "wordmx_new.png"
+            },
+            "colors": {
+                "primary": "#AF231C",
+                "secondary": "#FF7500"
+            },
+            "messages": {
+                "quest_name": "Los Tipos Malos 2",
+                "game_title": "Los Tipos Malos 2",
+                "game_publisher": "Universal Pictures"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "event_name": "WATCH_VIDEO",
+                        "target": 143,
+                        "external_ids": []
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 143,
+                        "assets": {
+                            "video": {
+                                "url": "main_video_v1.mp4",
+                                "thumbnail": "endcard_mx.jpg",
+                                "caption": "caps.vtt",
+                                "transcript": "trans_mx.txt"
+                            },
+                            "video_low_res": {
+                                "url": "main_video_low_res.mp4",
+                                "thumbnail": "endcard_mx.jpg",
+                                "caption": "caps.vtt",
+                                "transcript": "trans_mx.txt"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "Los Tipos Malos 2",
+                            "video_end_cta_title": "Los Tipos Malos 2, 31 de julio solo en cines",
+                            "video_end_cta_subtitle": "Los Tipos Malos 2, 31 de julio solo en cines",
+                            "video_end_cta_button_label": "Learn More"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 3,
+                        "sku_id": "1371949732066234571",
+                        "asset": "reward.mp4",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "Avatar de robo Decoración",
+                            "name_with_article": "el Avatar de robo Decoración",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHODER FOR CROSS_PLATFORM"
+                            }
+                        },
+                        "expires_at": "2025-07-20T23:00:00+00:00",
+                        "expires_at_premium": null,
+                        "expiration_mode": 3
+                    }
+                ],
+                "rewards_expire_at": "2025-06-20T23:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "video_metadata": {
+                "messages": {
+                    "video_title": "Los Tipos Malos 2",
+                    "video_end_cta_title": "Los Tipos Malos 2, 31 de julio solo en cines",
+                    "video_end_cta_subtitle": "Los Tipos Malos 2, 31 de julio solo en cines",
+                    "video_end_cta_button_label": "Learn More"
+                },
+                "assets": {
+                    "video_player_video_hls": null,
+                    "video_player_video": "main_video_v1.mp4",
+                    "video_player_thumbnail": "endcard_mx.jpg",
+                    "video_player_video_low_res": "main_video_low_res.mp4",
+                    "video_player_caption": "caps.vtt",
+                    "video_player_transcript": "trans_mx.txt",
+                    "quest_bar_preview_video": "bar.webm",
+                    "quest_bar_preview_thumbnail": "bar.png",
+                    "quest_home_video": "bar.webm"
+                }
+            }
+        }
+    },
+    {
+        "id": "1371561000746090576",
+        "config": {
+            "id": "1371561000746090576",
+            "config_version": 2,
+            "starts_at": "2025-05-23T17:00:00+00:00",
+            "expires_at": "2025-05-29T23:00:00+00:00",
+            "features": [
+                3,
+                9,
+                14,
+                15,
+                16,
+                19
+            ],
+            "application": {
+                "link": "http://www.thebadguys2.com.au/",
+                "id": "111111111111111111",
+                "name": "The Bad Guys 2"
+            },
+            "assets": {
+                "hero": "hero_au.jpg",
+                "hero_video": null,
+                "quest_bar_hero": "bar.png",
+                "quest_bar_hero_video": "bar.webm",
+                "game_tile": "logo.png",
+                "logotype": "word_new.png"
+            },
+            "colors": {
+                "primary": "#AF231C",
+                "secondary": "#FF7500"
+            },
+            "messages": {
+                "quest_name": "The Bad Guys 2",
+                "game_title": "The Bad Guys 2",
+                "game_publisher": "Universal Pictures"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "event_name": "WATCH_VIDEO",
+                        "target": 143,
+                        "external_ids": []
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 143,
+                        "assets": {
+                            "video": {
+                                "url": "main_video_v1.mp4",
+                                "thumbnail": "endcard_au.jpg",
+                                "caption": "caps.vtt",
+                                "transcript": "trans.txt"
+                            },
+                            "video_low_res": {
+                                "url": "main_video_low_res.mp4",
+                                "thumbnail": "endcard_au.jpg",
+                                "caption": "caps.vtt",
+                                "transcript": "trans.txt"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "The Bad Guys 2 Trailer",
+                            "video_end_cta_title": "The Bad Guys 2, in cinemas September 18",
+                            "video_end_cta_subtitle": "The Bad Guys 2, in cinemas September 18",
+                            "video_end_cta_button_label": "Learn More"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 3,
+                        "sku_id": "1371949732066234571",
+                        "asset": "reward.mp4",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "Vault Heist Avatar Decoration",
+                            "name_with_article": "a Vault Heist Avatar Decoration",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHODER FOR CROSS_PLATFORM"
+                            }
+                        },
+                        "expires_at": "2025-07-20T23:00:00+00:00",
+                        "expires_at_premium": null,
+                        "expiration_mode": 3
+                    }
+                ],
+                "rewards_expire_at": "2025-06-20T23:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "video_metadata": {
+                "messages": {
+                    "video_title": "The Bad Guys 2 Trailer",
+                    "video_end_cta_title": "The Bad Guys 2, in cinemas September 18",
+                    "video_end_cta_subtitle": "The Bad Guys 2, in cinemas September 18",
+                    "video_end_cta_button_label": "Learn More"
+                },
+                "assets": {
+                    "video_player_video_hls": null,
+                    "video_player_video": "main_video_v1.mp4",
+                    "video_player_thumbnail": "endcard_au.jpg",
+                    "video_player_video_low_res": "main_video_low_res.mp4",
+                    "video_player_caption": "caps.vtt",
+                    "video_player_transcript": "trans.txt",
+                    "quest_bar_preview_video": "bar.webm",
+                    "quest_bar_preview_thumbnail": "bar.png",
+                    "quest_home_video": "bar.webm"
+                }
+            }
+        }
+    },
+    {
+        "id": "1371531453237825566",
+        "config": {
+            "id": "1371531453237825566",
+            "config_version": 2,
+            "starts_at": "2025-05-23T17:00:00+00:00",
+            "expires_at": "2025-05-29T23:00:00+00:00",
+            "features": [
+                3,
+                9,
+                14,
+                15,
+                16,
+                19
+            ],
+            "application": {
+                "link": "https://www.badguysmovie.co.uk",
+                "id": "111111111111111111",
+                "name": "The Bad Guys 2"
+            },
+            "assets": {
+                "hero": "hero1.jpg",
+                "hero_video": null,
+                "quest_bar_hero": "bar2.png",
+                "quest_bar_hero_video": "bar.webm",
+                "game_tile": "logo.png",
+                "logotype": "wordmark3.png"
+            },
+            "colors": {
+                "primary": "#AF231C",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "The Bad Guys 2",
+                "game_title": "The Bad Guys 2",
+                "game_publisher": "Universal Pictures"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "event_name": "WATCH_VIDEO",
+                        "target": 143,
+                        "external_ids": []
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 143,
+                        "assets": {
+                            "video": {
+                                "url": "main_video_v1.mp4",
+                                "thumbnail": "ukendcard.jpg",
+                                "caption": "caps.vtt",
+                                "transcript": "trans.txt"
+                            },
+                            "video_low_res": {
+                                "url": "main_video_low_res.mp4",
+                                "thumbnail": "ukendcard.jpg",
+                                "caption": "caps.vtt",
+                                "transcript": "trans.txt"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "The Bad Guys 2 Trailer",
+                            "video_end_cta_title": "The Bad Guys 2, in cinemas July 25",
+                            "video_end_cta_subtitle": "The Bad Guys 2",
+                            "video_end_cta_button_label": "Learn More"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 3,
+                        "sku_id": "1371949732066234571",
+                        "asset": "reward.mp4",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "Vault Heist Avatar Decoration",
+                            "name_with_article": "a Vault Heist Avatar Decoration",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHODER FOR CROSS_PLATFORM"
+                            }
+                        },
+                        "expires_at": "2030-01-01T00:00:00+00:00",
+                        "expires_at_premium": null,
+                        "expiration_mode": 3
+                    }
+                ],
+                "rewards_expire_at": "2025-06-20T23:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "video_metadata": {
+                "messages": {
+                    "video_title": "The Bad Guys 2 Trailer",
+                    "video_end_cta_title": "The Bad Guys 2, in cinemas July 25",
+                    "video_end_cta_subtitle": "The Bad Guys 2",
+                    "video_end_cta_button_label": "Learn More"
+                },
+                "assets": {
+                    "video_player_video_hls": null,
+                    "video_player_video": "main_video_v1.mp4",
+                    "video_player_thumbnail": "ukendcard.jpg",
+                    "video_player_video_low_res": "main_video_low_res.mp4",
+                    "video_player_caption": "caps.vtt",
+                    "video_player_transcript": "trans.txt",
+                    "quest_bar_preview_video": "bar.webm",
+                    "quest_bar_preview_thumbnail": "bar2.png",
+                    "quest_home_video": "bar.webm"
+                }
+            }
+        }
     }
 ]
