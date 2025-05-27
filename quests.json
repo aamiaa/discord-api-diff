@@ -8690,5 +8690,128 @@
                 }
             }
         }
+    },
+    {
+        "id": "1371570471463551157",
+        "config": {
+            "id": "1371570471463551157",
+            "config_version": 2,
+            "starts_at": "2025-05-27T17:00:00+00:00",
+            "expires_at": "2025-06-02T23:00:00+00:00",
+            "features": [
+                3,
+                9,
+                14,
+                15,
+                16,
+                19
+            ],
+            "application": {
+                "link": "https://www.lesbadguys2-lefilm.com",
+                "id": "111111111111111111",
+                "name": "Les Bad Guys 2"
+            },
+            "assets": {
+                "hero": "hero_fr.jpg",
+                "hero_video": null,
+                "quest_bar_hero": "bar.png",
+                "quest_bar_hero_video": "bar.webm",
+                "game_tile": "badguys.png",
+                "logotype": "word_fr_new.png"
+            },
+            "colors": {
+                "primary": "#AF231C",
+                "secondary": "#FF7500"
+            },
+            "messages": {
+                "quest_name": "Les Bad Guys 2",
+                "game_title": "Les Bad Guys 2",
+                "game_publisher": "Universal Pictures"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "event_name": "WATCH_VIDEO",
+                        "target": 143,
+                        "external_ids": []
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 143,
+                        "assets": {
+                            "video": {
+                                "url": "main_video_v1.mp4",
+                                "thumbnail": "endcard_fr.jpg",
+                                "caption": "caps_fr_1.vtt",
+                                "transcript": "trans_fr_2.txt"
+                            },
+                            "video_low_res": {
+                                "url": "main_video_low_res.mp4",
+                                "thumbnail": "endcard_fr.jpg",
+                                "caption": "caps_fr_1.vtt",
+                                "transcript": "trans_fr_2.txt"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "Les Bad Guys 2",
+                            "video_end_cta_title": "Les Bad Guys 2",
+                            "video_end_cta_subtitle": "Les Bad Guys 2, au cinéma le 30 juillet",
+                            "video_end_cta_button_label": "Learn More"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 3,
+                        "sku_id": "1371949732066234571",
+                        "asset": "reward_static_bad_guys.jpg",
+                        "asset_video": "reward.mp4",
+                        "messages": {
+                            "name": "Décoration d'Avatar Cambrioleur de coffre-fort",
+                            "name_with_article": "la décoration d'Avatar Cambrioleur de coffre-fort",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHODER FOR CROSS_PLATFORM"
+                            }
+                        },
+                        "expires_at": "2025-07-20T23:00:00+00:00",
+                        "expires_at_premium": null,
+                        "expiration_mode": 3
+                    }
+                ],
+                "rewards_expire_at": "2025-06-20T23:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "video_metadata": {
+                "messages": {
+                    "video_title": "Les Bad Guys 2",
+                    "video_end_cta_title": "Les Bad Guys 2",
+                    "video_end_cta_subtitle": "Les Bad Guys 2, au cinéma le 30 juillet",
+                    "video_end_cta_button_label": "Learn More"
+                },
+                "assets": {
+                    "video_player_video_hls": null,
+                    "video_player_video": "main_video_v1.mp4",
+                    "video_player_thumbnail": "endcard_fr.jpg",
+                    "video_player_video_low_res": "main_video_low_res.mp4",
+                    "video_player_caption": "caps_fr_1.vtt",
+                    "video_player_transcript": "trans_fr_2.txt",
+                    "quest_bar_preview_video": "bar.webm",
+                    "quest_bar_preview_thumbnail": "bar.png",
+                    "quest_home_video": "bar.webm"
+                }
+            }
+        }
     }
 ]
