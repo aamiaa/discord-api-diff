@@ -8990,5 +8990,48 @@
                 "randomizedSources": []
             }
         ]
+    },
+    {
+        "type": 1,
+        "id": "1351351542392815616",
+        "sku_id": "1351351503339913256",
+        "title": "Magic Mists",
+        "description": "What do the mists reveal?",
+        "accessibilityLabel": "A mystical wave of blue and purple liquid mist swirls across the profile and leaves a trail of sparkles in its wake.",
+        "animationType": 2,
+        "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-03-13/orbs/thumbnail.png",
+        "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-03-13/orbs/reduced_motion.png",
+        "effects": [
+            {
+                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-03-13/orbs/intro.png",
+                "loop": true,
+                "height": 880,
+                "width": 450,
+                "duration": 3901,
+                "start": 0,
+                "loopDelay": 7500,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "zIndex": 100,
+                "randomizedSources": []
+            },
+            {
+                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-03-13/orbs/idle.png",
+                "loop": true,
+                "height": 880,
+                "width": 450,
+                "duration": 3735,
+                "start": 7500,
+                "loopDelay": 3500,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "zIndex": 101,
+                "randomizedSources": []
+            }
+        ]
     }
 ]
