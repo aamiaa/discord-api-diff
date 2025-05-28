@@ -84,6 +84,43 @@
         }
     },
     {
+        "id": "1218004004206804992",
+        "config": {
+            "id": "1218004004206804992",
+            "starts_at": "2024-04-01T00:00:00+00:00",
+            "expires_at": "2024-04-16T11:59:59+00:00",
+            "features": [],
+            "colors": {
+                "primary": "#E944D4",
+                "secondary": "#5318A7"
+            },
+            "assets": {
+                "hero": "hero.png",
+                "hero_video": null,
+                "quest_bar_hero": "quests_bar_hero.png",
+                "quest_bar_hero_video": null,
+                "game_tile": "game_tile.png",
+                "logotype": "game_logotype.png"
+            },
+            "messages": {
+                "quest_name": "Skill Issue",
+                "game_title": "THE FINALS",
+                "game_publisher": "Embark Studios"
+            },
+            "rewards": [
+                {
+                    "sku_id": "1331716934844153907",
+                    "type": 1,
+                    "name": "Skill Issue Set",
+                    "name_with_article": "the Skill Issue Set",
+                    "asset": "reward.png",
+                    "asset_video": null,
+                    "orb_quantity": null
+                }
+            ]
+        }
+    },
+    {
         "id": "1227395355193118750",
         "config": {
             "id": "1227395355193118750",
