@@ -9685,5 +9685,128 @@
                 }
             }
         }
+    },
+    {
+        "id": "1376985288538194000",
+        "config": {
+            "id": "1376985288538194000",
+            "config_version": 2,
+            "starts_at": "2025-05-29T17:00:00+00:00",
+            "expires_at": "2025-06-04T23:00:00+00:00",
+            "features": [
+                3,
+                9,
+                13,
+                14,
+                15,
+                16,
+                19
+            ],
+            "application": {
+                "link": "https://tacticus.sng.link/Dtqp3/9dgf?pcn=Tacticus_Desktop_BRND1_Discord_Video-Quest_052025",
+                "id": "111111111111111111",
+                "name": "Warhammer 40,000: Tacticus"
+            },
+            "assets": {
+                "hero": "hero.png",
+                "hero_video": null,
+                "quest_bar_hero": "bar.png",
+                "quest_bar_hero_video": "bar.webm",
+                "game_tile": "icon.png",
+                "logotype": "word.png"
+            },
+            "colors": {
+                "primary": "#ca2c3c",
+                "secondary": "#421210"
+            },
+            "messages": {
+                "quest_name": "Warhammer 40,000: Tacticus",
+                "game_title": "Warhammer 40,000: Tacticus",
+                "game_publisher": "Snowprint"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "event_name": "WATCH_VIDEO",
+                        "target": 99,
+                        "external_ids": []
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 99,
+                        "assets": {
+                            "video": {
+                                "url": "main_video_v1.mp4",
+                                "thumbnail": "end_card.png",
+                                "caption": "PLACEHOLDER.vtt",
+                                "transcript": "PLACEHOLDER.txt"
+                            },
+                            "video_low_res": {
+                                "url": "main_video_low_res.mp4",
+                                "thumbnail": "end_card.png",
+                                "caption": "PLACEHOLDER.vtt",
+                                "transcript": "PLACEHOLDER.txt"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "Adeptus Custodes join Tacticus",
+                            "video_end_cta_title": "Click here to enter the battlefield",
+                            "video_end_cta_subtitle": "Click here to enter the battlefield",
+                            "video_end_cta_button_label": "Play Game"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 1,
+                        "sku_id": "1376985288538194002",
+                        "asset": "reward.png",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "Tacticus Reward Pack",
+                            "name_with_article": "a Tacticus Reward Pack",
+                            "redemption_instructions_by_platform": {
+                                "0": "1. The reward code needs to be activated within the game under the Settings page by manually typing in the code under \"Input Code\".  \n2. Reward code has no expiration date. One-time use per Tacticus account. Code can be used on either the mobile version or desktop version of Tacticus. \n\n**Non-transferable, non-refundable, and cannot be exchanged for cash. Terms subject to change without notice.**"
+                            }
+                        },
+                        "approximate_count": null,
+                        "redemption_link": null
+                    }
+                ],
+                "rewards_expire_at": "2025-07-04T23:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "video_metadata": {
+                "messages": {
+                    "video_title": "Adeptus Custodes join Tacticus",
+                    "video_end_cta_title": "Click here to enter the battlefield",
+                    "video_end_cta_subtitle": "Click here to enter the battlefield",
+                    "video_end_cta_button_label": "Play Game"
+                },
+                "assets": {
+                    "video_player_video_hls": null,
+                    "video_player_video": "main_video_v1.mp4",
+                    "video_player_thumbnail": "end_card.png",
+                    "video_player_video_low_res": "main_video_low_res.mp4",
+                    "video_player_caption": "PLACEHOLDER.vtt",
+                    "video_player_transcript": "PLACEHOLDER.txt",
+                    "quest_bar_preview_video": "bar.webm",
+                    "quest_bar_preview_thumbnail": "bar.png",
+                    "quest_home_video": "bar.webm"
+                }
+            }
+        }
     }
 ]
