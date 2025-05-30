@@ -9930,5 +9930,126 @@
                 }
             }
         }
+    },
+    {
+        "id": "1377418526859460691",
+        "config": {
+            "id": "1377418526859460691",
+            "config_version": 2,
+            "starts_at": "2025-05-30T17:00:00+00:00",
+            "expires_at": "2025-06-06T23:00:00+00:00",
+            "features": [
+                3,
+                9,
+                12,
+                13,
+                14,
+                15,
+                16,
+                19
+            ],
+            "application": {
+                "link": "https://discord.com/invite/marvelrivals",
+                "id": "1314395942253756416",
+                "name": "Marvel Rivals"
+            },
+            "assets": {
+                "hero": "hero.jpg",
+                "hero_video": "hero_video_2.webm",
+                "quest_bar_hero": "static_quest_bar_background.jpg",
+                "quest_bar_hero_video": "quest_bar_hero_video_2.webm",
+                "game_tile": "brand_icon_new.png",
+                "logotype": "word.png"
+            },
+            "colors": {
+                "primary": "#B49E15",
+                "secondary": "#01227F"
+            },
+            "messages": {
+                "quest_name": "Marvel Rivals S2.5",
+                "game_title": "Marvel Rivals ",
+                "game_publisher": "NetEase"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "event_name": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "external_ids": []
+                    },
+                    "PLAY_ON_XBOX": {
+                        "event_name": "PLAY_ON_XBOX",
+                        "target": 900,
+                        "external_ids": [
+                            "1758492876",
+                            "1794906646"
+                        ]
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "event_name": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "external_ids": [
+                            "PPSA21668_00",
+                            "PPSA21669_00"
+                        ]
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900
+                    },
+                    "PLAY_ON_XBOX": {
+                        "type": "PLAY_ON_XBOX",
+                        "target": 900,
+                        "external_ids": [
+                            "1758492876",
+                            "1794906646"
+                        ]
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "type": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "external_ids": [
+                            "PPSA21668_00",
+                            "PPSA21669_00"
+                        ]
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 3,
+                        "sku_id": "1377856108282253333",
+                        "asset": "reward.mp4",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "Ultron Avatar Decoration",
+                            "name_with_article": "an Ultron Avatar Decoration",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHODER FOR CROSS_PLATFORM"
+                            }
+                        },
+                        "expires_at": "2025-08-05T23:00:00+00:00",
+                        "expires_at_premium": null,
+                        "expiration_mode": 3
+                    }
+                ],
+                "rewards_expire_at": "2025-07-05T23:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
     }
 ]
