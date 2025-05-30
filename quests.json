@@ -9808,5 +9808,127 @@
                 }
             }
         }
+    },
+    {
+        "id": "1377039596029743275",
+        "config": {
+            "id": "1377039596029743275",
+            "config_version": 2,
+            "starts_at": "2025-05-30T17:00:00+00:00",
+            "expires_at": "2025-06-07T06:59:00+00:00",
+            "features": [
+                3,
+                9,
+                13,
+                14,
+                15,
+                16,
+                19
+            ],
+            "application": {
+                "link": "https://feverup.com/movies/en/movie/33874-ballerina?thm=4424?utm_source=Discord&utm_medium=paidmedia&utm_content=ballerinadiscord&utm_campaign=ballerina",
+                "id": "111111111111111111",
+                "name": "From the World of John Wick: Ballerina"
+            },
+            "assets": {
+                "hero": "hero.jpg",
+                "hero_video": null,
+                "quest_bar_hero": "questbar.jpg",
+                "quest_bar_hero_video": "bar.webm",
+                "game_tile": "icon.jpg",
+                "logotype": "word.png"
+            },
+            "colors": {
+                "primary": "#FF66CC",
+                "secondary": "#330066"
+            },
+            "messages": {
+                "quest_name": "Ballerina Video",
+                "game_title": "From the World of John Wick: Ballerina",
+                "game_publisher": "Lionsgate"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "event_name": "WATCH_VIDEO",
+                        "target": 15,
+                        "external_ids": []
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 15,
+                        "assets": {
+                            "video": {
+                                "url": "main_video_v1.mp4",
+                                "thumbnail": "endcard.jpg",
+                                "caption": "caps.vtt",
+                                "transcript": "trans.txt"
+                            },
+                            "video_low_res": {
+                                "url": "main_video_low_res.mp4",
+                                "thumbnail": "endcard.jpg",
+                                "caption": "caps.vtt",
+                                "transcript": "trans.txt"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "New Ballerina Video",
+                            "video_end_cta_title": "From the World of John Wick: Ballerina",
+                            "video_end_cta_subtitle": "In Theaters June 6"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 3,
+                        "sku_id": "1377740268366991562",
+                        "asset": "reward.mp4",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "Ballerina Avatar Decoration",
+                            "name_with_article": "a Ballerina Avatar Decoration",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHODER FOR CROSS_PLATFORM"
+                            }
+                        },
+                        "expires_at": "2025-08-06T23:00:00+00:00",
+                        "expires_at_premium": null,
+                        "expiration_mode": 3
+                    }
+                ],
+                "rewards_expire_at": "2025-07-06T23:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "video_metadata": {
+                "messages": {
+                    "video_title": "New Ballerina Video",
+                    "video_end_cta_title": "From the World of John Wick: Ballerina",
+                    "video_end_cta_subtitle": "In Theaters June 6"
+                },
+                "assets": {
+                    "video_player_video_hls": null,
+                    "video_player_video": "main_video_v1.mp4",
+                    "video_player_thumbnail": "endcard.jpg",
+                    "video_player_video_low_res": "main_video_low_res.mp4",
+                    "video_player_caption": "caps.vtt",
+                    "video_player_transcript": "trans.txt",
+                    "quest_bar_preview_video": "bar.webm",
+                    "quest_bar_preview_thumbnail": "questbar.jpg",
+                    "quest_home_video": "bar.webm"
+                }
+            }
+        }
     }
 ]
