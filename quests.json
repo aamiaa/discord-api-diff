@@ -8959,7 +8959,10 @@
                     "quest_home_video": "bar.webm"
                 }
             }
-        }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
     },
     {
         "id": "1333839522189938740",
@@ -10066,5 +10069,252 @@
         "user_status": null,
         "targeted_content": [],
         "preview": false
+    },
+    {
+        "id": "1377060108684492800",
+        "config": {
+            "id": "1377060108684492800",
+            "config_version": 2,
+            "starts_at": "2025-06-03T17:00:00+00:00",
+            "expires_at": "2025-06-09T23:00:00+00:00",
+            "features": [
+                3,
+                9,
+                13,
+                14,
+                15,
+                16,
+                19
+            ],
+            "application": {
+                "link": "https://snapgo.onelink.me/Qnpo/7o4o5moi",
+                "id": "111111111111111111",
+                "name": " Marvel Snap"
+            },
+            "assets": {
+                "hero": "hero.png",
+                "hero_video": null,
+                "quest_bar_hero": "bar.png",
+                "quest_bar_hero_video": "bar_v1.mp4",
+                "game_tile": "gametile.png",
+                "logotype": "word_left.png"
+            },
+            "colors": {
+                "primary": "#d1e0f7",
+                "secondary": "#681589"
+            },
+            "messages": {
+                "quest_name": "Symbiote Spider-Man",
+                "game_title": "Marvel Snap",
+                "game_publisher": "Second Dinner"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "event_name": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 68,
+                        "external_ids": []
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 68,
+                        "assets": {
+                            "video": {
+                                "url": "main_video_v2.mp4",
+                                "thumbnail": "MarvelSnap_Endcard.png",
+                                "caption": "caps.vtt",
+                                "transcript": "trans.txt"
+                            },
+                            "video_low_res": {
+                                "url": "main_video_low_res.mp4",
+                                "thumbnail": "MarvelSnap_Endcard.png",
+                                "caption": "caps.vtt",
+                                "transcript": "trans.txt"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "Symbiote Spider-Man",
+                            "video_end_cta_title": "Watch Now",
+                            "video_end_cta_subtitle": "Watch to earn your reward!",
+                            "video_end_cta_button_label": "Download"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 3,
+                        "sku_id": "1379222146274033798",
+                        "asset": "reward.mp4",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "Marvel Snap Venom Avatar Decoration",
+                            "name_with_article": "a Marvel Snap Venom Avatar Decoration",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHODER FOR CROSS_PLATFORM"
+                            }
+                        },
+                        "expires_at": "2025-08-08T23:00:00+00:00",
+                        "expires_at_premium": null,
+                        "expiration_mode": 3
+                    }
+                ],
+                "rewards_expire_at": "2025-07-09T23:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "video_metadata": {
+                "messages": {
+                    "video_title": "Symbiote Spider-Man",
+                    "video_end_cta_title": "Watch Now",
+                    "video_end_cta_subtitle": "Watch to earn your reward!",
+                    "video_end_cta_button_label": "Download"
+                },
+                "assets": {
+                    "video_player_video_hls": null,
+                    "video_player_video": "main_video_v2.mp4",
+                    "video_player_thumbnail": "MarvelSnap_Endcard.png",
+                    "video_player_video_low_res": "main_video_low_res.mp4",
+                    "video_player_caption": "caps.vtt",
+                    "video_player_transcript": "trans.txt",
+                    "quest_bar_preview_video": "bar_v1.mp4",
+                    "quest_bar_preview_thumbnail": "bar.png",
+                    "quest_home_video": "bar_v1.mp4"
+                }
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
+    },
+    {
+        "id": "1377299959656742965",
+        "config": {
+            "id": "1377299959656742965",
+            "config_version": 2,
+            "starts_at": "2025-06-03T17:00:00+00:00",
+            "expires_at": "2025-06-10T23:00:00+00:00",
+            "features": [
+                3,
+                9,
+                13,
+                14,
+                15,
+                16,
+                19
+            ],
+            "application": {
+                "link": "https://www.seaofthieves.com",
+                "id": "535371564850479134",
+                "name": "Sea of Thieves"
+            },
+            "assets": {
+                "hero": "hero.png",
+                "hero_video": null,
+                "quest_bar_hero": "bar.png",
+                "quest_bar_hero_video": "bar.webm",
+                "game_tile": "gametile.png",
+                "logotype": "word2.png"
+            },
+            "colors": {
+                "primary": "#26d07c",
+                "secondary": "#1d252d"
+            },
+            "messages": {
+                "quest_name": "Sea of Thieves",
+                "game_title": "Sea of Thieves",
+                "game_publisher": "Rare Ltd"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "event_name": "WATCH_VIDEO",
+                        "target": 81,
+                        "external_ids": []
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 81,
+                        "assets": {
+                            "video": {
+                                "url": "main_video_v1.mp4",
+                                "thumbnail": "endcard.png",
+                                "caption": "cc.vtt",
+                                "transcript": "ts.txt"
+                            },
+                            "video_low_res": {
+                                "url": "main_video_low_res.mp4",
+                                "thumbnail": "endcard.png",
+                                "caption": "cc.vtt",
+                                "transcript": "ts.txt"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "Sea of Thieves Brand Trailer",
+                            "video_end_cta_title": "OUT NOW",
+                            "video_end_cta_subtitle": "Sea of Thieves",
+                            "video_end_cta_button_label": "Play Now"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "4040 Orbs",
+                            "name_with_article": "4040 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHODER FOR CROSS_PLATFORM"
+                            }
+                        },
+                        "orb_quantity": 4040
+                    }
+                ],
+                "rewards_expire_at": "2025-07-10T23:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "video_metadata": {
+                "messages": {
+                    "video_title": "Sea of Thieves Brand Trailer",
+                    "video_end_cta_title": "OUT NOW",
+                    "video_end_cta_subtitle": "Sea of Thieves",
+                    "video_end_cta_button_label": "Play Now"
+                },
+                "assets": {
+                    "video_player_video_hls": null,
+                    "video_player_video": "main_video_v1.mp4",
+                    "video_player_thumbnail": "endcard.png",
+                    "video_player_video_low_res": "main_video_low_res.mp4",
+                    "video_player_caption": "cc.vtt",
+                    "video_player_transcript": "ts.txt",
+                    "quest_bar_preview_video": "bar.webm",
+                    "quest_bar_preview_thumbnail": "bar.png",
+                    "quest_home_video": "bar.webm"
+                }
+            }
+        }
     }
 ]
