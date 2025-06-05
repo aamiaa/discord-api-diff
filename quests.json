@@ -10316,5 +10316,125 @@
                 }
             }
         }
+    },
+    {
+        "id": "1379230246821302272",
+        "config": {
+            "id": "1379230246821302272",
+            "config_version": 2,
+            "starts_at": "2025-06-05T17:00:00+00:00",
+            "expires_at": "2025-06-13T23:00:00+00:00",
+            "features": [
+                3,
+                9,
+                13,
+                14,
+                15,
+                16,
+                19
+            ],
+            "application": {
+                "link": "https://www.espn.com/nba/game/_/gameId/401766122/pacers-thunder",
+                "id": "111111111111111111",
+                "name": "NBA Finals"
+            },
+            "assets": {
+                "hero": "hero.png",
+                "hero_video": null,
+                "quest_bar_hero": "bar.jpg",
+                "quest_bar_hero_video": "bar.webm",
+                "game_tile": "tile.png",
+                "logotype": "word2.png"
+            },
+            "colors": {
+                "primary": "#04438b",
+                "secondary": "#04438b"
+            },
+            "messages": {
+                "quest_name": "NBA Finals",
+                "game_title": "NBA Finals",
+                "game_publisher": "ESPN"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "event_name": "WATCH_VIDEO",
+                        "target": 29,
+                        "external_ids": []
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 29,
+                        "assets": {
+                            "video": {
+                                "url": "main_video_v1.mp4",
+                                "thumbnail": "endcard1.png",
+                                "caption": "cc_v3.vtt",
+                                "transcript": "ts.txt"
+                            },
+                            "video_low_res": {
+                                "url": "main_video_low_res.mp4",
+                                "thumbnail": "endcard1.png",
+                                "caption": "cc_v3.vtt",
+                                "transcript": "ts.txt"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "NBA Finals Video",
+                            "video_end_cta_title": "NBA Finals Start Tonight",
+                            "video_end_cta_subtitle": "Watch the NBA Finals on ABC",
+                            "video_end_cta_button_label": "Learn More"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 5,
+                        "sku_id": "1298745361602449479",
+                        "asset": "PLACEHOLDER",
+                        "messages": {
+                            "name": "1 day of Nitro",
+                            "name_with_article": "1 day of Nitro",
+                            "redemption_instructions_by_platform": {
+                                "0": "Congrats! You earned 1 day of Nitro."
+                            }
+                        }
+                    }
+                ],
+                "rewards_expire_at": "2025-07-13T23:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "video_metadata": {
+                "messages": {
+                    "video_title": "NBA Finals Video",
+                    "video_end_cta_title": "NBA Finals Start Tonight",
+                    "video_end_cta_subtitle": "Watch the NBA Finals on ABC",
+                    "video_end_cta_button_label": "Learn More"
+                },
+                "assets": {
+                    "video_player_video_hls": null,
+                    "video_player_video": "main_video_v1.mp4",
+                    "video_player_thumbnail": "endcard1.png",
+                    "video_player_video_low_res": "main_video_low_res.mp4",
+                    "video_player_caption": "cc_v3.vtt",
+                    "video_player_transcript": "ts.txt",
+                    "quest_bar_preview_video": "bar.webm",
+                    "quest_bar_preview_thumbnail": "bar.jpg",
+                    "quest_home_video": "bar.webm"
+                }
+            }
+        }
     }
 ]
