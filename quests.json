@@ -10436,5 +10436,500 @@
                 }
             }
         }
+    },
+    {
+        "id": "1377402555075788841",
+        "config": {
+            "id": "1377402555075788841",
+            "config_version": 2,
+            "starts_at": "2025-06-06T17:00:00+00:00",
+            "expires_at": "2025-06-12T23:00:00+00:00",
+            "features": [
+                3,
+                9,
+                13,
+                14,
+                15,
+                16,
+                18,
+                19
+            ],
+            "application": {
+                "link": "https://discord.gg/rockstargames",
+                "id": "111111111111111111",
+                "name": "Grand Theft Auto VI"
+            },
+            "assets": {
+                "hero": "hero3.jpg",
+                "hero_video": null,
+                "quest_bar_hero": "bar.jpg",
+                "quest_bar_hero_video": "bar.webm",
+                "game_tile": "gametile.png",
+                "logotype": "word2.png"
+            },
+            "colors": {
+                "primary": "#ffad00",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "GTAVI Trailer 2",
+                "game_title": "GTAVI",
+                "game_publisher": "Rockstar Games"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "event_name": "WATCH_VIDEO",
+                        "target": 166,
+                        "external_ids": []
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 166,
+                        "assets": {
+                            "video": {
+                                "url": "main_video_v1.mp4",
+                                "thumbnail": "endcard.png",
+                                "caption": "caps.vtt",
+                                "transcript": "trans.txt"
+                            },
+                            "video_low_res": {
+                                "url": "main_video_low_res.mp4",
+                                "thumbnail": "endcard.png",
+                                "caption": "caps.vtt",
+                                "transcript": "trans.txt"
+                            },
+                            "video_hls": {
+                                "url": "hls_video_us.m3u8",
+                                "thumbnail": "endcard.png",
+                                "caption": "caps.vtt",
+                                "transcript": "trans.txt"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "GTAVI Trailer 2",
+                            "video_end_cta_title": "GTAVI Trailer 2",
+                            "video_end_cta_subtitle": "GTAVI Trailer 2",
+                            "video_end_cta_button_label": "Join Server"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 5,
+                        "sku_id": "1298745361602449479",
+                        "asset": "PLACEHOLDER",
+                        "messages": {
+                            "name": "1 day of Nitro",
+                            "name_with_article": "1 day of Nitro",
+                            "redemption_instructions_by_platform": {
+                                "0": "Congrats! You earned 1 day of Nitro."
+                            }
+                        }
+                    }
+                ],
+                "rewards_expire_at": "2025-07-12T23:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "video_metadata": {
+                "messages": {
+                    "video_title": "GTAVI Trailer 2",
+                    "video_end_cta_title": "GTAVI Trailer 2",
+                    "video_end_cta_subtitle": "GTAVI Trailer 2",
+                    "video_end_cta_button_label": "Join Server"
+                },
+                "assets": {
+                    "video_player_video_hls": "hls_video_us.m3u8",
+                    "video_player_video": "main_video_v1.mp4",
+                    "video_player_thumbnail": "endcard.png",
+                    "video_player_video_low_res": "main_video_low_res.mp4",
+                    "video_player_caption": "caps.vtt",
+                    "video_player_transcript": "trans.txt",
+                    "quest_bar_preview_video": "bar.webm",
+                    "quest_bar_preview_thumbnail": "bar.jpg",
+                    "quest_home_video": "bar.webm"
+                }
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
+    },
+    {
+        "id": "1379229787574374460",
+        "config": {
+            "id": "1379229787574374460",
+            "config_version": 2,
+            "starts_at": "2025-06-06T17:00:00+00:00",
+            "expires_at": "2025-06-12T23:00:00+00:00",
+            "features": [
+                3,
+                9,
+                12,
+                13,
+                14,
+                15,
+                16,
+                18,
+                19
+            ],
+            "application": {
+                "link": "https://hoyo.link/9SOkFFAL",
+                "id": "1257819671114289184",
+                "name": "Zenless Zone Zero"
+            },
+            "assets": {
+                "hero": "hero.jpg",
+                "hero_video": null,
+                "quest_bar_hero": "quest_bar.jpg",
+                "quest_bar_hero_video": null,
+                "game_tile": "brand_icon.png",
+                "logotype": "word.png"
+            },
+            "colors": {
+                "primary": "#FED03F",
+                "secondary": "#EB9F16"
+            },
+            "messages": {
+                "quest_name": "V2.0",
+                "game_title": "Zenless Zone Zero",
+                "game_publisher": "HoYoverse"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "event_name": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "external_ids": []
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "event_name": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "external_ids": [
+                            "PPSA21082_00",
+                            "PPSA20549_00",
+                            "PPSA20599_00"
+                        ]
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "type": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "external_ids": [
+                            "PPSA21082_00",
+                            "PPSA20549_00",
+                            "PPSA20599_00"
+                        ]
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 1,
+                        "sku_id": "1379229787574374462",
+                        "asset": "reward.jpg",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "V2.0 Quest Reward",
+                            "name_with_article": "a V2.0 Quest Reward",
+                            "redemption_instructions_by_platform": {
+                                "0": "(1) Redemption Code Usage and Restrictions\n\na. The eligible servers for using the Zenless Zone Zero redemption code: America; Asia; Europe; TW, HK, MO\n\nb. How to Redeem:\n\nLog in to Zenless Zone Zero, click the menu button in the top-left of the in-game screen, head to \"More\" > \"Redemption Code,\" and follow the onscreen prompts to enter your redemption code. Your bundle will be sent to your in-game \"Mail.\"\n\n*Mail and Redemption Code functions will be unlocked during the Prologue \"Business x Strangeness x Justness.\"\n\n\n(2) Redemption Code Contents\n\nPolychrome ×30, Denny ×20,000, Senior Investigator Log ×2, W-Engine Energy Module ×3, Bangboo System Widget ×2\n\n*Note: Polychrome rewards are limited to 300,000 recipients. Only the first 300,000 Proxies to complete the Quest will receive the reward. The time of completion will be determined based on when the bundle code is redeemed after completing the play quest. First come, first served.\n\n**The redemption code will expire on 2025/07/12 12:00:00 (UTC+8). Please redeem the code as soon as possible."
+                            }
+                        },
+                        "approximate_count": null,
+                        "redemption_link": null
+                    }
+                ],
+                "rewards_expire_at": "2025-07-12T23:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
+    },
+    {
+        "id": "1379206322683252819",
+        "config": {
+            "id": "1379206322683252819",
+            "config_version": 2,
+            "starts_at": "2025-06-06T17:00:00+00:00",
+            "expires_at": "2025-06-13T23:00:00+00:00",
+            "features": [
+                3,
+                9,
+                13,
+                14,
+                15,
+                16,
+                18,
+                19
+            ],
+            "application": {
+                "link": "https://www.httydtickets.com",
+                "id": "111111111111111111",
+                "name": "How to Train Your Dragon"
+            },
+            "assets": {
+                "hero": "hero2.jpg",
+                "hero_video": null,
+                "quest_bar_hero": "bar.jpg",
+                "quest_bar_hero_video": "bar.webm",
+                "game_tile": "tile.png",
+                "logotype": "word.png"
+            },
+            "colors": {
+                "primary": "#79CAAC",
+                "secondary": "#E9590C"
+            },
+            "messages": {
+                "quest_name": "How to Train Your Dragon",
+                "game_title": "How to Train Your Dragon",
+                "game_publisher": "Universal Pictures"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "event_name": "WATCH_VIDEO",
+                        "target": 143,
+                        "external_ids": []
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 143,
+                        "assets": {
+                            "video": {
+                                "url": "main_video_v1.mp4",
+                                "thumbnail": "endcard.jpg",
+                                "caption": "cc.vtt",
+                                "transcript": "ts.txt"
+                            },
+                            "video_low_res": {
+                                "url": "main_video_low_res.mp4",
+                                "thumbnail": "endcard.jpg",
+                                "caption": "cc.vtt",
+                                "transcript": "ts.txt"
+                            },
+                            "video_hls": {
+                                "url": "video_hls.m3u8",
+                                "thumbnail": "endcard.jpg",
+                                "caption": "cc.vtt",
+                                "transcript": "ts.txt"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "How To Train Your Dragon Trailer",
+                            "video_end_cta_title": "PLACEHOLDER",
+                            "video_end_cta_subtitle": "How to Train Your Dragon in Theaters June 13",
+                            "video_end_cta_button_label": "Get Tickets"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 3,
+                        "sku_id": "1379879504629207180",
+                        "asset": "reward.mp4",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "Toothless Avatar Decoration",
+                            "name_with_article": "a Toothless Avatar Decoration",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHODER FOR CROSS_PLATFORM"
+                            }
+                        },
+                        "expires_at": "2025-08-12T23:00:00+00:00",
+                        "expires_at_premium": null,
+                        "expiration_mode": 3
+                    }
+                ],
+                "rewards_expire_at": "2025-07-13T23:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "video_metadata": {
+                "messages": {
+                    "video_title": "How To Train Your Dragon Trailer",
+                    "video_end_cta_title": "PLACEHOLDER",
+                    "video_end_cta_subtitle": "How to Train Your Dragon in Theaters June 13",
+                    "video_end_cta_button_label": "Get Tickets"
+                },
+                "assets": {
+                    "video_player_video_hls": "video_hls.m3u8",
+                    "video_player_video": "main_video_v1.mp4",
+                    "video_player_thumbnail": "endcard.jpg",
+                    "video_player_video_low_res": "main_video_low_res.mp4",
+                    "video_player_caption": "cc.vtt",
+                    "video_player_transcript": "ts.txt",
+                    "quest_bar_preview_video": "bar.webm",
+                    "quest_bar_preview_thumbnail": "bar.jpg",
+                    "quest_home_video": "bar.webm"
+                }
+            }
+        }
+    },
+    {
+        "id": "1377423871732617276",
+        "config": {
+            "id": "1377423871732617276",
+            "config_version": 2,
+            "starts_at": "2025-06-06T17:00:00+00:00",
+            "expires_at": "2025-06-12T23:00:00+00:00",
+            "features": [
+                3,
+                9,
+                13,
+                14,
+                15,
+                16,
+                18,
+                19
+            ],
+            "application": {
+                "link": "https://discord.gg/rockstargames",
+                "id": "111111111111111111",
+                "name": "Grand Theft Auto VI"
+            },
+            "assets": {
+                "hero": "hero2.jpg",
+                "hero_video": null,
+                "quest_bar_hero": "bar.jpg",
+                "quest_bar_hero_video": "bar.webm",
+                "game_tile": "gametile.png",
+                "logotype": "word2.png"
+            },
+            "colors": {
+                "primary": "#ffad00",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "『GTAVI』トレーラー2",
+                "game_title": "GTA VI",
+                "game_publisher": "Rockstar Games"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "event_name": "WATCH_VIDEO",
+                        "target": 166,
+                        "external_ids": []
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 166,
+                        "assets": {
+                            "video": {
+                                "url": "main_video_v1.mp4",
+                                "thumbnail": "endcard.png",
+                                "caption": "caps.vtt",
+                                "transcript": "trans.txt"
+                            },
+                            "video_low_res": {
+                                "url": "main_video_low_res.mp4",
+                                "thumbnail": "endcard.png",
+                                "caption": "caps.vtt",
+                                "transcript": "trans.txt"
+                            },
+                            "video_hls": {
+                                "url": "hls_video_jpn.m3u8",
+                                "thumbnail": "endcard.png",
+                                "caption": "caps.vtt",
+                                "transcript": "trans.txt"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "『GTAVI』トレーラー2",
+                            "video_end_cta_title": "『GTA VI』トレーラー2",
+                            "video_end_cta_subtitle": "『GTA VI』トレーラー2",
+                            "video_end_cta_button_label": "Join Server"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 5,
+                        "sku_id": "1298745361602449479",
+                        "asset": "PLACEHOLDER",
+                        "messages": {
+                            "name": "1 day of Nitro",
+                            "name_with_article": "1 day of Nitro",
+                            "redemption_instructions_by_platform": {
+                                "0": "Congrats! You earned 1 day of Nitro."
+                            }
+                        }
+                    }
+                ],
+                "rewards_expire_at": "2025-07-12T23:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "video_metadata": {
+                "messages": {
+                    "video_title": "『GTAVI』トレーラー2",
+                    "video_end_cta_title": "『GTA VI』トレーラー2",
+                    "video_end_cta_subtitle": "『GTA VI』トレーラー2",
+                    "video_end_cta_button_label": "Join Server"
+                },
+                "assets": {
+                    "video_player_video_hls": "hls_video_jpn.m3u8",
+                    "video_player_video": "main_video_v1.mp4",
+                    "video_player_thumbnail": "endcard.png",
+                    "video_player_video_low_res": "main_video_low_res.mp4",
+                    "video_player_caption": "caps.vtt",
+                    "video_player_transcript": "trans.txt",
+                    "quest_bar_preview_video": "bar.webm",
+                    "quest_bar_preview_thumbnail": "bar.jpg",
+                    "quest_home_video": "bar.webm"
+                }
+            }
+        }
     }
 ]
