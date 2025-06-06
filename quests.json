@@ -10482,7 +10482,7 @@
                 "tasks": {
                     "WATCH_VIDEO": {
                         "event_name": "WATCH_VIDEO",
-                        "target": 166,
+                        "target": 163,
                         "external_ids": []
                     }
                 }
@@ -10491,7 +10491,7 @@
                 "tasks": {
                     "WATCH_VIDEO": {
                         "type": "WATCH_VIDEO",
-                        "target": 166,
+                        "target": 163,
                         "assets": {
                             "video": {
                                 "url": "main_video_v1.mp4",
@@ -10850,7 +10850,7 @@
                 "tasks": {
                     "WATCH_VIDEO": {
                         "event_name": "WATCH_VIDEO",
-                        "target": 166,
+                        "target": 163,
                         "external_ids": []
                     }
                 }
@@ -10859,7 +10859,7 @@
                 "tasks": {
                     "WATCH_VIDEO": {
                         "type": "WATCH_VIDEO",
-                        "target": 166,
+                        "target": 163,
                         "assets": {
                             "video": {
                                 "url": "main_video_v1.mp4",
@@ -10920,6 +10920,133 @@
                 },
                 "assets": {
                     "video_player_video_hls": "hls_video_jpn.m3u8",
+                    "video_player_video": "main_video_v1.mp4",
+                    "video_player_thumbnail": "endcard.png",
+                    "video_player_video_low_res": "main_video_low_res.mp4",
+                    "video_player_caption": "caps.vtt",
+                    "video_player_transcript": "trans.txt",
+                    "quest_bar_preview_video": "bar.webm",
+                    "quest_bar_preview_thumbnail": "bar.jpg",
+                    "quest_home_video": "bar.webm"
+                }
+            }
+        }
+    },
+    {
+        "id": "1377415518797172856",
+        "config": {
+            "id": "1377415518797172856",
+            "config_version": 2,
+            "starts_at": "2025-06-06T17:00:00+00:00",
+            "expires_at": "2025-06-12T23:00:00+00:00",
+            "features": [
+                3,
+                9,
+                13,
+                14,
+                15,
+                16,
+                18,
+                19
+            ],
+            "application": {
+                "link": "https://discord.gg/rockstargames",
+                "id": "111111111111111111",
+                "name": "Grand Theft Auto VI"
+            },
+            "assets": {
+                "hero": "hero2.jpg",
+                "hero_video": null,
+                "quest_bar_hero": "bar.jpg",
+                "quest_bar_hero_video": "bar.webm",
+                "game_tile": "gametile.png",
+                "logotype": "word2.png"
+            },
+            "colors": {
+                "primary": "#ffad00",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "GTAVI 트레일러 2",
+                "game_title": "GTA VI",
+                "game_publisher": "Rockstar Games"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "event_name": "WATCH_VIDEO",
+                        "target": 163,
+                        "external_ids": []
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 163,
+                        "assets": {
+                            "video": {
+                                "url": "main_video_v1.mp4",
+                                "thumbnail": "endcard.png",
+                                "caption": "caps.vtt",
+                                "transcript": "trans.txt"
+                            },
+                            "video_low_res": {
+                                "url": "main_video_low_res.mp4",
+                                "thumbnail": "endcard.png",
+                                "caption": "caps.vtt",
+                                "transcript": "trans.txt"
+                            },
+                            "video_hls": {
+                                "url": "hls_video_kor.m3u8",
+                                "thumbnail": "endcard.png",
+                                "caption": "caps.vtt",
+                                "transcript": "trans.txt"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "GTAVI 트레일러 2",
+                            "video_end_cta_title": "GTA VI 트레일러 2",
+                            "video_end_cta_subtitle": "GTA VI 트레일러 2",
+                            "video_end_cta_button_label": "Join Server"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 5,
+                        "sku_id": "1298745361602449479",
+                        "asset": "PLACEHOLDER",
+                        "messages": {
+                            "name": "1 day of Nitro",
+                            "name_with_article": "1 day of Nitro",
+                            "redemption_instructions_by_platform": {
+                                "0": "Congrats! You earned 1 day of Nitro."
+                            }
+                        }
+                    }
+                ],
+                "rewards_expire_at": "2025-07-12T23:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "video_metadata": {
+                "messages": {
+                    "video_title": "GTAVI 트레일러 2",
+                    "video_end_cta_title": "GTA VI 트레일러 2",
+                    "video_end_cta_subtitle": "GTA VI 트레일러 2",
+                    "video_end_cta_button_label": "Join Server"
+                },
+                "assets": {
+                    "video_player_video_hls": "hls_video_kor.m3u8",
                     "video_player_video": "main_video_v1.mp4",
                     "video_player_thumbnail": "endcard.png",
                     "video_player_video_low_res": "main_video_low_res.mp4",
