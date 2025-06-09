@@ -11072,5 +11072,94 @@
                 }
             }
         }
+    },
+    {
+        "id": "1380239874174619718",
+        "config": {
+            "id": "1380239874174619718",
+            "config_version": 2,
+            "starts_at": "2025-06-09T17:00:00+00:00",
+            "expires_at": "2025-06-15T23:00:00+00:00",
+            "features": [
+                3,
+                9,
+                13,
+                14,
+                15,
+                16,
+                18,
+                19
+            ],
+            "application": {
+                "link": "https://store.steampowered.com/app/3201010/Starlight_ReVolver?utm_source=discord&utm_campaign=snf_quest_na&utm_medium=paid_platform&utm_content=playquest&utm_term=steamlookalikes1",
+                "id": "1380591738238013440",
+                "name": "Starlight Re:Volver"
+            },
+            "assets": {
+                "hero": "hero.png",
+                "hero_video": null,
+                "quest_bar_hero": "bar.png",
+                "quest_bar_hero_video": "bar.webm",
+                "game_tile": "tile.png",
+                "logotype": "word.png"
+            },
+            "colors": {
+                "primary": "#E95DD6",
+                "secondary": "#2B0FB4"
+            },
+            "messages": {
+                "quest_name": "SUMMER FEST DEMO",
+                "game_title": "Starlight Re:Volver",
+                "game_publisher": "Pahdo Labs"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "event_name": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "external_ids": []
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 3,
+                        "sku_id": "1380276497209622529",
+                        "asset": "decovideo.mp4",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "Re:Volving Star Avatar Decoration",
+                            "name_with_article": "a Re:Volving Star Avatar Decoration",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHODER FOR CROSS_PLATFORM"
+                            }
+                        },
+                        "expires_at": "2025-08-14T23:00:00+00:00",
+                        "expires_at_premium": null,
+                        "expiration_mode": 3
+                    }
+                ],
+                "rewards_expire_at": "2025-07-15T23:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
     }
 ]
