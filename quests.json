@@ -11161,5 +11161,93 @@
         "user_status": null,
         "targeted_content": [],
         "preview": false
+    },
+    {
+        "id": "1380192200922763337",
+        "config": {
+            "id": "1380192200922763337",
+            "config_version": 2,
+            "starts_at": "2025-06-10T17:00:00+00:00",
+            "expires_at": "2025-06-16T23:00:00+00:00",
+            "features": [
+                3,
+                9,
+                13,
+                14,
+                15,
+                16,
+                18,
+                19
+            ],
+            "application": {
+                "link": "https://duneawakening.com",
+                "id": "1342435759440924712",
+                "name": "Dune: Awakening"
+            },
+            "assets": {
+                "hero": "hero.png",
+                "hero_video": null,
+                "quest_bar_hero": "bar.png",
+                "quest_bar_hero_video": null,
+                "game_tile": "tile.png",
+                "logotype": "word.png"
+            },
+            "colors": {
+                "primary": "#673d6a",
+                "secondary": "#bd955c"
+            },
+            "messages": {
+                "quest_name": "Dune: Awakening Launch",
+                "game_title": "Dune: Awakening",
+                "game_publisher": "Funcom"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "event_name": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "external_ids": []
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 1,
+                        "sku_id": "1380192200922763339",
+                        "asset": "reward.png",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "Mural - Call to Adventure",
+                            "name_with_article": "a Mural - Call to Adventure",
+                            "redemption_instructions_by_platform": {
+                                "0": "Reward Instructions:\nCongratulations on getting an in-game reward for Dune: Awakening. In order to claim the item in-game follow these steps:\n\nStep 1: Go to duneawakening.com/account.  \nStep 2: Follow the steps to link your Steam account to your email.  \nStep 3: Navigate to \"Redeem Key\" on the navigation on the left-hand side.  \nStep 4: Enter the code where it says \"Product Key\".  \nStep 5: Click continue.  \nStep 6: Click confirm. \n\n**Note: You need to own any version of Dune: Awakening in your Steam Library for this to work.**"
+                            }
+                        },
+                        "approximate_count": null,
+                        "redemption_link": null
+                    }
+                ],
+                "rewards_expire_at": "2025-07-16T23:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
     }
 ]
