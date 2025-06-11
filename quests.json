@@ -11249,5 +11249,196 @@
         "user_status": null,
         "targeted_content": [],
         "preview": false
+    },
+    {
+        "id": "1376963111847727144",
+        "config": {
+            "id": "1376963111847727144",
+            "config_version": 2,
+            "starts_at": "2025-06-11T17:00:00+00:00",
+            "expires_at": "2025-06-18T23:00:00+00:00",
+            "features": [
+                3,
+                9,
+                13,
+                14,
+                15,
+                16,
+                19
+            ],
+            "application": {
+                "link": "https://store.steampowered.com/app/2458830?utm_source=DiscordQuest&utm_campaign=gamepreview_20250429",
+                "id": "1295446079113924609",
+                "name": "Towerborne"
+            },
+            "assets": {
+                "hero": "hero.png",
+                "hero_video": null,
+                "quest_bar_hero": "questbar.png",
+                "quest_bar_hero_video": null,
+                "game_tile": "gametile.png",
+                "logotype": "word.png"
+            },
+            "colors": {
+                "primary": "#5bb9e3",
+                "secondary": "#213d49"
+            },
+            "messages": {
+                "quest_name": "Towerborne Play",
+                "game_title": "Towerborne",
+                "game_publisher": "Stoic Studio"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "event_name": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "external_ids": []
+                    },
+                    "PLAY_ON_XBOX": {
+                        "event_name": "PLAY_ON_XBOX",
+                        "target": 900,
+                        "external_ids": [
+                            "1678459920"
+                        ]
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900
+                    },
+                    "PLAY_ON_XBOX": {
+                        "type": "PLAY_ON_XBOX",
+                        "target": 900,
+                        "external_ids": [
+                            "1678459920"
+                        ]
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 3,
+                        "sku_id": "1382044334890680442",
+                        "asset": "towerborne_play_quest_06_2025.mp4",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "Shiro Mask Avatar Decoration",
+                            "name_with_article": "a Shiro Mask Avatar Decoration",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHODER FOR CROSS_PLATFORM"
+                            }
+                        },
+                        "expires_at": "2025-08-17T23:00:00+00:00",
+                        "expires_at_premium": null,
+                        "expiration_mode": 3
+                    }
+                ],
+                "rewards_expire_at": "2025-07-18T23:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
+    },
+    {
+        "id": "1380280734270488747",
+        "config": {
+            "id": "1380280734270488747",
+            "config_version": 2,
+            "starts_at": "2025-06-11T17:00:00+00:00",
+            "expires_at": "2025-06-19T23:00:00+00:00",
+            "features": [
+                3,
+                9,
+                13,
+                14,
+                15,
+                16,
+                18,
+                19
+            ],
+            "application": {
+                "link": "https://rainbow6.com/freeaccess/?ucid=DDP-269750&addinfo=&bi=pme",
+                "id": "356876590342340608",
+                "name": "Rainbow Six Siege X"
+            },
+            "assets": {
+                "hero": "hero1.jpg",
+                "hero_video": null,
+                "quest_bar_hero": "bar1.jpg",
+                "quest_bar_hero_video": null,
+                "game_tile": "tile1.png",
+                "logotype": "word1.png"
+            },
+            "colors": {
+                "primary": "#0A3550",
+                "secondary": "#0C0F16"
+            },
+            "messages": {
+                "quest_name": "R6 Siege X Avatar",
+                "game_title": "Rainbow Six Siege X",
+                "game_publisher": "Ubisoft"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "event_name": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "external_ids": []
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 3,
+                        "sku_id": "1380688086941302906",
+                        "asset": "r6_siege_x_avatar_quest_06_2025.mp4",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "Sledge Hammer Avatar Decoration",
+                            "name_with_article": "a Sledge Hammer Avatar Decoration",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHODER FOR CROSS_PLATFORM"
+                            }
+                        },
+                        "expires_at": "2025-08-18T23:00:00+00:00",
+                        "expires_at_premium": null,
+                        "expiration_mode": 3
+                    }
+                ],
+                "rewards_expire_at": "2025-07-19T23:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
     }
 ]
