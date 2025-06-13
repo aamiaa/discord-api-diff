@@ -11491,6 +11491,28 @@
                         "event_name": "PLAY_ON_DESKTOP",
                         "target": 900,
                         "external_ids": []
+                    },
+                    "PLAY_ON_XBOX": {
+                        "event_name": "PLAY_ON_XBOX",
+                        "target": 900,
+                        "external_ids": [
+                            "9P4837D6TSFD",
+                            "926771636"
+                        ]
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "event_name": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "external_ids": [
+                            "CUSA02499_00",
+                            "PPSA01397_00",
+                            "CUSA01788_00",
+                            "CUSA02368_00",
+                            "CUSA01800_00",
+                            "PPSA01396_00",
+                            "PPSA01660_00",
+                            "PPSA01401_00"
+                        ]
                     }
                 }
             },
@@ -11499,6 +11521,28 @@
                     "PLAY_ON_DESKTOP": {
                         "type": "PLAY_ON_DESKTOP",
                         "target": 900
+                    },
+                    "PLAY_ON_XBOX": {
+                        "type": "PLAY_ON_XBOX",
+                        "target": 900,
+                        "external_ids": [
+                            "9P4837D6TSFD",
+                            "926771636"
+                        ]
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "type": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "external_ids": [
+                            "CUSA02499_00",
+                            "PPSA01397_00",
+                            "CUSA01788_00",
+                            "CUSA02368_00",
+                            "CUSA01800_00",
+                            "PPSA01396_00",
+                            "PPSA01660_00",
+                            "PPSA01401_00"
+                        ]
                     }
                 },
                 "join_operator": "or"
