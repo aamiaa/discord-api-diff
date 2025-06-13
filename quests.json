@@ -11284,8 +11284,8 @@
                 "secondary": "#213d49"
             },
             "messages": {
-                "quest_name": "Towerborne Play",
-                "game_title": "Towerborne",
+                "quest_name": "Towerborne Free Play",
+                "game_title": "Towerborne Free",
                 "game_publisher": "Stoic Studio"
             },
             "task_config": {
@@ -11432,6 +11432,108 @@
                     }
                 ],
                 "rewards_expire_at": "2025-07-19T23:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
+    },
+    {
+        "id": "1380268980664533042",
+        "config": {
+            "id": "1380268980664533042",
+            "config_version": 2,
+            "starts_at": "2025-06-12T17:00:00+00:00",
+            "expires_at": "2025-06-18T23:00:00+00:00",
+            "features": [
+                3,
+                9,
+                13,
+                14,
+                15,
+                16,
+                18,
+                19
+            ],
+            "application": {
+                "link": "https://wuwa.kurogames-global.com/DiscordQuestV3",
+                "id": "1247227126416146462",
+                "name": "Wuthering Waves"
+            },
+            "assets": {
+                "hero": "hero.jpg",
+                "hero_video": null,
+                "quest_bar_hero": "barv4.jpg",
+                "quest_bar_hero_video": null,
+                "game_tile": "brand2.jpg",
+                "logotype": "word.png"
+            },
+            "colors": {
+                "primary": "#29467B",
+                "secondary": "#0C0C0C"
+            },
+            "messages": {
+                "quest_name": "V2.4 WUWA",
+                "game_title": "Wuthering Waves",
+                "game_publisher": "Kuro Games"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "event_name": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "external_ids": []
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "event_name": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "external_ids": [
+                            "PPSA24686_00"
+                        ]
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "type": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "external_ids": [
+                            "PPSA24686_00"
+                        ]
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 1,
+                        "sku_id": "1380268980664533044",
+                        "asset": "reward2.jpg",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "V2.4 WUWA Quest Pack",
+                            "name_with_article": "a V2.4 WUWA Quest Pack",
+                            "redemption_instructions_by_platform": {
+                                "0": "The V2.4 WUWA Quest Pack includes Shell Credit, Advanced Resonance Potion, Advanced Energy Core and Astrite.\n\n1. Select your server and enter the game, and then go to [Settings] - [Other] - [Redemption Code]              \n\n2. Enter the [Redemption Code] and hit [Confirm] to redeem rewards. You can then claim them in your in-game mail.\n\n**The [Redemption Code] function will be unlocked once you've reached Union Level 2.**"
+                            }
+                        },
+                        "approximate_count": null,
+                        "redemption_link": null
+                    }
+                ],
+                "rewards_expire_at": "2025-07-18T23:00:00+00:00",
                 "platforms": [
                     0
                 ]
