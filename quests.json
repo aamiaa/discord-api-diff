@@ -11675,5 +11675,409 @@
         "user_status": null,
         "targeted_content": [],
         "preview": false
+    },
+    {
+        "id": "1381739469882917015",
+        "config": {
+            "id": "1381739469882917015",
+            "config_version": 2,
+            "starts_at": "2025-06-16T17:00:00+00:00",
+            "expires_at": "2025-06-22T23:00:00+00:00",
+            "features": [
+                3,
+                9,
+                13,
+                14,
+                15,
+                16,
+                19
+            ],
+            "application": {
+                "link": "https://wotblitz.onelink.me/2519112535/discord",
+                "id": "111111111111111111",
+                "name": "World of Tanks Blitz"
+            },
+            "assets": {
+                "hero": "hero.jpg",
+                "hero_video": null,
+                "quest_bar_hero": "bar.jpg",
+                "quest_bar_hero_video": "bar_v2.mp4",
+                "game_tile": "tile3.png",
+                "logotype": "word3.png"
+            },
+            "colors": {
+                "primary": "#003082",
+                "secondary": "#1f30a3"
+            },
+            "messages": {
+                "quest_name": "World of Tanks Blitz",
+                "game_title": "World of Tanks Blitz",
+                "game_publisher": "Wargaming"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "event_name": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 64,
+                        "external_ids": []
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 64,
+                        "assets": {
+                            "video": {
+                                "url": "main_video_v1.mp4",
+                                "width": null,
+                                "height": null,
+                                "thumbnail": "endcard_new.png",
+                                "caption": "PLACEHOLDER.vtt",
+                                "transcript": "PLACEHOLDER.txt"
+                            },
+                            "video_low_res": {
+                                "url": "main_video_low_res.mp4",
+                                "width": null,
+                                "height": null,
+                                "thumbnail": "endcard_new.png",
+                                "caption": "PLACEHOLDER.vtt",
+                                "transcript": "PLACEHOLDER.txt"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "World of Tanks Blitz Trailer",
+                            "video_end_cta_title": "Play World of Tanks Blitz Now",
+                            "video_end_cta_subtitle": "Available on iOS and Android",
+                            "video_end_cta_button_label": "Play Now"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 1,
+                        "sku_id": "1381739469882917017",
+                        "asset": "reward.png",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "T-34S Tank & Camo Bundle",
+                            "name_with_article": "a T-34S Tank & Camo Bundle",
+                            "redemption_instructions_by_platform": {
+                                "0": "Reward Instructions:  \n1. Log in with your Wargaming ID on the official Wargaming website\n2. Go to Activate Wargaming Code\n3. Input the code and press REDEEM\n4. Your code has been activated"
+                            }
+                        },
+                        "approximate_count": null,
+                        "redemption_link": null
+                    }
+                ],
+                "rewards_expire_at": "2025-07-22T23:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "video_metadata": {
+                "messages": {
+                    "video_title": "World of Tanks Blitz Trailer",
+                    "video_end_cta_title": "Play World of Tanks Blitz Now",
+                    "video_end_cta_subtitle": "Available on iOS and Android",
+                    "video_end_cta_button_label": "Play Now"
+                },
+                "assets": {
+                    "video_player_video_hls": null,
+                    "video_player_video": "main_video_v1.mp4",
+                    "video_player_thumbnail": "endcard_new.png",
+                    "video_player_video_low_res": "main_video_low_res.mp4",
+                    "video_player_caption": "PLACEHOLDER.vtt",
+                    "video_player_transcript": "PLACEHOLDER.txt",
+                    "quest_bar_preview_video": "bar_v2.mp4",
+                    "quest_bar_preview_thumbnail": "bar.jpg",
+                    "quest_home_video": "bar_v2.mp4"
+                }
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
+    },
+    {
+        "id": "1383121262234308759",
+        "config": {
+            "id": "1383121262234308759",
+            "config_version": 2,
+            "starts_at": "2025-06-16T17:00:00+00:00",
+            "expires_at": "2025-06-22T23:00:00+00:00",
+            "features": [
+                3,
+                9,
+                13,
+                14,
+                15,
+                16,
+                18,
+                19
+            ],
+            "application": {
+                "link": "https://www.m3ganmovie.com/",
+                "id": "111111111111111111",
+                "name": "M3GAN 2.0"
+            },
+            "assets": {
+                "hero": "hero.jpg",
+                "hero_video": null,
+                "quest_bar_hero": "bar.jpg",
+                "quest_bar_hero_video": "bar.webm",
+                "game_tile": "tile.png",
+                "logotype": "word2.png"
+            },
+            "colors": {
+                "primary": "#FF7ABF",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "M3GAN 2.0",
+                "game_title": "M3GAN 2.0",
+                "game_publisher": "Universal Pictures"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "event_name": "WATCH_VIDEO",
+                        "target": 59,
+                        "external_ids": []
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 59,
+                        "assets": {
+                            "video": {
+                                "url": "main_video_v1.mp4",
+                                "width": null,
+                                "height": null,
+                                "thumbnail": "endcard.jpg",
+                                "caption": "cc.vtt",
+                                "transcript": "ts.txt"
+                            },
+                            "video_low_res": {
+                                "url": "main_video_low_res.mp4",
+                                "width": null,
+                                "height": null,
+                                "thumbnail": "endcard.jpg",
+                                "caption": "cc.vtt",
+                                "transcript": "ts.txt"
+                            },
+                            "video_hls": {
+                                "url": "main_hls.m3u8",
+                                "width": null,
+                                "height": null,
+                                "thumbnail": "endcard.jpg",
+                                "caption": "cc.vtt",
+                                "transcript": "ts.txt"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "M3GAN 2.0 Video",
+                            "video_end_cta_title": "M3GAN 2.0 Only in Theaters June 27",
+                            "video_end_cta_subtitle": "M3GAN 2.0 Only in Theaters June 27",
+                            "video_end_cta_button_label": "Get Tickets"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 3,
+                        "sku_id": "1383136910435811430",
+                        "asset": "megan_deco_v2.mp4",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "M3GAN 2.0 Avatar Decoration",
+                            "name_with_article": "a M3GAN 2.0 Avatar Decoration",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHODER FOR CROSS_PLATFORM"
+                            }
+                        },
+                        "expires_at": "2025-08-21T23:00:00+00:00",
+                        "expires_at_premium": null,
+                        "expiration_mode": 3
+                    }
+                ],
+                "rewards_expire_at": "2025-07-22T23:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "video_metadata": {
+                "messages": {
+                    "video_title": "M3GAN 2.0 Video",
+                    "video_end_cta_title": "M3GAN 2.0 Only in Theaters June 27",
+                    "video_end_cta_subtitle": "M3GAN 2.0 Only in Theaters June 27",
+                    "video_end_cta_button_label": "Get Tickets"
+                },
+                "assets": {
+                    "video_player_video_hls": "main_hls.m3u8",
+                    "video_player_video": "main_video_v1.mp4",
+                    "video_player_thumbnail": "endcard.jpg",
+                    "video_player_video_low_res": "main_video_low_res.mp4",
+                    "video_player_caption": "cc.vtt",
+                    "video_player_transcript": "ts.txt",
+                    "quest_bar_preview_video": "bar.webm",
+                    "quest_bar_preview_thumbnail": "bar.jpg",
+                    "quest_home_video": "bar.webm"
+                }
+            }
+        }
+    },
+    {
+        "id": "1383168522162671676",
+        "config": {
+            "id": "1383168522162671676",
+            "config_version": 2,
+            "starts_at": "2025-06-16T17:00:00+00:00",
+            "expires_at": "2025-06-22T23:00:00+00:00",
+            "features": [
+                3,
+                9,
+                13,
+                14,
+                15,
+                16,
+                18,
+                19
+            ],
+            "application": {
+                "link": "https://28yearslater.movie/?utm_source=discord&utm_medium=core",
+                "id": "111111111111111111",
+                "name": "28 Years Later"
+            },
+            "assets": {
+                "hero": "hero.jpg",
+                "hero_video": null,
+                "quest_bar_hero": "bar.jpg",
+                "quest_bar_hero_video": "bar.webm",
+                "game_tile": "tile.png",
+                "logotype": "word.png"
+            },
+            "colors": {
+                "primary": "#ff0004",
+                "secondary": "#ff0004"
+            },
+            "messages": {
+                "quest_name": "28 Years Later",
+                "game_title": "28 Years Later",
+                "game_publisher": "Sony"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "event_name": "WATCH_VIDEO",
+                        "target": 119,
+                        "external_ids": []
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 119,
+                        "assets": {
+                            "video": {
+                                "url": "main_video_v1.mp4",
+                                "width": null,
+                                "height": null,
+                                "thumbnail": "endcard.jpg",
+                                "caption": "cc.vtt",
+                                "transcript": "ts.txt"
+                            },
+                            "video_low_res": {
+                                "url": "main_video_low_res.mp4",
+                                "width": null,
+                                "height": null,
+                                "thumbnail": "endcard.jpg",
+                                "caption": "cc.vtt",
+                                "transcript": "ts.txt"
+                            },
+                            "video_hls": {
+                                "url": "main_hls2.m3u8",
+                                "width": null,
+                                "height": null,
+                                "thumbnail": "endcard.jpg",
+                                "caption": "cc.vtt",
+                                "transcript": "ts.txt"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "28 Years Later Trailer",
+                            "video_end_cta_title": "In Theaters June 20",
+                            "video_end_cta_subtitle": "In Theaters June 20",
+                            "video_end_cta_button_label": "Get Tickets"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 3,
+                        "sku_id": "1383123340142841949",
+                        "asset": "28yr_deco_v2.mp4",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "28 Years Later Avatar Decoration",
+                            "name_with_article": "a 28 Years Later Avatar Decoration",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHODER FOR CROSS_PLATFORM"
+                            }
+                        },
+                        "expires_at": "2025-08-21T23:00:00+00:00",
+                        "expires_at_premium": null,
+                        "expiration_mode": 3
+                    }
+                ],
+                "rewards_expire_at": "2025-07-22T23:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "video_metadata": {
+                "messages": {
+                    "video_title": "28 Years Later Trailer",
+                    "video_end_cta_title": "In Theaters June 20",
+                    "video_end_cta_subtitle": "In Theaters June 20",
+                    "video_end_cta_button_label": "Get Tickets"
+                },
+                "assets": {
+                    "video_player_video_hls": "main_hls2.m3u8",
+                    "video_player_video": "main_video_v1.mp4",
+                    "video_player_thumbnail": "endcard.jpg",
+                    "video_player_video_low_res": "main_video_low_res.mp4",
+                    "video_player_caption": "cc.vtt",
+                    "video_player_transcript": "ts.txt",
+                    "quest_bar_preview_video": "bar.webm",
+                    "quest_bar_preview_thumbnail": "bar.jpg",
+                    "quest_home_video": "bar.webm"
+                }
+            }
+        }
     }
 ]
