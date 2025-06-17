@@ -12079,5 +12079,256 @@
                 }
             }
         }
+    },
+    {
+        "id": "1383185989727424553",
+        "config": {
+            "id": "1383185989727424553",
+            "config_version": 2,
+            "starts_at": "2025-06-17T17:00:00+00:00",
+            "expires_at": "2025-06-24T23:00:00+00:00",
+            "features": [
+                3,
+                9,
+                13,
+                14,
+                15,
+                16,
+                18,
+                19
+            ],
+            "application": {
+                "link": "https://deadbydaylight.com/buythegame-dlc/",
+                "id": "357607133254254632",
+                "name": "Dead by Daylight"
+            },
+            "assets": {
+                "hero": "hero.png",
+                "hero_video": null,
+                "quest_bar_hero": "bar.png",
+                "quest_bar_hero_video": null,
+                "game_tile": "tile.png",
+                "logotype": "word.png"
+            },
+            "colors": {
+                "primary": "#ed1c24",
+                "secondary": "#64a1e4"
+            },
+            "messages": {
+                "quest_name": "Dead by Daylight x FNAF",
+                "game_title": "Dead by Daylight",
+                "game_publisher": "Behaviour Interactive"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "event_name": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "external_ids": []
+                    },
+                    "PLAY_ON_XBOX": {
+                        "event_name": "PLAY_ON_XBOX",
+                        "target": 900,
+                        "external_ids": [
+                            "102425831"
+                        ]
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "event_name": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "external_ids": [
+                            "CUSA08032_00",
+                            "CUSA08444_00",
+                            "PPSA02049_00",
+                            "PPSA02048_00"
+                        ]
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900
+                    },
+                    "PLAY_ON_XBOX": {
+                        "type": "PLAY_ON_XBOX",
+                        "target": 900,
+                        "external_ids": [
+                            "102425831"
+                        ]
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "type": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "external_ids": [
+                            "CUSA08032_00",
+                            "CUSA08444_00",
+                            "PPSA02049_00",
+                            "PPSA02048_00"
+                        ]
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 1,
+                        "sku_id": "1383185989727424555",
+                        "asset": "reward.png",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "Springtrap profile banner",
+                            "name_with_article": "a Springtrap profile banner",
+                            "redemption_instructions_by_platform": {
+                                "0": "1.Launch Dead by Daylight  \n2.Select “Store”  \n3.Click “redeem”  \n4.Enter the code  \n5.Enjoy  \n"
+                            }
+                        },
+                        "approximate_count": null,
+                        "redemption_link": null
+                    }
+                ],
+                "rewards_expire_at": "2025-07-24T23:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
+    },
+    {
+        "id": "1384305060225486910",
+        "config": {
+            "id": "1384305060225486910",
+            "config_version": 2,
+            "starts_at": "2025-06-17T17:00:00+00:00",
+            "expires_at": "2025-06-23T23:00:00+00:00",
+            "features": [
+                3,
+                9,
+                13,
+                14,
+                15,
+                16,
+                18,
+                19
+            ],
+            "application": {
+                "link": "https://www.m3ganmovie.ca/",
+                "id": "111111111111111111",
+                "name": "M3GAN 2.0"
+            },
+            "assets": {
+                "hero": "hero.jpg",
+                "hero_video": null,
+                "quest_bar_hero": "bar.jpg",
+                "quest_bar_hero_video": "bar.webm",
+                "game_tile": "tile.png",
+                "logotype": "word2.png"
+            },
+            "colors": {
+                "primary": "#FF7ABF",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "M3GAN 2.0",
+                "game_title": "M3GAN 2.0",
+                "game_publisher": "Universal Pictures"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "event_name": "WATCH_VIDEO",
+                        "target": 59,
+                        "external_ids": []
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 59,
+                        "assets": {
+                            "video": {
+                                "url": "main_video_v2.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "endcard.jpg",
+                                "caption": "cc.vtt",
+                                "transcript": "ts.txt"
+                            },
+                            "video_low_res": {
+                                "url": "main_video_low_res2.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "endcard.jpg",
+                                "caption": "cc.vtt",
+                                "transcript": "ts.txt"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "M3GAN 2.0 Video",
+                            "video_end_cta_title": "M3GAN 2.0",
+                            "video_end_cta_subtitle": "M3GAN 2.0 Only in Theaters June 27",
+                            "video_end_cta_button_label": "Get Tickets"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 3,
+                        "sku_id": "1383136910435811430",
+                        "asset": "megan_deco_v2.mp4",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "M3GAN 2.0 Avatar Decoration",
+                            "name_with_article": "a M3GAN 2.0 Avatar Decoration",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHODER FOR CROSS_PLATFORM"
+                            }
+                        },
+                        "expires_at": "2025-08-22T23:00:00+00:00",
+                        "expires_at_premium": null,
+                        "expiration_mode": 3
+                    }
+                ],
+                "rewards_expire_at": "2025-07-23T23:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "video_metadata": {
+                "messages": {
+                    "video_title": "M3GAN 2.0 Video",
+                    "video_end_cta_title": "M3GAN 2.0",
+                    "video_end_cta_subtitle": "M3GAN 2.0 Only in Theaters June 27",
+                    "video_end_cta_button_label": "Get Tickets"
+                },
+                "assets": {
+                    "video_player_video_hls": null,
+                    "video_player_video": "main_video_v2.mp4",
+                    "video_player_thumbnail": "endcard.jpg",
+                    "video_player_video_low_res": "main_video_low_res2.mp4",
+                    "video_player_caption": "cc.vtt",
+                    "video_player_transcript": "ts.txt",
+                    "quest_bar_preview_video": null,
+                    "quest_bar_preview_thumbnail": null,
+                    "quest_home_video": null
+                }
+            }
+        }
     }
 ]
