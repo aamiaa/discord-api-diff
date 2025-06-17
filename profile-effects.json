@@ -9248,5 +9248,134 @@
                 "randomizedSources": []
             }
         ]
+    },
+    {
+        "type": 1,
+        "id": "1366494385688285194",
+        "sku_id": "1366494385671245826",
+        "title": "Bonsai Eternity",
+        "description": "Beautiful things take the time they take.",
+        "accessibilityLabel": "The leaves from cybernetic pink bonsai trees drift beautifully across your profile.",
+        "animationType": 2,
+        "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-06-12/bonsai_eternity/thumbnail.png",
+        "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-06-12/bonsai_eternity/reduced_motion.png",
+        "effects": [
+            {
+                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-06-12/bonsai_eternity/intro.png",
+                "loop": false,
+                "height": 880,
+                "width": 450,
+                "duration": 6083,
+                "start": 0,
+                "loopDelay": 0,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "zIndex": 100,
+                "randomizedSources": []
+            },
+            {
+                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-06-12/bonsai_eternity/idle.png",
+                "loop": true,
+                "height": 880,
+                "width": 450,
+                "duration": 7000,
+                "start": 8000,
+                "loopDelay": 3500,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "zIndex": 101,
+                "randomizedSources": []
+            }
+        ]
+    },
+    {
+        "type": 1,
+        "id": "1366494385709256736",
+        "sku_id": "1366494385692217495",
+        "title": "Shadow Strike",
+        "description": "When you see him, it's already too late.",
+        "accessibilityLabel": "A mysterious samurai launches forward and releases a flurry of strikes with his katana under falling bonsai leaves.",
+        "animationType": 2,
+        "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-06-12/shadow_strike/thumbnail.png",
+        "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-06-12/shadow_strike/reduced_motion.png",
+        "effects": [
+            {
+                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-06-12/shadow_strike/intro.png",
+                "loop": false,
+                "height": 880,
+                "width": 450,
+                "duration": 7833,
+                "start": 0,
+                "loopDelay": 0,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "zIndex": 100,
+                "randomizedSources": []
+            },
+            {
+                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-06-12/shadow_strike/idle.png",
+                "loop": true,
+                "height": 880,
+                "width": 450,
+                "duration": 4250,
+                "start": 9000,
+                "loopDelay": 3000,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "zIndex": 101,
+                "randomizedSources": []
+            }
+        ]
+    },
+    {
+        "type": 1,
+        "id": "1366494385730228345",
+        "sku_id": "1366494385717383198",
+        "title": "Zen Garden",
+        "description": "Find peace in the midst of chaos.",
+        "accessibilityLabel": "A beautiful, cybernetic Japanese garden and cityscape flicker and glitch into view under the moon.",
+        "animationType": 2,
+        "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-06-12/zen_garden/thumbnail.png",
+        "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-06-12/zen_garden/reduced_motion.png",
+        "effects": [
+            {
+                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-06-12/zen_garden/intro.png",
+                "loop": false,
+                "height": 880,
+                "width": 450,
+                "duration": 5000,
+                "start": 0,
+                "loopDelay": 0,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "zIndex": 100,
+                "randomizedSources": []
+            },
+            {
+                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-06-12/zen_garden/idle.png",
+                "loop": true,
+                "height": 880,
+                "width": 450,
+                "duration": 6000,
+                "start": 6500,
+                "loopDelay": 3000,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "zIndex": 101,
+                "randomizedSources": []
+            }
+        ]
     }
 ]
