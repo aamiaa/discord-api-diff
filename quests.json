@@ -12330,5 +12330,217 @@
                 }
             }
         }
+    },
+    {
+        "id": "1383204882638700714",
+        "config": {
+            "id": "1383204882638700714",
+            "config_version": 2,
+            "starts_at": "2025-06-18T17:00:00+00:00",
+            "expires_at": "2025-06-24T23:00:00+00:00",
+            "features": [
+                3,
+                9,
+                13,
+                14,
+                15,
+                16,
+                18,
+                19
+            ],
+            "application": {
+                "link": "https://store.steampowered.com/app/3241660/REPO",
+                "id": "1344368447928401961",
+                "name": "R.E.P.O."
+            },
+            "assets": {
+                "hero": "hero.jpg",
+                "hero_video": null,
+                "quest_bar_hero": "bar.png",
+                "quest_bar_hero_video": null,
+                "game_tile": "tile.png",
+                "logotype": "word2.png"
+            },
+            "colors": {
+                "primary": "#C13833",
+                "secondary": "#3E8A4F"
+            },
+            "messages": {
+                "quest_name": "R.E.P.O.",
+                "game_title": "R.E.P.O.",
+                "game_publisher": "Semiwork"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "event_name": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "external_ids": []
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 3,
+                        "sku_id": "1384247972107386911",
+                        "asset": "repo_preview.mp4",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "I Love R.E.P.O. Avatar Decoration",
+                            "name_with_article": "an I Love R.E.P.O. Avatar Decoration",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHODER FOR CROSS_PLATFORM"
+                            }
+                        },
+                        "expires_at": "2025-08-23T23:00:00+00:00",
+                        "expires_at_premium": null,
+                        "expiration_mode": 3
+                    }
+                ],
+                "rewards_expire_at": "2025-07-24T23:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
+    },
+    {
+        "id": "1383196217659494440",
+        "config": {
+            "id": "1383196217659494440",
+            "config_version": 2,
+            "starts_at": "2025-06-18T17:00:00+00:00",
+            "expires_at": "2025-06-22T23:00:00+00:00",
+            "features": [
+                3,
+                9,
+                13,
+                14,
+                15,
+                16,
+                18,
+                19
+            ],
+            "application": {
+                "link": "https://www.fortnite.com/",
+                "id": "432980957394370572",
+                "name": "LEGO® Fortnite Expeditions"
+            },
+            "assets": {
+                "hero": "hero.jpg",
+                "hero_video": null,
+                "quest_bar_hero": "bar.jpg",
+                "quest_bar_hero_video": null,
+                "game_tile": "tile.jpg",
+                "logotype": "word3.png"
+            },
+            "colors": {
+                "primary": "#0C1B46",
+                "secondary": "#FF2F78"
+            },
+            "messages": {
+                "quest_name": "LEGO® Fortnite",
+                "game_title": "LEGO® Fortnite Expeditions",
+                "game_publisher": "Epic Games"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "event_name": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "external_ids": []
+                    },
+                    "PLAY_ON_XBOX": {
+                        "event_name": "PLAY_ON_XBOX",
+                        "target": 900,
+                        "external_ids": [
+                            "267695549"
+                        ]
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "event_name": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "external_ids": [
+                            "CUSA07022_00",
+                            "PPSA01923_00",
+                            "PPSA01922_00",
+                            "CUSA07669_00"
+                        ]
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900
+                    },
+                    "PLAY_ON_XBOX": {
+                        "type": "PLAY_ON_XBOX",
+                        "target": 900,
+                        "external_ids": [
+                            "267695549"
+                        ]
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "type": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "external_ids": [
+                            "CUSA07022_00",
+                            "PPSA01923_00",
+                            "PPSA01922_00",
+                            "CUSA07669_00"
+                        ]
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 3,
+                        "sku_id": "1384216812488757359",
+                        "asset": "lego_fornite_06_2025_preview.mp4",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "LEGO® Fortnite Avatar Decoration",
+                            "name_with_article": "a LEGO® Fortnite Avatar Decoration",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHODER FOR CROSS_PLATFORM"
+                            }
+                        },
+                        "expires_at": "2025-08-21T23:00:00+00:00",
+                        "expires_at_premium": null,
+                        "expiration_mode": 1
+                    }
+                ],
+                "rewards_expire_at": "2025-07-22T23:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
     }
 ]
