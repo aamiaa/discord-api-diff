@@ -11682,7 +11682,7 @@
             "id": "1381739469882917015",
             "config_version": 2,
             "starts_at": "2025-06-16T17:00:00+00:00",
-            "expires_at": "2025-06-22T23:00:00+00:00",
+            "expires_at": "2025-06-27T23:00:00+00:00",
             "features": [
                 3,
                 9,
@@ -12534,6 +12534,136 @@
                     }
                 ],
                 "rewards_expire_at": "2025-07-22T23:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
+    },
+    {
+        "id": "1383153838231654420",
+        "config": {
+            "id": "1383153838231654420",
+            "config_version": 2,
+            "starts_at": "2025-06-20T17:00:00+00:00",
+            "expires_at": "2025-06-26T23:00:00+00:00",
+            "features": [
+                3,
+                9,
+                13,
+                14,
+                15,
+                16,
+                18,
+                19
+            ],
+            "application": {
+                "link": "https://ubisoft.cdp.marketing.gamesight.io/c/es6j26?&destination_url=https://ubi.li/pCap0",
+                "id": "356876590342340608",
+                "name": "Rainbow Six Siege X"
+            },
+            "assets": {
+                "hero": "hero.jpg",
+                "hero_video": null,
+                "quest_bar_hero": "bar.jpg",
+                "quest_bar_hero_video": null,
+                "game_tile": "tile.jpg",
+                "logotype": "word.png"
+            },
+            "colors": {
+                "primary": "#0A3550",
+                "secondary": "#0C0F16"
+            },
+            "messages": {
+                "quest_name": "R6 Siege X",
+                "game_title": "Rainbow Six Siege X",
+                "game_publisher": "Ubisoft"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "event_name": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "external_ids": []
+                    },
+                    "PLAY_ON_XBOX": {
+                        "event_name": "PLAY_ON_XBOX",
+                        "target": 900,
+                        "external_ids": [
+                            "926771636"
+                        ]
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "event_name": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "external_ids": [
+                            "CUSA02499_00",
+                            "PPSA01660_00",
+                            "CUSA01800_00",
+                            "PPSA01401_00",
+                            "CUSA02368_00",
+                            "CUSA01788_00",
+                            "PPSA01396_00",
+                            "PPSA01397_00"
+                        ]
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900
+                    },
+                    "PLAY_ON_XBOX": {
+                        "type": "PLAY_ON_XBOX",
+                        "target": 900,
+                        "external_ids": [
+                            "926771636"
+                        ]
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "type": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "external_ids": [
+                            "CUSA02499_00",
+                            "PPSA01660_00",
+                            "CUSA01800_00",
+                            "PPSA01401_00",
+                            "CUSA02368_00",
+                            "CUSA01788_00",
+                            "PPSA01396_00",
+                            "PPSA01397_00"
+                        ]
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 1,
+                        "sku_id": "1383153838231654422",
+                        "asset": "reward.jpg",
+                        "asset_video": "NEW_REWARD_TILE_2.mp4",
+                        "messages": {
+                            "name": "4 Operators (Doc, IQ, Blitz, Pulse)",
+                            "name_with_article": "4 Operators (Doc, IQ, Blitz, Pulse)",
+                            "redemption_instructions_by_platform": {
+                                "0": "To redeem your code:\n\n1.Access the redemption website https://redeem.ubisoft.com/rainbow6-siege/\n\n2.Enter the code exactly as shown\n\n3.Log in with your Ubisoft account or create one\n\n4.After redeeming the code, you can find the items in your in-game inventory\n"
+                            }
+                        },
+                        "approximate_count": null,
+                        "redemption_link": null
+                    }
+                ],
+                "rewards_expire_at": "2025-07-26T23:00:00+00:00",
                 "platforms": [
                     0
                 ]
