@@ -9377,5 +9377,165 @@
                 "randomizedSources": []
             }
         ]
+    },
+    {
+        "type": 1,
+        "id": "1385050947931078696",
+        "sku_id": "1385050947914305697",
+        "title": "Lots of bubbles",
+        "description": "Show this effect when others view your profile.",
+        "accessibilityLabel": "Shiny little bubbles dance and float up the profile, creating an adorable underwater paradise full of shimmer!",
+        "animationType": 2,
+        "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-06-18/lots_of_bubbles/thumbnail.png",
+        "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-06-18/lots_of_bubbles/reduced_motion.png",
+        "effects": [
+            {
+                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-06-18/lots_of_bubbles/intro.png",
+                "loop": false,
+                "height": 880,
+                "width": 450,
+                "duration": 5000,
+                "start": 0,
+                "loopDelay": 0,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "zIndex": 100,
+                "randomizedSources": []
+            },
+            {
+                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-06-18/lots_of_bubbles/idle.png",
+                "loop": true,
+                "height": 880,
+                "width": 450,
+                "duration": 5000,
+                "start": 6000,
+                "loopDelay": 1500,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "zIndex": 101,
+                "randomizedSources": []
+            }
+        ]
+    },
+    {
+        "type": 1,
+        "id": "1385050947947856073",
+        "sku_id": "1385050947939602482",
+        "title": "Firefly Meadow",
+        "description": "Show this effect when others view your profile.",
+        "accessibilityLabel": "Luminous fireflies dance through the meadow around the profile, creating a nostalgic summer evening filled with gentle, twinkling lights.",
+        "animationType": 2,
+        "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-06-18/firefly_meadow/thumbnail.png",
+        "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-06-18/firefly_meadow/reduced_motion.png",
+        "effects": [
+            {
+                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-06-18/firefly_meadow/intro.png",
+                "loop": false,
+                "height": 880,
+                "width": 450,
+                "duration": 5000,
+                "start": 0,
+                "loopDelay": 0,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "zIndex": 100,
+                "randomizedSources": []
+            },
+            {
+                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-06-18/firefly_meadow/idle_0.png",
+                "loop": true,
+                "height": 880,
+                "width": 450,
+                "duration": 5000,
+                "start": 5001,
+                "loopDelay": 0,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "zIndex": 101,
+                "randomizedSources": []
+            },
+            {
+                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-06-18/firefly_meadow/idle_1.png",
+                "loop": true,
+                "height": 880,
+                "width": 450,
+                "duration": 5000,
+                "start": 6000,
+                "loopDelay": 1600,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "zIndex": 102,
+                "randomizedSources": []
+            },
+            {
+                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-06-18/firefly_meadow/idle_2.png",
+                "loop": true,
+                "height": 880,
+                "width": 450,
+                "duration": 5000,
+                "start": 5500,
+                "loopDelay": 1200,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "zIndex": 103,
+                "randomizedSources": []
+            }
+        ]
+    },
+    {
+        "type": 1,
+        "id": "1385050947968827573",
+        "sku_id": "1385050947956248696",
+        "title": "the same duck",
+        "description": "Show this effect when others view your profile.",
+        "accessibilityLabel": "A duck dips its head underwater to greet you with his cheerful paddling and happy quacks.",
+        "animationType": 1,
+        "staticFrameSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-06-18/the_same_duck/static.png",
+        "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-06-18/the_same_duck/thumbnail.png",
+        "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-06-18/the_same_duck/reduced_motion.png",
+        "effects": [
+            {
+                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-06-18/the_same_duck/intro.png",
+                "loop": false,
+                "height": 880,
+                "width": 450,
+                "duration": 5083,
+                "start": 0,
+                "loopDelay": 0,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "zIndex": 100,
+                "randomizedSources": []
+            },
+            {
+                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-06-18/the_same_duck/idle.png",
+                "loop": true,
+                "height": 880,
+                "width": 450,
+                "duration": 4917,
+                "start": 5083,
+                "loopDelay": 0,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "zIndex": 101,
+                "randomizedSources": []
+            }
+        ]
     }
 ]

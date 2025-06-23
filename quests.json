@@ -12800,5 +12800,137 @@
         "user_status": null,
         "targeted_content": [],
         "preview": false
+    },
+    {
+        "id": "1384602576099479735",
+        "config": {
+            "id": "1384602576099479735",
+            "config_version": 2,
+            "starts_at": "2025-06-23T19:45:00+00:00",
+            "expires_at": "2025-06-29T23:00:00+00:00",
+            "features": [
+                3,
+                9,
+                13,
+                14,
+                15,
+                16,
+                18,
+                19
+            ],
+            "application": {
+                "link": "https://play.brawlstars.com/XKTM/6ffqdyen",
+                "id": "111111111111111111",
+                "name": "Brawl Stars"
+            },
+            "assets": {
+                "hero": "hero.jpg",
+                "hero_video": null,
+                "quest_bar_hero": "bar.jpg",
+                "quest_bar_hero_video": "bar_v1.mp4",
+                "game_tile": "icon.png",
+                "logotype": "word.png"
+            },
+            "colors": {
+                "primary": "#678df6",
+                "secondary": "#8ed5ff"
+            },
+            "messages": {
+                "quest_name": "Brawl Stars",
+                "game_title": "Brawl Stars",
+                "game_publisher": "Supercell"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "event_name": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 88,
+                        "external_ids": []
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 88,
+                        "assets": {
+                            "video": {
+                                "url": "main_video_v1.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "endcard.png",
+                                "caption": "cc_v2.vtt",
+                                "transcript": "ts_v2.txt"
+                            },
+                            "video_low_res": {
+                                "url": "main_video_low_res.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "endcard.png",
+                                "caption": "cc_v2.vtt",
+                                "transcript": "ts_v2.txt"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "BRAWL ARENA Trailer",
+                            "video_end_cta_title": "PLACEHOLDER",
+                            "video_end_cta_subtitle": "Play Now",
+                            "video_end_cta_button_label": "Install"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 3,
+                        "sku_id": "1385015130466680995",
+                        "asset": "Supercell_Brawl_Stars_Quest_MKT_288px.mp4",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "Spike Avatar Decoration",
+                            "name_with_article": "a Spike Avatar Decoration",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHODER FOR CROSS_PLATFORM"
+                            }
+                        },
+                        "expires_at": "2025-08-28T23:00:00+00:00",
+                        "expires_at_premium": null,
+                        "expiration_mode": 3
+                    }
+                ],
+                "rewards_expire_at": "2025-07-29T23:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "video_metadata": {
+                "messages": {
+                    "video_title": "BRAWL ARENA Trailer",
+                    "video_end_cta_title": "PLACEHOLDER",
+                    "video_end_cta_subtitle": "Play Now",
+                    "video_end_cta_button_label": "Install"
+                },
+                "assets": {
+                    "video_player_video_hls": null,
+                    "video_player_video": "main_video_v1.mp4",
+                    "video_player_thumbnail": "endcard.png",
+                    "video_player_video_low_res": "main_video_low_res.mp4",
+                    "video_player_caption": "cc_v2.vtt",
+                    "video_player_transcript": "ts_v2.txt",
+                    "quest_bar_preview_video": null,
+                    "quest_bar_preview_thumbnail": null,
+                    "quest_home_video": null
+                }
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
     }
 ]
