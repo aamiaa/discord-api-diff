@@ -12570,7 +12570,7 @@
                 "hero_video": null,
                 "quest_bar_hero": "bar.jpg",
                 "quest_bar_hero_video": null,
-                "game_tile": "tile.jpg",
+                "game_tile": "tile2.png",
                 "logotype": "word.png"
             },
             "colors": {
@@ -12602,13 +12602,13 @@
                         "event_name": "PLAY_ON_PLAYSTATION",
                         "target": 900,
                         "external_ids": [
+                            "CUSA01788_00",
                             "CUSA02499_00",
+                            "CUSA02368_00",
+                            "PPSA01396_00",
                             "PPSA01660_00",
                             "CUSA01800_00",
                             "PPSA01401_00",
-                            "CUSA02368_00",
-                            "CUSA01788_00",
-                            "PPSA01396_00",
                             "PPSA01397_00"
                         ]
                     }
@@ -12631,13 +12631,13 @@
                         "type": "PLAY_ON_PLAYSTATION",
                         "target": 900,
                         "external_ids": [
+                            "CUSA01788_00",
                             "CUSA02499_00",
+                            "CUSA02368_00",
+                            "PPSA01396_00",
                             "PPSA01660_00",
                             "CUSA01800_00",
                             "PPSA01401_00",
-                            "CUSA02368_00",
-                            "CUSA01788_00",
-                            "PPSA01396_00",
                             "PPSA01397_00"
                         ]
                     }
@@ -12667,6 +12667,134 @@
                 "platforms": [
                     0
                 ]
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
+    },
+    {
+        "id": "1385048203468210298",
+        "config": {
+            "id": "1385048203468210298",
+            "config_version": 2,
+            "starts_at": "2025-06-23T17:00:00+00:00",
+            "expires_at": "2025-07-06T23:00:00+00:00",
+            "features": [
+                3,
+                9,
+                13,
+                14,
+                15,
+                16,
+                18,
+                19
+            ],
+            "application": {
+                "link": "https://www.netflix.com/title/81328881",
+                "id": "111111111111111111",
+                "name": "The Old Guard 2"
+            },
+            "assets": {
+                "hero": "hero.jpg",
+                "hero_video": "bar.webm",
+                "quest_bar_hero": "bar.jpg",
+                "quest_bar_hero_video": "bar.webm",
+                "game_tile": "tile.jpg",
+                "logotype": "word.png"
+            },
+            "colors": {
+                "primary": "#E50914",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "The Old Guard 2",
+                "game_title": "The Old Guard 2",
+                "game_publisher": "Netflix"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "event_name": "WATCH_VIDEO",
+                        "target": 32,
+                        "external_ids": []
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 32,
+                        "assets": {
+                            "video": {
+                                "url": "main_video_v1.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "endcard.jpg",
+                                "caption": "cc2.vtt",
+                                "transcript": "ts4.txt"
+                            },
+                            "video_low_res": {
+                                "url": "main_video_low_res.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "endcard.jpg",
+                                "caption": "cc2.vtt",
+                                "transcript": "ts4.txt"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "Old Guard 2 message from Uma Thurman",
+                            "video_end_cta_title": "The Old Guard 2",
+                            "video_end_cta_subtitle": "The Old Guard 2. Only on Netflix July 2.",
+                            "video_end_cta_button_label": "Learn More"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 5,
+                        "sku_id": "1298745361602449479",
+                        "asset": "PLACEHOLDER",
+                        "messages": {
+                            "name": "1 day of Nitro",
+                            "name_with_article": "1 day of Nitro",
+                            "redemption_instructions_by_platform": {
+                                "0": "Congrats! You earned 1 day of Nitro."
+                            }
+                        }
+                    }
+                ],
+                "rewards_expire_at": "2025-08-05T23:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "video_metadata": {
+                "messages": {
+                    "video_title": "Old Guard 2 message from Uma Thurman",
+                    "video_end_cta_title": "The Old Guard 2",
+                    "video_end_cta_subtitle": "The Old Guard 2. Only on Netflix July 2.",
+                    "video_end_cta_button_label": "Learn More"
+                },
+                "assets": {
+                    "video_player_video_hls": null,
+                    "video_player_video": "main_video_v1.mp4",
+                    "video_player_thumbnail": "endcard.jpg",
+                    "video_player_video_low_res": "main_video_low_res.mp4",
+                    "video_player_caption": "cc2.vtt",
+                    "video_player_transcript": "ts4.txt",
+                    "quest_bar_preview_video": null,
+                    "quest_bar_preview_thumbnail": null,
+                    "quest_home_video": null
+                }
             }
         },
         "user_status": null,
