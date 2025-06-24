@@ -12932,5 +12932,122 @@
         "user_status": null,
         "targeted_content": [],
         "preview": false
+    },
+    {
+        "id": "1385724675749056784",
+        "config": {
+            "id": "1385724675749056784",
+            "config_version": 2,
+            "starts_at": "2025-06-24T17:00:00+00:00",
+            "expires_at": "2025-06-30T23:00:00+00:00",
+            "features": [
+                3,
+                9,
+                13,
+                14,
+                15,
+                16,
+                18,
+                19
+            ],
+            "application": {
+                "link": "https://palia.com/#download",
+                "id": "1164638522469261414",
+                "name": "Palia"
+            },
+            "assets": {
+                "hero": "hero.png",
+                "hero_video": "bar.webm",
+                "quest_bar_hero": "bar.jpg",
+                "quest_bar_hero_video": "bar.webm",
+                "game_tile": "tile2.png",
+                "logotype": "word2.png"
+            },
+            "colors": {
+                "primary": "#5d75b3",
+                "secondary": "#4eb0e6"
+            },
+            "messages": {
+                "quest_name": "Palia Play",
+                "game_title": "Palia",
+                "game_publisher": "Singularity 6"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "event_name": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "external_ids": []
+                    },
+                    "PLAY_ON_XBOX": {
+                        "event_name": "PLAY_ON_XBOX",
+                        "target": 900,
+                        "external_ids": [
+                            "1863849961"
+                        ]
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "event_name": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "external_ids": [
+                            "PPSA20622_00"
+                        ]
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900
+                    },
+                    "PLAY_ON_XBOX": {
+                        "type": "PLAY_ON_XBOX",
+                        "target": 900,
+                        "external_ids": [
+                            "1863849961"
+                        ]
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "type": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "external_ids": [
+                            "PPSA20622_00"
+                        ]
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 3,
+                        "sku_id": "1386849676875141292",
+                        "asset": "palia_play.mp4",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "Chapaa Avatar Decoration",
+                            "name_with_article": "a Chapaa Avatar Decoration",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHODER FOR CROSS_PLATFORM"
+                            }
+                        },
+                        "expires_at": "2025-08-29T23:00:00+00:00",
+                        "expires_at_premium": null,
+                        "expiration_mode": 3
+                    }
+                ],
+                "rewards_expire_at": "2025-07-30T17:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
     }
 ]
