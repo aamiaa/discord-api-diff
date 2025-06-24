@@ -13049,5 +13049,90 @@
         "user_status": null,
         "targeted_content": [],
         "preview": false
+    },
+    {
+        "id": "1385650433183322162",
+        "config": {
+            "id": "1385650433183322162",
+            "config_version": 2,
+            "starts_at": "2025-06-24T17:00:00+00:00",
+            "expires_at": "2025-06-30T23:00:00+00:00",
+            "features": [
+                3,
+                9,
+                13,
+                14,
+                15,
+                16,
+                18,
+                19
+            ],
+            "application": {
+                "link": "https://magic.wizards.com/en/mtgarena?utm_source=Discord&utm_medium=DiscordQuest&utm_campaign=DiscordJune25",
+                "id": "505142532297064468",
+                "name": "Magic The Gathering Arena"
+            },
+            "assets": {
+                "hero": "hero.jpg",
+                "hero_video": "bar.webm",
+                "quest_bar_hero": "bar.jpg",
+                "quest_bar_hero_video": "bar.webm",
+                "game_tile": "tile.png",
+                "logotype": "word.png"
+            },
+            "colors": {
+                "primary": "#010025",
+                "secondary": "#E73511"
+            },
+            "messages": {
+                "quest_name": "MTG x FINAL FANTASY",
+                "game_title": "MTG Arena",
+                "game_publisher": "Wizards of the Coast"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "event_name": "PLAY_ON_DESKTOP",
+                        "target": 1200,
+                        "external_ids": []
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 1200
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 1,
+                        "sku_id": "1385650433183322164",
+                        "asset": "reward.jpg",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "Limited FINAL FANTASY Sleeves",
+                            "name_with_article": "Limited FINAL FANTASY Sleeves",
+                            "redemption_instructions_by_platform": {
+                                "0": "1. Go to myaccounts.wizards.com  \n2. Sign in.  \n3. Click into the text box on the right, under Redeem A Code.  \n4. Enter a code.  \n5. Press Redeem.  \n6. If you have entered a code successfully, you will see a confirmation message.  \n7. When you open the MTG Arena app and go to the Store tab, you will receive your redeemed items."
+                            }
+                        },
+                        "approximate_count": null,
+                        "redemption_link": null
+                    }
+                ],
+                "rewards_expire_at": "2025-07-30T23:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            }
+        }
     }
 ]
