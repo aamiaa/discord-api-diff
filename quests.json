@@ -13134,5 +13134,124 @@
                 ]
             }
         }
+    },
+    {
+        "id": "1385733122355630203",
+        "config": {
+            "id": "1385733122355630203",
+            "config_version": 2,
+            "starts_at": "2025-06-25T17:00:00+00:00",
+            "expires_at": "2025-06-30T23:00:00+00:00",
+            "features": [
+                3,
+                9,
+                13,
+                14,
+                15,
+                16,
+                18,
+                19
+            ],
+            "application": {
+                "link": "https://playvalorant.com/",
+                "id": "700136079562375258",
+                "name": "VALORANT"
+            },
+            "assets": {
+                "hero": "hero.jpg",
+                "hero_video": "bar.webm",
+                "quest_bar_hero": "bar.png",
+                "quest_bar_hero_video": "bar.webm",
+                "game_tile": "tile1.png",
+                "logotype": "word1.png"
+            },
+            "colors": {
+                "primary": "#8F35FF",
+                "secondary": "#1B1A29"
+            },
+            "messages": {
+                "quest_name": "Summer Kickoff",
+                "game_title": "VALORANT",
+                "game_publisher": "Riot Games"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "event_name": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "external_ids": []
+                    },
+                    "PLAY_ON_XBOX": {
+                        "event_name": "PLAY_ON_XBOX",
+                        "target": 900,
+                        "external_ids": [
+                            "2139646219"
+                        ]
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "event_name": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "external_ids": [
+                            "PPSA20676_00",
+                            "PPSA20711_00"
+                        ]
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900
+                    },
+                    "PLAY_ON_XBOX": {
+                        "type": "PLAY_ON_XBOX",
+                        "target": 900,
+                        "external_ids": [
+                            "2139646219"
+                        ]
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "type": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "external_ids": [
+                            "PPSA20676_00",
+                            "PPSA20711_00"
+                        ]
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 3,
+                        "sku_id": "1386838941801382010",
+                        "asset": "Valorant_Wingman_Quest.mp4",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "WHO GAVE HIM A GUN? Avatar Decoration",
+                            "name_with_article": "a WHO GAVE HIM A GUN? Avatar Decoration",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHODER FOR CROSS_PLATFORM"
+                            }
+                        },
+                        "expires_at": "2025-08-29T23:00:00+00:00",
+                        "expires_at_premium": null,
+                        "expiration_mode": 3
+                    }
+                ],
+                "rewards_expire_at": "2025-07-30T23:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
     }
 ]
