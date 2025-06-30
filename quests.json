@@ -13253,5 +13253,364 @@
         "user_status": null,
         "targeted_content": [],
         "preview": false
+    },
+    {
+        "id": "1387947680415748106",
+        "config": {
+            "id": "1387947680415748106",
+            "config_version": 2,
+            "starts_at": "2025-06-30T17:00:00+00:00",
+            "expires_at": "2025-07-06T23:00:00+00:00",
+            "features": [
+                3,
+                9,
+                13,
+                14,
+                15,
+                16,
+                18,
+                19
+            ],
+            "application": {
+                "link": "https://app.powster.com/universalstudios/jurassic-world-rebirth-intl/au",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "6a61adf6-ba9e-441e-92eb-84517a3e1390.jpg",
+                "hero_video": "e2c3096d-b957-48eb-9a07-c031734b6de3.webm",
+                "quest_bar_hero": "527028f8-94f5-471c-b6db-be030445a792.jpg",
+                "quest_bar_hero_video": "57e5469e-21c8-422c-b25a-8e8a321fe659.webm",
+                "game_tile": "f66a673b-98c9-411b-944e-f0fd2440a870.png",
+                "logotype": "7f349bcd-8536-4381-aefb-ae4875f6a37e.png"
+            },
+            "colors": {
+                "primary": "#325353",
+                "secondary": "#e7a909"
+            },
+            "messages": {
+                "quest_name": "Jurassic World Rebirth",
+                "game_title": "Jurassic World Rebirth",
+                "game_publisher": "Universal Pictures"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "event_name": "WATCH_VIDEO",
+                        "target": 82,
+                        "external_ids": []
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 82,
+                        "assets": {
+                            "video": {
+                                "url": "f8970e81-319c-475a-8653-35d61f9d6c3e.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "b9348389-1db5-4ca5-98ae-2f7edf7f902e.jpg",
+                                "caption": "fcb81fd4-8bba-4462-bf0d-01f9ecd10d7b.vtt",
+                                "transcript": "b69675b6-a080-4177-94e2-d996ed58c58c.txt"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "Jurassic World Rebirth",
+                            "video_end_cta_title": "Get Tickets",
+                            "video_end_cta_subtitle": "IN CINEMAS JULY 3"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 3,
+                        "sku_id": "1388206477491175517",
+                        "asset": "jurassic_world_rebirth_06_30_2025_deco_preview.mp4",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "Dilophosaurus Avatar Decoration",
+                            "name_with_article": "a Dilophosaurus Avatar Decoration",
+                            "redemption_instructions_by_platform": {
+                                "0": "Default"
+                            }
+                        },
+                        "expires_at": "2025-09-04T23:00:00+00:00",
+                        "expires_at_premium": null,
+                        "expiration_mode": 3
+                    }
+                ],
+                "rewards_expire_at": "2025-08-05T23:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "video_metadata": {
+                "messages": {
+                    "video_title": "Jurassic World Rebirth",
+                    "video_end_cta_title": "Get Tickets",
+                    "video_end_cta_subtitle": "IN CINEMAS JULY 3"
+                },
+                "assets": {
+                    "video_player_video_hls": null,
+                    "video_player_video": "f8970e81-319c-475a-8653-35d61f9d6c3e.mp4",
+                    "video_player_thumbnail": "b9348389-1db5-4ca5-98ae-2f7edf7f902e.jpg",
+                    "video_player_video_low_res": null,
+                    "video_player_caption": "fcb81fd4-8bba-4462-bf0d-01f9ecd10d7b.vtt",
+                    "video_player_transcript": "b69675b6-a080-4177-94e2-d996ed58c58c.txt",
+                    "quest_bar_preview_video": null,
+                    "quest_bar_preview_thumbnail": null,
+                    "quest_home_video": null
+                }
+            }
+        }
+    },
+    {
+        "id": "1388187825895248113",
+        "config": {
+            "id": "1388187825895248113",
+            "config_version": 2,
+            "starts_at": "2025-06-30T17:00:00+00:00",
+            "expires_at": "2025-07-06T23:00:00+00:00",
+            "features": [
+                3,
+                9,
+                13,
+                14,
+                15,
+                16,
+                18,
+                19
+            ],
+            "application": {
+                "link": "https://jurassicworldrebirth.universalpictureskr.com/",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "9556daba-7cbd-4c53-a13f-2eecfc7f9c15.jpg",
+                "hero_video": "71a06e6b-68e2-40ba-90ca-209b467b31d6.webm",
+                "quest_bar_hero": "7bee44c2-340f-4393-a94d-d6a0f9f3f50a.jpg",
+                "quest_bar_hero_video": "633695d3-d01f-487c-8d5b-50dca868841b.webm",
+                "game_tile": "aaf9443a-91b1-4cf5-9220-b62904c9950e.png",
+                "logotype": "abc984f0-52a9-4878-92e3-a882864191c4.png"
+            },
+            "colors": {
+                "primary": "#325353",
+                "secondary": "#e7a909"
+            },
+            "messages": {
+                "quest_name": "쥬라기 월드: 새로운 시작",
+                "game_title": "쥬라기 월드: 새로운 시작",
+                "game_publisher": "Universal Pictures"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "event_name": "WATCH_VIDEO",
+                        "target": 82,
+                        "external_ids": []
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 82,
+                        "assets": {
+                            "video": {
+                                "url": "1655f8c5-2ad7-4ae2-971c-e5fbed51cfba.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "6407bbc4-68e7-4c43-806c-147af611d95d.jpg",
+                                "caption": "50d46f56-0de2-4cd2-b04c-64ec250f5c39.vtt",
+                                "transcript": "2c9727d0-46d5-4509-8389-2549fc05673f.txt"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "쥬라기 월드: 새로운 시작",
+                            "video_end_cta_title": "7월 2일 대개봉",
+                            "video_end_cta_subtitle": "7월 2일 대개봉",
+                            "video_end_cta_button_label": "Learn More"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 3,
+                        "sku_id": "1388206477491175517",
+                        "asset": "jurassic_world_rebirth_06_30_2025_deco_preview_v2.mp4",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "딜로포사우루스",
+                            "name_with_article": "딜로포사우루스",
+                            "redemption_instructions_by_platform": {
+                                "0": "Default"
+                            }
+                        },
+                        "expires_at": "2025-09-04T23:00:00+00:00",
+                        "expires_at_premium": null,
+                        "expiration_mode": 3
+                    }
+                ],
+                "rewards_expire_at": "2025-08-05T23:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "video_metadata": {
+                "messages": {
+                    "video_title": "쥬라기 월드: 새로운 시작",
+                    "video_end_cta_title": "7월 2일 대개봉",
+                    "video_end_cta_subtitle": "7월 2일 대개봉",
+                    "video_end_cta_button_label": "Learn More"
+                },
+                "assets": {
+                    "video_player_video_hls": null,
+                    "video_player_video": "1655f8c5-2ad7-4ae2-971c-e5fbed51cfba.mp4",
+                    "video_player_thumbnail": "6407bbc4-68e7-4c43-806c-147af611d95d.jpg",
+                    "video_player_video_low_res": null,
+                    "video_player_caption": "50d46f56-0de2-4cd2-b04c-64ec250f5c39.vtt",
+                    "video_player_transcript": "2c9727d0-46d5-4509-8389-2549fc05673f.txt",
+                    "quest_bar_preview_video": null,
+                    "quest_bar_preview_thumbnail": null,
+                    "quest_home_video": null
+                }
+            }
+        }
+    },
+    {
+        "id": "1387472727039938711",
+        "config": {
+            "id": "1387472727039938711",
+            "config_version": 2,
+            "starts_at": "2025-06-30T17:00:00+00:00",
+            "expires_at": "2025-07-06T23:00:00+00:00",
+            "features": [
+                3,
+                9,
+                13,
+                14,
+                15,
+                16,
+                18,
+                19
+            ],
+            "application": {
+                "link": "https://app.powster.com/universalstudios/jurassic-world-rebirth-intl/gb/",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "7123ec66-42eb-4f17-99f0-20468d7976ab.jpg",
+                "hero_video": "645a688c-d2f8-4586-8190-b123010ada6f.webm",
+                "quest_bar_hero": "6bac9031-472f-45b0-b815-19da824ff4f0.jpg",
+                "quest_bar_hero_video": "4a66da92-c5b0-4c0f-9dea-3ac3269f8d0b.webm",
+                "game_tile": "43218a28-8a21-42c0-9127-254a4bb6d3d8.png",
+                "logotype": "3786823a-e271-4e9e-87dd-68c037c10d46.png"
+            },
+            "colors": {
+                "primary": "#325353",
+                "secondary": "#325353"
+            },
+            "messages": {
+                "quest_name": "Jurassic World Rebirth",
+                "game_title": "Jurassic World Rebirth",
+                "game_publisher": "Universal Pictures"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "event_name": "WATCH_VIDEO",
+                        "target": 82,
+                        "external_ids": []
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 82,
+                        "assets": {
+                            "video": {
+                                "url": "7953b565-0d26-45fa-a844-9a30f59922c1.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "426c76d3-419a-4762-927e-b98213088a84.jpg",
+                                "caption": "250e8603-73f7-4bca-b7da-474c6aafe6cf.vtt",
+                                "transcript": "44b9cfc8-c7f4-4b13-a342-bcc787d468b1.txt"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "Jurassic World Rebirth",
+                            "video_end_cta_title": "Get Tickets",
+                            "video_end_cta_subtitle": "IN CINEMAS JULY 2 BOOK NOW"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 3,
+                        "sku_id": "1388206477491175517",
+                        "asset": "jurassic_world_rebirth_06_30_2025_deco_preview.mp4",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "Dilophosaurus Avatar Decoration",
+                            "name_with_article": "a Dilophosaurus Avatar Decoration",
+                            "redemption_instructions_by_platform": {
+                                "0": "Default"
+                            }
+                        },
+                        "expires_at": "2025-09-04T23:00:00+00:00",
+                        "expires_at_premium": null,
+                        "expiration_mode": 3
+                    }
+                ],
+                "rewards_expire_at": "2025-08-05T23:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "video_metadata": {
+                "messages": {
+                    "video_title": "Jurassic World Rebirth",
+                    "video_end_cta_title": "Get Tickets",
+                    "video_end_cta_subtitle": "IN CINEMAS JULY 2 BOOK NOW"
+                },
+                "assets": {
+                    "video_player_video_hls": null,
+                    "video_player_video": "7953b565-0d26-45fa-a844-9a30f59922c1.mp4",
+                    "video_player_thumbnail": "426c76d3-419a-4762-927e-b98213088a84.jpg",
+                    "video_player_video_low_res": null,
+                    "video_player_caption": "250e8603-73f7-4bca-b7da-474c6aafe6cf.vtt",
+                    "video_player_transcript": "44b9cfc8-c7f4-4b13-a342-bcc787d468b1.txt",
+                    "quest_bar_preview_video": null,
+                    "quest_bar_preview_thumbnail": null,
+                    "quest_home_video": null
+                }
+            }
+        }
     }
 ]
