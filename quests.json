@@ -13612,5 +13612,126 @@
                 }
             }
         }
+    },
+    {
+        "id": "1387954850666516520",
+        "config": {
+            "id": "1387954850666516520",
+            "config_version": 2,
+            "starts_at": "2025-06-30T19:30:00+00:00",
+            "expires_at": "2025-07-06T23:00:00+00:00",
+            "features": [
+                3,
+                9,
+                13,
+                14,
+                15,
+                16,
+                18,
+                19
+            ],
+            "application": {
+                "link": "https://app.powster.com/universalstudios/jurassic-world-rebirth-intl/br/",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "5eec7d9e-32b9-4116-a1bd-e264446602c9.jpg",
+                "hero_video": "6ff25128-c491-4336-a8fd-af9e604113f3.webm",
+                "quest_bar_hero": "f0ea24a4-98ae-4c25-b94f-7d6c69071519.jpg",
+                "quest_bar_hero_video": "7c39563c-cf42-4022-8682-7122afca2928.webm",
+                "game_tile": "30af2a3a-0d56-4a30-87de-b76b95d5187a.png",
+                "logotype": "5f098986-6d50-44e0-9ad0-8296c448f2d6.png"
+            },
+            "colors": {
+                "primary": "#325353",
+                "secondary": "#e7a909"
+            },
+            "messages": {
+                "quest_name": "Jurassic World: Recomeço",
+                "game_title": "Jurassic World: Recomeço",
+                "game_publisher": "Universal Pictures"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "event_name": "WATCH_VIDEO",
+                        "target": 82,
+                        "external_ids": []
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 82,
+                        "assets": {
+                            "video": {
+                                "url": "7894d6a1-3a43-461f-bb52-9565e72e5664.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "474bc81d-0d8c-4f52-a2f1-e44419d409dc.jpg",
+                                "caption": "69ee31d8-4a29-4791-bc02-bff439423002.vtt",
+                                "transcript": "dca8ec66-a244-4015-8a03-7b26d2de9036.txt"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "Jurassic World: Recomeço",
+                            "video_end_cta_title": "3 DE JULHO NOS CINEMAS",
+                            "video_end_cta_subtitle": "3 DE JULHO NOS CINEMAS",
+                            "video_end_cta_button_label": "Get Tickets"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 3,
+                        "sku_id": "1388206477491175517",
+                        "asset": "jurassic_world_rebirth_06_30_2025_deco_preview.mp4",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "Decoração do Avatar Dilofossauro",
+                            "name_with_article": "um Decoração do Avatar Dilofossauro",
+                            "redemption_instructions_by_platform": {
+                                "0": "Default"
+                            }
+                        },
+                        "expires_at": "2025-09-04T23:00:00+00:00",
+                        "expires_at_premium": null,
+                        "expiration_mode": 3
+                    }
+                ],
+                "rewards_expire_at": "2025-08-05T23:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "video_metadata": {
+                "messages": {
+                    "video_title": "Jurassic World: Recomeço",
+                    "video_end_cta_title": "3 DE JULHO NOS CINEMAS",
+                    "video_end_cta_subtitle": "3 DE JULHO NOS CINEMAS",
+                    "video_end_cta_button_label": "Get Tickets"
+                },
+                "assets": {
+                    "video_player_video_hls": null,
+                    "video_player_video": "7894d6a1-3a43-461f-bb52-9565e72e5664.mp4",
+                    "video_player_thumbnail": "474bc81d-0d8c-4f52-a2f1-e44419d409dc.jpg",
+                    "video_player_video_low_res": null,
+                    "video_player_caption": "69ee31d8-4a29-4791-bc02-bff439423002.vtt",
+                    "video_player_transcript": "dca8ec66-a244-4015-8a03-7b26d2de9036.txt",
+                    "quest_bar_preview_video": null,
+                    "quest_bar_preview_thumbnail": null,
+                    "quest_home_video": null
+                }
+            }
+        }
     }
 ]
