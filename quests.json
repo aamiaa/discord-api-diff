@@ -13317,6 +13317,22 @@
                                 "thumbnail": "b9348389-1db5-4ca5-98ae-2f7edf7f902e.jpg",
                                 "caption": "fcb81fd4-8bba-4462-bf0d-01f9ecd10d7b.vtt",
                                 "transcript": "b69675b6-a080-4177-94e2-d996ed58c58c.txt"
+                            },
+                            "video_low_res": {
+                                "url": "main_video_low_res.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "b9348389-1db5-4ca5-98ae-2f7edf7f902e.jpg",
+                                "caption": "fcb81fd4-8bba-4462-bf0d-01f9ecd10d7b.vtt",
+                                "transcript": "b69675b6-a080-4177-94e2-d996ed58c58c.txt"
+                            },
+                            "video_hls": {
+                                "url": "video_hls.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "b9348389-1db5-4ca5-98ae-2f7edf7f902e.jpg",
+                                "caption": "fcb81fd4-8bba-4462-bf0d-01f9ecd10d7b.vtt",
+                                "transcript": "b69675b6-a080-4177-94e2-d996ed58c58c.txt"
                             }
                         },
                         "messages": {
@@ -13360,10 +13376,10 @@
                     "video_end_cta_subtitle": "IN CINEMAS JULY 3"
                 },
                 "assets": {
-                    "video_player_video_hls": null,
+                    "video_player_video_hls": "video_hls.m3u8",
                     "video_player_video": "f8970e81-319c-475a-8653-35d61f9d6c3e.mp4",
                     "video_player_thumbnail": "b9348389-1db5-4ca5-98ae-2f7edf7f902e.jpg",
-                    "video_player_video_low_res": null,
+                    "video_player_video_low_res": "main_video_low_res.mp4",
                     "video_player_caption": "fcb81fd4-8bba-4462-bf0d-01f9ecd10d7b.vtt",
                     "video_player_transcript": "b69675b6-a080-4177-94e2-d996ed58c58c.txt",
                     "quest_bar_preview_video": null,
@@ -13436,6 +13452,22 @@
                                 "thumbnail": "6407bbc4-68e7-4c43-806c-147af611d95d.jpg",
                                 "caption": "50d46f56-0de2-4cd2-b04c-64ec250f5c39.vtt",
                                 "transcript": "2c9727d0-46d5-4509-8389-2549fc05673f.txt"
+                            },
+                            "video_low_res": {
+                                "url": "main_video_low_res.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "6407bbc4-68e7-4c43-806c-147af611d95d.jpg",
+                                "caption": "50d46f56-0de2-4cd2-b04c-64ec250f5c39.vtt",
+                                "transcript": "2c9727d0-46d5-4509-8389-2549fc05673f.txt"
+                            },
+                            "video_hls": {
+                                "url": "video_hls.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "6407bbc4-68e7-4c43-806c-147af611d95d.jpg",
+                                "caption": "50d46f56-0de2-4cd2-b04c-64ec250f5c39.vtt",
+                                "transcript": "2c9727d0-46d5-4509-8389-2549fc05673f.txt"
                             }
                         },
                         "messages": {
@@ -13481,10 +13513,10 @@
                     "video_end_cta_button_label": "Learn More"
                 },
                 "assets": {
-                    "video_player_video_hls": null,
+                    "video_player_video_hls": "video_hls.m3u8",
                     "video_player_video": "1655f8c5-2ad7-4ae2-971c-e5fbed51cfba.mp4",
                     "video_player_thumbnail": "6407bbc4-68e7-4c43-806c-147af611d95d.jpg",
-                    "video_player_video_low_res": null,
+                    "video_player_video_low_res": "main_video_low_res.mp4",
                     "video_player_caption": "50d46f56-0de2-4cd2-b04c-64ec250f5c39.vtt",
                     "video_player_transcript": "2c9727d0-46d5-4509-8389-2549fc05673f.txt",
                     "quest_bar_preview_video": null,
@@ -13557,6 +13589,22 @@
                                 "thumbnail": "426c76d3-419a-4762-927e-b98213088a84.jpg",
                                 "caption": "250e8603-73f7-4bca-b7da-474c6aafe6cf.vtt",
                                 "transcript": "44b9cfc8-c7f4-4b13-a342-bcc787d468b1.txt"
+                            },
+                            "video_low_res": {
+                                "url": "main_video_v1_low_res.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "426c76d3-419a-4762-927e-b98213088a84.jpg",
+                                "caption": "250e8603-73f7-4bca-b7da-474c6aafe6cf.vtt",
+                                "transcript": "44b9cfc8-c7f4-4b13-a342-bcc787d468b1.txt"
+                            },
+                            "video_hls": {
+                                "url": "video_hls.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "426c76d3-419a-4762-927e-b98213088a84.jpg",
+                                "caption": "250e8603-73f7-4bca-b7da-474c6aafe6cf.vtt",
+                                "transcript": "44b9cfc8-c7f4-4b13-a342-bcc787d468b1.txt"
                             }
                         },
                         "messages": {
@@ -13600,10 +13648,10 @@
                     "video_end_cta_subtitle": "IN CINEMAS JULY 2 BOOK NOW"
                 },
                 "assets": {
-                    "video_player_video_hls": null,
+                    "video_player_video_hls": "video_hls.m3u8",
                     "video_player_video": "7953b565-0d26-45fa-a844-9a30f59922c1.mp4",
                     "video_player_thumbnail": "426c76d3-419a-4762-927e-b98213088a84.jpg",
-                    "video_player_video_low_res": null,
+                    "video_player_video_low_res": "main_video_v1_low_res.mp4",
                     "video_player_caption": "250e8603-73f7-4bca-b7da-474c6aafe6cf.vtt",
                     "video_player_transcript": "44b9cfc8-c7f4-4b13-a342-bcc787d468b1.txt",
                     "quest_bar_preview_video": null,
@@ -13676,6 +13724,22 @@
                                 "thumbnail": "474bc81d-0d8c-4f52-a2f1-e44419d409dc.jpg",
                                 "caption": "69ee31d8-4a29-4791-bc02-bff439423002.vtt",
                                 "transcript": "dca8ec66-a244-4015-8a03-7b26d2de9036.txt"
+                            },
+                            "video_low_res": {
+                                "url": "main_video_low_res.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "474bc81d-0d8c-4f52-a2f1-e44419d409dc.jpg",
+                                "caption": "69ee31d8-4a29-4791-bc02-bff439423002.vtt",
+                                "transcript": "dca8ec66-a244-4015-8a03-7b26d2de9036.txt"
+                            },
+                            "video_hls": {
+                                "url": "video_hls.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "474bc81d-0d8c-4f52-a2f1-e44419d409dc.jpg",
+                                "caption": "69ee31d8-4a29-4791-bc02-bff439423002.vtt",
+                                "transcript": "dca8ec66-a244-4015-8a03-7b26d2de9036.txt"
                             }
                         },
                         "messages": {
@@ -13721,10 +13785,10 @@
                     "video_end_cta_button_label": "Get Tickets"
                 },
                 "assets": {
-                    "video_player_video_hls": null,
+                    "video_player_video_hls": "video_hls.m3u8",
                     "video_player_video": "7894d6a1-3a43-461f-bb52-9565e72e5664.mp4",
                     "video_player_thumbnail": "474bc81d-0d8c-4f52-a2f1-e44419d409dc.jpg",
-                    "video_player_video_low_res": null,
+                    "video_player_video_low_res": "main_video_low_res.mp4",
                     "video_player_caption": "69ee31d8-4a29-4791-bc02-bff439423002.vtt",
                     "video_player_transcript": "dca8ec66-a244-4015-8a03-7b26d2de9036.txt",
                     "quest_bar_preview_video": null,
