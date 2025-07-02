@@ -12749,7 +12749,7 @@
                         "messages": {
                             "video_title": "Old Guard 2 message from Uma Thurman",
                             "video_end_cta_title": "The Old Guard 2",
-                            "video_end_cta_subtitle": "The Old Guard 2. Only on Netflix July 2.",
+                            "video_end_cta_subtitle": "The Old Guard 2. Now playing only on Netflix.",
                             "video_end_cta_button_label": "Watch Now"
                         }
                     }
@@ -12781,7 +12781,7 @@
                 "messages": {
                     "video_title": "Old Guard 2 message from Uma Thurman",
                     "video_end_cta_title": "The Old Guard 2",
-                    "video_end_cta_subtitle": "The Old Guard 2. Only on Netflix July 2.",
+                    "video_end_cta_subtitle": "The Old Guard 2. Now playing only on Netflix.",
                     "video_end_cta_button_label": "Watch Now"
                 },
                 "assets": {
@@ -13797,5 +13797,144 @@
                 }
             }
         }
+    },
+    {
+        "id": "1371527389691248640",
+        "config": {
+            "id": "1371527389691248640",
+            "config_version": 2,
+            "starts_at": "2025-07-02T17:00:00+00:00",
+            "expires_at": "2025-07-10T23:00:00+00:00",
+            "features": [
+                3,
+                9,
+                14,
+                15,
+                16,
+                18,
+                19
+            ],
+            "application": {
+                "link": "https://gonnaneedmilk.com/compete",
+                "id": "432980957394370572",
+                "name": "Fortnite"
+            },
+            "assets": {
+                "hero": "hero2.png",
+                "hero_video": "bar.webm",
+                "quest_bar_hero": "985166bd-c1a3-4889-b8dc-aa7d934523c9.jpg",
+                "quest_bar_hero_video": "bar.webm",
+                "game_tile": "logo.png",
+                "logotype": "word.png"
+            },
+            "colors": {
+                "primary": "#50007B",
+                "secondary": "#ED2797"
+            },
+            "messages": {
+                "quest_name": "The Milk Cup",
+                "game_title": "GonnaNeedMilk",
+                "game_publisher": "GonnaNeedMilk"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "event_name": "WATCH_VIDEO",
+                        "target": 49,
+                        "external_ids": []
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 49,
+                        "assets": {
+                            "video": {
+                                "url": "main_video_v1.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "endcard.jpg",
+                                "caption": "cc.vtt",
+                                "transcript": "ts.txt"
+                            },
+                            "video_low_res": {
+                                "url": "main_video_low_res.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "endcard.jpg",
+                                "caption": "cc.vtt",
+                                "transcript": "ts.txt"
+                            },
+                            "video_hls": {
+                                "url": "video_hls.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "endcard.jpg",
+                                "caption": "cc.vtt",
+                                "transcript": "ts.txt"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "The Milk Cup",
+                            "video_end_cta_title": "The Milk Cup 2025",
+                            "video_end_cta_subtitle": "The biggest women's Fortnite tournament!",
+                            "video_end_cta_button_label": "Learn More"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 3,
+                        "sku_id": "1387485784419995649",
+                        "asset": "fortnite_quest_2025_07_02_preview.mp4",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "Moomoo Hood Avatar Decoration",
+                            "name_with_article": "a Moomoo Hood Avatar Decoration",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHODER FOR CROSS_PLATFORM"
+                            }
+                        },
+                        "expires_at": "2025-09-10T23:00:00+00:00",
+                        "expires_at_premium": null,
+                        "expiration_mode": 3
+                    }
+                ],
+                "rewards_expire_at": "2025-08-09T23:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "video_metadata": {
+                "messages": {
+                    "video_title": "The Milk Cup",
+                    "video_end_cta_title": "The Milk Cup 2025",
+                    "video_end_cta_subtitle": "The biggest women's Fortnite tournament!",
+                    "video_end_cta_button_label": "Learn More"
+                },
+                "assets": {
+                    "video_player_video_hls": "video_hls.m3u8",
+                    "video_player_video": "main_video_v1.mp4",
+                    "video_player_thumbnail": "endcard.jpg",
+                    "video_player_video_low_res": "main_video_low_res.mp4",
+                    "video_player_caption": "cc.vtt",
+                    "video_player_transcript": "ts.txt",
+                    "quest_bar_preview_video": "bar.webm",
+                    "quest_bar_preview_thumbnail": "PLACEHOLDER.jpg",
+                    "quest_home_video": "bar.webm"
+                }
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
     }
 ]
