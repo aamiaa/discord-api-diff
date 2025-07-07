@@ -14024,5 +14024,110 @@
         "user_status": null,
         "targeted_content": [],
         "preview": false
+    },
+    {
+        "id": "1390001652148207666",
+        "config": {
+            "id": "1390001652148207666",
+            "config_version": 2,
+            "starts_at": "2025-07-07T17:00:00+00:00",
+            "expires_at": "2025-07-14T23:00:00+00:00",
+            "features": [
+                3,
+                9,
+                13,
+                14,
+                15,
+                16,
+                18,
+                19
+            ],
+            "application": {
+                "link": "https://mechabreak.seasungames.com/launch",
+                "id": "1233779715521777838",
+                "name": "Mecha BREAK"
+            },
+            "assets": {
+                "hero": "d1657437-84fd-4a3e-9147-da35949e8a1e.png",
+                "hero_video": "252c5f75-6c8d-47bf-a988-27db97ebf868.mp4",
+                "quest_bar_hero": "27a19902-62e4-4a4c-9027-9af5b23eb427.png",
+                "quest_bar_hero_video": "09c59287-f72d-441e-ace8-a4e09c483339.webm",
+                "game_tile": "a146cc77-48f7-43cd-868f-4bc94a4dfbb9.png",
+                "logotype": "3c193f3c-f857-473c-b012-e41ea754eb8b.png"
+            },
+            "colors": {
+                "primary": "#02EFF8",
+                "secondary": "#FF49FC"
+            },
+            "messages": {
+                "quest_name": "Mecha BREAK",
+                "game_title": "Mecha BREAK",
+                "game_publisher": "Amazing Seasun Games"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "event_name": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "external_ids": []
+                    },
+                    "PLAY_ON_XBOX": {
+                        "event_name": "PLAY_ON_XBOX",
+                        "target": 900,
+                        "external_ids": [
+                            "1812294496",
+                            "1883267131"
+                        ]
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900
+                    },
+                    "PLAY_ON_XBOX": {
+                        "type": "PLAY_ON_XBOX",
+                        "target": 900,
+                        "external_ids": [
+                            "1812294496",
+                            "1883267131"
+                        ]
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 3,
+                        "sku_id": "1390436532988674091",
+                        "asset": "mecha_break_quest_07_2025.mp4",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "Mecha BREAK Avatar Decoration",
+                            "name_with_article": "a Mecha BREAK Avatar Decoration",
+                            "redemption_instructions_by_platform": {
+                                "0": "Default"
+                            }
+                        },
+                        "expires_at": "2025-09-14T23:00:00+00:00",
+                        "expires_at_premium": null,
+                        "expiration_mode": 3
+                    }
+                ],
+                "rewards_expire_at": "2025-08-13T23:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
     }
 ]
