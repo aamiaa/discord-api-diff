@@ -14129,5 +14129,145 @@
         "user_status": null,
         "targeted_content": [],
         "preview": false
+    },
+    {
+        "id": "1387106762150383697",
+        "config": {
+            "id": "1387106762150383697",
+            "config_version": 2,
+            "starts_at": "2025-07-08T17:00:00+00:00",
+            "expires_at": "2025-07-22T23:00:00+00:00",
+            "features": [
+                3,
+                9,
+                13,
+                14,
+                15,
+                16,
+                18,
+                19
+            ],
+            "application": {
+                "link": "https://www.tonyhawkthegame.com/playnow?utm_source=discord-quest&utm_medium=referral&utm_campaign=thpsdiscordquest",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "9f12f288-b755-47cc-b70e-5565bf1c5671.jpg",
+                "hero_video": "c22cdfb3-11b8-4c41-9664-003e8d413627.webm",
+                "quest_bar_hero": "121807b4-a89e-4511-bd05-aab6842b3eaa.jpg",
+                "quest_bar_hero_video": "59eb6147-0a24-45ec-af89-b3a1abd19bd4.webm",
+                "game_tile": "fa7befde-4582-44bc-b8d8-71194b0e5788.png",
+                "logotype": "9c0913fd-81a6-409b-8662-087ff4c78b5b.png"
+            },
+            "colors": {
+                "primary": "#a0420e",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "THPS 3+4",
+                "game_title": "Tony Hawk's Pro Skater 3 + 4",
+                "game_publisher": "Activision"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "event_name": "WATCH_VIDEO",
+                        "target": 96,
+                        "external_ids": []
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 96,
+                        "assets": {
+                            "video": {
+                                "url": "21af1447-bcd3-4feb-b8a2-8efd01048469.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "8387efa2-f5fa-446d-8ddb-c453f2f7d1e7.jpg",
+                                "caption": "811abb32-22d7-46d5-9359-b337f1d2d5a4.vtt",
+                                "transcript": "861fd499-d92f-48a5-8c4d-41718542a676.txt"
+                            },
+                            "video_low_res": {
+                                "url": "hls_video_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "8387efa2-f5fa-446d-8ddb-c453f2f7d1e7.jpg",
+                                "caption": "811abb32-22d7-46d5-9359-b337f1d2d5a4.vtt",
+                                "transcript": "861fd499-d92f-48a5-8c4d-41718542a676.txt"
+                            },
+                            "video_hls": {
+                                "url": "hls_video.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "8387efa2-f5fa-446d-8ddb-c453f2f7d1e7.jpg",
+                                "caption": "811abb32-22d7-46d5-9359-b337f1d2d5a4.vtt",
+                                "transcript": "861fd499-d92f-48a5-8c4d-41718542a676.txt"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "THPS 3 + 4 Launch Gameplay Trailer",
+                            "video_end_cta_title": "Tony Hawk's Pro Skater 3 + 4",
+                            "video_end_cta_subtitle": "The Shred's Not Dead",
+                            "video_end_cta_button_label": "Buy Now"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 3,
+                        "sku_id": "1391785327613706301",
+                        "asset": "thps_3_plus_4_quest_07_2025.mp4",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "THPS Half Pipe Avatar Decoration",
+                            "name_with_article": "a THPS Half Pipe Avatar Decoration",
+                            "redemption_instructions_by_platform": {
+                                "0": "Default"
+                            }
+                        },
+                        "expires_at": "2025-09-22T23:00:00+00:00",
+                        "expires_at_premium": null,
+                        "expiration_mode": 3
+                    }
+                ],
+                "rewards_expire_at": "2025-08-21T23:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "video_metadata": {
+                "messages": {
+                    "video_title": "THPS 3 + 4 Launch Gameplay Trailer",
+                    "video_end_cta_title": "Tony Hawk's Pro Skater 3 + 4",
+                    "video_end_cta_subtitle": "The Shred's Not Dead",
+                    "video_end_cta_button_label": "Buy Now"
+                },
+                "assets": {
+                    "video_player_video_hls": "hls_video.m3u8",
+                    "video_player_video": "21af1447-bcd3-4feb-b8a2-8efd01048469.mp4",
+                    "video_player_thumbnail": "8387efa2-f5fa-446d-8ddb-c453f2f7d1e7.jpg",
+                    "video_player_video_low_res": "hls_video_720.mp4",
+                    "video_player_caption": "811abb32-22d7-46d5-9359-b337f1d2d5a4.vtt",
+                    "video_player_transcript": "861fd499-d92f-48a5-8c4d-41718542a676.txt",
+                    "quest_bar_preview_video": null,
+                    "quest_bar_preview_thumbnail": null,
+                    "quest_home_video": null
+                }
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
     }
 ]
