@@ -14269,5 +14269,93 @@
         "user_status": null,
         "targeted_content": [],
         "preview": false
+    },
+    {
+        "id": "1391849610863050884",
+        "config": {
+            "id": "1391849610863050884",
+            "config_version": 2,
+            "starts_at": "2025-07-09T17:00:00+00:00",
+            "expires_at": "2025-07-15T23:00:00+00:00",
+            "features": [
+                3,
+                9,
+                13,
+                14,
+                15,
+                16,
+                18,
+                19
+            ],
+            "application": {
+                "link": "https://store.steampowered.com/app/2507950?utm_source=discordquest",
+                "id": "1314682894106497096",
+                "name": "Delta Force"
+            },
+            "assets": {
+                "hero": "4daad898-8c49-4152-95a6-ed128bb5a870.jpg",
+                "hero_video": "d19eb101-7004-46e1-8f96-d808b77e7d0d.webm",
+                "quest_bar_hero": "9bcc299d-86b7-4dc2-b3ed-792f137aa5e7.jpg",
+                "quest_bar_hero_video": "8ef1f989-127d-41f9-9679-d19d8c89c222.mp4",
+                "game_tile": "937f07f1-cdf1-4a78-8fca-80207e6364f3.png",
+                "logotype": "9522c2c9-408f-4082-88e2-84af2da61a68.png"
+            },
+            "colors": {
+                "primary": "#0CA766",
+                "secondary": "#1A1A1A"
+            },
+            "messages": {
+                "quest_name": "New Season \"Break\"",
+                "game_title": "Delta Force",
+                "game_publisher": "Team Jade"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "event_name": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "external_ids": []
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 1,
+                        "sku_id": "1391849610863050885",
+                        "asset": "acb6e17a-7b6c-414c-9108-312b8aeadc57.png",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "Desert Eagle - Action Time",
+                            "name_with_article": "a Desert Eagle - Action Time",
+                            "redemption_instructions_by_platform": {
+                                "0": "Redeem the code below on [Delta Force Official Website](https://www.playdeltaforce.com/en/cdkredeem.html) redemption page to get access to your reward."
+                            }
+                        },
+                        "approximate_count": null,
+                        "redemption_link": null
+                    }
+                ],
+                "rewards_expire_at": "2025-08-14T23:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
     }
 ]
