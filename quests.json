@@ -14357,5 +14357,109 @@
         "user_status": null,
         "targeted_content": [],
         "preview": false
+    },
+    {
+        "id": "1390424138509717524",
+        "config": {
+            "id": "1390424138509717524",
+            "config_version": 2,
+            "starts_at": "2025-07-11T04:00:00+00:00",
+            "expires_at": "2025-07-18T03:59:00+00:00",
+            "features": [
+                3,
+                9,
+                13,
+                14,
+                15,
+                16,
+                18,
+                19
+            ],
+            "application": {
+                "link": "https://hoyo.link/xcy7dYgU9",
+                "id": "1121201675240210523",
+                "name": "Honkai: Star Rail"
+            },
+            "assets": {
+                "hero": "4dd9779e-c1b1-4432-aaaa-097f8fcc9e29.png",
+                "hero_video": null,
+                "quest_bar_hero": "5c359c66-a0cf-4f87-a4ef-e99c726f746d.png",
+                "quest_bar_hero_video": null,
+                "game_tile": "ededa62e-df8a-4feb-8cad-848ad269d754.png",
+                "logotype": "054e9f68-a389-4272-baa1-aa98318d3beb.png"
+            },
+            "colors": {
+                "primary": "#4432ca",
+                "secondary": "#06064b"
+            },
+            "messages": {
+                "quest_name": "Honkai: Star Rail",
+                "game_title": "Honkai: Star Rail",
+                "game_publisher": "COGNOSPHERE PTE. LTD"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "event_name": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "external_ids": []
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "event_name": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "external_ids": [
+                            "PPSA08458_00",
+                            "PPSA08459_00"
+                        ]
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "type": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "external_ids": [
+                            "PPSA08458_00",
+                            "PPSA08459_00"
+                        ]
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 1,
+                        "sku_id": "1390424138509717525",
+                        "asset": "5c727b84-cc26-4d70-b44f-39dfbfc97ba7.png",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "V3.4 Quest Bundle",
+                            "name_with_article": "a V3.4 Quest Bundle",
+                            "redemption_instructions_by_platform": {
+                                "0": "How to redeem:\nVisit the code redemption page on the official website of [Honkai: Star Rail](https://hsr.hoyoverse.com/gift). \n\nLog in to your game account and follow the instructions to input the code. Once redeemed, you will receive the Bundle through the in-game mail system.\nRedemption Code Content: Stellar Jade ×30*, Credit ×20,000, Lost Gold Fragment ×4, Condensed Aether ×5, Traveler's Guide ×3.\n\n**Rewards are limited to 750,000 and will be available exclusively to the first 750,000 Trailblazers who successfully complete the Quest.**\n\n The distribution of rewards will be based on when the codes were redeemed after completing the stream task, and they will be distributed on a first-come, first-served basis.\n\n**The redemption code will expire on 2025/7/31 00:00:00 (UTC+8)**. We highly recommend redeeming it as soon as possible."
+                            }
+                        },
+                        "approximate_count": null,
+                        "redemption_link": null
+                    }
+                ],
+                "rewards_expire_at": "2025-08-17T03:59:00+00:00",
+                "platforms": [
+                    0
+                ]
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
     }
 ]
