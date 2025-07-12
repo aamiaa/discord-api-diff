@@ -14144,7 +14144,6 @@
                 14,
                 15,
                 16,
-                18,
                 19
             ],
             "application": {
@@ -14187,25 +14186,17 @@
                         "target": 96,
                         "assets": {
                             "video": {
-                                "url": "21af1447-bcd3-4feb-b8a2-8efd01048469.mp4",
-                                "width": 1920,
-                                "height": 1080,
+                                "url": "6bad95d7-6120-455f-b8f3-30105d475f37.mp4",
+                                "width": 1280,
+                                "height": 720,
                                 "thumbnail": "f17ca469-fcf5-4dbd-aa20-c0a6f2f13666.jpg",
                                 "caption": "811abb32-22d7-46d5-9359-b337f1d2d5a4.vtt",
                                 "transcript": "861fd499-d92f-48a5-8c4d-41718542a676.txt"
                             },
                             "video_low_res": {
-                                "url": "hls_video_720.mp4",
-                                "width": 1920,
-                                "height": 1080,
-                                "thumbnail": "f17ca469-fcf5-4dbd-aa20-c0a6f2f13666.jpg",
-                                "caption": "811abb32-22d7-46d5-9359-b337f1d2d5a4.vtt",
-                                "transcript": "861fd499-d92f-48a5-8c4d-41718542a676.txt"
-                            },
-                            "video_hls": {
-                                "url": "hls_video.m3u8",
-                                "width": 1920,
-                                "height": 1080,
+                                "url": "f3b9147a-554a-4245-93cc-36146a09c120.mp4",
+                                "width": 1280,
+                                "height": 720,
                                 "thumbnail": "f17ca469-fcf5-4dbd-aa20-c0a6f2f13666.jpg",
                                 "caption": "811abb32-22d7-46d5-9359-b337f1d2d5a4.vtt",
                                 "transcript": "861fd499-d92f-48a5-8c4d-41718542a676.txt"
@@ -14254,10 +14245,10 @@
                     "video_end_cta_button_label": "Buy Now"
                 },
                 "assets": {
-                    "video_player_video_hls": "hls_video.m3u8",
-                    "video_player_video": "21af1447-bcd3-4feb-b8a2-8efd01048469.mp4",
+                    "video_player_video_hls": null,
+                    "video_player_video": "6bad95d7-6120-455f-b8f3-30105d475f37.mp4",
                     "video_player_thumbnail": "f17ca469-fcf5-4dbd-aa20-c0a6f2f13666.jpg",
-                    "video_player_video_low_res": "hls_video_720.mp4",
+                    "video_player_video_low_res": "f3b9147a-554a-4245-93cc-36146a09c120.mp4",
                     "video_player_caption": "811abb32-22d7-46d5-9359-b337f1d2d5a4.vtt",
                     "video_player_transcript": "861fd499-d92f-48a5-8c4d-41718542a676.txt",
                     "quest_bar_preview_video": null,
