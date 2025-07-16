@@ -9752,5 +9752,134 @@
                 "randomizedSources": []
             }
         ]
+    },
+    {
+        "type": 1,
+        "id": "1394404301459427449",
+        "sku_id": "1394404301446578280",
+        "title": "Spirit Blossom Springs",
+        "description": "Show this effect when others view your profile.",
+        "accessibilityLabel": "Glowing green spirit orbs floating mysteriously above misty waters with supernatural light patterns.",
+        "animationType": 2,
+        "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-07-14/spirit_blossom_springs/thumbnail.png",
+        "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-07-14/spirit_blossom_springs/reduced_motion.png",
+        "effects": [
+            {
+                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-07-14/spirit_blossom_springs/intro.png",
+                "loop": false,
+                "height": 880,
+                "width": 450,
+                "duration": 5000,
+                "start": 0,
+                "loopDelay": 0,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "zIndex": 100,
+                "randomizedSources": []
+            },
+            {
+                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-07-14/spirit_blossom_springs/idle.png",
+                "loop": true,
+                "height": 880,
+                "width": 450,
+                "duration": 5000,
+                "start": 6000,
+                "loopDelay": 2000,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "zIndex": 101,
+                "randomizedSources": []
+            }
+        ]
+    },
+    {
+        "type": 1,
+        "id": "1394404301434261574",
+        "sku_id": "1394404301417349230",
+        "title": "Yunara's Aion Er'na",
+        "description": "Show this effect when others view your profile.",
+        "accessibilityLabel": "A majestic blue spirit dragon coiling through cosmic space with ethereal flames and celestial energy.",
+        "animationType": 2,
+        "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-07-14/yunaras_aion_erna/thumbnail.png",
+        "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-07-14/yunaras_aion_erna/reduced_motion.png",
+        "effects": [
+            {
+                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-07-14/yunaras_aion_erna/intro.png",
+                "loop": false,
+                "height": 880,
+                "width": 450,
+                "duration": 5000,
+                "start": 0,
+                "loopDelay": 0,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "zIndex": 100,
+                "randomizedSources": []
+            },
+            {
+                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-07-14/yunaras_aion_erna/idle.png",
+                "loop": true,
+                "height": 880,
+                "width": 450,
+                "duration": 2250,
+                "start": 5900,
+                "loopDelay": 2000,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "zIndex": 101,
+                "randomizedSources": []
+            }
+        ]
+    },
+    {
+        "type": 1,
+        "id": "1394404301480399019",
+        "sku_id": "1394404301467680879",
+        "title": "Ahri's Floating Ducks",
+        "description": "Show this effect when others view your profile.",
+        "accessibilityLabel": "A relaxed duck and Ahri float in a tranquil hot spring, surrounded by magical onsen mist.",
+        "animationType": 2,
+        "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-07-14/ahris_floating_ducks/thumbnail.png",
+        "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-07-14/ahris_floating_ducks/reduced_motion.png",
+        "effects": [
+            {
+                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-07-14/ahris_floating_ducks/intro.png",
+                "loop": false,
+                "height": 880,
+                "width": 450,
+                "duration": 5000,
+                "start": 0,
+                "loopDelay": 0,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "zIndex": 100,
+                "randomizedSources": []
+            },
+            {
+                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-07-14/ahris_floating_ducks/idle.png",
+                "loop": true,
+                "height": 880,
+                "width": 450,
+                "duration": 5000,
+                "start": 5600,
+                "loopDelay": 2000,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "zIndex": 101,
+                "randomizedSources": []
+            }
+        ]
     }
 ]

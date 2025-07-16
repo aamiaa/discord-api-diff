@@ -14976,5 +14976,138 @@
         "user_status": null,
         "targeted_content": [],
         "preview": false
+    },
+    {
+        "id": "1394758761553592452",
+        "config": {
+            "id": "1394758761553592452",
+            "config_version": 2,
+            "starts_at": "2025-07-16T17:00:00+00:00",
+            "expires_at": "2025-07-23T23:00:00+00:00",
+            "features": [
+                3,
+                9,
+                13,
+                14,
+                15,
+                16,
+                18,
+                19
+            ],
+            "application": {
+                "link": "https://www.nobody.movie/",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "aae96ae0-9efe-43b6-bf00-757d58476e47.jpg",
+                "hero_video": "5c7c0bd6-82d0-4d54-a3dd-5d211f9dfdfa.webm",
+                "quest_bar_hero": "63aafe6a-89ec-402d-97ed-6f26bb7083b6.jpg",
+                "quest_bar_hero_video": "6ff5eba7-2bd1-444c-b38a-b40ec176b109.webm",
+                "game_tile": "a31ab8c3-7b35-491b-9ea5-28c1b757d292.png",
+                "logotype": "a1d0bed7-e8f0-41ff-9d32-a65b53e6d169.png"
+            },
+            "colors": {
+                "primary": "#EFC81B",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Nobody 2",
+                "game_title": "Nobody 2",
+                "game_publisher": "Universal Pictures"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "event_name": "WATCH_VIDEO",
+                        "target": 88,
+                        "external_ids": []
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 88,
+                        "assets": {
+                            "video": {
+                                "url": "2b160f12-55a4-4de6-ab89-289493ff90a4.mp4",
+                                "width": 1280,
+                                "height": 720,
+                                "thumbnail": "62856bbc-2272-446f-bd65-f265fa67aa1f.jpg",
+                                "caption": "4eba05fe-9a43-4374-bac6-15a91445f0ea.vtt",
+                                "transcript": "695c64f9-4e3f-4f3c-8ca6-c6b406c09902.txt"
+                            },
+                            "video_low_res": {
+                                "url": "3f6f4817-5f74-4602-be8d-e2e8b144b97a.mp4",
+                                "width": 1280,
+                                "height": 720,
+                                "thumbnail": "62856bbc-2272-446f-bd65-f265fa67aa1f.jpg",
+                                "caption": "4eba05fe-9a43-4374-bac6-15a91445f0ea.vtt",
+                                "transcript": "695c64f9-4e3f-4f3c-8ca6-c6b406c09902.txt"
+                            },
+                            "video_hls": {
+                                "url": "video_hls.m3u8",
+                                "width": 1280,
+                                "height": 720,
+                                "thumbnail": "62856bbc-2272-446f-bd65-f265fa67aa1f.jpg",
+                                "caption": "4eba05fe-9a43-4374-bac6-15a91445f0ea.vtt",
+                                "transcript": "695c64f9-4e3f-4f3c-8ca6-c6b406c09902.txt"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "Nobody 2 BTS Video",
+                            "video_end_cta_title": "Nobody 2",
+                            "video_end_cta_subtitle": "Nobody 2 Only in Theaters August 15",
+                            "video_end_cta_button_label": "Learn More"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 orbs",
+                            "name_with_article": "700 orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "Default"
+                            }
+                        },
+                        "orb_quantity": 700
+                    }
+                ],
+                "rewards_expire_at": "2025-08-22T23:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "video_metadata": {
+                "messages": {
+                    "video_title": "Nobody 2 BTS Video",
+                    "video_end_cta_title": "Nobody 2",
+                    "video_end_cta_subtitle": "Nobody 2 Only in Theaters August 15",
+                    "video_end_cta_button_label": "Learn More"
+                },
+                "assets": {
+                    "video_player_video_hls": "video_hls.m3u8",
+                    "video_player_video": "2b160f12-55a4-4de6-ab89-289493ff90a4.mp4",
+                    "video_player_thumbnail": "62856bbc-2272-446f-bd65-f265fa67aa1f.jpg",
+                    "video_player_video_low_res": "3f6f4817-5f74-4602-be8d-e2e8b144b97a.mp4",
+                    "video_player_caption": "4eba05fe-9a43-4374-bac6-15a91445f0ea.vtt",
+                    "video_player_transcript": "695c64f9-4e3f-4f3c-8ca6-c6b406c09902.txt",
+                    "quest_bar_preview_video": null,
+                    "quest_bar_preview_thumbnail": null,
+                    "quest_home_video": null
+                }
+            }
+        }
     }
 ]
