@@ -14845,5 +14845,136 @@
                 }
             }
         }
+    },
+    {
+        "id": "1393318570192142446",
+        "config": {
+            "id": "1393318570192142446",
+            "config_version": 2,
+            "starts_at": "2025-07-15T22:00:00+00:00",
+            "expires_at": "2025-07-21T23:00:00+00:00",
+            "features": [
+                3,
+                9,
+                13,
+                14,
+                15,
+                16,
+                18,
+                19
+            ],
+            "application": {
+                "link": "https://snapgo.onelink.me/Qnpo/cxordk8l",
+                "id": "545364944258990091",
+                "name": "Marvel Snap"
+            },
+            "assets": {
+                "hero": "ca8ead62-36f1-449e-9ab3-8cb4030e2568.png",
+                "hero_video": null,
+                "quest_bar_hero": "c1f23f02-bbb4-4e3e-83c6-2f1ca39cc5dc.jpg",
+                "quest_bar_hero_video": "e427ed34-81ef-426b-a4f5-966d2cf37548.mp4",
+                "game_tile": "34c84afc-39c7-457d-b3f2-7364697eabc6.png",
+                "logotype": "b78ec7d4-fa69-488a-a9d9-63dfe8068890.png"
+            },
+            "colors": {
+                "primary": "#681589",
+                "secondary": "#d1e0f7"
+            },
+            "messages": {
+                "quest_name": "Here's The Thing...",
+                "game_title": "Marvel Snap",
+                "game_publisher": "Second Dinner"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "event_name": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 32,
+                        "external_ids": []
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 32,
+                        "assets": {
+                            "video": {
+                                "url": "705a704f-695b-41c1-b8c8-b1b15dc53ed6.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "c331df00-7739-41d5-994a-e8a68ef25736.jpg",
+                                "caption": "1df9092f-5adf-44de-89f2-b5b40651313f.vtt",
+                                "transcript": "eacd2423-afa6-4e64-ab5d-a8e62bcf1608.txt"
+                            },
+                            "video_low_res": {
+                                "url": "d737a3c9-e243-4447-b683-cc75810d9a63.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "c331df00-7739-41d5-994a-e8a68ef25736.jpg",
+                                "caption": "1df9092f-5adf-44de-89f2-b5b40651313f.vtt",
+                                "transcript": "eacd2423-afa6-4e64-ab5d-a8e62bcf1608.txt"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "Thing Versus Thing",
+                            "video_end_cta_title": "Play Marvel Snap",
+                            "video_end_cta_subtitle": "Play Marvel Snap",
+                            "video_end_cta_button_label": "Play Now"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 1,
+                        "sku_id": "1393318570192142447",
+                        "asset": "180b5276-ea12-4dda-88c0-12cd23196b69.png",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "Premium Mystery Variant and Border",
+                            "name_with_article": "a Premium Mystery Variant and Border",
+                            "redemption_instructions_by_platform": {
+                                "0": "You've collected a Marvel Snap Reward!\nYou just earned a Premium Mystery Variant and Mystery Border.\nPlayers must go to shop.marvelsnap.com\nlogin to their account, and click \"redeem code\" on the top banner, or scroll to the bottom of the webshop. Codes are case sensitive!"
+                            }
+                        },
+                        "approximate_count": null,
+                        "redemption_link": null
+                    }
+                ],
+                "rewards_expire_at": "2025-08-19T23:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "video_metadata": {
+                "messages": {
+                    "video_title": "Thing Versus Thing",
+                    "video_end_cta_title": "Play Marvel Snap",
+                    "video_end_cta_subtitle": "Play Marvel Snap",
+                    "video_end_cta_button_label": "Play Now"
+                },
+                "assets": {
+                    "video_player_video_hls": null,
+                    "video_player_video": "705a704f-695b-41c1-b8c8-b1b15dc53ed6.mp4",
+                    "video_player_thumbnail": "c331df00-7739-41d5-994a-e8a68ef25736.jpg",
+                    "video_player_video_low_res": "d737a3c9-e243-4447-b683-cc75810d9a63.mp4",
+                    "video_player_caption": "1df9092f-5adf-44de-89f2-b5b40651313f.vtt",
+                    "video_player_transcript": "eacd2423-afa6-4e64-ab5d-a8e62bcf1608.txt",
+                    "quest_bar_preview_video": null,
+                    "quest_bar_preview_thumbnail": null,
+                    "quest_home_video": null
+                }
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
     }
 ]
