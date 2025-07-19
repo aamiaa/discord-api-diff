@@ -15238,5 +15238,123 @@
                 }
             }
         }
+    },
+    {
+        "id": "1395834076476342382",
+        "config": {
+            "id": "1395834076476342382",
+            "config_version": 2,
+            "starts_at": "2025-07-19T17:00:00+00:00",
+            "expires_at": "2025-07-26T23:00:00+00:00",
+            "features": [
+                3,
+                9,
+                13,
+                14,
+                15,
+                16,
+                18,
+                19
+            ],
+            "application": {
+                "link": "https://discord.com/invite/marvelrivals",
+                "id": "1314395942253756416",
+                "name": "Marvel Rivals"
+            },
+            "assets": {
+                "hero": "9c69b25a-9a85-44f4-8c9d-06b4003976d1.jpg",
+                "hero_video": "e73371a8-2e61-4aee-bcd1-a9d06f0b7f9f.webm",
+                "quest_bar_hero": "8552eb57-6f09-4268-8db7-8084271d026f.jpg",
+                "quest_bar_hero_video": "beddf897-e1cd-4765-85c5-6917427ad3a8.webm",
+                "game_tile": "270fda6f-58cf-454a-a830-7f922e69c8cd.png",
+                "logotype": "3ffd1662-c4c1-41d1-9bf0-bcef3b9e1555.png"
+            },
+            "colors": {
+                "primary": "#7bc5e9",
+                "secondary": "#B49E15"
+            },
+            "messages": {
+                "quest_name": "Marvel Rivals Summer Special",
+                "game_title": "Marvel Rivals",
+                "game_publisher": "NetEase Games"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "event_name": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "external_ids": []
+                    },
+                    "PLAY_ON_XBOX": {
+                        "event_name": "PLAY_ON_XBOX",
+                        "target": 900,
+                        "external_ids": [
+                            "1794906646"
+                        ]
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "event_name": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "external_ids": [
+                            "PPSA21669_00",
+                            "PPSA21668_00"
+                        ]
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900
+                    },
+                    "PLAY_ON_XBOX": {
+                        "type": "PLAY_ON_XBOX",
+                        "target": 900,
+                        "external_ids": [
+                            "1794906646"
+                        ]
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "type": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "external_ids": [
+                            "PPSA21669_00",
+                            "PPSA21668_00"
+                        ]
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 1,
+                        "sku_id": "1395834076476342383",
+                        "asset": "71f22c79-b583-460c-b5ba-f42468338eae.png",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "Summer Special Spray Paint",
+                            "name_with_article": "a Summer Special Spray Paint",
+                            "redemption_instructions_by_platform": {
+                                "0": "Launch Marvel Rivals  \nPress the Gear Icon ⚙️ in the top right of the screen  \nSelect 'Bundle Code'  \nEnter the code  \n\n**Show off your Summer Special spray in-game!**"
+                            }
+                        },
+                        "approximate_count": null,
+                        "redemption_link": null
+                    }
+                ],
+                "rewards_expire_at": "2025-08-25T23:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
     }
 ]
