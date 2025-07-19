@@ -9881,5 +9881,134 @@
                 "randomizedSources": []
             }
         ]
+    },
+    {
+        "type": 1,
+        "id": "1395905165965393972",
+        "sku_id": "1395905165944426577",
+        "title": "Silver Surfer",
+        "description": "Show this effect when others view your profile.",
+        "accessibilityLabel": "Silver Surfer glides through space beneath the profile with shadows and stardust trailing behind.",
+        "animationType": 2,
+        "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-07-18/silver_surfer/thumbnail.png",
+        "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-07-18/silver_surfer/reduced_motion.png",
+        "effects": [
+            {
+                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-07-18/silver_surfer/intro.png",
+                "loop": false,
+                "height": 880,
+                "width": 450,
+                "duration": 4333,
+                "start": 0,
+                "loopDelay": 0,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "zIndex": 100,
+                "randomizedSources": []
+            },
+            {
+                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-07-18/silver_surfer/idle.png",
+                "loop": true,
+                "height": 880,
+                "width": 450,
+                "duration": 3333,
+                "start": 5000,
+                "loopDelay": 3000,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "zIndex": 101,
+                "randomizedSources": []
+            }
+        ]
+    },
+    {
+        "type": 1,
+        "id": "1395905165936033873",
+        "sku_id": "1395905165919260805",
+        "title": "The Fantastic Four",
+        "description": "Show this effect when others view your profile.",
+        "accessibilityLabel": "The Fantastic Four team including Mr. Fantastic, Human Torch, Invisible Woman, and The Thing pose around the profile in a heroic stance.",
+        "animationType": 2,
+        "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-07-18/the_fantastic_four/thumbnail.png",
+        "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-07-18/the_fantastic_four/reduced_motion.png",
+        "effects": [
+            {
+                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-07-18/the_fantastic_four/intro.png",
+                "loop": false,
+                "height": 880,
+                "width": 450,
+                "duration": 3083,
+                "start": 0,
+                "loopDelay": 0,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "zIndex": 100,
+                "randomizedSources": []
+            },
+            {
+                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-07-18/the_fantastic_four/idle.png",
+                "loop": true,
+                "height": 880,
+                "width": 450,
+                "duration": 2917,
+                "start": 4000,
+                "loopDelay": 3000,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "zIndex": 101,
+                "randomizedSources": []
+            }
+        ]
+    },
+    {
+        "type": 1,
+        "id": "1395905165911134290",
+        "sku_id": "1395905165894095000",
+        "title": "Galactus",
+        "description": "Show this effect when others view your profile.",
+        "accessibilityLabel": "Galactus reaches over the profile with one hand extended while bursts of pink blue and black energy swirl around him.",
+        "animationType": 2,
+        "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-07-18/galactus/thumbnail.png",
+        "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-07-18/galactus/reduced_motion.png",
+        "effects": [
+            {
+                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-07-18/galactus/intro.png",
+                "loop": false,
+                "height": 880,
+                "width": 450,
+                "duration": 3083,
+                "start": 0,
+                "loopDelay": 0,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "zIndex": 100,
+                "randomizedSources": []
+            },
+            {
+                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-07-18/galactus/idle.png",
+                "loop": true,
+                "height": 880,
+                "width": 450,
+                "duration": 5000,
+                "start": 4000,
+                "loopDelay": 3000,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "zIndex": 101,
+                "randomizedSources": []
+            }
+        ]
     }
 ]
