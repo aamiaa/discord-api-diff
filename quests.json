@@ -15356,5 +15356,137 @@
         "user_status": null,
         "targeted_content": [],
         "preview": false
+    },
+    {
+        "id": "1395186522361434294",
+        "config": {
+            "id": "1395186522361434294",
+            "config_version": 2,
+            "starts_at": "2025-07-21T17:00:00+00:00",
+            "expires_at": "2025-07-27T23:00:00+00:00",
+            "features": [
+                3,
+                9,
+                13,
+                14,
+                15,
+                16,
+                18,
+                19
+            ],
+            "application": {
+                "link": "https://codmatvi.onelink.me/jYL7/8b7cnoap",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "8fb5e9b8-e31c-4870-a845-320327d0c0b8.png",
+                "hero_video": "b4101b52-ff89-49bf-a05a-cb2b1370b8f3.mp4",
+                "quest_bar_hero": "4dd4f450-8248-441d-a256-909989ad1e49.jpg",
+                "quest_bar_hero_video": "73443898-7894-4e41-9311-f413a2e3abd8.mp4",
+                "game_tile": "83ba3061-ab51-4229-b58f-bba3d15515d5.png",
+                "logotype": "97f1b687-3da3-4f13-9c7e-65d0a079ed07.png"
+            },
+            "colors": {
+                "primary": "#ffe93b",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "CALL OF DUTY: MOBILE",
+                "game_title": "Call of Duty: Mobile",
+                "game_publisher": "Activision"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "event_name": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 36,
+                        "external_ids": []
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 36,
+                        "assets": {
+                            "video": {
+                                "url": "ccd08ff4-dc4a-49d3-852b-a33c326239c8.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "172c07ca-312e-4ec9-821f-e4bdb053e155.png",
+                                "caption": "eacf2af0-8e51-42d0-8f96-2636c45774cf.vtt",
+                                "transcript": "936add58-93d7-4bc6-98bb-c38179d59047.txt"
+                            },
+                            "video_low_res": {
+                                "url": "220f5bb3-5cca-418e-b29a-e62788cfbabb.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "172c07ca-312e-4ec9-821f-e4bdb053e155.png",
+                                "caption": "eacf2af0-8e51-42d0-8f96-2636c45774cf.vtt",
+                                "transcript": "936add58-93d7-4bc6-98bb-c38179d59047.txt"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "Call of Duty: Mobile",
+                            "video_end_cta_title": "Call of Duty: Mobile",
+                            "video_end_cta_subtitle": "Call of Duty: Mobile Download Now",
+                            "video_end_cta_button_label": "Play Now"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 3,
+                        "sku_id": "1395429488040476693",
+                        "asset": "7df3e7dc-047e-4a31-8ce0-620e539b8053.mp4",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "Call of Duty: Mobile Avatar Decoration",
+                            "name_with_article": "a Call of Duty: Mobile Avatar Decoration",
+                            "redemption_instructions_by_platform": {
+                                "0": "Default"
+                            }
+                        },
+                        "expires_at": "2025-09-25T23:00:00+00:00",
+                        "expires_at_premium": null,
+                        "expiration_mode": 1
+                    }
+                ],
+                "rewards_expire_at": "2025-08-26T23:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "video_metadata": {
+                "messages": {
+                    "video_title": "Call of Duty: Mobile",
+                    "video_end_cta_title": "Call of Duty: Mobile",
+                    "video_end_cta_subtitle": "Call of Duty: Mobile Download Now",
+                    "video_end_cta_button_label": "Play Now"
+                },
+                "assets": {
+                    "video_player_video_hls": null,
+                    "video_player_video": "ccd08ff4-dc4a-49d3-852b-a33c326239c8.mp4",
+                    "video_player_thumbnail": "172c07ca-312e-4ec9-821f-e4bdb053e155.png",
+                    "video_player_video_low_res": "220f5bb3-5cca-418e-b29a-e62788cfbabb.mp4",
+                    "video_player_caption": "eacf2af0-8e51-42d0-8f96-2636c45774cf.vtt",
+                    "video_player_transcript": "936add58-93d7-4bc6-98bb-c38179d59047.txt",
+                    "quest_bar_preview_video": null,
+                    "quest_bar_preview_thumbnail": null,
+                    "quest_home_video": null
+                }
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
     }
 ]
