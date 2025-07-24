@@ -15616,5 +15616,94 @@
         "user_status": null,
         "targeted_content": [],
         "preview": false
+    },
+    {
+        "id": "1395508875880566884",
+        "config": {
+            "id": "1395508875880566884",
+            "config_version": 2,
+            "starts_at": "2025-07-24T15:00:00+00:00",
+            "expires_at": "2025-08-10T23:00:00+00:00",
+            "features": [
+                3,
+                9,
+                13,
+                14,
+                15,
+                16,
+                18,
+                19
+            ],
+            "application": {
+                "link": "https://www.playsupervive.com/",
+                "id": "1257422382000246785",
+                "name": "SUPERVIVE"
+            },
+            "assets": {
+                "hero": "c8175ee0-f37d-4d84-bcc7-bfdc98fff57b.png",
+                "hero_video": "b71bc035-f3e9-4e1f-a7ae-1683f6c98252.webm",
+                "quest_bar_hero": "ee663de5-b4dd-41f5-8c28-509c83291fb3.png",
+                "quest_bar_hero_video": "c73db6aa-6d25-492d-a92a-b2161fdc7201.webm",
+                "game_tile": "859d719a-afd1-4aaa-b6ad-c9037a1bba3f.png",
+                "logotype": "8e4229ff-f5b5-490b-a427-eef9c284420f.png"
+            },
+            "colors": {
+                "primary": "#9724f0",
+                "secondary": "#0d0d2e"
+            },
+            "messages": {
+                "quest_name": "SUPERVIVE 1.0",
+                "game_title": "SUPERVIVE",
+                "game_publisher": "Theorycraft Games"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "event_name": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "external_ids": []
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 3,
+                        "sku_id": "1397600396066951188",
+                        "asset": "1557b654-3385-4621-9417-1586542a3270.mp4",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "Chomp Chomp Avatar Decoration",
+                            "name_with_article": "a Chomp Chomp Avatar Decoration",
+                            "redemption_instructions_by_platform": {
+                                "0": "Default"
+                            }
+                        },
+                        "expires_at": "2025-10-09T23:00:00+00:00",
+                        "expires_at_premium": null,
+                        "expiration_mode": 3
+                    }
+                ],
+                "rewards_expire_at": "2025-09-09T23:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
     }
 ]
