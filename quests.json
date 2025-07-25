@@ -8994,7 +8994,7 @@
             "id": "1333839522189938740",
             "config_version": 2,
             "starts_at": "2025-07-14T14:00:00+00:00",
-            "expires_at": "2025-07-28T23:00:00+00:00",
+            "expires_at": "2025-08-15T23:00:00+00:00",
             "features": [
                 3,
                 9,
@@ -9083,7 +9083,7 @@
                         "orb_quantity": 150
                     }
                 ],
-                "rewards_expire_at": "2025-08-27T23:00:00+00:00",
+                "rewards_expire_at": "2025-09-14T23:00:00+00:00",
                 "platforms": [
                     0
                 ]
@@ -15705,5 +15705,134 @@
         "user_status": null,
         "targeted_content": [],
         "preview": false
+    },
+    {
+        "id": "1396926597692395620",
+        "config": {
+            "id": "1396926597692395620",
+            "config_version": 2,
+            "starts_at": "2025-07-25T17:00:00+00:00",
+            "expires_at": "2025-08-04T23:00:00+00:00",
+            "features": [
+                3,
+                9,
+                13,
+                14,
+                15,
+                16,
+                18,
+                19
+            ],
+            "application": {
+                "link": "https://www.thebadguysmovie.ca/",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "252ef81d-40bd-4486-8156-44f46d09e598.jpg",
+                "hero_video": "ef516ac2-5409-4c05-ab00-0a484464c60f.webm",
+                "quest_bar_hero": "573641b9-194c-44b0-8575-24bc83c00924.png",
+                "quest_bar_hero_video": "ac8552df-f772-4181-9b69-5d3b3757516a.webm",
+                "game_tile": "e040bff7-ec0e-4ee5-b210-664e22afbc1a.png",
+                "logotype": "e2f4c688-4642-45fe-a552-ba3a6a93f974.png"
+            },
+            "colors": {
+                "primary": "#FF7500",
+                "secondary": "#AF231C"
+            },
+            "messages": {
+                "quest_name": "The Bad Guys 2",
+                "game_title": "The Bad Guys 2",
+                "game_publisher": "Universal Pictures"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "event_name": "WATCH_VIDEO",
+                        "target": 99,
+                        "external_ids": []
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 99,
+                        "assets": {
+                            "video": {
+                                "url": "04837583-bce6-4dec-8add-4a32485b8c66.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "5702826c-dcd3-4bcb-be50-5e845d187436.jpg",
+                                "caption": "5d41cd91-171c-440f-a63e-f6f66c0a0a3b.vtt",
+                                "transcript": "052329c2-c67a-42eb-83bb-ec540eb4154b.txt"
+                            },
+                            "video_low_res": {
+                                "url": "69e7a4a8-71c6-420b-bdfc-84e99d37f046.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "5702826c-dcd3-4bcb-be50-5e845d187436.jpg",
+                                "caption": "5d41cd91-171c-440f-a63e-f6f66c0a0a3b.vtt",
+                                "transcript": "052329c2-c67a-42eb-83bb-ec540eb4154b.txt"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "The Bad Guys 2 Trailer",
+                            "video_end_cta_title": "The Bad Guys 2",
+                            "video_end_cta_subtitle": "The Bad Guys 2 – In Theatres August 1",
+                            "video_end_cta_button_label": "Get Tickets"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 3,
+                        "sku_id": "1396932803622473749",
+                        "asset": "ca6f5a78-88c9-4343-aaea-d4142360379f.mp4",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "Vault Heist Avatar Decoration",
+                            "name_with_article": "a Vault Heist Avatar Decoration",
+                            "redemption_instructions_by_platform": {
+                                "0": "Default"
+                            }
+                        },
+                        "expires_at": "2025-10-03T23:00:00+00:00",
+                        "expires_at_premium": null,
+                        "expiration_mode": 3
+                    }
+                ],
+                "rewards_expire_at": "2025-09-03T23:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "video_metadata": {
+                "messages": {
+                    "video_title": "The Bad Guys 2 Trailer",
+                    "video_end_cta_title": "The Bad Guys 2",
+                    "video_end_cta_subtitle": "The Bad Guys 2 – In Theatres August 1",
+                    "video_end_cta_button_label": "Get Tickets"
+                },
+                "assets": {
+                    "video_player_video_hls": null,
+                    "video_player_video": "04837583-bce6-4dec-8add-4a32485b8c66.mp4",
+                    "video_player_thumbnail": "5702826c-dcd3-4bcb-be50-5e845d187436.jpg",
+                    "video_player_video_low_res": "69e7a4a8-71c6-420b-bdfc-84e99d37f046.mp4",
+                    "video_player_caption": "5d41cd91-171c-440f-a63e-f6f66c0a0a3b.vtt",
+                    "video_player_transcript": "052329c2-c67a-42eb-83bb-ec540eb4154b.txt",
+                    "quest_bar_preview_video": null,
+                    "quest_bar_preview_thumbnail": null,
+                    "quest_home_video": null
+                }
+            }
+        }
     }
 ]
