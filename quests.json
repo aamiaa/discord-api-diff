@@ -15834,5 +15834,137 @@
                 }
             }
         }
+    },
+    {
+        "id": "1398321310551244820",
+        "config": {
+            "id": "1398321310551244820",
+            "config_version": 2,
+            "starts_at": "2025-07-28T17:00:39+00:00",
+            "expires_at": "2025-08-07T23:00:39+00:00",
+            "features": [
+                3,
+                9,
+                13,
+                14,
+                15,
+                16,
+                18,
+                19
+            ],
+            "application": {
+                "link": "https://www.peacocktv.com/stream-tv/twisted-metal",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "12758f06-ead4-482f-a334-7346a6ccb24e.jpg",
+                "hero_video": "21051fcf-996d-4c51-9976-c9b5c2b68071.webm",
+                "quest_bar_hero": "255b552f-b1a6-4fed-a5d7-6f1a4d1028eb.jpg",
+                "quest_bar_hero_video": "3329287c-82bd-4fb6-9bf1-d13b92fe6b38.webm",
+                "game_tile": "3cafff82-ee4f-46af-b6f7-842bb60c124e.png",
+                "logotype": "754c7364-fb1d-436f-b53c-468bae8f70a3.png"
+            },
+            "colors": {
+                "primary": "#CB0730",
+                "secondary": "#7a7d8a"
+            },
+            "messages": {
+                "quest_name": "Twisted Metal S2",
+                "game_title": "New Season July 31st on Peacock",
+                "game_publisher": "Peacock"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "event_name": "WATCH_VIDEO",
+                        "target": 99,
+                        "external_ids": []
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 99,
+                        "assets": {
+                            "video": {
+                                "url": "d3044ed2-382c-46d4-840a-c7d4b13c7978.mp4",
+                                "width": 1280,
+                                "height": 720,
+                                "thumbnail": "db384ddb-e378-454a-b9cb-64222f2bc3ae.png",
+                                "caption": "465f431d-a453-4e2b-9b57-a0f6775a8c46.vtt",
+                                "transcript": "addcbde7-0c4f-41b6-a916-87c795e79960.txt"
+                            },
+                            "video_low_res": {
+                                "url": "099a8662-b662-46a1-8310-d9a042a732c5.mp4",
+                                "width": 1280,
+                                "height": 720,
+                                "thumbnail": "db384ddb-e378-454a-b9cb-64222f2bc3ae.png",
+                                "caption": "465f431d-a453-4e2b-9b57-a0f6775a8c46.vtt",
+                                "transcript": "addcbde7-0c4f-41b6-a916-87c795e79960.txt"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "Twisted Metal S2",
+                            "video_end_cta_title": "Twisted Metal S2",
+                            "video_end_cta_subtitle": "Stream Twisted Metal S2 on Peacock July 31",
+                            "video_end_cta_button_label": "Learn More"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 3,
+                        "sku_id": "1398337452745162762",
+                        "asset": "07c584b6-9291-4f3d-8d21-75d62f8ce641.mp4",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "Sweet Tooth Avatar decoration",
+                            "name_with_article": "a Sweet Tooth Avatar decoration",
+                            "redemption_instructions_by_platform": {
+                                "0": "Default"
+                            }
+                        },
+                        "expires_at": "2025-10-06T23:00:00+00:00",
+                        "expires_at_premium": null,
+                        "expiration_mode": 3
+                    }
+                ],
+                "rewards_expire_at": "2025-09-06T23:00:39+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "video_metadata": {
+                "messages": {
+                    "video_title": "Twisted Metal S2",
+                    "video_end_cta_title": "Twisted Metal S2",
+                    "video_end_cta_subtitle": "Stream Twisted Metal S2 on Peacock July 31",
+                    "video_end_cta_button_label": "Learn More"
+                },
+                "assets": {
+                    "video_player_video_hls": null,
+                    "video_player_video": "d3044ed2-382c-46d4-840a-c7d4b13c7978.mp4",
+                    "video_player_thumbnail": "db384ddb-e378-454a-b9cb-64222f2bc3ae.png",
+                    "video_player_video_low_res": "099a8662-b662-46a1-8310-d9a042a732c5.mp4",
+                    "video_player_caption": "465f431d-a453-4e2b-9b57-a0f6775a8c46.vtt",
+                    "video_player_transcript": "addcbde7-0c4f-41b6-a916-87c795e79960.txt",
+                    "quest_bar_preview_video": null,
+                    "quest_bar_preview_thumbnail": null,
+                    "quest_home_video": null
+                }
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
     }
 ]
