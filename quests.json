@@ -15906,6 +15906,14 @@
                                 "thumbnail": "db384ddb-e378-454a-b9cb-64222f2bc3ae.png",
                                 "caption": "465f431d-a453-4e2b-9b57-a0f6775a8c46.vtt",
                                 "transcript": "addcbde7-0c4f-41b6-a916-87c795e79960.txt"
+                            },
+                            "video_hls": {
+                                "url": "d3044ed2-382c-46d4-840a-c7d4b13c7978.m3u8",
+                                "width": 1280,
+                                "height": 720,
+                                "thumbnail": "db384ddb-e378-454a-b9cb-64222f2bc3ae.png",
+                                "caption": "465f431d-a453-4e2b-9b57-a0f6775a8c46.vtt",
+                                "transcript": "addcbde7-0c4f-41b6-a916-87c795e79960.txt"
                             }
                         },
                         "messages": {
@@ -15951,7 +15959,7 @@
                     "video_end_cta_button_label": "Learn More"
                 },
                 "assets": {
-                    "video_player_video_hls": null,
+                    "video_player_video_hls": "d3044ed2-382c-46d4-840a-c7d4b13c7978.m3u8",
                     "video_player_video": "d3044ed2-382c-46d4-840a-c7d4b13c7978.mp4",
                     "video_player_thumbnail": "db384ddb-e378-454a-b9cb-64222f2bc3ae.png",
                     "video_player_video_low_res": "099a8662-b662-46a1-8310-d9a042a732c5.mp4",
