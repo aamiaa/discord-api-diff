@@ -15966,5 +15966,128 @@
         "user_status": null,
         "targeted_content": [],
         "preview": false
+    },
+    {
+        "id": "1399419392235933776",
+        "config": {
+            "id": "1399419392235933776",
+            "config_version": 2,
+            "starts_at": "2025-07-29T17:00:03+00:00",
+            "expires_at": "2025-08-05T23:00:03+00:00",
+            "features": [
+                3,
+                9,
+                13,
+                14,
+                15,
+                16,
+                18,
+                19
+            ],
+            "application": {
+                "link": "https://deadbydaylight.com/buythegame-dlc/",
+                "id": "357607133254254632",
+                "name": "Dead by Daylight"
+            },
+            "assets": {
+                "hero": "6c6c1bf5-d4b4-4224-8867-1385e861f648.png",
+                "hero_video": null,
+                "quest_bar_hero": "5b919669-e85e-4a57-9414-8716c6556871.png",
+                "quest_bar_hero_video": null,
+                "game_tile": "c4bf9607-746b-40e7-8dcb-7c3012ece073.png",
+                "logotype": "802db848-29da-4a5a-b73c-7cebd15abc3b.png"
+            },
+            "colors": {
+                "primary": "#ed1c24",
+                "secondary": "#64a1e4"
+            },
+            "messages": {
+                "quest_name": "Dead by Daylight: The Walking Dead",
+                "game_title": "Dead by Daylight",
+                "game_publisher": "Behaviour Interactive"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "event_name": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "external_ids": []
+                    },
+                    "PLAY_ON_XBOX": {
+                        "event_name": "PLAY_ON_XBOX",
+                        "target": 900,
+                        "external_ids": [
+                            "102425831"
+                        ]
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "event_name": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "external_ids": [
+                            "CUSA08444_00",
+                            "PPSA02049_00",
+                            "PPSA02048_00",
+                            "CUSA08032_00"
+                        ]
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900
+                    },
+                    "PLAY_ON_XBOX": {
+                        "type": "PLAY_ON_XBOX",
+                        "target": 900,
+                        "external_ids": [
+                            "102425831"
+                        ]
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "type": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "external_ids": [
+                            "CUSA08444_00",
+                            "PPSA02049_00",
+                            "PPSA02048_00",
+                            "CUSA08032_00"
+                        ]
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 3,
+                        "sku_id": "1399543537032237066",
+                        "asset": "429b6a9b-70be-4be5-b994-d88f0f00c972.mp4",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "The Entity Avatar Decoration",
+                            "name_with_article": "The Entity Avatar Decoration",
+                            "redemption_instructions_by_platform": {
+                                "0": "Default"
+                            }
+                        },
+                        "expires_at": "2025-10-04T23:00:00+00:00",
+                        "expires_at_premium": null,
+                        "expiration_mode": 3
+                    }
+                ],
+                "rewards_expire_at": "2025-09-04T23:00:03+00:00",
+                "platforms": [
+                    0
+                ]
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
     }
 ]
