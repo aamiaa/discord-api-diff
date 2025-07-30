@@ -16097,5 +16097,93 @@
         "user_status": null,
         "targeted_content": [],
         "preview": false
+    },
+    {
+        "id": "1398382949413421218",
+        "config": {
+            "id": "1398382949413421218",
+            "config_version": 2,
+            "starts_at": "2025-07-30T17:00:35+00:00",
+            "expires_at": "2025-08-05T23:00:35+00:00",
+            "features": [
+                3,
+                9,
+                13,
+                14,
+                15,
+                16,
+                18,
+                19
+            ],
+            "application": {
+                "link": "https://p.itddo2.com/DCquestAugust",
+                "id": "1238113262969557002",
+                "name": "Arena Breakout: Infinite"
+            },
+            "assets": {
+                "hero": "9b239ef6-338f-4e09-830f-7dfd0453007d.jpg",
+                "hero_video": null,
+                "quest_bar_hero": "b623a453-01b4-49c3-9232-883011546279.jpg",
+                "quest_bar_hero_video": null,
+                "game_tile": "6bbc177d-afce-45d8-b2fd-14e7882a8ea3.png",
+                "logotype": "4b12e282-03ff-46dd-aca9-7f262d7a7f55.png"
+            },
+            "colors": {
+                "primary": "#7F7E01",
+                "secondary": "#13DCCA"
+            },
+            "messages": {
+                "quest_name": "ABI×Cyberpunk 2077",
+                "game_title": "Arena Breakout: Infinite",
+                "game_publisher": "Morefun Studios"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "event_name": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "external_ids": []
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 1,
+                        "sku_id": "1398382949413421219",
+                        "asset": "c25f0ae4-4828-4f13-b152-18b392d520fb.png",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "SVDS Skin & ABI×Cyberpunk 2077 Bundle",
+                            "name_with_article": "a SVDS Skin & ABI×Cyberpunk 2077 Bundle",
+                            "redemption_instructions_by_platform": {
+                                "0": "Congratulations on completing the quest! You have two ways to claim your reward:\n\n**Path 1**\n- Visit [Code Redemption Page](https://www.arenabreakoutinfinite.com/act/a20240731cdk) to redeem the code.\n**Path 2**\n- Launch the game and find **Reward Code Redemption** in the **Events** section.\n\n**Rewards**\n- **Light Desert Digital Camo SVDS Marksman Rifle (skin)**\n- **ABI & Cyberpunk 2077 Collab Bundle ** \n\n**Support and Assistance**\n**Arena Breakout: Infinite ** is now available to play for free.  \nIf you encounter any issues during the redemption process, please join our Discord server: [Arena Breakout: Infinite](https://discord.com/invite/arenabreakoutinfinite) for assistance and the latest information on future events and more rewards.\n"
+                            }
+                        },
+                        "approximate_count": null,
+                        "redemption_link": null
+                    }
+                ],
+                "rewards_expire_at": "2025-09-04T23:00:35+00:00",
+                "platforms": [
+                    0
+                ]
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
     }
 ]
