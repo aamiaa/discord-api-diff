@@ -16185,5 +16185,90 @@
         "user_status": null,
         "targeted_content": [],
         "preview": false
+    },
+    {
+        "id": "1396951426680488128",
+        "config": {
+            "id": "1396951426680488128",
+            "config_version": 2,
+            "starts_at": "2025-07-31T00:00:00+00:00",
+            "expires_at": "2025-08-06T23:00:00+00:00",
+            "features": [
+                3,
+                9,
+                13,
+                14,
+                15,
+                16,
+                18,
+                19
+            ],
+            "application": {
+                "link": " https://store.steampowered.com/app/3104410/Terminull_Brigade/",
+                "id": "1400150104182095955",
+                "name": "Terminull Brigade"
+            },
+            "assets": {
+                "hero": "96b8f48e-0859-45d5-932a-9ed4e2afe04b.jpg",
+                "hero_video": "98368afc-3a8a-4b18-b7d6-45557daf5b04.webm",
+                "quest_bar_hero": "5e9529f0-9ef9-40c0-9230-b03049f98b01.jpg",
+                "quest_bar_hero_video": "679f2e81-779d-4a9b-b6ee-4974018fa56d.webm",
+                "game_tile": "320b0b2c-490f-46f6-9961-93edd7e0ffc7.png",
+                "logotype": "b7a43d47-0b92-409a-9c4e-8c8ff1f76d8e.png"
+            },
+            "colors": {
+                "primary": "#223dff",
+                "secondary": "#c00fa3"
+            },
+            "messages": {
+                "quest_name": "Terminull Brigade",
+                "game_title": "Terminull Brigade",
+                "game_publisher": "Level Infinite"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "event_name": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "external_ids": []
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 orbs",
+                            "name_with_article": "700 orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "Default"
+                            }
+                        },
+                        "orb_quantity": 700
+                    }
+                ],
+                "rewards_expire_at": "2025-09-05T23:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
     }
 ]
