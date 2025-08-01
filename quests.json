@@ -16267,5 +16267,130 @@
         "user_status": null,
         "targeted_content": [],
         "preview": false
+    },
+    {
+        "id": "1399470213967380533",
+        "config": {
+            "id": "1399470213967380533",
+            "config_version": 2,
+            "starts_at": "2025-08-01T20:30:59+00:00",
+            "expires_at": "2025-08-11T06:59:59+00:00",
+            "features": [
+                3,
+                9,
+                13,
+                14,
+                15,
+                16,
+                18,
+                19
+            ],
+            "application": {
+                "link": "https://www.fandango.com/weapons",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "ee15af81-d0aa-4174-a476-0037244632ab.png",
+                "hero_video": "3480e9aa-44a8-4435-89fa-6a1f1febdf20.webm",
+                "quest_bar_hero": "79b76d7a-e23a-4d63-af27-1e27d3accc68.jpg",
+                "quest_bar_hero_video": "b6d6f75e-c1e4-427f-96ee-18845a6923cf.webm",
+                "game_tile": "a9d4873f-1920-407c-99eb-a433af8d2dcf.png",
+                "logotype": "717a08a7-5bfa-4cb9-8fcd-22926a35ce34.png"
+            },
+            "colors": {
+                "primary": "#FF0000",
+                "secondary": "#000005"
+            },
+            "messages": {
+                "quest_name": "Weapons Movie",
+                "game_title": "Weapons in Theaters August 8",
+                "game_publisher": "Warner Bros Pictures"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "event_name": "WATCH_VIDEO",
+                        "target": 33,
+                        "external_ids": []
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 33,
+                        "assets": {
+                            "video": {
+                                "url": "66b88344-190f-405d-a058-643086429218.mp4",
+                                "width": 1280,
+                                "height": 720,
+                                "thumbnail": "1400560896526516396.jpg",
+                                "caption": "314d6438-5f56-46a0-a195-31ae57c4e81b.vtt",
+                                "transcript": "274edbf8-d9a0-4d50-99d8-db798658aa9f.txt"
+                            },
+                            "video_low_res": {
+                                "url": "15714609-e2ec-48d8-ae62-30dd0924656b.mp4",
+                                "width": 1280,
+                                "height": 720,
+                                "thumbnail": "1400560896526516396.jpg",
+                                "caption": "314d6438-5f56-46a0-a195-31ae57c4e81b.vtt",
+                                "transcript": "274edbf8-d9a0-4d50-99d8-db798658aa9f.txt"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "Weapons Video",
+                            "video_end_cta_title": "Get Tickets",
+                            "video_end_cta_subtitle": "Weapons in Theaters August 8",
+                            "video_end_cta_button_label": "Get Tickets"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 orbs",
+                            "name_with_article": "700 orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "Default"
+                            }
+                        },
+                        "orb_quantity": 700
+                    }
+                ],
+                "rewards_expire_at": "2025-09-10T06:59:59+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "video_metadata": {
+                "messages": {
+                    "video_title": "Weapons Video",
+                    "video_end_cta_title": "Get Tickets",
+                    "video_end_cta_subtitle": "Weapons in Theaters August 8",
+                    "video_end_cta_button_label": "Get Tickets"
+                },
+                "assets": {
+                    "video_player_video_hls": null,
+                    "video_player_video": "66b88344-190f-405d-a058-643086429218.mp4",
+                    "video_player_thumbnail": "1400560896526516396.jpg",
+                    "video_player_video_low_res": "15714609-e2ec-48d8-ae62-30dd0924656b.mp4",
+                    "video_player_caption": "314d6438-5f56-46a0-a195-31ae57c4e81b.vtt",
+                    "video_player_transcript": "274edbf8-d9a0-4d50-99d8-db798658aa9f.txt",
+                    "quest_bar_preview_video": null,
+                    "quest_bar_preview_thumbnail": null,
+                    "quest_home_video": null
+                }
+            }
+        }
     }
 ]
