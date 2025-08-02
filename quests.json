@@ -16339,6 +16339,14 @@
                                 "thumbnail": "1400560896526516396.jpg",
                                 "caption": "314d6438-5f56-46a0-a195-31ae57c4e81b.vtt",
                                 "transcript": "274edbf8-d9a0-4d50-99d8-db798658aa9f.txt"
+                            },
+                            "video_hls": {
+                                "url": "66b88344-190f-405d-a058-643086429218.m3u8",
+                                "width": 1280,
+                                "height": 720,
+                                "thumbnail": "1400560896526516396.jpg",
+                                "caption": "314d6438-5f56-46a0-a195-31ae57c4e81b.vtt",
+                                "transcript": "274edbf8-d9a0-4d50-99d8-db798658aa9f.txt"
                             }
                         },
                         "messages": {
@@ -16380,7 +16388,7 @@
                     "video_end_cta_button_label": "Get Tickets"
                 },
                 "assets": {
-                    "video_player_video_hls": null,
+                    "video_player_video_hls": "66b88344-190f-405d-a058-643086429218.m3u8",
                     "video_player_video": "66b88344-190f-405d-a058-643086429218.mp4",
                     "video_player_thumbnail": "1400560896526516396.jpg",
                     "video_player_video_low_res": "15714609-e2ec-48d8-ae62-30dd0924656b.mp4",
