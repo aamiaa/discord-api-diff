@@ -16189,7 +16189,7 @@
             "id": "1396951426680488128",
             "config_version": 2,
             "starts_at": "2025-07-31T00:00:00+00:00",
-            "expires_at": "2025-08-06T23:00:00+00:00",
+            "expires_at": "2025-08-07T23:00:00+00:00",
             "features": [
                 3,
                 9,
@@ -16258,7 +16258,7 @@
                         "orb_quantity": 700
                     }
                 ],
-                "rewards_expire_at": "2025-09-05T23:00:00+00:00",
+                "rewards_expire_at": "2025-09-06T23:00:00+00:00",
                 "platforms": [
                     0
                 ]
@@ -16394,6 +16394,143 @@
                     "video_player_video_low_res": "15714609-e2ec-48d8-ae62-30dd0924656b.mp4",
                     "video_player_caption": "314d6438-5f56-46a0-a195-31ae57c4e81b.vtt",
                     "video_player_transcript": "274edbf8-d9a0-4d50-99d8-db798658aa9f.txt",
+                    "quest_bar_preview_video": null,
+                    "quest_bar_preview_thumbnail": null,
+                    "quest_home_video": null
+                }
+            }
+        }
+    },
+    {
+        "id": "1399849088043847771",
+        "config": {
+            "id": "1399849088043847771",
+            "config_version": 2,
+            "starts_at": "2025-08-04T17:00:30+00:00",
+            "expires_at": "2025-08-18T23:00:30+00:00",
+            "features": [
+                3,
+                9,
+                13,
+                14,
+                15,
+                16,
+                18,
+                19
+            ],
+            "application": {
+                "link": "https://www.hulu.com/series/52b8dd8a-eff2-4ed2-9b8d-7c0039df1c53?cmp=20804&utm_campaign=CM_SOC_Discord_KOTH&utm_medium=Social&utm_source=Discord&utm_term=&utm_content=&utm_focus=&utm_target=&utm_funnel=&dl=false",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "6c810af1-3853-4c44-8de9-f8f805c321f7.png",
+                "hero_video": "9e0b0a26-5522-4eca-9662-9ad897fac96f.webm",
+                "quest_bar_hero": "a2e6649b-983e-4db3-ad84-0f8f20d57e54.png",
+                "quest_bar_hero_video": "57290778-df0d-4d3b-a24b-431fcd8444e4.webm",
+                "game_tile": "6d7d37b6-46c5-4fa0-b36a-cee9c1c5d092.png",
+                "logotype": "33bbf2f9-4b76-49a7-a140-7949326bf35b.png"
+            },
+            "colors": {
+                "primary": "#E41E2C",
+                "secondary": "#672E1E"
+            },
+            "messages": {
+                "quest_name": "King of the Hill",
+                "game_title": "All Episodes Now Streaming",
+                "game_publisher": "Hulu"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "event_name": "WATCH_VIDEO",
+                        "target": 126,
+                        "external_ids": []
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 126,
+                        "assets": {
+                            "video": {
+                                "url": "1400284453556977788.mp4",
+                                "width": 1280,
+                                "height": 720,
+                                "thumbnail": "7118e423-65dd-4d10-85b7-9d15b4c50343.jpg",
+                                "caption": "98000ce8-a8b5-4223-bff3-d64dbbb5135b.vtt",
+                                "transcript": "46e39c88-53bd-45f2-a362-4480a742cba6.txt"
+                            },
+                            "video_low_res": {
+                                "url": "1400284807333679151.mp4",
+                                "width": 1280,
+                                "height": 720,
+                                "thumbnail": "7118e423-65dd-4d10-85b7-9d15b4c50343.jpg",
+                                "caption": "98000ce8-a8b5-4223-bff3-d64dbbb5135b.vtt",
+                                "transcript": "46e39c88-53bd-45f2-a362-4480a742cba6.txt"
+                            },
+                            "video_hls": {
+                                "url": "1400284453556977788.m3u8",
+                                "width": 1280,
+                                "height": 720,
+                                "thumbnail": "7118e423-65dd-4d10-85b7-9d15b4c50343.jpg",
+                                "caption": "98000ce8-a8b5-4223-bff3-d64dbbb5135b.vtt",
+                                "transcript": "46e39c88-53bd-45f2-a362-4480a742cba6.txt"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "King of the Hill Trailer",
+                            "video_end_cta_title": "King of the Hill Trailer",
+                            "video_end_cta_subtitle": "All Episodes Now Streaming on Hulu",
+                            "video_end_cta_button_label": "Watch Now"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 3,
+                        "sku_id": "1399851703930458252",
+                        "asset": "b9accf23-18ca-43d4-bd9c-a00d29f5e3d7.mp4",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "Hank Hill Avatar Decoration",
+                            "name_with_article": "a Hank Hill Avatar Decoration",
+                            "redemption_instructions_by_platform": {
+                                "0": "Default"
+                            }
+                        },
+                        "expires_at": "2025-10-04T23:00:00+00:00",
+                        "expires_at_premium": null,
+                        "expiration_mode": 1
+                    }
+                ],
+                "rewards_expire_at": "2025-09-17T23:00:30+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "video_metadata": {
+                "messages": {
+                    "video_title": "King of the Hill Trailer",
+                    "video_end_cta_title": "King of the Hill Trailer",
+                    "video_end_cta_subtitle": "All Episodes Now Streaming on Hulu",
+                    "video_end_cta_button_label": "Watch Now"
+                },
+                "assets": {
+                    "video_player_video_hls": "1400284453556977788.m3u8",
+                    "video_player_video": "1400284453556977788.mp4",
+                    "video_player_thumbnail": "7118e423-65dd-4d10-85b7-9d15b4c50343.jpg",
+                    "video_player_video_low_res": "1400284807333679151.mp4",
+                    "video_player_caption": "98000ce8-a8b5-4223-bff3-d64dbbb5135b.vtt",
+                    "video_player_transcript": "46e39c88-53bd-45f2-a362-4480a742cba6.txt",
                     "quest_bar_preview_video": null,
                     "quest_bar_preview_thumbnail": null,
                     "quest_home_video": null
