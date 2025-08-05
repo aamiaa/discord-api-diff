@@ -16537,5 +16537,93 @@
                 }
             }
         }
+    },
+    {
+        "id": "1398376894080094208",
+        "config": {
+            "id": "1398376894080094208",
+            "config_version": 2,
+            "starts_at": "2025-08-05T17:00:32+00:00",
+            "expires_at": "2025-08-17T23:00:32+00:00",
+            "features": [
+                3,
+                9,
+                13,
+                14,
+                15,
+                16,
+                18,
+                19
+            ],
+            "application": {
+                "link": "https://ad.doubleclick.net/ddm/trackclk/N7657.3866164DISCORD.COM/B33836456.425939531;dc_trk_aid=618803697;dc_trk_cid=238681222;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1",
+                "id": "542075586886107149",
+                "name": "Apex Legends"
+            },
+            "assets": {
+                "hero": "4ee6c865-8751-4855-9d6c-9cfa7ed76672.jpg",
+                "hero_video": null,
+                "quest_bar_hero": "bd8be084-c7d5-47ed-aafe-fc0d7b3b6c35.jpg",
+                "quest_bar_hero_video": null,
+                "game_tile": "00cc4b8e-744d-4857-ac10-ea537b490c8e.png",
+                "logotype": "41e86519-88b9-4542-b3b4-41ccce13296a.png"
+            },
+            "colors": {
+                "primary": "#F8502F",
+                "secondary": "#09242B"
+            },
+            "messages": {
+                "quest_name": "Apex Legends",
+                "game_title": "Apex Legends",
+                "game_publisher": "Apex Legends"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "event_name": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "external_ids": []
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 1,
+                        "sku_id": "1398376894080094209",
+                        "asset": "1c055979-788b-4aa2-93f8-86cc659ed07e.jpg",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "Epic Bangalore Skin",
+                            "name_with_article": "an Epic Bangalore Skin",
+                            "redemption_instructions_by_platform": {
+                                "0": "Redeem the code below on the Apex Legends redemption page to access your reward.\n\nCodes are not platform specific and are redeemed from within the Apex Legends Storefront.  \n1. Boot Apex Legends on your platform of choice.  \n2. When on the lobby screen select [Store].  \n3. Select [Redeem Code] on the bottom left.  \n4. Enter the code you received.  \n5. Select [Redeem].  \n\nRequires EA account."
+                            }
+                        },
+                        "approximate_count": null,
+                        "redemption_link": null
+                    }
+                ],
+                "rewards_expire_at": "2025-09-16T23:00:32+00:00",
+                "platforms": [
+                    0
+                ]
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
     }
 ]
