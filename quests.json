@@ -16585,6 +16585,23 @@
                         "event_name": "PLAY_ON_DESKTOP",
                         "target": 900,
                         "external_ids": []
+                    },
+                    "PLAY_ON_XBOX": {
+                        "event_name": "PLAY_ON_XBOX",
+                        "target": 900,
+                        "external_ids": [
+                            "175227487"
+                        ]
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "event_name": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "external_ids": [
+                            "CUSA12540_00",
+                            "CUSA12552_00",
+                            "PPSA04873_00",
+                            "PPSA04874_00"
+                        ]
                     }
                 }
             },
@@ -16593,6 +16610,23 @@
                     "PLAY_ON_DESKTOP": {
                         "type": "PLAY_ON_DESKTOP",
                         "target": 900
+                    },
+                    "PLAY_ON_XBOX": {
+                        "type": "PLAY_ON_XBOX",
+                        "target": 900,
+                        "external_ids": [
+                            "175227487"
+                        ]
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "type": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "external_ids": [
+                            "CUSA12540_00",
+                            "CUSA12552_00",
+                            "PPSA04873_00",
+                            "PPSA04874_00"
+                        ]
                     }
                 },
                 "join_operator": "or"
