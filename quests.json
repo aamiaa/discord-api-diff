@@ -16659,5 +16659,251 @@
         "user_status": null,
         "targeted_content": [],
         "preview": false
+    },
+    {
+        "id": "1398372054235091045",
+        "config": {
+            "id": "1398372054235091045",
+            "config_version": 2,
+            "starts_at": "2025-08-08T17:00:18+00:00",
+            "expires_at": "2025-08-14T23:00:18+00:00",
+            "features": [
+                3,
+                9,
+                13,
+                14,
+                15,
+                16,
+                18,
+                19
+            ],
+            "application": {
+                "link": "https://tfd-abr.na.nexon.com/4tc7ou",
+                "id": "1256912167685587034",
+                "name": "The First Descendant"
+            },
+            "assets": {
+                "hero": "0de64e98-8bb3-4d8f-bda9-ea500a01179c.png",
+                "hero_video": "7ec04400-f827-4a97-9189-24436af8ab16.webm",
+                "quest_bar_hero": "24160293-4a41-40e4-b410-7ff449a345ad.png",
+                "quest_bar_hero_video": "88f3a8fc-8c1d-4642-a941-c35a8ee09760.webm",
+                "game_tile": "58a6f486-f061-41c7-8dae-b32738d2b175.png",
+                "logotype": "f8ecc20c-4428-4f83-9397-2af0656edc80.png"
+            },
+            "colors": {
+                "primary": "#5865F2",
+                "secondary": "#282b42"
+            },
+            "messages": {
+                "quest_name": "The First Descendant",
+                "game_title": "The First Descendant",
+                "game_publisher": "NEXON"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "event_name": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "external_ids": []
+                    },
+                    "PLAY_ON_XBOX": {
+                        "event_name": "PLAY_ON_XBOX",
+                        "target": 900,
+                        "external_ids": [
+                            "2069980568"
+                        ]
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "event_name": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "external_ids": [
+                            "PPSA13466_00",
+                            "PPSA13465_00",
+                            "CUSA34301_00"
+                        ]
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900
+                    },
+                    "PLAY_ON_XBOX": {
+                        "type": "PLAY_ON_XBOX",
+                        "target": 900,
+                        "external_ids": [
+                            "2069980568"
+                        ]
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "type": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "external_ids": [
+                            "PPSA13466_00",
+                            "PPSA13465_00",
+                            "CUSA34301_00"
+                        ]
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 3,
+                        "sku_id": "1398375040474681455",
+                        "asset": "12cce40b-67aa-4f16-9494-68b55e14abc8.mp4",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "Descendant Avatar Decoration",
+                            "name_with_article": "a Descendant Avatar Decoration",
+                            "redemption_instructions_by_platform": {
+                                "0": "Default"
+                            }
+                        },
+                        "expires_at": "2025-10-13T23:00:00+00:00",
+                        "expires_at_premium": null,
+                        "expiration_mode": 3
+                    }
+                ],
+                "rewards_expire_at": "2025-09-13T23:00:18+00:00",
+                "platforms": [
+                    0
+                ]
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
+    },
+    {
+        "id": "1400912778474164255",
+        "config": {
+            "id": "1400912778474164255",
+            "config_version": 2,
+            "starts_at": "2025-08-08T17:00:14+00:00",
+            "expires_at": "2025-08-15T23:00:14+00:00",
+            "features": [
+                3,
+                9,
+                13,
+                14,
+                15,
+                16,
+                18,
+                19
+            ],
+            "application": {
+                "link": "https://www.nobodymovie.ca/",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "c698c0de-7023-48f5-8679-b53db2c5bf2c.jpg",
+                "hero_video": "ae27c1ab-76c0-44f6-88ad-75a313d0b416.webm",
+                "quest_bar_hero": "ec3ce32d-95d4-4f8d-b6f3-6112fea65ee4.jpg",
+                "quest_bar_hero_video": "8aaaedfd-8739-4251-afb3-d464d559da1e.webm",
+                "game_tile": "19aa7a51-e90d-4230-b692-670ddc10c6a3.png",
+                "logotype": "d4cd40a9-f98b-4d22-a17e-99af8b5ecd3d.png"
+            },
+            "colors": {
+                "primary": "#EFC81B",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Nobody 2",
+                "game_title": "Nobody 2",
+                "game_publisher": "Universal Pictures"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "event_name": "WATCH_VIDEO",
+                        "target": 88,
+                        "external_ids": []
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 88,
+                        "assets": {
+                            "video": {
+                                "url": "1400914052703719575.mp4",
+                                "width": 1280,
+                                "height": 720,
+                                "thumbnail": "1400914107565346856.jpg",
+                                "caption": "c2e30786-caec-4d19-8cb4-6880d4be84c2.vtt",
+                                "transcript": "6b49e6bc-a138-4897-bbbb-835a15c2edd4.txt"
+                            },
+                            "video_low_res": {
+                                "url": "1400914087545933864.mp4",
+                                "width": 1280,
+                                "height": 720,
+                                "thumbnail": "1400914107565346856.jpg",
+                                "caption": "c2e30786-caec-4d19-8cb4-6880d4be84c2.vtt",
+                                "transcript": "6b49e6bc-a138-4897-bbbb-835a15c2edd4.txt"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "Nobody 2 BTS",
+                            "video_end_cta_title": "Nobody 2 ",
+                            "video_end_cta_subtitle": "Nobody 2 Only in Theatres August 15",
+                            "video_end_cta_button_label": "Learn More"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 orbs",
+                            "name_with_article": "700 orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "Default"
+                            }
+                        },
+                        "orb_quantity": 700
+                    }
+                ],
+                "rewards_expire_at": "2025-09-14T23:00:14+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "video_metadata": {
+                "messages": {
+                    "video_title": "Nobody 2 BTS",
+                    "video_end_cta_title": "Nobody 2 ",
+                    "video_end_cta_subtitle": "Nobody 2 Only in Theatres August 15",
+                    "video_end_cta_button_label": "Learn More"
+                },
+                "assets": {
+                    "video_player_video_hls": null,
+                    "video_player_video": "1400914052703719575.mp4",
+                    "video_player_thumbnail": "1400914107565346856.jpg",
+                    "video_player_video_low_res": "1400914087545933864.mp4",
+                    "video_player_caption": "c2e30786-caec-4d19-8cb4-6880d4be84c2.vtt",
+                    "video_player_transcript": "6b49e6bc-a138-4897-bbbb-835a15c2edd4.txt",
+                    "quest_bar_preview_video": null,
+                    "quest_bar_preview_thumbnail": null,
+                    "quest_home_video": null
+                }
+            }
+        }
     }
 ]
