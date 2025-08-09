@@ -16913,5 +16913,108 @@
                 }
             }
         }
+    },
+    {
+        "id": "1402377801474113556",
+        "config": {
+            "id": "1402377801474113556",
+            "config_version": 2,
+            "starts_at": "2025-08-09T05:30:42+00:00",
+            "expires_at": "2025-08-17T23:00:42+00:00",
+            "features": [
+                3,
+                9,
+                13,
+                14,
+                15,
+                16,
+                18,
+                19
+            ],
+            "application": {
+                "link": "https://ad.doubleclick.net/ddm/trackclk/N7657.3866164DISCORD.COM/B33835268.426232737;dc_trk_aid=618886627;dc_trk_cid=238671823;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1",
+                "id": "1402692356343599254",
+                "name": "Battlefield 6"
+            },
+            "assets": {
+                "hero": "f11c6a01-679e-4f96-8eef-3baa4e2b3c9f.jpg",
+                "hero_video": null,
+                "quest_bar_hero": "53d29fc4-b989-40d7-8d24-6a390d8c219c.jpg",
+                "quest_bar_hero_video": null,
+                "game_tile": "b7dc0f36-656e-46cc-9953-eb6874c11dd5.jpg",
+                "logotype": "74f49cde-daf9-4e20-9dd1-6e64e370b051.png"
+            },
+            "colors": {
+                "primary": "#FE3B00",
+                "secondary": "#454545"
+            },
+            "messages": {
+                "quest_name": "BF6 Open Beta",
+                "game_title": "Battlefield 6 Open Beta",
+                "game_publisher": "Battlefield 6"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "event_name": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "external_ids": []
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "event_name": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "external_ids": [
+                            "PPSA28176_00"
+                        ]
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "type": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "external_ids": [
+                            "PPSA28176_00"
+                        ]
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 3,
+                        "sku_id": "1403406899889831998",
+                        "asset": "2fbfc68e-34d4-40f3-9b34-3ca8b5d77470.mp4",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "BF Soldier Helmet Avatar Decoration",
+                            "name_with_article": "a BF Soldier Helmet Avatar Decoration",
+                            "redemption_instructions_by_platform": {
+                                "0": "Default"
+                            }
+                        },
+                        "expires_at": "2025-10-16T23:00:00+00:00",
+                        "expires_at_premium": null,
+                        "expiration_mode": 3
+                    }
+                ],
+                "rewards_expire_at": "2025-09-16T23:00:42+00:00",
+                "platforms": [
+                    0
+                ]
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
     }
 ]
