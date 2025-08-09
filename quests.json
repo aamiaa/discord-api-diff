@@ -16852,6 +16852,14 @@
                                 "thumbnail": "1400914107565346856.jpg",
                                 "caption": "c2e30786-caec-4d19-8cb4-6880d4be84c2.vtt",
                                 "transcript": "6b49e6bc-a138-4897-bbbb-835a15c2edd4.txt"
+                            },
+                            "video_hls": {
+                                "url": "1400914052703719575.m3u8",
+                                "width": 1280,
+                                "height": 720,
+                                "thumbnail": "1400914107565346856.jpg",
+                                "caption": "c2e30786-caec-4d19-8cb4-6880d4be84c2.vtt",
+                                "transcript": "6b49e6bc-a138-4897-bbbb-835a15c2edd4.txt"
                             }
                         },
                         "messages": {
@@ -16893,7 +16901,7 @@
                     "video_end_cta_button_label": "Learn More"
                 },
                 "assets": {
-                    "video_player_video_hls": null,
+                    "video_player_video_hls": "1400914052703719575.m3u8",
                     "video_player_video": "1400914052703719575.mp4",
                     "video_player_thumbnail": "1400914107565346856.jpg",
                     "video_player_video_low_res": "1400914087545933864.mp4",
