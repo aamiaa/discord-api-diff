@@ -85310,5 +85310,2101 @@
         "hero_logo_display_config": {
             "desktop_max_height": 180
         }
+    },
+    {
+        "sku_id": "1402782203099746314",
+        "name": "Rawr xD",
+        "summary": " ",
+        "store_listing_id": "1402472280751210536",
+        "banner": "1403077232955494624",
+        "unpublished_at": null,
+        "styles": {
+            "background_colors": [
+                13814226,
+                12928173
+            ],
+            "button_colors": [
+                5793266,
+                5793266
+            ],
+            "confetti_colors": [
+                43772,
+                15774258,
+                16414587,
+                3000177,
+                9739511
+            ]
+        },
+        "logo": "1402472280801546250",
+        "hero_ranking": [
+            "1402472280373854288",
+            "1402472280390500382",
+            "1402472280407281674",
+            "1402472280239509664",
+            "1402472280440832041",
+            "1402472280457609308",
+            "1402472280478580767",
+            "1402472280499552306",
+            "1402472280289968218",
+            "1402472280537305180",
+            "1402472280575180922",
+            "1402472280327585833",
+            "1402472280596152340",
+            "1402472280617123991",
+            "1402472280642289775",
+            "1402472280663261286",
+            "1402472280688168990",
+            "1402472280352755764",
+            "1402472280705204246"
+        ],
+        "mobile_bg": "1402472280864587939",
+        "pdp_bg": "1403077692454338661",
+        "success_modal_bg": null,
+        "mobile_banner": "1402472280856068196",
+        "featured_block": "1403077692454338660",
+        "hero_banner": null,
+        "wide_banner": null,
+        "products": [
+            {
+                "sku_id": "1402472280373854288",
+                "name": "Cute and Chaotic Bundle",
+                "summary": "A bundle of collectibles.",
+                "store_listing_id": "1402472280382115850",
+                "banner": "1403077232955494624",
+                "unpublished_at": null,
+                "styles": {
+                    "background_colors": [
+                        13814226,
+                        12928173
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 1099,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 7600,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 899,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 7600,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "items": [
+                    {
+                        "type": 0,
+                        "id": "1402472280587632841",
+                        "sku_id": "1402472280575180922",
+                        "asset": "a_c267faa7eccd8517681a2a02d4d9957f",
+                        "label": "Angel-devil cat duo featuring a hot pink angel cat and a purple devil cat with bat wings."
+                    },
+                    {
+                        "type": 1,
+                        "id": "1402472280738631760",
+                        "sku_id": "1402472280352755764",
+                        "title": "Kawaii Clouds",
+                        "description": "Show this effect when others view your profile.",
+                        "accessibilityLabel": "Pink clouds, blue and green chains, twinkling stars, and soft sparkles.",
+                        "animationType": 1,
+                        "staticFrameSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-08-06/kawaii_clouds/static.png",
+                        "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-08-06/kawaii_clouds/thumbnail.png",
+                        "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-08-06/kawaii_clouds/reduced_motion.png",
+                        "effects": [
+                            {
+                                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-08-06/kawaii_clouds/intro.png",
+                                "loop": false,
+                                "height": 880,
+                                "width": 450,
+                                "duration": 3000,
+                                "start": 0,
+                                "loopDelay": 0,
+                                "position": {
+                                    "x": 0,
+                                    "y": 0
+                                },
+                                "zIndex": 100,
+                                "randomizedSources": []
+                            },
+                            {
+                                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-08-06/kawaii_clouds/idle.png",
+                                "loop": true,
+                                "height": 880,
+                                "width": 450,
+                                "duration": 3000,
+                                "start": 3000,
+                                "loopDelay": 0,
+                                "position": {
+                                    "x": 0,
+                                    "y": 0
+                                },
+                                "zIndex": 101,
+                                "randomizedSources": []
+                            }
+                        ]
+                    }
+                ],
+                "type": 1000,
+                "premium_type": 0,
+                "category_sku_id": "1402782203099746314",
+                "bundled_products": [
+                    {
+                        "sku_id": "1402472280575180922",
+                        "name": "Mischievous Kitties",
+                        "summary": "Give your avatar a new look.",
+                        "type": 0,
+                        "premium_type": 0,
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 599,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 499,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "sku_id": "1402472280352755764",
+                        "name": "Kawaii Clouds",
+                        "summary": "Show this effect when others view your profile.",
+                        "type": 1,
+                        "premium_type": 0,
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 599,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 499,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ],
+                "google_sku_ids": {
+                    "5": "1402472280373854288_1402814104577507398",
+                    "7": "1402472280373854288_1402814111217225789"
+                }
+            },
+            {
+                "sku_id": "1402472280390500382",
+                "name": "hehe so random xP Bundle",
+                "summary": "A bundle of collectibles.",
+                "store_listing_id": "1402472280399020032",
+                "banner": "1403077232955494624",
+                "unpublished_at": null,
+                "styles": {
+                    "background_colors": [
+                        13814226,
+                        12928173
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 1099,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 7600,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 899,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 7600,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "items": [
+                    {
+                        "type": 0,
+                        "id": "1402472280633770074",
+                        "sku_id": "1402472280617123991",
+                        "asset": "a_f783b451f252c5e34143898e97a8e585",
+                        "label": "Giggling rainbow cat skulls spewing a rainbow."
+                    },
+                    {
+                        "type": 1,
+                        "id": "1402472280679907388",
+                        "sku_id": "1402472280663261286",
+                        "title": "hehe so random xP",
+                        "description": "Show this effect when others view your profile.",
+                        "accessibilityLabel": "Black and white checkered background with cat skulls and other chaotic icons.",
+                        "animationType": 1,
+                        "staticFrameSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-08-11/hehe_so_random_xp/static.png",
+                        "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-08-11/hehe_so_random_xp/thumbnail.png",
+                        "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-08-11/hehe_so_random_xp/reduced_motion.png",
+                        "effects": [
+                            {
+                                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-08-11/hehe_so_random_xp/intro.png",
+                                "loop": false,
+                                "height": 880,
+                                "width": 450,
+                                "duration": 3000,
+                                "start": 0,
+                                "loopDelay": 0,
+                                "position": {
+                                    "x": 0,
+                                    "y": 0
+                                },
+                                "zIndex": 100,
+                                "randomizedSources": []
+                            },
+                            {
+                                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-08-11/hehe_so_random_xp/idle_01.png",
+                                "loop": true,
+                                "height": 880,
+                                "width": 450,
+                                "duration": 3000,
+                                "start": 3000,
+                                "loopDelay": 0,
+                                "position": {
+                                    "x": 0,
+                                    "y": 0
+                                },
+                                "zIndex": 101,
+                                "randomizedSources": []
+                            },
+                            {
+                                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-08-11/hehe_so_random_xp/idle_02.png",
+                                "loop": true,
+                                "height": 880,
+                                "width": 450,
+                                "duration": 3000,
+                                "start": 3500,
+                                "loopDelay": 2200,
+                                "position": {
+                                    "x": 0,
+                                    "y": 0
+                                },
+                                "zIndex": 102,
+                                "randomizedSources": []
+                            }
+                        ]
+                    }
+                ],
+                "type": 1000,
+                "premium_type": 0,
+                "category_sku_id": "1402782203099746314",
+                "bundled_products": [
+                    {
+                        "sku_id": "1402472280617123991",
+                        "name": "Skully Charms",
+                        "summary": "Give your avatar a new look.",
+                        "type": 0,
+                        "premium_type": 0,
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 599,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 499,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "sku_id": "1402472280663261286",
+                        "name": "hehe so random xP",
+                        "summary": "Show this effect when others view your profile.",
+                        "type": 1,
+                        "premium_type": 0,
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 599,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 499,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ],
+                "google_sku_ids": {
+                    "5": "1402472280390500382_1402812611208286321",
+                    "7": "1402472280390500382_1402812618032545822"
+                }
+            },
+            {
+                "sku_id": "1402472280407281674",
+                "name": "Rawr xD Bundle",
+                "summary": "A bundle of collectibles.",
+                "store_listing_id": "1402472280415666206",
+                "banner": "1403077232955494624",
+                "unpublished_at": null,
+                "styles": {
+                    "background_colors": [
+                        13814226,
+                        12928173
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 1099,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 7600,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 899,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 7600,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "items": [
+                    {
+                        "type": 0,
+                        "id": "1402472280658935849",
+                        "sku_id": "1402472280642289775",
+                        "asset": "a_b9f89cd88eabf437777bf35f55e6126f",
+                        "label": "Explosive \"RAWR!\" in dripping pink paint with electric stars and hearts."
+                    },
+                    {
+                        "type": 1,
+                        "id": "1402472280696684634",
+                        "sku_id": "1402472280688168990",
+                        "title": "Rawr xD Splash",
+                        "description": "Show this effect when others view your profile.",
+                        "accessibilityLabel": "Hot pink \"RAWR XD!\" with lightning and neon green splatter effects.",
+                        "animationType": 2,
+                        "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-08-06/rawr_xd_splash/thumbnail.png",
+                        "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-08-06/rawr_xd_splash/reduced_motion.png",
+                        "effects": [
+                            {
+                                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-08-06/rawr_xd_splash/intro.png",
+                                "loop": false,
+                                "height": 880,
+                                "width": 450,
+                                "duration": 3000,
+                                "start": 0,
+                                "loopDelay": 0,
+                                "position": {
+                                    "x": 0,
+                                    "y": 0
+                                },
+                                "zIndex": 100,
+                                "randomizedSources": []
+                            },
+                            {
+                                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-08-06/rawr_xd_splash/idle.png",
+                                "loop": true,
+                                "height": 880,
+                                "width": 450,
+                                "duration": 3000,
+                                "start": 3500,
+                                "loopDelay": 1200,
+                                "position": {
+                                    "x": 0,
+                                    "y": 0
+                                },
+                                "zIndex": 101,
+                                "randomizedSources": []
+                            }
+                        ]
+                    }
+                ],
+                "type": 1000,
+                "premium_type": 0,
+                "category_sku_id": "1402782203099746314",
+                "bundled_products": [
+                    {
+                        "sku_id": "1402472280642289775",
+                        "name": "Rawr xD",
+                        "summary": "Give your avatar a new look.",
+                        "type": 0,
+                        "premium_type": 0,
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 599,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 499,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "sku_id": "1402472280688168990",
+                        "name": "Rawr xD Splash",
+                        "summary": "Show this effect when others view your profile.",
+                        "type": 1,
+                        "premium_type": 0,
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 599,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 499,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ],
+                "google_sku_ids": {
+                    "5": "1402472280407281674_1402812388046143599",
+                    "7": "1402472280407281674_1402812395461546146"
+                }
+            },
+            {
+                "sku_id": "1402472280239509664",
+                "name": "Neon Cat Hoodie",
+                "summary": "Give your avatar a new look.",
+                "store_listing_id": "1402472280428380160",
+                "banner": "1403077232955494624",
+                "unpublished_at": null,
+                "styles": {
+                    "background_colors": [
+                        13814226,
+                        12928173
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "items": [
+                    {
+                        "type": 0,
+                        "id": "1402472280432447548",
+                        "sku_id": "1402472280239509664",
+                        "asset": "a_e87f540de155224ae20679fbb250951e",
+                        "label": "A purple hoodie featuring neon green cat ears, adorned with rings and clips."
+                    }
+                ],
+                "type": 0,
+                "premium_type": 0,
+                "category_sku_id": "1402782203099746314",
+                "google_sku_ids": {
+                    "5": "1402472280239509664_1402815184816312490",
+                    "7": "1402472280239509664_1402815191879778326"
+                }
+            },
+            {
+                "sku_id": "1402472280440832041",
+                "name": "Neon Cat Hoodie (Blue)",
+                "summary": "Give your avatar a new look.",
+                "store_listing_id": "1402472280445157436",
+                "banner": "1403077232955494624",
+                "unpublished_at": null,
+                "styles": {
+                    "background_colors": [
+                        13814226,
+                        12928173
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "items": [
+                    {
+                        "type": 0,
+                        "id": "1402472280453419028",
+                        "sku_id": "1402472280440832041",
+                        "asset": "a_6c95060374323ce9b50b1630e6d44348",
+                        "label": "A blue hoodie featuring blue cat ears, adorned with rings and clips."
+                    }
+                ],
+                "type": 0,
+                "premium_type": 0,
+                "category_sku_id": "1402782203099746314",
+                "google_sku_ids": {
+                    "5": "1402472280440832041_1402813320016171078",
+                    "7": "1402472280440832041_1402813327830421524"
+                }
+            },
+            {
+                "sku_id": "1402472280457609308",
+                "name": "Neon Cat Hoodie (Pink)",
+                "summary": "Give your avatar a new look.",
+                "store_listing_id": "1402472280466128947",
+                "banner": "1403077232955494624",
+                "unpublished_at": null,
+                "styles": {
+                    "background_colors": [
+                        13814226,
+                        12928173
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "items": [
+                    {
+                        "type": 0,
+                        "id": "1402472280470196404",
+                        "sku_id": "1402472280457609308",
+                        "asset": "a_e1e9cd6fc7448acfe0fbf2829681e281",
+                        "label": "A pink hoodie featuring pink cat ears, adorned with rings and clips."
+                    }
+                ],
+                "type": 0,
+                "premium_type": 0,
+                "category_sku_id": "1402782203099746314",
+                "google_sku_ids": {
+                    "5": "1402472280457609308_1402812151911153775",
+                    "7": "1402472280457609308_1402812158902927412"
+                }
+            },
+            {
+                "sku_id": "1402472280478580767",
+                "name": "Neon Cat Hoodie (Black)",
+                "summary": "Give your avatar a new look.",
+                "store_listing_id": "1402472280482906243",
+                "banner": "1403077232955494624",
+                "unpublished_at": null,
+                "styles": {
+                    "background_colors": [
+                        13814226,
+                        12928173
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "items": [
+                    {
+                        "type": 0,
+                        "id": "1402472280495493130",
+                        "sku_id": "1402472280478580767",
+                        "asset": "a_a41b03990d296e4ebb25ac0332e6b893",
+                        "label": "A grey hoodie featuring grey cat ears, adorned with rings and clips."
+                    }
+                ],
+                "type": 0,
+                "premium_type": 0,
+                "category_sku_id": "1402782203099746314",
+                "google_sku_ids": {
+                    "5": "1402472280478580767_1402813582520877127",
+                    "7": "1402472280478580767_1402813589059797022"
+                }
+            },
+            {
+                "sku_id": "1402472280499552306",
+                "name": "Neon Decora Hair",
+                "summary": "Give your avatar a new look.",
+                "store_listing_id": "1402472280507813989",
+                "banner": "1403077232955494624",
+                "unpublished_at": null,
+                "styles": {
+                    "background_colors": [
+                        13814226,
+                        12928173
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "items": [
+                    {
+                        "type": 0,
+                        "id": "1402472280516464710",
+                        "sku_id": "1402472280499552306",
+                        "asset": "a_f3637655ae2af0c4507379ce7523ed0b",
+                        "label": "Vibrant, colorful accessories shimmer on purple hair."
+                    }
+                ],
+                "type": 0,
+                "premium_type": 0,
+                "category_sku_id": "1402782203099746314",
+                "google_sku_ids": {
+                    "5": "1402472280499552306_1402812427782852638",
+                    "7": "1402472280499552306_1402812434665701376"
+                }
+            },
+            {
+                "sku_id": "1402472280289968218",
+                "name": "Neon Spike Choker",
+                "summary": "Give your avatar a new look.",
+                "store_listing_id": "1402472280520523908",
+                "banner": "1403077232955494624",
+                "unpublished_at": null,
+                "styles": {
+                    "background_colors": [
+                        13814226,
+                        12928173
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "items": [
+                    {
+                        "type": 0,
+                        "id": "1402472280532979732",
+                        "sku_id": "1402472280289968218",
+                        "asset": "a_c994d7f03bc1af3d6e9d0cf5cc065d8d",
+                        "label": "Black collar with green and purple spikes."
+                    }
+                ],
+                "type": 0,
+                "premium_type": 0,
+                "category_sku_id": "1402782203099746314",
+                "google_sku_ids": {
+                    "5": "1402472280289968218_1402811903088267294",
+                    "7": "1402472280289968218_1402811910054875246"
+                }
+            },
+            {
+                "sku_id": "1402472280537305180",
+                "name": "Neon Spike Choker (Black)",
+                "summary": "Give your avatar a new look.",
+                "store_listing_id": "1402472280545558669",
+                "banner": "1403077232955494624",
+                "unpublished_at": null,
+                "styles": {
+                    "background_colors": [
+                        13814226,
+                        12928173
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "items": [
+                    {
+                        "type": 0,
+                        "id": "1402472280554209300",
+                        "sku_id": "1402472280537305180",
+                        "asset": "a_8d72b37d1040134935b75d73611eb020",
+                        "label": "Black collar with silver spikes."
+                    }
+                ],
+                "type": 0,
+                "premium_type": 0,
+                "category_sku_id": "1402782203099746314",
+                "google_sku_ids": {
+                    "5": "1402472280537305180_1402811746862759996",
+                    "7": "1402472280537305180_1402811754693791845"
+                }
+            },
+            {
+                "sku_id": "1402472280575180922",
+                "name": "Mischievous Kitties",
+                "summary": "Give your avatar a new look.",
+                "store_listing_id": "1402472280583573625",
+                "banner": "1403077232955494624",
+                "unpublished_at": null,
+                "styles": {
+                    "background_colors": [
+                        13814226,
+                        12928173
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "items": [
+                    {
+                        "type": 0,
+                        "id": "1402472280587632841",
+                        "sku_id": "1402472280575180922",
+                        "asset": "a_c267faa7eccd8517681a2a02d4d9957f",
+                        "label": "Angel-devil cat duo featuring a hot pink angel cat and a purple devil cat with bat wings."
+                    }
+                ],
+                "type": 0,
+                "premium_type": 0,
+                "category_sku_id": "1402782203099746314",
+                "google_sku_ids": {
+                    "5": "1402472280575180922_1402814951080595566",
+                    "7": "1402472280575180922_1402814958118506696"
+                }
+            },
+            {
+                "sku_id": "1402472280327585833",
+                "name": "Mischievous Kitties (Hearts)",
+                "summary": "Give your avatar a new look.",
+                "store_listing_id": "1402472280558276639",
+                "banner": "1403077232955494624",
+                "unpublished_at": null,
+                "styles": {
+                    "background_colors": [
+                        13814226,
+                        12928173
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "items": [
+                    {
+                        "type": 0,
+                        "id": "1402472280566661272",
+                        "sku_id": "1402472280327585833",
+                        "asset": "a_d22ff89e74ed6b55d972ed9922491bf1",
+                        "label": "Angel-devil cat duo featuring a hot pink angel cat throwing hearts and a purple devil cat with bat wings."
+                    }
+                ],
+                "type": 0,
+                "premium_type": 0,
+                "category_sku_id": "1402782203099746314",
+                "google_sku_ids": {
+                    "5": "1402472280327585833_1402814118343213186",
+                    "7": "1402472280327585833_1402814124722884752"
+                }
+            },
+            {
+                "sku_id": "1402472280596152340",
+                "name": "Mischievous Kitties (Blue)",
+                "summary": "Give your avatar a new look.",
+                "store_listing_id": "1402472280604545085",
+                "banner": "1403077232955494624",
+                "unpublished_at": null,
+                "styles": {
+                    "background_colors": [
+                        13814226,
+                        12928173
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "items": [
+                    {
+                        "type": 0,
+                        "id": "1402472280608604251",
+                        "sku_id": "1402472280596152340",
+                        "asset": "a_e08b43c436272bc2c1e6ae85e71ab884",
+                        "label": "Angel-devil cat duo featuring an angel cat and a purple devil cat with bat wings."
+                    }
+                ],
+                "type": 0,
+                "premium_type": 0,
+                "category_sku_id": "1402782203099746314",
+                "google_sku_ids": {
+                    "5": "1402472280596152340_1402814071677649039",
+                    "7": "1402472280596152340_1402814081039077417"
+                }
+            },
+            {
+                "sku_id": "1402472280617123991",
+                "name": "Skully Charms",
+                "summary": "Give your avatar a new look.",
+                "store_listing_id": "1402472280625385542",
+                "banner": "1403077232955494624",
+                "unpublished_at": null,
+                "styles": {
+                    "background_colors": [
+                        13814226,
+                        12928173
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "items": [
+                    {
+                        "type": 0,
+                        "id": "1402472280633770074",
+                        "sku_id": "1402472280617123991",
+                        "asset": "a_f783b451f252c5e34143898e97a8e585",
+                        "label": "Giggling rainbow cat skulls spewing a rainbow."
+                    }
+                ],
+                "type": 0,
+                "premium_type": 0,
+                "category_sku_id": "1402782203099746314",
+                "google_sku_ids": {
+                    "5": "1402472280617123991_1402811563961745481",
+                    "7": "1402472280617123991_1402811571507429537"
+                }
+            },
+            {
+                "sku_id": "1402472280642289775",
+                "name": "Rawr xD",
+                "summary": "Give your avatar a new look.",
+                "store_listing_id": "1402472280650551386",
+                "banner": "1403077232955494624",
+                "unpublished_at": null,
+                "styles": {
+                    "background_colors": [
+                        13814226,
+                        12928173
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "items": [
+                    {
+                        "type": 0,
+                        "id": "1402472280658935849",
+                        "sku_id": "1402472280642289775",
+                        "asset": "a_b9f89cd88eabf437777bf35f55e6126f",
+                        "label": "Explosive \"RAWR!\" in dripping pink paint with electric stars and hearts."
+                    }
+                ],
+                "type": 0,
+                "premium_type": 0,
+                "category_sku_id": "1402782203099746314",
+                "google_sku_ids": {
+                    "5": "1402472280642289775_1402813124549148744",
+                    "7": "1402472280642289775_1402813134452035594"
+                }
+            },
+            {
+                "sku_id": "1402472280663261286",
+                "name": "hehe so random xP",
+                "summary": "Show this effect when others view your profile.",
+                "store_listing_id": "1402472280671522938",
+                "banner": "1403077232955494624",
+                "unpublished_at": null,
+                "styles": {
+                    "background_colors": [
+                        13814226,
+                        12928173
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "items": [
+                    {
+                        "type": 1,
+                        "id": "1402472280679907388",
+                        "sku_id": "1402472280663261286",
+                        "title": "hehe so random xP",
+                        "description": "Show this effect when others view your profile.",
+                        "accessibilityLabel": "Black and white checkered background with cat skulls and other chaotic icons.",
+                        "animationType": 1,
+                        "staticFrameSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-08-11/hehe_so_random_xp/static.png",
+                        "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-08-11/hehe_so_random_xp/thumbnail.png",
+                        "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-08-11/hehe_so_random_xp/reduced_motion.png",
+                        "effects": [
+                            {
+                                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-08-11/hehe_so_random_xp/intro.png",
+                                "loop": false,
+                                "height": 880,
+                                "width": 450,
+                                "duration": 3000,
+                                "start": 0,
+                                "loopDelay": 0,
+                                "position": {
+                                    "x": 0,
+                                    "y": 0
+                                },
+                                "zIndex": 100,
+                                "randomizedSources": []
+                            },
+                            {
+                                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-08-11/hehe_so_random_xp/idle_01.png",
+                                "loop": true,
+                                "height": 880,
+                                "width": 450,
+                                "duration": 3000,
+                                "start": 3000,
+                                "loopDelay": 0,
+                                "position": {
+                                    "x": 0,
+                                    "y": 0
+                                },
+                                "zIndex": 101,
+                                "randomizedSources": []
+                            },
+                            {
+                                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-08-11/hehe_so_random_xp/idle_02.png",
+                                "loop": true,
+                                "height": 880,
+                                "width": 450,
+                                "duration": 3000,
+                                "start": 3500,
+                                "loopDelay": 2200,
+                                "position": {
+                                    "x": 0,
+                                    "y": 0
+                                },
+                                "zIndex": 102,
+                                "randomizedSources": []
+                            }
+                        ]
+                    }
+                ],
+                "type": 1,
+                "premium_type": 0,
+                "category_sku_id": "1402782203099746314",
+                "google_sku_ids": {
+                    "5": "1402472280663261286_1402812665117540422",
+                    "7": "1402472280663261286_1402812672168300634"
+                }
+            },
+            {
+                "sku_id": "1402472280688168990",
+                "name": "Rawr xD Splash",
+                "summary": "Show this effect when others view your profile.",
+                "store_listing_id": "1402472280692494426",
+                "banner": "1403077232955494624",
+                "unpublished_at": null,
+                "styles": {
+                    "background_colors": [
+                        13814226,
+                        12928173
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "items": [
+                    {
+                        "type": 1,
+                        "id": "1402472280696684634",
+                        "sku_id": "1402472280688168990",
+                        "title": "Rawr xD Splash",
+                        "description": "Show this effect when others view your profile.",
+                        "accessibilityLabel": "Hot pink \"RAWR XD!\" with lightning and neon green splatter effects.",
+                        "animationType": 2,
+                        "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-08-06/rawr_xd_splash/thumbnail.png",
+                        "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-08-06/rawr_xd_splash/reduced_motion.png",
+                        "effects": [
+                            {
+                                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-08-06/rawr_xd_splash/intro.png",
+                                "loop": false,
+                                "height": 880,
+                                "width": 450,
+                                "duration": 3000,
+                                "start": 0,
+                                "loopDelay": 0,
+                                "position": {
+                                    "x": 0,
+                                    "y": 0
+                                },
+                                "zIndex": 100,
+                                "randomizedSources": []
+                            },
+                            {
+                                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-08-06/rawr_xd_splash/idle.png",
+                                "loop": true,
+                                "height": 880,
+                                "width": 450,
+                                "duration": 3000,
+                                "start": 3500,
+                                "loopDelay": 1200,
+                                "position": {
+                                    "x": 0,
+                                    "y": 0
+                                },
+                                "zIndex": 101,
+                                "randomizedSources": []
+                            }
+                        ]
+                    }
+                ],
+                "type": 1,
+                "premium_type": 0,
+                "category_sku_id": "1402782203099746314",
+                "google_sku_ids": {
+                    "5": "1402472280688168990_1402814326016053409",
+                    "7": "1402472280688168990_1402814333255422046"
+                }
+            },
+            {
+                "sku_id": "1402472280352755764",
+                "name": "Kawaii Clouds",
+                "summary": "Show this effect when others view your profile.",
+                "store_listing_id": "1402472280734564422",
+                "banner": "1403077232955494624",
+                "unpublished_at": null,
+                "styles": {
+                    "background_colors": [
+                        13814226,
+                        12928173
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "items": [
+                    {
+                        "type": 1,
+                        "id": "1402472280738631760",
+                        "sku_id": "1402472280352755764",
+                        "title": "Kawaii Clouds",
+                        "description": "Show this effect when others view your profile.",
+                        "accessibilityLabel": "Pink clouds, blue and green chains, twinkling stars, and soft sparkles.",
+                        "animationType": 1,
+                        "staticFrameSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-08-06/kawaii_clouds/static.png",
+                        "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-08-06/kawaii_clouds/thumbnail.png",
+                        "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-08-06/kawaii_clouds/reduced_motion.png",
+                        "effects": [
+                            {
+                                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-08-06/kawaii_clouds/intro.png",
+                                "loop": false,
+                                "height": 880,
+                                "width": 450,
+                                "duration": 3000,
+                                "start": 0,
+                                "loopDelay": 0,
+                                "position": {
+                                    "x": 0,
+                                    "y": 0
+                                },
+                                "zIndex": 100,
+                                "randomizedSources": []
+                            },
+                            {
+                                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-08-06/kawaii_clouds/idle.png",
+                                "loop": true,
+                                "height": 880,
+                                "width": 450,
+                                "duration": 3000,
+                                "start": 3000,
+                                "loopDelay": 0,
+                                "position": {
+                                    "x": 0,
+                                    "y": 0
+                                },
+                                "zIndex": 101,
+                                "randomizedSources": []
+                            }
+                        ]
+                    }
+                ],
+                "type": 1,
+                "premium_type": 0,
+                "category_sku_id": "1402782203099746314",
+                "google_sku_ids": {
+                    "5": "1402472280352755764_1402814052509552671",
+                    "7": "1402472280352755764_1402814066518392924"
+                }
+            },
+            {
+                "sku_id": "1402472280705204246",
+                "name": "Kawaii Clouds (Blue)",
+                "summary": "Show this effect when others view your profile.",
+                "store_listing_id": "1402472280717791282",
+                "banner": "1403077232955494624",
+                "unpublished_at": null,
+                "styles": {
+                    "background_colors": [
+                        13814226,
+                        12928173
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "items": [
+                    {
+                        "type": 1,
+                        "id": "1402472280721850508",
+                        "sku_id": "1402472280705204246",
+                        "title": "Kawaii Clouds (Blue)",
+                        "description": "Show this effect when others view your profile.",
+                        "accessibilityLabel": "Blue clouds and chains, twinkling stars, and soft sparkles.",
+                        "animationType": 1,
+                        "staticFrameSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-08-06/kawaii_clouds_blue/static.png",
+                        "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-08-06/kawaii_clouds_blue/thumbnail.png",
+                        "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-08-06/kawaii_clouds_blue/reduced_motion.png",
+                        "effects": [
+                            {
+                                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-08-06/kawaii_clouds_blue/intro.png",
+                                "loop": false,
+                                "height": 880,
+                                "width": 450,
+                                "duration": 3000,
+                                "start": 0,
+                                "loopDelay": 0,
+                                "position": {
+                                    "x": 0,
+                                    "y": 0
+                                },
+                                "zIndex": 100,
+                                "randomizedSources": []
+                            },
+                            {
+                                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-08-06/kawaii_clouds_blue/idle.png",
+                                "loop": true,
+                                "height": 880,
+                                "width": 450,
+                                "duration": 3000,
+                                "start": 3000,
+                                "loopDelay": 0,
+                                "position": {
+                                    "x": 0,
+                                    "y": 0
+                                },
+                                "zIndex": 101,
+                                "randomizedSources": []
+                            }
+                        ]
+                    }
+                ],
+                "type": 1,
+                "premium_type": 0,
+                "category_sku_id": "1402782203099746314",
+                "google_sku_ids": {
+                    "5": "1402472280705204246_1402813138021122058",
+                    "7": "1402472280705204246_1402813146522976266"
+                }
+            }
+        ],
+        "hero_banner_asset": {
+            "animated": null,
+            "static": "https://cdn.discordapp.com/assets/content/0b324220c546c9a051af9f02569064415bd1fb8a9d913e88e46b016f319e758c.jpg"
+        },
+        "hero_logo": "1403077232955494625"
     }
 ]
