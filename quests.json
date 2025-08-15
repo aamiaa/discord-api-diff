@@ -17272,5 +17272,135 @@
             },
             "share_policy": "shareable_everywhere"
         }
+    },
+    {
+        "id": "1404545786515165285",
+        "config": {
+            "id": "1404545786515165285",
+            "config_version": 2,
+            "starts_at": "2025-08-15T17:00:30+00:00",
+            "expires_at": "2025-08-21T23:00:30+00:00",
+            "features": [
+                3,
+                9,
+                13,
+                14,
+                15,
+                16,
+                18,
+                19,
+                23
+            ],
+            "application": {
+                "link": "https://gonnaneedmilk.com/milk-cup/",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "c56cbe7d-51a9-4ccd-8e8e-7cd6afb3322e.jpg",
+                "hero_video": "c50621ea-bafa-429e-b4d4-a475a0f13fb7.webm",
+                "quest_bar_hero": "a5ccc5ec-8e57-4c51-a73c-4114318609f9.jpg",
+                "quest_bar_hero_video": "134abfa9-1be0-4bbb-b7c4-933d6c2fed37.webm",
+                "game_tile": "ed90ead4-5d8a-4b80-9088-57ec74832114.png",
+                "logotype": "20d0fa67-2765-4415-b887-a79a323ecf09.png"
+            },
+            "colors": {
+                "primary": "#50007B",
+                "secondary": "#ED2797"
+            },
+            "messages": {
+                "quest_name": "The Milk Cup",
+                "game_title": "GonnaNeedMilk",
+                "game_publisher": "GonnaNeedMilk"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "event_name": "WATCH_VIDEO",
+                        "target": 14,
+                        "external_ids": []
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 14,
+                        "assets": {
+                            "video": {
+                                "url": "bc8114bc-3f65-4507-bf65-bcc145ffa4d3.mp4",
+                                "width": 1280,
+                                "height": 720,
+                                "thumbnail": "0c0b6190-8462-4570-a9e5-1beac07d5b8d.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "d91d2244-131c-4b87-8dc9-26d13414d435.mp4",
+                                "width": 1280,
+                                "height": 720,
+                                "thumbnail": "0c0b6190-8462-4570-a9e5-1beac07d5b8d.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "The Milk Cup Quest",
+                            "video_end_cta_title": "The Milk Cup 2025",
+                            "video_end_cta_subtitle": "A $300K women's Fortnite tournament!",
+                            "video_end_cta_button_label": "Learn More"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 3,
+                        "sku_id": "1404559955960270922",
+                        "asset": "70a9428a-e7d4-409e-8034-8330aab1a8ad.mp4",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "Cow Glider Avatar Decoration",
+                            "name_with_article": "a Cow Glider Avatar Decoration",
+                            "redemption_instructions_by_platform": {
+                                "0": "Default"
+                            }
+                        },
+                        "expires_at": "2025-10-20T23:00:00+00:00",
+                        "expires_at_premium": null,
+                        "expiration_mode": 3
+                    }
+                ],
+                "rewards_expire_at": "2025-09-20T23:00:30+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "video_metadata": {
+                "messages": {
+                    "video_title": "The Milk Cup Quest",
+                    "video_end_cta_title": "The Milk Cup 2025",
+                    "video_end_cta_subtitle": "A $300K women's Fortnite tournament!",
+                    "video_end_cta_button_label": "Learn More"
+                },
+                "assets": {
+                    "video_player_video_hls": null,
+                    "video_player_video": "bc8114bc-3f65-4507-bf65-bcc145ffa4d3.mp4",
+                    "video_player_thumbnail": "0c0b6190-8462-4570-a9e5-1beac07d5b8d.jpg",
+                    "video_player_video_low_res": "d91d2244-131c-4b87-8dc9-26d13414d435.mp4",
+                    "video_player_caption": null,
+                    "video_player_transcript": null,
+                    "quest_bar_preview_video": null,
+                    "quest_bar_preview_thumbnail": null,
+                    "quest_home_video": null
+                }
+            },
+            "share_policy": "shareable_everywhere"
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
     }
 ]
