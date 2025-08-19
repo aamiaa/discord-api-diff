@@ -17407,5 +17407,269 @@
         "user_status": null,
         "targeted_content": [],
         "preview": false
+    },
+    {
+        "id": "1402298650218070137",
+        "config": {
+            "id": "1402298650218070137",
+            "config_version": 2,
+            "starts_at": "2025-08-19T17:00:11+00:00",
+            "expires_at": "2025-09-01T00:00:11+00:00",
+            "features": [
+                3,
+                9,
+                13,
+                14,
+                15,
+                16,
+                18,
+                19
+            ],
+            "application": {
+                "link": "https://m-wendys.app.link/gm-wednesday-referral-discord",
+                "id": "545364944258990091",
+                "name": "Wendy’s x Wednesday"
+            },
+            "assets": {
+                "hero": "f20eea9a-4355-4f2a-b1b5-87b0629c08e5.png",
+                "hero_video": "b9772fb9-1196-45c2-8d9f-265746af629c.webm",
+                "quest_bar_hero": "e954fe11-cc88-47e4-a0a4-64013c755434.png",
+                "quest_bar_hero_video": "834d6cc7-33aa-4739-a028-0e3fa5a554a7.webm",
+                "game_tile": "e28cf468-ba58-4a93-893d-5ee6d716b20e.png",
+                "logotype": "4b263329-fe44-45a2-94be-45ebece1eae0.png"
+            },
+            "colors": {
+                "primary": "#8C739A",
+                "secondary": "#480072"
+            },
+            "messages": {
+                "quest_name": "View If You Dare",
+                "game_title": "Wendy’s x Wednesday",
+                "game_publisher": "Wendy’s x Wednesday"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "event_name": "WATCH_VIDEO",
+                        "target": 59,
+                        "external_ids": []
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 59,
+                        "assets": {
+                            "video": {
+                                "url": "1407398037168586772.mp4",
+                                "width": 1280,
+                                "height": 720,
+                                "thumbnail": "1402303630786297866.png",
+                                "caption": "1402314202697170996.vtt",
+                                "transcript": "1402314533875351612.txt"
+                            },
+                            "video_low_res": {
+                                "url": "1402303572888260618.mp4",
+                                "width": 1280,
+                                "height": 720,
+                                "thumbnail": "1402303630786297866.png",
+                                "caption": "1402314202697170996.vtt",
+                                "transcript": "1402314533875351612.txt"
+                            },
+                            "video_hls": {
+                                "url": "1407398037168586772.m3u8",
+                                "width": 1280,
+                                "height": 720,
+                                "thumbnail": "1402303630786297866.png",
+                                "caption": "1402314202697170996.vtt",
+                                "transcript": "1402314533875351612.txt"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "View If You Dare Video",
+                            "video_end_cta_title": "Wendy’s x Wednesday",
+                            "video_end_cta_subtitle": "Wendy’s x Wednesday",
+                            "video_end_cta_button_label": "Learn More"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 3,
+                        "sku_id": "1403496300900519989",
+                        "asset": "2f6ca15e-9e9c-4217-92d2-c9f7ec14c335.mp4",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "Wendy’s x Wednesday Avatar Decoration",
+                            "name_with_article": "a Wendy’s x Wednesday Avatar Decoration",
+                            "redemption_instructions_by_platform": {
+                                "0": "Default"
+                            }
+                        },
+                        "expires_at": "2025-10-30T23:00:00+00:00",
+                        "expires_at_premium": null,
+                        "expiration_mode": 1
+                    }
+                ],
+                "rewards_expire_at": "2025-10-01T00:00:11+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "video_metadata": {
+                "messages": {
+                    "video_title": "View If You Dare Video",
+                    "video_end_cta_title": "Wendy’s x Wednesday",
+                    "video_end_cta_subtitle": "Wendy’s x Wednesday",
+                    "video_end_cta_button_label": "Learn More"
+                },
+                "assets": {
+                    "video_player_video_hls": "1407398037168586772.m3u8",
+                    "video_player_video": "1407398037168586772.mp4",
+                    "video_player_thumbnail": "1402303630786297866.png",
+                    "video_player_video_low_res": "1402303572888260618.mp4",
+                    "video_player_caption": "1402314202697170996.vtt",
+                    "video_player_transcript": "1402314533875351612.txt",
+                    "quest_bar_preview_video": null,
+                    "quest_bar_preview_thumbnail": null,
+                    "quest_home_video": null
+                }
+            },
+            "share_policy": "shareable_everywhere"
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
+    },
+    {
+        "id": "1405937585062412409",
+        "config": {
+            "id": "1405937585062412409",
+            "config_version": 2,
+            "starts_at": "2025-08-19T19:00:01+00:00",
+            "expires_at": "2025-08-26T23:00:01+00:00",
+            "features": [
+                3,
+                9,
+                13,
+                14,
+                15,
+                16,
+                18,
+                19,
+                23
+            ],
+            "application": {
+                "link": "https://www.playdeltaforce.com/wand/discordlandingpage/index.html",
+                "id": "1314682894106497096",
+                "name": "Delta Force"
+            },
+            "assets": {
+                "hero": "d0cf34dd-2eba-47b9-970e-3a2cd33a3d0f.jpg",
+                "hero_video": "84df1e49-ff22-4287-8e5d-63c3b23c8672.mp4",
+                "quest_bar_hero": "5ba0e927-0893-4546-a39a-b8e34314e859.jpg",
+                "quest_bar_hero_video": "6f8b2d40-5d48-4756-b521-52b9d9070ee4.mp4",
+                "game_tile": "bc3d5076-ec3c-48df-8fe9-581b588abbde.png",
+                "logotype": "c6bd63f2-fdb0-42d5-8dee-0f04512544cf.png"
+            },
+            "colors": {
+                "primary": "#0CA766",
+                "secondary": "#1A1A1A"
+            },
+            "messages": {
+                "quest_name": "Console Launch",
+                "game_title": "Delta Force (Free on console and PC)",
+                "game_publisher": "Team Jade"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "event_name": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "external_ids": []
+                    },
+                    "PLAY_ON_XBOX": {
+                        "event_name": "PLAY_ON_XBOX",
+                        "target": 900,
+                        "external_ids": [
+                            "1854680102"
+                        ]
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "event_name": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "external_ids": [
+                            "PPSA28883_00",
+                            "PPSA31391_00",
+                            "PPSA28881_00",
+                            "PPSA28884_00",
+                            "PPSA28882_00"
+                        ]
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900
+                    },
+                    "PLAY_ON_XBOX": {
+                        "type": "PLAY_ON_XBOX",
+                        "target": 900,
+                        "external_ids": [
+                            "1854680102"
+                        ]
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "type": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "external_ids": [
+                            "PPSA28883_00",
+                            "PPSA31391_00",
+                            "PPSA28881_00",
+                            "PPSA28884_00",
+                            "PPSA28882_00"
+                        ]
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 orbs",
+                            "name_with_article": "700 orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "Default"
+                            }
+                        },
+                        "orb_quantity": 700
+                    }
+                ],
+                "rewards_expire_at": "2025-09-25T23:00:01+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere"
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
     }
 ]
