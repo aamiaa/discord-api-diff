@@ -17287,7 +17287,6 @@
                 14,
                 15,
                 16,
-                18,
                 19,
                 23
             ],
@@ -17341,6 +17340,12 @@
                                 "width": 1280,
                                 "height": 720,
                                 "thumbnail": "0c0b6190-8462-4570-a9e5-1beac07d5b8d.jpg"
+                            },
+                            "video_hls": {
+                                "url": "bc8114bc-3f65-4507-bf65-bcc145ffa4d3.m3u8",
+                                "width": 1280,
+                                "height": 720,
+                                "thumbnail": "0c0b6190-8462-4570-a9e5-1beac07d5b8d.jpg"
                             }
                         },
                         "messages": {
@@ -17386,7 +17391,7 @@
                     "video_end_cta_button_label": "Learn More"
                 },
                 "assets": {
-                    "video_player_video_hls": null,
+                    "video_player_video_hls": "bc8114bc-3f65-4507-bf65-bcc145ffa4d3.m3u8",
                     "video_player_video": "bc8114bc-3f65-4507-bf65-bcc145ffa4d3.mp4",
                     "video_player_thumbnail": "0c0b6190-8462-4570-a9e5-1beac07d5b8d.jpg",
                     "video_player_video_low_res": "d91d2244-131c-4b87-8dc9-26d13414d435.mp4",
