@@ -87357,5 +87357,1487 @@
             "static": "https://cdn.discordapp.com/assets/content/0b324220c546c9a051af9f02569064415bd1fb8a9d913e88e46b016f319e758c.jpg"
         },
         "hero_logo": "1403077232955494625"
+    },
+    {
+        "sku_id": "1402783991349772371",
+        "name": "Secret Garden",
+        "summary": " ",
+        "store_listing_id": "1404558257296511046",
+        "banner": "1404558257321676903",
+        "unpublished_at": null,
+        "styles": {
+            "background_colors": [
+                5340797,
+                1186334
+            ],
+            "button_colors": [
+                5793266,
+                5793266
+            ],
+            "confetti_colors": [
+                43772,
+                15774258,
+                16414587,
+                3000177,
+                9739511
+            ]
+        },
+        "logo": "1404558257313284207",
+        "hero_ranking": [
+            "1404558256981938206",
+            "1404558257003040968",
+            "1404558257049305129",
+            "1404558257065824347",
+            "1404558257095184466",
+            "1404558257120612463",
+            "1404558257149710388",
+            "1404558257174876300",
+            "1404558257195847830",
+            "1404558257225207839",
+            "1404558257250373692",
+            "1404558257275539466"
+        ],
+        "mobile_bg": "1404558257410015274",
+        "pdp_bg": "1404558257380655114",
+        "mobile_banner": "1404558257397174442",
+        "featured_block": "1404558257346842744",
+        "hero_banner": null,
+        "wide_banner": null,
+        "products": [
+            {
+                "sku_id": "1404558256981938206",
+                "name": "After the Rain Bundle",
+                "summary": "A bundle of collectibles.",
+                "store_listing_id": "1404558256994648324",
+                "banner": "1404558257321676903",
+                "unpublished_at": null,
+                "styles": {
+                    "background_colors": [
+                        5340797,
+                        1186334
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 1099,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 7600,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 899,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 7600,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "items": [
+                    {
+                        "type": 0,
+                        "id": "1404558257191649351",
+                        "sku_id": "1404558257174876300",
+                        "asset": "a_25d3860e5fef3a3cfde4b89f411266fd",
+                        "label": "Green tropical leaves dripping with water droplets."
+                    },
+                    {
+                        "type": 1,
+                        "id": "1404558257242116146",
+                        "sku_id": "1404558257225207839",
+                        "title": "Spring Rain",
+                        "description": "Show this effect when others view your profile.",
+                        "accessibilityLabel": "Soft rainbow arc appears with falling green leaves on a rainy background.",
+                        "animationType": 2,
+                        "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-08-13/spring_rain/thumbnail.png",
+                        "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-08-13/spring_rain/reduced_motion.png",
+                        "effects": [
+                            {
+                                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-08-13/spring_rain/intro.png",
+                                "loop": false,
+                                "height": 880,
+                                "width": 450,
+                                "duration": 3000,
+                                "start": 0,
+                                "loopDelay": 0,
+                                "position": {
+                                    "x": 0,
+                                    "y": 0
+                                },
+                                "zIndex": 100,
+                                "randomizedSources": []
+                            },
+                            {
+                                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-08-13/spring_rain/idle.png",
+                                "loop": true,
+                                "height": 880,
+                                "width": 450,
+                                "duration": 3000,
+                                "start": 4000,
+                                "loopDelay": 1900,
+                                "position": {
+                                    "x": 0,
+                                    "y": 0
+                                },
+                                "zIndex": 101,
+                                "randomizedSources": []
+                            }
+                        ]
+                    }
+                ],
+                "type": 1000,
+                "premium_type": 0,
+                "category_sku_id": "1402783991349772371",
+                "bundled_products": [
+                    {
+                        "sku_id": "1404558257174876300",
+                        "name": "Rainy Canopy",
+                        "summary": "Give your avatar a new look.",
+                        "type": 0,
+                        "premium_type": 0,
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 599,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 499,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "sku_id": "1404558257225207839",
+                        "name": "Spring Rain",
+                        "summary": "Show this effect when others view your profile.",
+                        "type": 1,
+                        "premium_type": 0,
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 599,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 499,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ],
+                "google_sku_ids": {
+                    "5": "1404558256981938206_1405310329600344115",
+                    "7": "1404558256981938206_1405310335904252026"
+                }
+            },
+            {
+                "sku_id": "1404558257003040968",
+                "name": "Butterfly Garden Bundle",
+                "summary": "A bundle of collectibles.",
+                "store_listing_id": "1404558257015492730",
+                "banner": "1404558257321676903",
+                "unpublished_at": null,
+                "styles": {
+                    "background_colors": [
+                        5340797,
+                        1186334
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 1099,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 7600,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 899,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 7600,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "items": [
+                    {
+                        "type": 0,
+                        "id": "1404558257212756129",
+                        "sku_id": "1404558257195847830",
+                        "asset": "a_aa9afff2fe5c63067cad2e90d27daac6",
+                        "label": "Delicate snowdrop flowers hang from green stems."
+                    },
+                    {
+                        "type": 1,
+                        "id": "1404558257263087826",
+                        "sku_id": "1404558257250373692",
+                        "title": "Butterfly Haven",
+                        "description": "Show this effect when others view your profile.",
+                        "accessibilityLabel": "Pink roses border the edges with blue and pink butterflies floating through.",
+                        "animationType": 1,
+                        "staticFrameSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-08-14/butterfly_haven/static.png",
+                        "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-08-14/butterfly_haven/thumbnail.png",
+                        "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-08-14/butterfly_haven/reduced_motion.png",
+                        "effects": [
+                            {
+                                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-08-14/butterfly_haven/intro.png",
+                                "loop": false,
+                                "height": 880,
+                                "width": 450,
+                                "duration": 3000,
+                                "start": 0,
+                                "loopDelay": 0,
+                                "position": {
+                                    "x": 0,
+                                    "y": 0
+                                },
+                                "zIndex": 100,
+                                "randomizedSources": []
+                            },
+                            {
+                                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-08-14/butterfly_haven/idle.png",
+                                "loop": true,
+                                "height": 880,
+                                "width": 450,
+                                "duration": 3717,
+                                "start": 3000,
+                                "loopDelay": 0,
+                                "position": {
+                                    "x": 0,
+                                    "y": 0
+                                },
+                                "zIndex": 101,
+                                "randomizedSources": []
+                            }
+                        ]
+                    }
+                ],
+                "type": 1000,
+                "premium_type": 0,
+                "category_sku_id": "1402783991349772371",
+                "bundled_products": [
+                    {
+                        "sku_id": "1404558257195847830",
+                        "name": "Snowdrops",
+                        "summary": "Give your avatar a new look.",
+                        "type": 0,
+                        "premium_type": 0,
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 599,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 499,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "sku_id": "1404558257250373692",
+                        "name": "Butterfly Haven",
+                        "summary": "Show this effect when others view your profile.",
+                        "type": 1,
+                        "premium_type": 0,
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 599,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 499,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ],
+                "google_sku_ids": {
+                    "5": "1404558257003040968_1405308751744864307",
+                    "7": "1404558257003040968_1405308758221000744"
+                }
+            },
+            {
+                "sku_id": "1404558257049305129",
+                "name": "Greenhouse Bundle",
+                "summary": "A bundle of collectibles.",
+                "store_listing_id": "1404558257057566810",
+                "banner": "1404558257321676903",
+                "unpublished_at": null,
+                "styles": {
+                    "background_colors": [
+                        5340797,
+                        1186334
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 1099,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 7600,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 899,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 7600,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "items": [
+                    {
+                        "type": 0,
+                        "id": "1404558257166618704",
+                        "sku_id": "1404558257149710388",
+                        "asset": "a_0f40021e5de1f2d71c30bfe6b2f4f647",
+                        "label": "Circular glass window with green vines and leaves, featuring a small orange cat."
+                    },
+                    {
+                        "type": 1,
+                        "id": "1404558257288253632",
+                        "sku_id": "1404558257275539466",
+                        "title": "Wind Chime",
+                        "description": "Show this effect when others view your profile.",
+                        "accessibilityLabel": "Green leaves sway across with a golden wind chime hanging from branches.",
+                        "animationType": 1,
+                        "staticFrameSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-08-13/wind_chime/static.png",
+                        "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-08-13/wind_chime/thumbnail.png",
+                        "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-08-13/wind_chime/reduced_motion.png",
+                        "effects": [
+                            {
+                                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-08-13/wind_chime/intro.png",
+                                "loop": false,
+                                "height": 880,
+                                "width": 450,
+                                "duration": 3000,
+                                "start": 0,
+                                "loopDelay": 0,
+                                "position": {
+                                    "x": 0,
+                                    "y": 0
+                                },
+                                "zIndex": 100,
+                                "randomizedSources": []
+                            },
+                            {
+                                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-08-13/wind_chime/idle.png",
+                                "loop": true,
+                                "height": 880,
+                                "width": 450,
+                                "duration": 4000,
+                                "start": 3000,
+                                "loopDelay": 0,
+                                "position": {
+                                    "x": 0,
+                                    "y": 0
+                                },
+                                "zIndex": 101,
+                                "randomizedSources": []
+                            }
+                        ]
+                    }
+                ],
+                "type": 1000,
+                "premium_type": 0,
+                "category_sku_id": "1402783991349772371",
+                "bundled_products": [
+                    {
+                        "sku_id": "1404558257149710388",
+                        "name": "Greenhouse Cat",
+                        "summary": "Give your avatar a new look.",
+                        "type": 0,
+                        "premium_type": 0,
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 599,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 499,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "sku_id": "1404558257275539466",
+                        "name": "Wind Chime",
+                        "summary": "Show this effect when others view your profile.",
+                        "type": 1,
+                        "premium_type": 0,
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 599,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 499,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ],
+                "google_sku_ids": {
+                    "5": "1404558257049305129_1405308779683254343",
+                    "7": "1404558257049305129_1405308787501305916"
+                }
+            },
+            {
+                "sku_id": "1404558257065824347",
+                "name": "Terrarium",
+                "summary": "Give your avatar a new look.",
+                "store_listing_id": "1404558257078534235",
+                "banner": "1404558257321676903",
+                "unpublished_at": null,
+                "styles": {
+                    "background_colors": [
+                        5340797,
+                        1186334
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "items": [
+                    {
+                        "type": 0,
+                        "id": "1404558257086926858",
+                        "sku_id": "1404558257065824347",
+                        "asset": "a_aa37086d07edb37c3b9dbf6c1dd3b4ba",
+                        "label": "Glass dome filled with colorful succulents and small flowers."
+                    }
+                ],
+                "type": 0,
+                "premium_type": 0,
+                "category_sku_id": "1402783991349772371",
+                "google_sku_ids": {
+                    "5": "1404558257065824347_1405307116712890509",
+                    "7": "1404558257065824347_1405307122929111061"
+                }
+            },
+            {
+                "sku_id": "1404558257095184466",
+                "name": "Mushcaps",
+                "summary": "Give your avatar a new look.",
+                "store_listing_id": "1404558257103831080",
+                "banner": "1404558257321676903",
+                "unpublished_at": null,
+                "styles": {
+                    "background_colors": [
+                        5340797,
+                        1186334
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "items": [
+                    {
+                        "type": 0,
+                        "id": "1404558257112092763",
+                        "sku_id": "1404558257095184466",
+                        "asset": "a_a6374316855a3b2380d72cb096fa0103",
+                        "label": "Red and white spotted mushrooms with purple flowers form a decorative arch."
+                    }
+                ],
+                "type": 0,
+                "premium_type": 0,
+                "category_sku_id": "1402783991349772371",
+                "google_sku_ids": {
+                    "5": "1404558257095184466_1405308222168109237",
+                    "7": "1404558257095184466_1405308229851938917"
+                }
+            },
+            {
+                "sku_id": "1404558257120612463",
+                "name": "Blossomburst",
+                "summary": "Give your avatar a new look.",
+                "store_listing_id": "1404558257128996995",
+                "banner": "1404558257321676903",
+                "unpublished_at": null,
+                "styles": {
+                    "background_colors": [
+                        5340797,
+                        1186334
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "items": [
+                    {
+                        "type": 0,
+                        "id": "1404558257141317743",
+                        "sku_id": "1404558257120612463",
+                        "asset": "a_b37f7fd36063e08bc29a56044b7161f4",
+                        "label": "Purple wisteria and red flowers blossoms cascade from the corner."
+                    }
+                ],
+                "type": 0,
+                "premium_type": 0,
+                "category_sku_id": "1402783991349772371",
+                "google_sku_ids": {
+                    "5": "1404558257120612463_1405309462356562061",
+                    "7": "1404558257120612463_1405309472020234393"
+                }
+            },
+            {
+                "sku_id": "1404558257149710388",
+                "name": "Greenhouse Cat",
+                "summary": "Give your avatar a new look.",
+                "store_listing_id": "1404558257158357012",
+                "banner": "1404558257321676903",
+                "unpublished_at": null,
+                "styles": {
+                    "background_colors": [
+                        5340797,
+                        1186334
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "items": [
+                    {
+                        "type": 0,
+                        "id": "1404558257166618704",
+                        "sku_id": "1404558257149710388",
+                        "asset": "a_0f40021e5de1f2d71c30bfe6b2f4f647",
+                        "label": "Circular glass window with green vines and leaves, featuring a small orange cat."
+                    }
+                ],
+                "type": 0,
+                "premium_type": 0,
+                "category_sku_id": "1402783991349772371",
+                "google_sku_ids": {
+                    "5": "1404558257149710388_1405307520326832261",
+                    "7": "1404558257149710388_1405307528002146410"
+                }
+            },
+            {
+                "sku_id": "1404558257174876300",
+                "name": "Rainy Canopy",
+                "summary": "Give your avatar a new look.",
+                "store_listing_id": "1404558257183522877",
+                "banner": "1404558257321676903",
+                "unpublished_at": null,
+                "styles": {
+                    "background_colors": [
+                        5340797,
+                        1186334
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "items": [
+                    {
+                        "type": 0,
+                        "id": "1404558257191649351",
+                        "sku_id": "1404558257174876300",
+                        "asset": "a_25d3860e5fef3a3cfde4b89f411266fd",
+                        "label": "Green tropical leaves dripping with water droplets."
+                    }
+                ],
+                "type": 0,
+                "premium_type": 0,
+                "category_sku_id": "1402783991349772371",
+                "google_sku_ids": {
+                    "5": "1404558257174876300_1405307171968909362",
+                    "7": "1404558257174876300_1405307179631771739"
+                }
+            },
+            {
+                "sku_id": "1404558257195847830",
+                "name": "Snowdrops",
+                "summary": "Give your avatar a new look.",
+                "store_listing_id": "1404558257204494407",
+                "banner": "1404558257321676903",
+                "unpublished_at": null,
+                "styles": {
+                    "background_colors": [
+                        5340797,
+                        1186334
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "items": [
+                    {
+                        "type": 0,
+                        "id": "1404558257212756129",
+                        "sku_id": "1404558257195847830",
+                        "asset": "a_aa9afff2fe5c63067cad2e90d27daac6",
+                        "label": "Delicate snowdrop flowers hang from green stems."
+                    }
+                ],
+                "type": 0,
+                "premium_type": 0,
+                "category_sku_id": "1402783991349772371",
+                "google_sku_ids": {
+                    "5": "1404558257195847830_1405310038460858440",
+                    "7": "1404558257195847830_1405310048413941903"
+                }
+            },
+            {
+                "sku_id": "1404558257225207839",
+                "name": "Spring Rain",
+                "summary": "Show this effect when others view your profile.",
+                "store_listing_id": "1404558257233723543",
+                "banner": "1404558257321676903",
+                "unpublished_at": null,
+                "styles": {
+                    "background_colors": [
+                        5340797,
+                        1186334
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "items": [
+                    {
+                        "type": 1,
+                        "id": "1404558257242116146",
+                        "sku_id": "1404558257225207839",
+                        "title": "Spring Rain",
+                        "description": "Show this effect when others view your profile.",
+                        "accessibilityLabel": "Soft rainbow arc appears with falling green leaves on a rainy background.",
+                        "animationType": 2,
+                        "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-08-13/spring_rain/thumbnail.png",
+                        "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-08-13/spring_rain/reduced_motion.png",
+                        "effects": [
+                            {
+                                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-08-13/spring_rain/intro.png",
+                                "loop": false,
+                                "height": 880,
+                                "width": 450,
+                                "duration": 3000,
+                                "start": 0,
+                                "loopDelay": 0,
+                                "position": {
+                                    "x": 0,
+                                    "y": 0
+                                },
+                                "zIndex": 100,
+                                "randomizedSources": []
+                            },
+                            {
+                                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-08-13/spring_rain/idle.png",
+                                "loop": true,
+                                "height": 880,
+                                "width": 450,
+                                "duration": 3000,
+                                "start": 4000,
+                                "loopDelay": 1900,
+                                "position": {
+                                    "x": 0,
+                                    "y": 0
+                                },
+                                "zIndex": 101,
+                                "randomizedSources": []
+                            }
+                        ]
+                    }
+                ],
+                "type": 1,
+                "premium_type": 0,
+                "category_sku_id": "1402783991349772371",
+                "google_sku_ids": {
+                    "5": "1404558257225207839_1405307075738996856",
+                    "7": "1404558257225207839_1405307083242344552"
+                }
+            },
+            {
+                "sku_id": "1404558257250373692",
+                "name": "Butterfly Haven",
+                "summary": "Show this effect when others view your profile.",
+                "store_listing_id": "1404558257254826225",
+                "banner": "1404558257321676903",
+                "unpublished_at": null,
+                "styles": {
+                    "background_colors": [
+                        5340797,
+                        1186334
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "items": [
+                    {
+                        "type": 1,
+                        "id": "1404558257263087826",
+                        "sku_id": "1404558257250373692",
+                        "title": "Butterfly Haven",
+                        "description": "Show this effect when others view your profile.",
+                        "accessibilityLabel": "Pink roses border the edges with blue and pink butterflies floating through.",
+                        "animationType": 1,
+                        "staticFrameSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-08-14/butterfly_haven/static.png",
+                        "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-08-14/butterfly_haven/thumbnail.png",
+                        "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-08-14/butterfly_haven/reduced_motion.png",
+                        "effects": [
+                            {
+                                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-08-14/butterfly_haven/intro.png",
+                                "loop": false,
+                                "height": 880,
+                                "width": 450,
+                                "duration": 3000,
+                                "start": 0,
+                                "loopDelay": 0,
+                                "position": {
+                                    "x": 0,
+                                    "y": 0
+                                },
+                                "zIndex": 100,
+                                "randomizedSources": []
+                            },
+                            {
+                                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-08-14/butterfly_haven/idle.png",
+                                "loop": true,
+                                "height": 880,
+                                "width": 450,
+                                "duration": 3717,
+                                "start": 3000,
+                                "loopDelay": 0,
+                                "position": {
+                                    "x": 0,
+                                    "y": 0
+                                },
+                                "zIndex": 101,
+                                "randomizedSources": []
+                            }
+                        ]
+                    }
+                ],
+                "type": 1,
+                "premium_type": 0,
+                "category_sku_id": "1402783991349772371",
+                "google_sku_ids": {
+                    "5": "1404558257250373692_1405310448709927152",
+                    "7": "1404558257250373692_1405310456167661719"
+                }
+            },
+            {
+                "sku_id": "1404558257275539466",
+                "name": "Wind Chime",
+                "summary": "Show this effect when others view your profile.",
+                "store_listing_id": "1404558257279991919",
+                "banner": "1404558257321676903",
+                "unpublished_at": null,
+                "styles": {
+                    "background_colors": [
+                        5340797,
+                        1186334
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "items": [
+                    {
+                        "type": 1,
+                        "id": "1404558257288253632",
+                        "sku_id": "1404558257275539466",
+                        "title": "Wind Chime",
+                        "description": "Show this effect when others view your profile.",
+                        "accessibilityLabel": "Green leaves sway across with a golden wind chime hanging from branches.",
+                        "animationType": 1,
+                        "staticFrameSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-08-13/wind_chime/static.png",
+                        "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-08-13/wind_chime/thumbnail.png",
+                        "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-08-13/wind_chime/reduced_motion.png",
+                        "effects": [
+                            {
+                                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-08-13/wind_chime/intro.png",
+                                "loop": false,
+                                "height": 880,
+                                "width": 450,
+                                "duration": 3000,
+                                "start": 0,
+                                "loopDelay": 0,
+                                "position": {
+                                    "x": 0,
+                                    "y": 0
+                                },
+                                "zIndex": 100,
+                                "randomizedSources": []
+                            },
+                            {
+                                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-08-13/wind_chime/idle.png",
+                                "loop": true,
+                                "height": 880,
+                                "width": 450,
+                                "duration": 4000,
+                                "start": 3000,
+                                "loopDelay": 0,
+                                "position": {
+                                    "x": 0,
+                                    "y": 0
+                                },
+                                "zIndex": 101,
+                                "randomizedSources": []
+                            }
+                        ]
+                    }
+                ],
+                "type": 1,
+                "premium_type": 0,
+                "category_sku_id": "1402783991349772371",
+                "google_sku_ids": {
+                    "5": "1404558257275539466_1405309444719378604",
+                    "7": "1404558257275539466_1405309452009341029"
+                }
+            }
+        ],
+        "hero_banner_asset": {
+            "animated": null,
+            "static": "https://cdn.discordapp.com/assets/content/e51b486a1d5cc225f1bdd42744c472eeac5a08e50ac8f40215b4b229ae282e35.jpg"
+        },
+        "hero_logo": "1404558257338585229"
     }
 ]

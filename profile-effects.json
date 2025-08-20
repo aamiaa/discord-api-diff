@@ -10372,5 +10372,136 @@
                 "randomizedSources": []
             }
         ]
+    },
+    {
+        "type": 1,
+        "id": "1404558257242116146",
+        "sku_id": "1404558257225207839",
+        "title": "Spring Rain",
+        "description": "Show this effect when others view your profile.",
+        "accessibilityLabel": "Soft rainbow arc appears with falling green leaves on a rainy background.",
+        "animationType": 2,
+        "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-08-13/spring_rain/thumbnail.png",
+        "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-08-13/spring_rain/reduced_motion.png",
+        "effects": [
+            {
+                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-08-13/spring_rain/intro.png",
+                "loop": false,
+                "height": 880,
+                "width": 450,
+                "duration": 3000,
+                "start": 0,
+                "loopDelay": 0,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "zIndex": 100,
+                "randomizedSources": []
+            },
+            {
+                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-08-13/spring_rain/idle.png",
+                "loop": true,
+                "height": 880,
+                "width": 450,
+                "duration": 3000,
+                "start": 4000,
+                "loopDelay": 1900,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "zIndex": 101,
+                "randomizedSources": []
+            }
+        ]
+    },
+    {
+        "type": 1,
+        "id": "1404558257263087826",
+        "sku_id": "1404558257250373692",
+        "title": "Butterfly Haven",
+        "description": "Show this effect when others view your profile.",
+        "accessibilityLabel": "Pink roses border the edges with blue and pink butterflies floating through.",
+        "animationType": 1,
+        "staticFrameSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-08-14/butterfly_haven/static.png",
+        "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-08-14/butterfly_haven/thumbnail.png",
+        "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-08-14/butterfly_haven/reduced_motion.png",
+        "effects": [
+            {
+                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-08-14/butterfly_haven/intro.png",
+                "loop": false,
+                "height": 880,
+                "width": 450,
+                "duration": 3000,
+                "start": 0,
+                "loopDelay": 0,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "zIndex": 100,
+                "randomizedSources": []
+            },
+            {
+                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-08-14/butterfly_haven/idle.png",
+                "loop": true,
+                "height": 880,
+                "width": 450,
+                "duration": 3717,
+                "start": 3000,
+                "loopDelay": 0,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "zIndex": 101,
+                "randomizedSources": []
+            }
+        ]
+    },
+    {
+        "type": 1,
+        "id": "1404558257288253632",
+        "sku_id": "1404558257275539466",
+        "title": "Wind Chime",
+        "description": "Show this effect when others view your profile.",
+        "accessibilityLabel": "Green leaves sway across with a golden wind chime hanging from branches.",
+        "animationType": 1,
+        "staticFrameSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-08-13/wind_chime/static.png",
+        "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-08-13/wind_chime/thumbnail.png",
+        "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-08-13/wind_chime/reduced_motion.png",
+        "effects": [
+            {
+                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-08-13/wind_chime/intro.png",
+                "loop": false,
+                "height": 880,
+                "width": 450,
+                "duration": 3000,
+                "start": 0,
+                "loopDelay": 0,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "zIndex": 100,
+                "randomizedSources": []
+            },
+            {
+                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-08-13/wind_chime/idle.png",
+                "loop": true,
+                "height": 880,
+                "width": 450,
+                "duration": 4000,
+                "start": 3000,
+                "loopDelay": 0,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "zIndex": 101,
+                "randomizedSources": []
+            }
+        ]
     }
 ]
