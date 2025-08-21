@@ -16479,8 +16479,8 @@
                         "assets": {
                             "video": {
                                 "url": "1400284453556977788.mp4",
-                                "width": 1280,
-                                "height": 720,
+                                "width": 1920,
+                                "height": 1080,
                                 "thumbnail": "7118e423-65dd-4d10-85b7-9d15b4c50343.jpg",
                                 "caption": "98000ce8-a8b5-4223-bff3-d64dbbb5135b.vtt",
                                 "transcript": "46e39c88-53bd-45f2-a362-4480a742cba6.txt"
@@ -16495,8 +16495,8 @@
                             },
                             "video_hls": {
                                 "url": "1400284453556977788.m3u8",
-                                "width": 1280,
-                                "height": 720,
+                                "width": 1920,
+                                "height": 1080,
                                 "thumbnail": "7118e423-65dd-4d10-85b7-9d15b4c50343.jpg",
                                 "caption": "98000ce8-a8b5-4223-bff3-d64dbbb5135b.vtt",
                                 "transcript": "46e39c88-53bd-45f2-a362-4480a742cba6.txt"
@@ -16862,8 +16862,8 @@
                         "assets": {
                             "video": {
                                 "url": "1400914052703719575.mp4",
-                                "width": 1280,
-                                "height": 720,
+                                "width": 1920,
+                                "height": 1080,
                                 "thumbnail": "1400914107565346856.jpg",
                                 "caption": "c2e30786-caec-4d19-8cb4-6880d4be84c2.vtt",
                                 "transcript": "6b49e6bc-a138-4897-bbbb-835a15c2edd4.txt"
@@ -16878,8 +16878,8 @@
                             },
                             "video_hls": {
                                 "url": "1400914052703719575.m3u8",
-                                "width": 1280,
-                                "height": 720,
+                                "width": 1920,
+                                "height": 1080,
                                 "thumbnail": "1400914107565346856.jpg",
                                 "caption": "c2e30786-caec-4d19-8cb4-6880d4be84c2.vtt",
                                 "transcript": "6b49e6bc-a138-4897-bbbb-835a15c2edd4.txt"
@@ -17466,8 +17466,8 @@
                         "assets": {
                             "video": {
                                 "url": "1407398037168586772.mp4",
-                                "width": 1280,
-                                "height": 720,
+                                "width": 1920,
+                                "height": 1080,
                                 "thumbnail": "1402303630786297866.png",
                                 "caption": "1402314202697170996.vtt",
                                 "transcript": "1402314533875351612.txt"
@@ -17482,8 +17482,8 @@
                             },
                             "video_hls": {
                                 "url": "1407398037168586772.m3u8",
-                                "width": 1280,
-                                "height": 720,
+                                "width": 1920,
+                                "height": 1080,
                                 "thumbnail": "1402303630786297866.png",
                                 "caption": "1402314202697170996.vtt",
                                 "transcript": "1402314533875351612.txt"
@@ -17671,5 +17671,518 @@
         "user_status": null,
         "targeted_content": [],
         "preview": false
+    },
+    {
+        "id": "1407144000388989058",
+        "config": {
+            "id": "1407144000388989058",
+            "config_version": 2,
+            "starts_at": "2025-08-21T17:00:53+00:00",
+            "expires_at": "2025-08-26T23:00:53+00:00",
+            "features": [
+                3,
+                9,
+                13,
+                14,
+                15,
+                16,
+                18,
+                19,
+                23
+            ],
+            "application": {
+                "link": "https://plus.espn.com/",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "9eb000b3-752e-4ade-8182-ca9c60f829bb.jpg",
+                "hero_video": "e0cb617c-5dda-47e2-8e50-9140dcc0b7ef.mp4",
+                "quest_bar_hero": "174c97e4-c7e5-4524-8354-440a3a4a563b.jpg",
+                "quest_bar_hero_video": "977da603-582e-419f-ac72-fbc36bb6b642.mp4",
+                "game_tile": "f1781b73-7b06-4f81-abb2-a7be16af78aa.png",
+                "logotype": "33811ea6-64ac-416a-b041-3b6b6f626b06.png"
+            },
+            "colors": {
+                "primary": "#FF0033",
+                "secondary": "#FF0033"
+            },
+            "messages": {
+                "quest_name": "ESPN",
+                "game_title": "Your home for the most and best live sports",
+                "game_publisher": "ESPN"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "event_name": "WATCH_VIDEO",
+                        "target": 29,
+                        "external_ids": []
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 29,
+                        "assets": {
+                            "video": {
+                                "url": "9a5ba0d0-1671-400c-a60f-3fbc230b7cd6.mp4",
+                                "width": 1280,
+                                "height": 720,
+                                "thumbnail": "e5ff48d2-5f68-4ca7-8a7d-75032ea190d5.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "a452527c-3c7a-4c5f-8ace-0a676315e159.mp4",
+                                "width": 1280,
+                                "height": 720,
+                                "thumbnail": "e5ff48d2-5f68-4ca7-8a7d-75032ea190d5.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "ESPN Video",
+                            "video_end_cta_title": "ESPN",
+                            "video_end_cta_subtitle": "Over 47,000 live events, studio shows, and more",
+                            "video_end_cta_button_label": "Sign Up"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 orbs",
+                            "name_with_article": "700 orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "Default"
+                            }
+                        },
+                        "orb_quantity": 700
+                    }
+                ],
+                "rewards_expire_at": "2025-09-25T23:00:53+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "video_metadata": {
+                "messages": {
+                    "video_title": "ESPN Video",
+                    "video_end_cta_title": "ESPN",
+                    "video_end_cta_subtitle": "Over 47,000 live events, studio shows, and more",
+                    "video_end_cta_button_label": "Sign Up"
+                },
+                "assets": {
+                    "video_player_video_hls": null,
+                    "video_player_video": "9a5ba0d0-1671-400c-a60f-3fbc230b7cd6.mp4",
+                    "video_player_thumbnail": "e5ff48d2-5f68-4ca7-8a7d-75032ea190d5.jpg",
+                    "video_player_video_low_res": "a452527c-3c7a-4c5f-8ace-0a676315e159.mp4",
+                    "video_player_caption": "a2a6de13-b074-4551-8542-db622af013df.vtt",
+                    "video_player_transcript": "a90535b5-ace7-4a89-8b91-4f88ec7244af.txt",
+                    "quest_bar_preview_video": null,
+                    "quest_bar_preview_thumbnail": null,
+                    "quest_home_video": null
+                }
+            },
+            "share_policy": "shareable_everywhere"
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
+    },
+    {
+        "id": "1405308829612114071",
+        "config": {
+            "id": "1405308829612114071",
+            "config_version": 2,
+            "starts_at": "2025-08-21T17:25:34+00:00",
+            "expires_at": "2025-08-27T23:00:34+00:00",
+            "features": [
+                3,
+                9,
+                13,
+                14,
+                15,
+                16,
+                18,
+                19,
+                23
+            ],
+            "application": {
+                "link": "https://store.steampowered.com/app/2456740/?utm_source=us&utm_campaign=ads&utm_medium=discord_video&utm_term=cahaya_0820",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "401f15f8-c346-4d74-9278-cc5da73d24ae.jpg",
+                "hero_video": "81dc5232-7901-417d-8a6f-7ba031220c9c.mp4",
+                "quest_bar_hero": "605c7c27-2e5b-4357-b822-c7f6488b5a48.jpg",
+                "quest_bar_hero_video": "8f7f3afa-c926-4103-a5ac-b7c5aadcf2eb.mp4",
+                "game_tile": "d1886aec-414e-4847-b4c5-42336ab230c1.png",
+                "logotype": "e0b66f7f-6126-4bfd-8f89-9c04e837af4d.png"
+            },
+            "colors": {
+                "primary": "#83BBFF",
+                "secondary": "#6969EE"
+            },
+            "messages": {
+                "quest_name": "inZOI Update",
+                "game_title": "inZOI",
+                "game_publisher": "KRAFTON"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "event_name": "WATCH_VIDEO",
+                        "target": 64,
+                        "external_ids": []
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 64,
+                        "assets": {
+                            "video": {
+                                "url": "1405312350256369684.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "1405312439972528249.png"
+                            },
+                            "video_low_res": {
+                                "url": "1405312385236992061.mp4",
+                                "width": 1280,
+                                "height": 720,
+                                "thumbnail": "1405312439972528249.png"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "inZOI: Island Getaway Trailer",
+                            "video_end_cta_title": "inZOI: Island Getaway",
+                            "video_end_cta_subtitle": "inZOI: Island Getaway",
+                            "video_end_cta_button_label": "Play Now"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 3,
+                        "sku_id": "1407510667489185793",
+                        "asset": "1442f4dc-24d8-4776-b294-addbafe0390b.mp4",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "inZOI Psycat Avatar Decoration",
+                            "name_with_article": "an inZOI Psycat Avatar Decoration",
+                            "redemption_instructions_by_platform": {
+                                "0": "Default"
+                            }
+                        },
+                        "expires_at": "2025-10-25T23:00:00+00:00",
+                        "expires_at_premium": null,
+                        "expiration_mode": 3
+                    }
+                ],
+                "rewards_expire_at": "2025-09-26T23:00:34+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "video_metadata": {
+                "messages": {
+                    "video_title": "inZOI: Island Getaway Trailer",
+                    "video_end_cta_title": "inZOI: Island Getaway",
+                    "video_end_cta_subtitle": "inZOI: Island Getaway",
+                    "video_end_cta_button_label": "Play Now"
+                },
+                "assets": {
+                    "video_player_video_hls": null,
+                    "video_player_video": "1405312350256369684.mp4",
+                    "video_player_thumbnail": "1405312439972528249.png",
+                    "video_player_video_low_res": "1405312385236992061.mp4",
+                    "video_player_caption": null,
+                    "video_player_transcript": null,
+                    "quest_bar_preview_video": null,
+                    "quest_bar_preview_thumbnail": null,
+                    "quest_home_video": null
+                }
+            },
+            "share_policy": "shareable_everywhere"
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
+    },
+    {
+        "id": "1407493222481137734",
+        "config": {
+            "id": "1407493222481137734",
+            "config_version": 2,
+            "starts_at": "2025-08-21T17:10:34+00:00",
+            "expires_at": "2025-08-27T23:00:34+00:00",
+            "features": [
+                3,
+                9,
+                13,
+                14,
+                15,
+                16,
+                18,
+                19,
+                23
+            ],
+            "application": {
+                "link": "https://voidinteractive.net/ready-or-not-console/?utm_source=discord&utm_medium=paidmedialqa&utm_campaign=ron-launch-us&utm_term=shooterfans&utm_content=launchtrailerv2-1920x1080-30s",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "7592df56-1cbe-413a-b83d-563fecadc870.jpg",
+                "hero_video": "248b9e18-4a68-4710-bfc0-8b399c922dfe.mp4",
+                "quest_bar_hero": "aa65fd45-2a7f-4efc-930d-3027306cbc2f.jpg",
+                "quest_bar_hero_video": "f705b735-b748-4952-840f-b7449aa9cc2a.mp4",
+                "game_tile": "621f48bd-bad1-453c-b441-f690a34f6884.jpg",
+                "logotype": "0aa89d16-cc9d-4a58-9a84-85a4f95c8bfb.png"
+            },
+            "colors": {
+                "primary": "#D90000",
+                "secondary": "#1A1A1A"
+            },
+            "messages": {
+                "quest_name": "Ready or Not",
+                "game_title": "Ready or Not Trailer",
+                "game_publisher": "VOID Interactive"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "event_name": "WATCH_VIDEO",
+                        "target": 29,
+                        "external_ids": []
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 29,
+                        "assets": {
+                            "video": {
+                                "url": "7e4631b3-fe4b-47dd-b060-42377cd634d5.mp4",
+                                "width": 1280,
+                                "height": 720,
+                                "thumbnail": "03ce1bf4-2033-4b42-aa84-6650294c0a9a.png",
+                                "caption": "35feeea2-e668-4ad1-bb58-2fb6543bb978.vtt",
+                                "transcript": "394be344-7d1a-43e0-8468-8a0fd3c1d145.txt"
+                            },
+                            "video_low_res": {
+                                "url": "ad9a025a-3cb0-4a68-8f05-85585ba498b3.mp4",
+                                "width": 1280,
+                                "height": 720,
+                                "thumbnail": "03ce1bf4-2033-4b42-aa84-6650294c0a9a.png",
+                                "caption": "35feeea2-e668-4ad1-bb58-2fb6543bb978.vtt",
+                                "transcript": "394be344-7d1a-43e0-8468-8a0fd3c1d145.txt"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "Ready or Not Trailer",
+                            "video_end_cta_title": "Available Now",
+                            "video_end_cta_subtitle": "ESRB Rating: M (Mature 17+)",
+                            "video_end_cta_button_label": "Get Game"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 orbs",
+                            "name_with_article": "700 orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "Default"
+                            }
+                        },
+                        "orb_quantity": 700
+                    }
+                ],
+                "rewards_expire_at": "2025-09-26T23:00:34+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "video_metadata": {
+                "messages": {
+                    "video_title": "Ready or Not Trailer",
+                    "video_end_cta_title": "Available Now",
+                    "video_end_cta_subtitle": "ESRB Rating: M (Mature 17+)",
+                    "video_end_cta_button_label": "Get Game"
+                },
+                "assets": {
+                    "video_player_video_hls": null,
+                    "video_player_video": "7e4631b3-fe4b-47dd-b060-42377cd634d5.mp4",
+                    "video_player_thumbnail": "03ce1bf4-2033-4b42-aa84-6650294c0a9a.png",
+                    "video_player_video_low_res": "ad9a025a-3cb0-4a68-8f05-85585ba498b3.mp4",
+                    "video_player_caption": "35feeea2-e668-4ad1-bb58-2fb6543bb978.vtt",
+                    "video_player_transcript": "394be344-7d1a-43e0-8468-8a0fd3c1d145.txt",
+                    "quest_bar_preview_video": null,
+                    "quest_bar_preview_thumbnail": null,
+                    "quest_home_video": null
+                }
+            },
+            "share_policy": "shareable_everywhere"
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
+    },
+    {
+        "id": "1407419985739124827",
+        "config": {
+            "id": "1407419985739124827",
+            "config_version": 2,
+            "starts_at": "2025-08-21T17:00:33+00:00",
+            "expires_at": "2025-08-26T23:00:33+00:00",
+            "features": [
+                3,
+                9,
+                13,
+                14,
+                15,
+                16,
+                18,
+                19,
+                23
+            ],
+            "application": {
+                "link": "https://plus.espn.com/",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "b37c0a28-9f71-4192-a6a1-ac99ab2dae1b.jpg",
+                "hero_video": "39f35172-c079-4317-99ae-d92dfbfc9db1.mp4",
+                "quest_bar_hero": "b11b7830-9b8b-44e0-8969-512fcead139c.jpg",
+                "quest_bar_hero_video": "ba936fea-4a12-491c-b493-b558d7dafdd5.mp4",
+                "game_tile": "2f26aab7-057d-4c7b-a30e-838b64078ca9.png",
+                "logotype": "f940bba4-69dc-4eda-b284-4aee038d4bb1.png"
+            },
+            "colors": {
+                "primary": "#FF0033",
+                "secondary": "#FF0033"
+            },
+            "messages": {
+                "quest_name": "ESPN",
+                "game_title": "Your home for the most and best live sports",
+                "game_publisher": "ESPN"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "event_name": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 14,
+                        "external_ids": []
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 14,
+                        "assets": {
+                            "video": {
+                                "url": "94744893-b3b7-4e09-9b13-2d73872e4730.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "dd8bf238-fa62-4683-999d-9ea79e99aa91.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "278a2f55-aea0-4442-a2ef-518113125b3c.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "dd8bf238-fa62-4683-999d-9ea79e99aa91.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "ESPN Video",
+                            "video_end_cta_title": "ESPN",
+                            "video_end_cta_subtitle": "Over 47,000 live events, studio shows, and more",
+                            "video_end_cta_button_label": "Sign Up"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 3,
+                        "sku_id": "1407488570469646397",
+                        "asset": "dbd9d2ad-39dc-4ca7-9519-6ef5c672a43e.mp4",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "ESPN Avatar Decoration",
+                            "name_with_article": "an ESPN Avatar Decoration",
+                            "redemption_instructions_by_platform": {
+                                "0": "Default"
+                            }
+                        },
+                        "expires_at": "2025-10-25T23:00:00+00:00",
+                        "expires_at_premium": null,
+                        "expiration_mode": 3
+                    }
+                ],
+                "rewards_expire_at": "2025-09-25T23:00:33+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "video_metadata": {
+                "messages": {
+                    "video_title": "ESPN Video",
+                    "video_end_cta_title": "ESPN",
+                    "video_end_cta_subtitle": "Over 47,000 live events, studio shows, and more",
+                    "video_end_cta_button_label": "Sign Up"
+                },
+                "assets": {
+                    "video_player_video_hls": null,
+                    "video_player_video": "94744893-b3b7-4e09-9b13-2d73872e4730.mp4",
+                    "video_player_thumbnail": "dd8bf238-fa62-4683-999d-9ea79e99aa91.jpg",
+                    "video_player_video_low_res": "278a2f55-aea0-4442-a2ef-518113125b3c.mp4",
+                    "video_player_caption": "6df8c24f-47d9-4c06-91a7-c14ba34f53cc.vtt",
+                    "video_player_transcript": "3ab12e6a-62a3-49a7-b1b8-ea4c59ed0919.txt",
+                    "quest_bar_preview_video": null,
+                    "quest_bar_preview_thumbnail": null,
+                    "quest_home_video": null
+                }
+            },
+            "share_policy": "shareable_everywhere"
+        }
     }
 ]
