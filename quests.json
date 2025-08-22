@@ -18184,5 +18184,135 @@
             },
             "share_policy": "shareable_everywhere"
         }
+    },
+    {
+        "id": "1405281486763987015",
+        "config": {
+            "id": "1405281486763987015",
+            "config_version": 2,
+            "starts_at": "2025-08-22T17:00:55+00:00",
+            "expires_at": "2025-08-28T23:00:55+00:00",
+            "features": [
+                3,
+                9,
+                13,
+                14,
+                15,
+                16,
+                18,
+                19,
+                23
+            ],
+            "application": {
+                "link": "https://www.kingofmeat.com/pre-order?utm_source=Discord&utm_campaign=_KoMeat_Discord_USDE_Web_AWS_HighImpact_CPM_VIDQUEST1_Custom_20250822_NA_null",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "7b6c4b30-e1e4-4489-a427-4e06971c157f.jpg",
+                "hero_video": "6ee13cc4-3412-45fe-8734-84a17bc958ee.mp4",
+                "quest_bar_hero": "872b0c5d-3cff-4836-8ab9-8a3d2aee40a2.jpg",
+                "quest_bar_hero_video": "ac8a5fbe-bea9-43b5-a77e-1feb1a6dfbd0.mp4",
+                "game_tile": "97d1f08d-72b6-4e61-a78c-77f65d2f32cb.png",
+                "logotype": "96ea5ca0-72be-47f9-b034-b42fcfac8161.png"
+            },
+            "colors": {
+                "primary": "#B8860B",
+                "secondary": "#00113E"
+            },
+            "messages": {
+                "quest_name": "King of Meat",
+                "game_title": "King of Meat Release Date Trailer",
+                "game_publisher": "Amazon Games"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "event_name": "WATCH_VIDEO",
+                        "target": 168,
+                        "external_ids": []
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 168,
+                        "assets": {
+                            "video": {
+                                "url": "cb1831cd-5479-4d19-bbe1-740d2cb1d92e.mp4",
+                                "width": 1280,
+                                "height": 720,
+                                "thumbnail": "1ee3cb0e-8659-4c1e-ba28-e5ea7d3f0538.png",
+                                "caption": "1407090403613868162.vtt",
+                                "transcript": "1407090452150354111.txt"
+                            },
+                            "video_low_res": {
+                                "url": "95823672-d2d9-4032-8fa4-3df8eded7c7b.mp4",
+                                "width": 1280,
+                                "height": 720,
+                                "thumbnail": "1ee3cb0e-8659-4c1e-ba28-e5ea7d3f0538.png",
+                                "caption": "1407090403613868162.vtt",
+                                "transcript": "1407090452150354111.txt"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "King of Meat Release Date Trailer",
+                            "video_end_cta_title": "King of Meat Release Date Trailer",
+                            "video_end_cta_subtitle": "ESRB Rating: T (Teen)",
+                            "video_end_cta_button_label": "Wishlist Now"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 orbs",
+                            "name_with_article": "700 orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "Default"
+                            }
+                        },
+                        "orb_quantity": 700
+                    }
+                ],
+                "rewards_expire_at": "2025-09-27T23:00:55+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "video_metadata": {
+                "messages": {
+                    "video_title": "King of Meat Release Date Trailer",
+                    "video_end_cta_title": "King of Meat Release Date Trailer",
+                    "video_end_cta_subtitle": "ESRB Rating: T (Teen)",
+                    "video_end_cta_button_label": "Wishlist Now"
+                },
+                "assets": {
+                    "video_player_video_hls": null,
+                    "video_player_video": "cb1831cd-5479-4d19-bbe1-740d2cb1d92e.mp4",
+                    "video_player_thumbnail": "1ee3cb0e-8659-4c1e-ba28-e5ea7d3f0538.png",
+                    "video_player_video_low_res": "95823672-d2d9-4032-8fa4-3df8eded7c7b.mp4",
+                    "video_player_caption": "1407090403613868162.vtt",
+                    "video_player_transcript": "1407090452150354111.txt",
+                    "quest_bar_preview_video": null,
+                    "quest_bar_preview_thumbnail": null,
+                    "quest_home_video": null
+                }
+            },
+            "share_policy": "shareable_everywhere"
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
     }
 ]
