@@ -17733,13 +17733,17 @@
                                 "url": "9a5ba0d0-1671-400c-a60f-3fbc230b7cd6.mp4",
                                 "width": 1280,
                                 "height": 720,
-                                "thumbnail": "e5ff48d2-5f68-4ca7-8a7d-75032ea190d5.jpg"
+                                "thumbnail": "e5ff48d2-5f68-4ca7-8a7d-75032ea190d5.jpg",
+                                "caption": "a2a6de13-b074-4551-8542-db622af013df.vtt",
+                                "transcript": "a90535b5-ace7-4a89-8b91-4f88ec7244af.txt"
                             },
                             "video_low_res": {
                                 "url": "a452527c-3c7a-4c5f-8ace-0a676315e159.mp4",
                                 "width": 1280,
                                 "height": 720,
-                                "thumbnail": "e5ff48d2-5f68-4ca7-8a7d-75032ea190d5.jpg"
+                                "thumbnail": "e5ff48d2-5f68-4ca7-8a7d-75032ea190d5.jpg",
+                                "caption": "a2a6de13-b074-4551-8542-db622af013df.vtt",
+                                "transcript": "a90535b5-ace7-4a89-8b91-4f88ec7244af.txt"
                             }
                         },
                         "messages": {
@@ -18119,13 +18123,17 @@
                                 "url": "94744893-b3b7-4e09-9b13-2d73872e4730.mp4",
                                 "width": 1080,
                                 "height": 1920,
-                                "thumbnail": "dd8bf238-fa62-4683-999d-9ea79e99aa91.jpg"
+                                "thumbnail": "dd8bf238-fa62-4683-999d-9ea79e99aa91.jpg",
+                                "caption": "6df8c24f-47d9-4c06-91a7-c14ba34f53cc.vtt",
+                                "transcript": "3ab12e6a-62a3-49a7-b1b8-ea4c59ed0919.txt"
                             },
                             "video_low_res": {
                                 "url": "278a2f55-aea0-4442-a2ef-518113125b3c.mp4",
                                 "width": 1080,
                                 "height": 1920,
-                                "thumbnail": "dd8bf238-fa62-4683-999d-9ea79e99aa91.jpg"
+                                "thumbnail": "dd8bf238-fa62-4683-999d-9ea79e99aa91.jpg",
+                                "caption": "6df8c24f-47d9-4c06-91a7-c14ba34f53cc.vtt",
+                                "transcript": "3ab12e6a-62a3-49a7-b1b8-ea4c59ed0919.txt"
                             }
                         },
                         "messages": {
@@ -18434,6 +18442,262 @@
                     "video_player_video_low_res": "85eef19c-e76c-4bd0-81a6-beeba2bc24a1.mp4",
                     "video_player_caption": "cc.vtt",
                     "video_player_transcript": "ts.txt",
+                    "quest_bar_preview_video": null,
+                    "quest_bar_preview_thumbnail": null,
+                    "quest_home_video": null
+                }
+            },
+            "share_policy": "shareable_everywhere"
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
+    },
+    {
+        "id": "1407146649637359628",
+        "config": {
+            "id": "1407146649637359628",
+            "config_version": 2,
+            "starts_at": "2025-08-25T17:00:24+00:00",
+            "expires_at": "2025-09-12T23:00:24+00:00",
+            "features": [
+                3,
+                9,
+                13,
+                14,
+                15,
+                16,
+                18,
+                19,
+                23
+            ],
+            "application": {
+                "link": "https://www.demonslayer-movie.com/?utm_source=discord&utm_medium=core",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "0170b6c8-aa5a-48ec-afc6-41420ba6c814.jpg",
+                "hero_video": "f640ddb5-ab33-48fe-9e0c-09fe963c4c0c.mp4",
+                "quest_bar_hero": "29a6999f-2130-47fe-93e3-6f8bfceac7af.jpg",
+                "quest_bar_hero_video": "8a947b90-cfb3-4d8c-bd88-dc6d3ee3f392.mp4",
+                "game_tile": "5298b349-986f-4b4f-bf85-b56291578da0.png",
+                "logotype": "e394ab98-f056-4989-8e85-7d0ede050efa.png"
+            },
+            "colors": {
+                "primary": "#E21A13",
+                "secondary": "#E21A13"
+            },
+            "messages": {
+                "quest_name": "Demon Slayer: Infinity Castle",
+                "game_title": "Exclusively in Movie Theatres",
+                "game_publisher": "Demon Slayer: Infinity Castle"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "event_name": "WATCH_VIDEO",
+                        "target": 86,
+                        "external_ids": []
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 86,
+                        "assets": {
+                            "video": {
+                                "url": "4d30e9f0-6d92-4517-8a76-f8d243754ff3.mp4",
+                                "width": 1280,
+                                "height": 720,
+                                "thumbnail": "08e10594-4467-4add-8214-6386439775c4.png"
+                            },
+                            "video_low_res": {
+                                "url": "87f63c0a-6201-4aff-88bc-3e94711f4737.mp4",
+                                "width": 1280,
+                                "height": 720,
+                                "thumbnail": "08e10594-4467-4add-8214-6386439775c4.png"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "Demon Slayer: Infinity Castle Trailer",
+                            "video_end_cta_title": "Demon Slayer",
+                            "video_end_cta_subtitle": "Exclusively In Movie Theatres September 12",
+                            "video_end_cta_button_label": "Get Tickets"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 orbs",
+                            "name_with_article": "700 orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "Default"
+                            }
+                        },
+                        "orb_quantity": 700
+                    }
+                ],
+                "rewards_expire_at": "2025-10-12T23:00:24+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "video_metadata": {
+                "messages": {
+                    "video_title": "Demon Slayer: Infinity Castle Trailer",
+                    "video_end_cta_title": "Demon Slayer",
+                    "video_end_cta_subtitle": "Exclusively In Movie Theatres September 12",
+                    "video_end_cta_button_label": "Get Tickets"
+                },
+                "assets": {
+                    "video_player_video_hls": null,
+                    "video_player_video": "4d30e9f0-6d92-4517-8a76-f8d243754ff3.mp4",
+                    "video_player_thumbnail": "08e10594-4467-4add-8214-6386439775c4.png",
+                    "video_player_video_low_res": "87f63c0a-6201-4aff-88bc-3e94711f4737.mp4",
+                    "video_player_caption": null,
+                    "video_player_transcript": null,
+                    "quest_bar_preview_video": null,
+                    "quest_bar_preview_thumbnail": null,
+                    "quest_home_video": null
+                }
+            },
+            "share_policy": "shareable_everywhere"
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
+    },
+    {
+        "id": "1408500501397639360",
+        "config": {
+            "id": "1408500501397639360",
+            "config_version": 2,
+            "starts_at": "2025-08-25T17:00:08+00:00",
+            "expires_at": "2025-08-31T23:00:08+00:00",
+            "features": [
+                3,
+                9,
+                13,
+                14,
+                15,
+                16,
+                18,
+                19,
+                23
+            ],
+            "application": {
+                "link": "https://www.konami.com/mg/mgs3r/us/en/",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "784f2122-dc05-4998-a598-7d55dc215f5c.jpg",
+                "hero_video": "a489bbf2-535e-46e2-a137-700553110efb.mp4",
+                "quest_bar_hero": "a3894f45-8008-4397-b5b5-294d147493bb.jpg",
+                "quest_bar_hero_video": "b6ca5d29-4395-4419-90de-5c4b6909a463.mp4",
+                "game_tile": "85c2eb3f-86fe-4975-946c-54ef2b4034a3.png",
+                "logotype": "5eeff814-829a-4b22-855a-0ffb07be27a0.png"
+            },
+            "colors": {
+                "primary": "#233533",
+                "secondary": "#009500"
+            },
+            "messages": {
+                "quest_name": "MGS Delta",
+                "game_title": "Metal Gear Solid",
+                "game_publisher": "Konami"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "event_name": "WATCH_VIDEO",
+                        "target": 105,
+                        "external_ids": []
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 105,
+                        "assets": {
+                            "video": {
+                                "url": "4108b399-439a-4a45-898c-1ed054303f3a.mp4",
+                                "width": 1280,
+                                "height": 720,
+                                "thumbnail": "2b499c3d-e6e8-4bce-9d15-0b2a2006567f.jpg",
+                                "caption": "f66f367d-73b1-4e89-a0b7-00cf4dcf7993.vtt",
+                                "transcript": "0345c69f-cec5-491a-a870-5eeaf39cb370.txt"
+                            },
+                            "video_low_res": {
+                                "url": "3171d6c0-b629-4499-9a0e-ce2d1cfb3a28.mp4",
+                                "width": 1280,
+                                "height": 720,
+                                "thumbnail": "2b499c3d-e6e8-4bce-9d15-0b2a2006567f.jpg",
+                                "caption": "f66f367d-73b1-4e89-a0b7-00cf4dcf7993.vtt",
+                                "transcript": "0345c69f-cec5-491a-a870-5eeaf39cb370.txt"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "MGS Delta",
+                            "video_end_cta_title": "METAL GEAR SOLID Δ",
+                            "video_end_cta_subtitle": "METAL GEAR SOLID",
+                            "video_end_cta_button_label": "Pre-Order Now"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 orbs",
+                            "name_with_article": "700 orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "Default"
+                            }
+                        },
+                        "orb_quantity": 700
+                    }
+                ],
+                "rewards_expire_at": "2025-09-30T23:00:08+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "video_metadata": {
+                "messages": {
+                    "video_title": "MGS Delta",
+                    "video_end_cta_title": "METAL GEAR SOLID Δ",
+                    "video_end_cta_subtitle": "METAL GEAR SOLID",
+                    "video_end_cta_button_label": "Pre-Order Now"
+                },
+                "assets": {
+                    "video_player_video_hls": null,
+                    "video_player_video": "4108b399-439a-4a45-898c-1ed054303f3a.mp4",
+                    "video_player_thumbnail": "2b499c3d-e6e8-4bce-9d15-0b2a2006567f.jpg",
+                    "video_player_video_low_res": "3171d6c0-b629-4499-9a0e-ce2d1cfb3a28.mp4",
+                    "video_player_caption": "f66f367d-73b1-4e89-a0b7-00cf4dcf7993.vtt",
+                    "video_player_transcript": "0345c69f-cec5-491a-a870-5eeaf39cb370.txt",
                     "quest_bar_preview_video": null,
                     "quest_bar_preview_thumbnail": null,
                     "quest_home_video": null
