@@ -17465,7 +17465,7 @@
                         "target": 59,
                         "assets": {
                             "video": {
-                                "url": "1407398037168586772.mp4",
+                                "url": "1407398037168586772_1080.mp4",
                                 "width": 1920,
                                 "height": 1080,
                                 "thumbnail": "1402303630786297866.png",
@@ -17473,9 +17473,9 @@
                                 "transcript": "1402314533875351612.txt"
                             },
                             "video_low_res": {
-                                "url": "1402303572888260618.mp4",
-                                "width": 1280,
-                                "height": 720,
+                                "url": "1407398037168586772_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
                                 "thumbnail": "1402303630786297866.png",
                                 "caption": "1402314202697170996.vtt",
                                 "transcript": "1402314533875351612.txt"
@@ -17533,9 +17533,9 @@
                 },
                 "assets": {
                     "video_player_video_hls": "1407398037168586772.m3u8",
-                    "video_player_video": "1407398037168586772.mp4",
+                    "video_player_video": "1407398037168586772_1080.mp4",
                     "video_player_thumbnail": "1402303630786297866.png",
-                    "video_player_video_low_res": "1402303572888260618.mp4",
+                    "video_player_video_low_res": "1407398037168586772_720.mp4",
                     "video_player_caption": "1402314202697170996.vtt",
                     "video_player_transcript": "1402314533875351612.txt",
                     "quest_bar_preview_video": null,
@@ -18068,7 +18068,7 @@
             "id": "1407419985739124827",
             "config_version": 2,
             "starts_at": "2025-08-21T17:00:33+00:00",
-            "expires_at": "2025-08-26T23:00:33+00:00",
+            "expires_at": "2025-08-27T06:59:33+00:00",
             "features": [
                 3,
                 9,
@@ -18166,7 +18166,7 @@
                         "expiration_mode": 3
                     }
                 ],
-                "rewards_expire_at": "2025-09-25T23:00:33+00:00",
+                "rewards_expire_at": "2025-09-26T06:59:33+00:00",
                 "platforms": [
                     0
                 ]
