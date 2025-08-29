@@ -18708,5 +18708,242 @@
         "user_status": null,
         "targeted_content": [],
         "preview": false
+    },
+    {
+        "id": "1410007885919813764",
+        "config": {
+            "id": "1410007885919813764",
+            "config_version": 2,
+            "starts_at": "2025-08-29T17:00:56+00:00",
+            "expires_at": "2025-09-04T23:00:56+00:00",
+            "features": [
+                3,
+                9,
+                13,
+                14,
+                15,
+                16,
+                18,
+                19,
+                23
+            ],
+            "application": {
+                "link": "https://store.steampowered.com/app/2456740/?utm_source=us&utm_campaign=ads&utm_medium=discord_play&utm_term=cahaya_0827",
+                "id": "1275695911804338277",
+                "name": "inZOI"
+            },
+            "assets": {
+                "hero": "5e1ab008-be01-4af7-bdd7-a2f50d43f18f.jpeg",
+                "hero_video": "b77afe1c-d352-4c47-9006-b8a4eecd1490.mp4",
+                "quest_bar_hero": "26a9c9b2-323c-43a2-95d8-d1c80b16cea7.jpeg",
+                "quest_bar_hero_video": "43ed0e1c-4d98-485b-bb7e-d13532f0fa99.mp4",
+                "game_tile": "c70032a2-2fe0-49fc-9796-9a4ddc01919a.png",
+                "logotype": "72a13d7a-25b4-42ed-b8bf-524679a31d54.png"
+            },
+            "colors": {
+                "primary": "#83BBFF",
+                "secondary": "#6969EE"
+            },
+            "messages": {
+                "quest_name": "inZOI Play",
+                "game_title": "inZOI",
+                "game_publisher": "KRAFTON"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "event_name": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "external_ids": []
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1275695911804338277"
+                            }
+                        ]
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 1,
+                        "sku_id": "1410007885919813765",
+                        "asset": "e68911d8-c332-4dd5-9ba9-ebddad9f69d7.png",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "Summer Swimsuit",
+                            "name_with_article": "a Summer Swimsuit",
+                            "redemption_instructions_by_platform": {
+                                "0": "You will receive an item code. Enter the code and your in-game UID at https://playinzoi.com/events/redeem to redeem it by 30 September, 23:59 UTC."
+                            }
+                        },
+                        "approximate_count": null,
+                        "redemption_link": null
+                    }
+                ],
+                "rewards_expire_at": "2025-10-04T23:00:56+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere"
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
+    },
+    {
+        "id": "1410726043807125666",
+        "config": {
+            "id": "1410726043807125666",
+            "config_version": 2,
+            "starts_at": "2025-08-29T17:00:38+00:00",
+            "expires_at": "2025-09-04T23:00:38+00:00",
+            "features": [
+                3,
+                9,
+                13,
+                14,
+                15,
+                16,
+                18,
+                19,
+                23
+            ],
+            "application": {
+                "link": "https://2kgam.es/47KoSFo",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "de094d4e-5d23-4496-84fc-3945d7afbd41.jpeg",
+                "hero_video": "308bb53a-5f4a-4e5a-be1f-555d6e721f36.mp4",
+                "quest_bar_hero": "4d31364f-5bc8-4c1a-85b0-49e61ae21c08.jpg",
+                "quest_bar_hero_video": "38757a19-5cb1-4ed9-9efb-d51b6939c27c.mp4",
+                "game_tile": "9fb8c8de-7542-497f-a1be-74d37dac388f.jpg",
+                "logotype": "b95ec689-9e7a-4326-94b4-3034c764b935.png"
+            },
+            "colors": {
+                "primary": "#1D4289",
+                "secondary": "#454545"
+            },
+            "messages": {
+                "quest_name": "NBA 2K26",
+                "game_title": "NBA 2K",
+                "game_publisher": "NBA 2K26"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "event_name": "WATCH_VIDEO",
+                        "target": 101,
+                        "external_ids": []
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 101,
+                        "assets": {
+                            "video": {
+                                "url": "1410740312833523843_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "1410740467779371091.jpg",
+                                "caption": "1410744302791032973.vtt",
+                                "transcript": "1410744356616405173.txt"
+                            },
+                            "video_low_res": {
+                                "url": "1410740312833523843_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "1410740467779371091.jpg",
+                                "caption": "1410744302791032973.vtt",
+                                "transcript": "1410744356616405173.txt"
+                            },
+                            "video_hls": {
+                                "url": "1410740312833523843.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "1410740467779371091.jpg",
+                                "caption": "1410744302791032973.vtt",
+                                "transcript": "1410744356616405173.txt"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "World of 2K Trailer",
+                            "video_end_cta_title": "NBA 2K26",
+                            "video_end_cta_subtitle": "World of 2K Trailer",
+                            "video_end_cta_button_label": "Play Now"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 3,
+                        "sku_id": "1410742621374251160",
+                        "asset": "0c3d0648-e209-4287-9b63-2cc001705f5c.mp4",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "NBA 2K26 Avatar Decoration",
+                            "name_with_article": "a NBA 2K26 Avatar Decoration",
+                            "redemption_instructions_by_platform": {
+                                "0": "Default"
+                            }
+                        },
+                        "expires_at": "2025-11-04T00:00:00+00:00",
+                        "expires_at_premium": null,
+                        "expiration_mode": 3
+                    }
+                ],
+                "rewards_expire_at": "2025-10-04T23:00:38+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "video_metadata": {
+                "messages": {
+                    "video_title": "World of 2K Trailer",
+                    "video_end_cta_title": "NBA 2K26",
+                    "video_end_cta_subtitle": "World of 2K Trailer",
+                    "video_end_cta_button_label": "Play Now"
+                },
+                "assets": {
+                    "video_player_video_hls": "1410740312833523843.m3u8",
+                    "video_player_video": "1410740312833523843_1080.mp4",
+                    "video_player_thumbnail": "1410740467779371091.jpg",
+                    "video_player_video_low_res": "1410740312833523843_720.mp4",
+                    "video_player_caption": "1410744302791032973.vtt",
+                    "video_player_transcript": "1410744356616405173.txt",
+                    "quest_bar_preview_video": null,
+                    "quest_bar_preview_thumbnail": null,
+                    "quest_home_video": null
+                }
+            },
+            "share_policy": "shareable_everywhere"
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
     }
 ]
