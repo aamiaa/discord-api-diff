@@ -18945,5 +18945,414 @@
         "user_status": null,
         "targeted_content": [],
         "preview": false
+    },
+    {
+        "id": "1410331802383683594",
+        "config": {
+            "id": "1410331802383683594",
+            "config_version": 2,
+            "starts_at": "2025-08-29T18:50:04+00:00",
+            "expires_at": "2025-09-07T23:00:04+00:00",
+            "features": [
+                3,
+                9,
+                13,
+                14,
+                15,
+                16,
+                18,
+                19,
+                23
+            ],
+            "application": {
+                "link": "https://www.fandango.com/the-conjuring-last-rites-2025-240617/movie-overview",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "7dfcbe18-e7f1-4a3c-b843-6418ec662101.jpg",
+                "hero_video": "001fc79e-deec-4463-b8b1-914350247a67.mp4",
+                "quest_bar_hero": "1bb10780-1487-4394-9ebf-550d4e10b10f.jpeg",
+                "quest_bar_hero_video": "80e204cc-ae1c-41ce-9687-d943ba171f9b.mp4",
+                "game_tile": "afb9b9fd-74b7-4f6e-9a3b-632356d5342d.png",
+                "logotype": "d03203bc-4465-444b-9510-90e115e26d84.png"
+            },
+            "colors": {
+                "primary": "#E31B14",
+                "secondary": "#000005"
+            },
+            "messages": {
+                "quest_name": "The Conjuring",
+                "game_title": "In Theaters September 5",
+                "game_publisher": "Warner Bros Pictures"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "event_name": "WATCH_VIDEO",
+                        "target": 59,
+                        "external_ids": []
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 59,
+                        "assets": {
+                            "video": {
+                                "url": "1410335135135436940_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "1410725387457007737.jpg",
+                                "caption": "1410335800360570880.vtt",
+                                "transcript": "1410335822640844850.txt"
+                            },
+                            "video_low_res": {
+                                "url": "1410335135135436940_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "1410725387457007737.jpg",
+                                "caption": "1410335800360570880.vtt",
+                                "transcript": "1410335822640844850.txt"
+                            },
+                            "video_hls": {
+                                "url": "1410335135135436940.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "1410725387457007737.jpg",
+                                "caption": "1410335800360570880.vtt",
+                                "transcript": "1410335822640844850.txt"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "The Conjuring: Last Rites",
+                            "video_end_cta_title": "The Conjuring: Last Rites",
+                            "video_end_cta_subtitle": "The Conjuring: Last Rites in Theaters September 5",
+                            "video_end_cta_button_label": "Get Tickets"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 3,
+                        "sku_id": "1410334317439090845",
+                        "asset": "34c0d368-218f-40b3-b5bb-7913ebf572eb.mp4",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "The Conjuring: Last Rites Avatar Decoration",
+                            "name_with_article": "The Conjuring: Last Rites Avatar Decoration",
+                            "redemption_instructions_by_platform": {
+                                "0": "Default"
+                            }
+                        },
+                        "expires_at": "2025-11-07T00:00:00+00:00",
+                        "expires_at_premium": null,
+                        "expiration_mode": 3
+                    }
+                ],
+                "rewards_expire_at": "2025-10-07T23:00:04+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "video_metadata": {
+                "messages": {
+                    "video_title": "The Conjuring: Last Rites",
+                    "video_end_cta_title": "The Conjuring: Last Rites",
+                    "video_end_cta_subtitle": "The Conjuring: Last Rites in Theaters September 5",
+                    "video_end_cta_button_label": "Get Tickets"
+                },
+                "assets": {
+                    "video_player_video_hls": "1410335135135436940.m3u8",
+                    "video_player_video": "1410335135135436940_1080.mp4",
+                    "video_player_thumbnail": "1410725387457007737.jpg",
+                    "video_player_video_low_res": "1410335135135436940_720.mp4",
+                    "video_player_caption": "1410335800360570880.vtt",
+                    "video_player_transcript": "1410335822640844850.txt",
+                    "quest_bar_preview_video": null,
+                    "quest_bar_preview_thumbnail": null,
+                    "quest_home_video": null
+                }
+            },
+            "share_policy": "shareable_everywhere"
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
+    },
+    {
+        "id": "1399861649074159777",
+        "config": {
+            "id": "1399861649074159777",
+            "config_version": 2,
+            "starts_at": "2025-08-29T20:00:25+00:00",
+            "expires_at": "2025-09-05T23:00:25+00:00",
+            "features": [
+                3,
+                9,
+                13,
+                14,
+                15,
+                16,
+                18,
+                19
+            ],
+            "application": {
+                "link": "https://pathofexile2.com/",
+                "id": "1328876348361412619",
+                "name": "Path of Exile 2"
+            },
+            "assets": {
+                "hero": "a9f14281-7f4a-43f4-8206-393aa6e3fd58.png",
+                "hero_video": null,
+                "quest_bar_hero": "02e10ef4-88af-477e-aaf3-a67f215ac1ba.jpg",
+                "quest_bar_hero_video": null,
+                "game_tile": "2eecb081-0188-477a-aa24-603d234e801e.png",
+                "logotype": "576adb3f-54dc-4c65-9f07-6329048a495e.png"
+            },
+            "colors": {
+                "primary": "#3E6C40",
+                "secondary": "#340106"
+            },
+            "messages": {
+                "quest_name": "Path of Exile 2",
+                "game_title": "Path of Exile 2 ",
+                "game_publisher": "Grinding Gear Games Limited"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "event_name": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "external_ids": []
+                    },
+                    "PLAY_ON_XBOX": {
+                        "event_name": "PLAY_ON_XBOX",
+                        "target": 900,
+                        "external_ids": [
+                            "1651188120"
+                        ]
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "event_name": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "external_ids": [
+                            "PPSA22041_00",
+                            "PPSA22040_00",
+                            "PPSA23975_00",
+                            "PPSA23974_00"
+                        ]
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1328876348361412619"
+                            }
+                        ]
+                    },
+                    "PLAY_ON_XBOX": {
+                        "type": "PLAY_ON_XBOX",
+                        "target": 900,
+                        "external_ids": [
+                            "1651188120"
+                        ]
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "type": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "external_ids": [
+                            "PPSA22041_00",
+                            "PPSA22040_00",
+                            "PPSA23975_00",
+                            "PPSA23974_00"
+                        ]
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 3,
+                        "sku_id": "1409657271184785490",
+                        "asset": "ffca2d45-1ef6-4837-a681-299849d260ba.mp4",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "Eye of Prophecy Avatar Decoration",
+                            "name_with_article": "an Eye of Prophecy Avatar Decoration",
+                            "redemption_instructions_by_platform": {
+                                "0": "Default"
+                            }
+                        },
+                        "expires_at": "2025-11-04T00:00:00+00:00",
+                        "expires_at_premium": null,
+                        "expiration_mode": 3
+                    }
+                ],
+                "rewards_expire_at": "2025-10-05T23:00:25+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere"
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
+    },
+    {
+        "id": "1409941445653041203",
+        "config": {
+            "id": "1409941445653041203",
+            "config_version": 2,
+            "starts_at": "2025-09-02T17:00:56+00:00",
+            "expires_at": "2025-09-15T23:00:56+00:00",
+            "features": [
+                3,
+                9,
+                13,
+                14,
+                15,
+                16,
+                18,
+                19,
+                23
+            ],
+            "application": {
+                "link": "https://ad.doubleclick.net/ddm/trackclk/N197801.3866164DISCORD.COM/B34015416.427469670;dc_trk_aid=620773882;dc_trk_cid=240140774;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gpp=$%7BGPP_STRING_755%7D;gpp_sid=$%7BGPP_SID%7D;ltd=;dc_tdv=1",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "ef00152c-6131-4084-b9bd-6dd672da6a7c.jpg",
+                "hero_video": "842fbb65-d21c-4da3-97ee-9347d141402d.mp4",
+                "quest_bar_hero": "68fad9d4-64c5-4b45-bf12-1b56743d1722.jpg",
+                "quest_bar_hero_video": "153d0853-05ae-4909-bdbe-efa3183687b6.mp4",
+                "game_tile": "16d0b89c-6e1e-42f7-93f2-cf13b0834782.png",
+                "logotype": "daca4ffe-86e1-436f-b6f2-7b4814d586bf.png"
+            },
+            "colors": {
+                "primary": "#7A7A7A",
+                "secondary": "#353535"
+            },
+            "messages": {
+                "quest_name": "Uber. On Our Way",
+                "game_title": "Uber",
+                "game_publisher": "Uber"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "event_name": "WATCH_VIDEO",
+                        "target": 59,
+                        "external_ids": []
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 59,
+                        "assets": {
+                            "video": {
+                                "url": "1409943390354931792_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "1409943485179498588.png",
+                                "caption": "57971311-d9a7-4383-9f5c-bd33e6628c30.vtt",
+                                "transcript": "5f7aa916-84d5-42f2-9292-17c61ad326e6.txt"
+                            },
+                            "video_low_res": {
+                                "url": "1409943390354931792_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "1409943485179498588.png",
+                                "caption": "57971311-d9a7-4383-9f5c-bd33e6628c30.vtt",
+                                "transcript": "5f7aa916-84d5-42f2-9292-17c61ad326e6.txt"
+                            },
+                            "video_hls": {
+                                "url": "1409943390354931792.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "1409943485179498588.png",
+                                "caption": "57971311-d9a7-4383-9f5c-bd33e6628c30.vtt",
+                                "transcript": "5f7aa916-84d5-42f2-9292-17c61ad326e6.txt"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "Uber. On Our Way Quest",
+                            "video_end_cta_title": "Uber",
+                            "video_end_cta_subtitle": "Uber. On Our Way.",
+                            "video_end_cta_button_label": "Learn More"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 orbs",
+                            "name_with_article": "700 orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "Default"
+                            }
+                        },
+                        "orb_quantity": 700
+                    }
+                ],
+                "rewards_expire_at": "2025-10-15T23:00:56+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "video_metadata": {
+                "messages": {
+                    "video_title": "Uber. On Our Way Quest",
+                    "video_end_cta_title": "Uber",
+                    "video_end_cta_subtitle": "Uber. On Our Way.",
+                    "video_end_cta_button_label": "Learn More"
+                },
+                "assets": {
+                    "video_player_video_hls": "1409943390354931792.m3u8",
+                    "video_player_video": "1409943390354931792_1080.mp4",
+                    "video_player_thumbnail": "1409943485179498588.png",
+                    "video_player_video_low_res": "1409943390354931792_720.mp4",
+                    "video_player_caption": "57971311-d9a7-4383-9f5c-bd33e6628c30.vtt",
+                    "video_player_transcript": "5f7aa916-84d5-42f2-9292-17c61ad326e6.txt",
+                    "quest_bar_preview_video": null,
+                    "quest_bar_preview_thumbnail": null,
+                    "quest_home_video": null
+                }
+            },
+            "share_policy": "shareable_everywhere"
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
     }
 ]
