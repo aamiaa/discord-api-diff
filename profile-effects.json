@@ -10503,5 +10503,135 @@
                 "randomizedSources": []
             }
         ]
+    },
+    {
+        "type": 1,
+        "id": "1409898408008745141",
+        "sku_id": "1409898407996166176",
+        "title": "Starfall Rings",
+        "description": "Show this effect when others view your profile.",
+        "accessibilityLabel": "Golden moon surrounded by orbital rings and planetary paths.",
+        "animationType": 2,
+        "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-08-26/starfall_rings/thumbnail.png",
+        "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-08-26/starfall_rings/reduced_motion.png",
+        "effects": [
+            {
+                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-08-26/starfall_rings/intro.png",
+                "loop": false,
+                "height": 880,
+                "width": 450,
+                "duration": 4648,
+                "start": 0,
+                "loopDelay": 0,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "zIndex": 100,
+                "randomizedSources": []
+            },
+            {
+                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-08-26/starfall_rings/idle.png",
+                "loop": true,
+                "height": 880,
+                "width": 450,
+                "duration": 4000,
+                "start": 7500,
+                "loopDelay": 3000,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "zIndex": 101,
+                "randomizedSources": []
+            }
+        ]
+    },
+    {
+        "type": 1,
+        "id": "1409898408038240296",
+        "sku_id": "1409898408021458976",
+        "title": "Liquid Moonlight",
+        "description": "Show this effect when others view your profile.",
+        "accessibilityLabel": "A purple moon glow reflecting on water with soft light effects creating a dreamy serene state.",
+        "animationType": 2,
+        "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-08-26/liquid_moonlight/thumbnail.png",
+        "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-08-26/liquid_moonlight/reduced_motion.png",
+        "effects": [
+            {
+                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-08-26/liquid_moonlight/intro.png",
+                "loop": false,
+                "height": 880,
+                "width": 450,
+                "duration": 3000,
+                "start": 0,
+                "loopDelay": 0,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "zIndex": 100,
+                "randomizedSources": []
+            },
+            {
+                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-08-26/liquid_moonlight/idle.png",
+                "loop": true,
+                "height": 880,
+                "width": 450,
+                "duration": 3000,
+                "start": 6000,
+                "loopDelay": 3000,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "zIndex": 101,
+                "randomizedSources": []
+            }
+        ]
+    },
+    {
+        "type": 1,
+        "id": "1409898408063406170",
+        "sku_id": "1409898408042303629",
+        "title": "Moonlit Crystals",
+        "description": "Show this effect when others view your profile.",
+        "accessibilityLabel": "Hanging celestial chains adorned with stars and crystal ornaments that create a magical curtain effect.",
+        "animationType": 1,
+        "staticFrameSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-08-26/moonlit_crystals/static.png",
+        "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-08-26/moonlit_crystals/thumbnail.png",
+        "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-08-26/moonlit_crystals/reduced_motion.png",
+        "effects": [
+            {
+                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-08-26/moonlit_crystals/intro.png",
+                "loop": false,
+                "height": 880,
+                "width": 450,
+                "duration": 3000,
+                "start": 0,
+                "loopDelay": 0,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "zIndex": 100,
+                "randomizedSources": []
+            },
+            {
+                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-08-26/moonlit_crystals/idle.png",
+                "loop": true,
+                "height": 880,
+                "width": 450,
+                "duration": 5917,
+                "start": 3001,
+                "loopDelay": 0,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "zIndex": 101,
+                "randomizedSources": []
+            }
+        ]
     }
 ]

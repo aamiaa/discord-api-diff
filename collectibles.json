@@ -82424,9 +82424,9 @@
             "1351351503339913256",
             "1332505467980873728"
         ],
-        "mobile_bg": null,
+        "mobile_bg": "1412564157227597975",
         "pdp_bg": "1351700283629113417",
-        "mobile_banner": null,
+        "mobile_banner": "1412564157227597974",
         "featured_block": "1392278981927239801",
         "hero_banner": null,
         "hero_block_title": "Introducing Discord Orbs",
@@ -88350,5 +88350,1511 @@
             "static": "https://cdn.discordapp.com/assets/content/e51b486a1d5cc225f1bdd42744c472eeac5a08e50ac8f40215b4b229ae282e35.jpg"
         },
         "hero_logo": "1404558257338585229"
+    },
+    {
+        "sku_id": "1409898408076116140",
+        "name": "Lunar Eclipse",
+        "summary": " ",
+        "store_listing_id": "1409898408071663616",
+        "banner": "1409898408092635248",
+        "unpublished_at": null,
+        "styles": {
+            "background_colors": [
+                1311521,
+                2032409
+            ],
+            "button_colors": [
+                5793266,
+                5793266
+            ],
+            "confetti_colors": [
+                43772,
+                15774258,
+                16414587,
+                3000177,
+                9739511
+            ]
+        },
+        "logo": "1409898408088571965",
+        "hero_ranking": [
+            "1409898407727726634",
+            "1409898407753154701",
+            "1409898407769673900",
+            "1409898407799160963",
+            "1409898407828520990",
+            "1409898407849365565",
+            "1409898407874531328",
+            "1409898407895503061",
+            "1409898407920668782",
+            "1409898407945834558",
+            "1409898407971127427",
+            "1409898407996166176",
+            "1409898408021458976",
+            "1409898408042303629"
+        ],
+        "mobile_bg": "1409898408151613573",
+        "pdp_bg": "1409898408138768414",
+        "mobile_banner": "1409898408142966957",
+        "featured_block": "1409898408130641920",
+        "hero_banner": null,
+        "wide_banner": null,
+        "products": [
+            {
+                "sku_id": "1409898407727726634",
+                "name": "Moonlit Bundle",
+                "summary": "A bundle of collectibles.",
+                "store_listing_id": "1409898407748702299",
+                "banner": "1409898408092635248",
+                "unpublished_at": null,
+                "styles": {
+                    "background_colors": [
+                        1311521,
+                        2032409
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 1099,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 7600,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 899,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 7600,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "items": [
+                    {
+                        "type": 0,
+                        "id": "1409898407887110306",
+                        "sku_id": "1409898407874531328",
+                        "asset": "a_34f162fc767aeb087d8d54a6f1ce697b",
+                        "label": "An ornate crescent moon adorned with dangling celestial pendants and swirling patterns that glow with lunar energy."
+                    },
+                    {
+                        "type": 1,
+                        "id": "1409898408063406170",
+                        "sku_id": "1409898408042303629",
+                        "title": "Moonlit Crystals",
+                        "description": "Show this effect when others view your profile.",
+                        "accessibilityLabel": "Hanging celestial chains adorned with stars and crystal ornaments that create a magical curtain effect.",
+                        "animationType": 1,
+                        "staticFrameSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-08-26/moonlit_crystals/static.png",
+                        "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-08-26/moonlit_crystals/thumbnail.png",
+                        "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-08-26/moonlit_crystals/reduced_motion.png",
+                        "effects": [
+                            {
+                                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-08-26/moonlit_crystals/intro.png",
+                                "loop": false,
+                                "height": 880,
+                                "width": 450,
+                                "duration": 3000,
+                                "start": 0,
+                                "loopDelay": 0,
+                                "position": {
+                                    "x": 0,
+                                    "y": 0
+                                },
+                                "zIndex": 100
+                            },
+                            {
+                                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-08-26/moonlit_crystals/idle.png",
+                                "loop": true,
+                                "height": 880,
+                                "width": 450,
+                                "duration": 5917,
+                                "start": 3001,
+                                "loopDelay": 0,
+                                "position": {
+                                    "x": 0,
+                                    "y": 0
+                                },
+                                "zIndex": 101
+                            }
+                        ]
+                    }
+                ],
+                "type": 1000,
+                "premium_type": 0,
+                "category_sku_id": "1409898408076116140",
+                "bundled_products": [
+                    {
+                        "sku_id": "1409898407874531328",
+                        "name": "Moonlit Charms",
+                        "summary": "Give your avatar a new look.",
+                        "type": 0,
+                        "premium_type": 0,
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 599,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 499,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "sku_id": "1409898408042303629",
+                        "name": "Moonlit Crystals",
+                        "summary": "Show this effect when others view your profile.",
+                        "type": 1,
+                        "premium_type": 0,
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 599,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 499,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ],
+                "google_sku_ids": {
+                    "5": "1409898407727726634_1410438476465438821",
+                    "7": "1409898407727726634_1410438482824007742"
+                }
+            },
+            {
+                "sku_id": "1409898407753154701",
+                "name": "Lunar Essence Bundle",
+                "summary": "A bundle of collectibles.",
+                "store_listing_id": "1409898407761281065",
+                "banner": "1409898408092635248",
+                "unpublished_at": null,
+                "styles": {
+                    "background_colors": [
+                        1311521,
+                        2032409
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 1099,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 7600,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 899,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 7600,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "items": [
+                    {
+                        "type": 0,
+                        "id": "1409898407916605491",
+                        "sku_id": "1409898407895503061",
+                        "asset": "a_c0393b6cc00148f32c5015d1417ca12c",
+                        "label": "Flowing purple and blue liquid effect creating a melting appearance around the moon."
+                    },
+                    {
+                        "type": 1,
+                        "id": "1409898408038240296",
+                        "sku_id": "1409898408021458976",
+                        "title": "Liquid Moonlight",
+                        "description": "Show this effect when others view your profile.",
+                        "accessibilityLabel": "A purple moon glow reflecting on water with soft light effects creating a dreamy serene state.",
+                        "animationType": 2,
+                        "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-08-26/liquid_moonlight/thumbnail.png",
+                        "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-08-26/liquid_moonlight/reduced_motion.png",
+                        "effects": [
+                            {
+                                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-08-26/liquid_moonlight/intro.png",
+                                "loop": false,
+                                "height": 880,
+                                "width": 450,
+                                "duration": 3000,
+                                "start": 0,
+                                "loopDelay": 0,
+                                "position": {
+                                    "x": 0,
+                                    "y": 0
+                                },
+                                "zIndex": 100
+                            },
+                            {
+                                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-08-26/liquid_moonlight/idle.png",
+                                "loop": true,
+                                "height": 880,
+                                "width": 450,
+                                "duration": 3000,
+                                "start": 6000,
+                                "loopDelay": 3000,
+                                "position": {
+                                    "x": 0,
+                                    "y": 0
+                                },
+                                "zIndex": 101
+                            }
+                        ]
+                    }
+                ],
+                "type": 1000,
+                "premium_type": 0,
+                "category_sku_id": "1409898408076116140",
+                "bundled_products": [
+                    {
+                        "sku_id": "1409898407895503061",
+                        "name": "Liquid Moon",
+                        "summary": "Give your avatar a new look.",
+                        "type": 0,
+                        "premium_type": 0,
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 599,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 499,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "sku_id": "1409898408021458976",
+                        "name": "Liquid Moonlight",
+                        "summary": "Show this effect when others view your profile.",
+                        "type": 1,
+                        "premium_type": 0,
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 599,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 499,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ],
+                "google_sku_ids": {
+                    "5": "1409898407753154701_1410438068388892883",
+                    "7": "1409898407753154701_1410438075812941824"
+                }
+            },
+            {
+                "sku_id": "1409898407769673900",
+                "name": "Lunar Flowers",
+                "summary": "Give your avatar a new look.",
+                "store_listing_id": "1409898407778320518",
+                "banner": "1409898408092635248",
+                "unpublished_at": null,
+                "styles": {
+                    "background_colors": [
+                        1311521,
+                        2032409
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "items": [
+                    {
+                        "type": 0,
+                        "id": "1409898407786447000",
+                        "sku_id": "1409898407769673900",
+                        "asset": "a_65ab42be2fb75f90282cbee2506e384c",
+                        "label": "Glowing blue and pink floral arrangement with celestial charms decorated around the moon."
+                    }
+                ],
+                "type": 0,
+                "premium_type": 0,
+                "category_sku_id": "1409898408076116140",
+                "google_sku_ids": {
+                    "5": "1409898407769673900_1410437598467592327",
+                    "7": "1409898407769673900_1410437606914785332"
+                }
+            },
+            {
+                "sku_id": "1409898407799160963",
+                "name": "Starlight Tiara",
+                "summary": "Give your avatar a new look.",
+                "store_listing_id": "1409898407807680614",
+                "banner": "1409898408092635248",
+                "unpublished_at": null,
+                "styles": {
+                    "background_colors": [
+                        1311521,
+                        2032409
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "items": [
+                    {
+                        "type": 0,
+                        "id": "1409898407815807127",
+                        "sku_id": "1409898407799160963",
+                        "asset": "a_55393fb776ecc721bc551823d4ea52df",
+                        "label": "Golden celestial crown with floating stars above."
+                    }
+                ],
+                "type": 0,
+                "premium_type": 0,
+                "category_sku_id": "1409898408076116140",
+                "google_sku_ids": {
+                    "5": "1409898407799160963_1410439143858901032",
+                    "7": "1409898407799160963_1410439151005732926"
+                }
+            },
+            {
+                "sku_id": "1409898407828520990",
+                "name": "Astral Aura",
+                "summary": "Give your avatar a new look.",
+                "store_listing_id": "1409898407832846506",
+                "banner": "1409898408092635248",
+                "unpublished_at": null,
+                "styles": {
+                    "background_colors": [
+                        1311521,
+                        2032409
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "items": [
+                    {
+                        "type": 0,
+                        "id": "1409898407841108131",
+                        "sku_id": "1409898407828520990",
+                        "asset": "a_6283377ab3c9b70accb1d24c06a2054a",
+                        "label": "Electric blue lightning and sparkles creating an energetic aura."
+                    }
+                ],
+                "type": 0,
+                "premium_type": 0,
+                "category_sku_id": "1409898408076116140",
+                "google_sku_ids": {
+                    "5": "1409898407828520990_1410439289661165679",
+                    "7": "1409898407828520990_1410439296619515904"
+                }
+            },
+            {
+                "sku_id": "1409898407849365565",
+                "name": "Luna Moths",
+                "summary": "Give your avatar a new look.",
+                "store_listing_id": "1409898407858012201",
+                "banner": "1409898408092635248",
+                "unpublished_at": null,
+                "styles": {
+                    "background_colors": [
+                        1311521,
+                        2032409
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "items": [
+                    {
+                        "type": 0,
+                        "id": "1409898407866138666",
+                        "sku_id": "1409898407849365565",
+                        "asset": "a_54744b172ca901713390a1a6db472ba9",
+                        "label": "Luna moths with glowing accents fluttering around the radiating light."
+                    }
+                ],
+                "type": 0,
+                "premium_type": 0,
+                "category_sku_id": "1409898408076116140",
+                "google_sku_ids": {
+                    "5": "1409898407849365565_1410437065992310795",
+                    "7": "1409898407849365565_1410437074204754102"
+                }
+            },
+            {
+                "sku_id": "1409898407874531328",
+                "name": "Moonlit Charms",
+                "summary": "Give your avatar a new look.",
+                "store_listing_id": "1409898407878983821",
+                "banner": "1409898408092635248",
+                "unpublished_at": null,
+                "styles": {
+                    "background_colors": [
+                        1311521,
+                        2032409
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "items": [
+                    {
+                        "type": 0,
+                        "id": "1409898407887110306",
+                        "sku_id": "1409898407874531328",
+                        "asset": "a_34f162fc767aeb087d8d54a6f1ce697b",
+                        "label": "An ornate crescent moon adorned with dangling celestial pendants and swirling patterns that glow with lunar energy."
+                    }
+                ],
+                "type": 0,
+                "premium_type": 0,
+                "category_sku_id": "1409898408076116140",
+                "google_sku_ids": {
+                    "5": "1409898407874531328_1410436003059208312",
+                    "7": "1409898407874531328_1410436010524934215"
+                }
+            },
+            {
+                "sku_id": "1409898407895503061",
+                "name": "Liquid Moon",
+                "summary": "Give your avatar a new look.",
+                "store_listing_id": "1409898407904149687",
+                "banner": "1409898408092635248",
+                "unpublished_at": null,
+                "styles": {
+                    "background_colors": [
+                        1311521,
+                        2032409
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "items": [
+                    {
+                        "type": 0,
+                        "id": "1409898407916605491",
+                        "sku_id": "1409898407895503061",
+                        "asset": "a_c0393b6cc00148f32c5015d1417ca12c",
+                        "label": "Flowing purple and blue liquid effect creating a melting appearance around the moon."
+                    }
+                ],
+                "type": 0,
+                "premium_type": 0,
+                "category_sku_id": "1409898408076116140",
+                "google_sku_ids": {
+                    "5": "1409898407895503061_1410435936201740443",
+                    "7": "1409898407895503061_1410435943235846225"
+                }
+            },
+            {
+                "sku_id": "1409898407920668782",
+                "name": "Moonlit Charm",
+                "summary": "Make your name stand out in servers and chats.",
+                "store_listing_id": "1409898407929315490",
+                "banner": "1409898408092635248",
+                "unpublished_at": null,
+                "styles": {
+                    "background_colors": [
+                        1311521,
+                        2032409
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "items": [
+                    {
+                        "type": 2,
+                        "id": "1409898407941636126",
+                        "sku_id": "1409898407920668782",
+                        "asset": "nameplates/lunar_eclipse/moonlit_charm/",
+                        "label": "Hanging celestial chains adorned with stars and crystal ornaments that create a magical curtain effect.",
+                        "palette": "cobalt"
+                    }
+                ],
+                "type": 2,
+                "premium_type": 0,
+                "category_sku_id": "1409898408076116140",
+                "google_sku_ids": {
+                    "5": "1409898407920668782_1410439094823157862",
+                    "7": "1409898407920668782_1410439103140466851"
+                }
+            },
+            {
+                "sku_id": "1409898407945834558",
+                "name": "Luna Moth",
+                "summary": "Make your name stand out in servers and chats.",
+                "store_listing_id": "1409898407954481253",
+                "banner": "1409898408092635248",
+                "unpublished_at": null,
+                "styles": {
+                    "background_colors": [
+                        1311521,
+                        2032409
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "items": [
+                    {
+                        "type": 2,
+                        "id": "1409898407962607697",
+                        "sku_id": "1409898407945834558",
+                        "asset": "nameplates/lunar_eclipse/luna_moth/",
+                        "label": "Luna moth with glowing accents fluttering around the radiating light.",
+                        "palette": "bubble_gum"
+                    }
+                ],
+                "type": 2,
+                "premium_type": 0,
+                "category_sku_id": "1409898408076116140",
+                "google_sku_ids": {
+                    "5": "1409898407945834558_1410438942922375249",
+                    "7": "1409898407945834558_1410438954653585470"
+                }
+            },
+            {
+                "sku_id": "1409898407971127427",
+                "name": "Moon Essence",
+                "summary": "Make your name stand out in servers and chats.",
+                "store_listing_id": "1409898407979647097",
+                "banner": "1409898408092635248",
+                "unpublished_at": null,
+                "styles": {
+                    "background_colors": [
+                        1311521,
+                        2032409
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "items": [
+                    {
+                        "type": 2,
+                        "id": "1409898407987773450",
+                        "sku_id": "1409898407971127427",
+                        "asset": "nameplates/lunar_eclipse/moon_essence/",
+                        "label": "Soft purple and blue nebula glow surrounding the moon with moonlight dripping like liquid.",
+                        "palette": "berry"
+                    }
+                ],
+                "type": 2,
+                "premium_type": 0,
+                "category_sku_id": "1409898408076116140",
+                "google_sku_ids": {
+                    "5": "1409898407971127427_1410436346937610240",
+                    "7": "1409898407971127427_1410436355510636554"
+                }
+            },
+            {
+                "sku_id": "1409898407996166176",
+                "name": "Starfall Rings",
+                "summary": "Show this effect when others view your profile.",
+                "store_listing_id": "1409898408000618667",
+                "banner": "1409898408092635248",
+                "unpublished_at": null,
+                "styles": {
+                    "background_colors": [
+                        1311521,
+                        2032409
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "items": [
+                    {
+                        "type": 1,
+                        "id": "1409898408008745141",
+                        "sku_id": "1409898407996166176",
+                        "title": "Starfall Rings",
+                        "description": "Show this effect when others view your profile.",
+                        "accessibilityLabel": "Golden moon surrounded by orbital rings and planetary paths.",
+                        "animationType": 2,
+                        "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-08-26/starfall_rings/thumbnail.png",
+                        "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-08-26/starfall_rings/reduced_motion.png",
+                        "effects": [
+                            {
+                                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-08-26/starfall_rings/intro.png",
+                                "loop": false,
+                                "height": 880,
+                                "width": 450,
+                                "duration": 4648,
+                                "start": 0,
+                                "loopDelay": 0,
+                                "position": {
+                                    "x": 0,
+                                    "y": 0
+                                },
+                                "zIndex": 100
+                            },
+                            {
+                                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-08-26/starfall_rings/idle.png",
+                                "loop": true,
+                                "height": 880,
+                                "width": 450,
+                                "duration": 4000,
+                                "start": 7500,
+                                "loopDelay": 3000,
+                                "position": {
+                                    "x": 0,
+                                    "y": 0
+                                },
+                                "zIndex": 101
+                            }
+                        ]
+                    }
+                ],
+                "type": 1,
+                "premium_type": 0,
+                "category_sku_id": "1409898408076116140",
+                "google_sku_ids": {
+                    "5": "1409898407996166176_1410436042602840215",
+                    "7": "1409898407996166176_1410436048861007935"
+                }
+            },
+            {
+                "sku_id": "1409898408021458976",
+                "name": "Liquid Moonlight",
+                "summary": "Show this effect when others view your profile.",
+                "store_listing_id": "1409898408029978664",
+                "banner": "1409898408092635248",
+                "unpublished_at": null,
+                "styles": {
+                    "background_colors": [
+                        1311521,
+                        2032409
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "items": [
+                    {
+                        "type": 1,
+                        "id": "1409898408038240296",
+                        "sku_id": "1409898408021458976",
+                        "title": "Liquid Moonlight",
+                        "description": "Show this effect when others view your profile.",
+                        "accessibilityLabel": "A purple moon glow reflecting on water with soft light effects creating a dreamy serene state.",
+                        "animationType": 2,
+                        "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-08-26/liquid_moonlight/thumbnail.png",
+                        "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-08-26/liquid_moonlight/reduced_motion.png",
+                        "effects": [
+                            {
+                                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-08-26/liquid_moonlight/intro.png",
+                                "loop": false,
+                                "height": 880,
+                                "width": 450,
+                                "duration": 3000,
+                                "start": 0,
+                                "loopDelay": 0,
+                                "position": {
+                                    "x": 0,
+                                    "y": 0
+                                },
+                                "zIndex": 100
+                            },
+                            {
+                                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-08-26/liquid_moonlight/idle.png",
+                                "loop": true,
+                                "height": 880,
+                                "width": 450,
+                                "duration": 3000,
+                                "start": 6000,
+                                "loopDelay": 3000,
+                                "position": {
+                                    "x": 0,
+                                    "y": 0
+                                },
+                                "zIndex": 101
+                            }
+                        ]
+                    }
+                ],
+                "type": 1,
+                "premium_type": 0,
+                "category_sku_id": "1409898408076116140",
+                "google_sku_ids": {
+                    "5": "1409898408021458976_1410439503469875232",
+                    "7": "1409898408021458976_1410439510453649428"
+                }
+            },
+            {
+                "sku_id": "1409898408042303629",
+                "name": "Moonlit Crystals",
+                "summary": "Show this effect when others view your profile.",
+                "store_listing_id": "1409898408050950288",
+                "banner": "1409898408092635248",
+                "unpublished_at": null,
+                "styles": {
+                    "background_colors": [
+                        1311521,
+                        2032409
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "items": [
+                    {
+                        "type": 1,
+                        "id": "1409898408063406170",
+                        "sku_id": "1409898408042303629",
+                        "title": "Moonlit Crystals",
+                        "description": "Show this effect when others view your profile.",
+                        "accessibilityLabel": "Hanging celestial chains adorned with stars and crystal ornaments that create a magical curtain effect.",
+                        "animationType": 1,
+                        "staticFrameSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-08-26/moonlit_crystals/static.png",
+                        "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-08-26/moonlit_crystals/thumbnail.png",
+                        "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-08-26/moonlit_crystals/reduced_motion.png",
+                        "effects": [
+                            {
+                                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-08-26/moonlit_crystals/intro.png",
+                                "loop": false,
+                                "height": 880,
+                                "width": 450,
+                                "duration": 3000,
+                                "start": 0,
+                                "loopDelay": 0,
+                                "position": {
+                                    "x": 0,
+                                    "y": 0
+                                },
+                                "zIndex": 100
+                            },
+                            {
+                                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-08-26/moonlit_crystals/idle.png",
+                                "loop": true,
+                                "height": 880,
+                                "width": 450,
+                                "duration": 5917,
+                                "start": 3001,
+                                "loopDelay": 0,
+                                "position": {
+                                    "x": 0,
+                                    "y": 0
+                                },
+                                "zIndex": 101
+                            }
+                        ]
+                    }
+                ],
+                "type": 1,
+                "premium_type": 0,
+                "category_sku_id": "1409898408076116140",
+                "google_sku_ids": {
+                    "5": "1409898408042303629_1410439757649149952",
+                    "7": "1409898408042303629_1410439765261549757"
+                }
+            }
+        ],
+        "catalog_banner_asset": {
+            "animated": null,
+            "static": "https://cdn.discordapp.com/assets/content/dfecaeb0d5efd80d8488f2d9137aed18bbca37f62df33ead4ef006eefbc3e3d4.jpg"
+        },
+        "hero_banner_asset": {
+            "animated": null,
+            "static": "https://cdn.discordapp.com/assets/content/3e42c86771105a91e53c2c2f762b975e28cf41cba5559dbf52bf7df04e5caa6d.jpg"
+        },
+        "hero_banner_config": {
+            "responsive": true,
+            "background_style": "linear-gradient(to bottom, rgba(20, 3, 33, 1), rgba(31, 3, 25, 1))"
+        },
+        "hero_logo": "1409898408121995294"
     }
 ]
