@@ -19354,5 +19354,143 @@
         "user_status": null,
         "targeted_content": [],
         "preview": false
+    },
+    {
+        "id": "1409988219961081907",
+        "config": {
+            "id": "1409988219961081907",
+            "config_version": 2,
+            "starts_at": "2025-09-03T17:00:47+00:00",
+            "expires_at": "2025-09-09T23:00:47+00:00",
+            "features": [
+                3,
+                9,
+                13,
+                14,
+                15,
+                16,
+                18,
+                19,
+                23
+            ],
+            "application": {
+                "link": "https://adn.wargaming.net/jkitisbe/?pub_id=wot_cstm_ww_all_discord_vid_wb_quest_2-0-winback",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "bbf957cd-4b05-4f7d-bb28-69aff89e91b1.jpg",
+                "hero_video": "3fb2a200-0c8e-4089-8325-f76839066b8e.mp4",
+                "quest_bar_hero": "af7e75f3-1d28-4b73-8b20-5e9594485f0c.jpg",
+                "quest_bar_hero_video": "a6e8bd1c-4ded-4371-8b03-7cbbba1ddbfd.mp4",
+                "game_tile": "a30a7e9c-35ce-47c7-9b79-94c19f83da29.png",
+                "logotype": "27695888-b384-4db1-9bdd-efbfc4e22798.png"
+            },
+            "colors": {
+                "primary": "#FF4000",
+                "secondary": "#FE3902"
+            },
+            "messages": {
+                "quest_name": "World of Tanks 2.0",
+                "game_title": "World of Tanks 2.0 Trailer",
+                "game_publisher": "Wargaming"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "event_name": "WATCH_VIDEO",
+                        "target": 115,
+                        "external_ids": []
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 115,
+                        "assets": {
+                            "video": {
+                                "url": "1409991986953584735_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "1409992577587089478.jpg",
+                                "caption": "1409995504808628367.vtt",
+                                "transcript": "1409995532813992078.txt"
+                            },
+                            "video_low_res": {
+                                "url": "1409991986953584735_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "1409992577587089478.jpg",
+                                "caption": "1409995504808628367.vtt",
+                                "transcript": "1409995532813992078.txt"
+                            },
+                            "video_hls": {
+                                "url": "1409991986953584735.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "1409992577587089478.jpg",
+                                "caption": "1409995504808628367.vtt",
+                                "transcript": "1409995532813992078.txt"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "World of Tanks 2.0 Trailer",
+                            "video_end_cta_title": "World of Tanks 2.0 Trailer",
+                            "video_end_cta_subtitle": "Get the biggest award in WoT history",
+                            "video_end_cta_button_label": "Play Now"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 orbs",
+                            "name_with_article": "700 orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "Default"
+                            }
+                        },
+                        "orb_quantity": 700
+                    }
+                ],
+                "rewards_expire_at": "2025-10-09T23:00:47+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "video_metadata": {
+                "messages": {
+                    "video_title": "World of Tanks 2.0 Trailer",
+                    "video_end_cta_title": "World of Tanks 2.0 Trailer",
+                    "video_end_cta_subtitle": "Get the biggest award in WoT history",
+                    "video_end_cta_button_label": "Play Now"
+                },
+                "assets": {
+                    "video_player_video_hls": "1409991986953584735.m3u8",
+                    "video_player_video": "1409991986953584735_1080.mp4",
+                    "video_player_thumbnail": "1409992577587089478.jpg",
+                    "video_player_video_low_res": "1409991986953584735_720.mp4",
+                    "video_player_caption": "1409995504808628367.vtt",
+                    "video_player_transcript": "1409995532813992078.txt",
+                    "quest_bar_preview_video": null,
+                    "quest_bar_preview_thumbnail": null,
+                    "quest_home_video": null
+                }
+            },
+            "share_policy": "shareable_everywhere"
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
     }
 ]
