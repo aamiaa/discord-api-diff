@@ -19492,5 +19492,143 @@
         "user_status": null,
         "targeted_content": [],
         "preview": false
+    },
+    {
+        "id": "1412571090240278528",
+        "config": {
+            "id": "1412571090240278528",
+            "config_version": 2,
+            "starts_at": "2025-09-04T17:00:12+00:00",
+            "expires_at": "2025-09-10T23:00:12+00:00",
+            "features": [
+                3,
+                9,
+                13,
+                14,
+                15,
+                16,
+                18,
+                19,
+                23
+            ],
+            "application": {
+                "link": "https://www.blackphonemovie.com/",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "8dfd86cd-a6a1-4608-a281-b17b70bf7256.jpg",
+                "hero_video": "e4e2fa77-ee55-4e05-b2e6-3aed5d1419bc.mp4",
+                "quest_bar_hero": "d666db0f-d38a-4203-ae56-3220f6ada6af.jpeg",
+                "quest_bar_hero_video": "cbb61e16-5a9d-45bd-847d-873d0c6ee65d.mp4",
+                "game_tile": "a5af7565-83aa-48c8-bca4-df39401051f0.png",
+                "logotype": "49b1d468-8e0a-4947-ab72-02f355789360.png"
+            },
+            "colors": {
+                "primary": "#97281B",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "The Black Phone 2 Trailer",
+                "game_title": "In Theaters October 17",
+                "game_publisher": "Universal Pictures"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "event_name": "WATCH_VIDEO",
+                        "target": 131,
+                        "external_ids": []
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 131,
+                        "assets": {
+                            "video": {
+                                "url": "1413196612389572698_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "1413187840187302039.jpg",
+                                "caption": "1413195738669650131.vtt",
+                                "transcript": "1413195769992970421.txt"
+                            },
+                            "video_low_res": {
+                                "url": "1413196612389572698_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "1413187840187302039.jpg",
+                                "caption": "1413195738669650131.vtt",
+                                "transcript": "1413195769992970421.txt"
+                            },
+                            "video_hls": {
+                                "url": "1413196612389572698.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "1413187840187302039.jpg",
+                                "caption": "1413195738669650131.vtt",
+                                "transcript": "1413195769992970421.txt"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "The Black Phone 2 Trailer",
+                            "video_end_cta_title": "The Black Phone 2",
+                            "video_end_cta_subtitle": "The Black Phone 2 in Theaters October 17",
+                            "video_end_cta_button_label": "Learn More"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 orbs",
+                            "name_with_article": "700 orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "Default"
+                            }
+                        },
+                        "orb_quantity": 700
+                    }
+                ],
+                "rewards_expire_at": "2025-10-10T23:00:12+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "video_metadata": {
+                "messages": {
+                    "video_title": "The Black Phone 2 Trailer",
+                    "video_end_cta_title": "The Black Phone 2",
+                    "video_end_cta_subtitle": "The Black Phone 2 in Theaters October 17",
+                    "video_end_cta_button_label": "Learn More"
+                },
+                "assets": {
+                    "video_player_video_hls": "1413196612389572698.m3u8",
+                    "video_player_video": "1413196612389572698_1080.mp4",
+                    "video_player_thumbnail": "1413187840187302039.jpg",
+                    "video_player_video_low_res": "1413196612389572698_720.mp4",
+                    "video_player_caption": "1413195738669650131.vtt",
+                    "video_player_transcript": "1413195769992970421.txt",
+                    "quest_bar_preview_video": null,
+                    "quest_bar_preview_thumbnail": null,
+                    "quest_home_video": null
+                }
+            },
+            "share_policy": "shareable_everywhere"
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
     }
 ]
