@@ -19903,5 +19903,100 @@
         "user_status": null,
         "targeted_content": [],
         "preview": false
+    },
+    {
+        "id": "1415007769601507388",
+        "config": {
+            "id": "1415007769601507388",
+            "config_version": 2,
+            "starts_at": "2025-09-10T17:00:41+00:00",
+            "expires_at": "2025-09-16T23:00:41+00:00",
+            "features": [
+                3,
+                9,
+                13,
+                14,
+                15,
+                16,
+                18,
+                19,
+                23
+            ],
+            "application": {
+                "link": " https://store.steampowered.com/app/2073850/the_finals/?&utm_source=discord&utm_medium=paid&utm_campaign=thefinals_s8launch_arena&utm_content=playquest&utm_term=global",
+                "id": "1182713227491147776",
+                "name": "THE FINALS"
+            },
+            "assets": {
+                "hero": "b776de1b-1c48-4da4-9730-4ad49fc0d680.jpg",
+                "hero_video": null,
+                "quest_bar_hero": "b989473f-a30c-444b-8841-242da96b421e.jpeg",
+                "quest_bar_hero_video": null,
+                "game_tile": "508fca0b-0d5e-42b1-81b4-2a55088dc397.png",
+                "logotype": "1534d047-36ee-4e94-a8f8-456fef45fe47.png"
+            },
+            "colors": {
+                "primary": "#D21F3C",
+                "secondary": "#F1F2F4"
+            },
+            "messages": {
+                "quest_name": "Season 8 Launch",
+                "game_title": "THE FINALS",
+                "game_publisher": "Embark Studios"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "event_name": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "external_ids": []
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1182713227491147776"
+                            }
+                        ]
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 1,
+                        "sku_id": "1415007769601507389",
+                        "asset": "c6cffc7c-165a-46d3-893a-2622790e1e2b.png",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "Skill Issue 2.0",
+                            "name_with_article": "a Skill Issue 2.0",
+                            "redemption_instructions_by_platform": {
+                                "0": "To redeem your THE FINALS Season 8 Quest gift code, visit Embark's code redemption website and log in to your account: https://id.embark.games/id/the-finals/giveaway\nPaste your gift code to obtain your Skill Issue 2.0 set.\nRequires THE FINALS; redeem by September 09, 2026."
+                            }
+                        },
+                        "approximate_count": null,
+                        "redemption_link": null
+                    }
+                ],
+                "rewards_expire_at": "2025-10-16T23:00:41+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere"
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
     }
 ]
