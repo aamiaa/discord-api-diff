@@ -20270,5 +20270,128 @@
         "user_status": null,
         "targeted_content": [],
         "preview": false
+    },
+    {
+        "id": "1410010688482705610",
+        "config": {
+            "id": "1410010688482705610",
+            "config_version": 2,
+            "starts_at": "2025-09-12T17:00:04+00:00",
+            "expires_at": "2025-09-25T23:00:04+00:00",
+            "features": [
+                3,
+                9,
+                13,
+                14,
+                15,
+                16,
+                18,
+                19,
+                23
+            ],
+            "application": {
+                "link": "https://borderlands.2k.com/borderlands-4/buy/",
+                "id": "1415390815056035891",
+                "name": "Borderlands 4"
+            },
+            "assets": {
+                "hero": "bcd58b72-7cde-44b2-8664-6cef17703a0e.jpeg",
+                "hero_video": null,
+                "quest_bar_hero": "7c6e3d9a-c7b8-4ce6-ab19-4f5ffdd357fa.jpg",
+                "quest_bar_hero_video": null,
+                "game_tile": "48d577ee-3074-4871-adbe-155626e2ccdb.png",
+                "logotype": "4050fab7-ac14-46c1-a3d7-47b7e90be209.png"
+            },
+            "colors": {
+                "primary": "#F70212",
+                "secondary": "#454545"
+            },
+            "messages": {
+                "quest_name": "Borderlands 4 Looter",
+                "game_title": "Borderlands 4",
+                "game_publisher": "2K"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "event_name": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "external_ids": []
+                    },
+                    "PLAY_ON_XBOX": {
+                        "event_name": "PLAY_ON_XBOX",
+                        "target": 900,
+                        "external_ids": [
+                            "1928228122"
+                        ]
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "event_name": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "external_ids": [
+                            "PPSA01494_00"
+                        ]
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1415390815056035891"
+                            }
+                        ]
+                    },
+                    "PLAY_ON_XBOX": {
+                        "type": "PLAY_ON_XBOX",
+                        "target": 900,
+                        "external_ids": [
+                            "1928228122"
+                        ]
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "type": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "external_ids": [
+                            "PPSA01494_00"
+                        ]
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 1,
+                        "sku_id": "1410010688482705611",
+                        "asset": "38da6206-bc8d-404e-af72-19658c9d3b0e.jpg",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "Borderlands 4 SHiFT code",
+                            "name_with_article": "a Borderlands 4 SHiFT code",
+                            "redemption_instructions_by_platform": {
+                                "0": "SHiFT codes can be redeemed for your SHiFT Account on the Gearbox SHiFT site, or via the in-game Social menu within Borderlands 4 at launch. If you don't have a SHiFT account, you can create one on the Gearbox SHiFT site! SHiFT accounts are free. Each code may be redeemed once (1) per SHiFT account."
+                            }
+                        },
+                        "approximate_count": null,
+                        "redemption_link": null
+                    }
+                ],
+                "rewards_expire_at": "2025-10-25T23:00:04+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere"
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
     }
 ]
