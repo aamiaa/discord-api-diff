@@ -19998,5 +19998,277 @@
         "user_status": null,
         "targeted_content": [],
         "preview": false
+    },
+    {
+        "id": "1415447811088060426",
+        "config": {
+            "id": "1415447811088060426",
+            "config_version": 2,
+            "starts_at": "2025-09-12T17:00:15+00:00",
+            "expires_at": "2025-09-19T23:00:15+00:00",
+            "features": [
+                3,
+                9,
+                13,
+                14,
+                15,
+                16,
+                18,
+                19,
+                23
+            ],
+            "application": {
+                "link": "https://www.marvelrivals.com/",
+                "id": "1314395942253756416",
+                "name": "Marvel Rivals"
+            },
+            "assets": {
+                "hero": "1415763750027526184.jpeg",
+                "hero_video": "1415851875512750120.mp4",
+                "quest_bar_hero": "1415763920269869076.jpeg",
+                "quest_bar_hero_video": "1416071340187717723.mp4",
+                "game_tile": "e86d0a28-6be8-4160-99a3-69299a0015a8.png",
+                "logotype": "5bf5ef8a-230a-4412-8a66-1a550b7b65a3.png"
+            },
+            "colors": {
+                "primary": "#2D2F44",
+                "secondary": "#01227F"
+            },
+            "messages": {
+                "quest_name": "Marvel Rivals S4.0",
+                "game_title": "Marvel Rivals",
+                "game_publisher": "NetEase Games"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "event_name": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "external_ids": []
+                    },
+                    "PLAY_ON_XBOX": {
+                        "event_name": "PLAY_ON_XBOX",
+                        "target": 900,
+                        "external_ids": [
+                            "1794906646",
+                            "1758492876"
+                        ]
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "event_name": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "external_ids": [
+                            "CUSA55048_00",
+                            "PPSA21668_00",
+                            "PPSA21669_00"
+                        ]
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1314395942253756416"
+                            }
+                        ]
+                    },
+                    "PLAY_ON_XBOX": {
+                        "type": "PLAY_ON_XBOX",
+                        "target": 900,
+                        "external_ids": [
+                            "1794906646",
+                            "1758492876"
+                        ]
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "type": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "external_ids": [
+                            "CUSA55048_00",
+                            "PPSA21668_00",
+                            "PPSA21669_00"
+                        ]
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 3,
+                        "sku_id": "1416071145068957747",
+                        "asset": "1416071217026306289.mp4",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "Angela Avatar Decoration",
+                            "name_with_article": "an Angela Avatar Decoration",
+                            "redemption_instructions_by_platform": {
+                                "0": "Default"
+                            }
+                        },
+                        "expires_at": "2025-11-19T00:00:00+00:00",
+                        "expires_at_premium": null,
+                        "expiration_mode": 3
+                    }
+                ],
+                "rewards_expire_at": "2025-10-19T23:00:15+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere"
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
+    },
+    {
+        "id": "1410010949670277323",
+        "config": {
+            "id": "1410010949670277323",
+            "config_version": 2,
+            "starts_at": "2025-09-12T17:00:07+00:00",
+            "expires_at": "2025-09-18T23:00:07+00:00",
+            "features": [
+                3,
+                9,
+                13,
+                14,
+                15,
+                16,
+                18,
+                19,
+                23
+            ],
+            "application": {
+                "link": "https://borderlands.2k.com/borderlands-4/buy/",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "287931af-6987-459a-a99f-67596101e5df.jpg",
+                "hero_video": "87976fab-87a4-4a12-857f-2664d5ae8c35.mp4",
+                "quest_bar_hero": "e00c27b4-32d1-46bc-b28d-30313c38b79b.jpg",
+                "quest_bar_hero_video": "0c0520b3-fbd6-494d-9013-80b0fc196b66.mp4",
+                "game_tile": "e2687ef1-5024-44f0-8b27-e4612f2dd9fe.png",
+                "logotype": "dd4766d9-570a-4202-9238-7fe81afe875a.png"
+            },
+            "colors": {
+                "primary": "#F70212",
+                "secondary": "#454545"
+            },
+            "messages": {
+                "quest_name": "Borderlands 4 Launch",
+                "game_title": "Borderlands 4",
+                "game_publisher": "2K"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "event_name": "WATCH_VIDEO",
+                        "target": 29,
+                        "external_ids": []
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 29,
+                        "assets": {
+                            "video": {
+                                "url": "1413658343242993716_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "1413658389241659505.jpg",
+                                "caption": "1413658455771975772.vtt",
+                                "transcript": "1413658476835508254.txt"
+                            },
+                            "video_low_res": {
+                                "url": "1413658343242993716_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "1413658389241659505.jpg",
+                                "caption": "1413658455771975772.vtt",
+                                "transcript": "1413658476835508254.txt"
+                            },
+                            "video_hls": {
+                                "url": "1413658343242993716.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "1413658389241659505.jpg",
+                                "caption": "1413658455771975772.vtt",
+                                "transcript": "1413658476835508254.txt"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "Gameplay Launch Trailer",
+                            "video_end_cta_title": "Borderlands 4 ",
+                            "video_end_cta_subtitle": "Get Borderlands 4 Now!",
+                            "video_end_cta_button_label": "Play Now"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 3,
+                        "sku_id": "1413650166774366279",
+                        "asset": "f80e2361-eaa2-4fa5-b2b1-91a07c322a90.mp4",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "Echo-4 Avatar Decoration ",
+                            "name_with_article": "an Echo-4 Avatar Decoration ",
+                            "redemption_instructions_by_platform": {
+                                "0": "Default"
+                            }
+                        },
+                        "expires_at": "2025-11-18T00:00:00+00:00",
+                        "expires_at_premium": null,
+                        "expiration_mode": 3
+                    }
+                ],
+                "rewards_expire_at": "2025-10-18T23:00:07+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "video_metadata": {
+                "messages": {
+                    "video_title": "Gameplay Launch Trailer",
+                    "video_end_cta_title": "Borderlands 4 ",
+                    "video_end_cta_subtitle": "Get Borderlands 4 Now!",
+                    "video_end_cta_button_label": "Play Now"
+                },
+                "assets": {
+                    "video_player_video_hls": "1413658343242993716.m3u8",
+                    "video_player_video": "1413658343242993716_1080.mp4",
+                    "video_player_thumbnail": "1413658389241659505.jpg",
+                    "video_player_video_low_res": "1413658343242993716_720.mp4",
+                    "video_player_caption": "1413658455771975772.vtt",
+                    "video_player_transcript": "1413658476835508254.txt",
+                    "quest_bar_preview_video": null,
+                    "quest_bar_preview_thumbnail": null,
+                    "quest_home_video": null
+                }
+            },
+            "share_policy": "shareable_everywhere"
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
     }
 ]
