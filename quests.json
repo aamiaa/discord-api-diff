@@ -20393,5 +20393,97 @@
         "user_status": null,
         "targeted_content": [],
         "preview": false
+    },
+    {
+        "id": "1412895538050760776",
+        "config": {
+            "id": "1412895538050760776",
+            "config_version": 2,
+            "starts_at": "2025-09-15T17:00:26+00:00",
+            "expires_at": "2025-09-22T23:00:26+00:00",
+            "features": [
+                3,
+                9,
+                13,
+                14,
+                15,
+                16,
+                18,
+                19,
+                23
+            ],
+            "application": {
+                "link": "https://warthunder.com/play4free?r=discord&utm_source=discord&utm_medium=quest&utm_campaign=september",
+                "id": "357607478105604096",
+                "name": "War Thunder"
+            },
+            "assets": {
+                "hero": "9315ed46-db02-4305-95a5-024b9c7fd2d3.jpeg",
+                "hero_video": "8af497e0-c0c4-44f4-a109-3767d3001216.mp4",
+                "quest_bar_hero": "e9cac803-51f3-4982-87be-663dc1df017f.jpg",
+                "quest_bar_hero_video": "b74f11f0-28aa-4cdb-a17d-40013e9873c2.mp4",
+                "game_tile": "a9ce8f48-be66-41bd-813d-acd9fd6344fe.png",
+                "logotype": "c1984909-469d-4905-ab73-e35095e58850.png"
+            },
+            "colors": {
+                "primary": "#1B2A41",
+                "secondary": "#4682B4"
+            },
+            "messages": {
+                "quest_name": "War Thunder",
+                "game_title": "War Thunder",
+                "game_publisher": "Gaijin Entertainment"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "event_name": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "external_ids": []
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "357607478105604096"
+                            }
+                        ]
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 orbs",
+                            "name_with_article": "700 orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "Default"
+                            }
+                        },
+                        "orb_quantity": 700
+                    }
+                ],
+                "rewards_expire_at": "2025-10-22T23:00:26+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere"
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
     }
 ]
