@@ -20485,5 +20485,97 @@
         "user_status": null,
         "targeted_content": [],
         "preview": false
+    },
+    {
+        "id": "1415444527229042769",
+        "config": {
+            "id": "1415444527229042769",
+            "config_version": 2,
+            "starts_at": "2025-09-16T17:00:12+00:00",
+            "expires_at": "2025-09-22T23:00:12+00:00",
+            "features": [
+                3,
+                9,
+                13,
+                14,
+                15,
+                16,
+                18,
+                19,
+                23
+            ],
+            "application": {
+                "link": " https://track.iegcom.com/c/h8REHu?campaign_name=pclaunch&ad_group_name=global&ad_name=redgun&utm_source=DC&utm_medium=DC&utm_campaign=pclaunch&utm_content=global&utm_term=redgun",
+                "id": "1238113262969557002",
+                "name": "Arena Breakout: Infinite"
+            },
+            "assets": {
+                "hero": "1415445260783325184.jpg",
+                "hero_video": null,
+                "quest_bar_hero": "1415445287199314010.jpg",
+                "quest_bar_hero_video": null,
+                "game_tile": "877a7221-a884-4903-90e1-f2de61e46d22.png",
+                "logotype": "df7a2c26-14af-428a-808c-1d0b7b1a890c.png"
+            },
+            "colors": {
+                "primary": "#E38B3F",
+                "secondary": "#FFA200"
+            },
+            "messages": {
+                "quest_name": "ABI Steam Launch",
+                "game_title": "Arena Breakout: Infinite (Free on Steam)",
+                "game_publisher": "MoreFun Studios"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "event_name": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "external_ids": []
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1238113262969557002"
+                            }
+                        ]
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 orbs",
+                            "name_with_article": "700 orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "Default"
+                            }
+                        },
+                        "orb_quantity": 700
+                    }
+                ],
+                "rewards_expire_at": "2025-10-22T23:00:12+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere"
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
     }
 ]
