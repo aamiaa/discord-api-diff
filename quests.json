@@ -16449,7 +16449,11 @@
                 "quest_bar_hero": "a2e6649b-983e-4db3-ad84-0f8f20d57e54.png",
                 "quest_bar_hero_video": "57290778-df0d-4d3b-a24b-431fcd8444e4.webm",
                 "game_tile": "6d7d37b6-46c5-4fa0-b36a-cee9c1c5d092.png",
-                "logotype": "33bbf2f9-4b76-49a7-a140-7949326bf35b.png"
+                "logotype": "33bbf2f9-4b76-49a7-a140-7949326bf35b.png",
+                "game_tile_light": "1417602543646802020.png",
+                "game_tile_dark": "1417602544242266284.png",
+                "logotype_light": "1417602544787656886.png",
+                "logotype_dark": "1417602545483907304.png"
             },
             "colors": {
                 "primary": "#E41E2C",
@@ -17301,7 +17305,11 @@
                 "quest_bar_hero": "a5ccc5ec-8e57-4c51-a73c-4114318609f9.jpg",
                 "quest_bar_hero_video": "134abfa9-1be0-4bbb-b7c4-933d6c2fed37.webm",
                 "game_tile": "ed90ead4-5d8a-4b80-9088-57ec74832114.png",
-                "logotype": "20d0fa67-2765-4415-b887-a79a323ecf09.png"
+                "logotype": "20d0fa67-2765-4415-b887-a79a323ecf09.png",
+                "game_tile_light": "1417602505721909258.png",
+                "game_tile_dark": "1417602506359439410.png",
+                "logotype_light": "1417602506992910546.png",
+                "logotype_dark": "1417602507638706358.png"
             },
             "colors": {
                 "primary": "#50007B",
@@ -17436,7 +17444,11 @@
                 "quest_bar_hero": "e954fe11-cc88-47e4-a0a4-64013c755434.png",
                 "quest_bar_hero_video": "834d6cc7-33aa-4739-a028-0e3fa5a554a7.webm",
                 "game_tile": "e28cf468-ba58-4a93-893d-5ee6d716b20e.png",
-                "logotype": "4b263329-fe44-45a2-94be-45ebece1eae0.png"
+                "logotype": "4b263329-fe44-45a2-94be-45ebece1eae0.png",
+                "game_tile_light": "1417602525309304833.png",
+                "game_tile_dark": "1417602526030856346.png",
+                "logotype_light": "1417602526798286998.png",
+                "logotype_dark": "1417602527427428453.png"
             },
             "colors": {
                 "primary": "#8C739A",
@@ -17578,7 +17590,11 @@
                 "quest_bar_hero": "5ba0e927-0893-4546-a39a-b8e34314e859.jpg",
                 "quest_bar_hero_video": "6f8b2d40-5d48-4756-b521-52b9d9070ee4.mp4",
                 "game_tile": "bc3d5076-ec3c-48df-8fe9-581b588abbde.png",
-                "logotype": "c6bd63f2-fdb0-42d5-8dee-0f04512544cf.png"
+                "logotype": "c6bd63f2-fdb0-42d5-8dee-0f04512544cf.png",
+                "game_tile_light": "1417602489041162380.png",
+                "game_tile_dark": "1417602489536086046.png",
+                "logotype_light": "1417602490232213666.png",
+                "logotype_dark": "1417602490882592779.png"
             },
             "colors": {
                 "primary": "#0CA766",
@@ -17609,11 +17625,11 @@
                         "event_name": "PLAY_ON_PLAYSTATION",
                         "target": 900,
                         "external_ids": [
-                            "PPSA31391_00",
-                            "PPSA28882_00",
-                            "PPSA28884_00",
+                            "PPSA28881_00",
                             "PPSA28883_00",
-                            "PPSA28881_00"
+                            "PPSA28882_00",
+                            "PPSA31391_00",
+                            "PPSA28884_00"
                         ]
                     }
                 }
@@ -17622,7 +17638,12 @@
                 "tasks": {
                     "PLAY_ON_DESKTOP": {
                         "type": "PLAY_ON_DESKTOP",
-                        "target": 900
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1314682894106497096"
+                            }
+                        ]
                     },
                     "PLAY_ON_XBOX": {
                         "type": "PLAY_ON_XBOX",
@@ -17635,11 +17656,11 @@
                         "type": "PLAY_ON_PLAYSTATION",
                         "target": 900,
                         "external_ids": [
-                            "PPSA31391_00",
-                            "PPSA28882_00",
-                            "PPSA28884_00",
+                            "PPSA28881_00",
                             "PPSA28883_00",
-                            "PPSA28881_00"
+                            "PPSA28882_00",
+                            "PPSA31391_00",
+                            "PPSA28884_00"
                         ]
                     }
                 },
@@ -17701,7 +17722,11 @@
                 "quest_bar_hero": "174c97e4-c7e5-4524-8354-440a3a4a563b.jpg",
                 "quest_bar_hero_video": "977da603-582e-419f-ac72-fbc36bb6b642.mp4",
                 "game_tile": "f1781b73-7b06-4f81-abb2-a7be16af78aa.png",
-                "logotype": "33811ea6-64ac-416a-b041-3b6b6f626b06.png"
+                "logotype": "33811ea6-64ac-416a-b041-3b6b6f626b06.png",
+                "game_tile_light": "1417602482061967390.png",
+                "game_tile_dark": "1417602482598711478.png",
+                "logotype_light": "1417602483055886386.png",
+                "logotype_dark": "1417602483055886387.png"
             },
             "colors": {
                 "primary": "#FF0033",
@@ -17831,7 +17856,11 @@
                 "quest_bar_hero": "605c7c27-2e5b-4357-b822-c7f6488b5a48.jpg",
                 "quest_bar_hero_video": "8f7f3afa-c926-4103-a5ac-b7c5aadcf2eb.mp4",
                 "game_tile": "d1886aec-414e-4847-b4c5-42336ab230c1.png",
-                "logotype": "e0b66f7f-6126-4bfd-8f89-9c04e837af4d.png"
+                "logotype": "e0b66f7f-6126-4bfd-8f89-9c04e837af4d.png",
+                "game_tile_light": "1417602492216246425.png",
+                "game_tile_dark": "1417602492774219806.png",
+                "logotype_light": "1417602493214494752.png",
+                "logotype_dark": "1417602494011408554.png"
             },
             "colors": {
                 "primary": "#83BBFF",
@@ -17961,7 +17990,11 @@
                 "quest_bar_hero": "aa65fd45-2a7f-4efc-930d-3027306cbc2f.jpg",
                 "quest_bar_hero_video": "f705b735-b748-4952-840f-b7449aa9cc2a.mp4",
                 "game_tile": "621f48bd-bad1-453c-b441-f690a34f6884.jpg",
-                "logotype": "0aa89d16-cc9d-4a58-9a84-85a4f95c8bfb.png"
+                "logotype": "0aa89d16-cc9d-4a58-9a84-85a4f95c8bfb.png",
+                "game_tile_light": "1417602468040278026.jpg",
+                "game_tile_dark": "1417602468849909760.jpg",
+                "logotype_light": "1417602469365682247.png",
+                "logotype_dark": "1417602470221316167.png"
             },
             "colors": {
                 "primary": "#D90000",
@@ -18091,7 +18124,11 @@
                 "quest_bar_hero": "b11b7830-9b8b-44e0-8969-512fcead139c.jpg",
                 "quest_bar_hero_video": "ba936fea-4a12-491c-b493-b558d7dafdd5.mp4",
                 "game_tile": "2f26aab7-057d-4c7b-a30e-838b64078ca9.png",
-                "logotype": "f940bba4-69dc-4eda-b284-4aee038d4bb1.png"
+                "logotype": "f940bba4-69dc-4eda-b284-4aee038d4bb1.png",
+                "game_tile_light": "1417602471710425178.png",
+                "game_tile_dark": "1417602472444301383.png",
+                "logotype_light": "1417602473270575324.png",
+                "logotype_dark": "1417602473941794826.png"
             },
             "colors": {
                 "primary": "#FF0033",
@@ -18222,7 +18259,11 @@
                 "quest_bar_hero": "872b0c5d-3cff-4836-8ab9-8a3d2aee40a2.jpg",
                 "quest_bar_hero_video": "ac8a5fbe-bea9-43b5-a77e-1feb1a6dfbd0.mp4",
                 "game_tile": "97d1f08d-72b6-4e61-a78c-77f65d2f32cb.png",
-                "logotype": "96ea5ca0-72be-47f9-b034-b42fcfac8161.png"
+                "logotype": "96ea5ca0-72be-47f9-b034-b42fcfac8161.png",
+                "game_tile_light": "1417602495223693492.png",
+                "game_tile_dark": "1417602495882072257.png",
+                "logotype_light": "1417602496410550382.png",
+                "logotype_dark": "1417602497023049769.png"
             },
             "colors": {
                 "primary": "#B8860B",
@@ -18352,7 +18393,11 @@
                 "quest_bar_hero": "6626c771-f57e-4d1d-9642-312de92e2f15.jpg",
                 "quest_bar_hero_video": "ff1876ac-9c1a-4070-8567-94504caa7254.mp4",
                 "game_tile": "e6a678b4-e35a-4361-baf2-341a6a99ad6f.png",
-                "logotype": "744d6200-4850-4fc4-b687-8f5dc4e4ce17.png"
+                "logotype": "744d6200-4850-4fc4-b687-8f5dc4e4ce17.png",
+                "game_tile_light": "1417602475468394627.png",
+                "game_tile_dark": "1417602476076564731.png",
+                "logotype_light": "1417602476726812714.png",
+                "logotype_dark": "1417602477330665684.png"
             },
             "colors": {
                 "primary": "#D62315",
@@ -18482,7 +18527,11 @@
                 "quest_bar_hero": "29a6999f-2130-47fe-93e3-6f8bfceac7af.jpg",
                 "quest_bar_hero_video": "8a947b90-cfb3-4d8c-bd88-dc6d3ee3f392.mp4",
                 "game_tile": "5298b349-986f-4b4f-bf85-b56291578da0.png",
-                "logotype": "e394ab98-f056-4989-8e85-7d0ede050efa.png"
+                "logotype": "e394ab98-f056-4989-8e85-7d0ede050efa.png",
+                "game_tile_light": "1417602478685421652.png",
+                "game_tile_dark": "1417602479369224192.png",
+                "logotype_light": "1417602480040185936.png",
+                "logotype_dark": "1417602480644161626.png"
             },
             "colors": {
                 "primary": "#E21A13",
@@ -18608,7 +18657,11 @@
                 "quest_bar_hero": "a3894f45-8008-4397-b5b5-294d147493bb.jpg",
                 "quest_bar_hero_video": "b6ca5d29-4395-4419-90de-5c4b6909a463.mp4",
                 "game_tile": "85c2eb3f-86fe-4975-946c-54ef2b4034a3.png",
-                "logotype": "5eeff814-829a-4b22-855a-0ffb07be27a0.png"
+                "logotype": "5eeff814-829a-4b22-855a-0ffb07be27a0.png",
+                "game_tile_light": "1417602453507018793.png",
+                "game_tile_dark": "1417602454043885660.png",
+                "logotype_light": "1417602454555721758.png",
+                "logotype_dark": "1417602455000190976.png"
             },
             "colors": {
                 "primary": "#233533",
@@ -18738,7 +18791,11 @@
                 "quest_bar_hero": "26a9c9b2-323c-43a2-95d8-d1c80b16cea7.jpeg",
                 "quest_bar_hero_video": "43ed0e1c-4d98-485b-bb7e-d13532f0fa99.mp4",
                 "game_tile": "c70032a2-2fe0-49fc-9796-9a4ddc01919a.png",
-                "logotype": "72a13d7a-25b4-42ed-b8bf-524679a31d54.png"
+                "logotype": "72a13d7a-25b4-42ed-b8bf-524679a31d54.png",
+                "game_tile_light": "1417602431386259676.png",
+                "game_tile_dark": "1417602431927320787.png",
+                "logotype_light": "1417602432594088158.png",
+                "logotype_dark": "1417602433437274192.png"
             },
             "colors": {
                 "primary": "#83BBFF",
@@ -18833,7 +18890,11 @@
                 "quest_bar_hero": "4d31364f-5bc8-4c1a-85b0-49e61ae21c08.jpg",
                 "quest_bar_hero_video": "38757a19-5cb1-4ed9-9efb-d51b6939c27c.mp4",
                 "game_tile": "9fb8c8de-7542-497f-a1be-74d37dac388f.jpg",
-                "logotype": "b95ec689-9e7a-4326-94b4-3034c764b935.png"
+                "logotype": "b95ec689-9e7a-4326-94b4-3034c764b935.png",
+                "game_tile_light": "1417602404240719963.jpg",
+                "game_tile_dark": "1417602404962271325.jpg",
+                "logotype_light": "1417602405851336805.png",
+                "logotype_dark": "1417602406404980918.png"
             },
             "colors": {
                 "primary": "#1D4289",
@@ -18975,7 +19036,11 @@
                 "quest_bar_hero": "1bb10780-1487-4394-9ebf-550d4e10b10f.jpeg",
                 "quest_bar_hero_video": "80e204cc-ae1c-41ce-9687-d943ba171f9b.mp4",
                 "game_tile": "afb9b9fd-74b7-4f6e-9a3b-632356d5342d.png",
-                "logotype": "d03203bc-4465-444b-9510-90e115e26d84.png"
+                "logotype": "d03203bc-4465-444b-9510-90e115e26d84.png",
+                "game_tile_light": "1417602420908888194.png",
+                "game_tile_dark": "1417602421605138462.png",
+                "logotype_light": "1417602422078967929.png",
+                "logotype_dark": "1417602422636941542.png"
             },
             "colors": {
                 "primary": "#E31B14",
@@ -19116,7 +19181,11 @@
                 "quest_bar_hero": "02e10ef4-88af-477e-aaf3-a67f215ac1ba.jpg",
                 "quest_bar_hero_video": null,
                 "game_tile": "2eecb081-0188-477a-aa24-603d234e801e.png",
-                "logotype": "576adb3f-54dc-4c65-9f07-6329048a495e.png"
+                "logotype": "576adb3f-54dc-4c65-9f07-6329048a495e.png",
+                "game_tile_light": "1417602534046175262.png",
+                "game_tile_dark": "1417602534654214187.png",
+                "logotype_light": "1417602535325433947.png",
+                "logotype_dark": "1417602535942000841.png"
             },
             "colors": {
                 "primary": "#3E6C40",
@@ -19147,10 +19216,10 @@
                         "event_name": "PLAY_ON_PLAYSTATION",
                         "target": 900,
                         "external_ids": [
-                            "PPSA22041_00",
+                            "PPSA23974_00",
                             "PPSA22040_00",
-                            "PPSA23975_00",
-                            "PPSA23974_00"
+                            "PPSA22041_00",
+                            "PPSA23975_00"
                         ]
                     }
                 }
@@ -19177,10 +19246,10 @@
                         "type": "PLAY_ON_PLAYSTATION",
                         "target": 900,
                         "external_ids": [
-                            "PPSA22041_00",
+                            "PPSA23974_00",
                             "PPSA22040_00",
-                            "PPSA23975_00",
-                            "PPSA23974_00"
+                            "PPSA22041_00",
+                            "PPSA23975_00"
                         ]
                     }
                 },
@@ -19246,7 +19315,11 @@
                 "quest_bar_hero": "68fad9d4-64c5-4b45-bf12-1b56743d1722.jpg",
                 "quest_bar_hero_video": "153d0853-05ae-4909-bdbe-efa3183687b6.mp4",
                 "game_tile": "16d0b89c-6e1e-42f7-93f2-cf13b0834782.png",
-                "logotype": "daca4ffe-86e1-436f-b6f2-7b4814d586bf.png"
+                "logotype": "daca4ffe-86e1-436f-b6f2-7b4814d586bf.png",
+                "game_tile_light": "1417602439217152112.png",
+                "game_tile_dark": "1417602439909085507.png",
+                "logotype_light": "1417602440609398784.png",
+                "logotype_dark": "1417602441100394667.png"
             },
             "colors": {
                 "primary": "#7A7A7A",
@@ -19384,7 +19457,11 @@
                 "quest_bar_hero": "af7e75f3-1d28-4b73-8b20-5e9594485f0c.jpg",
                 "quest_bar_hero_video": "a6e8bd1c-4ded-4371-8b03-7cbbba1ddbfd.mp4",
                 "game_tile": "a30a7e9c-35ce-47c7-9b79-94c19f83da29.png",
-                "logotype": "27695888-b384-4db1-9bdd-efbfc4e22798.png"
+                "logotype": "27695888-b384-4db1-9bdd-efbfc4e22798.png",
+                "game_tile_light": "1417602434880110613.png",
+                "game_tile_dark": "1417602435425243157.png",
+                "logotype_light": "1417602435899330712.png",
+                "logotype_dark": "1417602436507500695.png"
             },
             "colors": {
                 "primary": "#FF4000",
@@ -19522,7 +19599,11 @@
                 "quest_bar_hero": "d666db0f-d38a-4203-ae56-3220f6ada6af.jpeg",
                 "quest_bar_hero_video": "cbb61e16-5a9d-45bd-847d-873d0c6ee65d.mp4",
                 "game_tile": "a5af7565-83aa-48c8-bca4-df39401051f0.png",
-                "logotype": "49b1d468-8e0a-4947-ab72-02f355789360.png"
+                "logotype": "49b1d468-8e0a-4947-ab72-02f355789360.png",
+                "game_tile_light": "1417602395210514513.png",
+                "game_tile_dark": "1417602395894059181.png",
+                "logotype_light": "1417602396506423467.png",
+                "logotype_dark": "1417602397168996443.png"
             },
             "colors": {
                 "primary": "#97281B",
@@ -19660,7 +19741,11 @@
                 "quest_bar_hero": "4893ecef-40e5-4867-a4bf-55438ca2a824.jpg",
                 "quest_bar_hero_video": "9a491898-bf55-40e5-882a-aa59e48fe800.mp4",
                 "game_tile": "7fc0e2b8-cb18-4045-b6a7-acde682fd14a.png",
-                "logotype": "50209d2e-0b5e-4b89-a6d2-7e220e40dff0.png"
+                "logotype": "50209d2e-0b5e-4b89-a6d2-7e220e40dff0.png",
+                "game_tile_light": "1417602364248035408.png",
+                "game_tile_dark": "1417602365015589035.png",
+                "logotype_light": "1417602365711974460.png",
+                "logotype_dark": "1417602366391324752.png"
             },
             "colors": {
                 "primary": "#D62315",
@@ -19795,7 +19880,11 @@
                 "quest_bar_hero": "ffb6993d-1451-4aee-83b0-0b3c25cb42c9.jpg",
                 "quest_bar_hero_video": "bd9df4cb-55e7-41e8-b89f-c2a24ace69d7.mp4",
                 "game_tile": "368a9f3e-07c8-4c52-9faf-4855b28977c6.png",
-                "logotype": "10776a7c-a6c8-4067-8368-b7510d02c765.png"
+                "logotype": "10776a7c-a6c8-4067-8368-b7510d02c765.png",
+                "game_tile_light": "1417602355460964515.png",
+                "game_tile_dark": "1417602356421591290.png",
+                "logotype_light": "1417602357058998453.png",
+                "logotype_dark": "1417602358136930314.png"
             },
             "colors": {
                 "primary": "#FF6B35",
@@ -19933,7 +20022,11 @@
                 "quest_bar_hero": "b989473f-a30c-444b-8841-242da96b421e.jpeg",
                 "quest_bar_hero_video": null,
                 "game_tile": "508fca0b-0d5e-42b1-81b4-2a55088dc397.png",
-                "logotype": "1534d047-36ee-4e94-a8f8-456fef45fe47.png"
+                "logotype": "1534d047-36ee-4e94-a8f8-456fef45fe47.png",
+                "game_tile_light": "1417602348729237556.png",
+                "game_tile_dark": "1417602349416976524.png",
+                "logotype_light": "1417602350016757852.png",
+                "logotype_dark": "1417602350549565530.png"
             },
             "colors": {
                 "primary": "#D21F3C",
@@ -20028,7 +20121,11 @@
                 "quest_bar_hero": "1415763920269869076.jpeg",
                 "quest_bar_hero_video": "1416071340187717723.mp4",
                 "game_tile": "e86d0a28-6be8-4160-99a3-69299a0015a8.png",
-                "logotype": "5bf5ef8a-230a-4412-8a66-1a550b7b65a3.png"
+                "logotype": "5bf5ef8a-230a-4412-8a66-1a550b7b65a3.png",
+                "game_tile_light": "1417602336930660414.png",
+                "game_tile_dark": "1417602337706479696.png",
+                "logotype_light": "1417602338377564303.png",
+                "logotype_dark": "1417602339107504339.png"
             },
             "colors": {
                 "primary": "#2D2F44",
@@ -20052,8 +20149,8 @@
                         "event_name": "PLAY_ON_XBOX",
                         "target": 900,
                         "external_ids": [
-                            "1794906646",
-                            "1758492876"
+                            "1758492876",
+                            "1794906646"
                         ]
                     },
                     "PLAY_ON_PLAYSTATION": {
@@ -20082,8 +20179,8 @@
                         "type": "PLAY_ON_XBOX",
                         "target": 900,
                         "external_ids": [
-                            "1794906646",
-                            "1758492876"
+                            "1758492876",
+                            "1794906646"
                         ]
                     },
                     "PLAY_ON_PLAYSTATION": {
@@ -20158,7 +20255,11 @@
                 "quest_bar_hero": "e00c27b4-32d1-46bc-b28d-30313c38b79b.jpg",
                 "quest_bar_hero_video": "0c0520b3-fbd6-494d-9013-80b0fc196b66.mp4",
                 "game_tile": "e2687ef1-5024-44f0-8b27-e4612f2dd9fe.png",
-                "logotype": "dd4766d9-570a-4202-9238-7fe81afe875a.png"
+                "logotype": "dd4766d9-570a-4202-9238-7fe81afe875a.png",
+                "game_tile_light": "1417602424218189985.png",
+                "game_tile_dark": "1417602424977490046.png",
+                "logotype_light": "1417602425551982683.png",
+                "logotype_dark": "1417602426244038729.png"
             },
             "colors": {
                 "primary": "#F70212",
@@ -20300,7 +20401,11 @@
                 "quest_bar_hero": "7c6e3d9a-c7b8-4ce6-ab19-4f5ffdd357fa.jpg",
                 "quest_bar_hero_video": null,
                 "game_tile": "48d577ee-3074-4871-adbe-155626e2ccdb.png",
-                "logotype": "4050fab7-ac14-46c1-a3d7-47b7e90be209.png"
+                "logotype": "4050fab7-ac14-46c1-a3d7-47b7e90be209.png",
+                "game_tile_light": "1417602427770638478.png",
+                "game_tile_dark": "1417602428496384272.png",
+                "logotype_light": "1417602429209411755.png",
+                "logotype_dark": "1417602429926768660.png"
             },
             "colors": {
                 "primary": "#F70212",
@@ -20423,7 +20528,11 @@
                 "quest_bar_hero": "e9cac803-51f3-4982-87be-663dc1df017f.jpg",
                 "quest_bar_hero_video": "b74f11f0-28aa-4cdb-a17d-40013e9873c2.mp4",
                 "game_tile": "a9ce8f48-be66-41bd-813d-acd9fd6344fe.png",
-                "logotype": "c1984909-469d-4905-ab73-e35095e58850.png"
+                "logotype": "c1984909-469d-4905-ab73-e35095e58850.png",
+                "game_tile_light": "1417602386683367445.png",
+                "game_tile_dark": "1417602387505316022.png",
+                "logotype_light": "1417602388163825674.png",
+                "logotype_dark": "1417602388809879764.png"
             },
             "colors": {
                 "primary": "#1B2A41",
@@ -20514,8 +20623,12 @@
                 "hero_video": null,
                 "quest_bar_hero": "1415445287199314010.jpg",
                 "quest_bar_hero_video": null,
-                "game_tile": "877a7221-a884-4903-90e1-f2de61e46d22.png",
-                "logotype": "df7a2c26-14af-428a-808c-1d0b7b1a890c.png"
+                "game_tile": "1417885876788400201.png",
+                "logotype": "1417885875634831370.png",
+                "game_tile_light": "1417602340617326652.png",
+                "game_tile_dark": "1417602341259051171.png",
+                "logotype_light": "1417602341934465095.png",
+                "logotype_dark": "1417602342643306506.png"
             },
             "colors": {
                 "primary": "#E38B3F",
@@ -20571,6 +20684,416 @@
                 "platforms": [
                     0
                 ]
+            },
+            "share_policy": "shareable_everywhere"
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
+    },
+    {
+        "id": "1416148745472442369",
+        "config": {
+            "id": "1416148745472442369",
+            "config_version": 2,
+            "starts_at": "2025-09-17T17:00:31+00:00",
+            "expires_at": "2025-09-23T23:00:31+00:00",
+            "features": [
+                3,
+                9,
+                13,
+                14,
+                15,
+                16,
+                18,
+                19,
+                23
+            ],
+            "application": {
+                "link": "https://store.steampowered.com/app/3333850",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "1416156220586201089.jpg",
+                "hero_video": "1416156263133478992.mp4",
+                "quest_bar_hero": "1416156196703961168.jpg",
+                "quest_bar_hero_video": "1416156263133478992.mp4",
+                "game_tile": "4ade9fac-4df9-4815-b595-7d8fe945d568.png",
+                "logotype": "faadc45b-c7a7-424b-b47b-c5de418b0038.png",
+                "game_tile_light": "1417602333478617179.png",
+                "game_tile_dark": "1417602334187327528.png",
+                "logotype_light": "1417602334824992889.png",
+                "logotype_dark": "1417602335454003330.png"
+            },
+            "colors": {
+                "primary": "#2C5C56",
+                "secondary": "#14282D"
+            },
+            "messages": {
+                "quest_name": "Arkheron Reveal",
+                "game_title": "Arkheron",
+                "game_publisher": "Bonfire Studios"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "event_name": "WATCH_VIDEO",
+                        "target": 111,
+                        "external_ids": []
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 111,
+                        "assets": {
+                            "video": {
+                                "url": "1416156877233852548_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "1416157057144324207.jpg",
+                                "caption": "1417889252997337319.vtt",
+                                "transcript": "1417889319636701416.txt"
+                            },
+                            "video_low_res": {
+                                "url": "1416156877233852548_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "1416157057144324207.jpg",
+                                "caption": "1417889252997337319.vtt",
+                                "transcript": "1417889319636701416.txt"
+                            },
+                            "video_hls": {
+                                "url": "1416156877233852548.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "1416157057144324207.jpg",
+                                "caption": "1417889252997337319.vtt",
+                                "transcript": "1417889319636701416.txt"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "Arkheron - Official Reveal Trailer",
+                            "video_end_cta_title": "Arkheron",
+                            "video_end_cta_subtitle": "The Tower Awaits",
+                            "video_end_cta_button_label": "Wishlist Now"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 orbs",
+                            "name_with_article": "700 orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "Default"
+                            }
+                        },
+                        "orb_quantity": 700
+                    }
+                ],
+                "rewards_expire_at": "2025-10-23T23:00:31+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "video_metadata": {
+                "messages": {
+                    "video_title": "Arkheron - Official Reveal Trailer",
+                    "video_end_cta_title": "Arkheron",
+                    "video_end_cta_subtitle": "The Tower Awaits",
+                    "video_end_cta_button_label": "Wishlist Now"
+                },
+                "assets": {
+                    "video_player_video_hls": "1416156877233852548.m3u8",
+                    "video_player_video": "1416156877233852548_1080.mp4",
+                    "video_player_thumbnail": "1416157057144324207.jpg",
+                    "video_player_video_low_res": "1416156877233852548_720.mp4",
+                    "video_player_caption": "1417889252997337319.vtt",
+                    "video_player_transcript": "1417889319636701416.txt",
+                    "quest_bar_preview_video": null,
+                    "quest_bar_preview_thumbnail": null,
+                    "quest_home_video": null
+                }
+            },
+            "share_policy": "shareable_everywhere"
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
+    },
+    {
+        "id": "1416172187542622218",
+        "config": {
+            "id": "1416172187542622218",
+            "config_version": 2,
+            "starts_at": "2025-09-16T18:00:40+00:00",
+            "expires_at": "2025-09-28T23:00:40+00:00",
+            "features": [
+                3,
+                9,
+                13,
+                14,
+                15,
+                16,
+                18,
+                19,
+                23
+            ],
+            "application": {
+                "link": "https://ad.doubleclick.net/ddm/trackclk/N7657.3866164DISCORD.COM/B34092608.429328329;dc_trk_aid=622103112;dc_trk_cid=241813761;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1",
+                "id": "1416171554890580152",
+                "name": "skate."
+            },
+            "assets": {
+                "hero": "1416173403320225963.jpg",
+                "hero_video": null,
+                "quest_bar_hero": "1416172849739071602.jpg",
+                "quest_bar_hero_video": null,
+                "game_tile": "1417880653927809105.png",
+                "logotype": "1417881461167489125.png",
+                "game_tile_light": "1417602327132766319.png",
+                "game_tile_dark": "1417602327724036296.png",
+                "logotype_light": "1417602328474812516.png",
+                "logotype_dark": "1417602329213141073.png"
+            },
+            "colors": {
+                "primary": "#B36F00",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "skate.",
+                "game_title": "skate.",
+                "game_publisher": "EA"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "event_name": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "external_ids": []
+                    },
+                    "PLAY_ON_XBOX": {
+                        "event_name": "PLAY_ON_XBOX",
+                        "target": 900,
+                        "external_ids": [
+                            "883004381",
+                            "2106683993"
+                        ]
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "event_name": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "external_ids": [
+                            "CUSA37423_00",
+                            "PPSA10793_00"
+                        ]
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1416171554890580152"
+                            }
+                        ]
+                    },
+                    "PLAY_ON_XBOX": {
+                        "type": "PLAY_ON_XBOX",
+                        "target": 900,
+                        "external_ids": [
+                            "883004381",
+                            "2106683993"
+                        ]
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "type": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "external_ids": [
+                            "CUSA37423_00",
+                            "PPSA10793_00"
+                        ]
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 orbs",
+                            "name_with_article": "700 orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "Default"
+                            }
+                        },
+                        "orb_quantity": 700
+                    }
+                ],
+                "rewards_expire_at": "2025-10-28T23:00:40+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere"
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
+    },
+    {
+        "id": "1416161043201392741",
+        "config": {
+            "id": "1416161043201392741",
+            "config_version": 2,
+            "starts_at": "2025-09-16T18:00:23+00:00",
+            "expires_at": "2025-09-28T23:00:23+00:00",
+            "features": [
+                3,
+                9,
+                13,
+                14,
+                15,
+                16,
+                18,
+                19,
+                23
+            ],
+            "application": {
+                "link": "https://ad.doubleclick.net/ddm/trackclk/N7657.3866164DISCORD.COM/B34092608.428926580;dc_trk_aid=621892337;dc_trk_cid=241812945;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "1416164728903958698.jpg",
+                "hero_video": "1417532897354711050.mp4",
+                "quest_bar_hero": "1416164907464003766.jpg",
+                "quest_bar_hero_video": "1417532897354711050.mp4",
+                "game_tile": "1417884876270469181.png",
+                "logotype": "1417884874970370078.png",
+                "game_tile_light": "1417602330534219827.png",
+                "game_tile_dark": "1417602331146584196.png",
+                "logotype_light": "1417602331675197550.png",
+                "logotype_dark": "1417602332287439029.png"
+            },
+            "colors": {
+                "primary": "#B36F00",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "skate. Trailer",
+                "game_title": "skate.",
+                "game_publisher": "EA"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "event_name": "WATCH_VIDEO",
+                        "target": 29,
+                        "external_ids": []
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 29,
+                        "assets": {
+                            "video": {
+                                "url": "1416163749508681728_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "1416164907464003766.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "1416163749508681728_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "1416164907464003766.jpg"
+                            },
+                            "video_hls": {
+                                "url": "1416163749508681728.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "1416164907464003766.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "skate.",
+                            "video_end_cta_title": "skate.",
+                            "video_end_cta_subtitle": "Your new favorite hangout awaits.",
+                            "video_end_cta_button_label": "Play Now"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 3,
+                        "sku_id": "1416166649005871265",
+                        "asset": "1416166977218547864.mp4",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "skate. Avatar Decoration",
+                            "name_with_article": "a skate. Avatar Decoration",
+                            "redemption_instructions_by_platform": {
+                                "0": "Default"
+                            }
+                        },
+                        "expires_at": "2025-11-28T00:00:00+00:00",
+                        "expires_at_premium": null,
+                        "expiration_mode": 3
+                    }
+                ],
+                "rewards_expire_at": "2025-10-28T23:00:23+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "video_metadata": {
+                "messages": {
+                    "video_title": "skate.",
+                    "video_end_cta_title": "skate.",
+                    "video_end_cta_subtitle": "Your new favorite hangout awaits.",
+                    "video_end_cta_button_label": "Play Now"
+                },
+                "assets": {
+                    "video_player_video_hls": "1416163749508681728.m3u8",
+                    "video_player_video": "1416163749508681728_1080.mp4",
+                    "video_player_thumbnail": "1416164907464003766.jpg",
+                    "video_player_video_low_res": "1416163749508681728_720.mp4",
+                    "video_player_caption": null,
+                    "video_player_transcript": null,
+                    "quest_bar_preview_video": null,
+                    "quest_bar_preview_thumbnail": null,
+                    "quest_home_video": null
+                }
             },
             "share_policy": "shareable_everywhere"
         },

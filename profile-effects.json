@@ -10633,5 +10633,194 @@
                 "randomizedSources": []
             }
         ]
+    },
+    {
+        "type": 1,
+        "id": "1409979036456976475",
+        "sku_id": "1409978969670815795",
+        "title": "Blast Off",
+        "description": "Light up your profile with a jet-fueled burst of motion.",
+        "accessibilityLabel": "Show this effect when others view your profile.",
+        "animationType": 1,
+        "staticFrameSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-08-26/rocketfuel/static.png",
+        "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-08-26/rocketfuel/thumbnail.png",
+        "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-08-26/rocketfuel/reduced_motion.png",
+        "effects": [
+            {
+                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-08-26/rocketfuel/intro.png",
+                "loop": false,
+                "height": 880,
+                "width": 450,
+                "duration": 2000,
+                "start": 0,
+                "loopDelay": 0,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "zIndex": 100,
+                "randomizedSources": []
+            },
+            {
+                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-08-26/rocketfuel/idle.png",
+                "loop": true,
+                "height": 880,
+                "width": 450,
+                "duration": 3000,
+                "start": 2000,
+                "loopDelay": 0,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "zIndex": 101,
+                "randomizedSources": []
+            }
+        ]
+    },
+    {
+        "type": 1,
+        "id": "1412514944888340692",
+        "sku_id": "1412514944875888730",
+        "title": "Loot Shower",
+        "description": "Show this effect when others view your profile.",
+        "accessibilityLabel": "An assortment of weapons falling with energy beam lights.",
+        "animationType": 2,
+        "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-09-02/loot_shower/thumbnail.png",
+        "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-09-02/loot_shower/reduced_motion.png",
+        "effects": [
+            {
+                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-09-02/loot_shower/intro.png",
+                "loop": false,
+                "height": 880,
+                "width": 450,
+                "duration": 5000,
+                "start": 0,
+                "loopDelay": 0,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "zIndex": 100,
+                "randomizedSources": []
+            },
+            {
+                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-09-02/loot_shower/idle.png",
+                "loop": true,
+                "height": 880,
+                "width": 450,
+                "duration": 4500,
+                "start": 9000,
+                "loopDelay": 4500,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "zIndex": 101,
+                "randomizedSources": []
+            }
+        ]
+    },
+    {
+        "type": 1,
+        "id": "1412514944913772554",
+        "sku_id": "1412514944896860213",
+        "title": "Doin' the robot",
+        "description": "Show this effect when others view your profile.",
+        "accessibilityLabel": "Claptrap dancing under the rainbow spotlight clouded with smoke.",
+        "animationType": 2,
+        "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-09-02/doin_the_robot/thumbnail.png",
+        "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-09-02/doin_the_robot/reduced_motion.png",
+        "effects": [
+            {
+                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-09-02/doin_the_robot/intro.png",
+                "loop": false,
+                "height": 880,
+                "width": 450,
+                "duration": 6200,
+                "start": 0,
+                "loopDelay": 0,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "zIndex": 100,
+                "randomizedSources": []
+            },
+            {
+                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-09-02/doin_the_robot/idle.png",
+                "loop": true,
+                "height": 880,
+                "width": 450,
+                "duration": 3200,
+                "start": 11000,
+                "loopDelay": 10500,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "zIndex": 101,
+                "randomizedSources": []
+            },
+            {
+                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-09-02/doin_the_robot/idle_2.png",
+                "loop": true,
+                "height": 880,
+                "width": 450,
+                "duration": 3200,
+                "start": 16500,
+                "loopDelay": 10500,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "zIndex": 102,
+                "randomizedSources": []
+            }
+        ]
+    },
+    {
+        "type": 1,
+        "id": "1412514944930549872",
+        "sku_id": "1412514944917831720",
+        "title": "The Timekeeper",
+        "description": "Show this effect when others view your profile.",
+        "accessibilityLabel": "The Timekeeper reviving amidst ancient Guardian structures with Eridian energy.",
+        "animationType": 1,
+        "staticFrameSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-09-02/the_timekeeper/static.png",
+        "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-09-02/the_timekeeper/thumbnail.png",
+        "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-09-02/the_timekeeper/reduced_motion.png",
+        "effects": [
+            {
+                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-09-02/the_timekeeper/intro.png",
+                "loop": false,
+                "height": 880,
+                "width": 450,
+                "duration": 5000,
+                "start": 0,
+                "loopDelay": 0,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "zIndex": 100,
+                "randomizedSources": []
+            },
+            {
+                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-09-02/the_timekeeper/idle.png",
+                "loop": true,
+                "height": 880,
+                "width": 450,
+                "duration": 5000,
+                "start": 5001,
+                "loopDelay": 0,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "zIndex": 101,
+                "randomizedSources": []
+            }
+        ]
     }
 ]
