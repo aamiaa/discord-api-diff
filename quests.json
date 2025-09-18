@@ -21100,5 +21100,142 @@
         "user_status": null,
         "targeted_content": [],
         "preview": false
+    },
+    {
+        "id": "1415438130101751888",
+        "config": {
+            "id": "1415438130101751888",
+            "config_version": 2,
+            "starts_at": "2025-09-18T17:00:47+00:00",
+            "expires_at": "2025-09-25T23:00:47+00:00",
+            "features": [
+                3,
+                9,
+                13,
+                14,
+                15,
+                16,
+                18,
+                19,
+                23
+            ],
+            "application": {
+                "link": "https://www.playthroneandliberty.com/en-us/community/code-redemption?utm_source=Discord",
+                "id": "1286341455773700096",
+                "name": "THRONE AND LIBERTY"
+            },
+            "assets": {
+                "hero": "1415440114150019203.jpg",
+                "hero_video": null,
+                "quest_bar_hero": "1415440086056701992.jpg",
+                "quest_bar_hero_video": null,
+                "game_tile": "e887d925-0e1d-4b28-82a5-5a4f14564f4a.png",
+                "logotype": "1417988410848575550.png",
+                "game_tile_light": "1417602344056651786.png",
+                "game_tile_dark": "1417602344765620306.png",
+                "logotype_light": "1417988354179338403.png",
+                "logotype_dark": "1417988391538262026.png"
+            },
+            "colors": {
+                "primary": "#4A6FA5",
+                "secondary": "#8B7B6B"
+            },
+            "messages": {
+                "quest_name": "Home Sweet Home",
+                "game_title": "THRONE AND LIBERTY",
+                "game_publisher": "Amazon Games"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "event_name": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "external_ids": []
+                    },
+                    "PLAY_ON_XBOX": {
+                        "event_name": "PLAY_ON_XBOX",
+                        "target": 900,
+                        "external_ids": [
+                            "1801842805"
+                        ]
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "event_name": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "external_ids": [
+                            "PPSA15517_00",
+                            "PPSA15518_00",
+                            "PPSA23921_00",
+                            "PPSA23922_00",
+                            "PPSA16194_00",
+                            "PPSA23923_00"
+                        ]
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1286341455773700096"
+                            }
+                        ]
+                    },
+                    "PLAY_ON_XBOX": {
+                        "type": "PLAY_ON_XBOX",
+                        "target": 900,
+                        "external_ids": [
+                            "1801842805"
+                        ]
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "type": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "external_ids": [
+                            "PPSA15517_00",
+                            "PPSA15518_00",
+                            "PPSA23921_00",
+                            "PPSA23922_00",
+                            "PPSA16194_00",
+                            "PPSA23923_00"
+                        ]
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 1,
+                        "sku_id": "1415438130101751889",
+                        "asset": "1415441155549561033.png",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "The Home Sweet Home Reward",
+                            "name_with_article": "The Home Sweet Home Reward",
+                            "redemption_instructions_by_platform": {
+                                "0": "1. Visit [the THRONE AND LIBERTY code redemption page](https://www.playthroneandliberty.com/en-us/community/code-redemption)  \n2. Select your preferred platform and log in to your account  \n3. Enter the code you received from the Discord Quest and hit \"Redeem Reward.\"  \n\n**Your reward will be available the next time you play THRONE AND LIBERTY**"
+                            }
+                        },
+                        "approximate_count": null,
+                        "redemption_link": null
+                    }
+                ],
+                "rewards_expire_at": "2025-10-25T23:00:47+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere"
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
     }
 ]
