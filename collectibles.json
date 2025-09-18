@@ -24930,7 +24930,7 @@
         "name": "DISXCORE",
         "summary": "Available to use with an active Nitro subscription.",
         "store_listing_id": "1144058340327047248",
-        "banner": "1149562891666731108",
+        "banner": null,
         "unpublished_at": null,
         "styles": {
             "background_colors": [
@@ -24951,7 +24951,7 @@
         "logo": "1149562888290320414",
         "hero_ranking": null,
         "mobile_bg": "1220535994281885786",
-        "pdp_bg": null,
+        "pdp_bg": "1149562891666731108",
         "mobile_banner": "1224517415958745179",
         "featured_block": null,
         "hero_banner": null,
@@ -24962,7 +24962,7 @@
                 "name": "DISXCORE Headset",
                 "summary": "Everything sounds better with these on.",
                 "store_listing_id": "1144058522808614922",
-                "banner": "1149562891666731108",
+                "banner": null,
                 "unpublished_at": null,
                 "styles": {
                     "background_colors": [
@@ -25028,7 +25028,7 @@
                 "name": "Futuristic UI",
                 "summary": "BEEP BOOP.",
                 "store_listing_id": "1144058844004233368",
-                "banner": "1149562891666731108",
+                "banner": null,
                 "unpublished_at": null,
                 "styles": {
                     "background_colors": [
@@ -25094,7 +25094,7 @@
                 "name": "Smoke",
                 "summary": "Now you see me, now you don't.",
                 "store_listing_id": "1144059132517826600",
-                "banner": "1149562891666731108",
+                "banner": null,
                 "unpublished_at": null,
                 "styles": {
                     "background_colors": [
@@ -25160,7 +25160,7 @@
                 "name": "Boost Relic",
                 "summary": "Legends say this could power an entire server...",
                 "store_listing_id": "1139323097930027069",
-                "banner": "1149562891666731108",
+                "banner": null,
                 "unpublished_at": null,
                 "styles": {
                     "background_colors": [
@@ -25260,7 +25260,7 @@
                 "name": "Cyberspace",
                 "summary": "Witness the entire world in motion.",
                 "store_listing_id": "1139323103193878568",
-                "banner": "1149562891666731108",
+                "banner": null,
                 "unpublished_at": null,
                 "styles": {
                     "background_colors": [
@@ -60271,7 +60271,7 @@
         "name": "Holidays",
         "summary": " ",
         "store_listing_id": "1349486948942745690",
-        "banner": "1349486948942745693",
+        "banner": null,
         "unpublished_at": null,
         "styles": {
             "background_colors": [
@@ -60292,7 +60292,7 @@
         "logo": "1349486948942745692",
         "hero_ranking": null,
         "mobile_bg": null,
-        "pdp_bg": null,
+        "pdp_bg": "1349486948942745693",
         "mobile_banner": null,
         "featured_block": null,
         "hero_banner": null,
@@ -82734,6 +82734,10 @@
         "hero_banner_asset": {
             "animated": "https://cdn.discordapp.com/assets/content/036a2a2052128642bed9dd7babcfec3d7e5a42d3d294ef000b40350ecca12bc0.webm",
             "static": "https://cdn.discordapp.com/assets/content/8f774ab3b8482a9fd205e8b7285cc372448c4893d8fe9b50d37ddb70c922240d.png"
+        },
+        "hero_banner_config": {
+            "responsive": true,
+            "background_style": "linear-gradient(180deg, rgba(39, 30, 173, 0.3), transparent)"
         },
         "hero_logo": null
     },
