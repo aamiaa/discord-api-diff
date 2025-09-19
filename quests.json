@@ -21237,5 +21237,178 @@
         "user_status": null,
         "targeted_content": [],
         "preview": false
+    },
+    {
+        "id": "1417895756270141590",
+        "config": {
+            "id": "1417895756270141590",
+            "config_version": 2,
+            "starts_at": "2025-09-19T17:00:31+00:00",
+            "expires_at": "2025-09-25T23:00:31+00:00",
+            "features": [
+                3,
+                9,
+                13,
+                14,
+                15,
+                16,
+                18,
+                19
+            ],
+            "application": {
+                "link": "https://destiny.onelink.me/pHa5/zfryco1r",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "1417947960620093501.jpeg",
+                "hero_video": "1417947829564997682.mp4",
+                "quest_bar_hero": "1417947914818424964.jpg",
+                "quest_bar_hero_video": "1417947829564997682.mp4",
+                "game_tile": "1417948340003405924.png",
+                "logotype": "1418320625419944149.png",
+                "game_tile_light": "1417948303034945597.png",
+                "game_tile_dark": "1417948303034945597.png",
+                "logotype_light": "1418320502463926282.png",
+                "logotype_dark": "1418320546604781693.png"
+            },
+            "colors": {
+                "primary": "#CABA61",
+                "secondary": "#9EB0B0"
+            },
+            "messages": {
+                "quest_name": "World Race",
+                "game_title": "Destiny: Rising",
+                "game_publisher": "NetEase Games"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "event_name": "WATCH_VIDEO",
+                        "target": 82,
+                        "external_ids": []
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "event_name": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 82,
+                        "external_ids": []
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 82,
+                        "assets": {
+                            "video": {
+                                "url": "1417947781905256589_1080.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "1417948868842098718.jpeg"
+                            },
+                            "video_low_res": {
+                                "url": "1417947781905256589_720.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "1417948868842098718.jpeg"
+                            },
+                            "video_hls": {
+                                "url": "1417947781905256589.m3u8",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "1417948868842098718.jpeg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "Gameplay Trailer",
+                            "video_end_cta_title": "Destiny: Rising",
+                            "video_end_cta_subtitle": "Play Free Cross-Platform",
+                            "video_end_cta_button_label": "Download"
+                        }
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 82,
+                        "assets": {
+                            "video": {
+                                "url": "1417947781905256589_1080.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "1417948868842098718.jpeg"
+                            },
+                            "video_low_res": {
+                                "url": "1417947781905256589_720.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "1417948868842098718.jpeg"
+                            },
+                            "video_hls": {
+                                "url": "1417947781905256589.m3u8",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "1417948868842098718.jpeg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "Gameplay Trailer",
+                            "video_end_cta_title": "Destiny: Rising",
+                            "video_end_cta_subtitle": "Play Free Cross-Platform",
+                            "video_end_cta_button_label": "Download"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 1,
+                        "sku_id": "1417895756270141591",
+                        "asset": "1417949187345223861.jpg",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "Weapon Choice Engram",
+                            "name_with_article": "a Weapon Choice Engram",
+                            "redemption_instructions_by_platform": {
+                                "0": "Enter Game>Settings>Redemption Code>REDEEM"
+                            }
+                        },
+                        "approximate_count": null,
+                        "redemption_link": null
+                    }
+                ],
+                "rewards_expire_at": "2025-10-25T23:00:31+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "video_metadata": {
+                "messages": {
+                    "video_title": "Gameplay Trailer",
+                    "video_end_cta_title": "Destiny: Rising",
+                    "video_end_cta_subtitle": "Play Free Cross-Platform",
+                    "video_end_cta_button_label": "Download"
+                },
+                "assets": {
+                    "video_player_video_hls": "1417947781905256589.m3u8",
+                    "video_player_video": "1417947781905256589_1080.mp4",
+                    "video_player_thumbnail": "1417948868842098718.jpeg",
+                    "video_player_video_low_res": "1417947781905256589_720.mp4",
+                    "video_player_caption": null,
+                    "video_player_transcript": null,
+                    "quest_bar_preview_video": null,
+                    "quest_bar_preview_thumbnail": null,
+                    "quest_home_video": null
+                }
+            },
+            "share_policy": "shareable_everywhere"
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
     }
 ]
