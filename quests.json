@@ -21410,5 +21410,135 @@
         "user_status": null,
         "targeted_content": [],
         "preview": false
+    },
+    {
+        "id": "1419723876467736627",
+        "config": {
+            "id": "1419723876467736627",
+            "config_version": 2,
+            "starts_at": "2025-09-23T17:00:49+00:00",
+            "expires_at": "2025-09-30T23:00:49+00:00",
+            "features": [
+                3,
+                9,
+                13,
+                14,
+                15,
+                16,
+                18,
+                19,
+                23
+            ],
+            "application": {
+                "link": "https://www.playdeltaforce.com/wand/discordquest/index.html",
+                "id": "1314682894106497096",
+                "name": "Delta Force"
+            },
+            "assets": {
+                "hero": "1419727151200075867.jpg",
+                "hero_video": "1419799209212641332.mp4",
+                "quest_bar_hero": "1419727118610202804.jpg",
+                "quest_bar_hero_video": "1419799278892613773.mp4",
+                "game_tile": "1419727368024490014.png",
+                "logotype": "1419727366791630868.png",
+                "game_tile_light": "1419727343118843935.png",
+                "game_tile_dark": "1419727343118843935.png",
+                "logotype_light": "1419727307387568219.png",
+                "logotype_dark": "1419727307387568219.png"
+            },
+            "colors": {
+                "primary": "#0CA766",
+                "secondary": "#1A1A1A"
+            },
+            "messages": {
+                "quest_name": "New Season War Ablaze",
+                "game_title": "Delta Force",
+                "game_publisher": "Team Jade"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "event_name": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "external_ids": []
+                    },
+                    "PLAY_ON_XBOX": {
+                        "event_name": "PLAY_ON_XBOX",
+                        "target": 900,
+                        "external_ids": [
+                            "1854680102"
+                        ]
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "event_name": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "external_ids": [
+                            "PPSA28881_00",
+                            "PPSA28883_00",
+                            "PPSA28884_00",
+                            "PPSA28882_00"
+                        ]
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1314682894106497096"
+                            }
+                        ]
+                    },
+                    "PLAY_ON_XBOX": {
+                        "type": "PLAY_ON_XBOX",
+                        "target": 900,
+                        "external_ids": [
+                            "1854680102"
+                        ]
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "type": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "external_ids": [
+                            "PPSA28881_00",
+                            "PPSA28883_00",
+                            "PPSA28884_00",
+                            "PPSA28882_00"
+                        ]
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 orbs",
+                            "name_with_article": "700 orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "Default"
+                            }
+                        },
+                        "orb_quantity": 700
+                    }
+                ],
+                "rewards_expire_at": "2025-10-30T23:00:49+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere"
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
     }
 ]
