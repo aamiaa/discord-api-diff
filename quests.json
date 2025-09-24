@@ -21634,5 +21634,105 @@
             },
             "share_policy": "shareable_everywhere"
         }
+    },
+    {
+        "id": "1412856057944084480",
+        "config": {
+            "id": "1412856057944084480",
+            "config_version": 2,
+            "starts_at": "2025-09-24T17:00:33+00:00",
+            "expires_at": "2025-09-30T23:00:33+00:00",
+            "features": [
+                3,
+                9,
+                13,
+                14,
+                15,
+                16,
+                18,
+                19,
+                23
+            ],
+            "application": {
+                "link": "https://store.steampowered.com/app/3201010/Starlight_ReVolver/",
+                "id": "1380591738238013440",
+                "name": "Starlight Re:Volver"
+            },
+            "assets": {
+                "hero": "e157cb58-962e-4614-a193-1af80a1f2e18.jpg",
+                "hero_video": "518a85cd-43ee-4e58-84bd-dca5602e77f7.mp4",
+                "quest_bar_hero": "ea655082-a378-4113-9afe-b555cfe7613a.jpg",
+                "quest_bar_hero_video": "74cbe524-e77f-4fe9-a8ce-4081c635e48c.mp4",
+                "game_tile": "dd363bbf-bbc2-4a11-aa9d-418a7acb7cb1.png",
+                "logotype": "a2dd0850-3689-410c-aa9f-012eacdc2ecd.png",
+                "game_tile_light": "1417602390198190101.png",
+                "game_tile_dark": "1417602390970073138.png",
+                "logotype_light": "1417602391603286168.png",
+                "logotype_dark": "1417602392517640383.png"
+            },
+            "colors": {
+                "primary": "#E95DD6",
+                "secondary": "#2B0FB4"
+            },
+            "messages": {
+                "quest_name": "Early Access",
+                "game_title": "Starlight Re:Volver",
+                "game_publisher": "Pahdo Labs"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "event_name": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "external_ids": []
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1380591738238013440"
+                            }
+                        ]
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 3,
+                        "sku_id": "1413239353219612796",
+                        "asset": "1420131190014345276.mp4",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "Dream Dive Stars Avatar Decoration",
+                            "name_with_article": "a Dream Dive Stars Avatar Decoration",
+                            "redemption_instructions_by_platform": {
+                                "0": "Default"
+                            }
+                        },
+                        "expires_at": "2025-11-14T00:00:00+00:00",
+                        "expires_at_premium": null,
+                        "expiration_mode": 3
+                    }
+                ],
+                "rewards_expire_at": "2025-10-30T23:00:33+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere"
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
     }
 ]
