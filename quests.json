@@ -21165,12 +21165,12 @@
                         "event_name": "PLAY_ON_PLAYSTATION",
                         "target": 900,
                         "external_ids": [
-                            "PPSA15517_00",
-                            "PPSA15518_00",
                             "PPSA23921_00",
                             "PPSA23922_00",
+                            "PPSA23923_00",
                             "PPSA16194_00",
-                            "PPSA23923_00"
+                            "PPSA15517_00",
+                            "PPSA15518_00"
                         ]
                     }
                 }
@@ -21197,12 +21197,12 @@
                         "type": "PLAY_ON_PLAYSTATION",
                         "target": 900,
                         "external_ids": [
-                            "PPSA15517_00",
-                            "PPSA15518_00",
                             "PPSA23921_00",
                             "PPSA23922_00",
+                            "PPSA23923_00",
                             "PPSA16194_00",
-                            "PPSA23923_00"
+                            "PPSA15517_00",
+                            "PPSA15518_00"
                         ]
                     }
                 },
@@ -21217,7 +21217,7 @@
                         "asset": "1415441155549561033.png",
                         "asset_video": null,
                         "messages": {
-                            "name": "The Home Sweet Home Reward",
+                            "name": "Home Sweet Home Reward",
                             "name_with_article": "The Home Sweet Home Reward",
                             "redemption_instructions_by_platform": {
                                 "0": "1. Visit [the THRONE AND LIBERTY code redemption page](https://www.playthroneandliberty.com/en-us/community/code-redemption)  \n2. Select your preferred platform and log in to your account  \n3. Enter the code you received from the Discord Quest and hit \"Redeem Reward.\"  \n\n**Your reward will be available the next time you play THRONE AND LIBERTY**"
@@ -21728,6 +21728,528 @@
                 "platforms": [
                     0
                 ]
+            },
+            "share_policy": "shareable_everywhere"
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
+    },
+    {
+        "id": "1416175237439160450",
+        "config": {
+            "id": "1416175237439160450",
+            "config_version": 2,
+            "starts_at": "2025-09-25T17:00:47+00:00",
+            "expires_at": "2025-10-01T23:00:47+00:00",
+            "features": [
+                3,
+                9,
+                13,
+                14,
+                15,
+                16,
+                18,
+                19,
+                23
+            ],
+            "application": {
+                "link": "https://bit.ly/32Discordplayquest",
+                "id": "1191652130323431514",
+                "name": "Snowbreak: Containment Zone"
+            },
+            "assets": {
+                "hero": "1420180737738674186.jpg",
+                "hero_video": "1420179317400408216.mp4",
+                "quest_bar_hero": "1420180937102065786.jpg",
+                "quest_bar_hero_video": "1420179317400408216.mp4",
+                "game_tile": "d4718a8d-4af4-4eb1-985c-a3c42e95265e.jpg",
+                "logotype": "d3e87b6e-9145-44ba-9828-3a7bb60eed03.png",
+                "game_tile_light": "1417602319532556408.jpg",
+                "game_tile_dark": "1417602320346382487.jpg",
+                "logotype_light": "1417602320992178397.png",
+                "logotype_dark": "1417602321885561004.png"
+            },
+            "colors": {
+                "primary": "#6C94B3",
+                "secondary": "#196590"
+            },
+            "messages": {
+                "quest_name": "Snowbreak Big Update",
+                "game_title": "Snowbreak: Containment Zone",
+                "game_publisher": "Amazing Seasun Games"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "event_name": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "external_ids": []
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1191652130323431514"
+                            }
+                        ]
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 orbs",
+                            "name_with_article": "700 orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "Default"
+                            }
+                        },
+                        "orb_quantity": 700
+                    }
+                ],
+                "rewards_expire_at": "2025-10-31T23:00:47+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere"
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
+    },
+    {
+        "id": "1420472784584179863",
+        "config": {
+            "id": "1420472784584179863",
+            "config_version": 2,
+            "starts_at": "2025-09-25T17:00:42+00:00",
+            "expires_at": "2025-10-01T23:00:42+00:00",
+            "features": [
+                3,
+                9,
+                13,
+                14,
+                15,
+                16,
+                18,
+                19,
+                23
+            ],
+            "application": {
+                "link": "https://www.sega.com/sonic-the-hedgehog/sonic-racing-crossworlds",
+                "id": "1420198108306079785",
+                "name": "Sonic Racing: CrossWorlds"
+            },
+            "assets": {
+                "hero": "1420473483363881100.jpg",
+                "hero_video": null,
+                "quest_bar_hero": "1420473447452119113.jpg",
+                "quest_bar_hero_video": null,
+                "game_tile": "1420815646714757232.png",
+                "logotype": "1420473690315030568.png",
+                "game_tile_light": "1420478650167463936.png",
+                "game_tile_dark": "1420473662116724856.png",
+                "logotype_light": "1420473528041341009.png",
+                "logotype_dark": "1420473528041341009.png"
+            },
+            "colors": {
+                "primary": "#0076FF",
+                "secondary": "#FF6600"
+            },
+            "messages": {
+                "quest_name": "Sonic Racing",
+                "game_title": "Sonic Racing: CrossWorlds",
+                "game_publisher": "Sega"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "event_name": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "external_ids": []
+                    },
+                    "PLAY_ON_XBOX": {
+                        "event_name": "PLAY_ON_XBOX",
+                        "target": 900,
+                        "external_ids": [
+                            "2139967680",
+                            "2075142437",
+                            "2111887267"
+                        ]
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "event_name": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "external_ids": [
+                            "PPSA30943_00",
+                            "CUSA35016_00",
+                            "PPSA30664_00",
+                            "PPSA08804_00"
+                        ]
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1420198108306079785"
+                            }
+                        ]
+                    },
+                    "PLAY_ON_XBOX": {
+                        "type": "PLAY_ON_XBOX",
+                        "target": 900,
+                        "external_ids": [
+                            "2139967680",
+                            "2075142437",
+                            "2111887267"
+                        ]
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "type": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "external_ids": [
+                            "PPSA30943_00",
+                            "CUSA35016_00",
+                            "PPSA30664_00",
+                            "PPSA08804_00"
+                        ]
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 3,
+                        "sku_id": "1420603707141394483",
+                        "asset": "1420479189206700192.mp4",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "Travel Ring Avatar Decoration",
+                            "name_with_article": "a Travel Ring Avatar Decoration",
+                            "redemption_instructions_by_platform": {
+                                "0": "Default"
+                            }
+                        },
+                        "expires_at": "2025-12-01T00:00:00+00:00",
+                        "expires_at_premium": null,
+                        "expiration_mode": 3
+                    }
+                ],
+                "rewards_expire_at": "2025-10-31T23:00:42+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere"
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
+    },
+    {
+        "id": "1419735216490021025",
+        "config": {
+            "id": "1419735216490021025",
+            "config_version": 2,
+            "starts_at": "2025-09-25T17:00:53+00:00",
+            "expires_at": "2025-10-01T23:00:53+00:00",
+            "features": [
+                3,
+                9,
+                13,
+                14,
+                15,
+                16,
+                18,
+                19,
+                23
+            ],
+            "application": {
+                "link": "https://pplx.ai/discord-waitlist",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "1419737252396797952.jpg",
+                "hero_video": "1419736965133369475.mp4",
+                "quest_bar_hero": "1419736817975951581.jpg",
+                "quest_bar_hero_video": "1419736965133369475.mp4",
+                "game_tile": "1419738024270495775.png",
+                "logotype": "1419738023033180240.png",
+                "game_tile_light": "1419737676159914155.png",
+                "game_tile_dark": "1419737728152768522.png",
+                "logotype_light": "1419737516956979311.png",
+                "logotype_dark": "1419737571688448131.png"
+            },
+            "colors": {
+                "primary": "#20808D",
+                "secondary": "#091717"
+            },
+            "messages": {
+                "quest_name": "Comet AI Browser Video",
+                "game_title": "Comet AI Browser",
+                "game_publisher": "Perplexity"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "event_name": "WATCH_VIDEO",
+                        "target": 75,
+                        "external_ids": []
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 75,
+                        "assets": {
+                            "video": {
+                                "url": "1420474149561958431_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "1420173904084730029.png",
+                                "caption": "1420507689183739945.vtt",
+                                "transcript": "1420533003725045810.txt"
+                            },
+                            "video_low_res": {
+                                "url": "1420474149561958431_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "1420173904084730029.png",
+                                "caption": "1420507689183739945.vtt",
+                                "transcript": "1420533003725045810.txt"
+                            },
+                            "video_hls": {
+                                "url": "1420474149561958431.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "1420173904084730029.png",
+                                "caption": "1420507689183739945.vtt",
+                                "transcript": "1420533003725045810.txt"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "Comet AI Browser Video",
+                            "video_end_cta_title": "Comet AI Browser Video",
+                            "video_end_cta_subtitle": "Join the waitlist",
+                            "video_end_cta_button_label": "Learn More"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 Orbs",
+                            "name_with_article": "700 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "Default"
+                            }
+                        },
+                        "orb_quantity": 700
+                    }
+                ],
+                "rewards_expire_at": "2025-10-31T23:00:53+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "video_metadata": {
+                "messages": {
+                    "video_title": "Comet AI Browser Video",
+                    "video_end_cta_title": "Comet AI Browser Video",
+                    "video_end_cta_subtitle": "Join the waitlist",
+                    "video_end_cta_button_label": "Learn More"
+                },
+                "assets": {
+                    "video_player_video_hls": "1420474149561958431.m3u8",
+                    "video_player_video": "1420474149561958431_1080.mp4",
+                    "video_player_thumbnail": "1420173904084730029.png",
+                    "video_player_video_low_res": "1420474149561958431_720.mp4",
+                    "video_player_caption": "1420507689183739945.vtt",
+                    "video_player_transcript": "1420533003725045810.txt",
+                    "quest_bar_preview_video": null,
+                    "quest_bar_preview_thumbnail": null,
+                    "quest_home_video": null
+                }
+            },
+            "share_policy": "shareable_everywhere"
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
+    },
+    {
+        "id": "1419728074467049642",
+        "config": {
+            "id": "1419728074467049642",
+            "config_version": 2,
+            "starts_at": "2025-09-25T17:00:30+00:00",
+            "expires_at": "2025-10-04T23:00:30+00:00",
+            "features": [
+                3,
+                9,
+                13,
+                14,
+                15,
+                16,
+                18,
+                19,
+                23
+            ],
+            "application": {
+                "link": "https://ad.doubleclick.net/ddm/trackclk/N1306638.3397510DISCORD/B33837002.425960870;dc_trk_aid=622541524;dc_trk_cid=241493122;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "1419732314677842123.jpg",
+                "hero_video": "1419732183630872576.mp4",
+                "quest_bar_hero": "1419732110733738186.jpg",
+                "quest_bar_hero_video": "1419732183630872576.mp4",
+                "game_tile": "1419740576298959022.png",
+                "logotype": "1419738687817781270.png",
+                "game_tile_light": "1419740552357871657.png",
+                "game_tile_dark": "1419740552357871657.png",
+                "logotype_light": "1419738669673353286.png",
+                "logotype_dark": "1419738669673353286.png"
+            },
+            "colors": {
+                "primary": "#C49626",
+                "secondary": "#141413"
+            },
+            "messages": {
+                "quest_name": "Ghost of Yōtei",
+                "game_title": "Ghost of Yōtei",
+                "game_publisher": "Sony Interactive Entertainment & Sucker Punch Productions"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "event_name": "WATCH_VIDEO",
+                        "target": 14,
+                        "external_ids": []
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 14,
+                        "assets": {
+                            "video": {
+                                "url": "1419741302089711716_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "1419741231843639377.jpg",
+                                "caption": "1419742919920718017.vtt",
+                                "transcript": "1419742963587616778.txt"
+                            },
+                            "video_low_res": {
+                                "url": "1419741302089711716_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "1419741231843639377.jpg",
+                                "caption": "1419742919920718017.vtt",
+                                "transcript": "1419742963587616778.txt"
+                            },
+                            "video_hls": {
+                                "url": "1419741302089711716.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "1419741231843639377.jpg",
+                                "caption": "1419742919920718017.vtt",
+                                "transcript": "1419742963587616778.txt"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "Launch Trailer",
+                            "video_end_cta_title": "Ghost of Yōtei",
+                            "video_end_cta_subtitle": "Download Now",
+                            "video_end_cta_button_label": "Get Game"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 3,
+                        "sku_id": "1419735933929918536",
+                        "asset": "1419736169477836961.mp4",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "Atsu's Mask Avatar Decoration",
+                            "name_with_article": "an Atsu's Mask Avatar Decoration",
+                            "redemption_instructions_by_platform": {
+                                "0": "Default"
+                            }
+                        },
+                        "expires_at": "2025-12-04T00:00:00+00:00",
+                        "expires_at_premium": null,
+                        "expiration_mode": 3
+                    }
+                ],
+                "rewards_expire_at": "2025-11-03T23:00:30+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "video_metadata": {
+                "messages": {
+                    "video_title": "Launch Trailer",
+                    "video_end_cta_title": "Ghost of Yōtei",
+                    "video_end_cta_subtitle": "Download Now",
+                    "video_end_cta_button_label": "Get Game"
+                },
+                "assets": {
+                    "video_player_video_hls": "1419741302089711716.m3u8",
+                    "video_player_video": "1419741302089711716_1080.mp4",
+                    "video_player_thumbnail": "1419741231843639377.jpg",
+                    "video_player_video_low_res": "1419741302089711716_720.mp4",
+                    "video_player_caption": "1419742919920718017.vtt",
+                    "video_player_transcript": "1419742963587616778.txt",
+                    "quest_bar_preview_video": null,
+                    "quest_bar_preview_thumbnail": null,
+                    "quest_home_video": null
+                }
             },
             "share_policy": "shareable_everywhere"
         },
