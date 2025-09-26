@@ -22256,5 +22256,141 @@
         "user_status": null,
         "targeted_content": [],
         "preview": false
+    },
+    {
+        "id": "1419750903006630042",
+        "config": {
+            "id": "1419750903006630042",
+            "config_version": 2,
+            "starts_at": "2025-09-26T17:50:12+00:00",
+            "expires_at": "2025-10-06T00:00:12+00:00",
+            "features": [
+                3,
+                9,
+                13,
+                14,
+                15,
+                16,
+                18,
+                19,
+                23
+            ],
+            "application": {
+                "link": "https://www.ea.com/games/ea-sports-fc/fc-26/buy",
+                "id": "1421154726023532544",
+                "name": "EA SPORTS FC 26"
+            },
+            "assets": {
+                "hero": "1419753440984301648.jpg",
+                "hero_video": null,
+                "quest_bar_hero": "1419753483602759841.jpg",
+                "quest_bar_hero_video": null,
+                "game_tile": "1419753742680457367.png",
+                "logotype": "1419753737928446035.png",
+                "game_tile_light": "1419753674179084379.png",
+                "game_tile_dark": "1419753674179084379.png",
+                "logotype_light": "1419753717745582210.png",
+                "logotype_dark": "1419753717745582210.png"
+            },
+            "colors": {
+                "primary": "#07F468",
+                "secondary": "#151616"
+            },
+            "messages": {
+                "quest_name": "EA SPORTS FC 26",
+                "game_title": "EA SPORTS FC 26",
+                "game_publisher": "EA SPORTS"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "event_name": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "external_ids": []
+                    },
+                    "PLAY_ON_XBOX": {
+                        "event_name": "PLAY_ON_XBOX",
+                        "target": 900,
+                        "external_ids": [
+                            "1909324253",
+                            "1852068331"
+                        ]
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "event_name": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "external_ids": [
+                            "PPSA27360_00",
+                            "CUSA52342_00",
+                            "PPSA27353_00",
+                            "CUSA52334_00"
+                        ]
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1421154726023532544"
+                            }
+                        ]
+                    },
+                    "PLAY_ON_XBOX": {
+                        "type": "PLAY_ON_XBOX",
+                        "target": 900,
+                        "external_ids": [
+                            "1909324253",
+                            "1852068331"
+                        ]
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "type": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "external_ids": [
+                            "PPSA27360_00",
+                            "CUSA52342_00",
+                            "PPSA27353_00",
+                            "CUSA52334_00"
+                        ]
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 3,
+                        "sku_id": "1420482600266502327",
+                        "asset": "1420509011492733022.mp4",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "FC 26 Icon Avatar Decoration",
+                            "name_with_article": "a FC 26 Icon Avatar Decoration",
+                            "redemption_instructions_by_platform": {
+                                "0": "Default"
+                            }
+                        },
+                        "expires_at": "2025-12-08T01:00:00+00:00",
+                        "expires_at_premium": null,
+                        "expiration_mode": 3
+                    }
+                ],
+                "rewards_expire_at": "2025-11-05T00:00:12+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere"
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
     }
 ]
