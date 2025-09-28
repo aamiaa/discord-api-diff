@@ -22392,5 +22392,148 @@
         "user_status": null,
         "targeted_content": [],
         "preview": false
+    },
+    {
+        "id": "1421280952591843438",
+        "config": {
+            "id": "1421280952591843438",
+            "config_version": 2,
+            "starts_at": "2025-09-28T14:30:05+00:00",
+            "expires_at": "2025-10-09T00:00:05+00:00",
+            "features": [
+                3,
+                9,
+                13,
+                14,
+                15,
+                16,
+                18,
+                19,
+                23
+            ],
+            "application": {
+                "link": "https://ad.doubleclick.net/ddm/trackclk/N1306638.3397510DISCORD/B33837002.425960870;dc_trk_aid=622541524;dc_trk_cid=241493122;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "1421281995023061083.jpg",
+                "hero_video": "1421282062312276066.mp4",
+                "quest_bar_hero": "1421281860704534558.jpg",
+                "quest_bar_hero_video": "1421282062312276066.mp4",
+                "game_tile": "1421283256636018852.png",
+                "logotype": "1421283255604478024.png",
+                "game_tile_light": "1421282364188921856.png",
+                "game_tile_dark": "1421282364188921856.png",
+                "logotype_light": "1421282237856616518.png",
+                "logotype_dark": "1421282333780082889.png"
+            },
+            "colors": {
+                "primary": "#C49626",
+                "secondary": "#141413"
+            },
+            "messages": {
+                "quest_name": "Ghost of Yōtei",
+                "game_title": "Ghost of Yōtei",
+                "game_publisher": "Sony Interactive Entertainment & Sucker Punch Productions"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "event_name": "WATCH_VIDEO",
+                        "target": 14,
+                        "external_ids": []
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 14,
+                        "assets": {
+                            "video": {
+                                "url": "1421282680116482138_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "1421282718221733898.jpeg",
+                                "caption": "1421282787436138568.vtt",
+                                "transcript": "1421282833703506062.txt"
+                            },
+                            "video_low_res": {
+                                "url": "1421282680116482138_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "1421282718221733898.jpeg",
+                                "caption": "1421282787436138568.vtt",
+                                "transcript": "1421282833703506062.txt"
+                            },
+                            "video_hls": {
+                                "url": "1421282680116482138.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "1421282718221733898.jpeg",
+                                "caption": "1421282787436138568.vtt",
+                                "transcript": "1421282833703506062.txt"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "Launch Trailer",
+                            "video_end_cta_title": "Ghost of Yōtei",
+                            "video_end_cta_subtitle": "Download Now",
+                            "video_end_cta_button_label": "Get Game"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 3,
+                        "sku_id": "1419735933929918536",
+                        "asset": "1421283220518998158.mp4",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "Atsu's Mask Avatar Decoration",
+                            "name_with_article": "an Atsu's Mask Avatar Decoration",
+                            "redemption_instructions_by_platform": {
+                                "0": "Default"
+                            }
+                        },
+                        "expires_at": "2025-12-04T01:00:00+00:00",
+                        "expires_at_premium": null,
+                        "expiration_mode": 3
+                    }
+                ],
+                "rewards_expire_at": "2025-11-08T00:00:05+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "video_metadata": {
+                "messages": {
+                    "video_title": "Launch Trailer",
+                    "video_end_cta_title": "Ghost of Yōtei",
+                    "video_end_cta_subtitle": "Download Now",
+                    "video_end_cta_button_label": "Get Game"
+                },
+                "assets": {
+                    "video_player_video_hls": "1421282680116482138.m3u8",
+                    "video_player_video": "1421282680116482138_1080.mp4",
+                    "video_player_thumbnail": "1421282718221733898.jpeg",
+                    "video_player_video_low_res": "1421282680116482138_720.mp4",
+                    "video_player_caption": "1421282787436138568.vtt",
+                    "video_player_transcript": "1421282833703506062.txt",
+                    "quest_bar_preview_video": null,
+                    "quest_bar_preview_thumbnail": null,
+                    "quest_home_video": null
+                }
+            },
+            "share_policy": "shareable_everywhere"
+        }
     }
 ]
