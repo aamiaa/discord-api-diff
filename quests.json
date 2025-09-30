@@ -22535,5 +22535,109 @@
             },
             "share_policy": "shareable_everywhere"
         }
+    },
+    {
+        "id": "1413169050430865531",
+        "config": {
+            "id": "1413169050430865531",
+            "config_version": 2,
+            "starts_at": "2025-09-29T21:00:17+00:00",
+            "expires_at": "2025-10-05T23:00:17+00:00",
+            "features": [
+                3,
+                8,
+                9,
+                13,
+                14,
+                15,
+                16,
+                18,
+                19,
+                23
+            ],
+            "application": {
+                "link": "https://valorantesports.com/?utm_source=discord&utm_medium=paid&utm_campaign=VCTChampions2025Quest",
+                "id": "1412354195411046440",
+                "name": "VALORANT Champions Paris"
+            },
+            "assets": {
+                "hero": "1417208635162886285.jpeg",
+                "hero_video": "1417208605903425738.mp4",
+                "quest_bar_hero": "1417208583350653028.jpg",
+                "quest_bar_hero_video": "1417208605903425738.mp4",
+                "game_tile": "8ef5c5ac-840d-4822-b3cc-7ba4cc656a0d.png",
+                "logotype": "8b9cdf8d-839d-40a6-b145-c87b3f5c5b48.png",
+                "game_tile_light": "1417602380463214693.png",
+                "game_tile_dark": "1417602381167853728.png",
+                "logotype_light": "1417602381792935967.png",
+                "logotype_dark": "1417602382749110463.png"
+            },
+            "colors": {
+                "primary": "#C5B174",
+                "secondary": "#C5B174"
+            },
+            "messages": {
+                "quest_name": "VALORANT Champions Paris",
+                "game_title": "VALORANT",
+                "game_publisher": "Riot Games"
+            },
+            "task_config": {
+                "type": 2,
+                "join_operator": "or",
+                "tasks": {
+                    "progress": {
+                        "event_name": "progress",
+                        "title": "Vote for who you think will win VALORANT Champions!",
+                        "description": "The final four of VALORANT Champions Paris are here. Vote which team will raise the trophy on Oct 5! (Available on Discord Desktop)",
+                        "target": 1
+                    }
+                },
+                "enrollment_url": "https://www.discord.com",
+                "developer_application_id": "1412354195411046440"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "ACHIEVEMENT_IN_ACTIVITY": {
+                        "type": "ACHIEVEMENT_IN_ACTIVITY",
+                        "target": 1,
+                        "event_name": "progress",
+                        "messages": {
+                            "task_title": "Vote for who you think will win VALORANT Champions!",
+                            "task_description": "The final four of VALORANT Champions Paris are here. Vote which team will raise the trophy on Oct 5! (Available on Discord Desktop)"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 3,
+                        "sku_id": "1420110608145055766",
+                        "asset": "1420110705310437488.mp4",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "Champions Tactibear Avatar Decoration",
+                            "name_with_article": "a Champions Tactibear Avatar Decoration",
+                            "redemption_instructions_by_platform": {
+                                "0": "Default"
+                            }
+                        },
+                        "expires_at": "2025-12-05T00:00:00+00:00",
+                        "expires_at_premium": null,
+                        "expiration_mode": 3
+                    }
+                ],
+                "rewards_expire_at": "2025-11-04T00:00:17+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere"
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
     }
 ]
