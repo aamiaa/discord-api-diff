@@ -22785,5 +22785,105 @@
         "user_status": null,
         "targeted_content": [],
         "preview": false
+    },
+    {
+        "id": "1412491570820812933",
+        "config": {
+            "id": "1412491570820812933",
+            "config_version": 2,
+            "starts_at": "2025-10-01T17:00:13+00:00",
+            "expires_at": "2025-10-10T00:00:13+00:00",
+            "features": [
+                3,
+                8,
+                9,
+                13,
+                14,
+                15,
+                16,
+                18,
+                19,
+                23
+            ],
+            "application": {
+                "link": "https://www.blackphonemovie.com/tickets",
+                "id": "1412357874822287363",
+                "name": "Black Phone 2 Puzzle"
+            },
+            "assets": {
+                "hero": "1422287192784507082.jpg",
+                "hero_video": "1422287120952983665.mp4",
+                "quest_bar_hero": "1422287085552795790.jpg",
+                "quest_bar_hero_video": "1422287120952983665.mp4",
+                "game_tile": "1422287483567083570.png",
+                "logotype": "1422287482283757660.png",
+                "game_tile_light": "1422287441313796227.png",
+                "game_tile_dark": "1422287441313796227.png",
+                "logotype_light": "1422287390311190598.png",
+                "logotype_dark": "1422287390311190598.png"
+            },
+            "colors": {
+                "primary": "#97281B",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Black Phone 2 Puzzle",
+                "game_title": "Black Phone 2 Puzzle",
+                "game_publisher": "Universal Pictures"
+            },
+            "task_config": {
+                "type": 2,
+                "join_operator": "or",
+                "tasks": {
+                    "progress": {
+                        "event_name": "progress",
+                        "title": "Black Phone 2 Puzzle",
+                        "description": "Solve the puzzle of the Black Phone to win 700 Discord Orbs",
+                        "target": 1
+                    }
+                },
+                "enrollment_url": "https://www.discord.com",
+                "developer_application_id": "1412357874822287363"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "ACHIEVEMENT_IN_ACTIVITY": {
+                        "type": "ACHIEVEMENT_IN_ACTIVITY",
+                        "target": 1,
+                        "event_name": "progress",
+                        "messages": {
+                            "task_title": "Black Phone 2 Puzzle",
+                            "task_description": "Solve the puzzle of the Black Phone to win 700 Discord Orbs"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 orbs",
+                            "name_with_article": "700 orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "Default"
+                            }
+                        },
+                        "orb_quantity": 700
+                    }
+                ],
+                "rewards_expire_at": "2025-10-04T23:00:13+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere"
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
     }
 ]
