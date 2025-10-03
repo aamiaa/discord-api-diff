@@ -92337,5 +92337,2955 @@
         "hero_logo_display_config": {
             "desktop_max_height": 235
         }
+    },
+    {
+        "sku_id": "1420045363351654441",
+        "name": "Woodland Friends",
+        "summary": " ",
+        "store_listing_id": "1420045363342999572",
+        "unpublished_at": null,
+        "styles": {
+            "background_colors": [
+                16489916,
+                7909233
+            ],
+            "button_colors": [
+                5793266,
+                5793266
+            ],
+            "confetti_colors": [
+                43772,
+                15774258,
+                16414587,
+                3000177,
+                9739511
+            ]
+        },
+        "logo": "1420045363364102175",
+        "hero_ranking": [
+            "1420045362898403328",
+            "1420045362932088852",
+            "1420045362944807074",
+            "1420045362965512212",
+            "1420045362990678117",
+            "1420045363020038144",
+            "1420045363049398282",
+            "1420045363087151175",
+            "1420045363112312885",
+            "1420045363141672971",
+            "1420045363171033128",
+            "1420045363196199065",
+            "1420045363225559160",
+            "1420045363254919208",
+            "1420045363288473610"
+        ],
+        "mobile_bg": "1420045363426885663",
+        "pdp_bg": "1420045363406180537",
+        "mobile_banner": "1420045363418628249",
+        "featured_block": "1420045363397525687",
+        "hero_banner": null,
+        "wide_banner": null,
+        "products": [
+            {
+                "sku_id": "1420045362898403328",
+                "name": "Hoppy Boi Bundle",
+                "summary": "A bundle of collectibles.",
+                "store_listing_id": "1420045362919641088",
+                "unpublished_at": null,
+                "styles": {
+                    "background_colors": [
+                        16489916,
+                        7909233
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 1599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 11000,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 1299,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 11000,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "items": [
+                    {
+                        "type": 0,
+                        "id": "1420045363133415474",
+                        "sku_id": "1420045363112312885",
+                        "asset": "a_e22efcfce93b573d94278f00967d1f5e",
+                        "label": "A round pink toad with a playful tongue sticking out sits atop the avatar."
+                    },
+                    {
+                        "type": 1,
+                        "id": "1420045363246661703",
+                        "sku_id": "1420045363225559160",
+                        "title": "WEEEEE~",
+                        "description": "Show this effect when others view your profile.",
+                        "accessibilityLabel": "Silly little toad hangs onto a drifting mushroom to float with the breeze.",
+                        "animationType": 2,
+                        "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-09-23/weeeee/thumbnail.png",
+                        "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-09-23/weeeee/reduced_motion.png",
+                        "effects": [
+                            {
+                                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-09-23/weeeee/intro.png",
+                                "loop": false,
+                                "height": 880,
+                                "width": 450,
+                                "duration": 5000,
+                                "start": 0,
+                                "loopDelay": 0,
+                                "position": {
+                                    "x": 0,
+                                    "y": 0
+                                },
+                                "zIndex": 100,
+                                "randomizedSources": []
+                            },
+                            {
+                                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-09-23/weeeee/idle.png",
+                                "loop": true,
+                                "height": 880,
+                                "width": 450,
+                                "duration": 4667,
+                                "start": 6500,
+                                "loopDelay": 2500,
+                                "position": {
+                                    "x": 0,
+                                    "y": 0
+                                },
+                                "zIndex": 101,
+                                "randomizedSources": []
+                            }
+                        ]
+                    },
+                    {
+                        "type": 2,
+                        "id": "1420045363217301635",
+                        "sku_id": "1420045363196199065",
+                        "asset": "nameplates/woodland_friends/hoppy_bois_perch/",
+                        "label": "A pink toad sitting in the corner with a soft pink gradient background.",
+                        "palette": "bubble_gum"
+                    }
+                ],
+                "type": 1000,
+                "premium_type": 0,
+                "category_sku_id": "1420045363351654441",
+                "bundled_products": [
+                    {
+                        "sku_id": "1420045363112312885",
+                        "name": "Hoppy Boi",
+                        "summary": "Give your avatar a new look.",
+                        "type": 0,
+                        "premium_type": 0,
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 599,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 499,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "sku_id": "1420045363225559160",
+                        "name": "WEEEEE~",
+                        "summary": "Show this effect when others view your profile.",
+                        "type": 1,
+                        "premium_type": 0,
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 599,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 499,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "sku_id": "1420045363196199065",
+                        "name": "Hoppy Boi's Perch",
+                        "summary": "Make your name stand out in servers and chats.",
+                        "type": 2,
+                        "premium_type": 0,
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 599,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 499,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ],
+                "google_sku_ids": {
+                    "5": "1420045362898403328_1420170758352670870",
+                    "7": "1420045362898403328_1420170766065864766"
+                }
+            },
+            {
+                "sku_id": "1420045362932088852",
+                "name": "Lover Girl Autumn Bundle",
+                "summary": "A bundle of collectibles.",
+                "store_listing_id": "1420045362936152204",
+                "unpublished_at": null,
+                "styles": {
+                    "background_colors": [
+                        16489916,
+                        7909233
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 1599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 11000,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 1299,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 11000,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "items": [
+                    {
+                        "type": 0,
+                        "id": "1420045363078889492",
+                        "sku_id": "1420045363049398282",
+                        "asset": "a_22db6b911f5ad54f3939d665fe2a88cc",
+                        "label": "Pink cherry blossom petals forming a partial circle."
+                    },
+                    {
+                        "type": 1,
+                        "id": "1420045363334742086",
+                        "sku_id": "1420045363288473610",
+                        "title": "Cozy Flower",
+                        "description": "Show this effect when others view your profile.",
+                        "accessibilityLabel": "Delicate pink flower petals drifting downward with gentle illumination and soft gradient effects.",
+                        "animationType": 2,
+                        "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-09-23/cozy_flower/thumbnail.png",
+                        "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-09-23/cozy_flower/reduced_motion.png",
+                        "effects": [
+                            {
+                                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-09-23/cozy_flower/intro.png",
+                                "loop": false,
+                                "height": 880,
+                                "width": 450,
+                                "duration": 5000,
+                                "start": 0,
+                                "loopDelay": 0,
+                                "position": {
+                                    "x": 0,
+                                    "y": 0
+                                },
+                                "zIndex": 100,
+                                "randomizedSources": []
+                            },
+                            {
+                                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-09-23/cozy_flower/idle.png",
+                                "loop": true,
+                                "height": 880,
+                                "width": 450,
+                                "duration": 5000,
+                                "start": 7000,
+                                "loopDelay": 2500,
+                                "position": {
+                                    "x": 0,
+                                    "y": 0
+                                },
+                                "zIndex": 101,
+                                "randomizedSources": []
+                            }
+                        ]
+                    },
+                    {
+                        "type": 2,
+                        "id": "1420045363192135710",
+                        "sku_id": "1420045363171033128",
+                        "asset": "nameplates/woodland_friends/petal_bloom/",
+                        "label": "Pink cherry blossom petals scattered across a pastel gradient background.",
+                        "palette": "sky"
+                    }
+                ],
+                "type": 1000,
+                "premium_type": 0,
+                "category_sku_id": "1420045363351654441",
+                "bundled_products": [
+                    {
+                        "sku_id": "1420045363049398282",
+                        "name": "Lover Girl Autumn",
+                        "summary": "Give your avatar a new look.",
+                        "type": 0,
+                        "premium_type": 0,
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 599,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 499,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "sku_id": "1420045363288473610",
+                        "name": "Cozy Flower",
+                        "summary": "Show this effect when others view your profile.",
+                        "type": 1,
+                        "premium_type": 0,
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 599,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 499,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "sku_id": "1420045363171033128",
+                        "name": "Petal Bloom",
+                        "summary": "Make your name stand out in servers and chats.",
+                        "type": 2,
+                        "premium_type": 0,
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 599,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 499,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ],
+                "google_sku_ids": {
+                    "5": "1420045362932088852_1420172014357844099",
+                    "7": "1420045362932088852_1420172021761052764"
+                }
+            },
+            {
+                "sku_id": "1420045362944807074",
+                "name": "Autumn Foliage Bundle",
+                "summary": "A bundle of collectibles.",
+                "store_listing_id": "1420045362957254698",
+                "unpublished_at": null,
+                "styles": {
+                    "background_colors": [
+                        16489916,
+                        7909233
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 1599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 11000,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 1299,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 11000,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "items": [
+                    {
+                        "type": 0,
+                        "id": "1420045363104055416",
+                        "sku_id": "1420045363087151175",
+                        "asset": "a_fc02e20ceb188461d1944825d2b3bfb3",
+                        "label": "Orange and yellow autumn leaves woven in a circular wreath."
+                    },
+                    {
+                        "type": 1,
+                        "id": "1420045363276021802",
+                        "sku_id": "1420045363254919208",
+                        "title": "Maple Mornings",
+                        "description": "Show this effect when others view your profile.",
+                        "accessibilityLabel": "Orange and red autumn leaves drift with the breeze.",
+                        "animationType": 2,
+                        "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-09-23/maple_mornings/thumbnail.png",
+                        "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-09-23/maple_mornings/reduced_motion.png",
+                        "effects": [
+                            {
+                                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-09-23/maple_mornings/intro.png",
+                                "loop": false,
+                                "height": 880,
+                                "width": 450,
+                                "duration": 5000,
+                                "start": 0,
+                                "loopDelay": 0,
+                                "position": {
+                                    "x": 0,
+                                    "y": 0
+                                },
+                                "zIndex": 100,
+                                "randomizedSources": []
+                            },
+                            {
+                                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-09-23/maple_mornings/idle.png",
+                                "loop": true,
+                                "height": 880,
+                                "width": 450,
+                                "duration": 5000,
+                                "start": 6500,
+                                "loopDelay": 2500,
+                                "position": {
+                                    "x": 0,
+                                    "y": 0
+                                },
+                                "zIndex": 101,
+                                "randomizedSources": []
+                            }
+                        ]
+                    },
+                    {
+                        "type": 2,
+                        "id": "1420045363162775602",
+                        "sku_id": "1420045363141672971",
+                        "asset": "nameplates/woodland_friends/autumn_breeze/",
+                        "label": "Orange and yellow autumn leaves drifting to the breeze.",
+                        "palette": "cobalt"
+                    }
+                ],
+                "type": 1000,
+                "premium_type": 0,
+                "category_sku_id": "1420045363351654441",
+                "bundled_products": [
+                    {
+                        "sku_id": "1420045363087151175",
+                        "name": "Autumn Foliage",
+                        "summary": "Give your avatar a new look.",
+                        "type": 0,
+                        "premium_type": 0,
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 599,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 499,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "sku_id": "1420045363254919208",
+                        "name": "Maple Mornings",
+                        "summary": "Show this effect when others view your profile.",
+                        "type": 1,
+                        "premium_type": 0,
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 599,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 499,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "sku_id": "1420045363141672971",
+                        "name": "Autumn Breeze",
+                        "summary": "Make your name stand out in servers and chats.",
+                        "type": 2,
+                        "premium_type": 0,
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 599,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 499,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ],
+                "google_sku_ids": {
+                    "5": "1420045362944807074_1420171492666249398",
+                    "7": "1420045362944807074_1420171501965152267"
+                }
+            },
+            {
+                "sku_id": "1420045362965512212",
+                "name": "Forest Frolic",
+                "summary": "Give your avatar a new look.",
+                "store_listing_id": "1420045362974167090",
+                "unpublished_at": null,
+                "styles": {
+                    "background_colors": [
+                        16489916,
+                        7909233
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "items": [
+                    {
+                        "type": 0,
+                        "id": "1420045362982551652",
+                        "sku_id": "1420045362965512212",
+                        "asset": "a_c58ae523fd779d4dad0a49183a5105f1",
+                        "label": "Two mushrooms dancing with autumn leaves and sparkles in a circle."
+                    }
+                ],
+                "type": 0,
+                "premium_type": 0,
+                "category_sku_id": "1420045363351654441",
+                "google_sku_ids": {
+                    "5": "1420045362965512212_1420171302337122314",
+                    "7": "1420045362965512212_1420171310633320458"
+                }
+            },
+            {
+                "sku_id": "1420045362990678117",
+                "name": "Cozy Deer",
+                "summary": "Give your avatar a new look.",
+                "store_listing_id": "1420045362999333015",
+                "unpublished_at": null,
+                "styles": {
+                    "background_colors": [
+                        16489916,
+                        7909233
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "items": [
+                    {
+                        "type": 0,
+                        "id": "1420045363011911700",
+                        "sku_id": "1420045362990678117",
+                        "asset": "a_e041a91225a79653be7e6865fc5e60a6",
+                        "label": "An orange deer hoodie with antlers and a soft smile."
+                    }
+                ],
+                "type": 0,
+                "premium_type": 0,
+                "category_sku_id": "1420045363351654441",
+                "google_sku_ids": {
+                    "5": "1420045362990678117_1420169891800944701",
+                    "7": "1420045362990678117_1420169902316326953"
+                }
+            },
+            {
+                "sku_id": "1420045363020038144",
+                "name": "A Real Fungi",
+                "summary": "Give your avatar a new look.",
+                "store_listing_id": "1420045363028693103",
+                "unpublished_at": null,
+                "styles": {
+                    "background_colors": [
+                        16489916,
+                        7909233
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "items": [
+                    {
+                        "type": 0,
+                        "id": "1420045363041271918",
+                        "sku_id": "1420045363020038144",
+                        "asset": "a_d34c0f51a48472baf6d63a84a9117f7f",
+                        "label": "A red and white spotted mushroom cap with falling spores."
+                    }
+                ],
+                "type": 0,
+                "premium_type": 0,
+                "category_sku_id": "1420045363351654441",
+                "google_sku_ids": {
+                    "5": "1420045363020038144_1420171415818211429",
+                    "7": "1420045363020038144_1420171426551304334"
+                }
+            },
+            {
+                "sku_id": "1420045363049398282",
+                "name": "Lover Girl Autumn",
+                "summary": "Give your avatar a new look.",
+                "store_listing_id": "1420045363058053140",
+                "unpublished_at": null,
+                "styles": {
+                    "background_colors": [
+                        16489916,
+                        7909233
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "items": [
+                    {
+                        "type": 0,
+                        "id": "1420045363078889492",
+                        "sku_id": "1420045363049398282",
+                        "asset": "a_22db6b911f5ad54f3939d665fe2a88cc",
+                        "label": "Pink cherry blossom petals forming a partial circle."
+                    }
+                ],
+                "type": 0,
+                "premium_type": 0,
+                "category_sku_id": "1420045363351654441",
+                "google_sku_ids": {
+                    "5": "1420045363049398282_1420169226584592474",
+                    "7": "1420045363049398282_1420169238131507353"
+                }
+            },
+            {
+                "sku_id": "1420045363087151175",
+                "name": "Autumn Foliage",
+                "summary": "Give your avatar a new look.",
+                "store_listing_id": "1420045363095801866",
+                "unpublished_at": null,
+                "styles": {
+                    "background_colors": [
+                        16489916,
+                        7909233
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "items": [
+                    {
+                        "type": 0,
+                        "id": "1420045363104055416",
+                        "sku_id": "1420045363087151175",
+                        "asset": "a_fc02e20ceb188461d1944825d2b3bfb3",
+                        "label": "Orange and yellow autumn leaves woven in a circular wreath."
+                    }
+                ],
+                "type": 0,
+                "premium_type": 0,
+                "category_sku_id": "1420045363351654441",
+                "google_sku_ids": {
+                    "5": "1420045363087151175_1420172330532864061",
+                    "7": "1420045363087151175_1420172337181102171"
+                }
+            },
+            {
+                "sku_id": "1420045363112312885",
+                "name": "Hoppy Boi",
+                "summary": "Give your avatar a new look.",
+                "store_listing_id": "1420045363120967771",
+                "unpublished_at": null,
+                "styles": {
+                    "background_colors": [
+                        16489916,
+                        7909233
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "items": [
+                    {
+                        "type": 0,
+                        "id": "1420045363133415474",
+                        "sku_id": "1420045363112312885",
+                        "asset": "a_e22efcfce93b573d94278f00967d1f5e",
+                        "label": "A round pink toad with a playful tongue sticking out sits atop the avatar."
+                    }
+                ],
+                "type": 0,
+                "premium_type": 0,
+                "category_sku_id": "1420045363351654441",
+                "google_sku_ids": {
+                    "5": "1420045363112312885_1420172234563260487",
+                    "7": "1420045363112312885_1420172241701961888"
+                }
+            },
+            {
+                "sku_id": "1420045363225559160",
+                "name": "WEEEEE~",
+                "summary": "Show this effect when others view your profile.",
+                "store_listing_id": "1420045363234214128",
+                "unpublished_at": null,
+                "styles": {
+                    "background_colors": [
+                        16489916,
+                        7909233
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "items": [
+                    {
+                        "type": 1,
+                        "id": "1420045363246661703",
+                        "sku_id": "1420045363225559160",
+                        "title": "WEEEEE~",
+                        "description": "Show this effect when others view your profile.",
+                        "accessibilityLabel": "Silly little toad hangs onto a drifting mushroom to float with the breeze.",
+                        "animationType": 2,
+                        "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-09-23/weeeee/thumbnail.png",
+                        "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-09-23/weeeee/reduced_motion.png",
+                        "effects": [
+                            {
+                                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-09-23/weeeee/intro.png",
+                                "loop": false,
+                                "height": 880,
+                                "width": 450,
+                                "duration": 5000,
+                                "start": 0,
+                                "loopDelay": 0,
+                                "position": {
+                                    "x": 0,
+                                    "y": 0
+                                },
+                                "zIndex": 100,
+                                "randomizedSources": []
+                            },
+                            {
+                                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-09-23/weeeee/idle.png",
+                                "loop": true,
+                                "height": 880,
+                                "width": 450,
+                                "duration": 4667,
+                                "start": 6500,
+                                "loopDelay": 2500,
+                                "position": {
+                                    "x": 0,
+                                    "y": 0
+                                },
+                                "zIndex": 101,
+                                "randomizedSources": []
+                            }
+                        ]
+                    }
+                ],
+                "type": 1,
+                "premium_type": 0,
+                "category_sku_id": "1420045363351654441",
+                "google_sku_ids": {
+                    "5": "1420045363225559160_1420171136712314913",
+                    "7": "1420045363225559160_1420171144866037801"
+                }
+            },
+            {
+                "sku_id": "1420045363254919208",
+                "name": "Maple Mornings",
+                "summary": "Show this effect when others view your profile.",
+                "store_listing_id": "1420045363263574086",
+                "unpublished_at": null,
+                "styles": {
+                    "background_colors": [
+                        16489916,
+                        7909233
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "items": [
+                    {
+                        "type": 1,
+                        "id": "1420045363276021802",
+                        "sku_id": "1420045363254919208",
+                        "title": "Maple Mornings",
+                        "description": "Show this effect when others view your profile.",
+                        "accessibilityLabel": "Orange and red autumn leaves drift with the breeze.",
+                        "animationType": 2,
+                        "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-09-23/maple_mornings/thumbnail.png",
+                        "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-09-23/maple_mornings/reduced_motion.png",
+                        "effects": [
+                            {
+                                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-09-23/maple_mornings/intro.png",
+                                "loop": false,
+                                "height": 880,
+                                "width": 450,
+                                "duration": 5000,
+                                "start": 0,
+                                "loopDelay": 0,
+                                "position": {
+                                    "x": 0,
+                                    "y": 0
+                                },
+                                "zIndex": 100,
+                                "randomizedSources": []
+                            },
+                            {
+                                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-09-23/maple_mornings/idle.png",
+                                "loop": true,
+                                "height": 880,
+                                "width": 450,
+                                "duration": 5000,
+                                "start": 6500,
+                                "loopDelay": 2500,
+                                "position": {
+                                    "x": 0,
+                                    "y": 0
+                                },
+                                "zIndex": 101,
+                                "randomizedSources": []
+                            }
+                        ]
+                    }
+                ],
+                "type": 1,
+                "premium_type": 0,
+                "category_sku_id": "1420045363351654441",
+                "google_sku_ids": {
+                    "5": "1420045363254919208_1420170622981640252",
+                    "7": "1420045363254919208_1420170631252676608"
+                }
+            },
+            {
+                "sku_id": "1420045363288473610",
+                "name": "Cozy Flower",
+                "summary": "Show this effect when others view your profile.",
+                "store_listing_id": "1420045363322294353",
+                "unpublished_at": null,
+                "styles": {
+                    "background_colors": [
+                        16489916,
+                        7909233
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "items": [
+                    {
+                        "type": 1,
+                        "id": "1420045363334742086",
+                        "sku_id": "1420045363288473610",
+                        "title": "Cozy Flower",
+                        "description": "Show this effect when others view your profile.",
+                        "accessibilityLabel": "Delicate pink flower petals drifting downward with gentle illumination and soft gradient effects.",
+                        "animationType": 2,
+                        "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-09-23/cozy_flower/thumbnail.png",
+                        "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-09-23/cozy_flower/reduced_motion.png",
+                        "effects": [
+                            {
+                                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-09-23/cozy_flower/intro.png",
+                                "loop": false,
+                                "height": 880,
+                                "width": 450,
+                                "duration": 5000,
+                                "start": 0,
+                                "loopDelay": 0,
+                                "position": {
+                                    "x": 0,
+                                    "y": 0
+                                },
+                                "zIndex": 100,
+                                "randomizedSources": []
+                            },
+                            {
+                                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-09-23/cozy_flower/idle.png",
+                                "loop": true,
+                                "height": 880,
+                                "width": 450,
+                                "duration": 5000,
+                                "start": 7000,
+                                "loopDelay": 2500,
+                                "position": {
+                                    "x": 0,
+                                    "y": 0
+                                },
+                                "zIndex": 101,
+                                "randomizedSources": []
+                            }
+                        ]
+                    }
+                ],
+                "type": 1,
+                "premium_type": 0,
+                "category_sku_id": "1420045363351654441",
+                "google_sku_ids": {
+                    "5": "1420045363288473610_1420169837967183994",
+                    "7": "1420045363288473610_1420169845357412443"
+                }
+            },
+            {
+                "sku_id": "1420045363141672971",
+                "name": "Autumn Breeze",
+                "summary": "Make your name stand out in servers and chats.",
+                "store_listing_id": "1420045363150327838",
+                "unpublished_at": null,
+                "styles": {
+                    "background_colors": [
+                        16489916,
+                        7909233
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "items": [
+                    {
+                        "type": 2,
+                        "id": "1420045363162775602",
+                        "sku_id": "1420045363141672971",
+                        "asset": "nameplates/woodland_friends/autumn_breeze/",
+                        "label": "Orange and yellow autumn leaves drifting to the breeze.",
+                        "palette": "cobalt"
+                    }
+                ],
+                "type": 2,
+                "premium_type": 0,
+                "category_sku_id": "1420045363351654441",
+                "google_sku_ids": {
+                    "5": "1420045363141672971_1420169126902759595",
+                    "7": "1420045363141672971_1420169144346611853"
+                }
+            },
+            {
+                "sku_id": "1420045363171033128",
+                "name": "Petal Bloom",
+                "summary": "Make your name stand out in servers and chats.",
+                "store_listing_id": "1420045363179687986",
+                "unpublished_at": null,
+                "styles": {
+                    "background_colors": [
+                        16489916,
+                        7909233
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "items": [
+                    {
+                        "type": 2,
+                        "id": "1420045363192135710",
+                        "sku_id": "1420045363171033128",
+                        "asset": "nameplates/woodland_friends/petal_bloom/",
+                        "label": "Pink cherry blossom petals scattered across a pastel gradient background.",
+                        "palette": "sky"
+                    }
+                ],
+                "type": 2,
+                "premium_type": 0,
+                "category_sku_id": "1420045363351654441",
+                "google_sku_ids": {
+                    "5": "1420045363171033128_1420169827607117965",
+                    "7": "1420045363171033128_1420169834368602243"
+                }
+            },
+            {
+                "sku_id": "1420045363196199065",
+                "name": "Hoppy Boi's Perch",
+                "summary": "Make your name stand out in servers and chats.",
+                "store_listing_id": "1420045363204853932",
+                "unpublished_at": null,
+                "styles": {
+                    "background_colors": [
+                        16489916,
+                        7909233
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "items": [
+                    {
+                        "type": 2,
+                        "id": "1420045363217301635",
+                        "sku_id": "1420045363196199065",
+                        "asset": "nameplates/woodland_friends/hoppy_bois_perch/",
+                        "label": "A pink toad sitting in the corner with a soft pink gradient background.",
+                        "palette": "bubble_gum"
+                    }
+                ],
+                "type": 2,
+                "premium_type": 0,
+                "category_sku_id": "1420045363351654441",
+                "google_sku_ids": {
+                    "5": "1420045363196199065_1420171384767778927",
+                    "7": "1420045363196199065_1420171392615190638"
+                }
+            }
+        ],
+        "catalog_banner_asset": {
+            "animated": null,
+            "static": "https://cdn.discordapp.com/assets/content/c4da28e84e39c5e0fc98ac46951c67a8c63ef820ed6ff34bf84bf8880461daad.jpg"
+        },
+        "hero_banner_asset": {
+            "animated": null,
+            "static": "https://cdn.discordapp.com/assets/content/c0bfe008a61e4bd0bfd43b6c87fc47971520ae7e8c72034299ca247fa9b8564c.jpg"
+        },
+        "hero_logo": "1420045363393462282"
+    },
+    {
+        "sku_id": "1420052355516338216",
+        "name": "It's Showtime",
+        "summary": " ",
+        "store_listing_id": "1420052355508080680",
+        "unpublished_at": null,
+        "styles": {
+            "background_colors": [
+                16749134,
+                9222802
+            ],
+            "button_colors": [
+                5793266,
+                5793266
+            ],
+            "confetti_colors": [
+                43772,
+                15774258,
+                16414587,
+                3000177,
+                9739511
+            ]
+        },
+        "logo": "1420225379473297501",
+        "hero_ranking": [
+            "1420225379330691232",
+            "1420225379347726367",
+            "1420225379246805012",
+            "1420225379272232990",
+            "1420225379284553810",
+            "1420225379293204593",
+            "1420225379314044958",
+            "1420225379318370344"
+        ],
+        "mobile_bg": "1420052355575189717",
+        "pdp_bg": "1420225379519430768",
+        "mobile_banner": "1420225379527823390",
+        "featured_block": "1421128033598832692",
+        "hero_banner": null,
+        "wide_banner": null,
+        "products": [
+            {
+                "sku_id": "1420225379330691232",
+                "name": "It's Showtime! Bundle",
+                "summary": "A bundle of collectibles.",
+                "store_listing_id": "1420225379343400970",
+                "unpublished_at": null,
+                "styles": {
+                    "background_colors": [
+                        16749134,
+                        9222802
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 1599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 11000,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 1299,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 11000,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "items": [
+                    {
+                        "type": 0,
+                        "id": "1420225379372892200",
+                        "sku_id": "1420225379246805012",
+                        "asset": "a_8d31b6b853913a2811916a2d8678b747",
+                        "label": "Gold and orange sparkles glow and radiate around the avatar."
+                    },
+                    {
+                        "type": 1,
+                        "id": "1420225379431481384",
+                        "sku_id": "1420225379314044958",
+                        "title": "Every Profile is a Stage (Orange)",
+                        "description": "Show this effect when others view your profile.",
+                        "accessibilityLabel": "Shimmering gold and orange glitter scatters across the stage.",
+                        "animationType": 2,
+                        "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-09-23/every_profile_is_a_stage_orange/thumbnail.png",
+                        "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-09-23/every_profile_is_a_stage_orange/reduced_motion.png",
+                        "effects": [
+                            {
+                                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-09-23/every_profile_is_a_stage_orange/intro_orange.png",
+                                "loop": false,
+                                "height": 880,
+                                "width": 450,
+                                "duration": 4083,
+                                "start": 0,
+                                "loopDelay": 0,
+                                "position": {
+                                    "x": 0,
+                                    "y": 0
+                                },
+                                "zIndex": 101,
+                                "randomizedSources": []
+                            },
+                            {
+                                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-09-23/every_profile_is_a_stage_orange/idle_orange.png",
+                                "loop": true,
+                                "height": 880,
+                                "width": 450,
+                                "duration": 4167,
+                                "start": 4300,
+                                "loopDelay": 3000,
+                                "position": {
+                                    "x": 0,
+                                    "y": 0
+                                },
+                                "zIndex": 102,
+                                "randomizedSources": []
+                            }
+                        ]
+                    },
+                    {
+                        "type": 2,
+                        "id": "1420225379401994240",
+                        "sku_id": "1420225379284553810",
+                        "asset": "nameplates/its_showtime/encore_orange/",
+                        "label": "A glowing orange gradient sparkles in the background.",
+                        "palette": "lemon"
+                    }
+                ],
+                "type": 1000,
+                "premium_type": 0,
+                "category_sku_id": "1420052355516338216",
+                "bundled_products": [
+                    {
+                        "sku_id": "1420225379246805012",
+                        "name": "Lights, Camera, Action! (Orange)",
+                        "summary": "Give your avatar a new look.",
+                        "type": 0,
+                        "premium_type": 0,
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 599,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 499,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "sku_id": "1420225379314044958",
+                        "name": "Every Profile is a Stage (Orange)",
+                        "summary": "Show this effect when others view your profile.",
+                        "type": 1,
+                        "premium_type": 0,
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 599,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 499,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "sku_id": "1420225379284553810",
+                        "name": "Encore! (Orange)",
+                        "summary": "Make your name stand out in servers and chats.",
+                        "type": 2,
+                        "premium_type": 0,
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 599,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 499,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ],
+                "google_sku_ids": {
+                    "5": "1420225379330691232_1420488446614442027",
+                    "7": "1420225379330691232_1420488454684545084"
+                }
+            },
+            {
+                "sku_id": "1420225379347726367",
+                "name": "Encore! Bundle",
+                "summary": "A bundle of collectibles.",
+                "store_listing_id": "1420225379355856896",
+                "unpublished_at": null,
+                "styles": {
+                    "background_colors": [
+                        16749134,
+                        9222802
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 1599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 11000,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 1299,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 11000,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "items": [
+                    {
+                        "type": 0,
+                        "id": "1420225379385344151",
+                        "sku_id": "1420225379272232990",
+                        "asset": "a_b624b9455362c4e62041ad1b2830c43b",
+                        "label": "Gold and teal sparkles glow and radiate around the avatar."
+                    },
+                    {
+                        "type": 1,
+                        "id": "1420225379443937321",
+                        "sku_id": "1420225379318370344",
+                        "title": "Every Profile is a Stage (Teal)",
+                        "description": "Show this effect when others view your profile.",
+                        "accessibilityLabel": "Shimmering gold and teal glitter scatters across the stage.",
+                        "animationType": 2,
+                        "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-09-23/every_profile_is_a_stage_teal/thumbnail.png",
+                        "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-09-23/every_profile_is_a_stage_teal/reduced_motion.png",
+                        "effects": [
+                            {
+                                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-09-23/every_profile_is_a_stage_teal/intro.png",
+                                "loop": false,
+                                "height": 880,
+                                "width": 450,
+                                "duration": 4083,
+                                "start": 0,
+                                "loopDelay": 0,
+                                "position": {
+                                    "x": 0,
+                                    "y": 0
+                                },
+                                "zIndex": 101,
+                                "randomizedSources": []
+                            },
+                            {
+                                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-09-23/every_profile_is_a_stage_teal/idle.png",
+                                "loop": true,
+                                "height": 880,
+                                "width": 450,
+                                "duration": 4167,
+                                "start": 4300,
+                                "loopDelay": 3000,
+                                "position": {
+                                    "x": 0,
+                                    "y": 0
+                                },
+                                "zIndex": 102,
+                                "randomizedSources": []
+                            }
+                        ]
+                    },
+                    {
+                        "type": 2,
+                        "id": "1420225379414835261",
+                        "sku_id": "1420225379293204593",
+                        "asset": "nameplates/its_showtime/encore_teal/",
+                        "label": "A glowing teal gradient sparkles in the background.",
+                        "palette": "teal"
+                    }
+                ],
+                "type": 1000,
+                "premium_type": 0,
+                "category_sku_id": "1420052355516338216",
+                "bundled_products": [
+                    {
+                        "sku_id": "1420225379272232990",
+                        "name": "Lights, Camera, Action! (Teal)",
+                        "summary": "Give your avatar a new look.",
+                        "type": 0,
+                        "premium_type": 0,
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 599,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 499,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "sku_id": "1420225379318370344",
+                        "name": "Every Profile is a Stage (Teal)",
+                        "summary": "Show this effect when others view your profile.",
+                        "type": 1,
+                        "premium_type": 0,
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 599,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 499,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "sku_id": "1420225379293204593",
+                        "name": "Encore! (Teal)",
+                        "summary": "Make your name stand out in servers and chats.",
+                        "type": 2,
+                        "premium_type": 0,
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 599,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 499,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ],
+                "google_sku_ids": {
+                    "5": "1420225379347726367_1420488546321567895",
+                    "7": "1420225379347726367_1420488554143944734"
+                }
+            },
+            {
+                "sku_id": "1420225379246805012",
+                "name": "Lights, Camera, Action! (Orange)",
+                "summary": "Give your avatar a new look.",
+                "store_listing_id": "1420225379360313466",
+                "unpublished_at": null,
+                "styles": {
+                    "background_colors": [
+                        16749134,
+                        9222802
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "items": [
+                    {
+                        "type": 0,
+                        "id": "1420225379372892200",
+                        "sku_id": "1420225379246805012",
+                        "asset": "a_8d31b6b853913a2811916a2d8678b747",
+                        "label": "Gold and orange sparkles glow and radiate around the avatar."
+                    }
+                ],
+                "type": 0,
+                "premium_type": 0,
+                "category_sku_id": "1420052355516338216",
+                "google_sku_ids": {
+                    "5": "1420225379246805012_1420490718623039659",
+                    "7": "1420225379246805012_1420490726307008674"
+                }
+            },
+            {
+                "sku_id": "1420225379272232990",
+                "name": "Lights, Camera, Action! (Teal)",
+                "summary": "Give your avatar a new look.",
+                "store_listing_id": "1420225379376828527",
+                "unpublished_at": null,
+                "styles": {
+                    "background_colors": [
+                        16749134,
+                        9222802
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "items": [
+                    {
+                        "type": 0,
+                        "id": "1420225379385344151",
+                        "sku_id": "1420225379272232990",
+                        "asset": "a_b624b9455362c4e62041ad1b2830c43b",
+                        "label": "Gold and teal sparkles glow and radiate around the avatar."
+                    }
+                ],
+                "type": 0,
+                "premium_type": 0,
+                "category_sku_id": "1420052355516338216",
+                "google_sku_ids": {
+                    "5": "1420225379272232990_1420488647077007451",
+                    "7": "1420225379272232990_1420488654559907991"
+                }
+            },
+            {
+                "sku_id": "1420225379314044958",
+                "name": "Every Profile is a Stage (Orange)",
+                "summary": "Show this effect when others view your profile.",
+                "store_listing_id": "1420225379422965820",
+                "unpublished_at": null,
+                "styles": {
+                    "background_colors": [
+                        16749134,
+                        9222802
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "items": [
+                    {
+                        "type": 1,
+                        "id": "1420225379431481384",
+                        "sku_id": "1420225379314044958",
+                        "title": "Every Profile is a Stage (Orange)",
+                        "description": "Show this effect when others view your profile.",
+                        "accessibilityLabel": "Shimmering gold and orange glitter scatters across the stage.",
+                        "animationType": 2,
+                        "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-09-23/every_profile_is_a_stage_orange/thumbnail.png",
+                        "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-09-23/every_profile_is_a_stage_orange/reduced_motion.png",
+                        "effects": [
+                            {
+                                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-09-23/every_profile_is_a_stage_orange/intro_orange.png",
+                                "loop": false,
+                                "height": 880,
+                                "width": 450,
+                                "duration": 4083,
+                                "start": 0,
+                                "loopDelay": 0,
+                                "position": {
+                                    "x": 0,
+                                    "y": 0
+                                },
+                                "zIndex": 101,
+                                "randomizedSources": []
+                            },
+                            {
+                                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-09-23/every_profile_is_a_stage_orange/idle_orange.png",
+                                "loop": true,
+                                "height": 880,
+                                "width": 450,
+                                "duration": 4167,
+                                "start": 4300,
+                                "loopDelay": 3000,
+                                "position": {
+                                    "x": 0,
+                                    "y": 0
+                                },
+                                "zIndex": 102,
+                                "randomizedSources": []
+                            }
+                        ]
+                    }
+                ],
+                "type": 1,
+                "premium_type": 0,
+                "category_sku_id": "1420052355516338216",
+                "google_sku_ids": {
+                    "5": "1420225379314044958_1420488087456448552",
+                    "7": "1420225379314044958_1420488096163827784"
+                }
+            },
+            {
+                "sku_id": "1420225379318370344",
+                "name": "Every Profile is a Stage (Teal)",
+                "summary": "Show this effect when others view your profile.",
+                "store_listing_id": "1420225379439738940",
+                "unpublished_at": null,
+                "styles": {
+                    "background_colors": [
+                        16749134,
+                        9222802
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "items": [
+                    {
+                        "type": 1,
+                        "id": "1420225379443937321",
+                        "sku_id": "1420225379318370344",
+                        "title": "Every Profile is a Stage (Teal)",
+                        "description": "Show this effect when others view your profile.",
+                        "accessibilityLabel": "Shimmering gold and teal glitter scatters across the stage.",
+                        "animationType": 2,
+                        "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-09-23/every_profile_is_a_stage_teal/thumbnail.png",
+                        "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-09-23/every_profile_is_a_stage_teal/reduced_motion.png",
+                        "effects": [
+                            {
+                                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-09-23/every_profile_is_a_stage_teal/intro.png",
+                                "loop": false,
+                                "height": 880,
+                                "width": 450,
+                                "duration": 4083,
+                                "start": 0,
+                                "loopDelay": 0,
+                                "position": {
+                                    "x": 0,
+                                    "y": 0
+                                },
+                                "zIndex": 101,
+                                "randomizedSources": []
+                            },
+                            {
+                                "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2025-09-23/every_profile_is_a_stage_teal/idle.png",
+                                "loop": true,
+                                "height": 880,
+                                "width": 450,
+                                "duration": 4167,
+                                "start": 4300,
+                                "loopDelay": 3000,
+                                "position": {
+                                    "x": 0,
+                                    "y": 0
+                                },
+                                "zIndex": 102,
+                                "randomizedSources": []
+                            }
+                        ]
+                    }
+                ],
+                "type": 1,
+                "premium_type": 0,
+                "category_sku_id": "1420052355516338216",
+                "google_sku_ids": {
+                    "5": "1420225379318370344_1420489308271546380",
+                    "7": "1420225379318370344_1420489315842130031"
+                }
+            },
+            {
+                "sku_id": "1420225379284553810",
+                "name": "Encore! (Orange)",
+                "summary": "Make your name stand out in servers and chats.",
+                "store_listing_id": "1420225379393601669",
+                "unpublished_at": null,
+                "styles": {
+                    "background_colors": [
+                        16749134,
+                        9222802
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "items": [
+                    {
+                        "type": 2,
+                        "id": "1420225379401994240",
+                        "sku_id": "1420225379284553810",
+                        "asset": "nameplates/its_showtime/encore_orange/",
+                        "label": "A glowing orange gradient sparkles in the background.",
+                        "palette": "lemon"
+                    }
+                ],
+                "type": 2,
+                "premium_type": 0,
+                "category_sku_id": "1420052355516338216",
+                "google_sku_ids": {
+                    "5": "1420225379284553810_1420488314741457026",
+                    "7": "1420225379284553810_1420488322463174788"
+                }
+            },
+            {
+                "sku_id": "1420225379293204593",
+                "name": "Encore! (Teal)",
+                "summary": "Make your name stand out in servers and chats.",
+                "store_listing_id": "1420225379410509825",
+                "unpublished_at": null,
+                "styles": {
+                    "background_colors": [
+                        16749134,
+                        9222802
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "items": [
+                    {
+                        "type": 2,
+                        "id": "1420225379414835261",
+                        "sku_id": "1420225379293204593",
+                        "asset": "nameplates/its_showtime/encore_teal/",
+                        "label": "A glowing teal gradient sparkles in the background.",
+                        "palette": "teal"
+                    }
+                ],
+                "type": 2,
+                "premium_type": 0,
+                "category_sku_id": "1420052355516338216",
+                "google_sku_ids": {
+                    "5": "1420225379293204593_1420488416461586523",
+                    "7": "1420225379293204593_1420488424045023352"
+                }
+            }
+        ],
+        "catalog_banner_asset": {
+            "animated": null,
+            "static": "https://cdn.discordapp.com/assets/content/a5fb80fd7c867406c984b627155b7080dd3d2195b001fef601d04110dde18e45.jpg"
+        },
+        "hero_logo": null
     }
 ]

@@ -22730,7 +22730,7 @@
                             "video_title": "Early Access Trailer",
                             "video_end_cta_title": "Early Access Trailer",
                             "video_end_cta_subtitle": "ESRB Rating: T (Teen)",
-                            "video_end_cta_button_label": "Pre-Order Now"
+                            "video_end_cta_button_label": "Buy Now"
                         }
                     }
                 },
@@ -22766,7 +22766,7 @@
                     "video_title": "Early Access Trailer",
                     "video_end_cta_title": "Early Access Trailer",
                     "video_end_cta_subtitle": "ESRB Rating: T (Teen)",
-                    "video_end_cta_button_label": "Pre-Order Now"
+                    "video_end_cta_button_label": "Buy Now"
                 },
                 "assets": {
                     "video_player_video_hls": "1420532256107266059.m3u8",
@@ -22976,6 +22976,290 @@
                 "platforms": [
                     0
                 ]
+            },
+            "share_policy": "shareable_everywhere"
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
+    },
+    {
+        "id": "1423404422649745438",
+        "config": {
+            "id": "1423404422649745438",
+            "config_version": 2,
+            "starts_at": "2025-10-03T17:00:59+00:00",
+            "expires_at": "2025-10-10T00:00:59+00:00",
+            "features": [
+                3,
+                9,
+                13,
+                14,
+                15,
+                16,
+                18,
+                19,
+                23
+            ],
+            "application": {
+                "link": "https://www.ea.com/games/battlefield/battlefield-6/buy",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "1423412215331033148.jpg",
+                "hero_video": "1423412849132437624.mp4",
+                "quest_bar_hero": "1423412650918019122.jpg",
+                "quest_bar_hero_video": "1423412849132437624.mp4",
+                "game_tile": "1423412915712819281.jpg",
+                "logotype": "1423412914638946377.png",
+                "game_tile_light": "1423412269571903538.jpg",
+                "game_tile_dark": "1423412269571903538.jpg",
+                "logotype_light": "1423412368930504806.png",
+                "logotype_dark": "1423412393202942042.png"
+            },
+            "colors": {
+                "primary": "#FE3B00",
+                "secondary": "#454545"
+            },
+            "messages": {
+                "quest_name": "Battlefield 6 Trailer",
+                "game_title": "Battlefield 6",
+                "game_publisher": "Electronic Arts"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "event_name": "WATCH_VIDEO",
+                        "target": 59,
+                        "external_ids": []
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 59,
+                        "assets": {
+                            "video": {
+                                "url": "1423408175293399123_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "1423411532934418553.jpg",
+                                "caption": "1423411713855721553.vtt",
+                                "transcript": "1423411775252201544.txt"
+                            },
+                            "video_low_res": {
+                                "url": "1423408175293399123_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "1423411532934418553.jpg",
+                                "caption": "1423411713855721553.vtt",
+                                "transcript": "1423411775252201544.txt"
+                            },
+                            "video_hls": {
+                                "url": "1423408175293399123.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "1423411532934418553.jpg",
+                                "caption": "1423411713855721553.vtt",
+                                "transcript": "1423411775252201544.txt"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "Battlefield 6 Trailer",
+                            "video_end_cta_title": "Battlefield 6 ",
+                            "video_end_cta_subtitle": "Battlefield 6 arrives October 10",
+                            "video_end_cta_button_label": "Pre-Order Now"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 orbs",
+                            "name_with_article": "700 orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "Default"
+                            }
+                        },
+                        "orb_quantity": 700
+                    }
+                ],
+                "rewards_expire_at": "2025-11-09T00:00:59+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "video_metadata": {
+                "messages": {
+                    "video_title": "Battlefield 6 Trailer",
+                    "video_end_cta_title": "Battlefield 6 ",
+                    "video_end_cta_subtitle": "Battlefield 6 arrives October 10",
+                    "video_end_cta_button_label": "Pre-Order Now"
+                },
+                "assets": {
+                    "video_player_video_hls": "1423408175293399123.m3u8",
+                    "video_player_video": "1423408175293399123_1080.mp4",
+                    "video_player_thumbnail": "1423411532934418553.jpg",
+                    "video_player_video_low_res": "1423408175293399123_720.mp4",
+                    "video_player_caption": "1423411713855721553.vtt",
+                    "video_player_transcript": "1423411775252201544.txt",
+                    "quest_bar_preview_video": null,
+                    "quest_bar_preview_thumbnail": null,
+                    "quest_home_video": null
+                }
+            },
+            "share_policy": "shareable_everywhere"
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
+    },
+    {
+        "id": "1422745038999261294",
+        "config": {
+            "id": "1422745038999261294",
+            "config_version": 2,
+            "starts_at": "2025-10-03T17:00:50+00:00",
+            "expires_at": "2025-10-13T00:00:50+00:00",
+            "features": [
+                3,
+                9,
+                13,
+                14,
+                15,
+                16,
+                18,
+                19,
+                23
+            ],
+            "application": {
+                "link": "https://www.peacocktv.com/stream-movies/how-to-train-your-dragon-2025",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "1422745589963296838.jpg",
+                "hero_video": "1422745632908513331.mp4",
+                "quest_bar_hero": "1422745671512887398.jpg",
+                "quest_bar_hero_video": "1422745632908513331.mp4",
+                "game_tile": "1422745810994724935.png",
+                "logotype": "1422745810009067622.png",
+                "game_tile_light": "1422745771257761842.png",
+                "game_tile_dark": "1422745771257761842.png",
+                "logotype_light": "1422745730388590672.png",
+                "logotype_dark": "1422745730388590672.png"
+            },
+            "colors": {
+                "primary": "#79CAAC",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "How To Train Your Dragon",
+                "game_title": "Streaming Only on Peacock October 10",
+                "game_publisher": "Peacock"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "event_name": "WATCH_VIDEO",
+                        "target": 29,
+                        "external_ids": []
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 29,
+                        "assets": {
+                            "video": {
+                                "url": "1422746098916655217_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "1422746138007699526.jpg",
+                                "caption": "1422748206831243344.vtt",
+                                "transcript": "1422748011250843719.txt"
+                            },
+                            "video_low_res": {
+                                "url": "1422746098916655217_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "1422746138007699526.jpg",
+                                "caption": "1422748206831243344.vtt",
+                                "transcript": "1422748011250843719.txt"
+                            },
+                            "video_hls": {
+                                "url": "1422746098916655217.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "1422746138007699526.jpg",
+                                "caption": "1422748206831243344.vtt",
+                                "transcript": "1422748011250843719.txt"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "How To Train Your Dragon",
+                            "video_end_cta_title": "How To Train Your Dragon",
+                            "video_end_cta_subtitle": "Streaming Only on Peacock October 10",
+                            "video_end_cta_button_label": "Learn More"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 orbs",
+                            "name_with_article": "700 orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "Default"
+                            }
+                        },
+                        "orb_quantity": 700
+                    }
+                ],
+                "rewards_expire_at": "2025-11-12T00:00:50+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "video_metadata": {
+                "messages": {
+                    "video_title": "How To Train Your Dragon",
+                    "video_end_cta_title": "How To Train Your Dragon",
+                    "video_end_cta_subtitle": "Streaming Only on Peacock October 10",
+                    "video_end_cta_button_label": "Learn More"
+                },
+                "assets": {
+                    "video_player_video_hls": "1422746098916655217.m3u8",
+                    "video_player_video": "1422746098916655217_1080.mp4",
+                    "video_player_thumbnail": "1422746138007699526.jpg",
+                    "video_player_video_low_res": "1422746098916655217_720.mp4",
+                    "video_player_caption": "1422748206831243344.vtt",
+                    "video_player_transcript": "1422748011250843719.txt",
+                    "quest_bar_preview_video": null,
+                    "quest_bar_preview_thumbnail": null,
+                    "quest_home_video": null
+                }
             },
             "share_policy": "shareable_everywhere"
         },
