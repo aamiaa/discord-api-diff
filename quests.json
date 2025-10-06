@@ -23266,5 +23266,281 @@
         "user_status": null,
         "targeted_content": [],
         "preview": false
+    },
+    {
+        "id": "1422728852744179862",
+        "config": {
+            "id": "1422728852744179862",
+            "config_version": 2,
+            "starts_at": "2025-10-06T17:00:31+00:00",
+            "expires_at": "2025-10-13T00:00:31+00:00",
+            "features": [
+                3,
+                9,
+                13,
+                14,
+                15,
+                16,
+                18,
+                19,
+                23
+            ],
+            "application": {
+                "link": "https://playvalorant.com/?utm_source=discord&utm_medium=paid&utm_campaign=VALVetoInvite",
+                "id": "700136079562375258",
+                "name": "VALORANT"
+            },
+            "assets": {
+                "hero": "1422730700292886538.jpg",
+                "hero_video": "1423081096764981279.mp4",
+                "quest_bar_hero": "1422730588464353290.jpg",
+                "quest_bar_hero_video": "1423045267200147538.mp4",
+                "game_tile": "1422731455741693992.png",
+                "logotype": "1422731450997932052.png",
+                "game_tile_light": "1422730841360044042.png",
+                "game_tile_dark": "1422730841360044042.png",
+                "logotype_light": "1422730799001637054.png",
+                "logotype_dark": "1422730799001637054.png"
+            },
+            "colors": {
+                "primary": "#57805B",
+                "secondary": "#57805B"
+            },
+            "messages": {
+                "quest_name": "VALORANT Invite",
+                "game_title": "VALORANT",
+                "game_publisher": "Riot Games"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "event_name": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "external_ids": []
+                    },
+                    "PLAY_ON_XBOX": {
+                        "event_name": "PLAY_ON_XBOX",
+                        "target": 900,
+                        "external_ids": [
+                            "2139646219"
+                        ]
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "event_name": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "external_ids": [
+                            "PPSA20676_00",
+                            "PPSA20711_00"
+                        ]
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "700136079562375258"
+                            }
+                        ]
+                    },
+                    "PLAY_ON_XBOX": {
+                        "type": "PLAY_ON_XBOX",
+                        "target": 900,
+                        "external_ids": [
+                            "2139646219"
+                        ]
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "type": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "external_ids": [
+                            "PPSA20676_00",
+                            "PPSA20711_00"
+                        ]
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 3,
+                        "sku_id": "1422723412052279357",
+                        "asset": "1422731388674904084.mp4",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "Tactibear Flex Avatar Decoration",
+                            "name_with_article": "a Tactibear Flex Avatar Decoration",
+                            "redemption_instructions_by_platform": {
+                                "0": "Default"
+                            }
+                        },
+                        "expires_at": "2025-12-12T01:00:00+00:00",
+                        "expires_at_premium": null,
+                        "expiration_mode": 3
+                    }
+                ],
+                "rewards_expire_at": "2025-11-12T00:00:31+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere"
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
+    },
+    {
+        "id": "1422714633357103315",
+        "config": {
+            "id": "1422714633357103315",
+            "config_version": 2,
+            "starts_at": "2025-10-06T17:00:01+00:00",
+            "expires_at": "2025-11-03T01:00:01+00:00",
+            "features": [
+                3,
+                9,
+                13,
+                14,
+                15,
+                16,
+                18,
+                19,
+                23
+            ],
+            "application": {
+                "link": "https://www.mcdonalds.com/us/en-us/download-app.html?gclsrc=aw.ds&gad_source=1&gad_campaignid=18021794628&gbraid=0AAAAADepKq08fDF_uVRBcDV_tuuDajE3k&gclid=Cj0KCQjw267GBhCSARIsAOjVJ4HRRdVHvYhvpT4OPG5Y14P8-4eld8nWBST5yv6LxR56VBEy01a-b-EaAmNXEALw_wcB",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "1423073301860843640.jpg",
+                "hero_video": "1423073796746776606.mp4",
+                "quest_bar_hero": "1423073260173529118.jpg",
+                "quest_bar_hero_video": "1423073796746776606.mp4",
+                "game_tile": "1423074018289782925.png",
+                "logotype": "1423074013483241565.png",
+                "game_tile_light": "1423073433801064499.png",
+                "game_tile_dark": "1423073433801064499.png",
+                "logotype_light": "1423073378541240462.png",
+                "logotype_dark": "1423073378541240462.png"
+            },
+            "colors": {
+                "primary": "#4FAF62",
+                "secondary": "#0072BC"
+            },
+            "messages": {
+                "quest_name": "Monopoly at McD’s",
+                "game_title": "Monopoly at McD’s",
+                "game_publisher": "McDonald's"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "event_name": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 96,
+                        "external_ids": []
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 96,
+                        "assets": {
+                            "video": {
+                                "url": "1423435899605225522_1080.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "1423717844868141096.jpg",
+                                "caption": "1424783700259766302.vtt",
+                                "transcript": "1424783762394185879.txt"
+                            },
+                            "video_low_res": {
+                                "url": "1423435899605225522_720.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "1423717844868141096.jpg",
+                                "caption": "1424783700259766302.vtt",
+                                "transcript": "1424783762394185879.txt"
+                            },
+                            "video_hls": {
+                                "url": "1423435899605225522.m3u8",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "1423717844868141096.jpg",
+                                "caption": "1424783700259766302.vtt",
+                                "transcript": "1424783762394185879.txt"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER",
+                            "video_end_cta_title": "PLACEHOLDER",
+                            "video_end_cta_subtitle": "PLACEHOLDER",
+                            "video_end_cta_button_label": "Learn More"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 3,
+                        "sku_id": "1423746348905136170",
+                        "asset": "1423746669983567882.mp4",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "Mr. M Avatar Decoration",
+                            "name_with_article": "a Mr. M Avatar Decoration",
+                            "redemption_instructions_by_platform": {
+                                "0": "Default"
+                            }
+                        },
+                        "expires_at": "2026-01-02T01:00:00+00:00",
+                        "expires_at_premium": null,
+                        "expiration_mode": 3
+                    }
+                ],
+                "rewards_expire_at": "2025-12-03T01:00:01+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "video_metadata": {
+                "messages": {
+                    "video_title": "PLACEHOLDER",
+                    "video_end_cta_title": "PLACEHOLDER",
+                    "video_end_cta_subtitle": "PLACEHOLDER",
+                    "video_end_cta_button_label": "Learn More"
+                },
+                "assets": {
+                    "video_player_video_hls": "1423435899605225522.m3u8",
+                    "video_player_video": "1423435899605225522_1080.mp4",
+                    "video_player_thumbnail": "1423717844868141096.jpg",
+                    "video_player_video_low_res": "1423435899605225522_720.mp4",
+                    "video_player_caption": "1424783700259766302.vtt",
+                    "video_player_transcript": "1424783762394185879.txt",
+                    "quest_bar_preview_video": null,
+                    "quest_bar_preview_thumbnail": null,
+                    "quest_home_video": null
+                }
+            },
+            "share_policy": "shareable_everywhere"
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
     }
 ]
