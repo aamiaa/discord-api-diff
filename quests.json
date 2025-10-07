@@ -23542,5 +23542,274 @@
         "user_status": null,
         "targeted_content": [],
         "preview": false
+    },
+    {
+        "id": "1424900089528451244",
+        "config": {
+            "id": "1424900089528451244",
+            "config_version": 2,
+            "starts_at": "2025-10-07T17:00:14+00:00",
+            "expires_at": "2025-10-14T00:00:14+00:00",
+            "features": [
+                3,
+                9,
+                13,
+                14,
+                15,
+                16,
+                18,
+                19,
+                23
+            ],
+            "application": {
+                "link": "https://bpsr.onelink.me/Ijsy/rf8s8a2v",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "1424902442801172563.jpg",
+                "hero_video": "1424902410903490632.mp4",
+                "quest_bar_hero": "1424902376002682950.jpg",
+                "quest_bar_hero_video": "1424902410903490632.mp4",
+                "game_tile": "1424902690307313716.png",
+                "logotype": "1424902689275248835.png",
+                "game_tile_light": "1424902660146073740.png",
+                "game_tile_dark": "1424902660146073740.png",
+                "logotype_light": "1424902582530478081.png",
+                "logotype_dark": "1424902625085882490.png"
+            },
+            "colors": {
+                "primary": "#304FB1",
+                "secondary": "#5E3585"
+            },
+            "messages": {
+                "quest_name": "Blue Protocol: Star Resonance",
+                "game_title": "New MMO Launches on October 9th",
+                "game_publisher": "A Plus Japan"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "event_name": "WATCH_VIDEO",
+                        "target": 85,
+                        "external_ids": []
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 85,
+                        "assets": {
+                            "video": {
+                                "url": "1424903662702039161_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "1424903819573203056.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "1424903662702039161_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "1424903819573203056.jpg"
+                            },
+                            "video_hls": {
+                                "url": "1424903662702039161.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "1424903819573203056.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": " Blue Protocol: Star Resonance Trailer",
+                            "video_end_cta_title": " Blue Protocol: Star Resonance",
+                            "video_end_cta_subtitle": "Your story awaits in Blue Protocol: Star Resonance",
+                            "video_end_cta_button_label": "Preregister"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 3,
+                        "sku_id": "1424960507143524495",
+                        "asset": "1424960568372101270.mp4",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "Airona Fireworks Avatar Decoration",
+                            "name_with_article": "an Airona Fireworks Avatar Decoration",
+                            "redemption_instructions_by_platform": {
+                                "0": "Default"
+                            }
+                        },
+                        "expires_at": "2025-12-13T01:00:00+00:00",
+                        "expires_at_premium": null,
+                        "expiration_mode": 3
+                    }
+                ],
+                "rewards_expire_at": "2025-11-13T00:00:14+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "video_metadata": {
+                "messages": {
+                    "video_title": " Blue Protocol: Star Resonance Trailer",
+                    "video_end_cta_title": " Blue Protocol: Star Resonance",
+                    "video_end_cta_subtitle": "Your story awaits in Blue Protocol: Star Resonance",
+                    "video_end_cta_button_label": "Preregister"
+                },
+                "assets": {
+                    "video_player_video_hls": "1424903662702039161.m3u8",
+                    "video_player_video": "1424903662702039161_1080.mp4",
+                    "video_player_thumbnail": "1424903819573203056.jpg",
+                    "video_player_video_low_res": "1424903662702039161_720.mp4",
+                    "video_player_caption": null,
+                    "video_player_transcript": null,
+                    "quest_bar_preview_video": null,
+                    "quest_bar_preview_thumbnail": null,
+                    "quest_home_video": null
+                }
+            },
+            "share_policy": "shareable_everywhere"
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
+    },
+    {
+        "id": "1422705108319338546",
+        "config": {
+            "id": "1422705108319338546",
+            "config_version": 2,
+            "starts_at": "2025-10-07T17:00:10+00:00",
+            "expires_at": "2025-10-14T00:00:10+00:00",
+            "features": [
+                3,
+                9,
+                13,
+                14,
+                15,
+                16,
+                18,
+                19,
+                23
+            ],
+            "application": {
+                "link": "https://www.kingofmeat.com/pre-order?utm_source=Discord",
+                "id": "1424836075427332106",
+                "name": "King of Meat"
+            },
+            "assets": {
+                "hero": "1422706899312447589.jpg",
+                "hero_video": "1422706819423277157.mp4",
+                "quest_bar_hero": "1422706868949618688.jpg",
+                "quest_bar_hero_video": "1422706819423277157.mp4",
+                "game_tile": "1422707022960529489.png",
+                "logotype": "1422707021831995413.png",
+                "game_tile_light": "1422706979507535872.png",
+                "game_tile_dark": "1422706979507535872.png",
+                "logotype_light": "1422706953242804296.png",
+                "logotype_dark": "1422706953242804296.png"
+            },
+            "colors": {
+                "primary": "#B8860B",
+                "secondary": "#00113E"
+            },
+            "messages": {
+                "quest_name": "King of Meat Play",
+                "game_title": "King of Meat",
+                "game_publisher": "Amazon Games"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "event_name": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "external_ids": []
+                    },
+                    "PLAY_ON_XBOX": {
+                        "event_name": "PLAY_ON_XBOX",
+                        "target": 900,
+                        "external_ids": [
+                            "1774165009"
+                        ]
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "event_name": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "external_ids": [
+                            "PPSA28606_00",
+                            "PPSA25554_00"
+                        ]
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1424836075427332106"
+                            }
+                        ]
+                    },
+                    "PLAY_ON_XBOX": {
+                        "type": "PLAY_ON_XBOX",
+                        "target": 900,
+                        "external_ids": [
+                            "1774165009"
+                        ]
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "type": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "external_ids": [
+                            "PPSA28606_00",
+                            "PPSA25554_00"
+                        ]
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 1,
+                        "sku_id": "1422705108319338547",
+                        "asset": "1422707666538467439.png",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "Bombhead's Expblade & Boomboard",
+                            "name_with_article": "a Bombhead's Expblade & Boomboard",
+                            "redemption_instructions_by_platform": {
+                                "0": "Congratulations on earning an in-game reward for King of Meat! In order to claim it, follow these steps:\n\no        Visit the King of Meat Code Redemption Website.  \no        Select your preferred platform and log in to your account.  \no        Enter the code you received from the Discord Quest and hit \"Redeem Reward\".   You should see a confirmation message.  \no        The redeemed Item will appear in your inventory once you reach Contender Rank 2 in-game.  \n\n**Reward Available: 10/7/2025 @ 10 AM PDT – 10/13/2025 @ 4:59 PM PDT **"
+                            }
+                        },
+                        "approximate_count": null,
+                        "redemption_link": null
+                    }
+                ],
+                "rewards_expire_at": "2025-11-13T00:00:10+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere"
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
     }
 ]
