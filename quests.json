@@ -23811,5 +23811,105 @@
         "user_status": null,
         "targeted_content": [],
         "preview": false
+    },
+    {
+        "id": "1423010532574756945",
+        "config": {
+            "id": "1423010532574756945",
+            "config_version": 2,
+            "starts_at": "2025-10-08T17:00:49+00:00",
+            "expires_at": "2025-10-18T00:00:49+00:00",
+            "features": [
+                3,
+                9,
+                13,
+                14,
+                15,
+                16,
+                18,
+                19,
+                23
+            ],
+            "application": {
+                "link": "https://play2xko.com/?utm_source=discord&utm_medium=paid&utm_campaign=2XKOEarlyAccess",
+                "id": "1417993715611467826",
+                "name": "2XKO"
+            },
+            "assets": {
+                "hero": "1423011710087991296.jpg",
+                "hero_video": null,
+                "quest_bar_hero": "1423066197204930560.jpeg",
+                "quest_bar_hero_video": null,
+                "game_tile": "1423011370680582144.png",
+                "logotype": "1423011369443266570.png",
+                "game_tile_light": "1423011085874761869.png",
+                "game_tile_dark": "1423011085874761869.png",
+                "logotype_light": "1423011050051076178.png",
+                "logotype_dark": "1423011050051076178.png"
+            },
+            "colors": {
+                "primary": "#CDF564",
+                "secondary": "#CDF564"
+            },
+            "messages": {
+                "quest_name": "2XKO Early Access",
+                "game_title": "2XKO",
+                "game_publisher": "Riot Games"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "event_name": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "external_ids": []
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1417993715611467826"
+                            }
+                        ]
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 3,
+                        "sku_id": "1423010468762484827",
+                        "asset": "1423056855973756979.mp4",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "Cab Monster Avatar Decoration",
+                            "name_with_article": "a Cab Monster Avatar Decoration",
+                            "redemption_instructions_by_platform": {
+                                "0": "Default"
+                            }
+                        },
+                        "expires_at": "2025-12-17T00:00:00+00:00",
+                        "expires_at_premium": null,
+                        "expiration_mode": 3
+                    }
+                ],
+                "rewards_expire_at": "2025-11-17T00:00:49+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere"
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
     }
 ]
