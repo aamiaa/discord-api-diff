@@ -23911,5 +23911,101 @@
         "user_status": null,
         "targeted_content": [],
         "preview": false
+    },
+    {
+        "id": "1425276915639652382",
+        "config": {
+            "id": "1425276915639652382",
+            "config_version": 2,
+            "starts_at": "2025-10-09T19:30:37+00:00",
+            "expires_at": "2025-10-16T00:00:37+00:00",
+            "features": [
+                3,
+                9,
+                13,
+                14,
+                15,
+                16,
+                18,
+                19,
+                23
+            ],
+            "application": {
+                "link": "https://bpsr.onelink.me/Ijsy/m8kb1moj",
+                "id": "1425830254437601330",
+                "name": "Blue Protocol: Star Resonance"
+            },
+            "assets": {
+                "hero": "1425278856394178661.jpeg",
+                "hero_video": "1425278969875271790.mp4",
+                "quest_bar_hero": "1425278928339337306.jpg",
+                "quest_bar_hero_video": "1425278969875271790.mp4",
+                "game_tile": "1425279098996920340.png",
+                "logotype": "1425279097826840637.png",
+                "game_tile_light": "1425279077018898645.png",
+                "game_tile_dark": "1425279077018898645.png",
+                "logotype_light": "1425279048526860398.png",
+                "logotype_dark": "1425279048526860398.png"
+            },
+            "colors": {
+                "primary": "#304FB1",
+                "secondary": "#5E3585"
+            },
+            "messages": {
+                "quest_name": "PLAY THE LATEST ANIME MMORPG",
+                "game_title": "BLUE PROTOCOL STAR RESONANCE",
+                "game_publisher": "A PLUS JAPAN"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "event_name": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "external_ids": []
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1425830254437601330"
+                            }
+                        ]
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 orbs",
+                            "name_with_article": "700 orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "Default"
+                            }
+                        },
+                        "orb_quantity": 700
+                    }
+                ],
+                "rewards_expire_at": "2025-11-15T00:00:37+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere"
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
     }
 ]
