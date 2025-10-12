@@ -24637,5 +24637,144 @@
         "user_status": null,
         "targeted_content": [],
         "preview": false
+    },
+    {
+        "id": "1425921949665591336",
+        "config": {
+            "id": "1425921949665591336",
+            "config_version": 2,
+            "starts_at": "2025-10-12T08:00:45+00:00",
+            "expires_at": "2025-10-20T00:00:45+00:00",
+            "features": [
+                3,
+                9,
+                13,
+                14,
+                15,
+                16,
+                18,
+                19,
+                23
+            ],
+            "application": {
+                "link": "https://app.powster.com/universalstudios/the-black-phone-2-intl/gb",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "1426253927107793069.jpg",
+                "hero_video": "1426198864926474280.mp4",
+                "quest_bar_hero": "1426198624244727992.jpg",
+                "quest_bar_hero_video": "1426198864926474280.mp4",
+                "game_tile": "1425923923278823567.png",
+                "logotype": "1425923922213212355.png",
+                "game_tile_light": "1425923038485942354.png",
+                "game_tile_dark": "1425923038485942354.png",
+                "logotype_light": "1425922746583486504.png",
+                "logotype_dark": "1425922746583486504.png"
+            },
+            "colors": {
+                "primary": "#97281B",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Black Phone 2",
+                "game_title": "In Cinemas October 17",
+                "game_publisher": "Universal Pictures"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "event_name": "WATCH_VIDEO",
+                        "target": 130,
+                        "external_ids": []
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 130,
+                        "assets": {
+                            "video": {
+                                "url": "1426199049005957210_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "1426253992769490984.jpg",
+                                "caption": "1426199159953948883.vtt",
+                                "transcript": "1426199195919843388.txt"
+                            },
+                            "video_low_res": {
+                                "url": "1426199049005957210_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "1426253992769490984.jpg",
+                                "caption": "1426199159953948883.vtt",
+                                "transcript": "1426199195919843388.txt"
+                            },
+                            "video_hls": {
+                                "url": "1426199049005957210.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "1426253992769490984.jpg",
+                                "caption": "1426199159953948883.vtt",
+                                "transcript": "1426199195919843388.txt"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "Black Phone 2",
+                            "video_end_cta_title": "Black Phone 2",
+                            "video_end_cta_subtitle": "Black Phone 2 in cinemas October 17",
+                            "video_end_cta_button_label": "Get Tickets"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 orbs",
+                            "name_with_article": "700 orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "Default"
+                            }
+                        },
+                        "orb_quantity": 700
+                    }
+                ],
+                "rewards_expire_at": "2025-11-19T00:00:45+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "video_metadata": {
+                "messages": {
+                    "video_title": "Black Phone 2",
+                    "video_end_cta_title": "Black Phone 2",
+                    "video_end_cta_subtitle": "Black Phone 2 in cinemas October 17",
+                    "video_end_cta_button_label": "Get Tickets"
+                },
+                "assets": {
+                    "video_player_video_hls": "1426199049005957210.m3u8",
+                    "video_player_video": "1426199049005957210_1080.mp4",
+                    "video_player_thumbnail": "1426253992769490984.jpg",
+                    "video_player_video_low_res": "1426199049005957210_720.mp4",
+                    "video_player_caption": "1426199159953948883.vtt",
+                    "video_player_transcript": "1426199195919843388.txt",
+                    "quest_bar_preview_video": null,
+                    "quest_bar_preview_thumbnail": null,
+                    "quest_home_video": null
+                }
+            },
+            "share_policy": "shareable_everywhere"
+        }
     }
 ]
