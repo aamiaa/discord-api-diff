@@ -24776,5 +24776,101 @@
             },
             "share_policy": "shareable_everywhere"
         }
+    },
+    {
+        "id": "1425698814315991141",
+        "config": {
+            "id": "1425698814315991141",
+            "config_version": 2,
+            "starts_at": "2025-10-13T17:00:05+00:00",
+            "expires_at": "2025-10-21T00:00:05+00:00",
+            "features": [
+                3,
+                9,
+                13,
+                14,
+                15,
+                16,
+                18,
+                19,
+                23
+            ],
+            "application": {
+                "link": "https://store.steampowered.com/app/2795540/The_Midnight_Walkers/",
+                "id": "1425698395774783611",
+                "name": "The Midnight Walkers"
+            },
+            "assets": {
+                "hero": "1425700873534967881.jpg",
+                "hero_video": "1425700924378321019.mp4",
+                "quest_bar_hero": "1425700592554344559.jpg",
+                "quest_bar_hero_video": "1425700979696861286.mp4",
+                "game_tile": "1425701127348949082.png",
+                "logotype": "1425701126375866418.png",
+                "game_tile_light": "1425701058528809021.png",
+                "game_tile_dark": "1425701058528809021.png",
+                "logotype_light": "1425701020419493981.png",
+                "logotype_dark": "1425701020419493981.png"
+            },
+            "colors": {
+                "primary": "#96241C",
+                "secondary": "#1D1A21"
+            },
+            "messages": {
+                "quest_name": "Zombie Extraction",
+                "game_title": "The Midnight Walkers",
+                "game_publisher": "Oneway Ticket Studio"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "event_name": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "external_ids": []
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1425698395774783611"
+                            }
+                        ]
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 orbs",
+                            "name_with_article": "700 orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "Default"
+                            }
+                        },
+                        "orb_quantity": 700
+                    }
+                ],
+                "rewards_expire_at": "2025-11-20T00:00:05+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere"
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
     }
 ]
