@@ -25244,5 +25244,136 @@
             },
             "share_policy": "shareable_everywhere"
         }
+    },
+    {
+        "id": "1425614323958677667",
+        "config": {
+            "id": "1425614323958677667",
+            "config_version": 2,
+            "starts_at": "2025-10-14T17:00:21+00:00",
+            "expires_at": "2025-10-21T00:00:21+00:00",
+            "features": [
+                3,
+                9,
+                13,
+                14,
+                15,
+                16,
+                18,
+                19,
+                23
+            ],
+            "application": {
+                "link": "https://www.fortnite.com/",
+                "id": "1402418703554842694",
+                "name": "Fortnite"
+            },
+            "assets": {
+                "hero": "1425615199620173924.jpg",
+                "hero_video": null,
+                "quest_bar_hero": "1425615174651613217.jpg",
+                "quest_bar_hero_video": null,
+                "game_tile": "1425615340586532924.png",
+                "logotype": "1425615339579904143.png",
+                "game_tile_light": "1425615251759697970.png",
+                "game_tile_dark": "1425615251759697970.png",
+                "logotype_light": "1425615228540031106.png",
+                "logotype_dark": "1425615228540031106.png"
+            },
+            "colors": {
+                "primary": "#94381F",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Fortnitemares",
+                "game_title": "Fortnite",
+                "game_publisher": "Epic Games"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "event_name": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "external_ids": []
+                    },
+                    "PLAY_ON_XBOX": {
+                        "event_name": "PLAY_ON_XBOX",
+                        "target": 900,
+                        "external_ids": [
+                            "267695549"
+                        ]
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "event_name": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "external_ids": [
+                            "PPSA01923_00",
+                            "CUSA07669_00",
+                            "CUSA07022_00",
+                            "PPSA01922_00"
+                        ]
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1402418703554842694"
+                            }
+                        ]
+                    },
+                    "PLAY_ON_XBOX": {
+                        "type": "PLAY_ON_XBOX",
+                        "target": 900,
+                        "external_ids": [
+                            "267695549"
+                        ]
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "type": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "external_ids": [
+                            "PPSA01923_00",
+                            "CUSA07669_00",
+                            "CUSA07022_00",
+                            "PPSA01922_00"
+                        ]
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 3,
+                        "sku_id": "1425613673417801771",
+                        "asset": "1425614880412795000.mp4",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "The Final Peel Avatar Decoration",
+                            "name_with_article": "The Final Peel Avatar Decoration",
+                            "redemption_instructions_by_platform": {
+                                "0": "Default"
+                            }
+                        },
+                        "expires_at": "2025-12-20T01:00:00+00:00",
+                        "expires_at_premium": null,
+                        "expiration_mode": 1
+                    }
+                ],
+                "rewards_expire_at": "2025-11-20T00:00:21+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere"
+        }
     }
 ]
