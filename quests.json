@@ -24872,5 +24872,377 @@
         "user_status": null,
         "targeted_content": [],
         "preview": false
+    },
+    {
+        "id": "1420556874629251124",
+        "config": {
+            "id": "1420556874629251124",
+            "config_version": 2,
+            "starts_at": "2025-10-14T17:00:51+00:00",
+            "expires_at": "2025-10-21T00:00:51+00:00",
+            "features": [
+                3,
+                8,
+                9,
+                13,
+                14,
+                15,
+                16,
+                18,
+                19,
+                23,
+                24,
+                25,
+                27
+            ],
+            "application": {
+                "link": "https://www.fortnite.com/",
+                "id": "1420804330419912840",
+                "name": "the limited time Fortnite Trial"
+            },
+            "assets": {
+                "hero": "1425176193065418812.jpg",
+                "hero_video": null,
+                "quest_bar_hero": "1425176124375175299.jpg",
+                "quest_bar_hero_video": null,
+                "game_tile": "1425176328268943481.png",
+                "logotype": "1425176327090208850.png",
+                "game_tile_light": "1425176262770426006.png",
+                "game_tile_dark": "1425176262770426006.png",
+                "logotype_light": "1425176232156463165.png",
+                "logotype_dark": "1425176232156463165.png"
+            },
+            "colors": {
+                "primary": "#94381F",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Fortnitemares",
+                "game_title": "Fortnite",
+                "game_publisher": "Epic Games"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "PLAY_ACTIVITY": {
+                        "event_name": "PLAY_ACTIVITY",
+                        "target": 900,
+                        "external_ids": []
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ACTIVITY": {
+                        "type": "PLAY_ACTIVITY",
+                        "target": 900
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 3,
+                        "sku_id": "1425613673417801771",
+                        "asset": "1425614114516111400.mp4",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "The Final Peel Avatar Decoration",
+                            "name_with_article": "The Final Peel Avatar Decoration",
+                            "redemption_instructions_by_platform": {
+                                "0": "Default"
+                            }
+                        },
+                        "expires_at": "2025-12-20T01:00:00+00:00",
+                        "expires_at_premium": null,
+                        "expiration_mode": 1
+                    }
+                ],
+                "rewards_expire_at": "2025-11-20T00:00:51+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere"
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
+    },
+    {
+        "id": "1425291943302398073",
+        "config": {
+            "id": "1425291943302398073",
+            "config_version": 2,
+            "starts_at": "2025-10-14T17:00:19+00:00",
+            "expires_at": "2025-11-04T01:00:19+00:00",
+            "features": [
+                3,
+                9,
+                13,
+                14,
+                15,
+                16,
+                18,
+                19,
+                23
+            ],
+            "application": {
+                "link": "https://discord.com/shop",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "1425603474724491365.jpg",
+                "hero_video": "1425603509432352808.mp4",
+                "quest_bar_hero": "1425603322785824798.jpg",
+                "quest_bar_hero_video": "1425603372764893204.mp4",
+                "game_tile": "1425294157714559043.png",
+                "logotype": "1425294156519178250.png",
+                "game_tile_light": "1425294130531270777.png",
+                "game_tile_dark": "1425294130531270777.png",
+                "logotype_light": "1425293772782174231.png",
+                "logotype_dark": "1425293829841616917.png"
+            },
+            "colors": {
+                "primary": "#5865F2",
+                "secondary": "#19175C"
+            },
+            "messages": {
+                "quest_name": "Discord Halloween 2025",
+                "game_title": "Available in the Shop until 11/3",
+                "game_publisher": "Discord"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "event_name": "WATCH_VIDEO",
+                        "target": 22,
+                        "external_ids": []
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 22,
+                        "assets": {
+                            "video": {
+                                "url": "1425604040406077540_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "1425604258367279226.jpg",
+                                "caption": "1425604641902825482.vtt",
+                                "transcript": "1425604670277288056.txt"
+                            },
+                            "video_low_res": {
+                                "url": "1425604040406077540_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "1425604258367279226.jpg",
+                                "caption": "1425604641902825482.vtt",
+                                "transcript": "1425604670277288056.txt"
+                            },
+                            "video_hls": {
+                                "url": "1425604040406077540.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "1425604258367279226.jpg",
+                                "caption": "1425604641902825482.vtt",
+                                "transcript": "1425604670277288056.txt"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "Discord Halloween 2025 Quest",
+                            "video_end_cta_title": "Discord Halloween 2025 ",
+                            "video_end_cta_subtitle": "Discord Halloween 2025 Shop Drop",
+                            "video_end_cta_button_label": "Shop Now"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "200 Orbs",
+                            "name_with_article": "200 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "Default"
+                            }
+                        },
+                        "orb_quantity": 200
+                    }
+                ],
+                "rewards_expire_at": "2025-12-04T01:00:19+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "video_metadata": {
+                "messages": {
+                    "video_title": "Discord Halloween 2025 Quest",
+                    "video_end_cta_title": "Discord Halloween 2025 ",
+                    "video_end_cta_subtitle": "Discord Halloween 2025 Shop Drop",
+                    "video_end_cta_button_label": "Shop Now"
+                },
+                "assets": {
+                    "video_player_video_hls": "1425604040406077540.m3u8",
+                    "video_player_video": "1425604040406077540_1080.mp4",
+                    "video_player_thumbnail": "1425604258367279226.jpg",
+                    "video_player_video_low_res": "1425604040406077540_720.mp4",
+                    "video_player_caption": "1425604641902825482.vtt",
+                    "video_player_transcript": "1425604670277288056.txt",
+                    "quest_bar_preview_video": null,
+                    "quest_bar_preview_thumbnail": null,
+                    "quest_home_video": null
+                }
+            },
+            "share_policy": "shareable_everywhere"
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
+    },
+    {
+        "id": "1425609255569854464",
+        "config": {
+            "id": "1425609255569854464",
+            "config_version": 2,
+            "starts_at": "2025-10-14T17:00:13+00:00",
+            "expires_at": "2025-10-21T00:00:13+00:00",
+            "features": [
+                3,
+                9,
+                13,
+                14,
+                15,
+                16,
+                18,
+                19,
+                23
+            ],
+            "application": {
+                "link": "https://www.fortnite.com/",
+                "id": "1402418703554842694",
+                "name": "Fortnite"
+            },
+            "assets": {
+                "hero": "1425609862599147530.jpg",
+                "hero_video": null,
+                "quest_bar_hero": "1425609830286102660.jpg",
+                "quest_bar_hero_video": null,
+                "game_tile": "1425610175385047110.png",
+                "logotype": "1425610174156247140.png",
+                "game_tile_light": "1425609961702031421.png",
+                "game_tile_dark": "1425609961702031421.png",
+                "logotype_light": "1425609931645517834.png",
+                "logotype_dark": "1425609931645517834.png"
+            },
+            "colors": {
+                "primary": "#94381F",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Fortnitemares",
+                "game_title": "Fortnite",
+                "game_publisher": "Epic Games"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "event_name": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "external_ids": []
+                    },
+                    "PLAY_ON_XBOX": {
+                        "event_name": "PLAY_ON_XBOX",
+                        "target": 900,
+                        "external_ids": [
+                            "267695549"
+                        ]
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "event_name": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "external_ids": [
+                            "CUSA07022_00",
+                            "CUSA07669_00",
+                            "PPSA01922_00",
+                            "PPSA01923_00"
+                        ]
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1402418703554842694"
+                            }
+                        ]
+                    },
+                    "PLAY_ON_XBOX": {
+                        "type": "PLAY_ON_XBOX",
+                        "target": 900,
+                        "external_ids": [
+                            "267695549"
+                        ]
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "type": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "external_ids": [
+                            "CUSA07022_00",
+                            "CUSA07669_00",
+                            "PPSA01922_00",
+                            "PPSA01923_00"
+                        ]
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 3,
+                        "sku_id": "1425613673417801771",
+                        "asset": "1425614017472499752.mp4",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "The Final Peel Avatar Decoration",
+                            "name_with_article": "The Final Peel Avatar Decoration",
+                            "redemption_instructions_by_platform": {
+                                "0": "Default"
+                            }
+                        },
+                        "expires_at": "2025-12-20T01:00:00+00:00",
+                        "expires_at_premium": null,
+                        "expiration_mode": 1
+                    }
+                ],
+                "rewards_expire_at": "2025-11-20T00:00:13+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere"
+        }
     }
 ]
