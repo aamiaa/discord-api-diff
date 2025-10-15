@@ -25375,5 +25375,141 @@
             },
             "share_policy": "shareable_everywhere"
         }
+    },
+    {
+        "id": "1427758897501835264",
+        "config": {
+            "id": "1427758897501835264",
+            "config_version": 2,
+            "starts_at": "2025-10-15T17:00:07+00:00",
+            "expires_at": "2025-10-22T00:00:07+00:00",
+            "features": [
+                3,
+                9,
+                13,
+                14,
+                15,
+                16,
+                18,
+                19,
+                23
+            ],
+            "application": {
+                "link": "https://www.warframe.com/game/about",
+                "id": "1402418586244612216",
+                "name": "Warframe"
+            },
+            "assets": {
+                "hero": "1427761767655936130.jpg",
+                "hero_video": "1427761732113137848.mp4",
+                "quest_bar_hero": "1427761685912879324.jpg",
+                "quest_bar_hero_video": "1427761732113137848.mp4",
+                "game_tile": "1427761978222579762.png",
+                "logotype": "1427761977270341734.png",
+                "game_tile_light": "1427761953392300183.png",
+                "game_tile_dark": "1427761953392300183.png",
+                "logotype_light": "1427761870999126088.png",
+                "logotype_dark": "1427761870999126088.png"
+            },
+            "colors": {
+                "primary": "#136387",
+                "secondary": "#133644"
+            },
+            "messages": {
+                "quest_name": "Warframe",
+                "game_title": "Warframe",
+                "game_publisher": "Digital Extremes"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "event_name": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "external_ids": []
+                    },
+                    "PLAY_ON_XBOX": {
+                        "event_name": "PLAY_ON_XBOX",
+                        "target": 900,
+                        "external_ids": [
+                            "1482870140"
+                        ]
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "event_name": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "external_ids": [
+                            "PPSA02323_00",
+                            "CUSA00106_00",
+                            "CUSA00080_00",
+                            "PPSA01980_00",
+                            "PPSA01737_00"
+                        ]
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1402418586244612216"
+                            }
+                        ]
+                    },
+                    "PLAY_ON_XBOX": {
+                        "type": "PLAY_ON_XBOX",
+                        "target": 900,
+                        "external_ids": [
+                            "1482870140"
+                        ]
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "type": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "external_ids": [
+                            "PPSA02323_00",
+                            "CUSA00106_00",
+                            "CUSA00080_00",
+                            "PPSA01980_00",
+                            "PPSA01737_00"
+                        ]
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 3,
+                        "sku_id": "1427760915998314568",
+                        "asset": "1427761184358268979.mp4",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "Warframe Clem Avatar Decoration ",
+                            "name_with_article": "a Warframe Clem Avatar Decoration",
+                            "redemption_instructions_by_platform": {
+                                "0": "Default"
+                            }
+                        },
+                        "expires_at": "2025-12-22T01:00:00+00:00",
+                        "expires_at_premium": null,
+                        "expiration_mode": 3
+                    }
+                ],
+                "rewards_expire_at": "2025-11-21T00:00:07+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere"
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
     }
 ]
