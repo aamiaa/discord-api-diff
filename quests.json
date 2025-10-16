@@ -25511,5 +25511,340 @@
         "user_status": null,
         "targeted_content": [],
         "preview": false
+    },
+    {
+        "id": "1428083229587669155",
+        "config": {
+            "id": "1428083229587669155",
+            "config_version": 2,
+            "starts_at": "2025-10-16T17:00:54+00:00",
+            "expires_at": "2025-10-27T00:00:54+00:00",
+            "features": [
+                3,
+                9,
+                13,
+                14,
+                15,
+                16,
+                18,
+                19,
+                23
+            ],
+            "application": {
+                "link": "https://ninja.kiwi/discord_quest25",
+                "id": "1402418571715543120",
+                "name": "Bloons TD 6"
+            },
+            "assets": {
+                "hero": "1428084144910631032.jpg",
+                "hero_video": null,
+                "quest_bar_hero": "1428084112597455058.jpg",
+                "quest_bar_hero_video": null,
+                "game_tile": "1428084348778975253.png",
+                "logotype": "1428131823686254643.png",
+                "game_tile_light": "1428084224807932006.png",
+                "game_tile_dark": "1428084224807932006.png",
+                "logotype_light": "1428131792161996843.png",
+                "logotype_dark": "1428131792161996843.png"
+            },
+            "colors": {
+                "primary": "#D90000",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Bloons TD 6 Dart Monkey",
+                "game_title": "Bloons TD 6",
+                "game_publisher": "Ninja Kiwi"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "event_name": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "external_ids": []
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1402418571715543120"
+                            }
+                        ]
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 3,
+                        "sku_id": "1428085489285599233",
+                        "asset": "1428085593845399682.mp4",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "Dart Monkey Avatar Decoration",
+                            "name_with_article": "a Dart Monkey Avatar Decoration",
+                            "redemption_instructions_by_platform": {
+                                "0": "Default"
+                            }
+                        },
+                        "expires_at": "2025-12-26T01:00:00+00:00",
+                        "expires_at_premium": null,
+                        "expiration_mode": 3
+                    }
+                ],
+                "rewards_expire_at": "2025-11-26T00:00:54+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere"
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
+    },
+    {
+        "id": "1421275302923079721",
+        "config": {
+            "id": "1421275302923079721",
+            "config_version": 2,
+            "starts_at": "2025-10-16T16:00:38+00:00",
+            "expires_at": "2025-10-23T00:00:38+00:00",
+            "features": [
+                3,
+                9,
+                13,
+                14,
+                15,
+                16,
+                18,
+                19,
+                23
+            ],
+            "application": {
+                "link": "https://store.steampowered.com/app/2183900/Warhammer_40000_Space_Marine_2/?utm_source=Discord&utm_medium=Quest&utm_campaign=SM2_FreeDemo",
+                "id": "1281297844858257418",
+                "name": "Warhammer 40,000: Space Marine 2"
+            },
+            "assets": {
+                "hero": "1422689948821360700.jpg",
+                "hero_video": "1422690017020612708.mp4",
+                "quest_bar_hero": "1422689979569537034.jpg",
+                "quest_bar_hero_video": "1422690017020612708.mp4",
+                "game_tile": "1422690209920978984.png",
+                "logotype": "1422690208821805096.png",
+                "game_tile_light": "1422690149459824812.png",
+                "game_tile_dark": "1422690149459824812.png",
+                "logotype_light": "1422690105621090414.png",
+                "logotype_dark": "1422690105621090414.png"
+            },
+            "colors": {
+                "primary": "#C8960A",
+                "secondary": "#F5C538"
+            },
+            "messages": {
+                "quest_name": "Space Marine 2 Free Demo",
+                "game_title": "Warhammer 40,000: Space Marine 2",
+                "game_publisher": "Focus Entertainment Publishing"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "event_name": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "external_ids": []
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1281297844858257418"
+                            }
+                        ]
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 1,
+                        "sku_id": "1421275302923079722",
+                        "asset": "1422689393537191946.png",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "Porphyr Shield Skin",
+                            "name_with_article": "a Porphyr Shield Skin",
+                            "redemption_instructions_by_platform": {
+                                "0": "How To Use Redeem Codes:  \n1. Once you have a Redeem Code, head over to https://tinyurl.com/yzavuyet, sign up or create an account to redeem it!   \n2. To proceed, you will need to go to your account, redeem your reward and copy/paste your Redeem Code.  \n3. Once your code is successfully redeemed, the reward will be available in the full game once your link your PROS account in-game by scanning the QR Code.  \n\n**Please note, the Redeem Code is valid from Coordinated Universal Time (UTC): October 16, 2025, 9:00:00 AM to October 23, 2025, 8:59:59 AM.** "
+                            }
+                        },
+                        "approximate_count": null,
+                        "redemption_link": null
+                    }
+                ],
+                "rewards_expire_at": "2025-11-22T00:00:38+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere"
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
+    },
+    {
+        "id": "1423051598787121242",
+        "config": {
+            "id": "1423051598787121242",
+            "config_version": 2,
+            "starts_at": "2025-10-16T17:00:00+00:00",
+            "expires_at": "2025-10-23T00:00:00+00:00",
+            "features": [
+                3,
+                9,
+                13,
+                14,
+                15,
+                16,
+                18,
+                19,
+                23
+            ],
+            "application": {
+                "link": "https://wotblitz.onelink.me/2519112535/discord",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "1423052123876233216.jpg",
+                "hero_video": "1423052384677924965.mp4",
+                "quest_bar_hero": "1423052151764287648.jpg",
+                "quest_bar_hero_video": "1423052384677924965.mp4",
+                "game_tile": "1423052800589303930.png",
+                "logotype": "1425895975423053834.png",
+                "game_tile_light": "1423052707748380672.png",
+                "game_tile_dark": "1423052707748380672.png",
+                "logotype_light": "1425895865578422383.png",
+                "logotype_dark": "1425895865578422383.png"
+            },
+            "colors": {
+                "primary": "#10213A",
+                "secondary": "#8A8476"
+            },
+            "messages": {
+                "quest_name": "World of Tanks Blitz x TWD",
+                "game_title": "World of Tanks Blitz",
+                "game_publisher": "Wargaming"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "event_name": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 47,
+                        "external_ids": []
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 47,
+                        "assets": {
+                            "video": {
+                                "url": "1423061196344659979_1080.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "1423053538946322432.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "1423061196344659979_720.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "1423053538946322432.jpg"
+                            },
+                            "video_hls": {
+                                "url": "1423061196344659979.m3u8",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "1423053538946322432.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "World of Tanks Blitz x The Walking Dead",
+                            "video_end_cta_title": "Play World of Tanks Blitz Now",
+                            "video_end_cta_subtitle": "Available on iOS and Android",
+                            "video_end_cta_button_label": "Play Now"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 1,
+                        "sku_id": "1423051598787121243",
+                        "asset": "1423055305645883535.png",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "T14 Tank & Spider Camo Bundle",
+                            "name_with_article": "a T14 Tank & Spider Camo Bundle",
+                            "redemption_instructions_by_platform": {
+                                "0": "1. Log in with your Wargaming ID on the official Wargaming website.  \n2. Go to Activate Wargaming Code.   \n3. Input the code and press REDEEM   \n4. Your code has been activated  \n"
+                            }
+                        },
+                        "approximate_count": null,
+                        "redemption_link": null
+                    }
+                ],
+                "rewards_expire_at": "2025-11-22T00:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "video_metadata": {
+                "messages": {
+                    "video_title": "World of Tanks Blitz x The Walking Dead",
+                    "video_end_cta_title": "Play World of Tanks Blitz Now",
+                    "video_end_cta_subtitle": "Available on iOS and Android",
+                    "video_end_cta_button_label": "Play Now"
+                },
+                "assets": {
+                    "video_player_video_hls": "1423061196344659979.m3u8",
+                    "video_player_video": "1423061196344659979_1080.mp4",
+                    "video_player_thumbnail": "1423053538946322432.jpg",
+                    "video_player_video_low_res": "1423061196344659979_720.mp4",
+                    "video_player_caption": null,
+                    "video_player_transcript": null,
+                    "quest_bar_preview_video": null,
+                    "quest_bar_preview_thumbnail": null,
+                    "quest_home_video": null
+                }
+            },
+            "share_policy": "shareable_everywhere"
+        }
     }
 ]
