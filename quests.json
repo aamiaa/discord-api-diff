@@ -26859,5 +26859,334 @@
             },
             "share_policy": "shareable_everywhere"
         }
+    },
+    {
+        "id": "1428862922020618290",
+        "config": {
+            "id": "1428862922020618290",
+            "config_version": 2,
+            "starts_at": "2025-10-20T17:00:07+00:00",
+            "expires_at": "2025-10-27T00:00:07+00:00",
+            "features": [
+                3,
+                9,
+                13,
+                14,
+                15,
+                16,
+                18,
+                19,
+                23
+            ],
+            "application": {
+                "link": "https://www.hbomax.com/coming-soon/it-welcome-to-derry",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "1428863432681197702.jpg",
+                "hero_video": "1428863332739448853.mp4",
+                "quest_bar_hero": "1428863361860370503.jpg",
+                "quest_bar_hero_video": "1428863332739448853.mp4",
+                "game_tile": "1428863531922493570.png",
+                "logotype": "1428863530886627420.png",
+                "game_tile_light": "1428863486531993690.png",
+                "game_tile_dark": "1428863486531993690.png",
+                "logotype_light": "1428863462108561601.png",
+                "logotype_dark": "1428863462108561601.png"
+            },
+            "colors": {
+                "primary": "#AD0518",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "It: Welcome to Derry",
+                "game_title": "October 26 at 9pm on HBO Max",
+                "game_publisher": "HBO Max"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "event_name": "WATCH_VIDEO",
+                        "target": 29,
+                        "external_ids": []
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "event_name": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 29,
+                        "external_ids": []
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 29,
+                        "assets": {
+                            "video": {
+                                "url": "1429878356916047912_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "1428863976040693830.jpg",
+                                "caption": "1428866529587363890.vtt",
+                                "transcript": "1428866509673074718.txt"
+                            },
+                            "video_low_res": {
+                                "url": "1429878356916047912_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "1428863976040693830.jpg",
+                                "caption": "1428866529587363890.vtt",
+                                "transcript": "1428866509673074718.txt"
+                            },
+                            "video_hls": {
+                                "url": "1429878356916047912.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "1428863976040693830.jpg",
+                                "caption": "1428866529587363890.vtt",
+                                "transcript": "1428866509673074718.txt"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "It: Welcome to Derry Trailer",
+                            "video_end_cta_title": "It: Welcome to Derry",
+                            "video_end_cta_subtitle": "Premieres October 26 at 9pm on HBO Max",
+                            "video_end_cta_button_label": "Learn More"
+                        }
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 29,
+                        "assets": {
+                            "video": {
+                                "url": "1428863781722783955_1080.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "1428863976040693830.jpg",
+                                "caption": "1428866529587363890.vtt",
+                                "transcript": "1428866558242848909.txt"
+                            },
+                            "video_low_res": {
+                                "url": "1428863781722783955_720.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "1428863976040693830.jpg",
+                                "caption": "1428866529587363890.vtt",
+                                "transcript": "1428866558242848909.txt"
+                            },
+                            "video_hls": {
+                                "url": "1428863781722783955.m3u8",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "1428863976040693830.jpg",
+                                "caption": "1428866529587363890.vtt",
+                                "transcript": "1428866558242848909.txt"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "It: Welcome to Derry Trailer",
+                            "video_end_cta_title": "It: Welcome to Derry",
+                            "video_end_cta_subtitle": "Premieres October 26 at 9pm on HBO Max",
+                            "video_end_cta_button_label": "Learn More"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 3,
+                        "sku_id": "1428865186185609337",
+                        "asset": "1428865582022791368.mp4",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "It: Welcome to Derry Avatar Decoration",
+                            "name_with_article": "an It: Welcome to Derry Avatar Decoration",
+                            "redemption_instructions_by_platform": {
+                                "0": "Default"
+                            }
+                        },
+                        "expires_at": "2025-12-26T01:00:00+00:00",
+                        "expires_at_premium": null,
+                        "expiration_mode": 3
+                    }
+                ],
+                "rewards_expire_at": "2025-11-26T00:00:07+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "video_metadata": {
+                "messages": {
+                    "video_title": "It: Welcome to Derry Trailer",
+                    "video_end_cta_title": "It: Welcome to Derry",
+                    "video_end_cta_subtitle": "Premieres October 26 at 9pm on HBO Max",
+                    "video_end_cta_button_label": "Learn More"
+                },
+                "assets": {
+                    "video_player_video_hls": "1429878356916047912.m3u8",
+                    "video_player_video": "1429878356916047912_1080.mp4",
+                    "video_player_thumbnail": "1428863976040693830.jpg",
+                    "video_player_video_low_res": "1429878356916047912_720.mp4",
+                    "video_player_caption": "1428866529587363890.vtt",
+                    "video_player_transcript": "1428866509673074718.txt",
+                    "quest_bar_preview_video": null,
+                    "quest_bar_preview_thumbnail": null,
+                    "quest_home_video": null
+                }
+            },
+            "share_policy": "shareable_everywhere"
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
+    },
+    {
+        "id": "1427829905323724922",
+        "config": {
+            "id": "1427829905323724922",
+            "config_version": 2,
+            "starts_at": "2025-10-20T17:00:17+00:00",
+            "expires_at": "2025-11-01T00:00:17+00:00",
+            "features": [
+                3,
+                9,
+                13,
+                14,
+                15,
+                16,
+                18,
+                19,
+                23
+            ],
+            "application": {
+                "link": "https://bugoniafilm.com/",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "1428061707699228683.jpg",
+                "hero_video": "1428061788053962903.mp4",
+                "quest_bar_hero": "1427830635145461771.jpg",
+                "quest_bar_hero_video": "1428061788053962903.mp4",
+                "game_tile": "1427831568386228257.png",
+                "logotype": "1428062071848960152.png",
+                "game_tile_light": "1427831095772315720.png",
+                "game_tile_dark": "1427831095772315720.png",
+                "logotype_light": "1428061918525919392.png",
+                "logotype_dark": "1428061983156207656.png"
+            },
+            "colors": {
+                "primary": "#6C231F",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Bugonia",
+                "game_title": "In Theaters Everywhere October 31",
+                "game_publisher": "Focus Features"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "event_name": "WATCH_VIDEO",
+                        "target": 114,
+                        "external_ids": []
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 114,
+                        "assets": {
+                            "video": {
+                                "url": "1428062182855151716_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "1428062369241759837.png",
+                                "caption": "1428062422501032248.vtt",
+                                "transcript": "1428062469644882060.txt"
+                            },
+                            "video_low_res": {
+                                "url": "1428062182855151716_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "1428062369241759837.png",
+                                "caption": "1428062422501032248.vtt",
+                                "transcript": "1428062469644882060.txt"
+                            },
+                            "video_hls": {
+                                "url": "1428062182855151716.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "1428062369241759837.png",
+                                "caption": "1428062422501032248.vtt",
+                                "transcript": "1428062469644882060.txt"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "Bugonia Trailer",
+                            "video_end_cta_title": "Get Tickets",
+                            "video_end_cta_subtitle": "Bugonia is in Theaters Everywhere October 31",
+                            "video_end_cta_button_label": "Get Tickets"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 Orbs",
+                            "name_with_article": "700 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "Default"
+                            }
+                        },
+                        "orb_quantity": 700
+                    }
+                ],
+                "rewards_expire_at": "2025-12-01T00:00:17+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "video_metadata": {
+                "messages": {
+                    "video_title": "Bugonia Trailer",
+                    "video_end_cta_title": "Get Tickets",
+                    "video_end_cta_subtitle": "Bugonia is in Theaters Everywhere October 31",
+                    "video_end_cta_button_label": "Get Tickets"
+                },
+                "assets": {
+                    "video_player_video_hls": "1428062182855151716.m3u8",
+                    "video_player_video": "1428062182855151716_1080.mp4",
+                    "video_player_thumbnail": "1428062369241759837.png",
+                    "video_player_video_low_res": "1428062182855151716_720.mp4",
+                    "video_player_caption": "1428062422501032248.vtt",
+                    "video_player_transcript": "1428062469644882060.txt",
+                    "quest_bar_preview_video": null,
+                    "quest_bar_preview_thumbnail": null,
+                    "quest_home_video": null
+                }
+            },
+            "share_policy": "shareable_everywhere"
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
     }
 ]
