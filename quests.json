@@ -251,36 +251,62 @@
     {
         "id": "1235258834524700703",
         "config": {
-            "id": "1235258834524700703",
-            "starts_at": "2024-05-14T17:00:00+00:00",
+            "quest_id": "1235258834524700703",
+            "config_version": 1,
             "expires_at": "2024-05-28T23:59:59+00:00",
-            "features": [],
+            "stream_duration_requirement_minutes": 15,
+            "messages": {
+                "quest_name": "Erangel Classic",
+                "reward_name": "OG is Back Pack",
+                "reward_name_with_article": "the OG is Back Pack",
+                "reward_redemption_instructions_by_platform": {
+                    "4": "Redeem the code below on PUBG's in-game redemption page to claim the OG is Back Pack"
+                },
+                "game_title": "PUBG: BATTLEGROUNDS",
+                "game_publisher": "Krafton"
+            },
+            "application_id": "356873622985506820",
+            "application_name": "PLAYERUNKNOWN'S BATTLEGROUNDS",
+            "get_game_link": "https://pubg.com",
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "sku_id": "1235698926619852831",
+                        "tag": 1,
+                        "messages": {
+                            "name": "OG is Back Pack",
+                            "name_with_article": "the OG is Back Pack",
+                            "redemption_instructions_by_platform": {
+                                "4": "Redeem the code below on PUBG's in-game redemption page to claim the OG is Back Pack"
+                            }
+                        },
+                        "asset": "reward.png",
+                        "approximate_count": 1000000
+                    }
+                ]
+            },
+            "reward_code_platforms": [
+                4
+            ],
+            "reward_code_expires_at": "2024-06-27T23:59:59+00:00",
             "colors": {
                 "primary": "#996D08",
                 "secondary": "#1A1A1A"
             },
             "assets": {
+                "reward_tile": "reward.png",
                 "hero": "hero.png",
-                "hero_video": null,
                 "quest_bar_hero": "quests_bar_hero.png",
-                "quest_bar_hero_video": null,
                 "game_tile": "game_tile_3.png",
                 "logotype": "game_logotype_2.png"
             },
-            "messages": {
-                "quest_name": "Erangel Classic",
-                "game_title": "PUBG: BATTLEGROUNDS",
-                "game_publisher": "Krafton"
-            },
-            "rewards": [
-                {
-                    "sku_id": "1235698926619852831",
-                    "type": 1,
-                    "name": "OG is Back Pack",
-                    "name_with_article": "the OG is Back Pack",
-                    "asset": "reward.png",
-                    "asset_video": null
-                }
+            "in_game_quest_config": null,
+            "variants": [
+                2
+            ],
+            "supplementary_application_ids": [
+                "530196305138417685"
             ]
         }
     },
@@ -288,36 +314,75 @@
         "id": "1241062724922769408",
         "config": {
             "id": "1241062724922769408",
+            "config_version": 2,
             "starts_at": "2024-06-04T17:00:00+00:00",
             "expires_at": "2024-06-18T23:59:59+00:00",
-            "features": [],
-            "colors": {
-                "primary": "#569C2D",
-                "secondary": "#92456E"
+            "features": [
+                2
+            ],
+            "experiments": {
+                "rollout": "2024-05_quests_call_of_duty_quest",
+                "targeting": "2024-05_quests_call_of_duty_quest_targeting",
+                "preview": "2024-05_quests_call_of_duty_quest_preview"
+            },
+            "application": {
+                "link": "https://www.callofduty.com/modernwarfare3",
+                "id": "1149118246826561609",
+                "name": "Call of Duty"
             },
             "assets": {
                 "hero": "hero.jpg",
-                "hero_video": null,
                 "quest_bar_hero": "quests_bar_hero.jpg",
-                "quest_bar_hero_video": null,
                 "game_tile": "game_tile.jpg",
-                "logotype": "game_logotype_cropped.png"
+                "logotype": "game_logotype.png"
+            },
+            "colors": {
+                "primary": "#569C2D",
+                "secondary": "#92456E"
             },
             "messages": {
                 "quest_name": "Modern Warfare III",
                 "game_title": "Call of Duty: Modern Warfare III",
                 "game_publisher": "Activision"
             },
-            "rewards": [
-                {
-                    "sku_id": "1242897182294540368",
-                    "type": 1,
-                    "name": "Exclusive Blueprint",
-                    "name_with_article": "an Exclusive Blueprint",
-                    "asset": "reward.jpg",
-                    "asset_video": null
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "STREAM_ON_DESKTOP": {
+                        "event_name": "STREAM_ON_DESKTOP",
+                        "target": 900,
+                        "external_ids": []
+                    },
+                    "PLAY_ON_DESKTOP": {
+                        "event_name": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "external_ids": []
+                    }
                 }
-            ]
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 1,
+                        "sku_id": "1242897182294540368",
+                        "asset": "reward.jpg",
+                        "messages": {
+                            "name": "Exclusive Blueprint",
+                            "name_with_article": "an Exclusive Blueprint",
+                            "redemption_instructions_by_platform": {
+                                "0": "Redeem your code at [callofduty.com/redeem](https://callofduty.com/redeem?utm_source=discord&utm_medium=quest&utm_campaign=brand).\n\nItem included: Game Is Love - MCW 6.8 Marksman Rifle Weapon Blueprint"
+                            }
+                        },
+                        "approximate_count": null
+                    }
+                ],
+                "rewards_expire_at": "2024-07-18T23:59:59+00:00",
+                "platforms": [
+                    0
+                ]
+            }
         }
     },
     {
@@ -630,77 +695,141 @@
         "id": "1270822177289142464",
         "config": {
             "id": "1270822177289142464",
+            "config_version": 2,
             "starts_at": "2024-08-23T15:00:00+00:00",
             "expires_at": "2024-08-30T23:59:59+00:00",
             "features": [
                 3
             ],
-            "colors": {
-                "primary": "#947113",
-                "secondary": "#000000"
+            "experiments": {
+                "rollout": "2024-06_quests_skull_and_bones_quest",
+                "targeting": "2024-06_quests_skull_and_bones_quest_targeting",
+                "preview": "2024-06_quests_skull_and_bones_quest_preview"
+            },
+            "application": {
+                "link": "https://ubi.li/AkBKx",
+                "id": "1270832378310557788",
+                "name": "Skull and Bones"
             },
             "assets": {
                 "hero": "hero.jpg",
-                "hero_video": null,
                 "quest_bar_hero": "quest_bar_hero.jpg",
-                "quest_bar_hero_video": null,
                 "game_tile": "game_tile.png",
-                "logotype": "game_logotype_cropped.png"
+                "logotype": "game_logotype.png"
+            },
+            "colors": {
+                "primary": "#947113",
+                "secondary": "#000000"
             },
             "messages": {
                 "quest_name": "Skull and Bones",
                 "game_title": "Skull and Bones (Free Trial Available)",
                 "game_publisher": "Ubisoft"
             },
-            "rewards": [
-                {
-                    "sku_id": "1270822177289142465",
-                    "type": 1,
-                    "name": "Brazen Firework",
-                    "name_with_article": "the Brazen Firework",
-                    "asset": "reward.jpg",
-                    "asset_video": null
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "event_name": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "external_ids": []
+                    }
                 }
-            ]
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 1,
+                        "sku_id": "1270822177289142465",
+                        "asset": "reward.jpg",
+                        "messages": {
+                            "name": "Brazen Firework",
+                            "name_with_article": "the Brazen Firework",
+                            "redemption_instructions_by_platform": {
+                                "0": "Redeem the code below on Skull and Bones’ redemption page to get access to your reward: https://redeem.ubisoft.com/skull-and-bones"
+                            }
+                        },
+                        "approximate_count": null
+                    }
+                ],
+                "rewards_expire_at": "2024-09-29T23:59:59+00:00",
+                "platforms": [
+                    0
+                ]
+            }
         }
     },
     {
         "id": "1271118866113892352",
         "config": {
             "id": "1271118866113892352",
+            "config_version": 2,
             "starts_at": "2024-08-23T15:00:00+00:00",
             "expires_at": "2024-09-08T23:59:59+00:00",
             "features": [
                 9,
                 3
             ],
-            "colors": {
-                "primary": "#271E70",
-                "secondary": "#06020E"
+            "experiments": {
+                "rollout": "2024-08_quests_wow_quest",
+                "targeting": "2024-08_quests_wow_quest_targeting",
+                "preview": "2024-08_quests_wow_quest_preview"
+            },
+            "application": {
+                "link": "https://shop.battle.net/product/world-of-warcraft-the-war-within?utm_source=Discord&utm_medium=Paid&utm_campaign=BLZ_TWW",
+                "id": "356875762940379136",
+                "name": "World of Warcraft"
             },
             "assets": {
                 "hero": "hero.jpg",
-                "hero_video": null,
                 "quest_bar_hero": "quest_bar_hero.jpg",
-                "quest_bar_hero_video": null,
                 "game_tile": "game_tile.png",
                 "logotype": "game_logotype.png"
+            },
+            "colors": {
+                "primary": "#271E70",
+                "secondary": "#06020E"
             },
             "messages": {
                 "quest_name": "WoW: The War Within",
                 "game_title": "World of Warcraft: The War Within",
                 "game_publisher": "Blizzard Entertainment"
             },
-            "rewards": [
-                {
-                    "sku_id": "1272962830705889413",
-                    "type": 1,
-                    "name": "Parrlok Pet",
-                    "name_with_article": "a Parrlok Pet",
-                    "asset": "reward.jpg",
-                    "asset_video": null
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "STREAM_ON_DESKTOP": {
+                        "event_name": "STREAM_ON_DESKTOP",
+                        "target": 900,
+                        "external_ids": []
+                    }
                 }
-            ]
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 1,
+                        "sku_id": "1272962830705889413",
+                        "asset": "reward.jpg",
+                        "messages": {
+                            "name": "Parrlok Pet",
+                            "name_with_article": "a Parrlok Pet",
+                            "redemption_instructions_by_platform": {
+                                "0": "1. Login to the Battle.net Desktop App\n\n2. Click your profile icon at the top right corner of the App\n\n3. Click Redeem Code"
+                            }
+                        },
+                        "approximate_count": null
+                    }
+                ],
+                "rewards_expire_at": "2024-10-08T23:59:59+00:00",
+                "platforms": [
+                    0
+                ]
+            }
         }
     },
     {
