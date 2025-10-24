@@ -205,47 +205,75 @@
     {
         "id": "1232852290197655573",
         "config": {
-            "id": "1232852290197655573",
+            "quest_id": "1232852290197655573",
+            "config_version": 1,
             "starts_at": "2024-05-08T17:00:00+00:00",
             "expires_at": "2024-05-21T23:59:59+00:00",
-            "features": [
-                1
+            "stream_duration_requirement_minutes": 15,
+            "messages": {
+                "quest_name": "V2.2",
+                "reward_name": "V2.2 Bundle",
+                "reward_name_with_article": "the V2.2 Bundle",
+                "reward_redemption_instructions_by_platform": {
+                    "0": "Redemption Code Content: Stellar Jade ×30, Credit ×20,000, Lost Gold Fragment ×4, Condensed Aether ×5, Traveler's Guide ×3. The Stellar Jade rewards are limited to 300,000 and will be available exclusively to the first 300,000 Trailblazers who successfully complete the Quest. To redeem your rewards, please visit the official website of Honkai: Star Rail through the [Redemption Page](https://hsr.hoyoverse.com/gift). Once there, log in to your account, select the correct server, enter the redemption code, and click the \"Redeem\" button. Once the redemption is successful, the rewards will be sent to you via in-game mail. Remember to log in to the game to claim them. The redemption code will expire on 2024/06/06 0:00:00 (UTC+8). We highly recommend redeeming it as soon as possible. The Terms of Service and Privacy Policy of Discord, as well as the Terms of Service and Privacy Policy of HoYoverse Account, are applicable to this event. You should fully understand and abide by the aforementioned agreements before engaging in the event."
+                },
+                "game_title": "Honkai Star Rail",
+                "game_publisher": "HoYoverse"
+            },
+            "application_id": "1121201675240210523",
+            "application_name": "Honkai Star Rail",
+            "get_game_link": "https://hsr.hoyoverse.com/?utm_source=sns&utm_medium=discord",
+            "rewards_config": {
+                "assignment_method": 2,
+                "rewards": [
+                    {
+                        "sku_id": "1232851245103054848",
+                        "tag": 1,
+                        "messages": {
+                            "name": "V2.2 Bundle + Stellar Jade x30",
+                            "name_with_article": "the V2.2 Bundle + Stellar Jade x30",
+                            "redemption_instructions_by_platform": {
+                                "0": "Redemption Code Content: Stellar Jade ×30, Credit ×20,000, Lost Gold Fragment ×4, Condensed Aether ×5, Traveler's Guide ×3. The Stellar Jade rewards are limited to 300,000 and will be available exclusively to the first 300,000 Trailblazers who successfully complete the Quest. To redeem your rewards, please visit the official website of Honkai: Star Rail through the [Redemption Page](https://hsr.hoyoverse.com/gift). Once there, log in to your account, select the correct server, enter the redemption code, and click the \"Redeem\" button. Once the redemption is successful, the rewards will be sent to you via in-game mail. Remember to log in to the game to claim them. The redemption code will expire on 2024/06/06 0:00:00 (UTC+8). We highly recommend redeeming it as soon as possible. The Terms of Service and Privacy Policy of Discord, as well as the Terms of Service and Privacy Policy of HoYoverse Account, are applicable to this event. You should fully understand and abide by the aforementioned agreements before engaging in the event."
+                            }
+                        },
+                        "asset": "reward.jpg",
+                        "approximate_count": 300000
+                    },
+                    {
+                        "sku_id": "1232851302426345532",
+                        "tag": 1,
+                        "messages": {
+                            "name": "V2.2 Bundle",
+                            "name_with_article": "the V2.2 Bundle",
+                            "redemption_instructions_by_platform": {
+                                "0": "Redemption Code Content: Stellar Jade ×30, Credit ×20,000, Lost Gold Fragment ×4, Condensed Aether ×5, Traveler's Guide ×3. The Stellar Jade rewards are limited to 300,000 and will be available exclusively to the first 300,000 Trailblazers who successfully complete the Quest. To redeem your rewards, please visit the official website of Honkai: Star Rail through the [Redemption Page](https://hsr.hoyoverse.com/gift). Once there, log in to your account, select the correct server, enter the redemption code, and click the \"Redeem\" button. Once the redemption is successful, the rewards will be sent to you via in-game mail. Remember to log in to the game to claim them. The redemption code will expire on 2024/06/06 0:00:00 (UTC+8). We highly recommend redeeming it as soon as possible. The Terms of Service and Privacy Policy of Discord, as well as the Terms of Service and Privacy Policy of HoYoverse Account, are applicable to this event. You should fully understand and abide by the aforementioned agreements before engaging in the event."
+                            }
+                        },
+                        "asset": "reward.jpg",
+                        "approximate_count": null
+                    }
+                ]
+            },
+            "reward_code_platforms": [
+                0
             ],
+            "reward_code_expires_at": "2024-06-05T16:00:00+00:00",
             "colors": {
                 "primary": "#5D4EBC",
                 "secondary": "#7C3DB1"
             },
             "assets": {
+                "reward_tile": "reward.jpg",
                 "hero": "hero.jpg",
-                "hero_video": null,
                 "quest_bar_hero": "quests_bar_hero.jpg",
-                "quest_bar_hero_video": null,
                 "game_tile": "game_tile.png",
                 "logotype": "game_logotype.png"
             },
-            "messages": {
-                "quest_name": "V2.2",
-                "game_title": "Honkai Star Rail",
-                "game_publisher": "HoYoverse"
-            },
-            "rewards": [
-                {
-                    "sku_id": "1232851245103054848",
-                    "type": 1,
-                    "name": "V2.2 Bundle + Stellar Jade x30",
-                    "name_with_article": "the V2.2 Bundle + Stellar Jade x30",
-                    "asset": "reward.jpg",
-                    "asset_video": null
-                },
-                {
-                    "sku_id": "1232851302426345532",
-                    "type": 1,
-                    "name": "V2.2 Bundle",
-                    "name_with_article": "the V2.2 Bundle",
-                    "asset": "reward.jpg",
-                    "asset_video": null
-                }
-            ]
+            "in_game_quest_config": null,
+            "variants": [
+                1
+            ],
+            "supplementary_application_ids": []
         }
     },
     {
@@ -253,6 +281,7 @@
         "config": {
             "quest_id": "1235258834524700703",
             "config_version": 1,
+            "starts_at": "2024-05-14T17:00:00+00:00",
             "expires_at": "2024-05-28T23:59:59+00:00",
             "stream_duration_requirement_minutes": 15,
             "messages": {
@@ -389,110 +418,236 @@
         "id": "1245082221874774016",
         "config": {
             "id": "1245082221874774016",
+            "config_version": 2,
             "starts_at": "2024-06-26T17:00:00+00:00",
             "expires_at": "2024-07-09T23:59:59+00:00",
-            "features": [],
-            "colors": {
-                "primary": "#153DBE",
-                "secondary": "#0A1364"
+            "features": [
+                6
+            ],
+            "experiments": {
+                "rollout": "2024-05_quests_in_house_console_quest",
+                "targeting": "2024-05_quests_in_house_console_quest_targeting",
+                "preview": "2024-05_quests_in_house_console_quest_preview"
+            },
+            "application": {
+                "link": "https://discord.com/",
+                "id": "545364944258990091",
+                "name": "Discord"
             },
             "assets": {
                 "hero": "in_house_hero.png",
-                "hero_video": null,
                 "quest_bar_hero": "in_house_quests_bar_hero.png",
-                "quest_bar_hero_video": null,
                 "game_tile": "game_tile.png",
                 "logotype": "game_logotype.png"
+            },
+            "colors": {
+                "primary": "#153DBE",
+                "secondary": "#0A1364"
             },
             "messages": {
                 "quest_name": "Console Gaming",
                 "game_title": "Discord",
                 "game_publisher": "Riot Games"
             },
-            "rewards": [
-                {
-                    "sku_id": "1251324401459265537",
-                    "type": 3,
-                    "name": "Warp Helmet Avatar Decoration",
-                    "name_with_article": "a Warp Helmet Avatar Decoration",
-                    "asset": "reward.webm",
-                    "asset_video": null
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "PLAY_ON_XBOX": {
+                        "event_name": "PLAY_ON_XBOX",
+                        "target": 600,
+                        "external_ids": [
+                            "*"
+                        ]
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "event_name": "PLAY_ON_PLAYSTATION",
+                        "target": 600,
+                        "external_ids": [
+                            "*"
+                        ]
+                    }
                 }
-            ]
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 3,
+                        "sku_id": "1251324401459265537",
+                        "asset": "reward.webm",
+                        "messages": {
+                            "name": "Warp Helmet Avatar Decoration",
+                            "name_with_article": "a Warp Helmet Avatar Decoration",
+                            "redemption_instructions_by_platform": {
+                                "0": "Warm up the sticks--VALORANT is headed to PlayStation 5 and Xbox Series X|S. Sign up now for a chance to join the free Limited Beta.\n\n[Visit VALORANT Console Limited Beta Site](https://beta.playvalorant.com/en-us/)"
+                            }
+                        },
+                        "expires_at": "2024-09-09T23:59:59+00:00"
+                    }
+                ],
+                "rewards_expire_at": "2024-09-09T23:59:59+00:00",
+                "platforms": [
+                    0
+                ]
+            }
         }
     },
     {
         "id": "1247320622933999616",
         "config": {
             "id": "1247320622933999616",
+            "config_version": 2,
             "starts_at": "2024-07-26T17:00:00+00:00",
             "expires_at": "2024-08-06T23:59:59+00:00",
-            "features": [],
-            "colors": {
-                "primary": "#FF4655",
-                "secondary": "#992A33"
+            "features": [
+                7
+            ],
+            "experiments": {
+                "rollout": "2024-06_quests_valorant_quest",
+                "targeting": "2024-06_quests_valorant_quest_targeting",
+                "preview": "2024-06_quests_valorant_quest_preview"
+            },
+            "application": {
+                "link": "https://playvalorant.com/?utm_source=discord&utm_medium=quest_game_link&utm_campaign=valorant_quest_2024",
+                "id": "700136079562375258",
+                "name": "VALORANT"
             },
             "assets": {
                 "hero": "valorant_quest_card_hero.png",
-                "hero_video": null,
                 "quest_bar_hero": "valorant_quest_bar_hero.png",
-                "quest_bar_hero_video": null,
                 "game_tile": "valorant_game_tile.png",
                 "logotype": "game_logotype.png"
+            },
+            "colors": {
+                "primary": "#FF4655",
+                "secondary": "#992A33"
             },
             "messages": {
                 "quest_name": "Wingman",
                 "game_title": "VALORANT",
                 "game_publisher": "Riot Games"
             },
-            "rewards": [
-                {
-                    "sku_id": "1262473048876122112",
-                    "type": 3,
-                    "name": "Wingman Boba Avatar Decoration",
-                    "name_with_article": "a Wingman Boba Avatar Decoration",
-                    "asset": "reward-2.mp4",
-                    "asset_video": null
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "PLAY_ON_XBOX": {
+                        "event_name": "PLAY_ON_XBOX",
+                        "target": 900,
+                        "external_ids": [
+                            "2139646219"
+                        ]
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "event_name": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "external_ids": [
+                            "PPSA20711_00",
+                            "PPSA20676_00"
+                        ]
+                    },
+                    "PLAY_ON_DESKTOP": {
+                        "event_name": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "external_ids": []
+                    }
                 }
-            ]
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 3,
+                        "sku_id": "1262473048876122112",
+                        "asset": "reward-2.mp4",
+                        "messages": {
+                            "name": "Wingman Boba Avatar Decoration",
+                            "name_with_article": "a Wingman Boba Avatar Decoration",
+                            "redemption_instructions_by_platform": {
+                                "0": "Placeholder copy!"
+                            }
+                        },
+                        "expires_at": "2024-10-06T23:59:59+00:00"
+                    }
+                ],
+                "rewards_expire_at": "2024-09-05T23:59:59+00:00",
+                "platforms": [
+                    0
+                ]
+            }
         }
     },
     {
         "id": "1248385850622869556",
         "config": {
             "id": "1248385850622869556",
+            "config_version": 2,
             "starts_at": "2024-08-08T17:00:00+00:00",
             "expires_at": "2024-08-16T23:59:59+00:00",
             "features": [
                 8
             ],
-            "colors": {
-                "primary": "#905100",
-                "secondary": "#114078"
+            "experiments": {
+                "rollout": "2024-06_quests_krunker_strike_quest",
+                "targeting": "2024-06_quests_krunker_strike_quest_targeting",
+                "preview": "2024-06_quests_krunker_strike_quest_preview"
+            },
+            "application": {
+                "link": "https://discord.com/activities/1011683823555199066",
+                "id": "1011683823555199066",
+                "name": "Krunker Strike FRVR"
             },
             "assets": {
                 "hero": "hero.png",
-                "hero_video": null,
                 "quest_bar_hero": "quest_bar_hero.png",
-                "quest_bar_hero_video": null,
                 "game_tile": "game_tile.png",
-                "logotype": "game_logotype_cropped.png"
+                "logotype": "game_logotype.png"
+            },
+            "colors": {
+                "primary": "#905100",
+                "secondary": "#114078"
             },
             "messages": {
                 "quest_name": "Mom, I’m Winning",
                 "game_title": "Krunker Strike",
                 "game_publisher": "FRVR"
             },
-            "rewards": [
-                {
-                    "sku_id": "1248385929727447132",
-                    "type": 2,
-                    "name": "Methane Mask",
-                    "name_with_article": "a Methane Mask",
-                    "asset": "reward_tile.png",
-                    "asset_video": null
-                }
-            ]
+            "task_config": {
+                "type": 2,
+                "join_operator": "and",
+                "tasks": {
+                    "win": {
+                        "event_name": "win",
+                        "title": "Share 5 Krunker Strike wins with Discord",
+                        "description": "Share your next 5 wins in the Krunker Strike FRVR Activity with Discord to win a Methane Mask in game!",
+                        "target": 5
+                    }
+                },
+                "enrollment_url": "https://discord.com/activities/1011683823555199066",
+                "developer_application_id": "1011683823555199066"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 2,
+                        "sku_id": "1248385929727447132",
+                        "asset": "reward_tile.png",
+                        "messages": {
+                            "name": "Methane Mask",
+                            "name_with_article": "a Methane Mask",
+                            "redemption_instructions_by_platform": {
+                                "0": "Open the Discord Quest Panel in Krunker Strike or through Discord Gift Inventory and click the Claim Reward button to receive your reward. Equip your reward in game and show them what you’ve got!"
+                            }
+                        }
+                    }
+                ],
+                "rewards_expire_at": "2024-09-15T23:59:59+00:00",
+                "platforms": [
+                    0
+                ]
+            }
         }
     },
     {
@@ -619,76 +774,141 @@
         "id": "1262457652043055125",
         "config": {
             "id": "1262457652043055125",
+            "config_version": 2,
             "starts_at": "2024-07-25T17:00:00+00:00",
             "expires_at": "2024-08-01T23:59:59+00:00",
             "features": [
                 3
             ],
-            "colors": {
-                "primary": "#F268B6",
-                "secondary": "#5EFFFE"
+            "experiments": {
+                "rollout": "2024-07_the_sims_4_quest",
+                "targeting": "2024-07_the_sims_4_quest_targeting",
+                "preview": "2024-07_the_sims_4_preview"
+            },
+            "application": {
+                "link": "https://www.ea.com/games/the-sims/the-sims-4/store/addons/the-sims-4-lovestruck-expansion-pack?utm_source=discord&utm_medium=quest_game_link&utm_campaign=sims_quest_2024",
+                "id": "359509007423242240",
+                "name": "The Sims 4"
             },
             "assets": {
                 "hero": "hero.jpg",
-                "hero_video": null,
                 "quest_bar_hero": "quest_bar_hero.jpg",
-                "quest_bar_hero_video": null,
                 "game_tile": "game_tile.png",
                 "logotype": "logotype.svg"
+            },
+            "colors": {
+                "primary": "#F268B6",
+                "secondary": "#5EFFFE"
             },
             "messages": {
                 "quest_name": "Lovestruck",
                 "game_title": "The Sims™ 4",
                 "game_publisher": "EA Games"
             },
-            "rewards": [
-                {
-                    "sku_id": "1262457693965258874",
-                    "type": 3,
-                    "name": "Freezer Bunny Lovebug Avatar Decoration",
-                    "name_with_article": "a Freezer Bunny Lovebug Avatar Decoration",
-                    "asset": "reward_preview.mp4",
-                    "asset_video": null
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "event_name": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "external_ids": []
+                    }
                 }
-            ]
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 3,
+                        "sku_id": "1262457693965258874",
+                        "asset": "reward_preview.mp4",
+                        "messages": {
+                            "name": "Freezer Bunny Lovebug Avatar Decoration",
+                            "name_with_article": "a Freezer Bunny Lovebug Avatar Decoration",
+                            "redemption_instructions_by_platform": {
+                                "0": "This collectible can be redeemed on Discord! Go to your Gift Inventory to redeem and equip."
+                            }
+                        },
+                        "expires_at": "2024-10-01T23:59:59+00:00"
+                    }
+                ],
+                "rewards_expire_at": "2024-08-31T23:59:59+00:00",
+                "platforms": [
+                    0
+                ]
+            }
         }
     },
     {
         "id": "1262518692248420433",
         "config": {
             "id": "1262518692248420433",
+            "config_version": 2,
             "starts_at": "2024-08-08T17:00:00+00:00",
             "expires_at": "2024-08-16T23:59:59+00:00",
             "features": [
-                3
+                3,
+                4
             ],
-            "colors": {
-                "primary": "#44475C",
-                "secondary": "#44475C"
+            "experiments": {
+                "rollout": "2024-07_quests_gta_online_quest",
+                "targeting": "2024-07_quests_gta_online_quest_targeting",
+                "preview": "2024-07_quests_gta_online_quest_preview"
+            },
+            "application": {
+                "link": "https://www.rockstargames.com/gta-online?utm_source=discord&utm_medium=p_sitedisplay&utm_campaign=00:discord-gtao-20240808&utm_content=us-eng",
+                "id": "356876176465199104",
+                "name": "Grand Theft Auto V"
             },
             "assets": {
                 "hero": "hero.jpg",
-                "hero_video": null,
                 "quest_bar_hero": "quest_bar_hero.jpg",
-                "quest_bar_hero_video": null,
                 "game_tile": "game_tile.png",
                 "logotype": "logotype_stacked.png"
+            },
+            "colors": {
+                "primary": "#44475C",
+                "secondary": "#44475C"
             },
             "messages": {
                 "quest_name": "GTA Online",
                 "game_title": "GTA Online",
                 "game_publisher": "Rockstar Games"
             },
-            "rewards": [
-                {
-                    "sku_id": "1262518692248420434",
-                    "type": 3,
-                    "name": "Los Santos Avatar Decoration",
-                    "name_with_article": "a Los Santos Avatar Decoration",
-                    "asset": "reward.mp4",
-                    "asset_video": null
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "event_name": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "external_ids": []
+                    }
                 }
-            ]
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 3,
+                        "sku_id": "1262518692248420434",
+                        "asset": "reward.mp4",
+                        "messages": {
+                            "name": "Los Santos Avatar Decoration",
+                            "name_with_article": "a Los Santos Avatar Decoration",
+                            "redemption_instructions_by_platform": {
+                                "0": "This collectible can be redeemed on Discord! Go to your Gift Inventory to redeem and equip."
+                            }
+                        },
+                        "expires_at": "2024-10-16T23:59:59+00:00"
+                    }
+                ],
+                "rewards_expire_at": "2024-09-15T23:59:59+00:00",
+                "platforms": [
+                    0
+                ]
+            }
         }
     },
     {
