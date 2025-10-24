@@ -26366,25 +26366,25 @@
                                 "url": "1428095887669989518_1080.mp4",
                                 "width": 1920,
                                 "height": 1080,
-                                "thumbnail": "1428095929537265745.jpg"
+                                "thumbnail": "1431332396585717861.jpg"
                             },
                             "video_low_res": {
                                 "url": "1428095887669989518_720.mp4",
                                 "width": 1920,
                                 "height": 1080,
-                                "thumbnail": "1428095929537265745.jpg"
+                                "thumbnail": "1431332396585717861.jpg"
                             },
                             "video_hls": {
                                 "url": "1428095887669989518.m3u8",
                                 "width": 1920,
                                 "height": 1080,
-                                "thumbnail": "1428095929537265745.jpg"
+                                "thumbnail": "1431332396585717861.jpg"
                             }
                         },
                         "messages": {
                             "video_title": "Chainsaw Man – The Movie: Reze Arc Trailer",
                             "video_end_cta_title": "Chainsaw Man Trailer",
-                            "video_end_cta_subtitle": "Exclusively in Theatres Thursday",
+                            "video_end_cta_subtitle": "Now Playing Exclusively in Theatres",
                             "video_end_cta_button_label": "Get Tickets"
                         }
                     }
@@ -26416,13 +26416,13 @@
                 "messages": {
                     "video_title": "Chainsaw Man – The Movie: Reze Arc Trailer",
                     "video_end_cta_title": "Chainsaw Man Trailer",
-                    "video_end_cta_subtitle": "Exclusively in Theatres Thursday",
+                    "video_end_cta_subtitle": "Now Playing Exclusively in Theatres",
                     "video_end_cta_button_label": "Get Tickets"
                 },
                 "assets": {
                     "video_player_video_hls": "1428095887669989518.m3u8",
                     "video_player_video": "1428095887669989518_1080.mp4",
-                    "video_player_thumbnail": "1428095929537265745.jpg",
+                    "video_player_thumbnail": "1431332396585717861.jpg",
                     "video_player_video_low_res": "1428095887669989518_720.mp4",
                     "video_player_caption": null,
                     "video_player_transcript": null,
@@ -27473,5 +27473,406 @@
         "user_status": null,
         "targeted_content": [],
         "preview": false
+    },
+    {
+        "id": "1431027486506094623",
+        "config": {
+            "id": "1431027486506094623",
+            "config_version": 2,
+            "starts_at": "2025-10-24T17:00:19+00:00",
+            "expires_at": "2025-10-31T00:00:19+00:00",
+            "features": [
+                3,
+                9,
+                13,
+                14,
+                15,
+                16,
+                18,
+                19,
+                23
+            ],
+            "application": {
+                "link": "https://luna.amazon.com/?asin=3uqlui&ref_=dvmLaunchLaunch30vid_dig",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "1431037565020016810.jpg",
+                "hero_video": "1431038262113341642.mp4",
+                "quest_bar_hero": "1431037508191256667.jpg",
+                "quest_bar_hero_video": "1431038262113341642.mp4",
+                "game_tile": "1431038526744690729.png",
+                "logotype": "1431038525691789582.png",
+                "game_tile_light": "1431038495152935035.png",
+                "game_tile_dark": "1431038495152935035.png",
+                "logotype_light": "1431038383051903028.png",
+                "logotype_dark": "1431038442208231545.png"
+            },
+            "colors": {
+                "primary": "#FFFFFF",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Amazon Luna",
+                "game_title": "The all-new Amazon Luna",
+                "game_publisher": "Amazon Luna"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "event_name": "WATCH_VIDEO",
+                        "target": 29,
+                        "external_ids": []
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 29,
+                        "assets": {
+                            "video": {
+                                "url": "1431036702994075709_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "1431036996201091202.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "1431036702994075709_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "1431036996201091202.jpg"
+                            },
+                            "video_hls": {
+                                "url": "1431036702994075709.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "1431036996201091202.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "all-new Amazon Luna Video",
+                            "video_end_cta_title": "Learn More",
+                            "video_end_cta_subtitle": "No Setup. No Console. Play it with Prime.",
+                            "video_end_cta_button_label": "Learn More"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 Orbs",
+                            "name_with_article": "700 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "Default"
+                            }
+                        },
+                        "orb_quantity": 700
+                    }
+                ],
+                "rewards_expire_at": "2025-11-30T00:00:19+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "video_metadata": {
+                "messages": {
+                    "video_title": "all-new Amazon Luna Video",
+                    "video_end_cta_title": "Learn More",
+                    "video_end_cta_subtitle": "No Setup. No Console. Play it with Prime.",
+                    "video_end_cta_button_label": "Learn More"
+                },
+                "assets": {
+                    "video_player_video_hls": "1431036702994075709.m3u8",
+                    "video_player_video": "1431036702994075709_1080.mp4",
+                    "video_player_thumbnail": "1431036996201091202.jpg",
+                    "video_player_video_low_res": "1431036702994075709_720.mp4",
+                    "video_player_caption": null,
+                    "video_player_transcript": null,
+                    "quest_bar_preview_video": null,
+                    "quest_bar_preview_thumbnail": null,
+                    "quest_home_video": null
+                }
+            },
+            "share_policy": "shareable_everywhere"
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
+    },
+    {
+        "id": "1430279721777762495",
+        "config": {
+            "id": "1430279721777762495",
+            "config_version": 2,
+            "starts_at": "2025-10-24T17:00:58+00:00",
+            "expires_at": "2025-11-04T00:00:58+00:00",
+            "features": [
+                3,
+                9,
+                13,
+                14,
+                15,
+                16,
+                18,
+                19,
+                23
+            ],
+            "application": {
+                "link": "https://game.ea.com/redirect?campaignName=PVZR_UA_US_SOC_DISC_LAUNCH_ALL&caudience=ALL-BROAD&ccreative=DISCORD",
+                "id": "1431009382950506536",
+                "name": "Plants vs. Zombies™: Replanted"
+            },
+            "assets": {
+                "hero": "1430282896647917750.jpg",
+                "hero_video": null,
+                "quest_bar_hero": "1430283016080588931.jpg",
+                "quest_bar_hero_video": null,
+                "game_tile": "1430283974000771152.png",
+                "logotype": "1430283969072726026.png",
+                "game_tile_light": "1430283794614714545.png",
+                "game_tile_dark": "1430283794614714545.png",
+                "logotype_light": "1430283878375100487.png",
+                "logotype_dark": "1430283878375100487.png"
+            },
+            "colors": {
+                "primary": "#8B4F9F",
+                "secondary": "#7EC850"
+            },
+            "messages": {
+                "quest_name": "PvZ Replanted",
+                "game_title": "Plants vs. Zombies: Replanted",
+                "game_publisher": "Electronic Arts"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "event_name": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "external_ids": []
+                    },
+                    "PLAY_ON_XBOX": {
+                        "event_name": "PLAY_ON_XBOX",
+                        "target": 900,
+                        "external_ids": [
+                            "1728022534"
+                        ]
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "event_name": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "external_ids": [
+                            "CUSA55613_00",
+                            "PPSA29802_00"
+                        ]
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1431009382950506536"
+                            }
+                        ]
+                    },
+                    "PLAY_ON_XBOX": {
+                        "type": "PLAY_ON_XBOX",
+                        "target": 900,
+                        "external_ids": [
+                            "1728022534"
+                        ]
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "type": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "external_ids": [
+                            "CUSA55613_00",
+                            "PPSA29802_00"
+                        ]
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 orbs",
+                            "name_with_article": "700 orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "Default"
+                            }
+                        },
+                        "orb_quantity": 700
+                    }
+                ],
+                "rewards_expire_at": "2025-12-04T00:00:58+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere"
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
+    },
+    {
+        "id": "1430319105034027078",
+        "config": {
+            "id": "1430319105034027078",
+            "config_version": 2,
+            "starts_at": "2025-10-24T17:00:28+00:00",
+            "expires_at": "2025-11-01T00:00:28+00:00",
+            "features": [
+                3,
+                9,
+                13,
+                14,
+                15,
+                16,
+                18,
+                19,
+                23
+            ],
+            "application": {
+                "link": "https://bugoniamovie.ca",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "1430945169271951550.jpg",
+                "hero_video": "1430945673955639367.mp4",
+                "quest_bar_hero": "1430945620608290826.jpg",
+                "quest_bar_hero_video": "1430945645040111686.mp4",
+                "game_tile": "1430946097144135790.png",
+                "logotype": "1430946096133439578.png",
+                "game_tile_light": "1430946040797724744.png",
+                "game_tile_dark": "1430946040797724744.png",
+                "logotype_light": "1430945920845090837.png",
+                "logotype_dark": "1430946000536735796.png"
+            },
+            "colors": {
+                "primary": "#6C231F",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Bugonia",
+                "game_title": "In Theaters Everywhere October 31",
+                "game_publisher": "Focus Features"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "event_name": "WATCH_VIDEO",
+                        "target": 114,
+                        "external_ids": []
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 114,
+                        "assets": {
+                            "video": {
+                                "url": "1430946358436561038_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "1430946531300737075.png",
+                                "caption": "1430946762532851712.vtt",
+                                "transcript": "1430946788222697572.txt"
+                            },
+                            "video_low_res": {
+                                "url": "1430946358436561038_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "1430946531300737075.png",
+                                "caption": "1430946762532851712.vtt",
+                                "transcript": "1430946788222697572.txt"
+                            },
+                            "video_hls": {
+                                "url": "1430946358436561038.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "1430946531300737075.png",
+                                "caption": "1430946762532851712.vtt",
+                                "transcript": "1430946788222697572.txt"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "Bugonia Trailer",
+                            "video_end_cta_title": "Bugonia",
+                            "video_end_cta_subtitle": "Bugonia is in Theaters Everywhere October 31",
+                            "video_end_cta_button_label": "Get Tickets"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 Orbs",
+                            "name_with_article": "700 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "Default"
+                            }
+                        },
+                        "orb_quantity": 700
+                    }
+                ],
+                "rewards_expire_at": "2025-12-01T00:00:28+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "video_metadata": {
+                "messages": {
+                    "video_title": "Bugonia Trailer",
+                    "video_end_cta_title": "Bugonia",
+                    "video_end_cta_subtitle": "Bugonia is in Theaters Everywhere October 31",
+                    "video_end_cta_button_label": "Get Tickets"
+                },
+                "assets": {
+                    "video_player_video_hls": "1430946358436561038.m3u8",
+                    "video_player_video": "1430946358436561038_1080.mp4",
+                    "video_player_thumbnail": "1430946531300737075.png",
+                    "video_player_video_low_res": "1430946358436561038_720.mp4",
+                    "video_player_caption": "1430946762532851712.vtt",
+                    "video_player_transcript": "1430946788222697572.txt",
+                    "quest_bar_preview_video": null,
+                    "quest_bar_preview_thumbnail": null,
+                    "quest_home_video": null
+                }
+            },
+            "share_policy": "shareable_everywhere"
+        }
     }
 ]
