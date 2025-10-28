@@ -28223,5 +28223,135 @@
             },
             "share_policy": "shareable_everywhere"
         }
+    },
+    {
+        "id": "1432205768106705070",
+        "config": {
+            "id": "1432205768106705070",
+            "config_version": 2,
+            "starts_at": "2025-10-28T17:00:24+00:00",
+            "expires_at": "2025-11-10T00:00:24+00:00",
+            "features": [
+                3,
+                9,
+                13,
+                14,
+                15,
+                16,
+                18,
+                19,
+                23
+            ],
+            "application": {
+                "link": " https://ad.doubleclick.net/ddm/trackclk/N7657.3866164DISCORD.COM/B34205182.431038236;dc_trk_aid=623823591;dc_trk_cid=243136455;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;ltd=;dc_tdv=1",
+                "id": "1425690433018925056",
+                "name": "Battlefield 6"
+            },
+            "assets": {
+                "hero": "1432208895648202863.jpg",
+                "hero_video": null,
+                "quest_bar_hero": "1432208937851289661.jpg",
+                "quest_bar_hero_video": null,
+                "game_tile": "1432209078805069895.jpg",
+                "logotype": "1432209077693317212.png",
+                "game_tile_light": "1432208977269231728.jpg",
+                "game_tile_dark": "1432208977269231728.jpg",
+                "logotype_light": "1432209056738705448.png",
+                "logotype_dark": "1432209031304446013.png"
+            },
+            "colors": {
+                "primary": "#FE3B00",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Battlefield REDSEC",
+                "game_title": "Battlefield 6",
+                "game_publisher": "Electronic Arts"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "event_name": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "external_ids": []
+                    },
+                    "PLAY_ON_XBOX": {
+                        "event_name": "PLAY_ON_XBOX",
+                        "target": 900,
+                        "external_ids": [
+                            "1840884885"
+                        ]
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "event_name": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "external_ids": [
+                            "PPSA19534_00",
+                            "PPSA28176_00"
+                        ]
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1425690433018925056"
+                            }
+                        ]
+                    },
+                    "PLAY_ON_XBOX": {
+                        "type": "PLAY_ON_XBOX",
+                        "target": 900,
+                        "external_ids": [
+                            "1840884885"
+                        ]
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "type": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "external_ids": [
+                            "PPSA19534_00",
+                            "PPSA28176_00"
+                        ]
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 3,
+                        "sku_id": "1432208254422749215",
+                        "asset": "1432208386031878154.mp4",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "Battlefield 6 Tank Avatar Decoration",
+                            "name_with_article": "a Battlefield 6 Tank Avatar Decoration",
+                            "redemption_instructions_by_platform": {
+                                "0": "Default"
+                            }
+                        },
+                        "expires_at": "2026-01-09T00:00:00+00:00",
+                        "expires_at_premium": null,
+                        "expiration_mode": 3
+                    }
+                ],
+                "rewards_expire_at": "2025-12-10T00:00:24+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere"
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
     }
 ]
