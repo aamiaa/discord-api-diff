@@ -28683,5 +28683,105 @@
         "user_status": null,
         "targeted_content": [],
         "preview": false
+    },
+    {
+        "id": "1432424574561026070",
+        "config": {
+            "id": "1432424574561026070",
+            "config_version": 2,
+            "starts_at": "2025-11-01T17:00:51+00:00",
+            "expires_at": "2025-11-11T00:00:51+00:00",
+            "features": [
+                3,
+                9,
+                13,
+                14,
+                15,
+                16,
+                18,
+                19,
+                23
+            ],
+            "application": {
+                "link": "https://app.adjust.com/1thx73qj?campaign=LOL25&adgroup=S3_WORLDS&creative=Discord_Quest&utm_source=discord&utm_medium=social&utm_campaign=LOL25-S3Worlds&utm_content=Discord_Quest",
+                "id": "1402418696126992445",
+                "name": "League of Legends"
+            },
+            "assets": {
+                "hero": "1432426728185266176.jpeg",
+                "hero_video": null,
+                "quest_bar_hero": "1432426991310737448.jpeg",
+                "quest_bar_hero_video": null,
+                "game_tile": "1432427151231287426.png",
+                "logotype": "1432427150283112458.png",
+                "game_tile_light": "1432427133174812682.png",
+                "game_tile_dark": "1432427133174812682.png",
+                "logotype_light": "1432427050840621208.png",
+                "logotype_dark": "1432427107115466904.png"
+            },
+            "colors": {
+                "primary": "#FFFFFF",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Dance with a Demon",
+                "game_title": "League of Legends",
+                "game_publisher": "Riot Games"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "event_name": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "external_ids": []
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1402418696126992445"
+                            }
+                        ]
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 3,
+                        "sku_id": "1432427447093039205",
+                        "asset": "1432427718519033896.mp4",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "Atakhan's Aura of Malice Avatar Decoration",
+                            "name_with_article": "Atakhan's Aura of Malice Avatar Decoration",
+                            "redemption_instructions_by_platform": {
+                                "0": "Default"
+                            }
+                        },
+                        "expires_at": "2026-01-10T00:00:00+00:00",
+                        "expires_at_premium": null,
+                        "expiration_mode": 3
+                    }
+                ],
+                "rewards_expire_at": "2025-12-11T00:00:51+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere"
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
     }
 ]
