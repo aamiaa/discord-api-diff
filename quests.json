@@ -28783,5 +28783,139 @@
         "user_status": null,
         "targeted_content": [],
         "preview": false
+    },
+    {
+        "id": "1432770475590684784",
+        "config": {
+            "id": "1432770475590684784",
+            "config_version": 2,
+            "starts_at": "2025-11-02T15:40:20+00:00",
+            "expires_at": "2025-11-10T01:00:20+00:00",
+            "features": [
+                3,
+                9,
+                13,
+                14,
+                15,
+                16,
+                18,
+                19,
+                23
+            ],
+            "application": {
+                "link": "https://www.fortnite.com/",
+                "id": "1402418703554842694",
+                "name": "Fortnite"
+            },
+            "assets": {
+                "hero": "1432838937092690042.jpg",
+                "hero_video": null,
+                "quest_bar_hero": "1432838905996116088.jpg",
+                "quest_bar_hero_video": null,
+                "game_tile": "1432839185957519491.png",
+                "logotype": "1432839184904618135.png",
+                "game_tile_light": "1432838991995998359.png",
+                "game_tile_dark": "1432838991995998359.png",
+                "logotype_light": "1432839029392539729.png",
+                "logotype_dark": "1432839029392539729.png"
+            },
+            "colors": {
+                "primary": "#FFFFFF",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Fortnite Discord",
+                "game_title": "Fortnite",
+                "game_publisher": "Epic Games"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "event_name": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "external_ids": []
+                    },
+                    "PLAY_ON_XBOX": {
+                        "event_name": "PLAY_ON_XBOX",
+                        "target": 900,
+                        "external_ids": [
+                            "267695549"
+                        ]
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "event_name": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "external_ids": [
+                            "CUSA07022_00",
+                            "PPSA01923_00",
+                            "PPSA01922_00",
+                            "CUSA07669_00"
+                        ]
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1402418703554842694"
+                            }
+                        ]
+                    },
+                    "PLAY_ON_XBOX": {
+                        "type": "PLAY_ON_XBOX",
+                        "target": 900,
+                        "external_ids": [
+                            "267695549"
+                        ]
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "type": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "external_ids": [
+                            "CUSA07022_00",
+                            "PPSA01923_00",
+                            "PPSA01922_00",
+                            "CUSA07669_00"
+                        ]
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 3,
+                        "sku_id": "1432839801438208042",
+                        "asset": "1432840126031073402.mp4",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "Peely Vanish Avatar Decoration",
+                            "name_with_article": "a Peely Vanish Avatar Decoration",
+                            "redemption_instructions_by_platform": {
+                                "0": "Default"
+                            }
+                        },
+                        "expires_at": "2026-01-09T00:00:00+00:00",
+                        "expires_at_premium": null,
+                        "expiration_mode": 1
+                    }
+                ],
+                "rewards_expire_at": "2025-12-10T01:00:20+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere"
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
     }
 ]
