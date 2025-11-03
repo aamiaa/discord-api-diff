@@ -28917,5 +28917,144 @@
         "user_status": null,
         "targeted_content": [],
         "preview": false
+    },
+    {
+        "id": "1433542422268350574",
+        "config": {
+            "id": "1433542422268350574",
+            "config_version": 2,
+            "starts_at": "2025-11-03T18:00:47+00:00",
+            "expires_at": "2025-11-17T00:00:47+00:00",
+            "features": [
+                3,
+                9,
+                13,
+                14,
+                15,
+                16,
+                18,
+                19,
+                23
+            ],
+            "application": {
+                "link": "https://www.firefox.com/de/?mozcb=y&utm_campaign=SET_DEFAULT_BROWSER",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "1433545271618572491.jpg",
+                "hero_video": "1433545222977093754.mp4",
+                "quest_bar_hero": "1433545190953451652.jpg",
+                "quest_bar_hero_video": "1433545222977093754.mp4",
+                "game_tile": "1433900502868955277.png",
+                "logotype": "1433545498144280748.png",
+                "game_tile_light": "1433900477162197062.png",
+                "game_tile_dark": "1433900477162197062.png",
+                "logotype_light": "1433545344217780395.png",
+                "logotype_dark": "1433545367596568686.png"
+            },
+            "colors": {
+                "primary": "#FF8A50",
+                "secondary": "#333336"
+            },
+            "messages": {
+                "quest_name": "Firefox",
+                "game_title": "Mozilla Firefox",
+                "game_publisher": "Firefox"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "event_name": "WATCH_VIDEO",
+                        "target": 19,
+                        "external_ids": []
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 19,
+                        "assets": {
+                            "video": {
+                                "url": "1433545838486880256_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "1433545878345351279.png",
+                                "caption": "1433576295459061801.vtt",
+                                "transcript": "1433576271442477177.txt"
+                            },
+                            "video_low_res": {
+                                "url": "1433545838486880256_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "1433545878345351279.png",
+                                "caption": "1433576295459061801.vtt",
+                                "transcript": "1433576271442477177.txt"
+                            },
+                            "video_hls": {
+                                "url": "1433545838486880256.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "1433545878345351279.png",
+                                "caption": "1433576295459061801.vtt",
+                                "transcript": "1433576271442477177.txt"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "Firefox Browser",
+                            "video_end_cta_title": "Firefox",
+                            "video_end_cta_subtitle": "Übernimm die Kontrolle über dein Internet",
+                            "video_end_cta_button_label": "Learn More"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 orbs",
+                            "name_with_article": "700 orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "Default"
+                            }
+                        },
+                        "orb_quantity": 700
+                    }
+                ],
+                "rewards_expire_at": "2025-12-17T00:00:47+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "video_metadata": {
+                "messages": {
+                    "video_title": "Firefox Browser",
+                    "video_end_cta_title": "Firefox",
+                    "video_end_cta_subtitle": "Übernimm die Kontrolle über dein Internet",
+                    "video_end_cta_button_label": "Learn More"
+                },
+                "assets": {
+                    "video_player_video_hls": "1433545838486880256.m3u8",
+                    "video_player_video": "1433545838486880256_1080.mp4",
+                    "video_player_thumbnail": "1433545878345351279.png",
+                    "video_player_video_low_res": "1433545838486880256_720.mp4",
+                    "video_player_caption": "1433576295459061801.vtt",
+                    "video_player_transcript": "1433576271442477177.txt",
+                    "quest_bar_preview_video": null,
+                    "quest_bar_preview_thumbnail": null,
+                    "quest_home_video": null
+                }
+            },
+            "share_policy": "shareable_everywhere"
+        }
     }
 ]
