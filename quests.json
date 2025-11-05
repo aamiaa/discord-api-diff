@@ -29056,5 +29056,120 @@
             },
             "share_policy": "shareable_everywhere"
         }
+    },
+    {
+        "id": "1432798014786764871",
+        "config": {
+            "id": "1432798014786764871",
+            "config_version": 2,
+            "starts_at": "2025-11-05T03:00:46+00:00",
+            "expires_at": "2025-11-11T00:00:46+00:00",
+            "features": [
+                3,
+                9,
+                13,
+                14,
+                15,
+                16,
+                18,
+                19,
+                23
+            ],
+            "application": {
+                "link": "https://hoyo.link/ULR8QuyPH",
+                "id": "1121201675240210523",
+                "name": "Honkai: Star Rail"
+            },
+            "assets": {
+                "hero": "quests/1432798014786764871/1432829179979890749.jpg",
+                "hero_video": "quests/1432798014786764871/1432829536533348452.mp4",
+                "quest_bar_hero": "quests/1432798014786764871/1432829179979890749.jpg",
+                "quest_bar_hero_video": "quests/1432798014786764871/1432829536533348452.mp4",
+                "game_tile": "1432830150839635979.png",
+                "logotype": "1432830144468222067.png",
+                "game_tile_light": "quests/1432798014786764871/1432830113980092577.png",
+                "game_tile_dark": "quests/1432798014786764871/1432830113980092577.png",
+                "logotype_light": "quests/1432798014786764871/1432829884216115310.png",
+                "logotype_dark": "quests/1432798014786764871/1432829949756178543.png"
+            },
+            "colors": {
+                "primary": "#FFFFFF",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Honkai: Star Rail",
+                "game_title": "Honkai: Star Rail",
+                "game_publisher": "COGNOSPHERE PTE. LTD."
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "event_name": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "external_ids": []
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "event_name": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "external_ids": [
+                            "PPSA08459_00",
+                            "PPSA08458_00"
+                        ]
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1121201675240210523"
+                            }
+                        ]
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "type": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "external_ids": [
+                            "PPSA08459_00",
+                            "PPSA08458_00"
+                        ]
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 1,
+                        "sku_id": "1432798014786764872",
+                        "asset": "quests/1432798014786764871/1432834723838951595.png",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "V3.7 Quest Bundle",
+                            "name_with_article": "a V3.7 Quest Bundle",
+                            "redemption_instructions_by_platform": {
+                                "0": "How to redeem:\nVisit the code redemption page on the official website of Honkai: Star Rail (https://hsr.hoyoverse.com/gift). Log in to your game account and follow the instructions to input the code. Once redeemed, you will receive the Bundle through the in-game mail system.\n\nRedemption Code Content: Stellar Jade ×30*, Credit ×20,000, Lost Gold Fragment ×4, Condensed Aether ×5, Traveler's Guide ×3.\n\n* Rewards are limited to 750,000 and will be available exclusively to the first 750,000 Trailblazers who successfully complete the Quest. The distribution of rewards will be based on when the codes were redeemed after completing the task, and they will be distributed on a first-come, first-served basis.\n\n* The redemption code will expire on 2025/12/3 11:00:00 (UTC+8). We highly recommend redeeming it as soon as possible."
+                            }
+                        },
+                        "approximate_count": null,
+                        "redemption_link": null
+                    }
+                ],
+                "rewards_expire_at": "2025-12-11T00:00:46+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere"
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
     }
 ]
