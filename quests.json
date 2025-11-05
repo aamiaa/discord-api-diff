@@ -29171,5 +29171,144 @@
         "user_status": null,
         "targeted_content": [],
         "preview": false
+    },
+    {
+        "id": "1435324548827451605",
+        "config": {
+            "id": "1435324548827451605",
+            "config_version": 2,
+            "starts_at": "2025-11-05T18:00:19+00:00",
+            "expires_at": "2025-11-17T00:00:19+00:00",
+            "features": [
+                3,
+                9,
+                13,
+                14,
+                15,
+                16,
+                18,
+                19,
+                23
+            ],
+            "application": {
+                "link": "https://pokemon-go.onelink.me/nBRb/niwqoq43",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1435324548827451605/1435341288676524256.jpg",
+                "hero_video": "quests/1435324548827451605/1435681028697227304.mp4",
+                "quest_bar_hero": "quests/1435324548827451605/1435341474106441881.jpg",
+                "quest_bar_hero_video": "quests/1435324548827451605/1435681028697227304.mp4",
+                "game_tile": "1435341895105511605.png",
+                "logotype": "1435341894048682056.png",
+                "game_tile_light": "quests/1435324548827451605/1435341128911294564.png",
+                "game_tile_dark": "quests/1435324548827451605/1435341128911294564.png",
+                "logotype_light": "quests/1435324548827451605/1435341163170103306.png",
+                "logotype_dark": "quests/1435324548827451605/1435341163170103306.png"
+            },
+            "colors": {
+                "primary": "#FFFFFF",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "GO Wild Area 2025",
+                "game_title": "Pokémon GO",
+                "game_publisher": "Niantic Labs"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "event_name": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 29,
+                        "external_ids": []
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 29,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1435324548827451605/1435342526792994817_1080.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1435324548827451605/1435342666941599825.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1435324548827451605/1435342526792994817_720.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1435324548827451605/1435342666941599825.jpg"
+                            },
+                            "video_hls": {
+                                "url": "quests/1435324548827451605/1435342526792994817.m3u8",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1435324548827451605/1435342666941599825.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "Pokémon Go Wild Area 2025",
+                            "video_end_cta_title": "Pokémon Go",
+                            "video_end_cta_subtitle": "Pokémon Go Wild Area 2025",
+                            "video_end_cta_button_label": "Download"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 1,
+                        "sku_id": "1435324548827451606",
+                        "asset": "quests/1435324548827451605/1435327164047167508.png",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "200 Max Particles!",
+                            "name_with_article": "200 Max Particles!",
+                            "redemption_instructions_by_platform": {
+                                "0": "To redeem an offer code on the web:  \n1. Visit this website: https://store.pokemongo.com/offer-redemption  \n2. Log in using the same credentials you use to access your Pokémon GO account.  \n3. Enter your offer code.  \n4. After successfully redeeming an offer code, a message will display the items added to your inventory.  \n\n**The redemption code will expire on November 16, 2025, at 08:00 AM UTC (12:00 AM PST). We highly recommend redeeming it as soon as possible.**\n"
+                            }
+                        },
+                        "approximate_count": null,
+                        "redemption_link": null
+                    }
+                ],
+                "rewards_expire_at": "2025-12-17T00:00:19+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "video_metadata": {
+                "messages": {
+                    "video_title": "Pokémon Go Wild Area 2025",
+                    "video_end_cta_title": "Pokémon Go",
+                    "video_end_cta_subtitle": "Pokémon Go Wild Area 2025",
+                    "video_end_cta_button_label": "Download"
+                },
+                "assets": {
+                    "video_player_video_hls": "quests/1435324548827451605/1435342526792994817.m3u8",
+                    "video_player_video": "quests/1435324548827451605/1435342526792994817_1080.mp4",
+                    "video_player_thumbnail": "quests/1435324548827451605/1435342666941599825.jpg",
+                    "video_player_video_low_res": "quests/1435324548827451605/1435342526792994817_720.mp4",
+                    "video_player_caption": null,
+                    "video_player_transcript": null,
+                    "quest_bar_preview_video": null,
+                    "quest_bar_preview_thumbnail": null,
+                    "quest_home_video": null
+                }
+            },
+            "share_policy": "shareable_everywhere"
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
     }
 ]
