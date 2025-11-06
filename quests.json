@@ -28460,7 +28460,7 @@
             "id": "1432410015721062480",
             "config_version": 2,
             "starts_at": "2025-10-30T17:00:00+00:00",
-            "expires_at": "2025-11-06T00:00:00+00:00",
+            "expires_at": "2025-11-10T00:00:00+00:00",
             "features": [
                 3,
                 9,
@@ -28511,8 +28511,8 @@
                         "event_name": "PLAY_ON_XBOX",
                         "target": 900,
                         "external_ids": [
-                            "2118292977",
-                            "1908300140"
+                            "1908300140",
+                            "2118292977"
                         ]
                     },
                     "PLAY_ON_PLAYSTATION": {
@@ -28540,8 +28540,8 @@
                         "type": "PLAY_ON_XBOX",
                         "target": 900,
                         "external_ids": [
-                            "2118292977",
-                            "1908300140"
+                            "1908300140",
+                            "2118292977"
                         ]
                     },
                     "PLAY_ON_PLAYSTATION": {
@@ -28567,14 +28567,14 @@
                             "name": "Hiker Backpack, Sky Ice",
                             "name_with_article": "a Hiker Backpack, Sky Ice",
                             "redemption_instructions_by_platform": {
-                                "0": "To redeem your ARC Raiders launch Quest gift code, visit Embark's code redemption website and log in to your account: https://id.embark.games/id/arc-raiders/giveaway  \nPaste your gift code to obtain your Hiker Backpack - Sky Ice. \n\n**Requires ARC Raiders; redeem by 6th November 2025.**"
+                                "0": "To redeem your ARC Raiders launch Quest gift code, visit Embark's code redemption website and log in to your account: https://id.embark.games/id/arc-raiders/giveaway  \nPaste your gift code to obtain your Hiker Backpack - Sky Ice. \n\n**Requires ARC Raiders; redeem by 9th November 2025.**"
                             }
                         },
                         "approximate_count": null,
                         "redemption_link": null
                     }
                 ],
-                "rewards_expire_at": "2025-12-06T00:00:00+00:00",
+                "rewards_expire_at": "2025-12-10T00:00:00+00:00",
                 "platforms": [
                     0
                 ]
@@ -29442,6 +29442,148 @@
                     "video_player_video_low_res": "quests/1435003145339273317/1435007485353263315_720.mp4",
                     "video_player_caption": "quests/1435003145339273317/1435783066026115092.vtt",
                     "video_player_transcript": "quests/1435003145339273317/1435783110628479047.txt",
+                    "quest_bar_preview_video": null,
+                    "quest_bar_preview_thumbnail": null,
+                    "quest_home_video": null
+                }
+            },
+            "share_policy": "shareable_everywhere"
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
+    },
+    {
+        "id": "1435367355759726642",
+        "config": {
+            "id": "1435367355759726642",
+            "config_version": 2,
+            "starts_at": "2025-11-06T00:15:25+00:00",
+            "expires_at": "2025-11-19T00:00:25+00:00",
+            "features": [
+                3,
+                9,
+                13,
+                14,
+                15,
+                16,
+                18,
+                19,
+                23
+            ],
+            "application": {
+                "link": "https://www.kingofmeat.com/sale?utm_source=Discord&utm_campaign=_KoMeat_Discord_USDE_Web_AWS_HighImpact_CPM_VIDQUEST1_Custom_20251105_NA_null",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1435367355759726642/1435370333593931806.jpg",
+                "hero_video": "quests/1435367355759726642/1435370295941795890.mp4",
+                "quest_bar_hero": "quests/1435367355759726642/1435370265964974221.jpg",
+                "quest_bar_hero_video": "quests/1435367355759726642/1435370295941795890.mp4",
+                "game_tile": "1435370500296806544.png",
+                "logotype": "1435370499210477699.png",
+                "game_tile_light": "quests/1435367355759726642/1435370392511320157.png",
+                "game_tile_dark": "quests/1435367355759726642/1435370392511320157.png",
+                "logotype_light": "quests/1435367355759726642/1435370476120571945.png",
+                "logotype_dark": "quests/1435367355759726642/1435370476120571945.png"
+            },
+            "colors": {
+                "primary": "#FFFFFF",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "King of Meat Sale",
+                "game_title": "75% off limited-time sale",
+                "game_publisher": "Amazon Games"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "event_name": "WATCH_VIDEO",
+                        "target": 29,
+                        "external_ids": []
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 29,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1435367355759726642/1435370621705125938_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1435367355759726642/1435402986171142274.jpg",
+                                "caption": "quests/1435367355759726642/1435370985648951548.vtt",
+                                "transcript": "quests/1435367355759726642/1435370961422778509.txt"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1435367355759726642/1435370621705125938_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1435367355759726642/1435402986171142274.jpg",
+                                "caption": "quests/1435367355759726642/1435370985648951548.vtt",
+                                "transcript": "quests/1435367355759726642/1435370961422778509.txt"
+                            },
+                            "video_hls": {
+                                "url": "quests/1435367355759726642/1435370621705125938.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1435367355759726642/1435402986171142274.jpg",
+                                "caption": "quests/1435367355759726642/1435370985648951548.vtt",
+                                "transcript": "quests/1435367355759726642/1435370961422778509.txt"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "King of Meat: 75% off limited-time sale",
+                            "video_end_cta_title": "King of Meat",
+                            "video_end_cta_subtitle": "75% off and available on Steam, PlayStation 5, and Xbox Series X|S",
+                            "video_end_cta_button_label": "Buy Now"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 orbs",
+                            "name_with_article": "700 orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "Default"
+                            }
+                        },
+                        "orb_quantity": 700
+                    }
+                ],
+                "rewards_expire_at": "2025-12-19T00:00:25+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "video_metadata": {
+                "messages": {
+                    "video_title": "King of Meat: 75% off limited-time sale",
+                    "video_end_cta_title": "King of Meat",
+                    "video_end_cta_subtitle": "75% off and available on Steam, PlayStation 5, and Xbox Series X|S",
+                    "video_end_cta_button_label": "Buy Now"
+                },
+                "assets": {
+                    "video_player_video_hls": "quests/1435367355759726642/1435370621705125938.m3u8",
+                    "video_player_video": "quests/1435367355759726642/1435370621705125938_1080.mp4",
+                    "video_player_thumbnail": "quests/1435367355759726642/1435402986171142274.jpg",
+                    "video_player_video_low_res": "quests/1435367355759726642/1435370621705125938_720.mp4",
+                    "video_player_caption": "quests/1435367355759726642/1435370985648951548.vtt",
+                    "video_player_transcript": "quests/1435367355759726642/1435370961422778509.txt",
                     "quest_bar_preview_video": null,
                     "quest_bar_preview_thumbnail": null,
                     "quest_home_video": null
