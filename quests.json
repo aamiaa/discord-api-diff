@@ -29594,5 +29594,461 @@
         "user_status": null,
         "targeted_content": [],
         "preview": false
+    },
+    {
+        "id": "1435016951251603496",
+        "config": {
+            "id": "1435016951251603496",
+            "config_version": 2,
+            "starts_at": "2025-11-06T18:00:02+00:00",
+            "expires_at": "2025-11-14T00:00:02+00:00",
+            "features": [
+                3,
+                9,
+                13,
+                14,
+                15,
+                16,
+                18,
+                19,
+                23
+            ],
+            "application": {
+                "link": "https://luna.amazon.com/game/courtroom-chaos/B0FR8SP73R",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1435016951251603496/1435058497904705587.jpg",
+                "hero_video": "quests/1435016951251603496/1435058925794889788.mp4",
+                "quest_bar_hero": "quests/1435016951251603496/1435058248981024798.jpg",
+                "quest_bar_hero_video": "quests/1435016951251603496/1435058925794889788.mp4",
+                "game_tile": "1435058525310291978.png",
+                "logotype": "1435058524383346868.png",
+                "game_tile_light": "quests/1435016951251603496/1435058305197146293.png",
+                "game_tile_dark": "quests/1435016951251603496/1435058305197146293.png",
+                "logotype_light": "quests/1435016951251603496/1435057915206570144.png",
+                "logotype_dark": "quests/1435016951251603496/1435057915206570144.png"
+            },
+            "colors": {
+                "primary": "#FFFFFF",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Courtroom Chaos",
+                "game_title": "Courtroom Chaos Starring Snoop Dogg – Play it on Amazon Luna",
+                "game_publisher": "Amazon Luna"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "event_name": "WATCH_VIDEO",
+                        "target": 75,
+                        "external_ids": []
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "event_name": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 75,
+                        "external_ids": []
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 75,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1435016951251603496/1435059087699083435_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1435016951251603496/1435059233912524880.jpg",
+                                "caption": "quests/1435016951251603496/1435059884847792139.vtt"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1435016951251603496/1435059087699083435_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1435016951251603496/1435059233912524880.jpg",
+                                "caption": "quests/1435016951251603496/1435059884847792139.vtt"
+                            },
+                            "video_hls": {
+                                "url": "quests/1435016951251603496/1435059087699083435.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1435016951251603496/1435059233912524880.jpg",
+                                "caption": "quests/1435016951251603496/1435059884847792139.vtt"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "Courtroom Chaos Starring Snoop Dogg – Play it on Amazon Luna",
+                            "video_end_cta_title": "Play it on Amazon Luna",
+                            "video_end_cta_subtitle": "Available exclusively on Amazon Luna",
+                            "video_end_cta_button_label": "Play Now"
+                        }
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 75,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1435016951251603496/1435059047567986750_1080.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1435016951251603496/1435059233912524880.jpg",
+                                "caption": "quests/1435016951251603496/1435059812181475479.vtt"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1435016951251603496/1435059047567986750_720.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1435016951251603496/1435059233912524880.jpg",
+                                "caption": "quests/1435016951251603496/1435059812181475479.vtt"
+                            },
+                            "video_hls": {
+                                "url": "quests/1435016951251603496/1435059047567986750.m3u8",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1435016951251603496/1435059233912524880.jpg",
+                                "caption": "quests/1435016951251603496/1435059812181475479.vtt"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "Courtroom Chaos Starring Snoop Dogg – Play it on Amazon Luna",
+                            "video_end_cta_title": "Play it on Amazon Luna",
+                            "video_end_cta_subtitle": "Available exclusively on Amazon Luna",
+                            "video_end_cta_button_label": "Play Now"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 3,
+                        "sku_id": "1435057564663676929",
+                        "asset": "quests/1435016951251603496/1435057789063139468.mp4",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "Judge Snoop Dogg Avatar Decoration",
+                            "name_with_article": "a Judge Snoop Dogg Avatar Decoration",
+                            "redemption_instructions_by_platform": {
+                                "0": "Default"
+                            }
+                        },
+                        "expires_at": "2026-01-13T00:00:00+00:00",
+                        "expires_at_premium": null,
+                        "expiration_mode": 3
+                    }
+                ],
+                "rewards_expire_at": "2025-12-14T00:00:02+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "video_metadata": {
+                "messages": {
+                    "video_title": "Courtroom Chaos Starring Snoop Dogg – Play it on Amazon Luna",
+                    "video_end_cta_title": "Play it on Amazon Luna",
+                    "video_end_cta_subtitle": "Available exclusively on Amazon Luna",
+                    "video_end_cta_button_label": "Play Now"
+                },
+                "assets": {
+                    "video_player_video_hls": "quests/1435016951251603496/1435059087699083435.m3u8",
+                    "video_player_video": "quests/1435016951251603496/1435059087699083435_1080.mp4",
+                    "video_player_thumbnail": "quests/1435016951251603496/1435059233912524880.jpg",
+                    "video_player_video_low_res": "quests/1435016951251603496/1435059087699083435_720.mp4",
+                    "video_player_caption": "quests/1435016951251603496/1435059884847792139.vtt",
+                    "video_player_transcript": null,
+                    "quest_bar_preview_video": null,
+                    "quest_bar_preview_thumbnail": null,
+                    "quest_home_video": null
+                }
+            },
+            "share_policy": "shareable_everywhere"
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
+    },
+    {
+        "id": "1435329773197987961",
+        "config": {
+            "id": "1435329773197987961",
+            "config_version": 2,
+            "starts_at": "2025-11-06T18:00:02+00:00",
+            "expires_at": "2025-11-13T00:00:02+00:00",
+            "features": [
+                3,
+                9,
+                13,
+                14,
+                15,
+                16,
+                18,
+                19,
+                23
+            ],
+            "application": {
+                "link": "https://dinkum.krafton.com/",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1434969640194539610/1435335451081969694.jpg",
+                "hero_video": "quests/1434969640194539610/1435332596279283832.mp4",
+                "quest_bar_hero": "quests/1434969640194539610/1435332551278334013.jpg",
+                "quest_bar_hero_video": "quests/1434969640194539610/1435332596279283832.mp4",
+                "game_tile": "1436046341246550046.png",
+                "logotype": "1436046340282122281.png",
+                "game_tile_light": "quests/1435329773197987961/1436046324507349197.png",
+                "game_tile_dark": "quests/1435329773197987961/1436046324507349197.png",
+                "logotype_light": "quests/1435329773197987961/1436046285361647697.png",
+                "logotype_dark": "quests/1435329773197987961/1436046285361647697.png"
+            },
+            "colors": {
+                "primary": "#FFFFFF",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Dinkum on Switch ",
+                "game_title": "Dinkum",
+                "game_publisher": "Krafton"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "event_name": "WATCH_VIDEO",
+                        "target": 89,
+                        "external_ids": []
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 89,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1434969640194539610/1434975725873664040_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1435329773197987961/1435745204631245003.png",
+                                "caption": "quests/1434969640194539610/1435333145523388576.vtt",
+                                "transcript": "quests/1434969640194539610/1435333169703419944.txt"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1434969640194539610/1434975725873664040_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1435329773197987961/1435745204631245003.png",
+                                "caption": "quests/1434969640194539610/1435333145523388576.vtt",
+                                "transcript": "quests/1434969640194539610/1435333169703419944.txt"
+                            },
+                            "video_hls": {
+                                "url": "quests/1434969640194539610/1434975725873664040.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1435329773197987961/1435745204631245003.png",
+                                "caption": "quests/1434969640194539610/1435333145523388576.vtt",
+                                "transcript": "quests/1434969640194539610/1435333169703419944.txt"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "Dinkum on Switch",
+                            "video_end_cta_title": "Dinkum",
+                            "video_end_cta_subtitle": "Available now on the Nintendo eShop!",
+                            "video_end_cta_button_label": "Play Now"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 orbs",
+                            "name_with_article": "700 orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "Default"
+                            }
+                        },
+                        "orb_quantity": 700
+                    }
+                ],
+                "rewards_expire_at": "2025-12-13T00:00:02+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "video_metadata": {
+                "messages": {
+                    "video_title": "Dinkum on Switch",
+                    "video_end_cta_title": "Dinkum",
+                    "video_end_cta_subtitle": "Available now on the Nintendo eShop!",
+                    "video_end_cta_button_label": "Play Now"
+                },
+                "assets": {
+                    "video_player_video_hls": "quests/1434969640194539610/1434975725873664040.m3u8",
+                    "video_player_video": "quests/1434969640194539610/1434975725873664040_1080.mp4",
+                    "video_player_thumbnail": "quests/1435329773197987961/1435745204631245003.png",
+                    "video_player_video_low_res": "quests/1434969640194539610/1434975725873664040_720.mp4",
+                    "video_player_caption": "quests/1434969640194539610/1435333145523388576.vtt",
+                    "video_player_transcript": "quests/1434969640194539610/1435333169703419944.txt",
+                    "quest_bar_preview_video": null,
+                    "quest_bar_preview_thumbnail": null,
+                    "quest_home_video": null
+                }
+            },
+            "share_policy": "shareable_everywhere"
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
+    },
+    {
+        "id": "1434969640194539610",
+        "config": {
+            "id": "1434969640194539610",
+            "config_version": 2,
+            "starts_at": "2025-11-06T18:00:02+00:00",
+            "expires_at": "2025-11-13T00:00:02+00:00",
+            "features": [
+                3,
+                9,
+                13,
+                14,
+                15,
+                16,
+                18,
+                19,
+                23
+            ],
+            "application": {
+                "link": "https://dinkum.krafton.com/",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "1434974796969541682.jpg",
+                "hero_video": "1434974872454303885.mp4",
+                "quest_bar_hero": "1434975118089519104.jpg",
+                "quest_bar_hero_video": "1434974872454303885.mp4",
+                "game_tile": "1434975383870242946.png",
+                "logotype": "1434975382833991822.png",
+                "game_tile_light": "1434975230350196757.png",
+                "game_tile_dark": "1434975230350196757.png",
+                "logotype_light": "1434975192957980682.png",
+                "logotype_dark": "1434975192957980682.png"
+            },
+            "colors": {
+                "primary": "#FFFFFF",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Dinkum on Switch ",
+                "game_title": "Dinkum",
+                "game_publisher": "Krafton"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "event_name": "WATCH_VIDEO",
+                        "target": 89,
+                        "external_ids": []
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 89,
+                        "assets": {
+                            "video": {
+                                "url": "1434975725873664040_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "1435745070392414332.png"
+                            },
+                            "video_low_res": {
+                                "url": "1434975725873664040_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "1435745070392414332.png"
+                            },
+                            "video_hls": {
+                                "url": "1434975725873664040.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "1435745070392414332.png"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "Dinkum on Switch",
+                            "video_end_cta_title": "Dinkum",
+                            "video_end_cta_subtitle": "Available now on the Nintendo eShop!",
+                            "video_end_cta_button_label": "Play Now"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 orbs",
+                            "name_with_article": "700 orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "Default"
+                            }
+                        },
+                        "orb_quantity": 700
+                    }
+                ],
+                "rewards_expire_at": "2025-12-13T00:00:02+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "video_metadata": {
+                "messages": {
+                    "video_title": "Dinkum on Switch",
+                    "video_end_cta_title": "Dinkum",
+                    "video_end_cta_subtitle": "Available now on the Nintendo eShop!",
+                    "video_end_cta_button_label": "Play Now"
+                },
+                "assets": {
+                    "video_player_video_hls": "1434975725873664040.m3u8",
+                    "video_player_video": "1434975725873664040_1080.mp4",
+                    "video_player_thumbnail": "1435745070392414332.png",
+                    "video_player_video_low_res": "1434975725873664040_720.mp4",
+                    "video_player_caption": null,
+                    "video_player_transcript": null,
+                    "quest_bar_preview_video": null,
+                    "quest_bar_preview_thumbnail": null,
+                    "quest_home_video": null
+                }
+            },
+            "share_policy": "shareable_everywhere"
+        }
     }
 ]
