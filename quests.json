@@ -23721,6 +23721,11 @@
                     "PLAY_ON_XBOX": {
                         "type": "PLAY_ON_XBOX",
                         "target": 900,
+                        "applications": [
+                            {
+                                "id": "700136079562375258"
+                            }
+                        ],
                         "external_ids": [
                             "2139646219"
                         ]
@@ -23728,6 +23733,11 @@
                     "PLAY_ON_PLAYSTATION": {
                         "type": "PLAY_ON_PLAYSTATION",
                         "target": 900,
+                        "applications": [
+                            {
+                                "id": "700136079562375258"
+                            }
+                        ],
                         "external_ids": [
                             "PPSA20711_00",
                             "PPSA20676_00"
@@ -24150,6 +24160,11 @@
                     "PLAY_ON_XBOX": {
                         "type": "PLAY_ON_XBOX",
                         "target": 900,
+                        "applications": [
+                            {
+                                "id": "1424836075427332106"
+                            }
+                        ],
                         "external_ids": [
                             "1774165009"
                         ]
@@ -24157,6 +24172,11 @@
                     "PLAY_ON_PLAYSTATION": {
                         "type": "PLAY_ON_PLAYSTATION",
                         "target": 900,
+                        "applications": [
+                            {
+                                "id": "1424836075427332106"
+                            }
+                        ],
                         "external_ids": [
                             "PPSA25554_00",
                             "PPSA28606_00"
@@ -24483,6 +24503,11 @@
                     "PLAY_ON_XBOX": {
                         "type": "PLAY_ON_XBOX",
                         "target": 900,
+                        "applications": [
+                            {
+                                "id": "1425690433018925056"
+                            }
+                        ],
                         "external_ids": [
                             "1840884885"
                         ]
@@ -24490,6 +24515,11 @@
                     "PLAY_ON_PLAYSTATION": {
                         "type": "PLAY_ON_PLAYSTATION",
                         "target": 900,
+                        "applications": [
+                            {
+                                "id": "1425690433018925056"
+                            }
+                        ],
                         "external_ids": [
                             "PPSA19534_00"
                         ]
@@ -24975,9 +25005,9 @@
                         "event_name": "PLAY_ON_PLAYSTATION",
                         "target": 900,
                         "external_ids": [
-                            "PPSA21668_00",
                             "PPSA21669_00",
-                            "CUSA55048_00"
+                            "CUSA55048_00",
+                            "PPSA21668_00"
                         ]
                     }
                 }
@@ -24996,6 +25026,11 @@
                     "PLAY_ON_XBOX": {
                         "type": "PLAY_ON_XBOX",
                         "target": 900,
+                        "applications": [
+                            {
+                                "id": "1314395942253756416"
+                            }
+                        ],
                         "external_ids": [
                             "1794906646"
                         ]
@@ -25003,10 +25038,15 @@
                     "PLAY_ON_PLAYSTATION": {
                         "type": "PLAY_ON_PLAYSTATION",
                         "target": 900,
+                        "applications": [
+                            {
+                                "id": "1314395942253756416"
+                            }
+                        ],
                         "external_ids": [
-                            "PPSA21668_00",
                             "PPSA21669_00",
-                            "CUSA55048_00"
+                            "CUSA55048_00",
+                            "PPSA21668_00"
                         ]
                     }
                 },
@@ -25352,7 +25392,12 @@
                 "tasks": {
                     "PLAY_ACTIVITY": {
                         "type": "PLAY_ACTIVITY",
-                        "target": 900
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1420804330419912840"
+                            }
+                        ]
                     }
                 },
                 "join_operator": "or"
@@ -25604,8 +25649,8 @@
                         "external_ids": [
                             "PPSA01922_00",
                             "CUSA07669_00",
-                            "PPSA01923_00",
-                            "CUSA07022_00"
+                            "CUSA07022_00",
+                            "PPSA01923_00"
                         ]
                     }
                 }
@@ -25624,6 +25669,11 @@
                     "PLAY_ON_XBOX": {
                         "type": "PLAY_ON_XBOX",
                         "target": 900,
+                        "applications": [
+                            {
+                                "id": "1402418703554842694"
+                            }
+                        ],
                         "external_ids": [
                             "267695549"
                         ]
@@ -25631,11 +25681,16 @@
                     "PLAY_ON_PLAYSTATION": {
                         "type": "PLAY_ON_PLAYSTATION",
                         "target": 900,
+                        "applications": [
+                            {
+                                "id": "1402418703554842694"
+                            }
+                        ],
                         "external_ids": [
                             "PPSA01922_00",
                             "CUSA07669_00",
-                            "PPSA01923_00",
-                            "CUSA07022_00"
+                            "CUSA07022_00",
+                            "PPSA01923_00"
                         ]
                     }
                 },
@@ -25736,10 +25791,10 @@
                         "event_name": "PLAY_ON_PLAYSTATION",
                         "target": 900,
                         "external_ids": [
+                            "PPSA01922_00",
                             "CUSA07669_00",
-                            "CUSA07022_00",
                             "PPSA01923_00",
-                            "PPSA01922_00"
+                            "CUSA07022_00"
                         ]
                     }
                 }
@@ -25758,6 +25813,11 @@
                     "PLAY_ON_XBOX": {
                         "type": "PLAY_ON_XBOX",
                         "target": 900,
+                        "applications": [
+                            {
+                                "id": "1402418703554842694"
+                            }
+                        ],
                         "external_ids": [
                             "267695549"
                         ]
@@ -25765,11 +25825,16 @@
                     "PLAY_ON_PLAYSTATION": {
                         "type": "PLAY_ON_PLAYSTATION",
                         "target": 900,
+                        "applications": [
+                            {
+                                "id": "1402418703554842694"
+                            }
+                        ],
                         "external_ids": [
+                            "PPSA01922_00",
                             "CUSA07669_00",
-                            "CUSA07022_00",
                             "PPSA01923_00",
-                            "PPSA01922_00"
+                            "CUSA07022_00"
                         ]
                     }
                 },
@@ -25870,11 +25935,11 @@
                         "event_name": "PLAY_ON_PLAYSTATION",
                         "target": 900,
                         "external_ids": [
-                            "PPSA01980_00",
                             "PPSA02323_00",
-                            "CUSA00080_00",
                             "CUSA00106_00",
-                            "PPSA01737_00"
+                            "PPSA01737_00",
+                            "CUSA00080_00",
+                            "PPSA01980_00"
                         ]
                     }
                 }
@@ -25893,6 +25958,11 @@
                     "PLAY_ON_XBOX": {
                         "type": "PLAY_ON_XBOX",
                         "target": 900,
+                        "applications": [
+                            {
+                                "id": "1402418586244612216"
+                            }
+                        ],
                         "external_ids": [
                             "1482870140"
                         ]
@@ -25900,12 +25970,17 @@
                     "PLAY_ON_PLAYSTATION": {
                         "type": "PLAY_ON_PLAYSTATION",
                         "target": 900,
+                        "applications": [
+                            {
+                                "id": "1402418586244612216"
+                            }
+                        ],
                         "external_ids": [
-                            "PPSA01980_00",
                             "PPSA02323_00",
-                            "CUSA00080_00",
                             "CUSA00106_00",
-                            "PPSA01737_00"
+                            "PPSA01737_00",
+                            "CUSA00080_00",
+                            "PPSA01980_00"
                         ]
                     }
                 },
@@ -26029,6 +26104,11 @@
                     "PLAY_ON_XBOX": {
                         "type": "PLAY_ON_XBOX",
                         "target": 900,
+                        "applications": [
+                            {
+                                "id": "1402418571715543120"
+                            }
+                        ],
                         "external_ids": [
                             "1983212679"
                         ]
@@ -26036,6 +26116,11 @@
                     "PLAY_ON_PLAYSTATION": {
                         "type": "PLAY_ON_PLAYSTATION",
                         "target": 900,
+                        "applications": [
+                            {
+                                "id": "1402418571715543120"
+                            }
+                        ],
                         "external_ids": [
                             "CUSA29954_00",
                             "CUSA29953_00"
@@ -28198,6 +28283,11 @@
                     "PLAY_ON_XBOX": {
                         "type": "PLAY_ON_XBOX",
                         "target": 900,
+                        "applications": [
+                            {
+                                "id": "1431009382950506536"
+                            }
+                        ],
                         "external_ids": [
                             "1728022534"
                         ]
@@ -28205,6 +28295,11 @@
                     "PLAY_ON_PLAYSTATION": {
                         "type": "PLAY_ON_PLAYSTATION",
                         "target": 900,
+                        "applications": [
+                            {
+                                "id": "1431009382950506536"
+                            }
+                        ],
                         "external_ids": [
                             "PPSA29802_00",
                             "CUSA55613_00"
@@ -28451,8 +28546,8 @@
                         "event_name": "PLAY_ON_PLAYSTATION",
                         "target": 900,
                         "external_ids": [
-                            "PPSA19534_00",
-                            "PPSA28176_00"
+                            "PPSA28176_00",
+                            "PPSA19534_00"
                         ]
                     }
                 }
@@ -28471,6 +28566,11 @@
                     "PLAY_ON_XBOX": {
                         "type": "PLAY_ON_XBOX",
                         "target": 900,
+                        "applications": [
+                            {
+                                "id": "1425690433018925056"
+                            }
+                        ],
                         "external_ids": [
                             "1840884885"
                         ]
@@ -28478,9 +28578,14 @@
                     "PLAY_ON_PLAYSTATION": {
                         "type": "PLAY_ON_PLAYSTATION",
                         "target": 900,
+                        "applications": [
+                            {
+                                "id": "1425690433018925056"
+                            }
+                        ],
                         "external_ids": [
-                            "PPSA19534_00",
-                            "PPSA28176_00"
+                            "PPSA28176_00",
+                            "PPSA19534_00"
                         ]
                     }
                 },
@@ -28680,16 +28785,16 @@
                         "event_name": "PLAY_ON_XBOX",
                         "target": 900,
                         "external_ids": [
-                            "1908300140",
-                            "2118292977"
+                            "2118292977",
+                            "1908300140"
                         ]
                     },
                     "PLAY_ON_PLAYSTATION": {
                         "event_name": "PLAY_ON_PLAYSTATION",
                         "target": 900,
                         "external_ids": [
-                            "PPSA04998_00",
-                            "PPSA27153_00"
+                            "PPSA27153_00",
+                            "PPSA04998_00"
                         ]
                     }
                 }
@@ -28708,17 +28813,27 @@
                     "PLAY_ON_XBOX": {
                         "type": "PLAY_ON_XBOX",
                         "target": 900,
+                        "applications": [
+                            {
+                                "id": "1432419613165228174"
+                            }
+                        ],
                         "external_ids": [
-                            "1908300140",
-                            "2118292977"
+                            "2118292977",
+                            "1908300140"
                         ]
                     },
                     "PLAY_ON_PLAYSTATION": {
                         "type": "PLAY_ON_PLAYSTATION",
                         "target": 900,
+                        "applications": [
+                            {
+                                "id": "1432419613165228174"
+                            }
+                        ],
                         "external_ids": [
-                            "PPSA04998_00",
-                            "PPSA27153_00"
+                            "PPSA27153_00",
+                            "PPSA04998_00"
                         ]
                     }
                 },
@@ -29028,8 +29143,8 @@
                         "external_ids": [
                             "CUSA07669_00",
                             "CUSA07022_00",
-                            "PPSA01923_00",
-                            "PPSA01922_00"
+                            "PPSA01922_00",
+                            "PPSA01923_00"
                         ]
                     }
                 }
@@ -29048,6 +29163,11 @@
                     "PLAY_ON_XBOX": {
                         "type": "PLAY_ON_XBOX",
                         "target": 900,
+                        "applications": [
+                            {
+                                "id": "1402418703554842694"
+                            }
+                        ],
                         "external_ids": [
                             "267695549"
                         ]
@@ -29055,11 +29175,16 @@
                     "PLAY_ON_PLAYSTATION": {
                         "type": "PLAY_ON_PLAYSTATION",
                         "target": 900,
+                        "applications": [
+                            {
+                                "id": "1402418703554842694"
+                            }
+                        ],
                         "external_ids": [
                             "CUSA07669_00",
                             "CUSA07022_00",
-                            "PPSA01923_00",
-                            "PPSA01922_00"
+                            "PPSA01922_00",
+                            "PPSA01923_00"
                         ]
                     }
                 },
@@ -29320,6 +29445,11 @@
                     "PLAY_ON_PLAYSTATION": {
                         "type": "PLAY_ON_PLAYSTATION",
                         "target": 900,
+                        "applications": [
+                            {
+                                "id": "1121201675240210523"
+                            }
+                        ],
                         "external_ids": [
                             "PPSA08459_00",
                             "PPSA08458_00"
@@ -30508,6 +30638,195 @@
                 "link": "https://ad.doubleclick.net/ddm/trackclk/N2464377.3866164DISCORD.COM/B34241706.432871054;dc_trk_aid=626075048;dc_trk_cid=244981569;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;ltd=;dc_tdv=1",
                 "button_label": "Shop Now",
                 "subtitle": "I mean, it's a really nice bidet."
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
+    },
+    {
+        "id": "1435012985872715946",
+        "config": {
+            "id": "1435012985872715946",
+            "config_version": 2,
+            "starts_at": "2025-11-10T18:00:17+00:00",
+            "expires_at": "2025-11-17T00:00:17+00:00",
+            "features": [
+                3,
+                9,
+                13,
+                14,
+                15,
+                16,
+                18,
+                19,
+                23
+            ],
+            "application": {
+                "link": "https://store.ubisoft.com/anno-117--pax-romana/6638e5dcaa201a2d55bcc772.html/?ucid=DDP-272723&addinfo=&bi=pme",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1435012985872715946/1435781245371154512.jpg",
+                "hero_video": "quests/1435012985872715946/1435781005217894450.mp4",
+                "quest_bar_hero": "quests/1435012985872715946/1435780363392913528.jpg",
+                "quest_bar_hero_video": "quests/1435012985872715946/1435781005217894450.mp4",
+                "game_tile": "1435781739409576129.jpg",
+                "logotype": "1436162857484943471.png",
+                "game_tile_light": "quests/1435012985872715946/1435781661630529716.jpg",
+                "game_tile_dark": "quests/1435012985872715946/1435781661630529716.jpg",
+                "logotype_light": "quests/1435012985872715946/1436162718913663068.png",
+                "logotype_dark": "quests/1435012985872715946/1435781506474840246.png"
+            },
+            "colors": {
+                "primary": "#FFFFFF",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Anno 117",
+                "game_title": "Anno 117: Pax Romana",
+                "game_publisher": "Ubisoft"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "event_name": "WATCH_VIDEO",
+                        "target": 158,
+                        "external_ids": []
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "event_name": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 158,
+                        "external_ids": []
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 158,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1435012985872715946/1436043508824805468_1080.mp4",
+                                "width": 1280,
+                                "height": 720,
+                                "thumbnail": "quests/1435012985872715946/1436095773530914887.jpg",
+                                "caption": "quests/1435012985872715946/1436100189327724718.vtt",
+                                "transcript": "quests/1435012985872715946/1436100360342077480.txt"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1435012985872715946/1436043508824805468_720.mp4",
+                                "width": 1280,
+                                "height": 720,
+                                "thumbnail": "quests/1435012985872715946/1436095773530914887.jpg",
+                                "caption": "quests/1435012985872715946/1436100189327724718.vtt",
+                                "transcript": "quests/1435012985872715946/1436100360342077480.txt"
+                            },
+                            "video_hls": {
+                                "url": "quests/1435012985872715946/1436043508824805468.m3u8",
+                                "width": 1280,
+                                "height": 720,
+                                "thumbnail": "quests/1435012985872715946/1436095773530914887.jpg",
+                                "caption": "quests/1435012985872715946/1436100189327724718.vtt",
+                                "transcript": "quests/1435012985872715946/1436100360342077480.txt"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "Anno 117: Pax Romana Launch Trailer",
+                            "video_end_cta_subtitle": "Anno 117: Pax Romana – Available November 13",
+                            "video_end_cta_button_label": "Get Game"
+                        }
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 158,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1435012985872715946/1436040266661363823_1080.mp4",
+                                "width": 405,
+                                "height": 720,
+                                "thumbnail": "quests/1435012985872715946/1436095773530914887.jpg",
+                                "caption": "quests/1435012985872715946/1436100189327724718.vtt",
+                                "transcript": "quests/1435012985872715946/1436100360342077480.txt"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1435012985872715946/1436040266661363823_720.mp4",
+                                "width": 405,
+                                "height": 720,
+                                "thumbnail": "quests/1435012985872715946/1436095773530914887.jpg",
+                                "caption": "quests/1435012985872715946/1436100189327724718.vtt",
+                                "transcript": "quests/1435012985872715946/1436100360342077480.txt"
+                            },
+                            "video_hls": {
+                                "url": "quests/1435012985872715946/1436040266661363823.m3u8",
+                                "width": 405,
+                                "height": 720,
+                                "thumbnail": "quests/1435012985872715946/1436095773530914887.jpg",
+                                "caption": "quests/1435012985872715946/1436100189327724718.vtt",
+                                "transcript": "quests/1435012985872715946/1436100360342077480.txt"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "Anno 117: Pax Romana Launch Trailer",
+                            "video_end_cta_subtitle": "Anno 117: Pax Romana – Available November 13",
+                            "video_end_cta_button_label": "Get Game"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 3,
+                        "sku_id": "1435783917776146465",
+                        "asset": "quests/1435012985872715946/1435785261735739402.mp4",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "Coliseum Avatar",
+                            "name_with_article": "a Coliseum Avatar",
+                            "redemption_instructions_by_platform": {
+                                "0": "Default"
+                            }
+                        },
+                        "expires_at": "2026-01-17T00:00:00+00:00",
+                        "expires_at_premium": null,
+                        "expiration_mode": 3
+                    }
+                ],
+                "rewards_expire_at": "2025-12-17T00:00:17+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "video_metadata": {
+                "messages": {
+                    "video_title": "Anno 117: Pax Romana Launch Trailer",
+                    "video_end_cta_subtitle": "Anno 117: Pax Romana – Available November 13",
+                    "video_end_cta_button_label": "Get Game"
+                },
+                "assets": {
+                    "video_player_video_hls": "quests/1435012985872715946/1436043508824805468.m3u8",
+                    "video_player_video": "quests/1435012985872715946/1436043508824805468_1080.mp4",
+                    "video_player_thumbnail": "quests/1435012985872715946/1436095773530914887.jpg",
+                    "video_player_video_low_res": "quests/1435012985872715946/1436043508824805468_720.mp4",
+                    "video_player_caption": "quests/1435012985872715946/1436100189327724718.vtt",
+                    "video_player_transcript": "quests/1435012985872715946/1436100360342077480.txt",
+                    "quest_bar_preview_video": null,
+                    "quest_bar_preview_thumbnail": null,
+                    "quest_home_video": null
+                }
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://store.ubisoft.com/anno-117--pax-romana/6638e5dcaa201a2d55bcc772.html/?ucid=DDP-272723&addinfo=&bi=pme",
+                "button_label": "Get Game",
+                "subtitle": "Anno 117: Pax Romana – Available November 13"
             }
         },
         "user_status": null,
