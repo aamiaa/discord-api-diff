@@ -11460,5 +11460,91 @@
                 "randomizedSources": []
             }
         ]
+    },
+    {
+        "type": 1,
+        "id": "1436367669074067487",
+        "sku_id": "1436367669057159328",
+        "title": "Black Ops 7",
+        "description": "Show this effect when others view your profile.",
+        "accessibilityLabel": "Animated border with red butterfly silhouette surrounded by blue electric interference and digital corruption patterns.",
+        "animationType": 2,
+        "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/content/71134496b2bd1a2e6c362503662b79d0eaa987f2ce0db20d6e6c4d03b44a5597",
+        "reducedMotionSrc": "https://cdn.discordapp.com/assets/content/db50887c5ff32cdd924644c235798765e87c5059c4469377b95a5ed387b0d89c",
+        "effects": [
+            {
+                "src": "https://cdn.discordapp.com/assets/content/b2246fcbfca7512e43e67ccbc0a0f54a400fde4822222204eeef8d8ab506281b",
+                "loop": false,
+                "height": 880,
+                "width": 450,
+                "duration": 3875,
+                "start": 0,
+                "loopDelay": 0,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "zIndex": 100,
+                "randomizedSources": []
+            },
+            {
+                "src": "https://cdn.discordapp.com/assets/content/f68d8ed5a7bbd2ac8eecf85e6ef19c6286a2d05831b94a1de5372fa26f3eb3f0",
+                "loop": true,
+                "height": 880,
+                "width": 450,
+                "duration": 3375,
+                "start": 3875,
+                "loopDelay": 3000,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "zIndex": 101,
+                "randomizedSources": []
+            }
+        ]
+    },
+    {
+        "type": 1,
+        "id": "1436367669095039066",
+        "sku_id": "1436367669082325013",
+        "title": "Shattered Reality",
+        "description": "Show this effect when others view your profile.",
+        "accessibilityLabel": "Dynamic frame featuring cascading blue and orange data streams with binary code elements flowing vertically.",
+        "animationType": 2,
+        "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/content/cea065bfb961187515e30ab2b5f2aaef7dae845107c47347a8cdb1cd1ed7c49d",
+        "reducedMotionSrc": "https://cdn.discordapp.com/assets/content/f8c968dd9902dee88de4e28f28eca9e91a48b6b66046fda9eee868f44e30d6b3",
+        "effects": [
+            {
+                "src": "https://cdn.discordapp.com/assets/content/ae46911c496f966781380267f970a315db5458ea6c6553e7af771d431a3e4fa0",
+                "loop": false,
+                "height": 880,
+                "width": 450,
+                "duration": 5000,
+                "start": 0,
+                "loopDelay": 0,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "zIndex": 100,
+                "randomizedSources": []
+            },
+            {
+                "src": "https://cdn.discordapp.com/assets/content/4049f02d5fe6eda17cf66dc047480e02c669b7022255203a996557086da2c44f",
+                "loop": true,
+                "height": 880,
+                "width": 450,
+                "duration": 5000,
+                "start": 5000,
+                "loopDelay": 3000,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "zIndex": 101,
+                "randomizedSources": []
+            }
+        ]
     }
 ]
