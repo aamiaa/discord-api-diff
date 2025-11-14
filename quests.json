@@ -29801,7 +29801,7 @@
                 23
             ],
             "application": {
-                "link": "https://www.kingofmeat.com/sale?utm_source=Discord&utm_campaign=_KoMeat_Discord_USDE_Web_AWS_HighImpact_CPM_VIDQUEST1_Custom_20251105_NA_null",
+                "link": "https://store.steampowered.com/app/1926980/King_of_Meat/",
                 "id": "545364944258990091",
                 "name": "Discord"
             },
@@ -29871,8 +29871,8 @@
                         "messages": {
                             "video_title": "King of Meat: 75% off limited-time sale",
                             "video_end_cta_title": "King of Meat",
-                            "video_end_cta_subtitle": "75% off and available on Steam, PlayStation 5, and Xbox Series X|S",
-                            "video_end_cta_button_label": "Buy Now"
+                            "video_end_cta_subtitle": "Steam Free Weekend - Play for free until Nov 17",
+                            "video_end_cta_button_label": "Play Now"
                         }
                     }
                 },
@@ -29903,8 +29903,8 @@
                 "messages": {
                     "video_title": "King of Meat: 75% off limited-time sale",
                     "video_end_cta_title": "King of Meat",
-                    "video_end_cta_subtitle": "75% off and available on Steam, PlayStation 5, and Xbox Series X|S",
-                    "video_end_cta_button_label": "Buy Now"
+                    "video_end_cta_subtitle": "Steam Free Weekend - Play for free until Nov 17",
+                    "video_end_cta_button_label": "Play Now"
                 },
                 "assets": {
                     "video_player_video_hls": "quests/1435367355759726642/1435370621705125938.m3u8",
@@ -29920,9 +29920,9 @@
             },
             "share_policy": "shareable_everywhere",
             "cta_config": {
-                "link": "https://www.kingofmeat.com/sale?utm_source=Discord&utm_campaign=_KoMeat_Discord_USDE_Web_AWS_HighImpact_CPM_VIDQUEST1_Custom_20251105_NA_null",
-                "button_label": "Buy Now",
-                "subtitle": "75% off and available on Steam, PlayStation 5, and Xbox Series X|S"
+                "link": "https://store.steampowered.com/app/1926980/King_of_Meat/",
+                "button_label": "Play Now",
+                "subtitle": "Steam Free Weekend - Play for free until Nov 17"
             }
         },
         "user_status": null,
@@ -31014,5 +31014,147 @@
                 "button_label": "Get Game"
             }
         }
+    },
+    {
+        "id": "1437518140476100638",
+        "config": {
+            "id": "1437518140476100638",
+            "config_version": 2,
+            "starts_at": "2025-11-14T18:00:52+00:00",
+            "expires_at": "2025-11-21T00:00:52+00:00",
+            "features": [
+                3,
+                9,
+                13,
+                14,
+                15,
+                16,
+                18,
+                19,
+                23
+            ],
+            "application": {
+                "link": "https://www.marvelrivals.com/",
+                "id": "1314395942253756416",
+                "name": "Marvel Rivals"
+            },
+            "assets": {
+                "hero": "quests/1437518140476100638/1437524732223291483.jpg",
+                "hero_video": "quests/1437518140476100638/1438217733530452008.mp4",
+                "quest_bar_hero": "quests/1437518140476100638/1438218390689939476.jpg",
+                "quest_bar_hero_video": "quests/1437518140476100638/1438217733530452008.mp4",
+                "game_tile": "1437525901184204820.png",
+                "logotype": "1438233528264425653.png",
+                "game_tile_light": "quests/1437518140476100638/1437525467379798086.png",
+                "game_tile_dark": "quests/1437518140476100638/1437525467379798086.png",
+                "logotype_light": "quests/1437518140476100638/1437525012037767188.png",
+                "logotype_dark": "quests/1437518140476100638/1437525307446919228.png"
+            },
+            "colors": {
+                "primary": "#2D2F44",
+                "secondary": "#01227F"
+            },
+            "messages": {
+                "quest_name": "Marvel Rivals S5.0 ",
+                "game_title": "Marvel Rivals",
+                "game_publisher": "NetEase Games"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "event_name": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "external_ids": []
+                    },
+                    "PLAY_ON_XBOX": {
+                        "event_name": "PLAY_ON_XBOX",
+                        "target": 900,
+                        "external_ids": [
+                            "1794906646"
+                        ]
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "event_name": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "external_ids": [
+                            "CUSA55048_00",
+                            "PPSA21669_00",
+                            "PPSA21668_00"
+                        ]
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1314395942253756416"
+                            }
+                        ]
+                    },
+                    "PLAY_ON_XBOX": {
+                        "type": "PLAY_ON_XBOX",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1314395942253756416"
+                            }
+                        ],
+                        "external_ids": [
+                            "1794906646"
+                        ]
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "type": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1314395942253756416"
+                            }
+                        ],
+                        "external_ids": [
+                            "CUSA55048_00",
+                            "PPSA21669_00",
+                            "PPSA21668_00"
+                        ]
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 orbs",
+                            "name_with_article": "700 orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "Default"
+                            }
+                        },
+                        "orb_quantity": 700
+                    }
+                ],
+                "rewards_expire_at": "2025-12-21T00:00:52+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://www.marvelrivals.com/",
+                "button_label": "Get Game"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
     }
 ]
