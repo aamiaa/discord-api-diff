@@ -31375,8 +31375,8 @@
                         "type": 4,
                         "sku_id": "1287881739531976815",
                         "messages": {
-                            "name": "200 orbs",
-                            "name_with_article": "200 orbs",
+                            "name": "200 Orbs",
+                            "name_with_article": "200 Orbs",
                             "redemption_instructions_by_platform": {
                                 "0": "Default"
                             }
@@ -31521,8 +31521,8 @@
                         "type": 4,
                         "sku_id": "1287881739531976815",
                         "messages": {
-                            "name": "150 orbs",
-                            "name_with_article": "150 orbs",
+                            "name": "150 Orbs",
+                            "name_with_article": "150 Orbs",
                             "redemption_instructions_by_platform": {
                                 "0": "Default"
                             }
@@ -31557,6 +31557,151 @@
             "cta_config": {
                 "link": "https://support.discord.com/hc/articles/30593690165783",
                 "subtitle": "Head to our Help Center for more information."
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
+    },
+    {
+        "id": "1438202046804136028",
+        "config": {
+            "id": "1438202046804136028",
+            "config_version": 2,
+            "starts_at": "2025-11-17T18:00:28+00:00",
+            "expires_at": "2025-12-01T00:00:28+00:00",
+            "features": [
+                3,
+                9,
+                13,
+                14,
+                15,
+                16,
+                18,
+                19,
+                23
+            ],
+            "application": {
+                "link": "https://microsoft.com/edge/copilot-mode?form=MW01C5&OCID=MW01C5",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1438202046804136028/1438203974313574581.jpg",
+                "hero_video": "quests/1438202046804136028/1438204079594541057.mp4",
+                "quest_bar_hero": "quests/1438202046804136028/1438203998652862494.jpg",
+                "quest_bar_hero_video": "quests/1438202046804136028/1438204079594541057.mp4",
+                "game_tile": "1438583219338612776.png",
+                "logotype": "1438215799998386186.png",
+                "game_tile_light": "quests/1438202046804136028/1438583145808003123.png",
+                "game_tile_dark": "quests/1438202046804136028/1438583145808003123.png",
+                "logotype_light": "quests/1438202046804136028/1438204162394427405.png",
+                "logotype_dark": "quests/1438202046804136028/1438215782344560764.png"
+            },
+            "colors": {
+                "primary": "#FFFFFF",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Microsoft Edge Your AI Browser",
+                "game_title": "Microsoft Edge",
+                "game_publisher": "Microsoft Edge"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "event_name": "WATCH_VIDEO",
+                        "target": 29,
+                        "external_ids": []
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 29,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1438202046804136028/1438210245909287143_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1438202046804136028/1438980759389077534.jpg",
+                                "caption": "quests/1438202046804136028/1438215412520063007.vtt",
+                                "transcript": "quests/1438202046804136028/1438215434066333696.txt"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1438202046804136028/1438210245909287143_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1438202046804136028/1438980759389077534.jpg",
+                                "caption": "quests/1438202046804136028/1438215412520063007.vtt",
+                                "transcript": "quests/1438202046804136028/1438215434066333696.txt"
+                            },
+                            "video_hls": {
+                                "url": "quests/1438202046804136028/1438210245909287143.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1438202046804136028/1438980759389077534.jpg",
+                                "caption": "quests/1438202046804136028/1438215412520063007.vtt",
+                                "transcript": "quests/1438202046804136028/1438215434066333696.txt"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "Meet Copilot Mode in Edge: Your AI Browser",
+                            "video_end_cta_subtitle": "Copilot Mode in Edge",
+                            "video_end_cta_button_label": "Learn More"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 orbs",
+                            "name_with_article": "700 orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "Default"
+                            }
+                        },
+                        "orb_quantity": 700
+                    }
+                ],
+                "rewards_expire_at": "2025-12-31T00:00:28+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "video_metadata": {
+                "messages": {
+                    "video_title": "Meet Copilot Mode in Edge: Your AI Browser",
+                    "video_end_cta_subtitle": "Copilot Mode in Edge",
+                    "video_end_cta_button_label": "Learn More"
+                },
+                "assets": {
+                    "video_player_video_hls": "quests/1438202046804136028/1438210245909287143.m3u8",
+                    "video_player_video": "quests/1438202046804136028/1438210245909287143_1080.mp4",
+                    "video_player_thumbnail": "quests/1438202046804136028/1438980759389077534.jpg",
+                    "video_player_video_low_res": "quests/1438202046804136028/1438210245909287143_720.mp4",
+                    "video_player_caption": "quests/1438202046804136028/1438215412520063007.vtt",
+                    "video_player_transcript": "quests/1438202046804136028/1438215434066333696.txt",
+                    "quest_bar_preview_video": null,
+                    "quest_bar_preview_thumbnail": null,
+                    "quest_home_video": null
+                }
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://microsoft.com/edge/copilot-mode?form=MW01C5&OCID=MW01C5",
+                "button_label": "Learn More",
+                "subtitle": "Copilot Mode in Edge"
             }
         },
         "user_status": null,
