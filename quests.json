@@ -31707,5 +31707,106 @@
         "user_status": null,
         "targeted_content": [],
         "preview": false
+    },
+    {
+        "id": "1436125144404725770",
+        "config": {
+            "id": "1436125144404725770",
+            "config_version": 2,
+            "starts_at": "2025-11-17T20:45:36+00:00",
+            "expires_at": "2025-11-24T00:00:36+00:00",
+            "features": [
+                3,
+                9,
+                13,
+                14,
+                15,
+                16,
+                18,
+                19,
+                23,
+                26
+            ],
+            "application": {
+                "link": "https://pplx.ai/discord-quest",
+                "id": "1415399944587706441",
+                "name": "the Comet AI browser"
+            },
+            "assets": {
+                "hero": "quests/1436125144404725770/1439438373180805227.jpg",
+                "hero_video": "quests/1436125144404725770/1439439215136870410.mp4",
+                "quest_bar_hero": "quests/1436125144404725770/1439438249981382718.jpg",
+                "quest_bar_hero_video": "quests/1436125144404725770/1439439215136870410.mp4",
+                "game_tile": "1439439679505305691.png",
+                "logotype": "1439439678519509064.png",
+                "game_tile_light": "quests/1436125144404725770/1439439507307892746.png",
+                "game_tile_dark": "quests/1436125144404725770/1439439434117419099.png",
+                "logotype_light": "quests/1436125144404725770/1439439582654632100.png",
+                "logotype_dark": "quests/1436125144404725770/1439439647242588221.png"
+            },
+            "colors": {
+                "primary": "#FFFFFF",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Download Comet Browser",
+                "game_title": "the Comet AI Browser",
+                "game_publisher": "Perplexity"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "event_name": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "external_ids": []
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1415399944587706441"
+                            }
+                        ]
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 Orbs",
+                            "name_with_article": "700 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "Default"
+                            }
+                        },
+                        "orb_quantity": 700
+                    }
+                ],
+                "rewards_expire_at": "2025-12-24T00:00:36+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://pplx.ai/discord-quest",
+                "button_label": "Install"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
     }
 ]
