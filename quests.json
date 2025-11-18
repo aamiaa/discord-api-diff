@@ -31808,5 +31808,164 @@
         "user_status": null,
         "targeted_content": [],
         "preview": false
+    },
+    {
+        "id": "1437537235133005914",
+        "config": {
+            "id": "1437537235133005914",
+            "config_version": 2,
+            "starts_at": "2025-11-18T00:00:45+00:00",
+            "expires_at": "2025-11-21T00:00:45+00:00",
+            "features": [
+                3,
+                9,
+                13,
+                14,
+                15,
+                16,
+                18,
+                19,
+                23
+            ],
+            "application": {
+                "link": "https://www.callofduty.com/playnow/blackops7?utm_source=discord&utm_medium=paid&utm_campaign=brand",
+                "id": "1423760184819581080",
+                "name": "Call of Duty: Black Ops 7"
+            },
+            "assets": {
+                "hero": "quests/1437537235133005914/1437538237513072710.jpg",
+                "hero_video": null,
+                "quest_bar_hero": "quests/1437537235133005914/1437538311957647451.jpg",
+                "quest_bar_hero_video": null,
+                "game_tile": "1437538495525687306.png",
+                "logotype": "1437538494540156979.png",
+                "game_tile_light": "quests/1437537235133005914/1437538353669996677.png",
+                "game_tile_dark": "quests/1437537235133005914/1437538353669996677.png",
+                "logotype_light": "quests/1437537235133005914/1437538424876830872.png",
+                "logotype_dark": "quests/1437537235133005914/1437538424876830872.png"
+            },
+            "colors": {
+                "primary": "#FFFFFF",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Call of Duty: Black Ops 7",
+                "game_title": "Call of Duty: Black Ops 7",
+                "game_publisher": "Activision"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "event_name": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "external_ids": []
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "event_name": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "external_ids": [
+                            "CUSA34031_00",
+                            "CUSA53714_00",
+                            "CUSA53711_00",
+                            "CUSA34032_00",
+                            "PPSA07950_00",
+                            "CUSA53712_00",
+                            "PPSA24266_00",
+                            "CUSA53710_00",
+                            "CUSA53713_00",
+                            "PPSA07951_00",
+                            "PPSA28781_00",
+                            "CUSA23827_00",
+                            "PPSA01649_00",
+                            "CUSA34029_00",
+                            "PPSA24264_00",
+                            "PPSA07953_00",
+                            "PPSA07952_00",
+                            "CUSA34030_00",
+                            "PPSA24263_00",
+                            "PPSA24265_00"
+                        ]
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1423760184819581080"
+                            }
+                        ]
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "type": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1423760184819581080"
+                            }
+                        ],
+                        "external_ids": [
+                            "CUSA34031_00",
+                            "CUSA53714_00",
+                            "CUSA53711_00",
+                            "CUSA34032_00",
+                            "PPSA07950_00",
+                            "CUSA53712_00",
+                            "PPSA24266_00",
+                            "CUSA53710_00",
+                            "CUSA53713_00",
+                            "PPSA07951_00",
+                            "PPSA28781_00",
+                            "CUSA23827_00",
+                            "PPSA01649_00",
+                            "CUSA34029_00",
+                            "PPSA24264_00",
+                            "PPSA07953_00",
+                            "PPSA07952_00",
+                            "CUSA34030_00",
+                            "PPSA24263_00",
+                            "PPSA24265_00"
+                        ]
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 1,
+                        "sku_id": "1437537235133005915",
+                        "asset": "quests/1437537235133005914/1437538892860620841.png",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "Exclusive Calling Card",
+                            "name_with_article": "an Exclusive Calling Card",
+                            "redemption_instructions_by_platform": {
+                                "0": "Redeem your code for an exclusive Calling Card at callofduty.com/redeem.\n"
+                            }
+                        },
+                        "approximate_count": null,
+                        "redemption_link": null
+                    }
+                ],
+                "rewards_expire_at": "2025-12-21T00:00:45+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://www.callofduty.com/playnow/blackops7?utm_source=discord&utm_medium=paid&utm_campaign=brand"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
     }
 ]
