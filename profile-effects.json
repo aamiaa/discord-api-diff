@@ -11546,5 +11546,48 @@
                 "randomizedSources": []
             }
         ]
+    },
+    {
+        "type": 1,
+        "id": "1427463138646954039",
+        "sku_id": "1427463138634109028",
+        "title": "Infinite Swirl",
+        "description": "Show this effect when others view your profile.",
+        "accessibilityLabel": "A cosmic vortex of swirling purple and cyan light pulses across the profile before settling.",
+        "animationType": 2,
+        "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/content/4b7152a9817541a0e6897108ce9e02ab005c726704064820f286641e4ac6b9ae",
+        "reducedMotionSrc": "https://cdn.discordapp.com/assets/content/f55a04e4007ec4f14d0049b009ba37d643c4a1731568438f8dc5abbfba64544a",
+        "effects": [
+            {
+                "src": "https://cdn.discordapp.com/assets/content/1fb36bb69c8ada1e0ab81272c038591b60a4e74e9046675bc845a6c48778949a",
+                "loop": false,
+                "height": 880,
+                "width": 450,
+                "duration": 3983,
+                "start": 0,
+                "loopDelay": 0,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "zIndex": 100,
+                "randomizedSources": []
+            },
+            {
+                "src": "https://cdn.discordapp.com/assets/content/f118567c8688b211d0b2233d9013b08950c3a62de9e50803ec4da27a24d74daf",
+                "loop": true,
+                "height": 880,
+                "width": 450,
+                "duration": 2988,
+                "start": 6200,
+                "loopDelay": 3000,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "zIndex": 101,
+                "randomizedSources": []
+            }
+        ]
     }
 ]
