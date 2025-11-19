@@ -29788,7 +29788,7 @@
             "id": "1435367355759726642",
             "config_version": 2,
             "starts_at": "2025-11-06T00:15:25+00:00",
-            "expires_at": "2025-11-19T00:00:25+00:00",
+            "expires_at": "2025-11-19T07:59:25+00:00",
             "features": [
                 3,
                 9,
@@ -29894,7 +29894,7 @@
                         "orb_quantity": 700
                     }
                 ],
-                "rewards_expire_at": "2025-12-19T00:00:25+00:00",
+                "rewards_expire_at": "2025-12-19T07:59:25+00:00",
                 "platforms": [
                     0
                 ]
@@ -31163,7 +31163,7 @@
             "id": "1436481141711442101",
             "config_version": 2,
             "starts_at": "2025-11-14T22:00:12+00:00",
-            "expires_at": "2025-11-20T00:00:12+00:00",
+            "expires_at": "2025-11-23T00:00:12+00:00",
             "features": [
                 3,
                 9,
@@ -31186,11 +31186,11 @@
                 "quest_bar_hero": "quests/1436481141711442101/1437506322546294826.jpg",
                 "quest_bar_hero_video": "quests/1436481141711442101/1438234166029324452.mp4",
                 "game_tile": "1437508009306750986.png",
-                "logotype": "1437508008325152900.png",
+                "logotype": "1440412200660635803.png",
                 "game_tile_light": "quests/1436481141711442101/1437507917950488706.png",
                 "game_tile_dark": "quests/1436481141711442101/1437507917950488706.png",
-                "logotype_light": "quests/1436481141711442101/1437507706150846464.png",
-                "logotype_dark": "quests/1436481141711442101/1437507706150846464.png"
+                "logotype_light": "quests/1436481141711442101/1440412180095963389.png",
+                "logotype_dark": "quests/1436481141711442101/1440412180095963389.png"
             },
             "colors": {
                 "primary": "#CEA36C",
@@ -31214,8 +31214,8 @@
                         "event_name": "PLAY_ON_PLAYSTATION",
                         "target": 900,
                         "external_ids": [
-                            "PPSA29394_00",
-                            "PPSA23355_00"
+                            "PPSA23355_00",
+                            "PPSA29394_00"
                         ]
                     }
                 }
@@ -31240,8 +31240,8 @@
                             }
                         ],
                         "external_ids": [
-                            "PPSA29394_00",
-                            "PPSA23355_00"
+                            "PPSA23355_00",
+                            "PPSA29394_00"
                         ]
                     }
                 },
@@ -31263,7 +31263,7 @@
                         "orb_quantity": 700
                     }
                 ],
-                "rewards_expire_at": "2025-12-20T00:00:12+00:00",
+                "rewards_expire_at": "2025-12-23T00:00:12+00:00",
                 "platforms": [
                     0
                 ]
@@ -31302,7 +31302,7 @@
                 "name": "Discord"
             },
             "assets": {
-                "hero": "quests/1418350811687419914/1422967904764170411.jpg",
+                "hero": "quests/1418350811687419914/1440441987185770516.jpg",
                 "hero_video": null,
                 "quest_bar_hero": "quests/1418350811687419914/1422967904764170411.jpg",
                 "quest_bar_hero_video": null,
@@ -31443,7 +31443,7 @@
                 "name": "Discord"
             },
             "assets": {
-                "hero": "quests/1410358070831480904/97e67e97-e42a-4d32-92d1-43c7f7967ad3.jpeg",
+                "hero": "quests/1410358070831480904/1440427094801911919.jpg",
                 "hero_video": null,
                 "quest_bar_hero": "quests/1410358070831480904/1440368088196579358.jpg",
                 "quest_bar_hero_video": null,
@@ -31592,11 +31592,11 @@
                 "quest_bar_hero": "quests/1438202046804136028/1438203998652862494.jpg",
                 "quest_bar_hero_video": "quests/1438202046804136028/1438204079594541057.mp4",
                 "game_tile": "1438583219338612776.png",
-                "logotype": "1438215799998386186.png",
+                "logotype": "1440412013779095624.png",
                 "game_tile_light": "quests/1438202046804136028/1438583145808003123.png",
                 "game_tile_dark": "quests/1438202046804136028/1438583145808003123.png",
-                "logotype_light": "quests/1438202046804136028/1438204162394427405.png",
-                "logotype_dark": "quests/1438202046804136028/1438215782344560764.png"
+                "logotype_light": "quests/1438202046804136028/1440411991385706693.png",
+                "logotype_dark": "quests/1438202046804136028/1440411967222321182.png"
             },
             "colors": {
                 "primary": "#FFFFFF",
@@ -31862,30 +31862,37 @@
                         "target": 900,
                         "external_ids": []
                     },
+                    "PLAY_ON_XBOX": {
+                        "event_name": "PLAY_ON_XBOX",
+                        "target": 900,
+                        "external_ids": [
+                            "2001700854"
+                        ]
+                    },
                     "PLAY_ON_PLAYSTATION": {
                         "event_name": "PLAY_ON_PLAYSTATION",
                         "target": 900,
                         "external_ids": [
-                            "CUSA34031_00",
-                            "CUSA53714_00",
-                            "CUSA53711_00",
                             "CUSA34032_00",
-                            "PPSA07950_00",
-                            "CUSA53712_00",
-                            "PPSA24266_00",
-                            "CUSA53710_00",
+                            "PPSA24265_00",
+                            "CUSA53714_00",
                             "CUSA53713_00",
-                            "PPSA07951_00",
-                            "PPSA28781_00",
-                            "CUSA23827_00",
-                            "PPSA01649_00",
-                            "CUSA34029_00",
                             "PPSA24264_00",
-                            "PPSA07953_00",
-                            "PPSA07952_00",
+                            "CUSA23827_00",
+                            "PPSA24266_00",
                             "CUSA34030_00",
                             "PPSA24263_00",
-                            "PPSA24265_00"
+                            "PPSA07953_00",
+                            "CUSA53712_00",
+                            "PPSA07950_00",
+                            "CUSA34029_00",
+                            "PPSA28781_00",
+                            "PPSA07951_00",
+                            "CUSA53711_00",
+                            "PPSA07952_00",
+                            "CUSA53710_00",
+                            "PPSA01649_00",
+                            "CUSA34031_00"
                         ]
                     }
                 }
@@ -31901,6 +31908,18 @@
                             }
                         ]
                     },
+                    "PLAY_ON_XBOX": {
+                        "type": "PLAY_ON_XBOX",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1423760184819581080"
+                            }
+                        ],
+                        "external_ids": [
+                            "2001700854"
+                        ]
+                    },
                     "PLAY_ON_PLAYSTATION": {
                         "type": "PLAY_ON_PLAYSTATION",
                         "target": 900,
@@ -31910,26 +31929,26 @@
                             }
                         ],
                         "external_ids": [
-                            "CUSA34031_00",
-                            "CUSA53714_00",
-                            "CUSA53711_00",
                             "CUSA34032_00",
-                            "PPSA07950_00",
-                            "CUSA53712_00",
-                            "PPSA24266_00",
-                            "CUSA53710_00",
+                            "PPSA24265_00",
+                            "CUSA53714_00",
                             "CUSA53713_00",
-                            "PPSA07951_00",
-                            "PPSA28781_00",
-                            "CUSA23827_00",
-                            "PPSA01649_00",
-                            "CUSA34029_00",
                             "PPSA24264_00",
-                            "PPSA07953_00",
-                            "PPSA07952_00",
+                            "CUSA23827_00",
+                            "PPSA24266_00",
                             "CUSA34030_00",
                             "PPSA24263_00",
-                            "PPSA24265_00"
+                            "PPSA07953_00",
+                            "CUSA53712_00",
+                            "PPSA07950_00",
+                            "CUSA34029_00",
+                            "PPSA28781_00",
+                            "PPSA07951_00",
+                            "CUSA53711_00",
+                            "PPSA07952_00",
+                            "CUSA53710_00",
+                            "PPSA01649_00",
+                            "CUSA34031_00"
                         ]
                     }
                 },
@@ -31962,6 +31981,591 @@
             "share_policy": "shareable_everywhere",
             "cta_config": {
                 "link": "https://www.callofduty.com/playnow/blackops7?utm_source=discord&utm_medium=paid&utm_campaign=brand"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
+    },
+    {
+        "id": "1439764528715010058",
+        "config": {
+            "id": "1439764528715010058",
+            "config_version": 2,
+            "starts_at": "2025-11-18T18:00:13+00:00",
+            "expires_at": "2025-11-26T00:00:13+00:00",
+            "features": [
+                3,
+                9,
+                13,
+                14,
+                15,
+                16,
+                18,
+                19,
+                23
+            ],
+            "application": {
+                "link": "https://www.playdeltaforce.com/wand/discordahsarah/index.html",
+                "id": "1314682894106497096",
+                "name": "Delta Force"
+            },
+            "assets": {
+                "hero": "quests/1439764528715010058/1440065240157917334.jpg",
+                "hero_video": "quests/1439764528715010058/1440065275159646248.mp4",
+                "quest_bar_hero": "quests/1439764528715010058/1440065171107221564.jpg",
+                "quest_bar_hero_video": "quests/1439764528715010058/1440065198680576100.mp4",
+                "game_tile": "1440065583038075011.png",
+                "logotype": "1440065582153072680.png",
+                "game_tile_light": "quests/1439764528715010058/1440065367841181726.png",
+                "game_tile_dark": "quests/1439764528715010058/1440065367841181726.png",
+                "logotype_light": "quests/1439764528715010058/1440065314175062231.png",
+                "logotype_dark": "quests/1439764528715010058/1440065314175062231.png"
+            },
+            "colors": {
+                "primary": "#FFFFFF",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "New Season Ahsarah",
+                "game_title": "Delta Force",
+                "game_publisher": "Team Jade"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "event_name": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "external_ids": []
+                    },
+                    "PLAY_ON_XBOX": {
+                        "event_name": "PLAY_ON_XBOX",
+                        "target": 900,
+                        "external_ids": [
+                            "1854680102"
+                        ]
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "event_name": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "external_ids": [
+                            "PPSA28881_00",
+                            "PPSA28882_00",
+                            "PPSA28884_00",
+                            "PPSA28883_00"
+                        ]
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1314682894106497096"
+                            }
+                        ]
+                    },
+                    "PLAY_ON_XBOX": {
+                        "type": "PLAY_ON_XBOX",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1314682894106497096"
+                            }
+                        ],
+                        "external_ids": [
+                            "1854680102"
+                        ]
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "type": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1314682894106497096"
+                            }
+                        ],
+                        "external_ids": [
+                            "PPSA28881_00",
+                            "PPSA28882_00",
+                            "PPSA28884_00",
+                            "PPSA28883_00"
+                        ]
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 orbs",
+                            "name_with_article": "700 orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "Default"
+                            }
+                        },
+                        "orb_quantity": 700
+                    }
+                ],
+                "rewards_expire_at": "2025-12-26T00:00:13+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://www.playdeltaforce.com/wand/discordahsarah/index.html"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
+    },
+    {
+        "id": "1438642430571315290",
+        "config": {
+            "id": "1438642430571315290",
+            "config_version": 2,
+            "starts_at": "2025-11-18T18:00:24+00:00",
+            "expires_at": "2025-11-30T01:00:24+00:00",
+            "features": [
+                3,
+                9,
+                13,
+                14,
+                15,
+                16,
+                18,
+                19,
+                23
+            ],
+            "application": {
+                "link": "https://store.steampowered.com/app/2781620/Risk_of_Rain_2_Alloyed_Collective/",
+                "id": "1402418087793528862",
+                "name": "Risk of Rain 2"
+            },
+            "assets": {
+                "hero": "quests/1438642430571315290/1438684302563999846.jpg",
+                "hero_video": "quests/1438642430571315290/1438676678598590494.mp4",
+                "quest_bar_hero": "quests/1438642430571315290/1438685383452786739.jpg",
+                "quest_bar_hero_video": "quests/1438642430571315290/1438676678598590494.mp4",
+                "game_tile": "1438685671438028932.png",
+                "logotype": "1438685670523539576.png",
+                "game_tile_light": "quests/1438642430571315290/1438684056891031754.png",
+                "game_tile_dark": "quests/1438642430571315290/1438684056891031754.png",
+                "logotype_light": "quests/1438642430571315290/1438683089357242419.png",
+                "logotype_dark": "quests/1438642430571315290/1438683113696919652.png"
+            },
+            "colors": {
+                "primary": "#FFFFFF",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Alloyed Collective Gupdoption",
+                "game_title": "Risk of Rain 2: Alloyed Collective",
+                "game_publisher": "2K Games"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "event_name": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "external_ids": []
+                    },
+                    "PLAY_ON_XBOX": {
+                        "event_name": "PLAY_ON_XBOX",
+                        "target": 900,
+                        "external_ids": [
+                            "2132429347"
+                        ]
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "event_name": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "external_ids": [
+                            "CUSA16153_00",
+                            "PPSA06518_00",
+                            "PPSA06517_00",
+                            "CUSA16209_00",
+                            "PPSA06516_00",
+                            "CUSA16169_00"
+                        ]
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1402418087793528862"
+                            }
+                        ]
+                    },
+                    "PLAY_ON_XBOX": {
+                        "type": "PLAY_ON_XBOX",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1402418087793528862"
+                            }
+                        ],
+                        "external_ids": [
+                            "2132429347"
+                        ]
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "type": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1402418087793528862"
+                            }
+                        ],
+                        "external_ids": [
+                            "CUSA16153_00",
+                            "PPSA06518_00",
+                            "PPSA06517_00",
+                            "CUSA16209_00",
+                            "PPSA06516_00",
+                            "CUSA16169_00"
+                        ]
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 3,
+                        "sku_id": "1438969096795324612",
+                        "asset": "quests/1438642430571315290/1438970300397256814.mp4",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "Gup Avatar Decoration",
+                            "name_with_article": "a Gup Avatar Decoration",
+                            "redemption_instructions_by_platform": {
+                                "0": "Default"
+                            }
+                        },
+                        "expires_at": "2026-01-30T00:00:00+00:00",
+                        "expires_at_premium": null,
+                        "expiration_mode": 3
+                    }
+                ],
+                "rewards_expire_at": "2025-12-30T01:00:24+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://store.steampowered.com/app/2781620/Risk_of_Rain_2_Alloyed_Collective/",
+                "button_label": "Play Game"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
+    },
+    {
+        "id": "1436408444071444584",
+        "config": {
+            "id": "1436408444071444584",
+            "config_version": 2,
+            "starts_at": "2025-11-18T18:35:20+00:00",
+            "expires_at": "2025-11-29T00:00:20+00:00",
+            "features": [
+                3,
+                9,
+                13,
+                14,
+                15,
+                16,
+                18,
+                19,
+                23
+            ],
+            "application": {
+                "link": "https://www.fivenightsatfreddys.movie/",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1436408444071444584/1436427733767946371.jpg",
+                "hero_video": "quests/1436408444071444584/1436428144109158450.mp4",
+                "quest_bar_hero": "quests/1436408444071444584/1436428217345900594.jpg",
+                "quest_bar_hero_video": "quests/1436408444071444584/1436428144109158450.mp4",
+                "game_tile": "1436428270038941847.jpg",
+                "logotype": "1438617587050348615.png",
+                "game_tile_light": "quests/1436408444071444584/1436427787014635550.jpg",
+                "game_tile_dark": "quests/1436408444071444584/1436427787014635550.jpg",
+                "logotype_light": "quests/1436408444071444584/1438617546822520932.png",
+                "logotype_dark": "quests/1436408444071444584/1438617546822520932.png"
+            },
+            "colors": {
+                "primary": "#FFFFFF",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Five Nights at Freddy's 2",
+                "game_title": "Only In Theaters December 5",
+                "game_publisher": "Universal Pictures"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "event_name": "WATCH_VIDEO",
+                        "target": 31,
+                        "external_ids": []
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 31,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1436408444071444584/1440394331415511142_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1436408444071444584/1436428938007154809.jpg",
+                                "caption": "quests/1436408444071444584/1440394592548556850.vtt",
+                                "transcript": "quests/1436408444071444584/1440394622097690675.txt"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1436408444071444584/1440394331415511142_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1436408444071444584/1436428938007154809.jpg",
+                                "caption": "quests/1436408444071444584/1440394592548556850.vtt",
+                                "transcript": "quests/1436408444071444584/1440394622097690675.txt"
+                            },
+                            "video_hls": {
+                                "url": "quests/1436408444071444584/1440394331415511142.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1436408444071444584/1436428938007154809.jpg",
+                                "caption": "quests/1436408444071444584/1440394592548556850.vtt",
+                                "transcript": "quests/1436408444071444584/1440394622097690675.txt"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "Five Nights at Freddy's 2 Trailer",
+                            "video_end_cta_subtitle": "Only In Theaters December 5",
+                            "video_end_cta_button_label": "Get Tickets"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 orbs",
+                            "name_with_article": "700 orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "Default"
+                            }
+                        },
+                        "orb_quantity": 700
+                    }
+                ],
+                "rewards_expire_at": "2025-12-29T00:00:20+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "video_metadata": {
+                "messages": {
+                    "video_title": "Five Nights at Freddy's 2 Trailer",
+                    "video_end_cta_subtitle": "Only In Theaters December 5",
+                    "video_end_cta_button_label": "Get Tickets"
+                },
+                "assets": {
+                    "video_player_video_hls": "quests/1436408444071444584/1440394331415511142.m3u8",
+                    "video_player_video": "quests/1436408444071444584/1440394331415511142_1080.mp4",
+                    "video_player_thumbnail": "quests/1436408444071444584/1436428938007154809.jpg",
+                    "video_player_video_low_res": "quests/1436408444071444584/1440394331415511142_720.mp4",
+                    "video_player_caption": "quests/1436408444071444584/1440394592548556850.vtt",
+                    "video_player_transcript": "quests/1436408444071444584/1440394622097690675.txt",
+                    "quest_bar_preview_video": null,
+                    "quest_bar_preview_thumbnail": null,
+                    "quest_home_video": null
+                }
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://www.fivenightsatfreddys.movie/",
+                "button_label": "Get Tickets",
+                "subtitle": "Only In Theaters December 5"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
+    },
+    {
+        "id": "1438303745166409840",
+        "config": {
+            "id": "1438303745166409840",
+            "config_version": 2,
+            "starts_at": "2025-11-18T18:00:35+00:00",
+            "expires_at": "2025-11-25T00:00:35+00:00",
+            "features": [
+                3,
+                9,
+                13,
+                14,
+                15,
+                16,
+                18,
+                19,
+                23
+            ],
+            "application": {
+                "link": "https://www.eveonline.com/now/eve-online-catalyst?utm_source=discord&utm_medium=cpm&utm_campaign=cn:ww_lg:en_mg:1_pd:1_cd:video-quest_cs:general_ct:video_tg:homepage_br:eve",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1438303745166409840/1438307494987563028.jpg",
+                "hero_video": "quests/1438303745166409840/1438968716376277054.mp4",
+                "quest_bar_hero": "quests/1438303745166409840/1438969207390736454.jpg",
+                "quest_bar_hero_video": "quests/1438303745166409840/1438968716376277054.mp4",
+                "game_tile": "1438308323492495523.png",
+                "logotype": "1438308322389266512.png",
+                "game_tile_light": "quests/1438303745166409840/1438307765780217896.png",
+                "game_tile_dark": "quests/1438303745166409840/1438307854162460722.png",
+                "logotype_light": "quests/1438303745166409840/1438308075789488218.png",
+                "logotype_dark": "quests/1438303745166409840/1438308075789488218.png"
+            },
+            "colors": {
+                "primary": "#FFFFFF",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "EVE Online Video",
+                "game_title": "EVE Online",
+                "game_publisher": "CCP Games"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "event_name": "WATCH_VIDEO",
+                        "target": 89,
+                        "external_ids": []
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 89,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1438303745166409840/1440028688346255411_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1438303745166409840/1438969207390736454.jpg",
+                                "caption": "quests/1438303745166409840/1440030630506135702.vtt"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1438303745166409840/1440028688346255411_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1438303745166409840/1438969207390736454.jpg",
+                                "caption": "quests/1438303745166409840/1440030630506135702.vtt"
+                            },
+                            "video_hls": {
+                                "url": "quests/1438303745166409840/1440028688346255411.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1438303745166409840/1438969207390736454.jpg",
+                                "caption": "quests/1438303745166409840/1440030630506135702.vtt"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "EVE Online Expansion Trailer",
+                            "video_end_cta_subtitle": "Jump into a new mining expansion for EVE Online",
+                            "video_end_cta_button_label": "Play Now"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 1,
+                        "sku_id": "1438303745166409841",
+                        "asset": "quests/1438303745166409840/1438578832511864903.jpg",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "Fully Fitted Ship + SKIN",
+                            "name_with_article": "a Fully Fitted Ship + SKIN",
+                            "redemption_instructions_by_platform": {
+                                "0": "How to claim your mining ship:\n\n1. Register or log in to your EVE Online account.  \n2. Visit the code [activation page](https://secure.eveonline.com/code-activation).  \n3. Enter your Quest code.  \n4. Log into EVE Online and claim your ship from the redemption queue. You can access the queue by clicking the disc icon at the bottom left of your screen.  \n \nIf you're creating a new account, complete the signup process first—then return to the code activation page once your account is set up.  \n"
+                            }
+                        },
+                        "approximate_count": null,
+                        "redemption_link": null
+                    }
+                ],
+                "rewards_expire_at": "2025-12-25T00:00:35+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "video_metadata": {
+                "messages": {
+                    "video_title": "EVE Online Expansion Trailer",
+                    "video_end_cta_subtitle": "Jump into a new mining expansion for EVE Online",
+                    "video_end_cta_button_label": "Play Now"
+                },
+                "assets": {
+                    "video_player_video_hls": "quests/1438303745166409840/1440028688346255411.m3u8",
+                    "video_player_video": "quests/1438303745166409840/1440028688346255411_1080.mp4",
+                    "video_player_thumbnail": "quests/1438303745166409840/1438969207390736454.jpg",
+                    "video_player_video_low_res": "quests/1438303745166409840/1440028688346255411_720.mp4",
+                    "video_player_caption": "quests/1438303745166409840/1440030630506135702.vtt",
+                    "video_player_transcript": null,
+                    "quest_bar_preview_video": null,
+                    "quest_bar_preview_thumbnail": null,
+                    "quest_home_video": null
+                }
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://www.eveonline.com/now/eve-online-catalyst?utm_source=discord&utm_medium=cpm&utm_campaign=cn:ww_lg:en_mg:1_pd:1_cd:video-quest_cs:general_ct:video_tg:homepage_br:eve",
+                "button_label": "Play Now",
+                "subtitle": "Jump into a new mining expansion for EVE Online"
             }
         },
         "user_status": null,
