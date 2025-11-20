@@ -32565,5 +32565,286 @@
         "user_status": null,
         "targeted_content": [],
         "preview": false
+    },
+    {
+        "id": "1440083047205834872",
+        "config": {
+            "id": "1440083047205834872",
+            "config_version": 2,
+            "starts_at": "2025-11-20T18:45:13+00:00",
+            "expires_at": "2025-11-27T00:00:13+00:00",
+            "features": [
+                3,
+                9,
+                13,
+                14,
+                15,
+                16,
+                18,
+                19,
+                23
+            ],
+            "application": {
+                "link": "https://operagx.gg/yoursetupwantsgx_dsc",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1440083047205834872/1440087878754500763.jpg",
+                "hero_video": null,
+                "quest_bar_hero": "quests/1440083047205834872/1440088391244054629.jpg",
+                "quest_bar_hero_video": "quests/1440059727005614090/1441129312810963015.mp4",
+                "game_tile": "1441128109976977563.png",
+                "logotype": "1441128109368934594.png",
+                "game_tile_light": "quests/1440059727005614090/1441128056298405908.png",
+                "game_tile_dark": "quests/1440059727005614090/1441128056298405908.png",
+                "logotype_light": "quests/1440059727005614090/1441128094588211200.png",
+                "logotype_dark": "quests/1440059727005614090/1441128094588211200.png"
+            },
+            "colors": {
+                "primary": "#FFFFFF",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Opera GX",
+                "game_title": "Opera GX",
+                "game_publisher": "Opera GX"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "event_name": "WATCH_VIDEO",
+                        "target": 42,
+                        "external_ids": []
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 42,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1440083047205834872/1440089355795300414_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1440083047205834872/1440089383133905056.png",
+                                "caption": "quests/1440083047205834872/1440089409532854272.vtt",
+                                "transcript": "quests/1440083047205834872/1440089433117556746.txt"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1440083047205834872/1440089355795300414_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1440083047205834872/1440089383133905056.png",
+                                "caption": "quests/1440083047205834872/1440089409532854272.vtt",
+                                "transcript": "quests/1440083047205834872/1440089433117556746.txt"
+                            },
+                            "video_hls": {
+                                "url": "quests/1440083047205834872/1440089355795300414.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1440083047205834872/1440089383133905056.png",
+                                "caption": "quests/1440083047205834872/1440089409532854272.vtt",
+                                "transcript": "quests/1440083047205834872/1440089433117556746.txt"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "Opera GX",
+                            "video_end_cta_button_label": "Learn More"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 orbs",
+                            "name_with_article": "700 orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "Default"
+                            }
+                        },
+                        "orb_quantity": 700
+                    }
+                ],
+                "rewards_expire_at": "2025-12-27T00:00:13+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "video_metadata": {
+                "messages": {
+                    "video_title": "Opera GX",
+                    "video_end_cta_button_label": "Learn More"
+                },
+                "assets": {
+                    "video_player_video_hls": "quests/1440083047205834872/1440089355795300414.m3u8",
+                    "video_player_video": "quests/1440083047205834872/1440089355795300414_1080.mp4",
+                    "video_player_thumbnail": "quests/1440083047205834872/1440089383133905056.png",
+                    "video_player_video_low_res": "quests/1440083047205834872/1440089355795300414_720.mp4",
+                    "video_player_caption": "quests/1440083047205834872/1440089409532854272.vtt",
+                    "video_player_transcript": "quests/1440083047205834872/1440089433117556746.txt",
+                    "quest_bar_preview_video": null,
+                    "quest_bar_preview_thumbnail": null,
+                    "quest_home_video": null
+                }
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://operagx.gg/yoursetupwantsgx_dsc",
+                "button_label": "Learn More"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
+    },
+    {
+        "id": "1440059727005614090",
+        "config": {
+            "id": "1440059727005614090",
+            "config_version": 2,
+            "starts_at": "2025-11-20T18:45:13+00:00",
+            "expires_at": "2025-11-27T00:00:13+00:00",
+            "features": [
+                3,
+                9,
+                13,
+                14,
+                15,
+                16,
+                18,
+                19,
+                23
+            ],
+            "application": {
+                "link": "https://operagx.gg/yoursetupwantsgx_dsc",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "1441127914824273950.jpg",
+                "hero_video": null,
+                "quest_bar_hero": "1440088391244054629.jpg",
+                "quest_bar_hero_video": "1441128924183658580.mp4",
+                "game_tile": "1441128003571552497.png",
+                "logotype": "1441128002615246999.png",
+                "game_tile_light": "1441127988509933578.png",
+                "game_tile_dark": "1441127988509933578.png",
+                "logotype_light": "1441127963708887142.png",
+                "logotype_dark": "1441127963708887142.png"
+            },
+            "colors": {
+                "primary": "#FFFFFF",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Opera GX",
+                "game_title": "Opera GX",
+                "game_publisher": "Opera GX"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "event_name": "WATCH_VIDEO",
+                        "target": 42,
+                        "external_ids": []
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 42,
+                        "assets": {
+                            "video": {
+                                "url": "1440089355795300414_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "1440102760883290245.png",
+                                "caption": "1440089409532854272.vtt",
+                                "transcript": "1440089433117556746.txt"
+                            },
+                            "video_low_res": {
+                                "url": "1440089355795300414_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "1440102760883290245.png",
+                                "caption": "1440089409532854272.vtt",
+                                "transcript": "1440089433117556746.txt"
+                            },
+                            "video_hls": {
+                                "url": "1440089355795300414.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "1440102760883290245.png",
+                                "caption": "1440089409532854272.vtt",
+                                "transcript": "1440089433117556746.txt"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "Opera GX",
+                            "video_end_cta_button_label": "Learn More"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 orbs",
+                            "name_with_article": "700 orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "Default"
+                            }
+                        },
+                        "orb_quantity": 700
+                    }
+                ],
+                "rewards_expire_at": "2025-12-27T00:00:13+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "video_metadata": {
+                "messages": {
+                    "video_title": "Opera GX",
+                    "video_end_cta_button_label": "Learn More"
+                },
+                "assets": {
+                    "video_player_video_hls": "1440089355795300414.m3u8",
+                    "video_player_video": "1440089355795300414_1080.mp4",
+                    "video_player_thumbnail": "1440102760883290245.png",
+                    "video_player_video_low_res": "1440089355795300414_720.mp4",
+                    "video_player_caption": "1440089409532854272.vtt",
+                    "video_player_transcript": "1440089433117556746.txt",
+                    "quest_bar_preview_video": null,
+                    "quest_bar_preview_thumbnail": null,
+                    "quest_home_video": null
+                }
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://operagx.gg/yoursetupwantsgx_dsc",
+                "button_label": "Learn More"
+            }
+        }
     }
 ]
