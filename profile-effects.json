@@ -11589,5 +11589,134 @@
                 "randomizedSources": []
             }
         ]
+    },
+    {
+        "type": 1,
+        "id": "1437881614280560792",
+        "sku_id": "1437881614263910585",
+        "title": "The Grid Fireworks",
+        "description": "Show this effect when others view your profile.",
+        "accessibilityLabel": "Colorful fireworks exploding over a digital grid background with blue, yellow, and green bursts.",
+        "animationType": 2,
+        "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/content/0921e7b893dcac31a42e864ecd4eea7dca5b0943029f3a94c659b1901b6e9969",
+        "reducedMotionSrc": "https://cdn.discordapp.com/assets/content/386a1c8311e71d4d19c24ec412e78579f7cc103fcd43447d2ff4554170de48f9",
+        "effects": [
+            {
+                "src": "https://cdn.discordapp.com/assets/content/f4ae9b0528ed09a094928c552077679d6619752b0cb90c4c512f8d83970529a9",
+                "loop": false,
+                "height": 880,
+                "width": 450,
+                "duration": 3083,
+                "start": 0,
+                "loopDelay": 0,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "zIndex": 100,
+                "randomizedSources": []
+            },
+            {
+                "src": "https://cdn.discordapp.com/assets/content/81f10c0f18be8ccb0bbaf72e80faa9d360029b30c8d7191024c224cbb385dba6",
+                "loop": true,
+                "height": 880,
+                "width": 450,
+                "duration": 3083,
+                "start": 4500,
+                "loopDelay": 3000,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "zIndex": 101,
+                "randomizedSources": []
+            }
+        ]
+    },
+    {
+        "type": 1,
+        "id": "1437881614305726569",
+        "sku_id": "1437881614289076366",
+        "title": "Light Cycles",
+        "description": "Show this effect when others view your profile.",
+        "accessibilityLabel": "Red light cycle speeding with glowing trail and blue accent lights.",
+        "animationType": 2,
+        "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/content/01fdf5adad3d7aa4a39c879abcb22c7a3581418da2cbcda430e1c99bfa86cacc",
+        "reducedMotionSrc": "https://cdn.discordapp.com/assets/content/5b74631ab1d70a586f9e37f921c579a83936435964ea6a42d6c6684544e72453",
+        "effects": [
+            {
+                "src": "https://cdn.discordapp.com/assets/content/05180d34961f506cbefbf7368447fb10b145c4a7a9dc149de85c53e06fcf24da",
+                "loop": false,
+                "height": 880,
+                "width": 450,
+                "duration": 3500,
+                "start": 0,
+                "loopDelay": 0,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "zIndex": 100,
+                "randomizedSources": []
+            },
+            {
+                "src": "https://cdn.discordapp.com/assets/content/83a7f588aad72d13419762ab6799212749786f616e326d0e4981cf6f6834bb71",
+                "loop": true,
+                "height": 880,
+                "width": 450,
+                "duration": 3083,
+                "start": 5000,
+                "loopDelay": 3000,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "zIndex": 101,
+                "randomizedSources": []
+            }
+        ]
+    },
+    {
+        "type": 1,
+        "id": "1437881614255394978",
+        "sku_id": "1437881614242938900",
+        "title": "Encom Grid",
+        "description": "Show this effect when others view your profile.",
+        "accessibilityLabel": "Cyan geometric grid lines forming a digital network pattern.",
+        "animationType": 2,
+        "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/content/1bed48f4d898978d0d327ef621edee95d52be84d4a9ad89de53799b8cc5feb2e",
+        "reducedMotionSrc": "https://cdn.discordapp.com/assets/content/3c5d14bfdccc8eb2f33c4e12166a85839d1acca1def3cdeeb8ce9178cb9e4fa7",
+        "effects": [
+            {
+                "src": "https://cdn.discordapp.com/assets/content/8ff830fdfa68f36b1115df5d24924ccbc68540adb1487f08f942d31968db1547",
+                "loop": false,
+                "height": 880,
+                "width": 450,
+                "duration": 3000,
+                "start": 0,
+                "loopDelay": 0,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "zIndex": 100,
+                "randomizedSources": []
+            },
+            {
+                "src": "https://cdn.discordapp.com/assets/content/7c27cc2b7dd08c2a6df9824e9878f980f941fe74bc28c06b20b3d2ecf07f012d",
+                "loop": true,
+                "height": 880,
+                "width": 450,
+                "duration": 3000,
+                "start": 0,
+                "loopDelay": 3000,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "zIndex": 101,
+                "randomizedSources": []
+            }
+        ]
     }
 ]
