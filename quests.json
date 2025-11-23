@@ -32846,5 +32846,129 @@
                 "button_label": "Learn More"
             }
         }
+    },
+    {
+        "id": "1440384290377695252",
+        "config": {
+            "id": "1440384290377695252",
+            "config_version": 2,
+            "starts_at": "2025-11-23T18:00:55+00:00",
+            "expires_at": "2025-11-29T00:00:55+00:00",
+            "features": [
+                3,
+                9,
+                13,
+                14,
+                15,
+                16,
+                18,
+                19,
+                23
+            ],
+            "application": {
+                "link": "https://store.steampowered.com/app/3564740/480?utm_source=DiscordOrbs",
+                "id": "1437509662303059998",
+                "name": "Where Winds Meet"
+            },
+            "assets": {
+                "hero": "quests/1440384290377695252/1440388728181755985.jpg",
+                "hero_video": "quests/1440384290377695252/1440388803088093226.mp4",
+                "quest_bar_hero": "quests/1440384290377695252/1440465987366551572.jpg",
+                "quest_bar_hero_video": "quests/1440384290377695252/1440388321158103253.mp4",
+                "game_tile": "1440389480094765166.png",
+                "logotype": "1440430106412843209.png",
+                "game_tile_light": "quests/1440384290377695252/1440389445538021457.png",
+                "game_tile_dark": "quests/1440384290377695252/1440389445538021457.png",
+                "logotype_light": "quests/1440384290377695252/1440430073407733864.png",
+                "logotype_dark": "quests/1440384290377695252/1440430073407733864.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Where Winds Meet Windtail",
+                "game_title": "Where Winds Meet",
+                "game_publisher": "NETEASE"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "event_name": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "external_ids": []
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "event_name": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "external_ids": [
+                            "PPSA29394_00",
+                            "PPSA23355_00"
+                        ]
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1437509662303059998"
+                            }
+                        ]
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "type": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1437509662303059998"
+                            }
+                        ],
+                        "external_ids": [
+                            "PPSA29394_00",
+                            "PPSA23355_00"
+                        ]
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 3,
+                        "sku_id": "1441168457424048150",
+                        "asset": "quests/1440384290377695252/1441168598973550693.mp4",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "Windtail Avatar Decoration",
+                            "name_with_article": "a Windtail Avatar Decoration",
+                            "redemption_instructions_by_platform": {
+                                "0": "Default"
+                            }
+                        },
+                        "expires_at": "2026-01-28T00:00:00+00:00",
+                        "expires_at_premium": null,
+                        "expiration_mode": 3
+                    }
+                ],
+                "rewards_expire_at": "2025-12-29T00:00:55+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://store.steampowered.com/app/3564740/480?utm_source=DiscordOrbs"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
     }
 ]
