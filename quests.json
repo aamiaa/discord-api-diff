@@ -121,6 +121,116 @@
         }
     },
     {
+        "id": "1223393873447878656",
+        "config": {
+            "id": "1223393873447878656",
+            "config_version": 2,
+            "starts_at": "2024-01-01T00:00:00+00:00",
+            "expires_at": "2030-01-01T00:00:00+00:00",
+            "features": [
+                9,
+                3,
+                14,
+                15
+            ],
+            "application": {
+                "link": "https://www.minecraft.net/en-us/about-minecraft",
+                "id": "1402418491272986635",
+                "name": "Minecraft"
+            },
+            "assets": {
+                "hero": "hero.png",
+                "hero_video": null,
+                "quest_bar_hero": "quests_bar_hero.png",
+                "quest_bar_hero_video": null,
+                "game_tile": "game_tile.png",
+                "logotype": "game_logotype.png",
+                "game_tile_light": "1417603391701520454.png",
+                "game_tile_dark": "1417603392351633598.png",
+                "logotype_light": "1417603393056407763.png",
+                "logotype_dark": "1417603393744146602.png"
+            },
+            "colors": {
+                "primary": "#B377F3",
+                "secondary": "#5865F2"
+            },
+            "messages": {
+                "quest_name": "Tiered Rewards V2",
+                "game_title": "Minecraft",
+                "game_publisher": "Discord"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "event_name": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "external_ids": []
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1402418491272986635"
+                            }
+                        ]
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 2,
+                "rewards": [
+                    {
+                        "type": 1,
+                        "sku_id": "1225641716220952576",
+                        "asset": "reward_tier_0.png",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "V4 Quest Bundle plus V-Bucks x30",
+                            "name_with_article": "the V4 Quest Bundle plus V-Bucks x30",
+                            "redemption_instructions_by_platform": {
+                                "0": "Redeem your S-tier code in the Sky Runners Portal. The redemption code will expire on January 1, 2030. Players are encouraged to redeem it as soon as possible."
+                            }
+                        },
+                        "approximate_count": 300000,
+                        "redemption_link": null
+                    },
+                    {
+                        "type": 1,
+                        "sku_id": "1225641716220952577",
+                        "asset": "reward_tier_1.png",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "V4 Quest Bundle",
+                            "name_with_article": "the V4 Quest Bundle",
+                            "redemption_instructions_by_platform": {
+                                "0": "Redeem your A-tier code in the Sky Runners Portal. The redemption code will expire on January 1, 2030. Players are encouraged to redeem it as soon as possible."
+                            }
+                        },
+                        "approximate_count": null,
+                        "redemption_link": null
+                    }
+                ],
+                "rewards_expire_at": "2030-01-01T00:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://www.minecraft.net/en-us/about-minecraft",
+                "button_label": "Get Game"
+            }
+        }
+    },
+    {
         "id": "1227395355193118750",
         "config": {
             "id": "1227395355193118750",
