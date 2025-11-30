@@ -34754,5 +34754,153 @@
         "user_status": null,
         "targeted_content": [],
         "preview": false
+    },
+    {
+        "id": "1441207579350012034",
+        "config": {
+            "id": "1441207579350012034",
+            "config_version": 2,
+            "starts_at": "2025-11-30T01:15:23+00:00",
+            "expires_at": "2025-12-08T00:00:23+00:00",
+            "features": [
+                3,
+                9,
+                13,
+                14,
+                15,
+                16,
+                18,
+                19,
+                23
+            ],
+            "application": {
+                "link": "https://www.fortnite.com/",
+                "id": "1402418703554842694",
+                "name": "Fortnite"
+            },
+            "assets": {
+                "hero": "quests/1441207579350012034/1442594400008929421.jpg",
+                "hero_video": null,
+                "quest_bar_hero": "quests/1441207579350012034/1442594310829903892.jpg",
+                "quest_bar_hero_video": null,
+                "game_tile": "1442594445047496805.png",
+                "logotype": "1442594444112036130.png",
+                "game_tile_light": "quests/1441207579350012034/1442594186842083450.png",
+                "game_tile_dark": "quests/1441207579350012034/1442594186842083450.png",
+                "logotype_light": "quests/1441207579350012034/1442594156324065486.png",
+                "logotype_dark": "quests/1441207579350012034/1442594156324065486.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Fortnite Chapter Seven",
+                "game_title": "Fortnite",
+                "game_publisher": "Epic Games"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "event_name": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "external_ids": []
+                    },
+                    "PLAY_ON_XBOX": {
+                        "event_name": "PLAY_ON_XBOX",
+                        "target": 900,
+                        "external_ids": [
+                            "267695549"
+                        ]
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "event_name": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "external_ids": [
+                            "CUSA07022_00",
+                            "CUSA07669_00",
+                            "PPSA01923_00",
+                            "PPSA01922_00"
+                        ]
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1402418703554842694"
+                            }
+                        ]
+                    },
+                    "PLAY_ON_XBOX": {
+                        "type": "PLAY_ON_XBOX",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1402418703554842694"
+                            }
+                        ],
+                        "external_ids": [
+                            "267695549"
+                        ]
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "type": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1402418703554842694"
+                            }
+                        ],
+                        "external_ids": [
+                            "CUSA07022_00",
+                            "CUSA07669_00",
+                            "PPSA01923_00",
+                            "PPSA01922_00"
+                        ]
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 3,
+                        "sku_id": "1442991135604740138",
+                        "asset": "quests/1441207579350012034/1443005736127828080.mp4",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "Storm Surfing Avatar Decoration",
+                            "name_with_article": "a Storm Surfing Avatar Decoration",
+                            "redemption_instructions_by_platform": {
+                                "0": "Default"
+                            }
+                        },
+                        "expires_at": "2026-02-06T00:00:00+00:00",
+                        "expires_at_premium": null,
+                        "expiration_mode": 1
+                    }
+                ],
+                "rewards_expire_at": "2026-01-07T00:00:23+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://www.fortnite.com/",
+                "button_label": "Get Game"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
     }
 ]
