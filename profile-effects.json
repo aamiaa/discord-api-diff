@@ -11718,5 +11718,49 @@
                 "randomizedSources": []
             }
         ]
+    },
+    {
+        "type": 1,
+        "id": "1440063059795251321",
+        "sku_id": "1440063059774406818",
+        "title": "Arctic Frost",
+        "description": "Show this effect when others view your profile.",
+        "accessibilityLabel": "Snow and white frost slowly encapsulate the profile borders.",
+        "animationType": 1,
+        "staticFrameSrc": "https://cdn.discordapp.com/assets/content/636ace435db02ba8672f5c85dea787bc75529620a9048ea2a1ad839204656903",
+        "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/content/f261f0c63a30b96063e5f68d132882569f179ba73a69efcb4ef7ff8ed83d8bb8",
+        "reducedMotionSrc": "https://cdn.discordapp.com/assets/content/e5aa8e61d76bf86125c9cd3da670e311eaa2bc9b0814c267f2a53374ff27c956",
+        "effects": [
+            {
+                "src": "https://cdn.discordapp.com/assets/content/50870c17d8981dceee261528c48ea45c05f3792f4d92448cb454461c11217e17",
+                "loop": false,
+                "height": 880,
+                "width": 450,
+                "duration": 5000,
+                "start": 0,
+                "loopDelay": 0,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "zIndex": 100,
+                "randomizedSources": []
+            },
+            {
+                "src": "https://cdn.discordapp.com/assets/content/22fa0508d8512cb73af62047a8ecc6eff15c2b33c26f475525c34a3e8e8e17dd",
+                "loop": true,
+                "height": 880,
+                "width": 450,
+                "duration": 5000,
+                "start": 5000,
+                "loopDelay": 0,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "zIndex": 101,
+                "randomizedSources": []
+            }
+        ]
     }
 ]
