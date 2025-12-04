@@ -33258,7 +33258,7 @@
                 "name": "Discord"
             },
             "assets": {
-                "hero": "1442680901380079626.jpg",
+                "hero": "1446200410384760913.jpg",
                 "hero_video": "1440821106222043206.mp4",
                 "quest_bar_hero": "1440849165214159040.jpg",
                 "quest_bar_hero_video": "1440821106222043206.mp4",
@@ -33299,7 +33299,7 @@
                                 "url": "1440821827411640442_1080.mp4",
                                 "width": 1920,
                                 "height": 1080,
-                                "thumbnail": "1440820996696178797.jpg",
+                                "thumbnail": "1446200593151692840.jpg",
                                 "caption": "1441529265509105824.vtt",
                                 "transcript": "1441529289915891752.txt"
                             },
@@ -33307,7 +33307,7 @@
                                 "url": "1440821827411640442_720.mp4",
                                 "width": 1920,
                                 "height": 1080,
-                                "thumbnail": "1440820996696178797.jpg",
+                                "thumbnail": "1446200593151692840.jpg",
                                 "caption": "1441529265509105824.vtt",
                                 "transcript": "1441529289915891752.txt"
                             },
@@ -33315,7 +33315,7 @@
                                 "url": "1440821827411640442.m3u8",
                                 "width": 1920,
                                 "height": 1080,
-                                "thumbnail": "1440820996696178797.jpg",
+                                "thumbnail": "1446200593151692840.jpg",
                                 "caption": "1441529265509105824.vtt",
                                 "transcript": "1441529289915891752.txt"
                             }
@@ -33359,7 +33359,7 @@
                 "assets": {
                     "video_player_video_hls": "1440821827411640442.m3u8",
                     "video_player_video": "1440821827411640442_1080.mp4",
-                    "video_player_thumbnail": "1440820996696178797.jpg",
+                    "video_player_thumbnail": "1446200593151692840.jpg",
                     "video_player_video_low_res": "1440821827411640442_720.mp4",
                     "video_player_caption": "1441529265509105824.vtt",
                     "video_player_transcript": "1441529289915891752.txt",
@@ -35548,23 +35548,6 @@
                         "event_name": "PLAY_ON_DESKTOP",
                         "target": 900,
                         "external_ids": []
-                    },
-                    "PLAY_ON_XBOX": {
-                        "event_name": "PLAY_ON_XBOX",
-                        "target": 900,
-                        "external_ids": [
-                            "950328474"
-                        ]
-                    },
-                    "PLAY_ON_PLAYSTATION": {
-                        "event_name": "PLAY_ON_PLAYSTATION",
-                        "target": 900,
-                        "external_ids": [
-                            "PPSA27363_00",
-                            "PPSA27367_00",
-                            "CUSA14085_00",
-                            "CUSA14081_00"
-                        ]
                     }
                 }
             },
@@ -35577,33 +35560,6 @@
                             {
                                 "id": "1402418717781921935"
                             }
-                        ]
-                    },
-                    "PLAY_ON_XBOX": {
-                        "type": "PLAY_ON_XBOX",
-                        "target": 900,
-                        "applications": [
-                            {
-                                "id": "1402418717781921935"
-                            }
-                        ],
-                        "external_ids": [
-                            "950328474"
-                        ]
-                    },
-                    "PLAY_ON_PLAYSTATION": {
-                        "type": "PLAY_ON_PLAYSTATION",
-                        "target": 900,
-                        "applications": [
-                            {
-                                "id": "1402418717781921935"
-                            }
-                        ],
-                        "external_ids": [
-                            "PPSA27363_00",
-                            "PPSA27367_00",
-                            "CUSA14085_00",
-                            "CUSA14081_00"
                         ]
                     }
                 },
