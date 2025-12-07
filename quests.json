@@ -35598,5 +35598,105 @@
         "user_status": null,
         "targeted_content": [],
         "preview": false
+    },
+    {
+        "id": "1442590233618026506",
+        "config": {
+            "id": "1442590233618026506",
+            "config_version": 2,
+            "starts_at": "2025-12-07T01:00:33+00:00",
+            "expires_at": "2025-12-14T00:00:33+00:00",
+            "features": [
+                3,
+                9,
+                13,
+                14,
+                15,
+                16,
+                18,
+                19,
+                23
+            ],
+            "application": {
+                "link": "https://www.terminullbrigade.com/",
+                "id": "1400150104182095955",
+                "name": "Terminull Brigade"
+            },
+            "assets": {
+                "hero": "quests/1442590233618026506/1445480808700710992.jpg",
+                "hero_video": "quests/1442590233618026506/1443288856328667376.mp4",
+                "quest_bar_hero": "quests/1442590233618026506/1445480808700710992.jpg",
+                "quest_bar_hero_video": "quests/1442590233618026506/1443288725365985300.mp4",
+                "game_tile": "1442592861152612495.png",
+                "logotype": "1442592859944517840.png",
+                "game_tile_light": "quests/1442590233618026506/1442592810749399162.png",
+                "game_tile_dark": "quests/1442590233618026506/1442592810749399162.png",
+                "logotype_light": "quests/1442590233618026506/1442592713630416926.png",
+                "logotype_dark": "quests/1442590233618026506/1442592617660547172.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Terminull Brigade X Evangelion",
+                "game_title": "Terminull Brigade",
+                "game_publisher": "Tencent"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "event_name": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "external_ids": []
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1400150104182095955"
+                            }
+                        ]
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 orbs",
+                            "name_with_article": "700 orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "Default"
+                            }
+                        },
+                        "orb_quantity": 700
+                    }
+                ],
+                "rewards_expire_at": "2026-01-13T00:00:33+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://www.terminullbrigade.com/",
+                "button_label": "Learn More"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
     }
 ]
