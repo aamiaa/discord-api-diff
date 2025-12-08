@@ -35698,5 +35698,406 @@
         "user_status": null,
         "targeted_content": [],
         "preview": false
+    },
+    {
+        "id": "1445133129382891662",
+        "config": {
+            "id": "1445133129382891662",
+            "config_version": 2,
+            "starts_at": "2025-12-08T18:00:07+00:00",
+            "expires_at": "2025-12-17T00:00:07+00:00",
+            "features": [
+                3,
+                8,
+                9,
+                13,
+                14,
+                15,
+                16,
+                18,
+                19,
+                23,
+                27
+            ],
+            "application": {
+                "link": "https://www.amazon.com/gp/video/detail/B0FLSZBRZJ/ref=atv_dp_season_select_s2",
+                "id": "1438480245844873387",
+                "name": "Fallout Pip-Boy"
+            },
+            "assets": {
+                "hero": "quests/1445133129382891662/1446306294255456447.jpg",
+                "hero_video": "quests/1445133129382891662/1447625440561725471.mp4",
+                "quest_bar_hero": "quests/1445133129382891662/1446306294255456447.jpg",
+                "quest_bar_hero_video": "quests/1445133129382891662/1447625440561725471.mp4",
+                "game_tile": "1446307284325240912.jpg",
+                "logotype": "1446307179002069094.png",
+                "game_tile_light": "quests/1445133129382891662/1446307266348191845.jpg",
+                "game_tile_dark": "quests/1445133129382891662/1446307266348191845.jpg",
+                "logotype_light": "quests/1445133129382891662/1446307023909294182.png",
+                "logotype_dark": "quests/1445133129382891662/1446307079672299621.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Fallout Season 2",
+                "game_title": "Fallout Pip-Boy Activity",
+                "game_publisher": "Amazon Prime Video"
+            },
+            "task_config": {
+                "type": 2,
+                "join_operator": "or",
+                "tasks": {
+                    "progress": {
+                        "event_name": "progress",
+                        "title": "Open your Pip-Boy and watch the Fallout Season 2 video to claim the Vault Avatar Decoration!",
+                        "description": "Open your Pip-Boy and watch the Fallout Season 2 video to claim the Vault Avatar Decoration!",
+                        "target": 100
+                    }
+                },
+                "enrollment_url": "https://www.discord.com",
+                "developer_application_id": "1438480245844873387"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "ACHIEVEMENT_IN_ACTIVITY": {
+                        "type": "ACHIEVEMENT_IN_ACTIVITY",
+                        "target": 100,
+                        "applications": [
+                            {
+                                "id": "1438480245844873387"
+                            }
+                        ],
+                        "event_name": "progress",
+                        "messages": {
+                            "task_title": "Open your Pip-Boy and watch the Fallout Season 2 video to claim the Vault Avatar Decoration!",
+                            "task_description": "Open your Pip-Boy and watch the Fallout Season 2 video to claim the Vault Avatar Decoration!"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 3,
+                        "sku_id": "1446317166008864881",
+                        "asset": "quests/1445133129382891662/1446317486055100457.mp4",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "Vault Avatar Decoration",
+                            "name_with_article": "a Vault Avatar Decoration",
+                            "redemption_instructions_by_platform": {
+                                "0": "Default"
+                            }
+                        },
+                        "expires_at": "2026-02-16T00:00:00+00:00",
+                        "expires_at_premium": null,
+                        "expiration_mode": 3
+                    }
+                ],
+                "rewards_expire_at": "2026-01-16T00:00:07+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://www.amazon.com/gp/video/detail/B0FLSZBRZJ/ref=atv_dp_season_select_s2",
+                "button_label": "Learn More",
+                "subtitle": "Fallout Season 2 - Premiering December 17 on Prime"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
+    },
+    {
+        "id": "1445470742203469834",
+        "config": {
+            "id": "1445470742203469834",
+            "config_version": 2,
+            "starts_at": "2025-12-08T18:00:40+00:00",
+            "expires_at": "2025-12-12T00:00:40+00:00",
+            "features": [
+                3,
+                9,
+                13,
+                14,
+                15,
+                16,
+                18,
+                19,
+                23
+            ],
+            "application": {
+                "link": "https://bit.ly/tga25discord",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1445470742203469834/1445483593974546643.jpg",
+                "hero_video": "quests/1445470742203469834/1445483679202676866.mp4",
+                "quest_bar_hero": "quests/1445470742203469834/1445484589211717963.jpg",
+                "quest_bar_hero_video": "quests/1445470742203469834/1445483679202676866.mp4",
+                "game_tile": "1445484836264349758.png",
+                "logotype": "1445484835186671740.png",
+                "game_tile_light": "quests/1445470742203469834/1445484808397393971.png",
+                "game_tile_dark": "quests/1445470742203469834/1445484808397393971.png",
+                "logotype_light": "quests/1445470742203469834/1445484739636232192.png",
+                "logotype_dark": "quests/1445470742203469834/1445484663098577059.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "The Game Awards",
+                "game_title": "The Game Awards",
+                "game_publisher": "The Game Awards"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "event_name": "WATCH_VIDEO",
+                        "target": 29,
+                        "external_ids": []
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "event_name": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 29,
+                        "external_ids": []
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 29,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1445470742203469834/1445487693462114466_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1445470742203469834/1445488290768617614.jpg",
+                                "caption": "quests/1445470742203469834/1445488353503084655.vtt"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1445470742203469834/1445487693462114466_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1445470742203469834/1445488290768617614.jpg",
+                                "caption": "quests/1445470742203469834/1445488353503084655.vtt"
+                            },
+                            "video_hls": {
+                                "url": "quests/1445470742203469834/1445487693462114466.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1445470742203469834/1445488290768617614.jpg",
+                                "caption": "quests/1445470742203469834/1445488353503084655.vtt"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "The Game Awards 2025"
+                        }
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 29,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1445470742203469834/1445488530078961787_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1445470742203469834/1445488290768617614.jpg",
+                                "caption": "quests/1445470742203469834/1445488353503084655.vtt"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1445470742203469834/1445488530078961787_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1445470742203469834/1445488290768617614.jpg",
+                                "caption": "quests/1445470742203469834/1445488353503084655.vtt"
+                            },
+                            "video_hls": {
+                                "url": "quests/1445470742203469834/1445488530078961787.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1445470742203469834/1445488290768617614.jpg",
+                                "caption": "quests/1445470742203469834/1445488353503084655.vtt"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "The Game Awards 2025"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 Orbs",
+                            "name_with_article": "700 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "Default"
+                            }
+                        },
+                        "orb_quantity": 700
+                    }
+                ],
+                "rewards_expire_at": "2026-01-11T00:00:40+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "video_metadata": {
+                "messages": {
+                    "video_title": "The Game Awards 2025",
+                    "video_end_cta_subtitle": "Watch TGA Live on Thursday",
+                    "video_end_cta_button_label": "Watch More"
+                },
+                "assets": {
+                    "video_player_video_hls": "quests/1445470742203469834/1445487693462114466.m3u8",
+                    "video_player_video": "quests/1445470742203469834/1445487693462114466_1080.mp4",
+                    "video_player_thumbnail": "quests/1445470742203469834/1445488290768617614.jpg",
+                    "video_player_video_low_res": "quests/1445470742203469834/1445487693462114466_720.mp4",
+                    "video_player_caption": "quests/1445470742203469834/1445488353503084655.vtt",
+                    "video_player_transcript": null,
+                    "quest_bar_preview_video": null,
+                    "quest_bar_preview_thumbnail": null,
+                    "quest_home_video": null
+                }
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://bit.ly/tga25discord",
+                "button_label": "Watch More",
+                "subtitle": "Watch TGA Live on Thursday"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
+    },
+    {
+        "id": "1445135504210395167",
+        "config": {
+            "id": "1445135504210395167",
+            "config_version": 2,
+            "starts_at": "2025-12-08T18:00:33+00:00",
+            "expires_at": "2025-12-22T00:00:33+00:00",
+            "features": [
+                3,
+                8,
+                9,
+                13,
+                14,
+                15,
+                16,
+                18,
+                19,
+                23,
+                27
+            ],
+            "application": {
+                "link": "https://www.fandango.com/the-spongebob-movie-search-for-squarepants-2025-241341/movie-overview",
+                "id": "1432744718667743306",
+                "name": "The SpongeBob Movie: Search for SquarePants"
+            },
+            "assets": {
+                "hero": "quests/1445135504210395167/1447627028869415012.jpg",
+                "hero_video": "quests/1445135504210395167/1447626932031193129.mp4",
+                "quest_bar_hero": "quests/1445135504210395167/1447627028869415012.jpg",
+                "quest_bar_hero_video": "quests/1445135504210395167/1447626932031193129.mp4",
+                "game_tile": "1446218815519068264.png",
+                "logotype": "1446218814588195000.png",
+                "game_tile_light": "quests/1445135504210395167/1446218774205432010.png",
+                "game_tile_dark": "quests/1445135504210395167/1446218774205432010.png",
+                "logotype_light": "quests/1445135504210395167/1446218710175060074.png",
+                "logotype_dark": "quests/1445135504210395167/1446218710175060074.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "The SpongeBob Movie",
+                "game_title": "The SpongeBob Movie: Search for SquarePants",
+                "game_publisher": "Paramount Pictures"
+            },
+            "task_config": {
+                "type": 2,
+                "join_operator": "or",
+                "tasks": {
+                    "progress": {
+                        "event_name": "progress",
+                        "title": "Complete the Big Guy Challenges to win 700 Orbs!",
+                        "description": "Complete the Big Guy Challenges to win 700 Orbs!",
+                        "target": 1
+                    }
+                },
+                "enrollment_url": "https://www.discord.com",
+                "developer_application_id": "1432744718667743306"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "ACHIEVEMENT_IN_ACTIVITY": {
+                        "type": "ACHIEVEMENT_IN_ACTIVITY",
+                        "target": 1,
+                        "applications": [
+                            {
+                                "id": "1432744718667743306"
+                            }
+                        ],
+                        "event_name": "progress",
+                        "messages": {
+                            "task_title": "Complete the Big Guy Challenges to win 700 Orbs!",
+                            "task_description": "Complete the Big Guy Challenges to win 700 Orbs!"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 Orbs",
+                            "name_with_article": "700 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "Default"
+                            }
+                        },
+                        "orb_quantity": 700
+                    }
+                ],
+                "rewards_expire_at": "2026-01-21T00:00:33+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://www.fandango.com/the-spongebob-movie-search-for-squarepants-2025-241341/movie-overview",
+                "button_label": "Get Tickets",
+                "subtitle": "In Theaters December 19"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
     }
 ]
