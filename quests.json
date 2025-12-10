@@ -36099,5 +36099,119 @@
         "user_status": null,
         "targeted_content": [],
         "preview": false
+    },
+    {
+        "id": "1447674068815057026",
+        "config": {
+            "id": "1447674068815057026",
+            "config_version": 2,
+            "starts_at": "2025-12-10T00:30:54+00:00",
+            "expires_at": "2025-12-22T00:00:54+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://store.steampowered.com/app/3564740/480?utm_source=DiscordOrbs",
+                "id": "1437509662303059998",
+                "name": "Where Winds Meet"
+            },
+            "assets": {
+                "hero": "quests/1447674068815057026/1447681220514156676.jpg",
+                "hero_video": "quests/1447674068815057026/1447689201519952094.mp4",
+                "quest_bar_hero": "quests/1447674068815057026/1447681354761502851.jpg",
+                "quest_bar_hero_video": "quests/1447674068815057026/1447689525030551564.mp4",
+                "game_tile": "1447681382422941726.png",
+                "logotype": "1447688978365944003.png",
+                "game_tile_light": "quests/1447674068815057026/1447681011210256404.png",
+                "game_tile_dark": "quests/1447674068815057026/1447681011210256404.png",
+                "logotype_light": "quests/1447674068815057026/1447688735297769483.png",
+                "logotype_dark": "quests/1447674068815057026/1447688735297769483.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Where Winds Meet Launch Bundle",
+                "game_title": "Where Winds Meet",
+                "game_publisher": "NETEASE"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "event_name": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "external_ids": []
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "event_name": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "external_ids": [
+                            "PPSA23355_00"
+                        ]
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1437509662303059998"
+                            }
+                        ]
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "type": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1437509662303059998"
+                            }
+                        ],
+                        "external_ids": [
+                            "PPSA23355_00"
+                        ]
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 1,
+                        "sku_id": "1447674068815057027",
+                        "asset": "quests/1447674068815057026/1447681506838315172.png",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "Launch Bundle",
+                            "name_with_article": "a Launch Bundle",
+                            "redemption_instructions_by_platform": {
+                                "0": "To redeem your code: \n\nStep 1: Click on \"Settings\" on the main game interface  \nStep 2: select \"Others\"  \nStep 3: click on \"Redeem Code\"  \nStep 4: enter the redeem code  "
+                            }
+                        },
+                        "approximate_count": null,
+                        "redemption_link": null
+                    }
+                ],
+                "rewards_expire_at": "2026-01-21T00:00:54+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://store.steampowered.com/app/3564740/480?utm_source=DiscordOrbs",
+                "button_label": "Get Game"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
     }
 ]
