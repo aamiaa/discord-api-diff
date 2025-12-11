@@ -36213,5 +36213,134 @@
         "user_status": null,
         "targeted_content": [],
         "preview": false
+    },
+    {
+        "id": "1448459807458857011",
+        "config": {
+            "id": "1448459807458857011",
+            "config_version": 2,
+            "starts_at": "2025-12-10T18:30:09+00:00",
+            "expires_at": "2025-12-18T00:00:09+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://www.rockstargames.com/newswire/article/ak392a52o59o13/gta-online-a-safehouse-in-the-hills-now-available?utm_source=Discord&utm_medium=p_social&utm_campaign=479:tu-release-20251210&utm_content=us-eng",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1448459807458857011/1448460590715637810.jpg",
+                "hero_video": "quests/1448459807458857011/1448461181844066325.mp4",
+                "quest_bar_hero": "quests/1448459807458857011/1448460549326246043.jpg",
+                "quest_bar_hero_video": "quests/1448459807458857011/1448461181844066325.mp4",
+                "game_tile": "1448461237376520266.png",
+                "logotype": "1448461236277608629.png",
+                "game_tile_light": "quests/1448459807458857011/1448460662853468280.png",
+                "game_tile_dark": "quests/1448459807458857011/1448460662853468280.png",
+                "logotype_light": "quests/1448459807458857011/1448460685469286561.png",
+                "logotype_dark": "quests/1448459807458857011/1448460863785930813.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "GTA Online",
+                "game_title": "GTA Online",
+                "game_publisher": "Rockstar Games"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "event_name": "WATCH_VIDEO",
+                        "target": 59,
+                        "external_ids": []
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 59,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1448459807458857011/1448461642953130119_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1448459807458857011/1448461708048728245.png"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1448459807458857011/1448461642953130119_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1448459807458857011/1448461708048728245.png"
+                            },
+                            "video_hls": {
+                                "url": "quests/1448459807458857011/1448461642953130119.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1448459807458857011/1448461708048728245.png"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "A Safehouse in the Hills"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 Orbs",
+                            "name_with_article": "700 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 700
+                    }
+                ],
+                "rewards_expire_at": "2026-01-17T00:00:09+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "video_metadata": {
+                "messages": {
+                    "video_title": "A Safehouse in the Hills",
+                    "video_end_cta_subtitle": "GTA Online",
+                    "video_end_cta_button_label": "Play Now"
+                },
+                "assets": {
+                    "video_player_video_hls": "quests/1448459807458857011/1448461642953130119.m3u8",
+                    "video_player_video": "quests/1448459807458857011/1448461642953130119_1080.mp4",
+                    "video_player_thumbnail": "quests/1448459807458857011/1448461708048728245.png",
+                    "video_player_video_low_res": "quests/1448459807458857011/1448461642953130119_720.mp4",
+                    "video_player_caption": null,
+                    "video_player_transcript": null,
+                    "quest_bar_preview_video": null,
+                    "quest_bar_preview_thumbnail": null,
+                    "quest_home_video": null
+                }
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://www.rockstargames.com/newswire/article/ak392a52o59o13/gta-online-a-safehouse-in-the-hills-now-available?utm_source=Discord&utm_medium=p_social&utm_campaign=479:tu-release-20251210&utm_content=us-eng",
+                "button_label": "Play Now",
+                "subtitle": "GTA Online"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
     }
 ]
