@@ -36466,7 +36466,7 @@
                     "android_app_id": "com.netease.yysls"
                 },
                 "ios": {
-                    "ios_app_id": "id6472396866"
+                    "ios_app_id": "6472396866"
                 },
                 "link": "https://wwmglobal.onelink.me/UZ5P/discordmobilequest",
                 "button_label": "Install"
@@ -36729,6 +36729,491 @@
                     "ios_app_id": "6472396866"
                 },
                 "link": "https://wwmglobal.onelink.me/UZ5P/discordmobilequest",
+                "button_label": "Install"
+            }
+        }
+    },
+    {
+        "id": "1448059005615476909",
+        "config": {
+            "id": "1448059005615476909",
+            "config_version": 2,
+            "starts_at": "2025-12-12T00:45:30+00:00",
+            "expires_at": "2026-01-01T07:59:30+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://www.wherewindsmeetgame.com/?shortlink=discordmobilequest&c=discordmobilequest&pid=marketing&af_click_lookback=7d&af_xp=custom&source_caller=ui",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1448059005615476909/1448067536863100949.jpg",
+                "hero_video": "quests/1448059005615476909/1448066631170265280.mp4",
+                "quest_bar_hero": "quests/1448059005615476909/1448067081512681645.jpg",
+                "quest_bar_hero_video": "quests/1448059005615476909/1448066079669883011.mp4",
+                "game_tile": "1448065905602072808.png",
+                "logotype": "1448065985163825263.png",
+                "game_tile_light": "quests/1448059005615476909/1448065888648696035.png",
+                "game_tile_dark": "quests/1448059005615476909/1448065888648696035.png",
+                "logotype_light": "quests/1448059005615476909/1448065968550187008.png",
+                "logotype_dark": "quests/1448059005615476909/1448065968550187008.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Where Winds Meet Mobile Launch",
+                "game_title": "Where Winds Meet",
+                "game_publisher": "NETEASE"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "event_name": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 79,
+                        "external_ids": []
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 79,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1448059005615476909/1448063978369585236_1080.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1448059005615476909/1448064150763999353.png"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1448059005615476909/1448063978369585236_720.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1448059005615476909/1448064150763999353.png"
+                            },
+                            "video_hls": {
+                                "url": "quests/1448059005615476909/1448063978369585236.m3u8",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1448059005615476909/1448064150763999353.png"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "Where Winds Meet"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 Orbs",
+                            "name_with_article": "700 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 700
+                    }
+                ],
+                "rewards_expire_at": "2026-01-31T07:59:30+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "video_metadata": {
+                "messages": {
+                    "video_title": "Where Winds Meet",
+                    "video_end_cta_button_label": "Install"
+                },
+                "assets": {
+                    "video_player_video_hls": "quests/1448059005615476909/1448063978369585236.m3u8",
+                    "video_player_video": "quests/1448059005615476909/1448063978369585236_1080.mp4",
+                    "video_player_thumbnail": "quests/1448059005615476909/1448064150763999353.png",
+                    "video_player_video_low_res": "quests/1448059005615476909/1448063978369585236_720.mp4",
+                    "video_player_caption": null,
+                    "video_player_transcript": null,
+                    "quest_bar_preview_video": null,
+                    "quest_bar_preview_thumbnail": null,
+                    "quest_home_video": null
+                }
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "android": {
+                    "android_app_id": "com.netease.yysls"
+                },
+                "ios": {
+                    "ios_app_id": "6472396866"
+                },
+                "link": "https://www.wherewindsmeetgame.com/?shortlink=discordmobilequest&c=discordmobilequest&pid=marketing&af_click_lookback=7d&af_xp=custom&source_caller=ui",
+                "button_label": "Install"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
+    },
+    {
+        "id": "1447653364048330855",
+        "config": {
+            "id": "1447653364048330855",
+            "config_version": 2,
+            "starts_at": "2025-12-12T01:30:38+00:00",
+            "expires_at": "2025-12-18T00:00:38+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://www.capcom-games.com/pragmata/en-us/",
+                "id": "1448369915462549616",
+                "name": "PRAGMATA"
+            },
+            "assets": {
+                "hero": "quests/1447653364048330855/1447655197349511278.jpg",
+                "hero_video": "quests/1447653364048330855/1447655018197946458.mp4",
+                "quest_bar_hero": "quests/1447653364048330855/1447654926745468978.jpg",
+                "quest_bar_hero_video": "quests/1447653364048330855/1447655018197946458.mp4",
+                "game_tile": "1447655431270039805.png",
+                "logotype": "1447655430330253494.png",
+                "game_tile_light": "quests/1447653364048330855/1447655298872381440.png",
+                "game_tile_dark": "quests/1447653364048330855/1447655298872381440.png",
+                "logotype_light": "quests/1447653364048330855/1447655372893454488.png",
+                "logotype_dark": "quests/1447653364048330855/1447655372893454488.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "PRAGMATA Demo",
+                "game_title": "PRAGMATA",
+                "game_publisher": "Capcom"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "event_name": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "external_ids": []
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1448369915462549616"
+                            }
+                        ]
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 Orbs",
+                            "name_with_article": "700 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "Default"
+                            }
+                        },
+                        "orb_quantity": 700
+                    }
+                ],
+                "rewards_expire_at": "2026-01-17T00:00:38+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://www.capcom-games.com/pragmata/en-us/",
+                "button_label": "Play Now"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
+    },
+    {
+        "id": "1448074094426718403",
+        "config": {
+            "id": "1448074094426718403",
+            "config_version": 2,
+            "starts_at": "2025-12-12T00:45:30+00:00",
+            "expires_at": "2026-01-01T07:59:30+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://www.wherewindsmeetgame.com/?shortlink=discordmobilequest&c=discordmobilequest&pid=marketing&af_click_lookback=7d&af_xp=custom&source_caller=ui",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "1448379019174084708.jpg",
+                "hero_video": "1448066669560856807.mp4",
+                "quest_bar_hero": "1448067081512681645.jpg",
+                "quest_bar_hero_video": "1448066779451621607.mp4",
+                "game_tile": "1448065905602072808.png",
+                "logotype": "1448065985163825263.png",
+                "game_tile_light": "1448065888648696035.png",
+                "game_tile_dark": "1448065888648696035.png",
+                "logotype_light": "1448065968550187008.png",
+                "logotype_dark": "1448065968550187008.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Where Winds Meet Mobile Launch",
+                "game_title": "Where Winds Meet",
+                "game_publisher": "NETEASE"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "event_name": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 74,
+                        "external_ids": []
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 74,
+                        "assets": {
+                            "video": {
+                                "url": "1448064101979783178_1080.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "1448064150763999353.png"
+                            },
+                            "video_low_res": {
+                                "url": "1448064101979783178_720.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "1448064150763999353.png"
+                            },
+                            "video_hls": {
+                                "url": "1448064101979783178.m3u8",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "1448064150763999353.png"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "Where Winds Meet"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 Orbs",
+                            "name_with_article": "700 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 700
+                    }
+                ],
+                "rewards_expire_at": "2026-01-31T07:59:30+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "video_metadata": {
+                "messages": {
+                    "video_title": "Where Winds Meet",
+                    "video_end_cta_button_label": "Install"
+                },
+                "assets": {
+                    "video_player_video_hls": "1448064101979783178.m3u8",
+                    "video_player_video": "1448064101979783178_1080.mp4",
+                    "video_player_thumbnail": "1448064150763999353.png",
+                    "video_player_video_low_res": "1448064101979783178_720.mp4",
+                    "video_player_caption": null,
+                    "video_player_transcript": null,
+                    "quest_bar_preview_video": null,
+                    "quest_bar_preview_thumbnail": null,
+                    "quest_home_video": null
+                }
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "android": {
+                    "android_app_id": "com.netease.yysls"
+                },
+                "ios": {
+                    "ios_app_id": "6472396866"
+                },
+                "link": "https://www.wherewindsmeetgame.com/?shortlink=discordmobilequest&c=discordmobilequest&pid=marketing&af_click_lookback=7d&af_xp=custom&source_caller=ui",
+                "button_label": "Install"
+            }
+        }
+    },
+    {
+        "id": "1448075031556133026",
+        "config": {
+            "id": "1448075031556133026",
+            "config_version": 2,
+            "starts_at": "2025-12-12T00:45:30+00:00",
+            "expires_at": "2026-01-01T07:59:30+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://www.wherewindsmeetgame.com/?shortlink=discordmobilequest&c=discordmobilequest&pid=marketing&af_click_lookback=7d&af_xp=custom&source_caller=ui",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "1448379130453168140.jpg",
+                "hero_video": "1448066710329622539.mp4",
+                "quest_bar_hero": "1448067081512681645.jpg",
+                "quest_bar_hero_video": "1448066857570537694.mp4",
+                "game_tile": "1448065905602072808.png",
+                "logotype": "1448065985163825263.png",
+                "game_tile_light": "1448065888648696035.png",
+                "game_tile_dark": "1448065888648696035.png",
+                "logotype_light": "1448065968550187008.png",
+                "logotype_dark": "1448065968550187008.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Where Winds Meet Mobile Launch",
+                "game_title": "Where Winds Meet",
+                "game_publisher": "NETEASE"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "event_name": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 103,
+                        "external_ids": []
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 103,
+                        "assets": {
+                            "video": {
+                                "url": "1448064047470743645_1080.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "1448064150763999353.png"
+                            },
+                            "video_low_res": {
+                                "url": "1448064047470743645_720.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "1448064150763999353.png"
+                            },
+                            "video_hls": {
+                                "url": "1448064047470743645.m3u8",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "1448064150763999353.png"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "Where Winds Meet"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 Orbs",
+                            "name_with_article": "700 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 700
+                    }
+                ],
+                "rewards_expire_at": "2026-01-31T07:59:30+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "video_metadata": {
+                "messages": {
+                    "video_title": "Where Winds Meet",
+                    "video_end_cta_button_label": "Install"
+                },
+                "assets": {
+                    "video_player_video_hls": "1448064047470743645.m3u8",
+                    "video_player_video": "1448064047470743645_1080.mp4",
+                    "video_player_thumbnail": "1448064150763999353.png",
+                    "video_player_video_low_res": "1448064047470743645_720.mp4",
+                    "video_player_caption": null,
+                    "video_player_transcript": null,
+                    "quest_bar_preview_video": null,
+                    "quest_bar_preview_thumbnail": null,
+                    "quest_home_video": null
+                }
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "android": {
+                    "android_app_id": "com.netease.yysls"
+                },
+                "ios": {
+                    "ios_app_id": "6472396866"
+                },
+                "link": "https://www.wherewindsmeetgame.com/?shortlink=discordmobilequest&c=discordmobilequest&pid=marketing&af_click_lookback=7d&af_xp=custom&source_caller=ui",
                 "button_label": "Install"
             }
         }
