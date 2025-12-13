@@ -31684,7 +31684,7 @@
             "id": "1438202046804136028",
             "config_version": 2,
             "starts_at": "2025-11-17T18:00:28+00:00",
-            "expires_at": "2025-12-15T00:00:28+00:00",
+            "expires_at": "2025-12-18T00:00:28+00:00",
             "features": [
                 3,
                 9,
@@ -31789,7 +31789,7 @@
                         "orb_quantity": 700
                     }
                 ],
-                "rewards_expire_at": "2026-01-14T00:00:28+00:00",
+                "rewards_expire_at": "2026-01-17T00:00:28+00:00",
                 "platforms": [
                     0
                 ]
@@ -36915,7 +36915,7 @@
                 15
             ],
             "application": {
-                "link": "https://www.capcom-games.com/pragmata/en-us/",
+                "link": "https://store.steampowered.com/app/3357650/PRAGMATA/",
                 "id": "1448369915462549616",
                 "name": "PRAGMATA"
             },
@@ -36988,7 +36988,7 @@
             },
             "share_policy": "shareable_everywhere",
             "cta_config": {
-                "link": "https://www.capcom-games.com/pragmata/en-us/",
+                "link": "https://store.steampowered.com/app/3357650/PRAGMATA/",
                 "button_label": "Play Now"
             }
         },
@@ -37416,5 +37416,1144 @@
         "user_status": null,
         "targeted_content": [],
         "preview": false
+    },
+    {
+        "id": "1448436561082585220",
+        "config": {
+            "id": "1448436561082585220",
+            "config_version": 2,
+            "starts_at": "2025-12-12T18:00:28+00:00",
+            "expires_at": "2025-12-27T00:00:28+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://xbox.com/gamepass",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1448423146049896448/1448432733079732396.jpg",
+                "hero_video": "quests/1448423146049896448/1448433030728384764.mp4",
+                "quest_bar_hero": "quests/1448423146049896448/1448433170482598112.jpg",
+                "quest_bar_hero_video": "quests/1448423146049896448/1448433030728384764.mp4",
+                "game_tile": "1448433195606605856.png",
+                "logotype": "1448433194683596860.png",
+                "game_tile_light": "quests/1448423146049896448/1448432777052688535.png",
+                "game_tile_dark": "quests/1448423146049896448/1448432777052688535.png",
+                "logotype_light": "quests/1448423146049896448/1448432814142914652.png",
+                "logotype_dark": "quests/1448423146049896448/1448432814142914652.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Xbox Game Pass",
+                "game_title": "Xbox Game Pass",
+                "game_publisher": "Xbox Game Pass"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "event_name": "WATCH_VIDEO",
+                        "target": 69,
+                        "external_ids": []
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 69,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1448423146049896448/1448426626680619138_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1448423146049896448/1448427663092875275.png"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1448423146049896448/1448426626680619138_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1448423146049896448/1448427663092875275.png"
+                            },
+                            "video_hls": {
+                                "url": "quests/1448423146049896448/1448426626680619138.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1448423146049896448/1448427663092875275.png"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "Xbox Game Pass Premium trailer"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 1,
+                        "sku_id": "1448423146049896449",
+                        "asset": "quests/1448423146049896448/1448433317199220910.jpg",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "Claim a 14-day Trial of Xbox Game Pass",
+                            "name_with_article": "a 14-day Trial of Xbox Game Pass",
+                            "redemption_instructions_by_platform": {
+                                "0": "**Redeem at microsoft.com/redeem by January 15,2026 11:59 PM PST.** \n\nValid for new Xbox Game Pass subscribers only. Valid payment method required. Unless you cancel, you will be charged the then-current regular membership rate when the promotional period ends. Limit: 1 per person/account. \n\n**Subject to the Microsoft Services Agreement, Game Pass terms and system requirements at: xbox.com/subscriptionterms. ** "
+                            }
+                        },
+                        "approximate_count": null,
+                        "redemption_link": null
+                    }
+                ],
+                "rewards_expire_at": "2026-01-26T00:00:28+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "video_metadata": {
+                "messages": {
+                    "video_title": "Xbox Game Pass Premium trailer",
+                    "video_end_cta_subtitle": "Claim a 14-day Trial of Xbox Game Pass Premium",
+                    "video_end_cta_button_label": "Learn More"
+                },
+                "assets": {
+                    "video_player_video_hls": "quests/1448423146049896448/1448426626680619138.m3u8",
+                    "video_player_video": "quests/1448423146049896448/1448426626680619138_1080.mp4",
+                    "video_player_thumbnail": "quests/1448423146049896448/1448427663092875275.png",
+                    "video_player_video_low_res": "quests/1448423146049896448/1448426626680619138_720.mp4",
+                    "video_player_caption": null,
+                    "video_player_transcript": null,
+                    "quest_bar_preview_video": null,
+                    "quest_bar_preview_thumbnail": null,
+                    "quest_home_video": null
+                }
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://xbox.com/gamepass",
+                "button_label": "Learn More",
+                "subtitle": "Claim a 14-day Trial of Xbox Game Pass Premium"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
+    },
+    {
+        "id": "1447749956189294614",
+        "config": {
+            "id": "1447749956189294614",
+            "config_version": 2,
+            "starts_at": "2025-12-12T20:25:27+00:00",
+            "expires_at": "2025-12-22T04:00:27+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://huntshowdown.com",
+                "id": "1402417933225033759",
+                "name": "Hunt: Showdown"
+            },
+            "assets": {
+                "hero": "quests/1447749956189294614/1447751465086226634.jpg",
+                "hero_video": null,
+                "quest_bar_hero": "quests/1447749956189294614/1447751488171409509.jpg",
+                "quest_bar_hero_video": "quests/1447749956189294614/1447751777679052851.mp4",
+                "game_tile": "1447751598737592412.png",
+                "logotype": "1448009253339004948.png",
+                "game_tile_light": "quests/1447749956189294614/1447751526008361171.png",
+                "game_tile_dark": "quests/1447749956189294614/1447751526008361171.png",
+                "logotype_light": "quests/1447749956189294614/1448009237677736006.png",
+                "logotype_dark": "quests/1447749956189294614/1448009237677736006.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Hunt: Showdown 1896",
+                "game_title": "Hunt: Showdown 1896",
+                "game_publisher": "Crytek"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "event_name": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "external_ids": []
+                    },
+                    "PLAY_ON_XBOX": {
+                        "event_name": "PLAY_ON_XBOX",
+                        "target": 900,
+                        "external_ids": [
+                            "1841062643"
+                        ]
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "event_name": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "external_ids": [
+                            "PPSA16357_00",
+                            "PPSA16358_00"
+                        ]
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1402417933225033759"
+                            }
+                        ]
+                    },
+                    "PLAY_ON_XBOX": {
+                        "type": "PLAY_ON_XBOX",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1402417933225033759"
+                            }
+                        ],
+                        "external_ids": [
+                            "1841062643"
+                        ]
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "type": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1402417933225033759"
+                            }
+                        ],
+                        "external_ids": [
+                            "PPSA16357_00",
+                            "PPSA16358_00"
+                        ]
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 1,
+                        "sku_id": "1447749956189294615",
+                        "asset": "quests/1447749956189294614/1447764100615634954.png",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "Fate’s Friend: Shorty Silencer",
+                            "name_with_article": "Fate’s Friend: Shorty Silencer",
+                            "redemption_instructions_by_platform": {
+                                "0": "To redeem your code, head to your Settings in-game, select \"More\"> \"Redeem Code\"> Input the 16-digit code and click \"Redeem Code.\"\n"
+                            }
+                        },
+                        "approximate_count": null,
+                        "redemption_link": null
+                    }
+                ],
+                "rewards_expire_at": "2026-01-21T04:00:27+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://huntshowdown.com",
+                "button_label": "Get Game"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
+    },
+    {
+        "id": "1448806603427152024",
+        "config": {
+            "id": "1448806603427152024",
+            "config_version": 2,
+            "starts_at": "2025-12-12T21:00:11+00:00",
+            "expires_at": "2025-12-24T00:00:11+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://www.playtombraider.com/announce?utm_source=paid_media&utm_medium=Discord",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1448806603427152024/1449107716126539807.jpg",
+                "hero_video": "quests/1448806603427152024/1449108092892614729.mp4",
+                "quest_bar_hero": "quests/1448806603427152024/1449107860419252264.jpg",
+                "quest_bar_hero_video": "quests/1448806603427152024/1449108092892614729.mp4",
+                "game_tile": "1449108394395832381.png",
+                "logotype": "1449167140954308721.png",
+                "game_tile_light": "quests/1448806603427152024/1449108366290059314.png",
+                "game_tile_dark": "quests/1448806603427152024/1449108366290059314.png",
+                "logotype_light": "quests/1448806603427152024/1449167128258285619.png",
+                "logotype_dark": "quests/1448806603427152024/1449167128258285619.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Tomb Raider Announcement",
+                "game_title": "Tomb Raider: Legacy of Atlantis",
+                "game_publisher": "Amazon Game Studios"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "event_name": "WATCH_VIDEO",
+                        "target": 98,
+                        "external_ids": []
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "event_name": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 98,
+                        "external_ids": []
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 98,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1448806603427152024/1449109223425446041_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1448806603427152024/1449110959850258634.png"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1448806603427152024/1449109223425446041_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1448806603427152024/1449110959850258634.png"
+                            },
+                            "video_hls": {
+                                "url": "quests/1448806603427152024/1449109223425446041.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1448806603427152024/1449110959850258634.png"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "Tomb Raider: Legacy of Atlantis Announcement Trailer"
+                        }
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 98,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1448806603427152024/1449109376638910647_1080.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1448806603427152024/1449110959850258634.png"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1448806603427152024/1449109376638910647_720.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1448806603427152024/1449110959850258634.png"
+                            },
+                            "video_hls": {
+                                "url": "quests/1448806603427152024/1449109376638910647.m3u8",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1448806603427152024/1449110959850258634.png"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "Tomb Raider: Legacy of Atlantis Announcement Trailer"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 Orbs",
+                            "name_with_article": "700 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 700
+                    }
+                ],
+                "rewards_expire_at": "2026-01-23T00:00:11+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "video_metadata": {
+                "messages": {
+                    "video_title": "Tomb Raider: Legacy of Atlantis Announcement Trailer",
+                    "video_end_cta_subtitle": "Wishlist now on Steam, PlayStation 5, and Xbox Series X|S",
+                    "video_end_cta_button_label": "Wishlist Now"
+                },
+                "assets": {
+                    "video_player_video_hls": "quests/1448806603427152024/1449109223425446041.m3u8",
+                    "video_player_video": "quests/1448806603427152024/1449109223425446041_1080.mp4",
+                    "video_player_thumbnail": "quests/1448806603427152024/1449110959850258634.png",
+                    "video_player_video_low_res": "quests/1448806603427152024/1449109223425446041_720.mp4",
+                    "video_player_caption": null,
+                    "video_player_transcript": null,
+                    "quest_bar_preview_video": null,
+                    "quest_bar_preview_thumbnail": null,
+                    "quest_home_video": null
+                }
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://www.playtombraider.com/announce?utm_source=paid_media&utm_medium=Discord",
+                "button_label": "Wishlist Now",
+                "subtitle": "Wishlist now on Steam, PlayStation 5, and Xbox Series X|S"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
+    },
+    {
+        "id": "1445883772816986212",
+        "config": {
+            "id": "1445883772816986212",
+            "config_version": 2,
+            "starts_at": "2025-12-12T18:00:54+00:00",
+            "expires_at": "2025-12-19T00:00:54+00:00",
+            "features": [
+                3,
+                9,
+                13,
+                14,
+                15,
+                16,
+                18,
+                19,
+                23
+            ],
+            "application": {
+                "link": "https://www.warframe.com/the-old-peace?utm_medium=paid-social&utm_source=discord&utm_campaign=DiscordVideoQuest",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1445883772816986212/1445887780130521180.jpg",
+                "hero_video": "quests/1445883772816986212/1445887696060027042.mp4",
+                "quest_bar_hero": "quests/1445883772816986212/1445887617781596190.jpg",
+                "quest_bar_hero_video": "quests/1445883772816986212/1445887696060027042.mp4",
+                "game_tile": "1445887988230918204.png",
+                "logotype": "1445887987232538879.png",
+                "game_tile_light": "quests/1445883772816986212/1445887950247301272.png",
+                "game_tile_dark": "quests/1445883772816986212/1445887950247301272.png",
+                "logotype_light": "quests/1445883772816986212/1445887894412857495.png",
+                "logotype_dark": "quests/1445883772816986212/1445887894412857495.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Warframe Old Peace",
+                "game_title": "Warframe",
+                "game_publisher": "Digital Extremes"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "event_name": "WATCH_VIDEO",
+                        "target": 91,
+                        "external_ids": []
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 91,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1445883772816986212/1445890933592817745_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1445883772816986212/1445892509208412282.png",
+                                "caption": "quests/1445883772816986212/1445892567635066952.vtt"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1445883772816986212/1445890933592817745_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1445883772816986212/1445892509208412282.png",
+                                "caption": "quests/1445883772816986212/1445892567635066952.vtt"
+                            },
+                            "video_hls": {
+                                "url": "quests/1445883772816986212/1445890933592817745.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1445883772816986212/1445892509208412282.png",
+                                "caption": "quests/1445883772816986212/1445892567635066952.vtt"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "What is Warframe? trailer"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 Orbs",
+                            "name_with_article": "700 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "Default"
+                            }
+                        },
+                        "orb_quantity": 700
+                    }
+                ],
+                "rewards_expire_at": "2026-01-18T00:00:54+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "video_metadata": {
+                "messages": {
+                    "video_title": "What is Warframe? trailer",
+                    "video_end_cta_subtitle": "Wake up, Tenno.",
+                    "video_end_cta_button_label": "Play Now"
+                },
+                "assets": {
+                    "video_player_video_hls": "quests/1445883772816986212/1445890933592817745.m3u8",
+                    "video_player_video": "quests/1445883772816986212/1445890933592817745_1080.mp4",
+                    "video_player_thumbnail": "quests/1445883772816986212/1445892509208412282.png",
+                    "video_player_video_low_res": "quests/1445883772816986212/1445890933592817745_720.mp4",
+                    "video_player_caption": "quests/1445883772816986212/1445892567635066952.vtt",
+                    "video_player_transcript": null,
+                    "quest_bar_preview_video": null,
+                    "quest_bar_preview_thumbnail": null,
+                    "quest_home_video": null
+                }
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://www.warframe.com/the-old-peace?utm_medium=paid-social&utm_source=discord&utm_campaign=DiscordVideoQuest",
+                "button_label": "Play Now",
+                "subtitle": "Wake up, Tenno."
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
+    },
+    {
+        "id": "1445532356323836135",
+        "config": {
+            "id": "1445532356323836135",
+            "config_version": 2,
+            "starts_at": "2025-12-12T18:00:30+00:00",
+            "expires_at": "2025-12-20T00:00:30+00:00",
+            "features": [
+                3,
+                9,
+                13,
+                14,
+                15,
+                16,
+                18,
+                19,
+                23
+            ],
+            "application": {
+                "link": "https://pathofexile2.com/",
+                "id": "1328876348361412619",
+                "name": "Path of Exile 2"
+            },
+            "assets": {
+                "hero": "quests/1445532356323836135/1445545944941727746.jpg",
+                "hero_video": null,
+                "quest_bar_hero": "quests/1445532356323836135/1445545897583837477.jpg",
+                "quest_bar_hero_video": null,
+                "game_tile": "1445546363118031009.jpg",
+                "logotype": "1445546165348208710.png",
+                "game_tile_light": "quests/1445532356323836135/1445546241562775673.jpg",
+                "game_tile_dark": "quests/1445532356323836135/1445546314493464656.jpg",
+                "logotype_light": "quests/1445532356323836135/1445546108767043594.png",
+                "logotype_dark": "quests/1445532356323836135/1445546037061357708.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Path of Exile 2",
+                "game_title": "Path of Exile 2",
+                "game_publisher": "Grinding Gear Games"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "event_name": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "external_ids": []
+                    },
+                    "PLAY_ON_XBOX": {
+                        "event_name": "PLAY_ON_XBOX",
+                        "target": 900,
+                        "external_ids": [
+                            "1651188120"
+                        ]
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "event_name": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "external_ids": [
+                            "PPSA23974_00",
+                            "PPSA22040_00",
+                            "PPSA22041_00",
+                            "PPSA23975_00"
+                        ]
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1328876348361412619"
+                            }
+                        ]
+                    },
+                    "PLAY_ON_XBOX": {
+                        "type": "PLAY_ON_XBOX",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1328876348361412619"
+                            }
+                        ],
+                        "external_ids": [
+                            "1651188120"
+                        ]
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "type": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1328876348361412619"
+                            }
+                        ],
+                        "external_ids": [
+                            "PPSA23974_00",
+                            "PPSA22040_00",
+                            "PPSA22041_00",
+                            "PPSA23975_00"
+                        ]
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 3,
+                        "sku_id": "1445852154131775520",
+                        "asset": "quests/1445532356323836135/1446257835737350327.mp4",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "Last of the Druids Avatar",
+                            "name_with_article": "a Last of the Druids Avatar",
+                            "redemption_instructions_by_platform": {
+                                "0": "Default"
+                            }
+                        },
+                        "expires_at": "2026-02-19T00:00:00+00:00",
+                        "expires_at_premium": null,
+                        "expiration_mode": 3
+                    }
+                ],
+                "rewards_expire_at": "2026-01-19T00:00:30+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://pathofexile2.com/",
+                "button_label": "Play Game"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
+    },
+    {
+        "id": "1447665727824724068",
+        "config": {
+            "id": "1447665727824724068",
+            "config_version": 2,
+            "starts_at": "2025-12-12T18:00:45+00:00",
+            "expires_at": "2025-12-24T07:59:45+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://www.exodusgame.com/?utm_source=discord&utm_medium=paid&utm_campaign=paid_tgas&utm_content=tgavideo&utm_term=generalgaming#wishlist",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1447665727824724068/1447668037246259290.jpeg",
+                "hero_video": "quests/1447665727824724068/1447667965838495925.mp4",
+                "quest_bar_hero": "quests/1447665727824724068/1447667898226053222.jpg",
+                "quest_bar_hero_video": "quests/1447665727824724068/1447667965838495925.mp4",
+                "game_tile": "1447668234521411584.png",
+                "logotype": "1447683945599860787.png",
+                "game_tile_light": "quests/1447665727824724068/1447668189629644851.png",
+                "game_tile_dark": "quests/1447665727824724068/1447668189629644851.png",
+                "logotype_light": "quests/1447665727824724068/1447683833150570666.png",
+                "logotype_dark": "quests/1447665727824724068/1447683833150570666.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "EXODUS™ Trailer",
+                "game_title": "EXODUS™",
+                "game_publisher": "Wizards of the Coast"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "event_name": "WATCH_VIDEO",
+                        "target": 29,
+                        "external_ids": []
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "event_name": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 29,
+                        "external_ids": []
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 29,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1447665727824724068/1447668391228997702_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1447665727824724068/1447669970858151976.png"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1447665727824724068/1447668391228997702_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1447665727824724068/1447669970858151976.png"
+                            },
+                            "video_hls": {
+                                "url": "quests/1447665727824724068/1447668391228997702.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1447665727824724068/1447669970858151976.png"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "EXODUS | “The Rise of Jun Aslan” Trailer"
+                        }
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 29,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1447665727824724068/1447670249603207199_1080.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1447665727824724068/1447669970858151976.png"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1447665727824724068/1447670249603207199_720.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1447665727824724068/1447669970858151976.png"
+                            },
+                            "video_hls": {
+                                "url": "quests/1447665727824724068/1447670249603207199.m3u8",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1447665727824724068/1447669970858151976.png"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "EXODUS | “The Rise of Jun Aslan” Trailer"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 Orbs",
+                            "name_with_article": "700 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "Default"
+                            }
+                        },
+                        "orb_quantity": 700
+                    }
+                ],
+                "rewards_expire_at": "2026-01-23T07:59:45+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "video_metadata": {
+                "messages": {
+                    "video_title": "EXODUS | “The Rise of Jun Aslan” Trailer",
+                    "video_end_cta_subtitle": "Your EXODUS Begins Early 2027",
+                    "video_end_cta_button_label": "Wishlist Now"
+                },
+                "assets": {
+                    "video_player_video_hls": "quests/1447665727824724068/1447668391228997702.m3u8",
+                    "video_player_video": "quests/1447665727824724068/1447668391228997702_1080.mp4",
+                    "video_player_thumbnail": "quests/1447665727824724068/1447669970858151976.png",
+                    "video_player_video_low_res": "quests/1447665727824724068/1447668391228997702_720.mp4",
+                    "video_player_caption": null,
+                    "video_player_transcript": null,
+                    "quest_bar_preview_video": null,
+                    "quest_bar_preview_thumbnail": null,
+                    "quest_home_video": null
+                }
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://www.exodusgame.com/?utm_source=discord&utm_medium=paid&utm_campaign=paid_tgas&utm_content=tgavideo&utm_term=generalgaming#wishlist",
+                "button_label": "Wishlist Now",
+                "subtitle": "Your EXODUS Begins Early 2027"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
+    },
+    {
+        "id": "1448102602704293999",
+        "config": {
+            "id": "1448102602704293999",
+            "config_version": 2,
+            "starts_at": "2025-12-12T18:00:44+00:00",
+            "expires_at": "2025-12-20T00:00:44+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://store.steampowered.com/app/4115450/Phantom_Blade_Zero?utm_source=discord&utm_campaign=tga2025&utm_medium=pmedia&utm_content=quest&utm_term=global",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1448102602704293999/1448106417465721096.jpg",
+                "hero_video": "quests/1448102602704293999/1448106100946767943.mp4",
+                "quest_bar_hero": "quests/1448102602704293999/1448106578610753657.jpg",
+                "quest_bar_hero_video": "quests/1448102602704293999/1448106100946767943.mp4",
+                "game_tile": "1448111747062960138.png",
+                "logotype": "1448107118858211429.PNG",
+                "game_tile_light": "quests/1448102602704293999/1448111727203061912.png",
+                "game_tile_dark": "quests/1448102602704293999/1448111727203061912.png",
+                "logotype_light": "quests/1448102602704293999/1448107096221417664.PNG",
+                "logotype_dark": "quests/1448102602704293999/1448107096221417664.PNG"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Phantom Blade Zero Video",
+                "game_title": "Phantom Blade Zero",
+                "game_publisher": "S-GAME"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "event_name": "WATCH_VIDEO",
+                        "target": 240,
+                        "external_ids": []
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 240,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1448102602704293999/1448899606359314583_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1448102602704293999/1448112146234867813.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1448102602704293999/1448899606359314583_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1448102602704293999/1448112146234867813.jpg"
+                            },
+                            "video_hls": {
+                                "url": "quests/1448102602704293999/1448899606359314583.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1448102602704293999/1448112146234867813.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "Phantom Blade Zero - Official Release Date Trailer"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 3,
+                        "sku_id": "1448114830778171637",
+                        "asset": "quests/1448102602704293999/1448115115810619452.mp4",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "Lethal Strike Avatar Decoration",
+                            "name_with_article": "a Lethal Strike Avatar Decoration",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "expires_at": "2026-02-19T00:00:00+00:00",
+                        "expires_at_premium": null,
+                        "expiration_mode": 3
+                    }
+                ],
+                "rewards_expire_at": "2026-01-19T00:00:44+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "video_metadata": {
+                "messages": {
+                    "video_title": "Phantom Blade Zero - Official Release Date Trailer",
+                    "video_end_cta_subtitle": "Watch the Phantom Blade Zero Official Release Date Trailer and claim a free Kungfu Punk-style avatar decoration.",
+                    "video_end_cta_button_label": "Wishlist Now"
+                },
+                "assets": {
+                    "video_player_video_hls": "quests/1448102602704293999/1448899606359314583.m3u8",
+                    "video_player_video": "quests/1448102602704293999/1448899606359314583_1080.mp4",
+                    "video_player_thumbnail": "quests/1448102602704293999/1448112146234867813.jpg",
+                    "video_player_video_low_res": "quests/1448102602704293999/1448899606359314583_720.mp4",
+                    "video_player_caption": null,
+                    "video_player_transcript": null,
+                    "quest_bar_preview_video": null,
+                    "quest_bar_preview_thumbnail": null,
+                    "quest_home_video": null
+                }
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://store.steampowered.com/app/4115450/Phantom_Blade_Zero?utm_source=discord&utm_campaign=tga2025&utm_medium=pmedia&utm_content=quest&utm_term=global",
+                "button_label": "Wishlist Now",
+                "subtitle": "Watch the Phantom Blade Zero Official Release Date Trailer and claim a free Kungfu Punk-style avatar decoration."
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
+    },
+    {
+        "id": "1448423146049896448",
+        "config": {
+            "id": "1448423146049896448",
+            "config_version": 2,
+            "starts_at": "2025-12-12T18:00:28+00:00",
+            "expires_at": "2025-12-27T00:00:28+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://xbox.com/gamepass",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "1448432733079732396.jpg",
+                "hero_video": "1448433030728384764.mp4",
+                "quest_bar_hero": "1448433170482598112.jpg",
+                "quest_bar_hero_video": "1448433030728384764.mp4",
+                "game_tile": "1448433195606605856.png",
+                "logotype": "1448433194683596860.png",
+                "game_tile_light": "1448432777052688535.png",
+                "game_tile_dark": "1448432777052688535.png",
+                "logotype_light": "1448432814142914652.png",
+                "logotype_dark": "1448432814142914652.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Xbox Game Pass",
+                "game_title": "Xbox Game Pass",
+                "game_publisher": "Xbox Game Pass"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "event_name": "WATCH_VIDEO",
+                        "target": 69,
+                        "external_ids": []
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 69,
+                        "assets": {
+                            "video": {
+                                "url": "1448426626680619138_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "1448427663092875275.png"
+                            },
+                            "video_low_res": {
+                                "url": "1448426626680619138_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "1448427663092875275.png"
+                            },
+                            "video_hls": {
+                                "url": "1448426626680619138.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "1448427663092875275.png"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "Xbox Game Pass Premium trailer"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 1,
+                        "sku_id": "1448423146049896449",
+                        "asset": "1448433317199220910.jpg",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "Claim a 14-day Trial of Xbox Game Pass",
+                            "name_with_article": "a 14-day Trial of Xbox Game Pass",
+                            "redemption_instructions_by_platform": {
+                                "0": "**Redeem at microsoft.com/redeem by January 15,2026 11:59 PM PST.** \n\nValid for new Xbox Game Pass subscribers only. Valid payment method required. Unless you cancel, you will be charged the then-current regular membership rate when the promotional period ends. Limit: 1 per person/account. \n\n**Subject to the Microsoft Services Agreement, Game Pass terms and system requirements at: xbox.com/subscriptionterms. ** "
+                            }
+                        },
+                        "approximate_count": null,
+                        "redemption_link": null
+                    }
+                ],
+                "rewards_expire_at": "2026-01-26T00:00:28+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "video_metadata": {
+                "messages": {
+                    "video_title": "Xbox Game Pass Premium trailer",
+                    "video_end_cta_subtitle": "Claim a 14-day Trial of Xbox Game Pass Premium",
+                    "video_end_cta_button_label": "Learn More"
+                },
+                "assets": {
+                    "video_player_video_hls": "1448426626680619138.m3u8",
+                    "video_player_video": "1448426626680619138_1080.mp4",
+                    "video_player_thumbnail": "1448427663092875275.png",
+                    "video_player_video_low_res": "1448426626680619138_720.mp4",
+                    "video_player_caption": null,
+                    "video_player_transcript": null,
+                    "quest_bar_preview_video": null,
+                    "quest_bar_preview_thumbnail": null,
+                    "quest_home_video": null
+                }
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://xbox.com/gamepass",
+                "button_label": "Learn More",
+                "subtitle": "Claim a 14-day Trial of Xbox Game Pass Premium"
+            }
+        }
     }
 ]
