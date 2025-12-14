@@ -38555,5 +38555,134 @@
                 "subtitle": "Claim a 14-day Trial of Xbox Game Pass Premium"
             }
         }
+    },
+    {
+        "id": "1448394266714968219",
+        "config": {
+            "id": "1448394266714968219",
+            "config_version": 2,
+            "starts_at": "2025-12-14T15:00:43+00:00",
+            "expires_at": "2025-12-21T00:00:43+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://bit.ly/StealtheBrainrotRESPAWN",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1448394266714968219/1448395308059983872.jpg",
+                "hero_video": "quests/1448394266714968219/1448737098193436692.mp4",
+                "quest_bar_hero": "quests/1448394266714968219/1448395308059983872.jpg",
+                "quest_bar_hero_video": "quests/1448394266714968219/1448737098193436692.mp4",
+                "game_tile": "1448396266328297544.png",
+                "logotype": "1449084987981955102.png",
+                "game_tile_light": "quests/1448394266714968219/1448395596351410176.png",
+                "game_tile_dark": "quests/1448394266714968219/1448395528768589844.png",
+                "logotype_light": "quests/1448394266714968219/1449084772595925183.png",
+                "logotype_dark": "quests/1448394266714968219/1449084822793486457.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "7 Days of Rot",
+                "game_title": "RESPAWN by Razer",
+                "game_publisher": "RESPAWN by Razer 7 Days of Rot"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "event_name": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 29,
+                        "external_ids": []
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 29,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1448394266714968219/1448400551686570086_1080.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1448394266714968219/1448397117021229116.png"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1448394266714968219/1448400551686570086_720.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1448394266714968219/1448397117021229116.png"
+                            },
+                            "video_hls": {
+                                "url": "quests/1448394266714968219/1448400551686570086.m3u8",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1448394266714968219/1448397117021229116.png"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "7 Days of Rot"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 Orbs",
+                            "name_with_article": "700 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 700
+                    }
+                ],
+                "rewards_expire_at": "2026-01-20T00:00:43+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "video_metadata": {
+                "messages": {
+                    "video_title": "7 Days of Rot",
+                    "video_end_cta_subtitle": "RESPAWN by Razer 7 Days of Rot",
+                    "video_end_cta_button_label": "Join Server"
+                },
+                "assets": {
+                    "video_player_video_hls": "quests/1448394266714968219/1448400551686570086.m3u8",
+                    "video_player_video": "quests/1448394266714968219/1448400551686570086_1080.mp4",
+                    "video_player_thumbnail": "quests/1448394266714968219/1448397117021229116.png",
+                    "video_player_video_low_res": "quests/1448394266714968219/1448400551686570086_720.mp4",
+                    "video_player_caption": null,
+                    "video_player_transcript": null,
+                    "quest_bar_preview_video": null,
+                    "quest_bar_preview_thumbnail": null,
+                    "quest_home_video": null
+                }
+            },
+            "share_policy": "not_shareable",
+            "cta_config": {
+                "link": "https://bit.ly/StealtheBrainrotRESPAWN",
+                "button_label": "Join Server",
+                "subtitle": "RESPAWN by Razer 7 Days of Rot"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
     }
 ]
