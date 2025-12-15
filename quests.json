@@ -36144,7 +36144,7 @@
             "id": "1447674068815057026",
             "config_version": 2,
             "starts_at": "2025-12-10T00:30:54+00:00",
-            "expires_at": "2025-12-22T00:00:54+00:00",
+            "expires_at": "2025-12-19T18:00:54+00:00",
             "features": [
                 15
             ],
@@ -36237,7 +36237,7 @@
                         "redemption_link": null
                     }
                 ],
-                "rewards_expire_at": "2026-01-21T00:00:54+00:00",
+                "rewards_expire_at": "2026-01-18T18:00:54+00:00",
                 "platforms": [
                     0
                 ]
@@ -38684,5 +38684,592 @@
         "user_status": null,
         "targeted_content": [],
         "preview": false
+    },
+    {
+        "id": "1445164182034059315",
+        "config": {
+            "id": "1445164182034059315",
+            "config_version": 2,
+            "starts_at": "2025-12-15T18:00:49+00:00",
+            "expires_at": "2025-12-22T00:00:49+00:00",
+            "features": [
+                3,
+                9,
+                13,
+                14,
+                15,
+                16,
+                18,
+                19,
+                23
+            ],
+            "application": {
+                "link": "https://www.monopolygo.com/",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1445124247273078935/1445154640583983194.jpg",
+                "hero_video": "quests/1445164127202050158/1445170440912900166.mp4",
+                "quest_bar_hero": "quests/1445164127202050158/1445170412307615857.jpg",
+                "quest_bar_hero_video": "quests/1445164127202050158/1445170440912900166.mp4",
+                "game_tile": "1445155665738989751.jpg",
+                "logotype": "1445155556322185416.png",
+                "game_tile_light": "quests/1445124247273078935/1445155647955140660.jpg",
+                "game_tile_dark": "quests/1445124247273078935/1445155647955140660.jpg",
+                "logotype_light": "quests/1445124247273078935/1445155457952907295.png",
+                "logotype_dark": "quests/1445124247273078935/1445155539125276823.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "MONOPOLY GO!",
+                "game_title": "MONOPOLY GO!",
+                "game_publisher": "Scopely "
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "event_name": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 29,
+                        "external_ids": []
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 29,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1445124247273078935/1449180824351150191_1080.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1445124247273078935/1445159571105775758.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1445124247273078935/1449180824351150191_720.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1445124247273078935/1445159571105775758.jpg"
+                            },
+                            "video_hls": {
+                                "url": "quests/1445124247273078935/1449180824351150191.m3u8",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1445124247273078935/1445159571105775758.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "MONOPOLY GO QUEST!"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 Orbs",
+                            "name_with_article": "700 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "Default"
+                            }
+                        },
+                        "orb_quantity": 700
+                    }
+                ],
+                "rewards_expire_at": "2026-01-21T00:00:49+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "video_metadata": {
+                "messages": {
+                    "video_title": "MONOPOLY GO QUEST!",
+                    "video_end_cta_button_label": "Install"
+                },
+                "assets": {
+                    "video_player_video_hls": "quests/1445124247273078935/1449180824351150191.m3u8",
+                    "video_player_video": "quests/1445124247273078935/1449180824351150191_1080.mp4",
+                    "video_player_thumbnail": "quests/1445124247273078935/1445159571105775758.jpg",
+                    "video_player_video_low_res": "quests/1445124247273078935/1449180824351150191_720.mp4",
+                    "video_player_caption": null,
+                    "video_player_transcript": null,
+                    "quest_bar_preview_video": null,
+                    "quest_bar_preview_thumbnail": null,
+                    "quest_home_video": null
+                }
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "android": {
+                    "android_app_id": "com.scopely.monopolygo"
+                },
+                "ios": {
+                    "ios_app_id": "1621328561"
+                },
+                "link": "https://www.monopolygo.com/",
+                "button_label": "Install"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
+    },
+    {
+        "id": "1446248284501966942",
+        "config": {
+            "id": "1446248284501966942",
+            "config_version": 2,
+            "starts_at": "2025-12-15T18:30:21+00:00",
+            "expires_at": "2025-12-22T00:00:21+00:00",
+            "features": [
+                19,
+                23,
+                13,
+                15
+            ],
+            "application": {
+                "link": "https://store.ubisoft.com/us/avatar--frontiers-of-pandora-tm--from-the-ashes-edition/68c98ac33dddae27ae2268aa.html?lang=en_US",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1446248284501966942/1446249900953305208.jpg",
+                "hero_video": "quests/1446248284501966942/1446249838739062784.mp4",
+                "quest_bar_hero": "quests/1446248284501966942/1446249764994678957.jpg",
+                "quest_bar_hero_video": "quests/1446248284501966942/1446249838739062784.mp4",
+                "game_tile": "1446250296400412702.jpg",
+                "logotype": "1446250295326806208.png",
+                "game_tile_light": "quests/1446248284501966942/1446250268562952373.jpg",
+                "game_tile_dark": "quests/1446248284501966942/1446250268562952373.jpg",
+                "logotype_light": "quests/1446248284501966942/1446250117417140344.png",
+                "logotype_dark": "quests/1446248284501966942/1446250189873746082.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Avatar: From the Ashes",
+                "game_title": "Avatar: From the Ashes",
+                "game_publisher": "Ubisoft"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "event_name": "WATCH_VIDEO",
+                        "target": 108,
+                        "external_ids": []
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "event_name": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 108,
+                        "external_ids": []
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 108,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1446248284501966942/1446250480786341978_1080.mp4",
+                                "width": 1280,
+                                "height": 720,
+                                "thumbnail": "quests/1446248284501966942/1446252212383907880.jpg",
+                                "caption": "quests/1446248284501966942/1446252549186392267.vtt"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1446248284501966942/1446250480786341978_720.mp4",
+                                "width": 1280,
+                                "height": 720,
+                                "thumbnail": "quests/1446248284501966942/1446252212383907880.jpg",
+                                "caption": "quests/1446248284501966942/1446252549186392267.vtt"
+                            },
+                            "video_hls": {
+                                "url": "quests/1446248284501966942/1446250480786341978.m3u8",
+                                "width": 1280,
+                                "height": 720,
+                                "thumbnail": "quests/1446248284501966942/1446252212383907880.jpg",
+                                "caption": "quests/1446248284501966942/1446252549186392267.vtt"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "Avatar: Frontiers of Pandora - From the Ashes | Launch Trailer"
+                        }
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 108,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1446248284501966942/1446253302839771237_1080.mp4",
+                                "width": 405,
+                                "height": 720,
+                                "thumbnail": "quests/1446248284501966942/1446252212383907880.jpg",
+                                "caption": "quests/1446248284501966942/1446252549186392267.vtt"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1446248284501966942/1446253302839771237_720.mp4",
+                                "width": 405,
+                                "height": 720,
+                                "thumbnail": "quests/1446248284501966942/1446252212383907880.jpg",
+                                "caption": "quests/1446248284501966942/1446252549186392267.vtt"
+                            },
+                            "video_hls": {
+                                "url": "quests/1446248284501966942/1446253302839771237.m3u8",
+                                "width": 405,
+                                "height": 720,
+                                "thumbnail": "quests/1446248284501966942/1446252212383907880.jpg",
+                                "caption": "quests/1446248284501966942/1446252549186392267.vtt"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "Avatar: Frontiers of Pandora - From the Ashes | Launch Trailer"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 Orbs",
+                            "name_with_article": "700 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "Default"
+                            }
+                        },
+                        "orb_quantity": 700
+                    }
+                ],
+                "rewards_expire_at": "2026-01-21T00:00:21+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "video_metadata": {
+                "messages": {
+                    "video_title": "Avatar: Frontiers of Pandora - From the Ashes | Launch Trailer",
+                    "video_end_cta_subtitle": "BUY THE GAME NOW",
+                    "video_end_cta_button_label": "Buy Now"
+                },
+                "assets": {
+                    "video_player_video_hls": "quests/1446248284501966942/1446250480786341978.m3u8",
+                    "video_player_video": "quests/1446248284501966942/1446250480786341978_1080.mp4",
+                    "video_player_thumbnail": "quests/1446248284501966942/1446252212383907880.jpg",
+                    "video_player_video_low_res": "quests/1446248284501966942/1446250480786341978_720.mp4",
+                    "video_player_caption": "quests/1446248284501966942/1446252549186392267.vtt",
+                    "video_player_transcript": null,
+                    "quest_bar_preview_video": null,
+                    "quest_bar_preview_thumbnail": null,
+                    "quest_home_video": null
+                }
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://store.ubisoft.com/us/avatar--frontiers-of-pandora-tm--from-the-ashes-edition/68c98ac33dddae27ae2268aa.html?lang=en_US",
+                "button_label": "Buy Now",
+                "subtitle": "BUY THE GAME NOW"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
+    },
+    {
+        "id": "1445124247273078935",
+        "config": {
+            "id": "1445124247273078935",
+            "config_version": 2,
+            "starts_at": "2025-12-15T18:00:49+00:00",
+            "expires_at": "2025-12-22T00:00:49+00:00",
+            "features": [
+                3,
+                9,
+                13,
+                14,
+                15,
+                16,
+                18,
+                19,
+                23
+            ],
+            "application": {
+                "link": "https://www.monopolygo.com/",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "1445154543808807045.jpg",
+                "hero_video": "1445154755054931989.mp4",
+                "quest_bar_hero": "1445154543808807045.jpg",
+                "quest_bar_hero_video": "1445154755054931989.mp4",
+                "game_tile": "1445155665738989751.jpg",
+                "logotype": "1445155556322185416.png",
+                "game_tile_light": "1445155647955140660.jpg",
+                "game_tile_dark": "1445155647955140660.jpg",
+                "logotype_light": "1445155457952907295.png",
+                "logotype_dark": "1445155539125276823.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "MONOPOLY GO!",
+                "game_title": "MONOPOLY GO!",
+                "game_publisher": "Scopely "
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "event_name": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 54,
+                        "external_ids": []
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 54,
+                        "assets": {
+                            "video": {
+                                "url": "1449183766395355226_1080.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "1445159571105775758.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "1449183766395355226_720.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "1445159571105775758.jpg"
+                            },
+                            "video_hls": {
+                                "url": "1449183766395355226.m3u8",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "1445159571105775758.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "MONOPOLY GO QUEST!"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 Orbs",
+                            "name_with_article": "700 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "Default"
+                            }
+                        },
+                        "orb_quantity": 700
+                    }
+                ],
+                "rewards_expire_at": "2026-01-09T00:00:49+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "video_metadata": {
+                "messages": {
+                    "video_title": "MONOPOLY GO QUEST!",
+                    "video_end_cta_button_label": "Install"
+                },
+                "assets": {
+                    "video_player_video_hls": "1449183766395355226.m3u8",
+                    "video_player_video": "1449183766395355226_1080.mp4",
+                    "video_player_thumbnail": "1445159571105775758.jpg",
+                    "video_player_video_low_res": "1449183766395355226_720.mp4",
+                    "video_player_caption": null,
+                    "video_player_transcript": null,
+                    "quest_bar_preview_video": null,
+                    "quest_bar_preview_thumbnail": null,
+                    "quest_home_video": null
+                }
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "android": {
+                    "android_app_id": "com.scopely.monopolygo"
+                },
+                "ios": {
+                    "ios_app_id": "1621328561"
+                },
+                "link": "https://www.monopolygo.com/",
+                "button_label": "Install"
+            }
+        }
+    },
+    {
+        "id": "1445164127202050158",
+        "config": {
+            "id": "1445164127202050158",
+            "config_version": 2,
+            "starts_at": "2025-12-15T18:00:49+00:00",
+            "expires_at": "2025-12-22T00:00:49+00:00",
+            "features": [
+                3,
+                9,
+                13,
+                14,
+                15,
+                16,
+                18,
+                19,
+                23
+            ],
+            "application": {
+                "link": "https://www.monopolygo.com/",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "1445154594517811352.jpg",
+                "hero_video": "1445167236405788849.mp4",
+                "quest_bar_hero": "1445167204403253499.jpg",
+                "quest_bar_hero_video": "1445167236405788849.mp4",
+                "game_tile": "1445155665738989751.jpg",
+                "logotype": "1445155556322185416.png",
+                "game_tile_light": "1445155647955140660.jpg",
+                "game_tile_dark": "1445155647955140660.jpg",
+                "logotype_light": "1445155457952907295.png",
+                "logotype_dark": "1445155539125276823.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "MONOPOLY GO!",
+                "game_title": "MONOPOLY GO!",
+                "game_publisher": "Scopely "
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "event_name": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 51,
+                        "external_ids": []
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 51,
+                        "assets": {
+                            "video": {
+                                "url": "1449186091545657446_1080.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "1445159571105775758.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "1449186091545657446_720.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "1445159571105775758.jpg"
+                            },
+                            "video_hls": {
+                                "url": "1449186091545657446.m3u8",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "1445159571105775758.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "MONOPOLY GO QUEST!"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 Orbs",
+                            "name_with_article": "700 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "Default"
+                            }
+                        },
+                        "orb_quantity": 700
+                    }
+                ],
+                "rewards_expire_at": "2026-01-09T00:00:49+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "video_metadata": {
+                "messages": {
+                    "video_title": "MONOPOLY GO QUEST!",
+                    "video_end_cta_button_label": "Install"
+                },
+                "assets": {
+                    "video_player_video_hls": "1449186091545657446.m3u8",
+                    "video_player_video": "1449186091545657446_1080.mp4",
+                    "video_player_thumbnail": "1445159571105775758.jpg",
+                    "video_player_video_low_res": "1449186091545657446_720.mp4",
+                    "video_player_caption": null,
+                    "video_player_transcript": null,
+                    "quest_bar_preview_video": null,
+                    "quest_bar_preview_thumbnail": null,
+                    "quest_home_video": null
+                }
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "android": {
+                    "android_app_id": "com.scopely.monopolygo"
+                },
+                "ios": {
+                    "ios_app_id": "1621328561"
+                },
+                "link": "https://www.monopolygo.com/",
+                "button_label": "Install"
+            }
+        }
     }
 ]
