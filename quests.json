@@ -40439,5 +40439,100 @@
                 "subtitle": "Disclosure Day In Theaters 06.12.26"
             }
         }
+    },
+    {
+        "id": "1448427219461341377",
+        "config": {
+            "id": "1448427219461341377",
+            "config_version": 2,
+            "starts_at": "2025-12-17T02:00:39+00:00",
+            "expires_at": "2025-12-23T00:00:39+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://bluearchive-abr.na.nexon.com/9s1mmqq",
+                "id": "1390512760860704889",
+                "name": "Blue Archive"
+            },
+            "assets": {
+                "hero": "quests/1448427219461341377/1449150671017214053.jpg",
+                "hero_video": null,
+                "quest_bar_hero": "quests/1448427219461341377/1449150599890473041.jpg",
+                "quest_bar_hero_video": null,
+                "game_tile": "1448434049424035994.png",
+                "logotype": "1448434048509939884.png",
+                "game_tile_light": "quests/1448427219461341377/1448433944386207936.png",
+                "game_tile_dark": "quests/1448427219461341377/1448433865348743300.png",
+                "logotype_light": "quests/1448427219461341377/1448433719873634304.png",
+                "logotype_dark": "quests/1448427219461341377/1448433646628372590.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Blue Archive",
+                "game_title": "Blue Archive",
+                "game_publisher": "NEXON KOREA"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "event_name": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "external_ids": []
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1390512760860704889"
+                            }
+                        ]
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 1,
+                        "sku_id": "1448427219461341378",
+                        "asset": "quests/1448427219461341377/1448431117316133075.png",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "300 Pyroxene and more",
+                            "name_with_article": "300 Pyroxene and more",
+                            "redemption_instructions_by_platform": {
+                                "0": "Congratulations on getting an in-game reward for Blue Archive Quest. In order to claim the item in-game follow these steps:  \nStep 1: Enter Game > Top-right Icon > [Menu Tab] > [Account] > [Customer Support] > check \"Member Code\" > Copy  \nGo to [https://mcoupon.nexon.com/bluearchive]  \nStep 2: Select Server > Input copied Member Code > Enter Coupon Code > Click Confirm"
+                            }
+                        },
+                        "approximate_count": null,
+                        "redemption_link": null
+                    }
+                ],
+                "rewards_expire_at": "2026-01-22T00:00:39+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://bluearchive-abr.na.nexon.com/9s1mmqq",
+                "button_label": "Play Now"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
     }
 ]
