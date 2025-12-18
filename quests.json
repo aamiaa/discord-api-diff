@@ -40778,5 +40778,686 @@
         "user_status": null,
         "targeted_content": [],
         "preview": false
+    },
+    {
+        "id": "1450241678618394624",
+        "config": {
+            "id": "1450241678618394624",
+            "config_version": 2,
+            "starts_at": "2025-12-18T18:00:40+00:00",
+            "expires_at": "2025-12-29T00:00:40+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://fallout.bethesda.net/en/games?utm_source=10047385&utm_medium=435627056&utm_campaign=34737572&utm_creative=246911328",
+                "id": "512501896896970762",
+                "name": "Fallout 76"
+            },
+            "assets": {
+                "hero": "quests/1450241678618394624/1450606596517396510.jpg",
+                "hero_video": null,
+                "quest_bar_hero": "quests/1450241678618394624/1450871383985750220.jpg",
+                "quest_bar_hero_video": null,
+                "game_tile": "1450242830671806526.png",
+                "logotype": "1450650696658718903.png",
+                "game_tile_light": "quests/1450241678618394624/1450242814469214320.png",
+                "game_tile_dark": "quests/1450241678618394624/1450242814469214320.png",
+                "logotype_light": "quests/1450241678618394624/1450650676693831680.png",
+                "logotype_dark": "quests/1450241678618394624/1450650676693831680.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Fallout",
+                "game_title": "Fallout 4 Anniversary Edition, Fallout 76",
+                "game_publisher": "Bethesda Softworks"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "event_name": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "external_ids": []
+                    },
+                    "PLAY_ON_XBOX": {
+                        "event_name": "PLAY_ON_XBOX",
+                        "target": 900,
+                        "external_ids": [
+                            "1256782258",
+                            "332913499"
+                        ]
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "event_name": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "external_ids": [
+                            "CUSA02962_00",
+                            "CUSA12304_00",
+                            "CUSA02557_00",
+                            "CUSA03448_00",
+                            "PPSA09017_00",
+                            "CUSA12265_00",
+                            "CUSA03701_00",
+                            "PPSA09020_00",
+                            "PPSA09016_00",
+                            "PPSA09019_00",
+                            "CUSA03450_00",
+                            "CUSA12057_00",
+                            "CUSA02961_00",
+                            "CUSA03613_00",
+                            "CUSA12054_00",
+                            "CUSA13183_00"
+                        ]
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "512501896896970762"
+                            },
+                            {
+                                "id": "359509759642042378"
+                            }
+                        ]
+                    },
+                    "PLAY_ON_XBOX": {
+                        "type": "PLAY_ON_XBOX",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "512501896896970762"
+                            }
+                        ],
+                        "external_ids": [
+                            "1256782258",
+                            "332913499"
+                        ]
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "type": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "512501896896970762"
+                            }
+                        ],
+                        "external_ids": [
+                            "CUSA02962_00",
+                            "CUSA12304_00",
+                            "CUSA02557_00",
+                            "CUSA03448_00",
+                            "PPSA09017_00",
+                            "CUSA12265_00",
+                            "CUSA03701_00",
+                            "PPSA09020_00",
+                            "PPSA09016_00",
+                            "PPSA09019_00",
+                            "CUSA03450_00",
+                            "CUSA12057_00",
+                            "CUSA02961_00",
+                            "CUSA03613_00",
+                            "CUSA12054_00",
+                            "CUSA13183_00"
+                        ]
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 Orbs",
+                            "name_with_article": "700 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 700
+                    }
+                ],
+                "rewards_expire_at": "2026-01-28T00:00:40+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://fallout.bethesda.net/en/games?utm_source=10047385&utm_medium=435627056&utm_campaign=34737572&utm_creative=246911328",
+                "button_label": "Learn More"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
+    },
+    {
+        "id": "1450624343213084803",
+        "config": {
+            "id": "1450624343213084803",
+            "config_version": 2,
+            "starts_at": "2025-12-18T18:00:14+00:00",
+            "expires_at": "2025-12-29T00:00:14+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://teamfighttactics.leagueoflegends.com",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1450624343213084803/1450917195138859038.jpg",
+                "hero_video": null,
+                "quest_bar_hero": "quests/1450624343213084803/1450917240114254037.jpg",
+                "quest_bar_hero_video": null,
+                "game_tile": "1450626602542043256.png",
+                "logotype": "1450917338898632854.png",
+                "game_tile_light": "quests/1450624343213084803/1450626531171766404.png",
+                "game_tile_dark": "quests/1450624343213084803/1450626531171766404.png",
+                "logotype_light": "quests/1450624343213084803/1450917283877748747.png",
+                "logotype_dark": "quests/1450624343213084803/1450917309987291350.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Teamfight Tactics",
+                "game_title": "Teamfight Tactics: Lore & Legends",
+                "game_publisher": "Riot Games"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "event_name": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 44,
+                        "external_ids": []
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 44,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1450624343213084803/1450626730334228602_1080.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1450624343213084803/1450629459601264741.png"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1450624343213084803/1450626730334228602_720.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1450624343213084803/1450629459601264741.png"
+                            },
+                            "video_hls": {
+                                "url": "quests/1450624343213084803/1450626730334228602.m3u8",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1450624343213084803/1450629459601264741.png"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "Lore & Legends Set Cinematic"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 Orbs",
+                            "name_with_article": "700 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 700
+                    }
+                ],
+                "rewards_expire_at": "2026-01-28T00:00:14+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "video_metadata": {
+                "messages": {
+                    "video_title": "Lore & Legends Set Cinematic",
+                    "video_end_cta_subtitle": "Play Now",
+                    "video_end_cta_button_label": "Play Now"
+                },
+                "assets": {
+                    "video_player_video_hls": "quests/1450624343213084803/1450626730334228602.m3u8",
+                    "video_player_video": "quests/1450624343213084803/1450626730334228602_1080.mp4",
+                    "video_player_thumbnail": "quests/1450624343213084803/1450629459601264741.png",
+                    "video_player_video_low_res": "quests/1450624343213084803/1450626730334228602_720.mp4",
+                    "video_player_caption": null,
+                    "video_player_transcript": null,
+                    "quest_bar_preview_video": null,
+                    "quest_bar_preview_thumbnail": null,
+                    "quest_home_video": null
+                }
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "android": {
+                    "android_app_id": "com.riotgames.league.teamfighttactics"
+                },
+                "ios": {
+                    "ios_app_id": "1480616748"
+                },
+                "link": "https://teamfighttactics.leagueoflegends.com",
+                "button_label": "Play Now",
+                "subtitle": "Play Now"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
+    },
+    {
+        "id": "1450233741828948154",
+        "config": {
+            "id": "1450233741828948154",
+            "config_version": 2,
+            "starts_at": "2025-12-18T18:00:08+00:00",
+            "expires_at": "2025-12-25T00:00:08+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://voidinteractive.net/ready-or-not-console/?utm_source=discord&utm_medium=paidmedialqa&utm_campaign=ron-holidaysale-us&utm_term=shooterfans&utm_content=holidaytrailer-1920x1080-full",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1450233741828948154/1450235193964232786.jpg",
+                "hero_video": "quests/1450233741828948154/1450235130080661738.mp4",
+                "quest_bar_hero": "quests/1450233741828948154/1450235012157800670.jpg",
+                "quest_bar_hero_video": "quests/1450233741828948154/1450235130080661738.mp4",
+                "game_tile": "1450235362978041917.png",
+                "logotype": "1450305390612054098.png",
+                "game_tile_light": "quests/1450233741828948154/1450235326348918984.png",
+                "game_tile_dark": "quests/1450233741828948154/1450235326348918984.png",
+                "logotype_light": "quests/1450233741828948154/1450305355656462336.png",
+                "logotype_dark": "quests/1450233741828948154/1450305355656462336.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Ready or Not",
+                "game_title": "Ready or Not",
+                "game_publisher": "VOID Interactive"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "event_name": "WATCH_VIDEO",
+                        "target": 29,
+                        "external_ids": []
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 29,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1450233741828948154/1450235514639880353_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1450233741828948154/1450236482529923143.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1450233741828948154/1450235514639880353_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1450233741828948154/1450236482529923143.jpg"
+                            },
+                            "video_hls": {
+                                "url": "quests/1450233741828948154/1450235514639880353.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1450233741828948154/1450236482529923143.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "Ready or Not Trailer"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 Orbs",
+                            "name_with_article": "700 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 700
+                    }
+                ],
+                "rewards_expire_at": "2026-01-24T00:00:08+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "video_metadata": {
+                "messages": {
+                    "video_title": "Ready or Not Trailer",
+                    "video_end_cta_subtitle": "Available on Steam, PS5 and Xbox Series X|S.",
+                    "video_end_cta_button_label": "Buy Now"
+                },
+                "assets": {
+                    "video_player_video_hls": "quests/1450233741828948154/1450235514639880353.m3u8",
+                    "video_player_video": "quests/1450233741828948154/1450235514639880353_1080.mp4",
+                    "video_player_thumbnail": "quests/1450233741828948154/1450236482529923143.jpg",
+                    "video_player_video_low_res": "quests/1450233741828948154/1450235514639880353_720.mp4",
+                    "video_player_caption": null,
+                    "video_player_transcript": null,
+                    "quest_bar_preview_video": null,
+                    "quest_bar_preview_thumbnail": null,
+                    "quest_home_video": null
+                }
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://voidinteractive.net/ready-or-not-console/?utm_source=discord&utm_medium=paidmedialqa&utm_campaign=ron-holidaysale-us&utm_term=shooterfans&utm_content=holidaytrailer-1920x1080-full",
+                "button_label": "Buy Now",
+                "subtitle": "Available on Steam, PS5 and Xbox Series X|S."
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
+    },
+    {
+        "id": "1450916943724023969",
+        "config": {
+            "id": "1450916943724023969",
+            "config_version": 2,
+            "starts_at": "2025-12-18T18:00:08+00:00",
+            "expires_at": "2025-12-25T00:00:08+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://voidinteractive.net/ready-or-not-console/?utm_source=discord&utm_medium=paidmedialqa&utm_campaign=ron-holidaysale-us&utm_term=shooterfans&utm_content=holidaytrailer-1920x1080-full",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "1450235193964232786.jpg",
+                "hero_video": "1450235130080661738.mp4",
+                "quest_bar_hero": "1450235012157800670.jpg",
+                "quest_bar_hero_video": "1450235130080661738.mp4",
+                "game_tile": "1450235362978041917.png",
+                "logotype": "1450305390612054098.png",
+                "game_tile_light": "1450235326348918984.png",
+                "game_tile_dark": "1450235326348918984.png",
+                "logotype_light": "1450305355656462336.png",
+                "logotype_dark": "1450305355656462336.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Ready or Not",
+                "game_title": "Ready or Not",
+                "game_publisher": "VOID Interactive"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "event_name": "WATCH_VIDEO",
+                        "target": 29,
+                        "external_ids": []
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 29,
+                        "assets": {
+                            "video": {
+                                "url": "1450235514639880353_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "1450236482529923143.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "1450235514639880353_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "1450236482529923143.jpg"
+                            },
+                            "video_hls": {
+                                "url": "1450235514639880353.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "1450236482529923143.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "Ready or Not Trailer"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "200 Orbs",
+                            "name_with_article": "200 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 200
+                    }
+                ],
+                "rewards_expire_at": "2026-01-24T00:00:08+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "video_metadata": {
+                "messages": {
+                    "video_title": "Ready or Not Trailer",
+                    "video_end_cta_subtitle": "Available on Steam, PS5 and Xbox Series X|S.",
+                    "video_end_cta_button_label": "Buy Now"
+                },
+                "assets": {
+                    "video_player_video_hls": "1450235514639880353.m3u8",
+                    "video_player_video": "1450235514639880353_1080.mp4",
+                    "video_player_thumbnail": "1450236482529923143.jpg",
+                    "video_player_video_low_res": "1450235514639880353_720.mp4",
+                    "video_player_caption": null,
+                    "video_player_transcript": null,
+                    "quest_bar_preview_video": null,
+                    "quest_bar_preview_thumbnail": null,
+                    "quest_home_video": null
+                }
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://voidinteractive.net/ready-or-not-console/?utm_source=discord&utm_medium=paidmedialqa&utm_campaign=ron-holidaysale-us&utm_term=shooterfans&utm_content=holidaytrailer-1920x1080-full",
+                "button_label": "Buy Now",
+                "subtitle": "Available on Steam, PS5 and Xbox Series X|S."
+            }
+        }
+    },
+    {
+        "id": "1450914567172653117",
+        "config": {
+            "id": "1450914567172653117",
+            "config_version": 2,
+            "starts_at": "2025-12-18T18:00:08+00:00",
+            "expires_at": "2025-12-25T00:00:08+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://voidinteractive.net/ready-or-not-console/?utm_source=discord&utm_medium=paidmedialqa&utm_campaign=ron-holidaysale-us&utm_term=shooterfans&utm_content=holidaytrailer-1920x1080-full",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "1450235193964232786.jpg",
+                "hero_video": "1450235130080661738.mp4",
+                "quest_bar_hero": "1450235012157800670.jpg",
+                "quest_bar_hero_video": "1450235130080661738.mp4",
+                "game_tile": "1450235362978041917.png",
+                "logotype": "1450305390612054098.png",
+                "game_tile_light": "1450235326348918984.png",
+                "game_tile_dark": "1450235326348918984.png",
+                "logotype_light": "1450305355656462336.png",
+                "logotype_dark": "1450305355656462336.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Ready or Not",
+                "game_title": "Ready or Not",
+                "game_publisher": "VOID Interactive"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "event_name": "WATCH_VIDEO",
+                        "target": 29,
+                        "external_ids": []
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 29,
+                        "assets": {
+                            "video": {
+                                "url": "1450235514639880353_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "1450236482529923143.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "1450235514639880353_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "1450236482529923143.jpg"
+                            },
+                            "video_hls": {
+                                "url": "1450235514639880353.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "1450236482529923143.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "Ready or Not Trailer"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "350 Orbs",
+                            "name_with_article": "350 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 350
+                    }
+                ],
+                "rewards_expire_at": "2026-01-24T00:00:08+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "video_metadata": {
+                "messages": {
+                    "video_title": "Ready or Not Trailer",
+                    "video_end_cta_subtitle": "Available on Steam, PS5 and Xbox Series X|S.",
+                    "video_end_cta_button_label": "Buy Now"
+                },
+                "assets": {
+                    "video_player_video_hls": "1450235514639880353.m3u8",
+                    "video_player_video": "1450235514639880353_1080.mp4",
+                    "video_player_thumbnail": "1450236482529923143.jpg",
+                    "video_player_video_low_res": "1450235514639880353_720.mp4",
+                    "video_player_caption": null,
+                    "video_player_transcript": null,
+                    "quest_bar_preview_video": null,
+                    "quest_bar_preview_thumbnail": null,
+                    "quest_home_video": null
+                }
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://voidinteractive.net/ready-or-not-console/?utm_source=discord&utm_medium=paidmedialqa&utm_campaign=ron-holidaysale-us&utm_term=shooterfans&utm_content=holidaytrailer-1920x1080-full",
+                "button_label": "Buy Now",
+                "subtitle": "Available on Steam, PS5 and Xbox Series X|S."
+            }
+        }
     }
 ]
