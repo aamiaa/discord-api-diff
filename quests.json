@@ -36777,7 +36777,7 @@
             "id": "1448059005615476909",
             "config_version": 2,
             "starts_at": "2025-12-12T00:45:30+00:00",
-            "expires_at": "2026-01-01T07:59:30+00:00",
+            "expires_at": "2025-12-19T00:00:30+00:00",
             "features": [
                 15
             ],
@@ -36866,7 +36866,7 @@
                         "orb_quantity": 700
                     }
                 ],
-                "rewards_expire_at": "2026-01-31T07:59:30+00:00",
+                "rewards_expire_at": "2026-01-18T00:00:30+00:00",
                 "platforms": [
                     0
                 ]
@@ -37002,7 +37002,7 @@
             "id": "1448074094426718403",
             "config_version": 2,
             "starts_at": "2025-12-12T00:45:30+00:00",
-            "expires_at": "2026-01-01T07:59:30+00:00",
+            "expires_at": "2025-12-19T00:00:30+00:00",
             "features": [
                 15
             ],
@@ -37091,7 +37091,7 @@
                         "orb_quantity": 700
                     }
                 ],
-                "rewards_expire_at": "2026-01-31T07:59:30+00:00",
+                "rewards_expire_at": "2026-01-18T00:00:30+00:00",
                 "platforms": [
                     0
                 ]
@@ -37132,7 +37132,7 @@
             "id": "1448075031556133026",
             "config_version": 2,
             "starts_at": "2025-12-12T00:45:30+00:00",
-            "expires_at": "2026-01-01T07:59:30+00:00",
+            "expires_at": "2025-12-19T00:00:30+00:00",
             "features": [
                 15
             ],
@@ -37221,7 +37221,7 @@
                         "orb_quantity": 700
                     }
                 ],
-                "rewards_expire_at": "2026-01-31T07:59:30+00:00",
+                "rewards_expire_at": "2026-01-18T00:00:30+00:00",
                 "platforms": [
                     0
                 ]
@@ -37897,11 +37897,6 @@
                         "event_name": "WATCH_VIDEO",
                         "target": 91,
                         "external_ids": []
-                    },
-                    "WATCH_VIDEO_ON_MOBILE": {
-                        "event_name": "WATCH_VIDEO_ON_MOBILE",
-                        "target": 91,
-                        "external_ids": []
                     }
                 }
             },
@@ -37909,36 +37904,6 @@
                 "tasks": {
                     "WATCH_VIDEO": {
                         "type": "WATCH_VIDEO",
-                        "target": 91,
-                        "assets": {
-                            "video": {
-                                "url": "quests/1445883772816986212/1445890933592817745_1080.mp4",
-                                "width": 1920,
-                                "height": 1080,
-                                "thumbnail": "quests/1445883772816986212/1445892509208412282.png",
-                                "caption": "quests/1445883772816986212/1445892567635066952.vtt"
-                            },
-                            "video_low_res": {
-                                "url": "quests/1445883772816986212/1445890933592817745_720.mp4",
-                                "width": 1920,
-                                "height": 1080,
-                                "thumbnail": "quests/1445883772816986212/1445892509208412282.png",
-                                "caption": "quests/1445883772816986212/1445892567635066952.vtt"
-                            },
-                            "video_hls": {
-                                "url": "quests/1445883772816986212/1445890933592817745.m3u8",
-                                "width": 1920,
-                                "height": 1080,
-                                "thumbnail": "quests/1445883772816986212/1445892509208412282.png",
-                                "caption": "quests/1445883772816986212/1445892567635066952.vtt"
-                            }
-                        },
-                        "messages": {
-                            "video_title": "What is Warframe? trailer"
-                        }
-                    },
-                    "WATCH_VIDEO_ON_MOBILE": {
-                        "type": "WATCH_VIDEO_ON_MOBILE",
                         "target": 91,
                         "assets": {
                             "video": {
