@@ -41424,5 +41424,527 @@
                 "subtitle": "Available on Steam, PS5 and Xbox Series X|S."
             }
         }
+    },
+    {
+        "id": "1450290494172172303",
+        "config": {
+            "id": "1450290494172172303",
+            "config_version": 2,
+            "starts_at": "2025-12-19T18:00:38+00:00",
+            "expires_at": "2025-12-27T00:00:38+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://www.playdeltaforce.com/wand/discordahsarah/index.html",
+                "id": "1314682894106497096",
+                "name": "Delta Force"
+            },
+            "assets": {
+                "hero": "quests/1450290494172172303/1451250607980679391.jpg",
+                "hero_video": "quests/1450290494172172303/1450293140366950610.mp4",
+                "quest_bar_hero": "quests/1450290494172172303/1451250563323793441.jpg",
+                "quest_bar_hero_video": "quests/1450290494172172303/1450292903766261913.mp4",
+                "game_tile": "1450293285997248642.png",
+                "logotype": "1450293285032820736.png",
+                "game_tile_light": "quests/1450290494172172303/1450292771939291187.png",
+                "game_tile_dark": "quests/1450290494172172303/1450292771939291187.png",
+                "logotype_light": "quests/1450290494172172303/1450292821092339752.png",
+                "logotype_dark": "quests/1450290494172172303/1450292821092339752.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Arcade Rush",
+                "game_title": "Delta Force",
+                "game_publisher": "Team Jade"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "event_name": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "external_ids": []
+                    },
+                    "PLAY_ON_XBOX": {
+                        "event_name": "PLAY_ON_XBOX",
+                        "target": 900,
+                        "external_ids": [
+                            "1854680102"
+                        ]
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "event_name": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "external_ids": [
+                            "PPSA28881_00",
+                            "PPSA28884_00",
+                            "PPSA28882_00",
+                            "PPSA28883_00"
+                        ]
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1314682894106497096"
+                            }
+                        ]
+                    },
+                    "PLAY_ON_XBOX": {
+                        "type": "PLAY_ON_XBOX",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1314682894106497096"
+                            }
+                        ],
+                        "external_ids": [
+                            "1854680102"
+                        ]
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "type": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1314682894106497096"
+                            }
+                        ],
+                        "external_ids": [
+                            "PPSA28881_00",
+                            "PPSA28884_00",
+                            "PPSA28882_00",
+                            "PPSA28883_00"
+                        ]
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 Orbs",
+                            "name_with_article": "700 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 700
+                    }
+                ],
+                "rewards_expire_at": "2026-01-26T00:00:38+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://www.playdeltaforce.com/wand/discordahsarah/index.html",
+                "button_label": "Get Game"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
+    },
+    {
+        "id": "1450612818406539447",
+        "config": {
+            "id": "1450612818406539447",
+            "config_version": 2,
+            "starts_at": "2025-12-19T18:00:26+00:00",
+            "expires_at": "2025-12-26T00:00:26+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://totalbattle.onelink.me/ltvh/hfr103l0",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1450612818406539447/1450613520021327882.jpg",
+                "hero_video": "quests/1450612818406539447/1450613598526242976.mp4",
+                "quest_bar_hero": "quests/1450612818406539447/1450613520021327882.jpg",
+                "quest_bar_hero_video": "quests/1450612818406539447/1450613598526242976.mp4",
+                "game_tile": "1450613836418650142.png",
+                "logotype": "1450613835408085013.png",
+                "game_tile_light": "quests/1450612818406539447/1450613803090706563.png",
+                "game_tile_dark": "quests/1450612818406539447/1450613803090706563.png",
+                "logotype_light": "quests/1450612818406539447/1450613713726869706.png",
+                "logotype_dark": "quests/1450612818406539447/1450613713726869706.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Total Battle",
+                "game_title": "Total Battle",
+                "game_publisher": "Scorewarrior"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "event_name": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 98,
+                        "external_ids": []
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 98,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1450612818406539447/1450906166065500240_1080.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1450612818406539447/1450615798933487779.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1450612818406539447/1450906166065500240_720.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1450612818406539447/1450615798933487779.jpg"
+                            },
+                            "video_hls": {
+                                "url": "quests/1450612818406539447/1450906166065500240.m3u8",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1450612818406539447/1450615798933487779.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "Total Battle"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 Orbs",
+                            "name_with_article": "700 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 700
+                    }
+                ],
+                "rewards_expire_at": "2026-01-25T00:00:26+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "video_metadata": {
+                "messages": {
+                    "video_title": "Total Battle",
+                    "video_end_cta_button_label": "Play Now"
+                },
+                "assets": {
+                    "video_player_video_hls": "quests/1450612818406539447/1450906166065500240.m3u8",
+                    "video_player_video": "quests/1450612818406539447/1450906166065500240_1080.mp4",
+                    "video_player_thumbnail": "quests/1450612818406539447/1450615798933487779.jpg",
+                    "video_player_video_low_res": "quests/1450612818406539447/1450906166065500240_720.mp4",
+                    "video_player_caption": null,
+                    "video_player_transcript": null,
+                    "quest_bar_preview_video": null,
+                    "quest_bar_preview_thumbnail": null,
+                    "quest_home_video": null
+                }
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "android": {
+                    "android_app_id": "com.totalbattle"
+                },
+                "ios": {
+                    "ios_app_id": "1274132545"
+                },
+                "link": "https://totalbattle.onelink.me/ltvh/hfr103l0",
+                "button_label": "Play Now"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
+    },
+    {
+        "id": "1450554943139217508",
+        "config": {
+            "id": "1450554943139217508",
+            "config_version": 2,
+            "starts_at": "2025-12-19T18:00:28+00:00",
+            "expires_at": "2025-12-27T00:00:28+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://www.marvelrivals.com/",
+                "id": "1314395942253756416",
+                "name": "Marvel Rivals"
+            },
+            "assets": {
+                "hero": "quests/1450554943139217508/1451612513790591109.jpg",
+                "hero_video": null,
+                "quest_bar_hero": "quests/1450554943139217508/1451612461710053536.jpg",
+                "quest_bar_hero_video": null,
+                "game_tile": "1450556277079019701.png",
+                "logotype": "1450556275929649183.png",
+                "game_tile_light": "quests/1450554943139217508/1450556249673564341.png",
+                "game_tile_dark": "quests/1450554943139217508/1450556249673564341.png",
+                "logotype_light": "quests/1450554943139217508/1450556140743036928.png",
+                "logotype_dark": "quests/1450554943139217508/1450556199073480734.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Marvel Rivals S5.5",
+                "game_title": "Marvel Rivals",
+                "game_publisher": "NetEase Games"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "event_name": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "external_ids": []
+                    },
+                    "PLAY_ON_XBOX": {
+                        "event_name": "PLAY_ON_XBOX",
+                        "target": 900,
+                        "external_ids": [
+                            "1758492876",
+                            "1794906646"
+                        ]
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "event_name": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "external_ids": [
+                            "PPSA21668_00",
+                            "CUSA55048_00",
+                            "PPSA21669_00"
+                        ]
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1314395942253756416"
+                            }
+                        ]
+                    },
+                    "PLAY_ON_XBOX": {
+                        "type": "PLAY_ON_XBOX",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1314395942253756416"
+                            }
+                        ],
+                        "external_ids": [
+                            "1758492876",
+                            "1794906646"
+                        ]
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "type": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1314395942253756416"
+                            }
+                        ],
+                        "external_ids": [
+                            "PPSA21668_00",
+                            "CUSA55048_00",
+                            "PPSA21669_00"
+                        ]
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 3,
+                        "sku_id": "1450577109667025088",
+                        "asset": "quests/1450554943139217508/1450591937538166936.mp4",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "Jeff Avatar Decoration",
+                            "name_with_article": "a Jeff Avatar Decoration",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "expires_at": "2026-02-20T00:00:00+00:00",
+                        "expires_at_premium": null,
+                        "expiration_mode": 3
+                    }
+                ],
+                "rewards_expire_at": "2026-01-26T00:00:28+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://www.marvelrivals.com/",
+                "button_label": "Get Game"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
+    },
+    {
+        "id": "1450572280764563556",
+        "config": {
+            "id": "1450572280764563556",
+            "config_version": 2,
+            "starts_at": "2025-12-19T18:30:22+00:00",
+            "expires_at": "2026-01-01T00:00:22+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://store.steampowered.com/app/3564740/480?utm_source=DiscordOrbs",
+                "id": "1437509662303059998",
+                "name": "Where Winds Meet"
+            },
+            "assets": {
+                "hero": "quests/1450572280764563556/1451316446893441185.jpg",
+                "hero_video": "quests/1450572280764563556/1451316636824109147.mp4",
+                "quest_bar_hero": "quests/1450572280764563556/1451316109532987503.jpg",
+                "quest_bar_hero_video": "quests/1450572280764563556/1451316359156731996.mp4",
+                "game_tile": "1451316907788472452.png",
+                "logotype": "1451316905615823029.png",
+                "game_tile_light": "quests/1450572280764563556/1451316678335004683.png",
+                "game_tile_dark": "quests/1450572280764563556/1451316678335004683.png",
+                "logotype_light": "quests/1450572280764563556/1451316710345801788.png",
+                "logotype_dark": "quests/1450572280764563556/1451316710345801788.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Where Winds Meet Adventure",
+                "game_title": "Where Winds Meet",
+                "game_publisher": "NETEASE"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "event_name": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "external_ids": []
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "event_name": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "external_ids": [
+                            "PPSA29394_00",
+                            "PPSA23355_00"
+                        ]
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1437509662303059998"
+                            }
+                        ]
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "type": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1437509662303059998"
+                            }
+                        ],
+                        "external_ids": [
+                            "PPSA29394_00",
+                            "PPSA23355_00"
+                        ]
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 Orbs",
+                            "name_with_article": "700 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 700
+                    }
+                ],
+                "rewards_expire_at": "2026-01-31T00:00:22+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://store.steampowered.com/app/3564740/480?utm_source=DiscordOrbs",
+                "button_label": "Get Game"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
     }
 ]
