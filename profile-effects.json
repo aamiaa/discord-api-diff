@@ -12196,5 +12196,134 @@
                 "randomizedSources": []
             }
         ]
+    },
+    {
+        "type": 1,
+        "id": "1447609133078413484",
+        "sku_id": "1447609133061640345",
+        "title": "Woodsprites",
+        "description": "Show this effect when others view your profile.",
+        "accessibilityLabel": "Glowing blue-white jellyfish-like creatures floating gracefully with translucent, bioluminescent bodies.",
+        "animationType": 2,
+        "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/content/5e913e4a176e06cdf795b0148398d921b8c20b21a788fc55be9bb9b80c906b97",
+        "reducedMotionSrc": "https://cdn.discordapp.com/assets/content/5781c545ad9c714c3565ecacf5bdfa54f386948a595fd9f20e047bfbd0448557",
+        "effects": [
+            {
+                "src": "https://cdn.discordapp.com/assets/content/2458bac6624a754f714f9d309a3e2d25c4a0d37845c0ea788d0ddcde89e71d2a",
+                "loop": false,
+                "height": 880,
+                "width": 450,
+                "duration": 5000,
+                "start": 0,
+                "loopDelay": 0,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "zIndex": 100,
+                "randomizedSources": []
+            },
+            {
+                "src": "https://cdn.discordapp.com/assets/content/5944de53bd70e33944b2cee332e4f058a44ce61afe9a513cb311f58b99ef2692",
+                "loop": true,
+                "height": 880,
+                "width": 450,
+                "duration": 5000,
+                "start": 7000,
+                "loopDelay": 2500,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "zIndex": 101,
+                "randomizedSources": []
+            }
+        ]
+    },
+    {
+        "type": 1,
+        "id": "1447609133103710258",
+        "sku_id": "1447609133086806160",
+        "title": "Hallelujah Mountains",
+        "description": "Show this effect when others view your profile.",
+        "accessibilityLabel": "Floating moss-covered rocks with waterfalls and lush green vegetation drift in misty blue atmosphere.",
+        "animationType": 2,
+        "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/content/e7c6e6cce4d76ceee0f109a0a421a467b34bc7fdc57016977177cb2e5b76bbb2",
+        "reducedMotionSrc": "https://cdn.discordapp.com/assets/content/3667df7bf6e80d6ce1f782b7110a90094e20c4eb4e241b9953d33e4a8de237eb",
+        "effects": [
+            {
+                "src": "https://cdn.discordapp.com/assets/content/df221a1db482fc906ba77cc6f8b0cbba949f60cb1a14c064a38326152d811afc",
+                "loop": false,
+                "height": 880,
+                "width": 450,
+                "duration": 3750,
+                "start": 0,
+                "loopDelay": 0,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "zIndex": 100,
+                "randomizedSources": []
+            },
+            {
+                "src": "https://cdn.discordapp.com/assets/content/e1b8a19f2eb61f8e5331a05d8960f11805df76ec363bdc752c1a0c4764d48f63",
+                "loop": true,
+                "height": 880,
+                "width": 450,
+                "duration": 5000,
+                "start": 4500,
+                "loopDelay": 4000,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "zIndex": 101,
+                "randomizedSources": []
+            }
+        ]
+    },
+    {
+        "type": 1,
+        "id": "1447609133128876184",
+        "sku_id": "1447609133111971963",
+        "title": "Nightwraith",
+        "description": "Show this effect when others view your profile.",
+        "accessibilityLabel": "Warm orange-to-pink radiant glow surrounds the profile as a winged beast flies above rocky formations.",
+        "animationType": 2,
+        "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/content/0aef52b311a460f6541e8a373ba08680a925ae1da3470fcf26986814716a6acb",
+        "reducedMotionSrc": "https://cdn.discordapp.com/assets/content/cf7d853d33525b22029cd2cedc111e15991dfb5082827334a77105e28ca74a9c",
+        "effects": [
+            {
+                "src": "https://cdn.discordapp.com/assets/content/4ade9caa615b3342f557a13f786eef3c4a5eb9f9c236a2b3ed92fbea080d902a",
+                "loop": false,
+                "height": 880,
+                "width": 450,
+                "duration": 5000,
+                "start": 0,
+                "loopDelay": 0,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "zIndex": 100,
+                "randomizedSources": []
+            },
+            {
+                "src": "https://cdn.discordapp.com/assets/content/91f1cb0eacbaa5337bfa811e0c43998fc820c95e963164a992a71b0837552677",
+                "loop": true,
+                "height": 880,
+                "width": 450,
+                "duration": 5000,
+                "start": 7000,
+                "loopDelay": 3500,
+                "position": {
+                    "x": 0,
+                    "y": 0
+                },
+                "zIndex": 101,
+                "randomizedSources": []
+            }
+        ]
     }
 ]
