@@ -41147,7 +41147,7 @@
             "video_metadata": {
                 "messages": {
                     "video_title": "Ready or Not Trailer",
-                    "video_end_cta_subtitle": "Available on Steam, PS5 and Xbox Series X|S.",
+                    "video_end_cta_subtitle": "On Sale on Steam, PS5 and Xbox Series X|S.",
                     "video_end_cta_button_label": "Buy Now"
                 },
                 "assets": {
@@ -41166,7 +41166,7 @@
             "cta_config": {
                 "link": "https://voidinteractive.net/ready-or-not-console/?utm_source=discord&utm_medium=paidmedialqa&utm_campaign=ron-holidaysale-us&utm_term=shooterfans&utm_content=holidaytrailer-1920x1080-full",
                 "button_label": "Buy Now",
-                "subtitle": "Available on Steam, PS5 and Xbox Series X|S."
+                "subtitle": "On Sale on Steam, PS5 and Xbox Series X|S."
             }
         },
         "user_status": null,
@@ -41276,7 +41276,7 @@
             "video_metadata": {
                 "messages": {
                     "video_title": "Ready or Not Trailer",
-                    "video_end_cta_subtitle": "Available on Steam, PS5 and Xbox Series X|S.",
+                    "video_end_cta_subtitle": "On Sale on Steam, PS5 and Xbox Series X|S.",
                     "video_end_cta_button_label": "Buy Now"
                 },
                 "assets": {
@@ -41295,7 +41295,7 @@
             "cta_config": {
                 "link": "https://voidinteractive.net/ready-or-not-console/?utm_source=discord&utm_medium=paidmedialqa&utm_campaign=ron-holidaysale-us&utm_term=shooterfans&utm_content=holidaytrailer-1920x1080-full",
                 "button_label": "Buy Now",
-                "subtitle": "Available on Steam, PS5 and Xbox Series X|S."
+                "subtitle": "On Sale on Steam, PS5 and Xbox Series X|S."
             }
         }
     },
@@ -41402,7 +41402,7 @@
             "video_metadata": {
                 "messages": {
                     "video_title": "Ready or Not Trailer",
-                    "video_end_cta_subtitle": "Available on Steam, PS5 and Xbox Series X|S.",
+                    "video_end_cta_subtitle": "On Sale on Steam, PS5 and Xbox Series X|S.",
                     "video_end_cta_button_label": "Buy Now"
                 },
                 "assets": {
@@ -41421,7 +41421,7 @@
             "cta_config": {
                 "link": "https://voidinteractive.net/ready-or-not-console/?utm_source=discord&utm_medium=paidmedialqa&utm_campaign=ron-holidaysale-us&utm_term=shooterfans&utm_content=holidaytrailer-1920x1080-full",
                 "button_label": "Buy Now",
-                "subtitle": "Available on Steam, PS5 and Xbox Series X|S."
+                "subtitle": "On Sale on Steam, PS5 and Xbox Series X|S."
             }
         }
     },
@@ -41941,6 +41941,135 @@
             "cta_config": {
                 "link": "https://store.steampowered.com/app/3564740/480?utm_source=DiscordOrbs",
                 "button_label": "Get Game"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
+    },
+    {
+        "id": "1451294964746031257",
+        "config": {
+            "id": "1451294964746031257",
+            "config_version": 2,
+            "starts_at": "2025-12-22T18:00:03+00:00",
+            "expires_at": "2025-12-29T00:00:03+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": " https://www.uber.com/us/en/on-our-way/",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1451294964746031257/1451296483587391673.jpg",
+                "hero_video": "quests/1451294964746031257/1451296341136248832.mp4",
+                "quest_bar_hero": "quests/1451294964746031257/1451296819677106227.jpg",
+                "quest_bar_hero_video": "quests/1451294964746031257/1451296341136248832.mp4",
+                "game_tile": "1451296874542796982.png",
+                "logotype": "1451296873527771198.png",
+                "game_tile_light": "quests/1451294964746031257/1451296538834899015.png",
+                "game_tile_dark": "quests/1451294964746031257/1451296538834899015.png",
+                "logotype_light": "quests/1451294964746031257/1451296617264185354.png",
+                "logotype_dark": "quests/1451294964746031257/1451296648557760522.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Uber. On Our Way",
+                "game_title": "Uber",
+                "game_publisher": "Uber"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "event_name": "WATCH_VIDEO",
+                        "target": 59,
+                        "external_ids": []
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 59,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1451294964746031257/1451296987017248970_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1451294964746031257/1451297021033054346.png"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1451294964746031257/1451296987017248970_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1451294964746031257/1451297021033054346.png"
+                            },
+                            "video_hls": {
+                                "url": "quests/1451294964746031257/1451296987017248970.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1451294964746031257/1451297021033054346.png"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "Uber. On Our Way Quest"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 Orbs",
+                            "name_with_article": "700 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 700
+                    }
+                ],
+                "rewards_expire_at": "2026-01-28T00:00:03+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "video_metadata": {
+                "messages": {
+                    "video_title": "Uber. On Our Way Quest",
+                    "video_end_cta_subtitle": "Uber. On Our Way.",
+                    "video_end_cta_button_label": "Learn More"
+                },
+                "assets": {
+                    "video_player_video_hls": "quests/1451294964746031257/1451296987017248970.m3u8",
+                    "video_player_video": "quests/1451294964746031257/1451296987017248970_1080.mp4",
+                    "video_player_thumbnail": "quests/1451294964746031257/1451297021033054346.png",
+                    "video_player_video_low_res": "quests/1451294964746031257/1451296987017248970_720.mp4",
+                    "video_player_caption": null,
+                    "video_player_transcript": null,
+                    "quest_bar_preview_video": null,
+                    "quest_bar_preview_thumbnail": null,
+                    "quest_home_video": null
+                }
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": " https://www.uber.com/us/en/on-our-way/",
+                "button_label": "Learn More",
+                "subtitle": "Uber. On Our Way."
             }
         },
         "user_status": null,
