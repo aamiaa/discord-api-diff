@@ -42230,5 +42230,277 @@
         "user_status": null,
         "targeted_content": [],
         "preview": false
+    },
+    {
+        "id": "1450987508581273601",
+        "config": {
+            "id": "1450987508581273601",
+            "config_version": 2,
+            "starts_at": "2025-12-24T18:00:20+00:00",
+            "expires_at": "2026-01-01T00:00:20+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://www.netflix.com/title/81915745",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1450987508581273601/1450988099231420653.jpg",
+                "hero_video": "quests/1450987508581273601/1450988821784301639.mp4",
+                "quest_bar_hero": "quests/1450987508581273601/1450989256364392488.jpg",
+                "quest_bar_hero_video": "quests/1450987508581273601/1450988821784301639.mp4",
+                "game_tile": "1450989444378136649.png",
+                "logotype": "1451018023451492594.png",
+                "game_tile_light": "quests/1450987508581273601/1450989406058971296.png",
+                "game_tile_dark": "quests/1450987508581273601/1450989406058971296.png",
+                "logotype_light": "quests/1450987508581273601/1451017996599562261.png",
+                "logotype_dark": "quests/1450987508581273601/1451017996599562261.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Damon. Affleck. The Rip",
+                "game_title": "Matt Damon. Ben Affleck. Jan 16 only on Netflix.",
+                "game_publisher": "Netflix"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "event_name": "WATCH_VIDEO",
+                        "target": 29,
+                        "external_ids": []
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "event_name": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 29,
+                        "external_ids": []
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 29,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1450987508581273601/1450989611324018830_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1450987508581273601/1450990022042980504.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1450987508581273601/1450989611324018830_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1450987508581273601/1450990022042980504.jpg"
+                            },
+                            "video_hls": {
+                                "url": "quests/1450987508581273601/1450989611324018830.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1450987508581273601/1450990022042980504.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "The Rip Trailer"
+                        }
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 29,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1450987508581273601/1451320605839331348_1080.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1450987508581273601/1450990022042980504.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1450987508581273601/1451320605839331348_720.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1450987508581273601/1450990022042980504.jpg"
+                            },
+                            "video_hls": {
+                                "url": "quests/1450987508581273601/1451320605839331348.m3u8",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1450987508581273601/1450990022042980504.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "The Rip Trailer"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 Orbs",
+                            "name_with_article": "700 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 700
+                    }
+                ],
+                "rewards_expire_at": "2026-01-31T00:00:20+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "video_metadata": {
+                "messages": {
+                    "video_title": "The Rip Trailer",
+                    "video_end_cta_subtitle": "Matt Damon. Ben Affleck. Jan 16 only on Netflix.",
+                    "video_end_cta_button_label": "Learn More"
+                },
+                "assets": {
+                    "video_player_video_hls": "quests/1450987508581273601/1450989611324018830.m3u8",
+                    "video_player_video": "quests/1450987508581273601/1450989611324018830_1080.mp4",
+                    "video_player_thumbnail": "quests/1450987508581273601/1450990022042980504.jpg",
+                    "video_player_video_low_res": "quests/1450987508581273601/1450989611324018830_720.mp4",
+                    "video_player_caption": null,
+                    "video_player_transcript": null,
+                    "quest_bar_preview_video": null,
+                    "quest_bar_preview_thumbnail": null,
+                    "quest_home_video": null
+                }
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://www.netflix.com/title/81915745",
+                "button_label": "Learn More",
+                "subtitle": "Matt Damon. Ben Affleck. Jan 16 only on Netflix."
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
+    },
+    {
+        "id": "1445135030124019954",
+        "config": {
+            "id": "1445135030124019954",
+            "config_version": 2,
+            "starts_at": "2025-12-24T18:00:40+00:00",
+            "expires_at": "2026-01-01T00:00:40+00:00",
+            "features": [
+                3,
+                8,
+                9,
+                13,
+                14,
+                15,
+                16,
+                18,
+                19,
+                23,
+                27
+            ],
+            "application": {
+                "link": "https://www.amazon.com/gp/video/detail/b0flszbrzj/ref=atv_dp_season_select_s2b0flszbrzj&ref_=dvm_us_c_dig_hndo_cm",
+                "id": "1438480245844873387",
+                "name": "Fallout Pip-Boy"
+            },
+            "assets": {
+                "hero": "quests/1445135030124019954/1452764900375007322.jpg",
+                "hero_video": "quests/1445135030124019954/1452765089919930479.mp4",
+                "quest_bar_hero": "quests/1445135030124019954/1452765333419986985.jpg",
+                "quest_bar_hero_video": "quests/1445135030124019954/1452765089919930479.mp4",
+                "game_tile": "1452765498902188103.png",
+                "logotype": "1452765497861865533.png",
+                "game_tile_light": "quests/1445135030124019954/1452765459190648953.png",
+                "game_tile_dark": "quests/1445135030124019954/1452765459190648953.png",
+                "logotype_light": "quests/1445135030124019954/1452765410133938380.png",
+                "logotype_dark": "quests/1445135030124019954/1452765382577492059.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "New Vegas",
+                "game_title": "Fallout Pip-Boy Activity",
+                "game_publisher": "Amazon Prime Video"
+            },
+            "task_config": {
+                "type": 2,
+                "join_operator": "or",
+                "tasks": {
+                    "progress": {
+                        "event_name": "progress",
+                        "title": "Get a sneak peek of New Vegas from Fallout Season Two to claim 700 Orbs on Desktop!",
+                        "description": "Get a sneak peek of New Vegas from Fallout Season Two to claim 700 Orbs on Desktop!",
+                        "target": 100
+                    }
+                },
+                "enrollment_url": "https://www.discord.com",
+                "developer_application_id": "1438480245844873387"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "ACHIEVEMENT_IN_ACTIVITY": {
+                        "type": "ACHIEVEMENT_IN_ACTIVITY",
+                        "target": 100,
+                        "applications": [
+                            {
+                                "id": "1438480245844873387"
+                            }
+                        ],
+                        "event_name": "progress",
+                        "messages": {
+                            "task_title": "Get a sneak peek of New Vegas from Fallout Season Two to claim 700 Orbs on Desktop!",
+                            "task_description": "Get a sneak peek of New Vegas from Fallout Season Two to claim 700 Orbs on Desktop!"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 Orbs",
+                            "name_with_article": "700 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "Default"
+                            }
+                        },
+                        "orb_quantity": 700
+                    }
+                ],
+                "rewards_expire_at": "2026-01-31T00:00:40+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://www.amazon.com/gp/video/detail/b0flszbrzj/ref=atv_dp_season_select_s2b0flszbrzj&ref_=dvm_us_c_dig_hndo_cm",
+                "button_label": "Watch Now",
+                "subtitle": "Watch Fallout Season Two now on Prime."
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
     }
 ]
