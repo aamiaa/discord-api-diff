@@ -43770,5 +43770,149 @@
         "user_status": null,
         "targeted_content": [],
         "preview": false
+    },
+    {
+        "id": "1451658948250964028",
+        "config": {
+            "id": "1451658948250964028",
+            "config_version": 2,
+            "starts_at": "2026-01-07T18:00:23+00:00",
+            "expires_at": "2026-01-17T00:00:23+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://pubg.com/main",
+                "id": "1402418717781921935",
+                "name": "PLAYERUNKNOWN'S BATTLEGROUNDS"
+            },
+            "assets": {
+                "hero": "quests/1451658948250964028/1453077037471502558.jpg",
+                "hero_video": null,
+                "quest_bar_hero": "quests/1451658948250964028/1453076988439826637.jpg",
+                "quest_bar_hero_video": null,
+                "game_tile": "1451659949414547578.png",
+                "logotype": "1451659948214849577.png",
+                "game_tile_light": "quests/1451658948250964028/1451659923116265502.png",
+                "game_tile_dark": "quests/1451658948250964028/1451659923116265502.png",
+                "logotype_light": "quests/1451658948250964028/1451659808133611643.png",
+                "logotype_dark": "quests/1451658948250964028/1451659868988637316.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Erangel: Subzero",
+                "game_title": "PUBG",
+                "game_publisher": "Krafton"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "event_name": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "external_ids": []
+                    },
+                    "PLAY_ON_XBOX": {
+                        "event_name": "PLAY_ON_XBOX",
+                        "target": 900,
+                        "external_ids": [
+                            "172342998",
+                            "950328474"
+                        ]
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "event_name": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "external_ids": [
+                            "CUSA14380_00",
+                            "CUSA14081_00",
+                            "CUSA14085_00",
+                            "PPSA27367_00",
+                            "PPSA27363_00"
+                        ]
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1402418717781921935"
+                            }
+                        ]
+                    },
+                    "PLAY_ON_XBOX": {
+                        "type": "PLAY_ON_XBOX",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1402418717781921935"
+                            }
+                        ],
+                        "external_ids": [
+                            "172342998",
+                            "950328474"
+                        ]
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "type": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1402418717781921935"
+                            }
+                        ],
+                        "external_ids": [
+                            "CUSA14380_00",
+                            "CUSA14081_00",
+                            "CUSA14085_00",
+                            "PPSA27367_00",
+                            "PPSA27363_00"
+                        ]
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 3,
+                        "sku_id": "1451662730749808754",
+                        "asset": "quests/1451658948250964028/1451662969040666635.mp4",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "Frosty Helmet Avatar Decoration",
+                            "name_with_article": "a Frosty Helmet Avatar Decoration",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "expires_at": "2026-03-16T23:00:00+00:00",
+                        "expires_at_premium": null,
+                        "expiration_mode": 3
+                    }
+                ],
+                "rewards_expire_at": "2026-02-16T00:00:23+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://pubg.com/main",
+                "button_label": "Play Now"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
     }
 ]
