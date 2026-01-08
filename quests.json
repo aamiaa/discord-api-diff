@@ -43914,5 +43914,166 @@
         "user_status": null,
         "targeted_content": [],
         "preview": false
+    },
+    {
+        "id": "1452768522093723778",
+        "config": {
+            "id": "1452768522093723778",
+            "config_version": 2,
+            "starts_at": "2026-01-07T23:00:26+00:00",
+            "expires_at": "2026-01-10T00:00:26+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://www.espn.com/watch/catalog/0f8e3d42-fa27-3f60-9e8d-276e4892f50e/ncaa-football#bucketId=29779&sourceCollection=Browse_By_League",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1452768522093723778/1457787755114528984.jpg",
+                "hero_video": "quests/1452768522093723778/1458210882218623006.mp4",
+                "quest_bar_hero": "quests/1452768522093723778/1457787755114528984.jpg",
+                "quest_bar_hero_video": "quests/1452768522093723778/1458210882218623006.mp4",
+                "game_tile": "1457788253020229874.png",
+                "logotype": "1457788251917254880.png",
+                "game_tile_light": "quests/1452768522093723778/1457788019208880178.png",
+                "game_tile_dark": "quests/1452768522093723778/1457788019208880178.png",
+                "logotype_light": "quests/1452768522093723778/1457788064951828581.png",
+                "logotype_dark": "quests/1452768522093723778/1457788064951828581.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "College Football Playoff",
+                "game_title": "ESPN",
+                "game_publisher": "ESPN"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "event_name": "WATCH_VIDEO",
+                        "target": 14,
+                        "external_ids": []
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "event_name": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 14,
+                        "external_ids": []
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 14,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1452768522093723778/1458142841204244672_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1452768522093723778/1457787582296490226.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1452768522093723778/1458142841204244672_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1452768522093723778/1457787582296490226.jpg"
+                            },
+                            "video_hls": {
+                                "url": "quests/1452768522093723778/1458142841204244672.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1452768522093723778/1457787582296490226.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "College Football Playoff Video"
+                        }
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 14,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1452768522093723778/1458142841204244672_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1452768522093723778/1457787582296490226.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1452768522093723778/1458142841204244672_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1452768522093723778/1457787582296490226.jpg"
+                            },
+                            "video_hls": {
+                                "url": "quests/1452768522093723778/1458142841204244672.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1452768522093723778/1457787582296490226.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "College Football Playoff Video"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 Orbs",
+                            "name_with_article": "700 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 700
+                    }
+                ],
+                "rewards_expire_at": "2026-02-09T00:00:26+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "video_metadata": {
+                "messages": {
+                    "video_title": "College Football Playoff Video",
+                    "video_end_cta_subtitle": "College Football Playoff Semifinals",
+                    "video_end_cta_button_label": "Learn More"
+                },
+                "assets": {
+                    "video_player_video_hls": "quests/1452768522093723778/1458142841204244672.m3u8",
+                    "video_player_video": "quests/1452768522093723778/1458142841204244672_1080.mp4",
+                    "video_player_thumbnail": "quests/1452768522093723778/1457787582296490226.jpg",
+                    "video_player_video_low_res": "quests/1452768522093723778/1458142841204244672_720.mp4",
+                    "video_player_caption": null,
+                    "video_player_transcript": null,
+                    "quest_bar_preview_video": null,
+                    "quest_bar_preview_thumbnail": null,
+                    "quest_home_video": null
+                }
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://www.espn.com/watch/catalog/0f8e3d42-fa27-3f60-9e8d-276e4892f50e/ncaa-football#bucketId=29779&sourceCollection=Browse_By_League",
+                "button_label": "Learn More",
+                "subtitle": "College Football Playoff Semifinals"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
     }
 ]
