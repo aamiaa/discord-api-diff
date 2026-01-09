@@ -44167,5 +44167,101 @@
         "user_status": null,
         "targeted_content": [],
         "preview": false
+    },
+    {
+        "id": "1458205193442431214",
+        "config": {
+            "id": "1458205193442431214",
+            "config_version": 2,
+            "starts_at": "2026-01-09T18:00:50+00:00",
+            "expires_at": "2026-01-16T00:00:50+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://lps.plarium.com/en/desktop/raid/dro/bp?plid=1778285&pxl=discord_web",
+                "id": "1201708402397421618",
+                "name": "RAID: Shadow Legends "
+            },
+            "assets": {
+                "hero": "quests/1458205193442431214/1458215340096880905.jpg",
+                "hero_video": null,
+                "quest_bar_hero": "quests/1458205193442431214/1458206082194342072.jpg",
+                "quest_bar_hero_video": "quests/1458205193442431214/1458205958177030328.mp4",
+                "game_tile": "1458206009519767562.png",
+                "logotype": "1458206008454418463.png",
+                "game_tile_light": "quests/1458205193442431214/1458205656682201088.png",
+                "game_tile_dark": "quests/1458205193442431214/1458205656682201088.png",
+                "logotype_light": "quests/1458205193442431214/1458205588013056176.png",
+                "logotype_dark": "quests/1458205193442431214/1458205616857153546.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Raid x Assassin's Creed",
+                "game_title": "RAID: Shadow Legends ",
+                "game_publisher": "Plarium"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "event_name": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "external_ids": []
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1201708402397421618"
+                            }
+                        ]
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 3,
+                        "sku_id": "1458210430584623278",
+                        "asset": "quests/1458205193442431214/1458210358841049405.mp4",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "Raid x Assassin's Creed Avatar Decoration ",
+                            "name_with_article": "a Raid x Assassin's Creed Avatar Decoration ",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "expires_at": "2026-03-16T23:00:00+00:00",
+                        "expires_at_premium": null,
+                        "expiration_mode": 3
+                    }
+                ],
+                "rewards_expire_at": "2026-02-15T00:00:50+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://lps.plarium.com/en/desktop/raid/dro/bp?plid=1778285&pxl=discord_web",
+                "button_label": "Get Game"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false
     }
 ]
