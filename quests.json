@@ -43921,7 +43921,7 @@
             "id": "1452768522093723778",
             "config_version": 2,
             "starts_at": "2026-01-07T23:00:26+00:00",
-            "expires_at": "2026-01-10T00:00:26+00:00",
+            "expires_at": "2026-01-10T01:00:26+00:00",
             "features": [
                 15
             ],
@@ -43932,9 +43932,9 @@
             },
             "assets": {
                 "hero": "quests/1452768522093723778/1457787755114528984.jpg",
-                "hero_video": "quests/1452768522093723778/1458210882218623006.mp4",
+                "hero_video": "quests/1452768522093723778/1458924527818903644.mp4",
                 "quest_bar_hero": "quests/1452768522093723778/1457787755114528984.jpg",
-                "quest_bar_hero_video": "quests/1452768522093723778/1458210882218623006.mp4",
+                "quest_bar_hero_video": "quests/1452768522093723778/1458924527818903644.mp4",
                 "game_tile": "1457788253020229874.png",
                 "logotype": "1457788251917254880.png",
                 "game_tile_light": "quests/1452768522093723778/1457788019208880178.png",
@@ -43974,22 +43974,22 @@
                         "target": 14,
                         "assets": {
                             "video": {
-                                "url": "quests/1452768522093723778/1458143008569557012_1080.mp4",
+                                "url": "quests/1452768522093723778/1458924058388336858_1080.mp4",
                                 "width": 1920,
                                 "height": 1080,
-                                "thumbnail": "quests/1452768522093723778/1457787616115163260.jpg"
+                                "thumbnail": "quests/1452768522093723778/1457787641981304842.jpg"
                             },
                             "video_low_res": {
-                                "url": "quests/1452768522093723778/1458143008569557012_720.mp4",
+                                "url": "quests/1452768522093723778/1458924058388336858_720.mp4",
                                 "width": 1920,
                                 "height": 1080,
-                                "thumbnail": "quests/1452768522093723778/1457787616115163260.jpg"
+                                "thumbnail": "quests/1452768522093723778/1457787641981304842.jpg"
                             },
                             "video_hls": {
-                                "url": "quests/1452768522093723778/1458143008569557012.m3u8",
+                                "url": "quests/1452768522093723778/1458924058388336858.m3u8",
                                 "width": 1920,
                                 "height": 1080,
-                                "thumbnail": "quests/1452768522093723778/1457787616115163260.jpg"
+                                "thumbnail": "quests/1452768522093723778/1457787641981304842.jpg"
                             }
                         },
                         "messages": {
@@ -44001,22 +44001,22 @@
                         "target": 14,
                         "assets": {
                             "video": {
-                                "url": "quests/1452768522093723778/1458143008569557012_1080.mp4",
+                                "url": "quests/1452768522093723778/1458924058388336858_1080.mp4",
                                 "width": 1920,
                                 "height": 1080,
-                                "thumbnail": "quests/1452768522093723778/1457787616115163260.jpg"
+                                "thumbnail": "quests/1452768522093723778/1457787641981304842.jpg"
                             },
                             "video_low_res": {
-                                "url": "quests/1452768522093723778/1458143008569557012_720.mp4",
+                                "url": "quests/1452768522093723778/1458924058388336858_720.mp4",
                                 "width": 1920,
                                 "height": 1080,
-                                "thumbnail": "quests/1452768522093723778/1457787616115163260.jpg"
+                                "thumbnail": "quests/1452768522093723778/1457787641981304842.jpg"
                             },
                             "video_hls": {
-                                "url": "quests/1452768522093723778/1458143008569557012.m3u8",
+                                "url": "quests/1452768522093723778/1458924058388336858.m3u8",
                                 "width": 1920,
                                 "height": 1080,
-                                "thumbnail": "quests/1452768522093723778/1457787616115163260.jpg"
+                                "thumbnail": "quests/1452768522093723778/1457787641981304842.jpg"
                             }
                         },
                         "messages": {
@@ -44042,7 +44042,7 @@
                         "orb_quantity": 700
                     }
                 ],
-                "rewards_expire_at": "2026-02-09T00:00:26+00:00",
+                "rewards_expire_at": "2026-02-09T01:00:26+00:00",
                 "platforms": [
                     0
                 ]
@@ -44054,10 +44054,10 @@
                     "video_end_cta_button_label": "Learn More"
                 },
                 "assets": {
-                    "video_player_video_hls": "quests/1452768522093723778/1458143008569557012.m3u8",
-                    "video_player_video": "quests/1452768522093723778/1458143008569557012_1080.mp4",
-                    "video_player_thumbnail": "quests/1452768522093723778/1457787616115163260.jpg",
-                    "video_player_video_low_res": "quests/1452768522093723778/1458143008569557012_720.mp4",
+                    "video_player_video_hls": "quests/1452768522093723778/1458924058388336858.m3u8",
+                    "video_player_video": "quests/1452768522093723778/1458924058388336858_1080.mp4",
+                    "video_player_thumbnail": "quests/1452768522093723778/1457787641981304842.jpg",
+                    "video_player_video_low_res": "quests/1452768522093723778/1458924058388336858_720.mp4",
                     "video_player_caption": null,
                     "video_player_transcript": null,
                     "quest_bar_preview_video": null,
@@ -44118,7 +44118,7 @@
                 "tasks": {
                     "PLAY_ON_DESKTOP": {
                         "event_name": "PLAY_ON_DESKTOP",
-                        "target": 1800,
+                        "target": 900,
                         "external_ids": []
                     }
                 }
@@ -44127,7 +44127,7 @@
                 "tasks": {
                     "PLAY_ON_DESKTOP": {
                         "type": "PLAY_ON_DESKTOP",
-                        "target": 1800,
+                        "target": 900,
                         "applications": [
                             {
                                 "id": "1238113262969557002"
