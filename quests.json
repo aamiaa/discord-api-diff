@@ -45302,5 +45302,490 @@
         "preview": false,
         "traffic_metadata_raw": "EAE=",
         "traffic_metadata_sealed": "EAE="
+    },
+    {
+        "id": "1459236894347886623",
+        "config": {
+            "id": "1459236894347886623",
+            "config_version": 2,
+            "starts_at": "2026-01-16T18:00:26+00:00",
+            "expires_at": "2026-01-23T00:00:26+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://www.playbpsr.com/",
+                "id": "1425830254437601330",
+                "name": "Blue Protocol: Star Resonance"
+            },
+            "assets": {
+                "hero": "quests/1459236894347886623/1461078841425662164.jpg",
+                "hero_video": "quests/1459236894347886623/1459263937915912192.mp4",
+                "quest_bar_hero": "quests/1459236894347886623/1461399756491460771.jpg",
+                "quest_bar_hero_video": null,
+                "game_tile": "1459262986794438958.png",
+                "logotype": "1459262985712177306.png",
+                "game_tile_light": "quests/1459236894347886623/1459262960571781203.png",
+                "game_tile_dark": "quests/1459236894347886623/1459262960571781203.png",
+                "logotype_light": "quests/1459236894347886623/1459262904946659421.png",
+                "logotype_dark": "quests/1459236894347886623/1459262904946659421.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "BPSR SEASON 2",
+                "game_title": "Blue Protocol Star Resonance",
+                "game_publisher": "A PLUS JAPAN"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "event_name": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "external_ids": []
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1425830254437601330"
+                            }
+                        ]
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 Orbs",
+                            "name_with_article": "700 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 700
+                    }
+                ],
+                "rewards_expire_at": "2026-02-22T00:00:26+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://www.playbpsr.com/",
+                "button_label": "Get Game"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false,
+        "traffic_metadata_raw": "EAE=",
+        "traffic_metadata_sealed": "EAE="
+    },
+    {
+        "id": "1458584786997350472",
+        "config": {
+            "id": "1458584786997350472",
+            "config_version": 2,
+            "starts_at": "2026-01-16T18:00:12+00:00",
+            "expires_at": "2026-01-23T00:00:12+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://tap.io/k9CLUAE",
+                "id": "1129504534809550858",
+                "name": "Torchlight: Infinite"
+            },
+            "assets": {
+                "hero": "quests/1458584786997350472/1458585827486732328.jpg",
+                "hero_video": "quests/1458584786997350472/1461555149830098975.mp4",
+                "quest_bar_hero": "quests/1458584786997350472/1460305910948954430.jpg",
+                "quest_bar_hero_video": "quests/1458584786997350472/1461555149830098975.mp4",
+                "game_tile": "1458586198996942909.png",
+                "logotype": "1458586197994635365.png",
+                "game_tile_light": "quests/1458584786997350472/1458586133582840053.png",
+                "game_tile_dark": "quests/1458584786997350472/1458586133582840053.png",
+                "logotype_light": "quests/1458584786997350472/1458585978628476938.png",
+                "logotype_dark": "quests/1458584786997350472/1458585978628476938.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Torchlight: Infinite",
+                "game_title": "Torchlight: Infinite",
+                "game_publisher": "XD. Inc"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "event_name": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "external_ids": []
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1129504534809550858"
+                            }
+                        ]
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 Orbs",
+                            "name_with_article": "700 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 700
+                    }
+                ],
+                "rewards_expire_at": "2026-02-22T00:00:12+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://tap.io/k9CLUAE",
+                "button_label": "Play Now"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false,
+        "traffic_metadata_raw": "EAE=",
+        "traffic_metadata_sealed": "EAE="
+    },
+    {
+        "id": "1458595355766558813",
+        "config": {
+            "id": "1458595355766558813",
+            "config_version": 2,
+            "starts_at": "2026-01-16T18:00:12+00:00",
+            "expires_at": "2026-01-26T00:00:12+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://peacocktv.app.link/jfVjVt45RZb",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1458595355766558813/1458596010199744615.jpg",
+                "hero_video": "quests/1458595355766558813/1458596078336344065.mp4",
+                "quest_bar_hero": "quests/1458595355766558813/1458596010199744615.jpg",
+                "quest_bar_hero_video": "quests/1458595355766558813/1458596078336344065.mp4",
+                "game_tile": "1458596370104582196.png",
+                "logotype": "1458596368942895114.png",
+                "game_tile_light": "quests/1458595355766558813/1458596330929914041.png",
+                "game_tile_dark": "quests/1458595355766558813/1458596330929914041.png",
+                "logotype_light": "quests/1458595355766558813/1458596202311581798.png",
+                "logotype_dark": "quests/1458595355766558813/1458596270493929512.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Black Phone 2",
+                "game_title": "Black Phone 2 Streaming Now Only on Peacock",
+                "game_publisher": "Peacock"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "event_name": "WATCH_VIDEO",
+                        "target": 29,
+                        "external_ids": []
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "event_name": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 29,
+                        "external_ids": []
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 29,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1458595355766558813/1458596558718369903_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1458595355766558813/1458956704652722389.png"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1458595355766558813/1458596558718369903_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1458595355766558813/1458956704652722389.png"
+                            },
+                            "video_hls": {
+                                "url": "quests/1458595355766558813/1458596558718369903.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1458595355766558813/1458956704652722389.png"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "Black Phone 2 Trailer"
+                        }
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 29,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1458595355766558813/1458598578892312668_1080.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1458595355766558813/1458956704652722389.png"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1458595355766558813/1458598578892312668_720.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1458595355766558813/1458956704652722389.png"
+                            },
+                            "video_hls": {
+                                "url": "quests/1458595355766558813/1458598578892312668.m3u8",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1458595355766558813/1458956704652722389.png"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "Black Phone 2 Trailer"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 Orbs",
+                            "name_with_article": "700 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 700
+                    }
+                ],
+                "rewards_expire_at": "2026-02-25T00:00:12+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "video_metadata": {
+                "messages": {
+                    "video_title": "Black Phone 2 Trailer",
+                    "video_end_cta_subtitle": "Black Phone 2 Streaming Now Only on Peacock",
+                    "video_end_cta_button_label": "Learn More"
+                },
+                "assets": {
+                    "video_player_video_hls": "quests/1458595355766558813/1458596558718369903.m3u8",
+                    "video_player_video": "quests/1458595355766558813/1458596558718369903_1080.mp4",
+                    "video_player_thumbnail": "quests/1458595355766558813/1458956704652722389.png",
+                    "video_player_video_low_res": "quests/1458595355766558813/1458596558718369903_720.mp4",
+                    "video_player_caption": null,
+                    "video_player_transcript": null,
+                    "quest_bar_preview_video": null,
+                    "quest_bar_preview_thumbnail": null,
+                    "quest_home_video": null
+                }
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://peacocktv.app.link/jfVjVt45RZb",
+                "button_label": "Learn More",
+                "subtitle": "Black Phone 2 Streaming Now Only on Peacock"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false,
+        "traffic_metadata_raw": "EAE=",
+        "traffic_metadata_sealed": "EAE="
+    },
+    {
+        "id": "1459280298872406162",
+        "config": {
+            "id": "1459280298872406162",
+            "config_version": 2,
+            "starts_at": "2026-01-16T18:30:55+00:00",
+            "expires_at": "2026-01-24T00:00:55+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://gsght.com/c/qriuej",
+                "id": "1314395942253756416",
+                "name": "Marvel Rivals"
+            },
+            "assets": {
+                "hero": "quests/1459280298872406162/1460333882560745663.jpg",
+                "hero_video": "quests/1459280298872406162/1459283089221222450.mp4",
+                "quest_bar_hero": "quests/1459280298872406162/1460333827733065860.jpg",
+                "quest_bar_hero_video": "quests/1459280298872406162/1459282976277004318.mp4",
+                "game_tile": "1459283306054029383.png",
+                "logotype": "1459283305093398763.png",
+                "game_tile_light": "quests/1459280298872406162/1459283261309325374.png",
+                "game_tile_dark": "quests/1459280298872406162/1459283261309325374.png",
+                "logotype_light": "quests/1459280298872406162/1459283156489338951.png",
+                "logotype_dark": "quests/1459280298872406162/1459283208746172477.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Marvel Rivals Deadpool",
+                "game_title": "Marvel Rivals ",
+                "game_publisher": "NetEase Games"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "event_name": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "external_ids": []
+                    },
+                    "PLAY_ON_XBOX": {
+                        "event_name": "PLAY_ON_XBOX",
+                        "target": 900,
+                        "external_ids": [
+                            "1794906646"
+                        ]
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "event_name": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "external_ids": [
+                            "PPSA21669_00",
+                            "CUSA55048_00"
+                        ]
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1314395942253756416"
+                            }
+                        ]
+                    },
+                    "PLAY_ON_XBOX": {
+                        "type": "PLAY_ON_XBOX",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1314395942253756416"
+                            }
+                        ],
+                        "external_ids": [
+                            "1794906646"
+                        ]
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "type": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1314395942253756416"
+                            }
+                        ],
+                        "external_ids": [
+                            "PPSA21669_00",
+                            "CUSA55048_00"
+                        ]
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 Orbs",
+                            "name_with_article": "700 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 700
+                    }
+                ],
+                "rewards_expire_at": "2026-02-23T00:00:55+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://gsght.com/c/qriuej",
+                "button_label": "Play Game"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false,
+        "traffic_metadata_raw": "EAE=",
+        "traffic_metadata_sealed": "EAE="
     }
 ]
