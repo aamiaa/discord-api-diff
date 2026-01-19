@@ -45787,5 +45787,138 @@
         "preview": false,
         "traffic_metadata_raw": "EAE=",
         "traffic_metadata_sealed": "EAE="
+    },
+    {
+        "id": "1461427517775675493",
+        "config": {
+            "id": "1461427517775675493",
+            "config_version": 2,
+            "starts_at": "2026-01-19T18:00:12+00:00",
+            "expires_at": "2026-01-26T07:59:12+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://tickets.returntosilenthillmovie.com/",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "1461429625421824146.jpg",
+                "hero_video": "1461429951118049435.mp4",
+                "quest_bar_hero": "1461429856293355660.jpg",
+                "quest_bar_hero_video": "1461429951118049435.mp4",
+                "game_tile": "1461430195042123963.png",
+                "logotype": "1461784950683468007.png",
+                "game_tile_light": "1461430164243091656.png",
+                "game_tile_dark": "1461430164243091656.png",
+                "logotype_light": "1461784818055385274.png",
+                "logotype_dark": "1461784818055385274.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Return to Silent Hill",
+                "game_title": "In Theaters 1/23, Buy Tickets Now",
+                "game_publisher": "Cineverse"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "event_name": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 90,
+                        "external_ids": []
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 90,
+                        "assets": {
+                            "video": {
+                                "url": "1461430982946066432_1080.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "1461438395841773699.png"
+                            },
+                            "video_low_res": {
+                                "url": "1461430982946066432_720.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "1461438395841773699.png"
+                            },
+                            "video_hls": {
+                                "url": "1461430982946066432.m3u8",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "1461438395841773699.png"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "Return to Silent Hill Trailer",
+                            "video_end_cta_title": "",
+                            "video_end_cta_subtitle": ""
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 3,
+                        "sku_id": "1461841500412317830",
+                        "asset": "1461841744911012063.mp4",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "Pyramid Head Avatar Decoration",
+                            "name_with_article": "a Pyramid Head Avatar Decoration",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "expires_at": "2026-03-25T07:00:00+00:00",
+                        "expires_at_premium": null,
+                        "expiration_mode": 3
+                    }
+                ],
+                "rewards_expire_at": "2026-02-25T07:59:12+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "video_metadata": {
+                "messages": {
+                    "video_title": "Return to Silent Hill Trailer",
+                    "video_end_cta_title": "",
+                    "video_end_cta_subtitle": "In Theaters 1/23, Buy Tickets Now",
+                    "video_end_cta_button_label": "Get Tickets"
+                },
+                "assets": {
+                    "video_player_video_hls": "1461430982946066432.m3u8",
+                    "video_player_video": "1461430982946066432_1080.mp4",
+                    "video_player_thumbnail": "1461438395841773699.png",
+                    "video_player_video_low_res": "1461430982946066432_720.mp4",
+                    "video_player_caption": null,
+                    "video_player_transcript": null,
+                    "quest_bar_preview_video": null,
+                    "quest_bar_preview_thumbnail": null,
+                    "quest_home_video": null
+                }
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://tickets.returntosilenthillmovie.com/",
+                "button_label": "Get Tickets",
+                "subtitle": "In Theaters 1/23, Buy Tickets Now"
+            }
+        }
     }
 ]
