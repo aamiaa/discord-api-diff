@@ -44376,7 +44376,7 @@
             "id": "1459263468677894241",
             "config_version": 2,
             "starts_at": "2026-01-12T15:30:02+00:00",
-            "expires_at": "2026-01-22T00:00:02+00:00",
+            "expires_at": "2026-01-22T07:59:02+00:00",
             "features": [
                 15
             ],
@@ -44466,7 +44466,7 @@
                         "orb_quantity": 700
                     }
                 ],
-                "rewards_expire_at": "2026-02-21T00:00:02+00:00",
+                "rewards_expire_at": "2026-02-21T07:59:02+00:00",
                 "platforms": [
                     0
                 ]
@@ -45804,16 +45804,16 @@
                 "name": "Discord"
             },
             "assets": {
-                "hero": "1461429625421824146.jpg",
-                "hero_video": "1461429951118049435.mp4",
-                "quest_bar_hero": "1461429856293355660.jpg",
-                "quest_bar_hero_video": "1461429951118049435.mp4",
+                "hero": "quests/1461427517775675493/1461429625421824146.jpg",
+                "hero_video": "quests/1461427517775675493/1461429951118049435.mp4",
+                "quest_bar_hero": "quests/1461427517775675493/1461429856293355660.jpg",
+                "quest_bar_hero_video": "quests/1461427517775675493/1461429951118049435.mp4",
                 "game_tile": "1461430195042123963.png",
                 "logotype": "1461784950683468007.png",
-                "game_tile_light": "1461430164243091656.png",
-                "game_tile_dark": "1461430164243091656.png",
-                "logotype_light": "1461784818055385274.png",
-                "logotype_dark": "1461784818055385274.png"
+                "game_tile_light": "quests/1461427517775675493/1461430164243091656.png",
+                "game_tile_dark": "quests/1461427517775675493/1461430164243091656.png",
+                "logotype_light": "quests/1461427517775675493/1461784818055385274.png",
+                "logotype_dark": "quests/1461427517775675493/1461784818055385274.png"
             },
             "colors": {
                 "primary": "#4752C4",
@@ -45828,6 +45828,11 @@
                 "type": 1,
                 "join_operator": "or",
                 "tasks": {
+                    "WATCH_VIDEO": {
+                        "event_name": "WATCH_VIDEO",
+                        "target": 90,
+                        "external_ids": []
+                    },
                     "WATCH_VIDEO_ON_MOBILE": {
                         "event_name": "WATCH_VIDEO_ON_MOBILE",
                         "target": 90,
@@ -45837,27 +45842,56 @@
             },
             "task_config_v2": {
                 "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 90,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1461427517775675493/1463271240130105535_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1461427517775675493/1461438395841773699.png"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1461427517775675493/1463271240130105535_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1461427517775675493/1461438395841773699.png"
+                            },
+                            "video_hls": {
+                                "url": "quests/1461427517775675493/1463271240130105535.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1461427517775675493/1461438395841773699.png"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "Return to Silent Hill Trailer",
+                            "video_end_cta_title": "",
+                            "video_end_cta_subtitle": ""
+                        }
+                    },
                     "WATCH_VIDEO_ON_MOBILE": {
                         "type": "WATCH_VIDEO_ON_MOBILE",
                         "target": 90,
                         "assets": {
                             "video": {
-                                "url": "1461430982946066432_1080.mp4",
+                                "url": "quests/1461427517775675493/1461430982946066432_1080.mp4",
                                 "width": 1080,
                                 "height": 1920,
-                                "thumbnail": "1461438395841773699.png"
+                                "thumbnail": "quests/1461427517775675493/1461438395841773699.png"
                             },
                             "video_low_res": {
-                                "url": "1461430982946066432_720.mp4",
+                                "url": "quests/1461427517775675493/1461430982946066432_720.mp4",
                                 "width": 1080,
                                 "height": 1920,
-                                "thumbnail": "1461438395841773699.png"
+                                "thumbnail": "quests/1461427517775675493/1461438395841773699.png"
                             },
                             "video_hls": {
-                                "url": "1461430982946066432.m3u8",
+                                "url": "quests/1461427517775675493/1461430982946066432.m3u8",
                                 "width": 1080,
                                 "height": 1920,
-                                "thumbnail": "1461438395841773699.png"
+                                "thumbnail": "quests/1461427517775675493/1461438395841773699.png"
                             }
                         },
                         "messages": {
@@ -45875,7 +45909,7 @@
                     {
                         "type": 3,
                         "sku_id": "1461841500412317830",
-                        "asset": "1461841744911012063.mp4",
+                        "asset": "quests/1461427517775675493/1461841744911012063.mp4",
                         "asset_video": null,
                         "messages": {
                             "name": "Pyramid Head Avatar Decoration",
@@ -45902,10 +45936,10 @@
                     "video_end_cta_button_label": "Get Tickets"
                 },
                 "assets": {
-                    "video_player_video_hls": "1461430982946066432.m3u8",
-                    "video_player_video": "1461430982946066432_1080.mp4",
-                    "video_player_thumbnail": "1461438395841773699.png",
-                    "video_player_video_low_res": "1461430982946066432_720.mp4",
+                    "video_player_video_hls": "quests/1461427517775675493/1463271240130105535.m3u8",
+                    "video_player_video": "quests/1461427517775675493/1463271240130105535_1080.mp4",
+                    "video_player_thumbnail": "quests/1461427517775675493/1461438395841773699.png",
+                    "video_player_video_low_res": "quests/1461427517775675493/1463271240130105535_720.mp4",
                     "video_player_caption": null,
                     "video_player_transcript": null,
                     "quest_bar_preview_video": null,
@@ -45919,6 +45953,179 @@
                 "button_label": "Get Tickets",
                 "subtitle": "In Theaters 1/23, Buy Tickets Now"
             }
-        }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false,
+        "traffic_metadata_raw": "EAE=",
+        "traffic_metadata_sealed": "EAE="
+    },
+    {
+        "id": "1461494895163478208",
+        "config": {
+            "id": "1461494895163478208",
+            "config_version": 2,
+            "starts_at": "2026-01-20T22:10:56+00:00",
+            "expires_at": "2026-02-01T00:00:56+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://www.paramountplus.com/?cbscidmt=ufc",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1461494895163478208/1461496976465199125.jpg",
+                "hero_video": null,
+                "quest_bar_hero": "quests/1461494895163478208/1461496912753594542.jpg",
+                "quest_bar_hero_video": "quests/1461494895163478208/1461496641629720728.mp4",
+                "game_tile": "1461497118043930676.png",
+                "logotype": "1461497116869267671.png",
+                "game_tile_light": "quests/1461494895163478208/1461497096522829935.png",
+                "game_tile_dark": "quests/1461494895163478208/1461497096522829935.png",
+                "logotype_light": "quests/1461494895163478208/1461497046493302835.png",
+                "logotype_dark": "quests/1461494895163478208/1461497046493302835.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "UFC",
+                "game_title": "Stream UFC 324 on Paramount+",
+                "game_publisher": "Paramount+"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "event_name": "WATCH_VIDEO",
+                        "target": 29,
+                        "external_ids": []
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "event_name": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 29,
+                        "external_ids": []
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 29,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1461494895163478208/1463252726963241022_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1461494895163478208/1463308983321497670.png"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1461494895163478208/1463252726963241022_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1461494895163478208/1463308983321497670.png"
+                            },
+                            "video_hls": {
+                                "url": "quests/1461494895163478208/1463252726963241022.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1461494895163478208/1463308983321497670.png"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "UFC Video",
+                            "video_end_cta_title": "",
+                            "video_end_cta_subtitle": ""
+                        }
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 29,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1461494895163478208/1463263873447624714_1080.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1461494895163478208/1463308983321497670.png"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1461494895163478208/1463263873447624714_720.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1461494895163478208/1463308983321497670.png"
+                            },
+                            "video_hls": {
+                                "url": "quests/1461494895163478208/1463263873447624714.m3u8",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1461494895163478208/1463308983321497670.png"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "UFC Video",
+                            "video_end_cta_title": "",
+                            "video_end_cta_subtitle": ""
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 Orbs",
+                            "name_with_article": "700 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 700
+                    }
+                ],
+                "rewards_expire_at": "2026-03-03T00:00:56+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "video_metadata": {
+                "messages": {
+                    "video_title": "UFC Video",
+                    "video_end_cta_title": "",
+                    "video_end_cta_subtitle": "Stream UFC 324 on Paramount+",
+                    "video_end_cta_button_label": "Learn More"
+                },
+                "assets": {
+                    "video_player_video_hls": "quests/1461494895163478208/1463252726963241022.m3u8",
+                    "video_player_video": "quests/1461494895163478208/1463252726963241022_1080.mp4",
+                    "video_player_thumbnail": "quests/1461494895163478208/1463308983321497670.png",
+                    "video_player_video_low_res": "quests/1461494895163478208/1463252726963241022_720.mp4",
+                    "video_player_caption": null,
+                    "video_player_transcript": null,
+                    "quest_bar_preview_video": null,
+                    "quest_bar_preview_thumbnail": null,
+                    "quest_home_video": null
+                }
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://www.paramountplus.com/?cbscidmt=ufc",
+                "button_label": "Learn More",
+                "subtitle": "Stream UFC 324 on Paramount+"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false,
+        "traffic_metadata_raw": "EAE=",
+        "traffic_metadata_sealed": "EAE="
     }
 ]
