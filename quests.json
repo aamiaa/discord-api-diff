@@ -46127,5 +46127,308 @@
         "preview": false,
         "traffic_metadata_raw": "EAE=",
         "traffic_metadata_sealed": "EAE="
+    },
+    {
+        "id": "1460389452135534733",
+        "config": {
+            "id": "1460389452135534733",
+            "config_version": 2,
+            "starts_at": "2026-01-21T18:00:18+00:00",
+            "expires_at": "2026-02-04T00:00:18+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://play2xko.com/?utm_source=discord&utm_medium=paid&utm_campaign=2XKO2026S1Launch",
+                "id": "1417993715611467826",
+                "name": "2XKO"
+            },
+            "assets": {
+                "hero": "quests/1460389452135534733/1460412471767601205.jpg",
+                "hero_video": null,
+                "quest_bar_hero": "quests/1460389452135534733/1460412379681783900.jpg",
+                "quest_bar_hero_video": null,
+                "game_tile": "1460412583096877148.png",
+                "logotype": "1460412582107025490.png",
+                "game_tile_light": "quests/1460389452135534733/1460412556345737257.png",
+                "game_tile_dark": "quests/1460389452135534733/1460412556345737257.png",
+                "logotype_light": "quests/1460389452135534733/1460412520492961913.png",
+                "logotype_dark": "quests/1460389452135534733/1460412520492961913.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "2XKO Launch",
+                "game_title": "2XKO",
+                "game_publisher": "Riot Games"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "event_name": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "external_ids": []
+                    },
+                    "PLAY_ON_XBOX": {
+                        "event_name": "PLAY_ON_XBOX",
+                        "target": 900,
+                        "external_ids": [
+                            "1931679945"
+                        ]
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "event_name": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "external_ids": [
+                            "PPSA09528_00"
+                        ]
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1417993715611467826"
+                            }
+                        ]
+                    },
+                    "PLAY_ON_XBOX": {
+                        "type": "PLAY_ON_XBOX",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1417993715611467826"
+                            }
+                        ],
+                        "external_ids": [
+                            "1931679945"
+                        ]
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "type": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1417993715611467826"
+                            }
+                        ],
+                        "external_ids": [
+                            "PPSA09528_00"
+                        ]
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 3,
+                        "sku_id": "1460415407297921135",
+                        "asset": "quests/1460389452135534733/1460415924145492150.mp4",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "Caitlyn Cab Monster Avatar Decoration",
+                            "name_with_article": "a Caitlyn Cab Monster Avatar Decoration",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "expires_at": "2026-04-05T07:00:00+00:00",
+                        "expires_at_premium": null,
+                        "expiration_mode": 3
+                    }
+                ],
+                "rewards_expire_at": "2026-03-06T00:00:18+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://play2xko.com/?utm_source=discord&utm_medium=paid&utm_campaign=2XKO2026S1Launch",
+                "button_label": "Get Game"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false,
+        "traffic_metadata_raw": "EAE=",
+        "traffic_metadata_sealed": "EAE="
+    },
+    {
+        "id": "1461881280630362308",
+        "config": {
+            "id": "1461881280630362308",
+            "config_version": 2,
+            "starts_at": "2026-01-21T18:00:17+00:00",
+            "expires_at": "2026-01-25T00:00:17+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://fallout.bethesda.net/en/fallout-franchise",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "1461881835784110213.jpg",
+                "hero_video": "1461894621696360560.mp4",
+                "quest_bar_hero": "1463218567003508886.jpg",
+                "quest_bar_hero_video": "1461894621696360560.mp4",
+                "game_tile": "1461895248341893190.png",
+                "logotype": "1461895247268282531.png",
+                "game_tile_light": "1461895137000165407.png",
+                "game_tile_dark": "1461895137000165407.png",
+                "logotype_light": "1461895025813225637.png",
+                "logotype_dark": "1461895081157067002.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Fallout",
+                "game_title": "Fallout",
+                "game_publisher": "Bethesda Softworks"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "event_name": "WATCH_VIDEO",
+                        "target": 29,
+                        "external_ids": []
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "event_name": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 29,
+                        "external_ids": []
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 29,
+                        "assets": {
+                            "video": {
+                                "url": "1461895850467917836_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "1463218893085736970.jpg",
+                                "caption": "1461904294348460191.vtt"
+                            },
+                            "video_low_res": {
+                                "url": "1461895850467917836_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "1463218893085736970.jpg",
+                                "caption": "1461904294348460191.vtt"
+                            },
+                            "video_hls": {
+                                "url": "1461895850467917836.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "1463218893085736970.jpg",
+                                "caption": "1461904294348460191.vtt"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "Fallout Franchise",
+                            "video_end_cta_title": "",
+                            "video_end_cta_subtitle": ""
+                        }
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 29,
+                        "assets": {
+                            "video": {
+                                "url": "1462112277305229610_1080.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "1463218567003508886.jpg",
+                                "caption": "1461904294348460191.vtt"
+                            },
+                            "video_low_res": {
+                                "url": "1462112277305229610_720.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "1463218567003508886.jpg",
+                                "caption": "1461904294348460191.vtt"
+                            },
+                            "video_hls": {
+                                "url": "1462112277305229610.m3u8",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "1463218567003508886.jpg",
+                                "caption": "1461904294348460191.vtt"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "Fallout Franchise",
+                            "video_end_cta_title": "",
+                            "video_end_cta_subtitle": ""
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 Orbs",
+                            "name_with_article": "700 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 700
+                    }
+                ],
+                "rewards_expire_at": "2026-02-24T00:00:17+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "video_metadata": {
+                "messages": {
+                    "video_title": "Fallout Franchise",
+                    "video_end_cta_title": "",
+                    "video_end_cta_button_label": "Play Now"
+                },
+                "assets": {
+                    "video_player_video_hls": "1461895850467917836.m3u8",
+                    "video_player_video": "1461895850467917836_1080.mp4",
+                    "video_player_thumbnail": "1463218893085736970.jpg",
+                    "video_player_video_low_res": "1461895850467917836_720.mp4",
+                    "video_player_caption": "1461904294348460191.vtt",
+                    "video_player_transcript": null,
+                    "quest_bar_preview_video": null,
+                    "quest_bar_preview_thumbnail": null,
+                    "quest_home_video": null
+                }
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://fallout.bethesda.net/en/fallout-franchise",
+                "button_label": "Play Now"
+            }
+        }
     }
 ]
