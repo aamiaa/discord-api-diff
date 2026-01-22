@@ -44707,19 +44707,19 @@
                         "target": 29,
                         "assets": {
                             "video": {
-                                "url": "quests/1458153385391030302/1459230599381254185_1080.mp4",
+                                "url": "quests/1458153385391030302/1463698933728677962_1080.mp4",
                                 "width": 1920,
                                 "height": 1080,
                                 "thumbnail": "quests/1458153385391030302/1459230705857986611.png"
                             },
                             "video_low_res": {
-                                "url": "quests/1458153385391030302/1459230599381254185_720.mp4",
+                                "url": "quests/1458153385391030302/1463698933728677962_720.mp4",
                                 "width": 1920,
                                 "height": 1080,
                                 "thumbnail": "quests/1458153385391030302/1459230705857986611.png"
                             },
                             "video_hls": {
-                                "url": "quests/1458153385391030302/1459230599381254185.m3u8",
+                                "url": "quests/1458153385391030302/1463698933728677962.m3u8",
                                 "width": 1920,
                                 "height": 1080,
                                 "thumbnail": "quests/1458153385391030302/1459230705857986611.png"
@@ -44787,10 +44787,10 @@
                     "video_end_cta_button_label": "Watch Now"
                 },
                 "assets": {
-                    "video_player_video_hls": "quests/1458153385391030302/1459230599381254185.m3u8",
-                    "video_player_video": "quests/1458153385391030302/1459230599381254185_1080.mp4",
+                    "video_player_video_hls": "quests/1458153385391030302/1463698933728677962.m3u8",
+                    "video_player_video": "quests/1458153385391030302/1463698933728677962_1080.mp4",
                     "video_player_thumbnail": "quests/1458153385391030302/1459230705857986611.png",
-                    "video_player_video_low_res": "quests/1458153385391030302/1459230599381254185_720.mp4",
+                    "video_player_video_low_res": "quests/1458153385391030302/1463698933728677962_720.mp4",
                     "video_player_caption": null,
                     "video_player_transcript": null,
                     "quest_bar_preview_video": null,
@@ -46427,6 +46427,447 @@
             "share_policy": "shareable_everywhere",
             "cta_config": {
                 "link": "https://fallout.bethesda.net/en/fallout-franchise",
+                "button_label": "Play Now"
+            }
+        }
+    },
+    {
+        "id": "1463352869154717839",
+        "config": {
+            "id": "1463352869154717839",
+            "config_version": 2,
+            "starts_at": "2026-01-22T18:00:20+00:00",
+            "expires_at": "2026-02-01T00:16:20+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://store.steampowered.com/app/3564740/480?utm_source=DiscordOrbs",
+                "id": "1437509662303059998",
+                "name": "Where Winds Meet"
+            },
+            "assets": {
+                "hero": "quests/1463352869154717839/1463353249288683717.jpg",
+                "hero_video": "quests/1463352869154717839/1463353315260633098.mp4",
+                "quest_bar_hero": "quests/1463352869154717839/1463353111442755584.jpg",
+                "quest_bar_hero_video": "quests/1463352869154717839/1463353174504112229.mp4",
+                "game_tile": "1463352077450346650.png",
+                "logotype": "1463352076271878216.png",
+                "game_tile_light": "quests/1463326315695575060/1463351921065853019.png",
+                "game_tile_dark": "quests/1463326315695575060/1463351921065853019.png",
+                "logotype_light": "quests/1463326315695575060/1463351867462651904.png",
+                "logotype_dark": "quests/1463326315695575060/1463351867462651904.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Where Winds Meet Goose Thug",
+                "game_title": "Where Winds Meet",
+                "game_publisher": "NETEASE"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "event_name": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "external_ids": []
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "event_name": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "external_ids": [
+                            "PPSA23355_00",
+                            "PPSA29394_00"
+                        ]
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1437509662303059998"
+                            }
+                        ]
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "type": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1437509662303059998"
+                            }
+                        ],
+                        "external_ids": [
+                            "PPSA23355_00",
+                            "PPSA29394_00"
+                        ]
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 3,
+                        "sku_id": "1463335193636245652",
+                        "asset": "quests/1463326315695575060/1463335542191165613.mp4",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "Goose Thug",
+                            "name_with_article": "a Goose Thug",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "expires_at": "2026-04-02T07:00:00+00:00",
+                        "expires_at_premium": null,
+                        "expiration_mode": 3
+                    }
+                ],
+                "rewards_expire_at": "2026-03-03T00:16:20+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://store.steampowered.com/app/3564740/480?utm_source=DiscordOrbs",
+                "button_label": "Play Now"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false,
+        "traffic_metadata_raw": "EAE=",
+        "traffic_metadata_sealed": "EAE="
+    },
+    {
+        "id": "1461811893827010745",
+        "config": {
+            "id": "1461811893827010745",
+            "config_version": 2,
+            "starts_at": "2026-01-22T18:00:34+00:00",
+            "expires_at": "2026-01-30T00:00:34+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://store.steampowered.com/app/2139460?utm_source=discord",
+                "id": "1260340082150346932",
+                "name": "Once Human"
+            },
+            "assets": {
+                "hero": "quests/1461811893827010745/1463618097830432990.jpg",
+                "hero_video": "quests/1461811893827010745/1463618171323023471.mp4",
+                "quest_bar_hero": "quests/1461811893827010745/1463617905815191774.jpg",
+                "quest_bar_hero_video": "quests/1461811893827010745/1463618000530706442.mp4",
+                "game_tile": "1461814041747001416.png",
+                "logotype": "1461817365749694474.png",
+                "game_tile_light": "quests/1461811893827010745/1461814025850716305.png",
+                "game_tile_dark": "quests/1461811893827010745/1461814025850716305.png",
+                "logotype_light": "quests/1461811893827010745/1461813597024944403.png",
+                "logotype_dark": "quests/1461811893827010745/1461813623843323967.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Aberrant Progeny",
+                "game_title": "Once Human",
+                "game_publisher": "Netease"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "event_name": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "external_ids": []
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1260340082150346932"
+                            }
+                        ]
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 Orbs",
+                            "name_with_article": "700 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 700
+                    }
+                ],
+                "rewards_expire_at": "2026-03-01T00:00:34+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://store.steampowered.com/app/2139460?utm_source=discord",
+                "button_label": "Get Game"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false,
+        "traffic_metadata_raw": "EAE=",
+        "traffic_metadata_sealed": "EAE="
+    },
+    {
+        "id": "1463326315695575060",
+        "config": {
+            "id": "1463326315695575060",
+            "config_version": 2,
+            "starts_at": "2026-01-22T18:00:20+00:00",
+            "expires_at": "2026-02-01T00:16:20+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://store.steampowered.com/app/3564740/480?utm_source=DiscordOrbs",
+                "id": "1437509662303059998",
+                "name": "Where Winds Meet"
+            },
+            "assets": {
+                "hero": "1463351735920885834.jpg",
+                "hero_video": "1463351795706499144.mp4",
+                "quest_bar_hero": "1463351603141677067.jpg",
+                "quest_bar_hero_video": "1463351667113332828.mp4",
+                "game_tile": "1463352077450346650.png",
+                "logotype": "1463352076271878216.png",
+                "game_tile_light": "1463351921065853019.png",
+                "game_tile_dark": "1463351921065853019.png",
+                "logotype_light": "1463351867462651904.png",
+                "logotype_dark": "1463351867462651904.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Where Winds Meet Goose Thug",
+                "game_title": "Where Winds Meet",
+                "game_publisher": "NETEASE"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "event_name": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "external_ids": []
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "event_name": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "external_ids": [
+                            "PPSA23355_00",
+                            "PPSA29394_00"
+                        ]
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1437509662303059998"
+                            }
+                        ]
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "type": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1437509662303059998"
+                            }
+                        ],
+                        "external_ids": [
+                            "PPSA23355_00",
+                            "PPSA29394_00"
+                        ]
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 3,
+                        "sku_id": "1463335193636245652",
+                        "asset": "1463335542191165613.mp4",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "Goose Thug",
+                            "name_with_article": "a Goose Thug",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "expires_at": "2026-04-02T07:00:00+00:00",
+                        "expires_at_premium": null,
+                        "expiration_mode": 3
+                    }
+                ],
+                "rewards_expire_at": "2026-03-03T00:16:20+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://store.steampowered.com/app/3564740/480?utm_source=DiscordOrbs",
+                "button_label": "Play Now"
+            }
+        }
+    },
+    {
+        "id": "1463353755616673915",
+        "config": {
+            "id": "1463353755616673915",
+            "config_version": 2,
+            "starts_at": "2026-01-22T18:00:20+00:00",
+            "expires_at": "2026-02-01T00:16:20+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://store.steampowered.com/app/3564740/480?utm_source=DiscordOrbs",
+                "id": "1437509662303059998",
+                "name": "Where Winds Meet"
+            },
+            "assets": {
+                "hero": "1463354072143757600.jpg",
+                "hero_video": "1463354176120684638.mp4",
+                "quest_bar_hero": "1463353948546269226.jpg",
+                "quest_bar_hero_video": "1463354018159005706.mp4",
+                "game_tile": "1463352077450346650.png",
+                "logotype": "1463352076271878216.png",
+                "game_tile_light": "1463351921065853019.png",
+                "game_tile_dark": "1463351921065853019.png",
+                "logotype_light": "1463351867462651904.png",
+                "logotype_dark": "1463351867462651904.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Where Winds Meet Goose Thug",
+                "game_title": "Where Winds Meet",
+                "game_publisher": "NETEASE"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "event_name": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "external_ids": []
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "event_name": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "external_ids": [
+                            "PPSA23355_00",
+                            "PPSA29394_00"
+                        ]
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1437509662303059998"
+                            }
+                        ]
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "type": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1437509662303059998"
+                            }
+                        ],
+                        "external_ids": [
+                            "PPSA23355_00",
+                            "PPSA29394_00"
+                        ]
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 3,
+                        "sku_id": "1463335193636245652",
+                        "asset": "1463335542191165613.mp4",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "Goose Thug",
+                            "name_with_article": "a Goose Thug",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "expires_at": "2026-04-02T07:00:00+00:00",
+                        "expires_at_premium": null,
+                        "expiration_mode": 3
+                    }
+                ],
+                "rewards_expire_at": "2026-03-03T00:16:20+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://store.steampowered.com/app/3564740/480?utm_source=DiscordOrbs",
                 "button_label": "Play Now"
             }
         }
