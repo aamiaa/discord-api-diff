@@ -45976,16 +45976,16 @@
                 "name": "Discord"
             },
             "assets": {
-                "hero": "quests/1461494895163478208/1461496976465199125.jpg",
+                "hero": "quests/1461494895163478208/1464403269693603957.jpg",
                 "hero_video": null,
-                "quest_bar_hero": "quests/1461494895163478208/1461496912753594542.jpg",
-                "quest_bar_hero_video": "quests/1461494895163478208/1461496641629720728.mp4",
-                "game_tile": "1461497118043930676.png",
-                "logotype": "1461497116869267671.png",
-                "game_tile_light": "quests/1461494895163478208/1461497096522829935.png",
-                "game_tile_dark": "quests/1461494895163478208/1461497096522829935.png",
-                "logotype_light": "quests/1461494895163478208/1461497046493302835.png",
-                "logotype_dark": "quests/1461494895163478208/1461497046493302835.png"
+                "quest_bar_hero": "quests/1461494895163478208/1464403084511019206.jpg",
+                "quest_bar_hero_video": "quests/1461494895163478208/1464402774195306659.mp4",
+                "game_tile": "1464841236786577595.png",
+                "logotype": "1464841235717161134.png",
+                "game_tile_light": "quests/1461494895163478208/1464403358818505009.png",
+                "game_tile_dark": "quests/1461494895163478208/1464403358818505009.png",
+                "logotype_light": "quests/1461494895163478208/1464403454951686426.png",
+                "logotype_dark": "quests/1461494895163478208/1464403454951686426.png"
             },
             "colors": {
                 "primary": "#4752C4",
@@ -45993,7 +45993,7 @@
             },
             "messages": {
                 "quest_name": "UFC",
-                "game_title": "Stream UFC 324 on Paramount+",
+                "game_title": "Stream UFC 325 on Paramount+",
                 "game_publisher": "Paramount+"
             },
             "task_config": {
@@ -46007,7 +46007,7 @@
                     },
                     "WATCH_VIDEO_ON_MOBILE": {
                         "event_name": "WATCH_VIDEO_ON_MOBILE",
-                        "target": 29,
+                        "target": 14,
                         "external_ids": []
                     }
                 }
@@ -46019,22 +46019,22 @@
                         "target": 29,
                         "assets": {
                             "video": {
-                                "url": "quests/1461494895163478208/1463252726963241022_1080.mp4",
+                                "url": "quests/1461494895163478208/1464403800616865914_1080.mp4",
                                 "width": 1920,
                                 "height": 1080,
-                                "thumbnail": "quests/1461494895163478208/1463308983321497670.png"
+                                "thumbnail": "quests/1461494895163478208/1464403650842726500.jpg"
                             },
                             "video_low_res": {
-                                "url": "quests/1461494895163478208/1463252726963241022_720.mp4",
+                                "url": "quests/1461494895163478208/1464403800616865914_720.mp4",
                                 "width": 1920,
                                 "height": 1080,
-                                "thumbnail": "quests/1461494895163478208/1463308983321497670.png"
+                                "thumbnail": "quests/1461494895163478208/1464403650842726500.jpg"
                             },
                             "video_hls": {
-                                "url": "quests/1461494895163478208/1463252726963241022.m3u8",
+                                "url": "quests/1461494895163478208/1464403800616865914.m3u8",
                                 "width": 1920,
                                 "height": 1080,
-                                "thumbnail": "quests/1461494895163478208/1463308983321497670.png"
+                                "thumbnail": "quests/1461494895163478208/1464403650842726500.jpg"
                             }
                         },
                         "messages": {
@@ -46045,25 +46045,25 @@
                     },
                     "WATCH_VIDEO_ON_MOBILE": {
                         "type": "WATCH_VIDEO_ON_MOBILE",
-                        "target": 29,
+                        "target": 14,
                         "assets": {
                             "video": {
-                                "url": "quests/1461494895163478208/1463263873447624714_1080.mp4",
+                                "url": "quests/1461494895163478208/1464404581625630722_1080.mp4",
                                 "width": 1080,
                                 "height": 1920,
-                                "thumbnail": "quests/1461494895163478208/1463308983321497670.png"
+                                "thumbnail": "quests/1461494895163478208/1464403650842726500.jpg"
                             },
                             "video_low_res": {
-                                "url": "quests/1461494895163478208/1463263873447624714_720.mp4",
+                                "url": "quests/1461494895163478208/1464404581625630722_720.mp4",
                                 "width": 1080,
                                 "height": 1920,
-                                "thumbnail": "quests/1461494895163478208/1463308983321497670.png"
+                                "thumbnail": "quests/1461494895163478208/1464403650842726500.jpg"
                             },
                             "video_hls": {
-                                "url": "quests/1461494895163478208/1463263873447624714.m3u8",
+                                "url": "quests/1461494895163478208/1464404581625630722.m3u8",
                                 "width": 1080,
                                 "height": 1920,
-                                "thumbnail": "quests/1461494895163478208/1463308983321497670.png"
+                                "thumbnail": "quests/1461494895163478208/1464403650842726500.jpg"
                             }
                         },
                         "messages": {
@@ -46100,14 +46100,14 @@
                 "messages": {
                     "video_title": "UFC Video",
                     "video_end_cta_title": "",
-                    "video_end_cta_subtitle": "Stream UFC 324 on Paramount+",
+                    "video_end_cta_subtitle": "Stream UFC 325 on Paramount+",
                     "video_end_cta_button_label": "Learn More"
                 },
                 "assets": {
-                    "video_player_video_hls": "quests/1461494895163478208/1463252726963241022.m3u8",
-                    "video_player_video": "quests/1461494895163478208/1463252726963241022_1080.mp4",
-                    "video_player_thumbnail": "quests/1461494895163478208/1463308983321497670.png",
-                    "video_player_video_low_res": "quests/1461494895163478208/1463252726963241022_720.mp4",
+                    "video_player_video_hls": "quests/1461494895163478208/1464403800616865914.m3u8",
+                    "video_player_video": "quests/1461494895163478208/1464403800616865914_1080.mp4",
+                    "video_player_thumbnail": "quests/1461494895163478208/1464403650842726500.jpg",
+                    "video_player_video_low_res": "quests/1461494895163478208/1464403800616865914_720.mp4",
                     "video_player_caption": null,
                     "video_player_transcript": null,
                     "quest_bar_preview_video": null,
@@ -46119,7 +46119,7 @@
             "cta_config": {
                 "link": "https://www.paramountplus.com/?cbscidmt=ufc",
                 "button_label": "Learn More",
-                "subtitle": "Stream UFC 324 on Paramount+"
+                "subtitle": "Stream UFC 325 on Paramount+"
             }
         },
         "user_status": null,
