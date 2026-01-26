@@ -46984,5 +46984,256 @@
         "preview": false,
         "traffic_metadata_raw": "EAE=",
         "traffic_metadata_sealed": "EAE="
+    },
+    {
+        "id": "1463241596832059402",
+        "config": {
+            "id": "1463241596832059402",
+            "config_version": 2,
+            "starts_at": "2026-01-26T18:00:42+00:00",
+            "expires_at": "2026-02-02T00:00:42+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://playhighguard.com/",
+                "id": "1464362520692129866",
+                "name": "Highguard"
+            },
+            "assets": {
+                "hero": "quests/1463241596832059402/1463242540911296719.jpg",
+                "hero_video": null,
+                "quest_bar_hero": "quests/1463241596832059402/1463242467062186047.jpg",
+                "quest_bar_hero_video": null,
+                "game_tile": "1463243081863139338.png",
+                "logotype": "1463243080688861382.png",
+                "game_tile_light": "quests/1463241596832059402/1463242706787500144.png",
+                "game_tile_dark": "quests/1463241596832059402/1463242706787500144.png",
+                "logotype_light": "quests/1463241596832059402/1463242601393291477.png",
+                "logotype_dark": "quests/1463241596832059402/1463242660545433715.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Highguard Launch",
+                "game_title": "Highguard",
+                "game_publisher": "Wildlight Entertainment"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "event_name": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "external_ids": []
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "event_name": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "external_ids": [
+                            "PPSA25022_00"
+                        ]
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1464362520692129866"
+                            }
+                        ]
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "type": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1464362520692129866"
+                            }
+                        ],
+                        "external_ids": [
+                            "PPSA25022_00"
+                        ]
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 Orbs",
+                            "name_with_article": "700 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 700
+                    }
+                ],
+                "rewards_expire_at": "2026-03-04T00:00:42+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://playhighguard.com/",
+                "button_label": "Play Now"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false,
+        "traffic_metadata_raw": "EAE=",
+        "traffic_metadata_sealed": "EAE="
+    },
+    {
+        "id": "1463669314979758144",
+        "config": {
+            "id": "1463669314979758144",
+            "config_version": 2,
+            "starts_at": "2026-01-26T18:00:18+00:00",
+            "expires_at": "2026-02-09T00:00:18+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://www.tiltingpoint.com/games/avatar",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1463669314979758144/1464062144625770548.jpg",
+                "hero_video": null,
+                "quest_bar_hero": "quests/1463669314979758144/1464062063382102066.jpg",
+                "quest_bar_hero_video": "quests/1463669314979758144/1464061714885644430.mp4",
+                "game_tile": "1464062352130441227.png",
+                "logotype": "1464062296710971565.png",
+                "game_tile_light": "quests/1463669314979758144/1464062336892670035.png",
+                "game_tile_dark": "quests/1463669314979758144/1464062336892670035.png",
+                "logotype_light": "quests/1463669314979758144/1464062207368106025.png",
+                "logotype_dark": "quests/1463669314979758144/1464062270270345236.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Build Your Nation",
+                "game_title": "Avatar Legends: Realms Collide",
+                "game_publisher": "Tilting Point"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "event_name": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 119,
+                        "external_ids": []
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 119,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1463669314979758144/1464298776641536021_1080.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1463669314979758144/1464063526858657869.png"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1463669314979758144/1464298776641536021_720.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1463669314979758144/1464063526858657869.png"
+                            },
+                            "video_hls": {
+                                "url": "quests/1463669314979758144/1464298776641536021.m3u8",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1463669314979758144/1464063526858657869.png"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "Avatar Legends: Realms Collide",
+                            "video_end_cta_title": "",
+                            "video_end_cta_subtitle": ""
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 Orbs",
+                            "name_with_article": "700 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 700
+                    }
+                ],
+                "rewards_expire_at": "2026-03-11T00:00:18+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "video_metadata": {
+                "messages": {
+                    "video_title": "Avatar Legends: Realms Collide",
+                    "video_end_cta_title": "",
+                    "video_end_cta_button_label": "Play Now"
+                },
+                "assets": {
+                    "video_player_video_hls": "quests/1463669314979758144/1464298776641536021.m3u8",
+                    "video_player_video": "quests/1463669314979758144/1464298776641536021_1080.mp4",
+                    "video_player_thumbnail": "quests/1463669314979758144/1464063526858657869.png",
+                    "video_player_video_low_res": "quests/1463669314979758144/1464298776641536021_720.mp4",
+                    "video_player_caption": null,
+                    "video_player_transcript": null,
+                    "quest_bar_preview_video": null,
+                    "quest_bar_preview_thumbnail": null,
+                    "quest_home_video": null
+                }
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "android": {
+                    "android_app_id": "com.angames.android.google.avatarbendingtheworld"
+                },
+                "ios": {
+                    "ios_app_id": "6479603752"
+                },
+                "link": "https://www.tiltingpoint.com/games/avatar",
+                "button_label": "Play Now"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false,
+        "traffic_metadata_raw": "EAE=",
+        "traffic_metadata_sealed": "EAE="
     }
 ]
