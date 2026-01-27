@@ -47030,6 +47030,13 @@
                         "target": 900,
                         "external_ids": []
                     },
+                    "PLAY_ON_XBOX": {
+                        "event_name": "PLAY_ON_XBOX",
+                        "target": 900,
+                        "external_ids": [
+                            "1946353878"
+                        ]
+                    },
                     "PLAY_ON_PLAYSTATION": {
                         "event_name": "PLAY_ON_PLAYSTATION",
                         "target": 900,
@@ -47048,6 +47055,18 @@
                             {
                                 "id": "1464362520692129866"
                             }
+                        ]
+                    },
+                    "PLAY_ON_XBOX": {
+                        "type": "PLAY_ON_XBOX",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1464362520692129866"
+                            }
+                        ],
+                        "external_ids": [
+                            "1946353878"
                         ]
                     },
                     "PLAY_ON_PLAYSTATION": {
