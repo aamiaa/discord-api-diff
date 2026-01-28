@@ -45966,7 +45966,7 @@
             "id": "1461494895163478208",
             "config_version": 2,
             "starts_at": "2026-01-20T22:10:56+00:00",
-            "expires_at": "2026-02-01T00:00:56+00:00",
+            "expires_at": "2026-02-01T05:00:56+00:00",
             "features": [
                 15
             ],
@@ -46091,7 +46091,7 @@
                         "orb_quantity": 700
                     }
                 ],
-                "rewards_expire_at": "2026-03-03T00:00:56+00:00",
+                "rewards_expire_at": "2026-03-03T05:00:56+00:00",
                 "platforms": [
                     0
                 ]
@@ -47443,5 +47443,174 @@
         "preview": false,
         "traffic_metadata_raw": "EAE=",
         "traffic_metadata_sealed": "EAE="
+    },
+    {
+        "id": "1464020497141334119",
+        "config": {
+            "id": "1464020497141334119",
+            "config_version": 2,
+            "starts_at": "2026-01-28T18:00:46+00:00",
+            "expires_at": "2026-02-02T00:00:46+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://fallout.bethesda.net/en/games/fallout-4",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "1464029238817456365.jpg",
+                "hero_video": "1465795388718973160.mp4",
+                "quest_bar_hero": "1464029142482681961.jpg",
+                "quest_bar_hero_video": "1465795388718973160.mp4",
+                "game_tile": "1464029662135980135.png",
+                "logotype": "1464295622386651156.png",
+                "game_tile_light": "1464029398603792384.png",
+                "game_tile_dark": "1464029398603792384.png",
+                "logotype_light": "1464295601129652385.png",
+                "logotype_dark": "1464295601129652385.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Fallout 4 Anniversary Edition",
+                "game_title": "Fallout 4",
+                "game_publisher": "Bethesda Softworks"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "event_name": "WATCH_VIDEO",
+                        "target": 29,
+                        "external_ids": []
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "event_name": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 29,
+                        "external_ids": []
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 29,
+                        "assets": {
+                            "video": {
+                                "url": "1464030945912033340_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "1465429821940039824.png",
+                                "caption": "1464034849701625857.vtt"
+                            },
+                            "video_low_res": {
+                                "url": "1464030945912033340_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "1465429821940039824.png",
+                                "caption": "1464034849701625857.vtt"
+                            },
+                            "video_hls": {
+                                "url": "1464030945912033340.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "1465429821940039824.png",
+                                "caption": "1464034849701625857.vtt"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "Fallout 4 Anniversary Edition",
+                            "video_end_cta_title": "",
+                            "video_end_cta_subtitle": ""
+                        }
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 29,
+                        "assets": {
+                            "video": {
+                                "url": "1464296332910002407_1080.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "1465429821940039824.png",
+                                "caption": "1464034849701625857.vtt"
+                            },
+                            "video_low_res": {
+                                "url": "1464296332910002407_720.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "1465429821940039824.png",
+                                "caption": "1464034849701625857.vtt"
+                            },
+                            "video_hls": {
+                                "url": "1464296332910002407.m3u8",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "1465429821940039824.png",
+                                "caption": "1464034849701625857.vtt"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "Fallout 4 Anniversary Edition",
+                            "video_end_cta_title": "",
+                            "video_end_cta_subtitle": ""
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 Orbs",
+                            "name_with_article": "700 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 700
+                    }
+                ],
+                "rewards_expire_at": "2026-03-04T00:00:46+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "video_metadata": {
+                "messages": {
+                    "video_title": "Fallout 4 Anniversary Edition",
+                    "video_end_cta_title": "",
+                    "video_end_cta_subtitle": "Play Fallout 4 Now",
+                    "video_end_cta_button_label": "Play Game"
+                },
+                "assets": {
+                    "video_player_video_hls": "1464030945912033340.m3u8",
+                    "video_player_video": "1464030945912033340_1080.mp4",
+                    "video_player_thumbnail": "1465429821940039824.png",
+                    "video_player_video_low_res": "1464030945912033340_720.mp4",
+                    "video_player_caption": "1464034849701625857.vtt",
+                    "video_player_transcript": null,
+                    "quest_bar_preview_video": null,
+                    "quest_bar_preview_thumbnail": null,
+                    "quest_home_video": null
+                }
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://fallout.bethesda.net/en/games/fallout-4",
+                "button_label": "Play Game",
+                "subtitle": "Play Fallout 4 Now"
+            }
+        }
     }
 ]
