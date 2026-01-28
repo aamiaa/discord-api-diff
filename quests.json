@@ -47271,6 +47271,98 @@
                 "name": "World of Warcraft"
             },
             "assets": {
+                "hero": "1463243024791245003.jpg",
+                "hero_video": null,
+                "quest_bar_hero": "1463242786387005452.jpg",
+                "quest_bar_hero_video": null,
+                "game_tile": "1463243169444532310.png",
+                "logotype": "1463243168479707292.png",
+                "game_tile_light": "1463243145700442123.png",
+                "game_tile_dark": "1463243145700442123.png",
+                "logotype_light": "1463243089366749297.png",
+                "logotype_dark": "1463243123495932118.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "World of Warcraft: Housing",
+                "game_title": "World of Warcraft: Midnight",
+                "game_publisher": "Blizzard Entertainment"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "event_name": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "external_ids": []
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "356875762940379136"
+                            }
+                        ]
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 1,
+                        "sku_id": "1463239382046609552",
+                        "asset": "1463257860027711529.png",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "Portable Bakery Backpiece",
+                            "name_with_article": "a Portable Bakery Backpiece",
+                            "redemption_instructions_by_platform": {
+                                "0": "Login to the Battle.net Desktop App  \nClick your profile icon at the top right corner of the App  \nClick Redeem Code  "
+                            }
+                        },
+                        "approximate_count": null,
+                        "redemption_link": null
+                    }
+                ],
+                "rewards_expire_at": "2026-03-05T00:00:54+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://shop.battle.net/product/world-of-warcraft-midnight?utm_source=Discord&utm_medium=PaidGGM",
+                "button_label": "Get Game"
+            }
+        }
+    },
+    {
+        "id": "1466126873959465204",
+        "config": {
+            "id": "1466126873959465204",
+            "config_version": 2,
+            "starts_at": "2026-01-27T19:10:54+00:00",
+            "expires_at": "2026-02-03T00:00:54+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://shop.battle.net/product/world-of-warcraft-midnight?utm_source=Discord&utm_medium=PaidGGM",
+                "id": "356875762940379136",
+                "name": "World of Warcraft"
+            },
+            "assets": {
                 "hero": "quests/1463239382046609551/1463243024791245003.jpg",
                 "hero_video": null,
                 "quest_bar_hero": "quests/1463239382046609551/1463242786387005452.jpg",
