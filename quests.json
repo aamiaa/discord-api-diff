@@ -46473,7 +46473,7 @@
             "id": "1463352869154717839",
             "config_version": 2,
             "starts_at": "2026-01-22T18:00:20+00:00",
-            "expires_at": "2026-02-01T00:16:20+00:00",
+            "expires_at": "2026-02-01T07:59:20+00:00",
             "features": [
                 15
             ],
@@ -46570,7 +46570,7 @@
                         "expiration_mode": 3
                     }
                 ],
-                "rewards_expire_at": "2026-03-03T00:16:20+00:00",
+                "rewards_expire_at": "2026-03-03T07:59:20+00:00",
                 "platforms": [
                     0
                 ]
@@ -46688,7 +46688,7 @@
             "id": "1463326315695575060",
             "config_version": 2,
             "starts_at": "2026-01-22T18:00:20+00:00",
-            "expires_at": "2026-02-01T00:16:20+00:00",
+            "expires_at": "2026-02-01T07:59:20+00:00",
             "features": [
                 15
             ],
@@ -46732,8 +46732,8 @@
                         "event_name": "PLAY_ON_PLAYSTATION",
                         "target": 900,
                         "external_ids": [
-                            "PPSA23355_00",
-                            "PPSA29394_00"
+                            "PPSA29394_00",
+                            "PPSA23355_00"
                         ]
                     }
                 }
@@ -46758,8 +46758,8 @@
                             }
                         ],
                         "external_ids": [
-                            "PPSA23355_00",
-                            "PPSA29394_00"
+                            "PPSA29394_00",
+                            "PPSA23355_00"
                         ]
                     }
                 },
@@ -46785,7 +46785,7 @@
                         "expiration_mode": 3
                     }
                 ],
-                "rewards_expire_at": "2026-03-03T00:16:20+00:00",
+                "rewards_expire_at": "2026-03-03T07:59:20+00:00",
                 "platforms": [
                     0
                 ]
@@ -46803,7 +46803,7 @@
             "id": "1463353755616673915",
             "config_version": 2,
             "starts_at": "2026-01-22T18:00:20+00:00",
-            "expires_at": "2026-02-01T00:16:20+00:00",
+            "expires_at": "2026-02-01T07:59:20+00:00",
             "features": [
                 15
             ],
@@ -46900,7 +46900,7 @@
                         "expiration_mode": 3
                     }
                 ],
-                "rewards_expire_at": "2026-03-03T00:16:20+00:00",
+                "rewards_expire_at": "2026-03-03T07:59:20+00:00",
                 "platforms": [
                     0
                 ]
@@ -47847,5 +47847,100 @@
                 "button_label": "Get Game"
             }
         }
+    },
+    {
+        "id": "1465809392279748904",
+        "config": {
+            "id": "1465809392279748904",
+            "config_version": 2,
+            "starts_at": "2026-01-30T18:00:12+00:00",
+            "expires_at": "2026-02-09T00:00:12+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://engagements.appsflyer.com/v1.0/c2s/click/app/steam/2426960?af_media_source=Discord-web&af_campaign_id=2601300001&af_campaign=HQ_SW_BRD_US_LOTR_Discoed_STEAM_260130&af_adset=none&af_r=https%3A%2F%2Fstore.steampowered.com%2Fapp%2F2426960%2F%3Futm_source%3DDiscord-web%26utm_medium%3Dbranding%26utm_campaign%3DHQ_SW_BRD_US_LOTR_Discoed_STEAM_260130%26utm_content%3Dnone",
+                "id": "1193947242319581376",
+                "name": "Summoners War"
+            },
+            "assets": {
+                "hero": "quests/1465809392279748904/1465820933200679144.jpg",
+                "hero_video": null,
+                "quest_bar_hero_blurhash": null,
+                "quest_bar_hero": "quests/1465809392279748904/1465820887193489762.jpg",
+                "quest_bar_hero_video": null,
+                "game_tile": "1465821027857862698.png",
+                "logotype": "1465821026792374454.png",
+                "game_tile_light": "quests/1465809392279748904/1465821011093098667.png",
+                "game_tile_dark": "quests/1465809392279748904/1465821011093098667.png",
+                "logotype_light": "quests/1465809392279748904/1465820972757155911.png",
+                "logotype_dark": "quests/1465809392279748904/1465820972757155911.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Summoners War x The LOTR",
+                "game_title": "Summoners War x The LOTR",
+                "game_publisher": "Com2uS"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "event_name": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "external_ids": []
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1193947242319581376"
+                            }
+                        ]
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 Orbs",
+                            "name_with_article": "700 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 700
+                    }
+                ],
+                "rewards_expire_at": "2026-03-11T00:00:12+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://engagements.appsflyer.com/v1.0/c2s/click/app/steam/2426960?af_media_source=Discord-web&af_campaign_id=2601300001&af_campaign=HQ_SW_BRD_US_LOTR_Discoed_STEAM_260130&af_adset=none&af_r=https%3A%2F%2Fstore.steampowered.com%2Fapp%2F2426960%2F%3Futm_source%3DDiscord-web%26utm_medium%3Dbranding%26utm_campaign%3DHQ_SW_BRD_US_LOTR_Discoed_STEAM_260130%26utm_content%3Dnone",
+                "button_label": "Play Now"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false,
+        "traffic_metadata_raw": "EAE=",
+        "traffic_metadata_sealed": "EAE="
     }
 ]
