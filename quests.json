@@ -48172,5 +48172,148 @@
         "preview": false,
         "traffic_metadata_raw": "EAE=",
         "traffic_metadata_sealed": "EAE="
+    },
+    {
+        "id": "1466166994582769725",
+        "config": {
+            "id": "1466166994582769725",
+            "config_version": 2,
+            "starts_at": "2026-02-03T18:00:11+00:00",
+            "expires_at": "2026-02-17T00:00:11+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://store.steampowered.com/app/2507950?utm_source=discordquest",
+                "id": "1314682894106497096",
+                "name": "Delta Force"
+            },
+            "assets": {
+                "hero": "quests/1466166994582769725/1467005449046986864.jpg",
+                "hero_video": "quests/1466166994582769725/1466973638501597486.mp4",
+                "quest_bar_hero_blurhash": "FRgKE4R/VUdpdVZUmHB3CIc=",
+                "quest_bar_hero": "quests/1466166994582769725/1466973519631093820.jpg",
+                "quest_bar_hero_video": "quests/1466166994582769725/1466973638501597486.mp4",
+                "game_tile": "1466974052513218704.png",
+                "logotype": "1467920655059128412.png",
+                "game_tile_light": "quests/1466166994582769725/1466973820312092733.png",
+                "game_tile_dark": "quests/1466166994582769725/1466973820312092733.png",
+                "logotype_light": "quests/1466166994582769725/1466973760220434696.png",
+                "logotype_dark": "quests/1466166994582769725/1467920616379126002.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "New Season \"Morphosis\"",
+                "game_title": "Delta Force",
+                "game_publisher": "Tencent"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "event_name": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "external_ids": []
+                    },
+                    "PLAY_ON_XBOX": {
+                        "event_name": "PLAY_ON_XBOX",
+                        "target": 900,
+                        "external_ids": [
+                            "1854680102",
+                            "1668346801"
+                        ]
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "event_name": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "external_ids": [
+                            "PPSA28882_00",
+                            "PPSA28883_00",
+                            "PPSA28881_00",
+                            "PPSA28884_00",
+                            "PPSA31391_00"
+                        ]
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1314682894106497096"
+                            }
+                        ]
+                    },
+                    "PLAY_ON_XBOX": {
+                        "type": "PLAY_ON_XBOX",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1314682894106497096"
+                            }
+                        ],
+                        "external_ids": [
+                            "1854680102",
+                            "1668346801"
+                        ]
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "type": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1314682894106497096"
+                            }
+                        ],
+                        "external_ids": [
+                            "PPSA28882_00",
+                            "PPSA28883_00",
+                            "PPSA28881_00",
+                            "PPSA28884_00",
+                            "PPSA31391_00"
+                        ]
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 Orbs",
+                            "name_with_article": "700 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 700
+                    }
+                ],
+                "rewards_expire_at": "2026-03-19T00:00:11+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://store.steampowered.com/app/2507950?utm_source=discordquest",
+                "button_label": "Play Game"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false,
+        "traffic_metadata_raw": "EAE=",
+        "traffic_metadata_sealed": "EAE="
     }
 ]
