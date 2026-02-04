@@ -13702,5 +13702,36 @@
                 "randomizedSources": []
             }
         ]
+    },
+    {
+        "type": 1,
+        "id": 1,
+        "sku_id": "1465521972363661449",
+        "title": "Sky Lanterns",
+        "description": "Show this effect when others view your profile.",
+        "accessibilityLabel": "Orange, yellow, and red lanterns floating left to right with watercolor washes.",
+        "animationType": 2,
+        "thumbnailPreviewSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/95a855c86369b09b3c36a6354df056533a3164f2ff96002c5b75cb8e3f858127",
+        "reducedMotionSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/a0e8e053f037c6990b1a824b2a99ed7ed50dea7c95c195f4281944c498acf651",
+        "effects": [
+            {
+                "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/83dc25206206282bded64c527eb695405b6b167531cc1914d41f0b33b69cdb1a",
+                "loop": false,
+                "duration": 5083,
+                "start": 0,
+                "loopDelay": 0,
+                "zIndex": 100,
+                "randomizedSources": []
+            },
+            {
+                "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/96feb225058e63bf9699c60ef0b56801c53b7bc0ef59cf14aa34891c49edc8f2",
+                "loop": true,
+                "duration": 5083,
+                "start": 8083,
+                "loopDelay": 3000,
+                "zIndex": 101,
+                "randomizedSources": []
+            }
+        ]
     }
 ]
