@@ -46592,8 +46592,8 @@
         "config": {
             "id": "1461811893827010745",
             "config_version": 2,
-            "starts_at": "2026-01-22T18:00:34+00:00",
-            "expires_at": "2026-01-30T07:59:34+00:00",
+            "starts_at": "2026-01-22T17:00:34+00:00",
+            "expires_at": "2026-02-08T07:59:34+00:00",
             "features": [
                 15
             ],
@@ -46665,7 +46665,7 @@
                         "orb_quantity": 700
                     }
                 ],
-                "rewards_expire_at": "2026-03-01T07:59:34+00:00",
+                "rewards_expire_at": "2026-03-10T07:59:34+00:00",
                 "platforms": [
                     0
                 ]
@@ -48315,5 +48315,170 @@
         "preview": false,
         "traffic_metadata_raw": "EAE=",
         "traffic_metadata_sealed": "EAE="
+    },
+    {
+        "id": "1466576187043348612",
+        "config": {
+            "id": "1466576187043348612",
+            "config_version": 2,
+            "starts_at": "2026-02-04T18:00:10+00:00",
+            "expires_at": "2026-02-09T00:00:10+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://fallout.bethesda.net/en/fallout-franchise",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "1468315516899692765.jpg",
+                "hero_video": "1468316584350191735.mp4",
+                "quest_bar_hero_blurhash": "E/gJDIAIWGiHeHdweYj1nG8v+w==",
+                "quest_bar_hero": "1468315574210924598.jpg",
+                "quest_bar_hero_video": "1468316584350191735.mp4",
+                "game_tile": "1468315801097470074.png",
+                "logotype": "1468328810956066889.png",
+                "game_tile_light": "1468315783842238598.png",
+                "game_tile_dark": "1468315783842238598.png",
+                "logotype_light": "1468315729181933825.png",
+                "logotype_dark": "1468315655349604655.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Never Leave The Wasteland",
+                "game_title": "Fallout",
+                "game_publisher": "Bethesda Softworks"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "event_name": "WATCH_VIDEO",
+                        "target": 143,
+                        "external_ids": []
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "event_name": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 143,
+                        "external_ids": []
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 143,
+                        "assets": {
+                            "video": {
+                                "url": "1468316909534712021_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "1468318998990159924.jpg",
+                                "caption": "1468327359617962116.vtt"
+                            },
+                            "video_low_res": {
+                                "url": "1468316909534712021_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "1468318998990159924.jpg",
+                                "caption": "1468327359617962116.vtt"
+                            },
+                            "video_hls": {
+                                "url": "1468316909534712021.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "1468318998990159924.jpg",
+                                "caption": "1468327359617962116.vtt"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "Never Leave the Wasteland"
+                        }
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 143,
+                        "assets": {
+                            "video": {
+                                "url": "1468318162490626211_1080.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "1468318998990159924.jpg",
+                                "caption": "1468327359617962116.vtt"
+                            },
+                            "video_low_res": {
+                                "url": "1468318162490626211_720.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "1468318998990159924.jpg",
+                                "caption": "1468327359617962116.vtt"
+                            },
+                            "video_hls": {
+                                "url": "1468318162490626211.m3u8",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "1468318998990159924.jpg",
+                                "caption": "1468327359617962116.vtt"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "Never Leave the Wasteland"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 Orbs",
+                            "name_with_article": "700 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 700
+                    }
+                ],
+                "rewards_expire_at": "2026-03-11T00:00:10+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "video_metadata": {
+                "messages": {
+                    "video_title": "Never Leave the Wasteland",
+                    "video_end_cta_subtitle": "Click here to check it out!",
+                    "video_end_cta_button_label": "Play Now"
+                },
+                "assets": {
+                    "video_player_video_hls": "1468316909534712021.m3u8",
+                    "video_player_video": "1468316909534712021_1080.mp4",
+                    "video_player_thumbnail": "1468318998990159924.jpg",
+                    "video_player_video_low_res": "1468316909534712021_720.mp4",
+                    "video_player_caption": "1468327359617962116.vtt",
+                    "video_player_transcript": null,
+                    "quest_bar_preview_video": null,
+                    "quest_bar_preview_thumbnail": null,
+                    "quest_home_video": null
+                }
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://fallout.bethesda.net/en/fallout-franchise",
+                "button_label": "Play Now",
+                "subtitle": "Click here to check it out!"
+            }
+        }
     }
 ]
