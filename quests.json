@@ -48644,5 +48644,141 @@
         "preview": false,
         "traffic_metadata_raw": "EAE=",
         "traffic_metadata_sealed": "EAE="
+    },
+    {
+        "id": "1468005693570154628",
+        "config": {
+            "id": "1468005693570154628",
+            "config_version": 2,
+            "starts_at": "2026-02-05T18:00:31+00:00",
+            "expires_at": "2026-02-15T00:00:31+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://tacticusgame.com/",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1468005693570154628/1468006656364253185.jpg",
+                "hero_video": "quests/1468005693570154628/1468006720910528703.mp4",
+                "quest_bar_hero_blurhash": "EVcGEoQCRch8PIiGqNB3sKs=",
+                "quest_bar_hero": "quests/1468005693570154628/1468006656364253185.jpg",
+                "quest_bar_hero_video": "quests/1468005693570154628/1468006720910528703.mp4",
+                "game_tile": "1468006977572438017.png",
+                "logotype": "1468006976540901520.png",
+                "game_tile_light": "quests/1468005693570154628/1468006862329872434.png",
+                "game_tile_dark": "quests/1468005693570154628/1468006862329872434.png",
+                "logotype_light": "quests/1468005693570154628/1468006817954005132.png",
+                "logotype_dark": "quests/1468005693570154628/1468006817954005132.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "New Faction: Leagues of Votann",
+                "game_title": "Warhammer 40,000: Tacticus",
+                "game_publisher": "Snowprint Studios"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "event_name": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 63,
+                        "external_ids": []
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 63,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1468005693570154628/1468007159823470613_1080.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1468005693570154628/1468008222102257955.png"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1468005693570154628/1468007159823470613_720.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1468005693570154628/1468008222102257955.png"
+                            },
+                            "video_hls": {
+                                "url": "quests/1468005693570154628/1468007159823470613.m3u8",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1468005693570154628/1468008222102257955.png"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 Orbs",
+                            "name_with_article": "700 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 700
+                    }
+                ],
+                "rewards_expire_at": "2026-03-17T00:00:31+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "video_metadata": {
+                "messages": {
+                    "video_title": "PLACEHOLDER",
+                    "video_end_cta_button_label": "Play Now"
+                },
+                "assets": {
+                    "video_player_video_hls": "quests/1468005693570154628/1468007159823470613.m3u8",
+                    "video_player_video": "quests/1468005693570154628/1468007159823470613_1080.mp4",
+                    "video_player_thumbnail": "quests/1468005693570154628/1468008222102257955.png",
+                    "video_player_video_low_res": "quests/1468005693570154628/1468007159823470613_720.mp4",
+                    "video_player_caption": null,
+                    "video_player_transcript": null,
+                    "quest_bar_preview_video": null,
+                    "quest_bar_preview_thumbnail": null,
+                    "quest_home_video": null
+                }
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "android": {
+                    "android_app_id": "com.snowprintstudios.tacticus"
+                },
+                "ios": {
+                    "ios_app_id": "1599937506"
+                },
+                "link": "https://tacticusgame.com/",
+                "button_label": "Play Now"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false,
+        "traffic_metadata_raw": "EAE=",
+        "traffic_metadata_sealed": "EAE="
     }
 ]
