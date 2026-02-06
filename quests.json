@@ -48780,5 +48780,123 @@
         "preview": false,
         "traffic_metadata_raw": "EAE=",
         "traffic_metadata_sealed": "EAE="
+    },
+    {
+        "id": "1466549730191343881",
+        "config": {
+            "id": "1466549730191343881",
+            "config_version": 2,
+            "starts_at": "2026-02-06T03:00:02+00:00",
+            "expires_at": "2026-02-11T07:59:02+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://wuwa.kurogames-global.com/DiscordQuestV5",
+                "id": "1247227126416146462",
+                "name": "Wuthering Waves"
+            },
+            "assets": {
+                "hero": "quests/1466549730191343881/1468277363916669125.jpg",
+                "hero_video": null,
+                "quest_bar_hero_blurhash": "k9YRFwRlaHiJh3eQeIiHaHd3iAe4VHAK",
+                "quest_bar_hero": "quests/1466549730191343881/1468277418237104199.jpg",
+                "quest_bar_hero_video": null,
+                "game_tile": "1467937096412168484.png",
+                "logotype": "1466556072486633605.png",
+                "game_tile_light": "quests/1466549730191343881/1467937078409957377.png",
+                "game_tile_dark": "quests/1466549730191343881/1467937078409957377.png",
+                "logotype_light": "quests/1466549730191343881/1466555862171521034.png",
+                "logotype_dark": "quests/1466549730191343881/1466555897152274587.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "V3.1 WUWA",
+                "game_title": "Wuthering Waves",
+                "game_publisher": "Kuro Games"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "event_name": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "external_ids": []
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "event_name": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "external_ids": [
+                            "PPSA24686_00"
+                        ]
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1247227126416146462"
+                            }
+                        ]
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "type": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1247227126416146462"
+                            }
+                        ],
+                        "external_ids": [
+                            "PPSA24686_00"
+                        ]
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 1,
+                        "sku_id": "1466549730191343882",
+                        "asset": "quests/1466549730191343881/1467937078409957377.png",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "V3.1 WUWA Quest Pack",
+                            "name_with_article": "a V3.1 WUWA Quest Pack",
+                            "redemption_instructions_by_platform": {
+                                "0": "\"The V3.1 WUWA Quest Pack includes Shell Credit, Advanced Resonance Potion, Advanced Energy Core and Astrite.\n1. Select your server and enter the game, and then go to [Settings] - [Other] - [Redemption Code].\n2. Enter the [Redemption Code] and hit [Confirm] to redeem rewards. You can then claim them in your in-game mail.\n*The [Redemption Code] function will be unlocked once you've reached Union Level 2.\""
+                            }
+                        },
+                        "approximate_count": null,
+                        "redemption_link": null
+                    }
+                ],
+                "rewards_expire_at": "2026-03-13T07:59:02+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://wuwa.kurogames-global.com/DiscordQuestV5",
+                "button_label": "Get Game",
+                "subtitle": "Start Wuthering Waves V3.1 Now and Claim 1,600 Astrites For Free."
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false,
+        "traffic_metadata_raw": "EAE=",
+        "traffic_metadata_sealed": "EAE="
     }
 ]
