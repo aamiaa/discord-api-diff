@@ -227,6 +227,7 @@
         ],
         "connect-src": [
             "https://*.hcaptcha.com",
+            "https://*.sentry.io",
             "https://*.website-files.com",
             "https://ads.reddit.com",
             "https://api.github.com",
@@ -248,7 +249,6 @@
             "https://pixel-config.reddit.com",
             "https://redditstatic.com",
             "https://script.crazyegg.com",
-            "https://sentry.io",
             "https://tracking.crazyegg.com",
             "https://uploads-ssl.webflow.com",
             "https://webflow.com/api/",
