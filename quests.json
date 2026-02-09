@@ -49012,5 +49012,171 @@
         "preview": false,
         "traffic_metadata_raw": "EAE=",
         "traffic_metadata_sealed": "EAE="
+    },
+    {
+        "id": "1468682555959283803",
+        "config": {
+            "id": "1468682555959283803",
+            "config_version": 2,
+            "starts_at": "2026-02-09T18:00:08+00:00",
+            "expires_at": "2026-02-16T00:00:08+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://playhighguard.com/",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1468682555959283803/1469409373968269332.jpg",
+                "hero_video": "quests/1468682555959283803/1469463914809921609.mp4",
+                "quest_bar_hero_blurhash": "SggGC4AFeIaEeFiHSIDjf6w=",
+                "quest_bar_hero": "quests/1468682555959283803/1469464523319808020.jpg",
+                "quest_bar_hero_video": "quests/1468682555959283803/1469463914809921609.mp4",
+                "game_tile": "1469411766567047218.png",
+                "logotype": "1469411678478139613.png",
+                "game_tile_light": "quests/1468682555959283803/1469411722447159410.png",
+                "game_tile_dark": "quests/1468682555959283803/1469411722447159410.png",
+                "logotype_light": "quests/1468682555959283803/1469411520742953145.png",
+                "logotype_dark": "quests/1468682555959283803/1469411575084613868.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Highguard: Episode 2",
+                "game_title": "Highguard",
+                "game_publisher": "Wildlight Entertainment "
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "event_name": "WATCH_VIDEO",
+                        "target": 131,
+                        "external_ids": []
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "event_name": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 131,
+                        "external_ids": []
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 131,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1468682555959283803/1469416120996991080_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1468682555959283803/1469417085913530522.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1468682555959283803/1469416120996991080_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1468682555959283803/1469417085913530522.jpg"
+                            },
+                            "video_hls": {
+                                "url": "quests/1468682555959283803/1469416120996991080.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1468682555959283803/1469417085913530522.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "Highguard Episode 2 Trailer"
+                        }
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 131,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1468682555959283803/1469416120996991080_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1468682555959283803/1469417085913530522.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1468682555959283803/1469416120996991080_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1468682555959283803/1469417085913530522.jpg"
+                            },
+                            "video_hls": {
+                                "url": "quests/1468682555959283803/1469416120996991080.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1468682555959283803/1469417085913530522.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "Highguard Episode 2 Trailer"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 3,
+                        "sku_id": "1469431511198601419",
+                        "asset": "quests/1468682555959283803/1469457576608534588.mp4",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "Highguard Gregory Avatar Decoration",
+                            "name_with_article": "a Highguard Gregory Avatar Decoration",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "expires_at": "2026-04-18T00:00:00+00:00",
+                        "expires_at_premium": null,
+                        "expiration_mode": 3
+                    }
+                ],
+                "rewards_expire_at": "2026-03-18T00:00:08+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "video_metadata": {
+                "messages": {
+                    "video_title": "Highguard Episode 2 Trailer",
+                    "video_end_cta_button_label": "Learn More"
+                },
+                "assets": {
+                    "video_player_video_hls": "quests/1468682555959283803/1469416120996991080.m3u8",
+                    "video_player_video": "quests/1468682555959283803/1469416120996991080_1080.mp4",
+                    "video_player_thumbnail": "quests/1468682555959283803/1469417085913530522.jpg",
+                    "video_player_video_low_res": "quests/1468682555959283803/1469416120996991080_720.mp4",
+                    "video_player_caption": null,
+                    "video_player_transcript": null,
+                    "quest_bar_preview_video": null,
+                    "quest_bar_preview_thumbnail": null,
+                    "quest_home_video": null
+                }
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://playhighguard.com/",
+                "button_label": "Learn More"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false,
+        "traffic_metadata_raw": "EAE=",
+        "traffic_metadata_sealed": "EAE="
     }
 ]
