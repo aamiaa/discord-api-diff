@@ -49178,5 +49178,100 @@
         "preview": false,
         "traffic_metadata_raw": "EAE=",
         "traffic_metadata_sealed": "EAE="
+    },
+    {
+        "id": "1465435141861277759",
+        "config": {
+            "id": "1465435141861277759",
+            "config_version": 2,
+            "starts_at": "2026-02-11T02:00:04+00:00",
+            "expires_at": "2026-02-17T00:00:04+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://vindictus-abr.na.nexon.com/6u9y51",
+                "id": "451541058497675294",
+                "name": "Vindictus"
+            },
+            "assets": {
+                "hero": "quests/1465435141861277759/1465437649434050590.jpg",
+                "hero_video": null,
+                "quest_bar_hero_blurhash": null,
+                "quest_bar_hero": "quests/1465435141861277759/1465437601040175320.jpg",
+                "quest_bar_hero_video": null,
+                "game_tile": "1465437996940656834.png",
+                "logotype": "1465731131939754219.png",
+                "game_tile_light": "quests/1465435141861277759/1465437754518409369.png",
+                "game_tile_dark": "quests/1465435141861277759/1465437754518409369.png",
+                "logotype_light": "quests/1465435141861277759/1465731106254094376.png",
+                "logotype_dark": "quests/1465435141861277759/1465731106254094376.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Vindictus Play",
+                "game_title": "Vindictus",
+                "game_publisher": "Nexon"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "event_name": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "external_ids": []
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "451541058497675294"
+                            }
+                        ]
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 Orbs",
+                            "name_with_article": "700 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 700
+                    }
+                ],
+                "rewards_expire_at": "2026-03-19T00:00:04+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://vindictus-abr.na.nexon.com/6u9y51",
+                "button_label": "Play Game"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false,
+        "traffic_metadata_raw": "EAE=",
+        "traffic_metadata_sealed": "EAE="
     }
 ]
