@@ -49917,5 +49917,133 @@
         "preview": false,
         "traffic_metadata_raw": "EAE=",
         "traffic_metadata_sealed": "EAE="
+    },
+    {
+        "id": "1468777737341763815",
+        "config": {
+            "id": "1468777737341763815",
+            "config_version": 2,
+            "starts_at": "2026-02-16T18:00:21+00:00",
+            "expires_at": "2026-02-27T00:00:21+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://tv.apple.com/us/show/monarch-legacy-of-monsters/umc.cmc.62l8x0ixrhyq3yaqa5y8yo7ew?itscg=MC_50000&itsct=atvp_brand_omd&mttn3pid=Discord&mttnagencyid=a5e&mttncc=US&mttnsiteid=143238&mttnsubad=06627991",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "1470471399293452500.jpg",
+                "hero_video": "1469001190313431183.mp4",
+                "quest_bar_hero_blurhash": "WbcJCoJIdUqPZ6iIbIRAUAk=",
+                "quest_bar_hero": "1470471399293452500.jpg",
+                "quest_bar_hero_video": "1469001190313431183.mp4",
+                "game_tile": "1469002283827068959.png",
+                "logotype": "1470589497942216814.png",
+                "game_tile_light": "1469001446728007783.png",
+                "game_tile_dark": "1469001383830093834.png",
+                "logotype_light": "1470589475800354848.png",
+                "logotype_dark": "1470589475800354848.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Monarch Season 2",
+                "game_title": "New Season Feb 27 on Apple TV",
+                "game_publisher": "Apple TV"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "event_name": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 146,
+                        "external_ids": []
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 146,
+                        "assets": {
+                            "video": {
+                                "url": "1469002495954129143_1080.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "1470470621489008732.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "1469002495954129143_720.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "1470470621489008732.jpg"
+                            },
+                            "video_hls": {
+                                "url": "1469002495954129143.m3u8",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "1470470621489008732.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "placeholder"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 Orbs",
+                            "name_with_article": "700 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 700,
+                        "premium_orb_quantity": 0
+                    }
+                ],
+                "rewards_expire_at": "2026-03-29T00:00:21+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "video_metadata": {
+                "messages": {
+                    "video_title": "placeholder",
+                    "video_end_cta_subtitle": "New Season Feb 27 on Apple TV",
+                    "video_end_cta_button_label": "Learn More"
+                },
+                "assets": {
+                    "video_player_video_hls": "1469002495954129143.m3u8",
+                    "video_player_video": "1469002495954129143_1080.mp4",
+                    "video_player_thumbnail": "1470470621489008732.jpg",
+                    "video_player_video_low_res": "1469002495954129143_720.mp4",
+                    "video_player_caption": null,
+                    "video_player_transcript": null,
+                    "quest_bar_preview_video": null,
+                    "quest_bar_preview_thumbnail": null,
+                    "quest_home_video": null
+                }
+            },
+            "share_policy": "not_shareable",
+            "cta_config": {
+                "link": "https://tv.apple.com/us/show/monarch-legacy-of-monsters/umc.cmc.62l8x0ixrhyq3yaqa5y8yo7ew?itscg=MC_50000&itsct=atvp_brand_omd&mttn3pid=Discord&mttnagencyid=a5e&mttncc=US&mttnsiteid=143238&mttnsubad=06627991",
+                "button_label": "Learn More",
+                "subtitle": "New Season Feb 27 on Apple TV"
+            }
+        }
     }
 ]
