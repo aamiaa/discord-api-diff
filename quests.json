@@ -48772,23 +48772,6 @@
                     0
                 ]
             },
-            "video_metadata": {
-                "messages": {
-                    "video_title": "PLACEHOLDER",
-                    "video_end_cta_button_label": "Play Now"
-                },
-                "assets": {
-                    "video_player_video_hls": "quests/1468005693570154628/1468007159823470613.m3u8",
-                    "video_player_video": "quests/1468005693570154628/1468007159823470613_1080.mp4",
-                    "video_player_thumbnail": "quests/1468005693570154628/1468008222102257955.png",
-                    "video_player_video_low_res": "quests/1468005693570154628/1468007159823470613_720.mp4",
-                    "video_player_caption": null,
-                    "video_player_transcript": null,
-                    "quest_bar_preview_video": null,
-                    "quest_bar_preview_thumbnail": null,
-                    "quest_home_video": null
-                }
-            },
             "share_policy": "shareable_everywhere",
             "cta_config": {
                 "android": {
@@ -49322,7 +49305,7 @@
                 "hero_video": "quests/1470834003434017026/1470929522546442476.mp4",
                 "quest_bar_hero_blurhash": "lSgGAoD+vZZFkkNkgEYHlVQ=",
                 "quest_bar_hero": "quests/1470834003434017026/1470929405185622110.jpg",
-                "quest_bar_hero_video": "quests/1470834003434017026/1470929522546442476.mp4",
+                "quest_bar_hero_video": "quests/1470834003434017026/1473719835459322007.mp4",
                 "game_tile": "1470929269613138032.png",
                 "logotype": "1470929268572819609.png",
                 "game_tile_light": "quests/1470834003434017026/1470929097965178902.png",
@@ -50580,6 +50563,336 @@
                 "link": "https://www.screammovie.com/",
                 "button_label": "Get Tickets",
                 "subtitle": "Only in Theaters 2.27.26"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false,
+        "traffic_metadata_raw": "EAE=",
+        "traffic_metadata_sealed": "EAE="
+    },
+    {
+        "id": "1473375367715750081",
+        "config": {
+            "id": "1473375367715750081",
+            "config_version": 2,
+            "starts_at": "2026-02-18T18:00:41+00:00",
+            "expires_at": "2026-02-25T00:00:41+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://www.stvatu.com/?utm_source=Discord&utm_medium=paid&utm_campaign=Launch&utm_content=quest",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1473375367715750081/1473376450542305364.jpg",
+                "hero_video": "quests/1473375367715750081/1473376405545812041.mp4",
+                "quest_bar_hero_blurhash": "iucFBIICbYcnlmmkSoWL9TS3Lw==",
+                "quest_bar_hero": "quests/1473375367715750081/1473376349241475102.jpg",
+                "quest_bar_hero_video": "quests/1473375367715750081/1473376405545812041.mp4",
+                "game_tile": "1473376794660049050.png",
+                "logotype": "1473376793586041177.png",
+                "game_tile_light": "quests/1473375367715750081/1473376630008184985.png",
+                "game_tile_dark": "quests/1473375367715750081/1473376630008184985.png",
+                "logotype_light": "quests/1473375367715750081/1473376529512661168.png",
+                "logotype_dark": "quests/1473375367715750081/1473376579966205953.png"
+            },
+            "colors": {
+                "primary": "#FFFFFF",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Star Trek: Voyager - Across the Unknown",
+                "game_title": "Star Trek: Voyager - Across the Unknown",
+                "game_publisher": "Daedalic Entertainment"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "event_name": "WATCH_VIDEO",
+                        "target": 90,
+                        "external_ids": []
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "event_name": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 90,
+                        "external_ids": []
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 90,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1473375367715750081/1473377067147071630_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1473375367715750081/1473379044094382142.png"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1473375367715750081/1473377067147071630_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1473375367715750081/1473379044094382142.png"
+                            },
+                            "video_hls": {
+                                "url": "quests/1473375367715750081/1473377067147071630.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1473375367715750081/1473379044094382142.png"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "The Bridge Is Yours, Captain"
+                        }
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 90,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1473375367715750081/1473377067147071630_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1473375367715750081/1473379044094382142.png"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1473375367715750081/1473377067147071630_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1473375367715750081/1473379044094382142.png"
+                            },
+                            "video_hls": {
+                                "url": "quests/1473375367715750081/1473377067147071630.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1473375367715750081/1473379044094382142.png"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "The Bridge Is Yours, Captain"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 Orbs",
+                            "name_with_article": "700 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 700,
+                        "premium_orb_quantity": 0
+                    }
+                ],
+                "rewards_expire_at": "2026-03-27T00:00:41+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "video_metadata": {
+                "messages": {
+                    "video_title": "The Bridge Is Yours, Captain",
+                    "video_end_cta_subtitle": "Available on PC, PS5, Xbox X|S, and Nintendo Switch 2",
+                    "video_end_cta_button_label": "Get Game"
+                },
+                "assets": {
+                    "video_player_video_hls": "quests/1473375367715750081/1473377067147071630.m3u8",
+                    "video_player_video": "quests/1473375367715750081/1473377067147071630_1080.mp4",
+                    "video_player_thumbnail": "quests/1473375367715750081/1473379044094382142.png",
+                    "video_player_video_low_res": "quests/1473375367715750081/1473377067147071630_720.mp4",
+                    "video_player_caption": null,
+                    "video_player_transcript": null,
+                    "quest_bar_preview_video": null,
+                    "quest_bar_preview_thumbnail": null,
+                    "quest_home_video": null
+                }
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://www.stvatu.com/?utm_source=Discord&utm_medium=paid&utm_campaign=Launch&utm_content=quest",
+                "button_label": "Get Game",
+                "subtitle": "Available on PC, PS5, Xbox X|S, and Nintendo Switch 2"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false,
+        "traffic_metadata_raw": "EAE=",
+        "traffic_metadata_sealed": "EAE="
+    },
+    {
+        "id": "1473383175639007332",
+        "config": {
+            "id": "1473383175639007332",
+            "config_version": 2,
+            "starts_at": "2026-02-18T17:45:43+00:00",
+            "expires_at": "2026-02-25T00:00:43+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://www.warnerbroshorror.com/",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1473383175639007332/1473384459784159412.jpg",
+                "hero_video": "quests/1473383175639007332/1473730353897406474.mp4",
+                "quest_bar_hero_blurhash": "SRgGAoACbKZtlXiIAncmoFc=",
+                "quest_bar_hero": "quests/1473383175639007332/1473384459784159412.jpg",
+                "quest_bar_hero_video": "quests/1473383175639007332/1473730353897406474.mp4",
+                "game_tile": "1473384761861996586.png",
+                "logotype": "1473384760759025958.png",
+                "game_tile_light": "quests/1473383175639007332/1473384674314424360.png",
+                "game_tile_dark": "quests/1473383175639007332/1473384674314424360.png",
+                "logotype_light": "quests/1473383175639007332/1473384623881850900.png",
+                "logotype_dark": "quests/1473383175639007332/1473384623881850900.png"
+            },
+            "colors": {
+                "primary": "#FFFFFF",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "The Mummy",
+                "game_title": "Lee Cronin's The Mummy in theaters April 17",
+                "game_publisher": "Warner Bros. Pictures"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "event_name": "WATCH_VIDEO",
+                        "target": 144,
+                        "external_ids": []
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "event_name": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 144,
+                        "external_ids": []
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 144,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1473383175639007332/1473733113979998371_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1473383175639007332/1473734105320656977.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1473383175639007332/1473733113979998371_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1473383175639007332/1473734105320656977.jpg"
+                            },
+                            "video_hls": {
+                                "url": "quests/1473383175639007332/1473733113979998371.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1473383175639007332/1473734105320656977.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "video"
+                        }
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 144,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1473383175639007332/1473732106667561154_1080.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1473383175639007332/1473734105320656977.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1473383175639007332/1473732106667561154_720.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1473383175639007332/1473734105320656977.jpg"
+                            },
+                            "video_hls": {
+                                "url": "quests/1473383175639007332/1473732106667561154.m3u8",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1473383175639007332/1473734105320656977.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "video"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 Orbs",
+                            "name_with_article": "700 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 700,
+                        "premium_orb_quantity": 0
+                    }
+                ],
+                "rewards_expire_at": "2026-03-27T00:00:43+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "video_metadata": {
+                "messages": {
+                    "video_title": "video",
+                    "video_end_cta_subtitle": "Lee Cronin's The Mummy in theaters April 17",
+                    "video_end_cta_button_label": "Watch Now"
+                },
+                "assets": {
+                    "video_player_video_hls": "quests/1473383175639007332/1473733113979998371.m3u8",
+                    "video_player_video": "quests/1473383175639007332/1473733113979998371_1080.mp4",
+                    "video_player_thumbnail": "quests/1473383175639007332/1473734105320656977.jpg",
+                    "video_player_video_low_res": "quests/1473383175639007332/1473733113979998371_720.mp4",
+                    "video_player_caption": null,
+                    "video_player_transcript": null,
+                    "quest_bar_preview_video": null,
+                    "quest_bar_preview_thumbnail": null,
+                    "quest_home_video": null
+                }
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://www.warnerbroshorror.com/",
+                "button_label": "Watch Now",
+                "subtitle": "Lee Cronin's The Mummy in theaters April 17"
             }
         },
         "user_status": null,
