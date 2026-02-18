@@ -50477,5 +50477,115 @@
         "preview": false,
         "traffic_metadata_raw": "EAE=",
         "traffic_metadata_sealed": "EAE="
+    },
+    {
+        "id": "1463568772538564628",
+        "config": {
+            "id": "1463568772538564628",
+            "config_version": 2,
+            "starts_at": "2026-02-18T01:05:47+00:00",
+            "expires_at": "2026-03-02T00:00:47+00:00",
+            "features": [
+                8,
+                27,
+                15
+            ],
+            "application": {
+                "link": "https://www.screammovie.com/",
+                "id": "1457674134795325451",
+                "name": "Scream 7"
+            },
+            "assets": {
+                "hero": "quests/1463568772538564628/1471618286964834386.jpg",
+                "hero_video": "quests/1463568772538564628/1471957713427632443.mp4",
+                "quest_bar_hero_blurhash": "DikGHIL4gneKp3eDiYf4elfPZg==",
+                "quest_bar_hero": "quests/1463568772538564628/1471957677436571860.jpg",
+                "quest_bar_hero_video": "quests/1463568772538564628/1471957713427632443.mp4",
+                "game_tile": "1471618408071172241.png",
+                "logotype": "1471618407001489582.png",
+                "game_tile_light": "quests/1463568772538564628/1471618320611672300.png",
+                "game_tile_dark": "quests/1463568772538564628/1471618320611672300.png",
+                "logotype_light": "quests/1463568772538564628/1471618244971593842.png",
+                "logotype_dark": "quests/1463568772538564628/1471618244971593842.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Scream 7",
+                "game_title": "Hide & Scream",
+                "game_publisher": "Paramount Pictures"
+            },
+            "task_config": {
+                "type": 2,
+                "join_operator": "or",
+                "tasks": {
+                    "progress": {
+                        "event_name": "progress",
+                        "title": "Complete the Challenges on Desktop to win a Scream 7 Avatar Decoration!",
+                        "description": "Can you survive Ghostface and win a Scream 7 Avatar Decoration?",
+                        "target": 1
+                    }
+                },
+                "enrollment_url": "https://www.discord.com",
+                "developer_application_id": "1457674134795325451"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "ACHIEVEMENT_IN_ACTIVITY": {
+                        "type": "ACHIEVEMENT_IN_ACTIVITY",
+                        "target": 1,
+                        "applications": [
+                            {
+                                "id": "1457674134795325451"
+                            }
+                        ],
+                        "event_name": "progress",
+                        "messages": {
+                            "task_title": "Complete the Challenges on Desktop to win a Scream 7 Avatar Decoration!",
+                            "task_description": "Can you survive Ghostface and win a Scream 7 Avatar Decoration?"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 3,
+                        "sku_id": "1471622938607226901",
+                        "asset": "quests/1463568772538564628/1471622507013345290.mp4",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "Scream 7 Avatar Decoration",
+                            "name_with_article": "a Scream 7 Avatar Decoration",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "expires_at": "2026-04-30T23:00:00+00:00",
+                        "expires_at_premium": null,
+                        "expiration_mode": 3
+                    }
+                ],
+                "rewards_expire_at": "2026-04-01T00:00:47+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://www.screammovie.com/",
+                "button_label": "Get Tickets",
+                "subtitle": "Only in Theaters 2.27.26"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false,
+        "traffic_metadata_raw": "EAE=",
+        "traffic_metadata_sealed": "EAE="
     }
 ]
