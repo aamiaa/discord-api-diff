@@ -50614,5 +50614,248 @@
                 "subtitle": "New season 27 Feb on Apple TV"
             }
         }
+    },
+    {
+        "id": "1473407935970410724",
+        "config": {
+            "id": "1473407935970410724",
+            "config_version": 2,
+            "starts_at": "2026-02-19T16:00:06+00:00",
+            "expires_at": "2026-03-03T00:00:06+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://store.steampowered.com/app/2157830/John_Carpenters_Toxic_Commando/?utm_source=Discord&utm_medium=DiscordQuest&utm_campaign=TXC_Demo&utm_content=DiscordFans",
+                "id": "1442714232331436062",
+                "name": "John Carpenter's Toxic Commando"
+            },
+            "assets": {
+                "hero": "quests/1473407935970410724/1473448869856542927.jpeg",
+                "hero_video": "quests/1473407935970410724/1473848871108219094.mp4",
+                "quest_bar_hero_blurhash": "HdgJHIq7hYh5c4pghXw1gFQDeA==",
+                "quest_bar_hero": "quests/1473407935970410724/1473448815129395483.jpg",
+                "quest_bar_hero_video": "quests/1473407935970410724/1473848871108219094.mp4",
+                "game_tile": "1473448970251538482.png",
+                "logotype": "1473448969223929876.png",
+                "game_tile_light": "quests/1473407935970410724/1473448950735310991.png",
+                "game_tile_dark": "quests/1473407935970410724/1473448950735310991.png",
+                "logotype_light": "quests/1473407935970410724/1473448912294777034.png",
+                "logotype_dark": "quests/1473407935970410724/1473448912294777034.png"
+            },
+            "colors": {
+                "primary": "#FFFFFF",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Toxic Commando",
+                "game_title": "Toxic Commando",
+                "game_publisher": "Focus Entertainment"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "event_name": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "external_ids": []
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1442714232331436062"
+                            }
+                        ]
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 Orbs",
+                            "name_with_article": "700 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 700,
+                        "premium_orb_quantity": 0
+                    }
+                ],
+                "rewards_expire_at": "2026-04-02T00:00:06+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://store.steampowered.com/app/2157830/John_Carpenters_Toxic_Commando/?utm_source=Discord&utm_medium=DiscordQuest&utm_campaign=TXC_Demo&utm_content=DiscordFans",
+                "button_label": "Play Now"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false,
+        "traffic_metadata_raw": "EAE=",
+        "traffic_metadata_sealed": "EAE="
+    },
+    {
+        "id": "1470867572370051225",
+        "config": {
+            "id": "1470867572370051225",
+            "config_version": 2,
+            "starts_at": "2026-02-19T18:00:36+00:00",
+            "expires_at": "2026-03-01T00:00:36+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://www.warframe.com/",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "1470938163349291072.jpg",
+                "hero_video": "1470914160958246982.mp4",
+                "quest_bar_hero_blurhash": "UgcKCoIvVYhBqXmJCjDrBYM=",
+                "quest_bar_hero": "1470938163349291072.jpg",
+                "quest_bar_hero_video": "1470914160958246982.mp4",
+                "game_tile": "1470914822005588102.png",
+                "logotype": "1470914821045096539.png",
+                "game_tile_light": "1470914804247036086.png",
+                "game_tile_dark": "1470914804247036086.png",
+                "logotype_light": "1470914601599373354.png",
+                "logotype_dark": "1470914601599373354.png"
+            },
+            "colors": {
+                "primary": "#FFFFFF",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Warframe Android Launch",
+                "game_title": "Warframe",
+                "game_publisher": "Digital Extremes"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "event_name": "WATCH_VIDEO",
+                        "target": 50,
+                        "external_ids": []
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "event_name": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 50,
+                        "external_ids": []
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 50,
+                        "assets": {
+                            "video": {
+                                "url": "1471669662919032832_1080.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "1471920835068563647.png"
+                            },
+                            "video_low_res": {
+                                "url": "1471669662919032832_720.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "1471920835068563647.png"
+                            },
+                            "video_hls": {
+                                "url": "1471669662919032832.m3u8",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "1471920835068563647.png"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "Warframe"
+                        }
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 50,
+                        "assets": {
+                            "video": {
+                                "url": "1471669662919032832_1080.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "1471920835068563647.png"
+                            },
+                            "video_low_res": {
+                                "url": "1471669662919032832_720.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "1471920835068563647.png"
+                            },
+                            "video_hls": {
+                                "url": "1471669662919032832.m3u8",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "1471920835068563647.png"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "Warframe"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 Orbs",
+                            "name_with_article": "700 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 700,
+                        "premium_orb_quantity": 0
+                    }
+                ],
+                "rewards_expire_at": "2026-03-31T00:00:36+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "android": {
+                    "android_app_id": "com.digitalextremes.warframemobile"
+                },
+                "ios": {
+                    "ios_app_id": "1520001008"
+                },
+                "link": "https://www.warframe.com/",
+                "button_label": "Play Now"
+            }
+        }
     }
 ]

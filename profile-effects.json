@@ -13706,29 +13706,30 @@
     {
         "type": 1,
         "id": 1,
-        "sku_id": "1465521972363661449",
-        "title": "Sky Lanterns",
+        "sku_id": "1466978489608441993",
+        "title": "Neon Glow (Kunzite)",
         "description": "Show this effect when others view your profile.",
-        "accessibilityLabel": "Orange, yellow, and red lanterns floating left to right with watercolor washes.",
-        "animationType": 2,
-        "thumbnailPreviewSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/95a855c86369b09b3c36a6354df056533a3164f2ff96002c5b75cb8e3f858127",
-        "reducedMotionSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/a0e8e053f037c6990b1a824b2a99ed7ed50dea7c95c195f4281944c498acf651",
+        "accessibilityLabel": "Pink glowing border building from center, pulsing gently around profile.",
+        "animationType": 1,
+        "staticFrameSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/d177c634bf82dca76e96ea9bf7777b6e4721a0d19f19637bfb5c6a4eee69c9c3",
+        "thumbnailPreviewSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/ff3611f297eccfc64a0dfd237e5735a8f934902f394b3102f46ec7898baf14a1",
+        "reducedMotionSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/0a76ae3d973ae2c69e8834206c3961cebe067690b25fef09c947ed5323d6d0e8",
         "effects": [
             {
-                "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/83dc25206206282bded64c527eb695405b6b167531cc1914d41f0b33b69cdb1a",
+                "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/8988f03d57f6fa8ef8e3230c425cff1fa2896b34b007d92cc7db4fafea93d2fd",
                 "loop": false,
-                "duration": 5083,
+                "duration": 2000,
                 "start": 0,
                 "loopDelay": 0,
                 "zIndex": 100,
                 "randomizedSources": []
             },
             {
-                "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/96feb225058e63bf9699c60ef0b56801c53b7bc0ef59cf14aa34891c49edc8f2",
+                "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/56725315f7671bf0f5a2ecbd34a61fd5f60510252d44e43fca70f51c3fd8acd0",
                 "loop": true,
-                "duration": 5083,
-                "start": 8083,
-                "loopDelay": 3000,
+                "duration": 5000,
+                "start": 2000,
+                "loopDelay": 0,
                 "zIndex": 101,
                 "randomizedSources": []
             }
