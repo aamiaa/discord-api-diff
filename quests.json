@@ -50955,5 +50955,120 @@
         "preview": false,
         "traffic_metadata_raw": "EAE=",
         "traffic_metadata_sealed": "EAE="
+    },
+    {
+        "id": "1470854078983569606",
+        "config": {
+            "id": "1470854078983569606",
+            "config_version": 2,
+            "starts_at": "2026-02-22T08:00:59+00:00",
+            "expires_at": "2026-03-01T07:59:59+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://store.steampowered.com/app/3564740/480?utm_source=DiscordOrbs",
+                "id": "1437509662303059998",
+                "name": "Where Winds Meet"
+            },
+            "assets": {
+                "hero": "quests/1470854078983569606/1470856401894117489.jpg",
+                "hero_video": "quests/1470854078983569606/1470856503761047674.mp4",
+                "quest_bar_hero_blurhash": "VRgOFIJ6ZYaMd3hwl3Y3Z3ByBg==",
+                "quest_bar_hero": "quests/1470854078983569606/1470856253877256302.jpg",
+                "quest_bar_hero_video": "quests/1470854078983569606/1470856323179610234.mp4",
+                "game_tile": "1470857196207345919.png",
+                "logotype": "1470857192675737702.png",
+                "game_tile_light": "quests/1470854078983569606/1470857100602114130.png",
+                "game_tile_dark": "quests/1470854078983569606/1470857100602114130.png",
+                "logotype_light": "quests/1470854078983569606/1470856682316894388.png",
+                "logotype_dark": "quests/1470854078983569606/1470856682316894388.png"
+            },
+            "colors": {
+                "primary": "#FFFFFF",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Where Winds Meet Ver 1.3",
+                "game_title": "Where Winds Meet",
+                "game_publisher": "Netease"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "event_name": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "external_ids": []
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "event_name": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "external_ids": [
+                            "PPSA23355_00"
+                        ]
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1437509662303059998"
+                            }
+                        ]
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "type": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1437509662303059998"
+                            }
+                        ],
+                        "external_ids": [
+                            "PPSA23355_00"
+                        ]
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 Orbs",
+                            "name_with_article": "700 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 700,
+                        "premium_orb_quantity": 0
+                    }
+                ],
+                "rewards_expire_at": "2026-03-31T07:59:59+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://store.steampowered.com/app/3564740/480?utm_source=DiscordOrbs",
+                "button_label": "Play Game"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false,
+        "traffic_metadata_raw": "EAE=",
+        "traffic_metadata_sealed": "EAE="
     }
 ]
