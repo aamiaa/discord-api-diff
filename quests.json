@@ -50509,7 +50509,7 @@
             "id": "1469018683555840299",
             "config_version": 2,
             "starts_at": "2026-02-18T22:10:47+00:00",
-            "expires_at": "2026-02-27T00:00:47+00:00",
+            "expires_at": "2026-02-26T23:59:47+00:00",
             "features": [
                 15
             ],
@@ -50600,7 +50600,7 @@
                         "premium_orb_quantity": 0
                     }
                 ],
-                "rewards_expire_at": "2026-03-29T00:00:47+00:00",
+                "rewards_expire_at": "2026-03-28T23:59:47+00:00",
                 "platforms": [
                     0
                 ]
@@ -51361,6 +51361,289 @@
                 "link": "https://store.steampowered.com/app/4251130/Arkheron_Demo/",
                 "button_label": "Play Now",
                 "subtitle": "Download the Arkheron Open Demo Now"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false,
+        "traffic_metadata_raw": "EAI=",
+        "traffic_metadata_sealed": "EAI="
+    },
+    {
+        "id": "1473453463752151071",
+        "config": {
+            "id": "1473453463752151071",
+            "config_version": 2,
+            "starts_at": "2026-02-26T18:00:01+00:00",
+            "expires_at": "2026-03-12T23:00:01+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://store.ubisoft.com/6638e5dcaa201a2d55bcc772.html",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1473453463752151071/1473454998745780334.jpg",
+                "hero_video": "quests/1473453463752151071/1474074419335921765.mp4",
+                "quest_bar_hero_blurhash": "pBgODIJJh3iPd3eLh3rQNSaPdA==",
+                "quest_bar_hero": "quests/1473453463752151071/1473454915627257996.jpg",
+                "quest_bar_hero_video": "quests/1473453463752151071/1474074419335921765.mp4",
+                "game_tile": "1473455281299263640.jpg",
+                "logotype": "1473455280313471006.png",
+                "game_tile_light": "quests/1473453463752151071/1473455094094762067.jpg",
+                "game_tile_dark": "quests/1473453463752151071/1473455094094762067.jpg",
+                "logotype_light": "quests/1473453463752151071/1473455053762334905.png",
+                "logotype_dark": "quests/1473453463752151071/1473455053762334905.png"
+            },
+            "colors": {
+                "primary": "#FFFFFF",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Anno 117 25% Discount",
+                "game_title": "Anno 117: Pax Romana",
+                "game_publisher": "Ubisoft"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "event_name": "WATCH_VIDEO",
+                        "target": 71,
+                        "external_ids": []
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "event_name": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 71,
+                        "external_ids": []
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 71,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1473453463752151071/1474078269472247818_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1473453463752151071/1474077982141448254.png"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1473453463752151071/1474078269472247818_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1473453463752151071/1474077982141448254.png"
+                            },
+                            "video_hls": {
+                                "url": "quests/1473453463752151071/1474078269472247818.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1473453463752151071/1474077982141448254.png"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "video"
+                        }
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 71,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1473453463752151071/1474074763264528527_1080.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1473453463752151071/1474077982141448254.png"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1473453463752151071/1474074763264528527_720.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1473453463752151071/1474077982141448254.png"
+                            },
+                            "video_hls": {
+                                "url": "quests/1473453463752151071/1474074763264528527.m3u8",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1473453463752151071/1474077982141448254.png"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "video"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 Orbs",
+                            "name_with_article": "700 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 700,
+                        "premium_orb_quantity": 0
+                    }
+                ],
+                "rewards_expire_at": "2026-04-11T23:00:01+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://store.ubisoft.com/6638e5dcaa201a2d55bcc772.html",
+                "button_label": "Get Game",
+                "subtitle": "ANNO 117 IS 25% OFF FOR A LIMITED TIME!"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false,
+        "traffic_metadata_raw": "EAI=",
+        "traffic_metadata_sealed": "EAI="
+    },
+    {
+        "id": "1474205151999950889",
+        "config": {
+            "id": "1474205151999950889",
+            "config_version": 2,
+            "starts_at": "2026-02-26T19:00:57+00:00",
+            "expires_at": "2026-03-02T18:00:57+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://ad.doubleclick.net/ddm/trackclk/N1306638.3397510DISCORD/B35130905.439493281;dc_trk_aid=633532444;dc_trk_cid=249700870;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1",
+                "id": "1451409609632911453",
+                "name": "Marathon"
+            },
+            "assets": {
+                "hero": "quests/1474205151999950889/1474543767863300319.jpg",
+                "hero_video": null,
+                "quest_bar_hero_blurhash": "lfgJDIIIJoqaZpeDeaQCcnRpBA==",
+                "quest_bar_hero": "quests/1474205151999950889/1474543677631369256.jpg",
+                "quest_bar_hero_video": null,
+                "game_tile": "1474543990308208724.png",
+                "logotype": "1474543989284802570.png",
+                "game_tile_light": "quests/1474205151999950889/1474543864902586378.png",
+                "game_tile_dark": "quests/1474205151999950889/1474543864902586378.png",
+                "logotype_light": "quests/1474205151999950889/1474543821802045490.png",
+                "logotype_dark": "quests/1474205151999950889/1474543821802045490.png"
+            },
+            "colors": {
+                "primary": "#FFFFFF",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Marathon Server Slam",
+                "game_title": "Marathon",
+                "game_publisher": "Bungie"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "event_name": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "external_ids": []
+                    },
+                    "PLAY_ON_XBOX": {
+                        "event_name": "PLAY_ON_XBOX",
+                        "target": 900,
+                        "external_ids": [
+                            "1925076302"
+                        ]
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "event_name": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "external_ids": [
+                            "PPSA24487_00",
+                            "PPSA34381_00"
+                        ]
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1451409609632911453"
+                            }
+                        ]
+                    },
+                    "PLAY_ON_XBOX": {
+                        "type": "PLAY_ON_XBOX",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1451409609632911453"
+                            }
+                        ],
+                        "external_ids": [
+                            "1925076302"
+                        ]
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "type": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1451409609632911453"
+                            }
+                        ],
+                        "external_ids": [
+                            "PPSA24487_00",
+                            "PPSA34381_00"
+                        ]
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 Orbs",
+                            "name_with_article": "700 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 700,
+                        "premium_orb_quantity": 0
+                    }
+                ],
+                "rewards_expire_at": "2026-04-01T18:00:57+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://ad.doubleclick.net/ddm/trackclk/N1306638.3397510DISCORD/B35130905.439493281;dc_trk_aid=633532444;dc_trk_cid=249700870;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1",
+                "button_label": "Play Game"
             }
         },
         "user_status": null,
