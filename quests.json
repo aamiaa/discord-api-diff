@@ -52018,5 +52018,161 @@
                 "subtitle": "New episodes every Friday on Apple TV"
             }
         }
+    },
+    {
+        "id": "1473790795248177355",
+        "config": {
+            "id": "1473790795248177355",
+            "config_version": 2,
+            "starts_at": "2026-02-27T17:50:27+00:00",
+            "expires_at": "2026-03-06T00:00:27+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://www.residentevil.com/requiem",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1473790795248177355/1473793431997251584.jpg",
+                "hero_video": "quests/1473790795248177355/1473793594409357450.mp4",
+                "quest_bar_hero_blurhash": "EAgOBIB2d4h/d3iLd4lHf6zS9g==",
+                "quest_bar_hero": "quests/1473790795248177355/1473793313550237757.jpg",
+                "quest_bar_hero_video": "quests/1473790795248177355/1473793522183311566.mp4",
+                "game_tile": "1473793728534679576.png",
+                "logotype": "1476995106719662090.png",
+                "game_tile_light": "quests/1473790795248177355/1473793699141128222.png",
+                "game_tile_dark": "quests/1473790795248177355/1473793699141128222.png",
+                "logotype_light": "quests/1473790795248177355/1476995081184481434.png",
+                "logotype_dark": "quests/1473790795248177355/1476995081184481434.png"
+            },
+            "colors": {
+                "primary": "#FFFFFF",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Resident Evil Requiem",
+                "game_title": "Resident Evil Requiem",
+                "game_publisher": "Capcom"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "event_name": "WATCH_VIDEO",
+                        "target": 29,
+                        "external_ids": []
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "event_name": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 29,
+                        "external_ids": []
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 29,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1473790795248177355/1473794208501469359_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1473790795248177355/1473795049312489573.png",
+                                "caption": "quests/1473790795248177355/1473797482940076264.vtt"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1473790795248177355/1473794208501469359_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1473790795248177355/1473795049312489573.png",
+                                "caption": "quests/1473790795248177355/1473797482940076264.vtt"
+                            },
+                            "video_hls": {
+                                "url": "quests/1473790795248177355/1473794208501469359.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1473790795248177355/1473795049312489573.png",
+                                "caption": "quests/1473790795248177355/1473797482940076264.vtt"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "RE Requiem Video"
+                        }
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 29,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1473790795248177355/1473794208501469359_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1473790795248177355/1473795049312489573.png",
+                                "caption": "quests/1473790795248177355/1473797482940076264.vtt"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1473790795248177355/1473794208501469359_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1473790795248177355/1473795049312489573.png",
+                                "caption": "quests/1473790795248177355/1473797482940076264.vtt"
+                            },
+                            "video_hls": {
+                                "url": "quests/1473790795248177355/1473794208501469359.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1473790795248177355/1473795049312489573.png",
+                                "caption": "quests/1473790795248177355/1473797482940076264.vtt"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "RE Requiem Video"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 3,
+                        "sku_id": "1474182780043657490",
+                        "asset": "quests/1473790795248177355/1474183427292139530.mp4",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "Resident Evil Requiem Avatar Decoration",
+                            "name_with_article": "a Resident Evil Requiem Avatar Decoration",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "expires_at": "2026-05-04T09:00:00+00:00",
+                        "expires_at_premium": null,
+                        "expiration_mode": 3
+                    }
+                ],
+                "rewards_expire_at": "2026-04-05T00:00:27+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://www.residentevil.com/requiem",
+                "button_label": "Buy Now",
+                "subtitle": "Resident Evil Requiem - Available Now"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false,
+        "traffic_metadata_raw": "EAI=",
+        "traffic_metadata_sealed": "EAI="
     }
 ]
