@@ -51651,5 +51651,262 @@
         "preview": false,
         "traffic_metadata_raw": "EAI=",
         "traffic_metadata_sealed": "EAI="
+    },
+    {
+        "id": "1471340231008583894",
+        "config": {
+            "id": "1471340231008583894",
+            "config_version": 2,
+            "starts_at": "2026-02-27T00:00:47+00:00",
+            "expires_at": "2026-03-02T00:00:47+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://shop.battle.net/product/world-of-warcraft-midnight?utm_source=Discord&utm_medium=PaidGGM",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1471340231008583894/1474064660406866052.jpg",
+                "hero_video": null,
+                "quest_bar_hero_blurhash": "SgcKDIBmd4iGd3iQh3hZei9wSw==",
+                "quest_bar_hero": "quests/1471340231008583894/1471344239567700009.jpg",
+                "quest_bar_hero_video": "quests/1471340231008583894/1471344419310534759.mp4",
+                "game_tile": "1471342217389150458.png",
+                "logotype": "1471344477338861672.png",
+                "game_tile_light": "quests/1471340231008583894/1471342036979421326.png",
+                "game_tile_dark": "quests/1471340231008583894/1471342036979421326.png",
+                "logotype_light": "quests/1471340231008583894/1471344172509298688.png",
+                "logotype_dark": "quests/1471340231008583894/1471344202313891963.png"
+            },
+            "colors": {
+                "primary": "#FFFFFF",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "World of Warcraft: Midnight Video",
+                "game_title": "World of Warcraft",
+                "game_publisher": "Blizzard Entertainment"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "event_name": "WATCH_VIDEO",
+                        "target": 126,
+                        "external_ids": []
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "event_name": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 126,
+                        "external_ids": []
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 126,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1471340231008583894/1471344607043256448_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1471340231008583894/1471344840754200647.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1471340231008583894/1471344607043256448_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1471340231008583894/1471344840754200647.jpg"
+                            },
+                            "video_hls": {
+                                "url": "quests/1471340231008583894/1471344607043256448.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1471340231008583894/1471344840754200647.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "Arator Cinematic: Immolation | World of Warcraft: Midnight"
+                        }
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 126,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1471340231008583894/1471344607043256448_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1471340231008583894/1471344840754200647.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1471340231008583894/1471344607043256448_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1471340231008583894/1471344840754200647.jpg"
+                            },
+                            "video_hls": {
+                                "url": "quests/1471340231008583894/1471344607043256448.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1471340231008583894/1471344840754200647.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "Arator Cinematic: Immolation | World of Warcraft: Midnight"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 Orbs",
+                            "name_with_article": "700 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 700,
+                        "premium_orb_quantity": 0
+                    }
+                ],
+                "rewards_expire_at": "2026-04-01T00:00:47+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://shop.battle.net/product/world-of-warcraft-midnight?utm_source=Discord&utm_medium=PaidGGM",
+                "button_label": "Get Game",
+                "subtitle": "Stand Against the Void"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false,
+        "traffic_metadata_raw": "EAI=",
+        "traffic_metadata_sealed": "EAI="
+    },
+    {
+        "id": "1469025960815890432",
+        "config": {
+            "id": "1469025960815890432",
+            "config_version": 2,
+            "starts_at": "2026-02-27T00:00:42+00:00",
+            "expires_at": "2026-03-02T00:00:42+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://tv.apple.com/gb/show/monarch-legacy-of-monsters/umc.cmc.62l8x0ixrhyq3yaqa5y8yo7ew?itscg=MC_10000&itsct=atvp_brand_omd&mttn3pid=Discord&mttnagencyid=a5e&mttncc=GB&mttnsiteid=143238&mttnsubad=06612783",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "1469026888734474300.jpg",
+                "hero_video": "1469027740740092030.mp4",
+                "quest_bar_hero_blurhash": "WbcJCoJIdUqPZ6iIbIRAYAk=",
+                "quest_bar_hero": "1469026888734474300.jpg",
+                "quest_bar_hero_video": "1469027740740092030.mp4",
+                "game_tile": "1469028387233468437.png",
+                "logotype": "1471235736807145675.png",
+                "game_tile_light": "1469028264940146771.png",
+                "game_tile_dark": "1469028196966990112.png",
+                "logotype_light": "1471235717677191375.png",
+                "logotype_dark": "1471235717677191375.png"
+            },
+            "colors": {
+                "primary": "#FFFFFF",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Monarch Season 2",
+                "game_title": "New episodes every Friday on Apple TV",
+                "game_publisher": "Apple TV"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "event_name": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 146,
+                        "external_ids": []
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 146,
+                        "assets": {
+                            "video": {
+                                "url": "1469423401314681100_1080.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "1469423281764565063.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "1469423401314681100_720.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "1469423281764565063.jpg"
+                            },
+                            "video_hls": {
+                                "url": "1469423401314681100.m3u8",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "1469423281764565063.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "placeholder"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 Orbs",
+                            "name_with_article": "700 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 700,
+                        "premium_orb_quantity": 0
+                    }
+                ],
+                "rewards_expire_at": "2026-04-01T00:00:42+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "not_shareable",
+            "cta_config": {
+                "link": "https://tv.apple.com/gb/show/monarch-legacy-of-monsters/umc.cmc.62l8x0ixrhyq3yaqa5y8yo7ew?itscg=MC_10000&itsct=atvp_brand_omd&mttn3pid=Discord&mttnagencyid=a5e&mttncc=GB&mttnsiteid=143238&mttnsubad=06612783",
+                "button_label": "Watch Now",
+                "subtitle": "New episodes every Friday on Apple TV"
+            }
+        }
     }
 ]
