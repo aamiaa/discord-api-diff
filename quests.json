@@ -52181,7 +52181,7 @@
             "id": "1474479946717204531",
             "config_version": 2,
             "starts_at": "2026-02-27T22:00:53+00:00",
-            "expires_at": "2026-03-09T06:00:53+00:00",
+            "expires_at": "2026-03-16T03:00:53+00:00",
             "features": [
                 15
             ],
@@ -52272,7 +52272,7 @@
                         "premium_orb_quantity": 0
                     }
                 ],
-                "rewards_expire_at": "2026-04-08T06:00:53+00:00",
+                "rewards_expire_at": "2026-04-15T03:00:53+00:00",
                 "platforms": [
                     0
                 ]
@@ -52991,6 +52991,113 @@
                 "link": "https://peacocktv.app.link/4WDvo568RZb",
                 "button_label": "Learn More",
                 "subtitle": "Ted is back on Peacock. You're welcome."
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false,
+        "traffic_metadata_raw": "EAI=",
+        "traffic_metadata_sealed": "EAI="
+    },
+    {
+        "id": "1463558755621929219",
+        "config": {
+            "id": "1463558755621929219",
+            "config_version": 2,
+            "starts_at": "2026-03-02T18:00:58+00:00",
+            "expires_at": "2026-03-15T23:00:58+00:00",
+            "features": [
+                8,
+                27,
+                15
+            ],
+            "application": {
+                "link": "https://www.netflix.com/title/80217863",
+                "id": "1462745149783150674",
+                "name": "One Piece Season 2"
+            },
+            "assets": {
+                "hero": "quests/1463558755621929219/1477044888737415399.jpg",
+                "hero_video": "quests/1463558755621929219/1477044834270187551.mp4",
+                "quest_bar_hero_blurhash": "DjkGFIJva3e5dodYiJp/rd6y+w==",
+                "quest_bar_hero": "quests/1463558755621929219/1477044156651278517.jpg",
+                "quest_bar_hero_video": "quests/1463558755621929219/1477044834270187551.mp4",
+                "game_tile": "1477045017200562206.png",
+                "logotype": "1477045016223551780.png",
+                "game_tile_light": "quests/1463558755621929219/1477044970815885332.png",
+                "game_tile_dark": "quests/1463558755621929219/1477044970815885332.png",
+                "logotype_light": "quests/1463558755621929219/1477044946027675868.png",
+                "logotype_dark": "quests/1463558755621929219/1477044946027675868.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "One Piece Gachapon",
+                "game_title": "One Piece Season 2",
+                "game_publisher": "Netflix"
+            },
+            "task_config": {
+                "type": 2,
+                "join_operator": "or",
+                "tasks": {
+                    "progress": {
+                        "event_name": "progress",
+                        "title": "One Piece Gachapon Quest",
+                        "description": "Collect all 5 Straw Hat Figures to claim 700 Orbs!",
+                        "target": 1
+                    }
+                },
+                "enrollment_url": "https://www.discord.com",
+                "developer_application_id": "1462745149783150674"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "ACHIEVEMENT_IN_ACTIVITY": {
+                        "type": "ACHIEVEMENT_IN_ACTIVITY",
+                        "target": 1,
+                        "applications": [
+                            {
+                                "id": "1462745149783150674"
+                            }
+                        ],
+                        "event_name": "progress",
+                        "messages": {
+                            "task_title": "One Piece Gachapon Quest",
+                            "task_description": "Collect all 5 Straw Hat Figures to claim 700 Orbs!"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 Orbs",
+                            "name_with_article": "700 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 700,
+                        "premium_orb_quantity": 0
+                    }
+                ],
+                "rewards_expire_at": "2026-04-14T23:00:58+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://www.netflix.com/title/80217863",
+                "button_label": "Learn More",
+                "subtitle": "Watch One Piece Season 2 only on Netflix March 10"
             }
         },
         "user_status": null,
