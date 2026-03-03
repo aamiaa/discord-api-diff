@@ -53105,5 +53105,103 @@
         "preview": false,
         "traffic_metadata_raw": "EAI=",
         "traffic_metadata_sealed": "EAI="
+    },
+    {
+        "id": "1475591247103004672",
+        "config": {
+            "id": "1475591247103004672",
+            "config_version": 2,
+            "starts_at": "2026-03-03T00:18:48+00:00",
+            "expires_at": "2026-03-15T23:00:48+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://shop.battle.net/product/world-of-warcraft-midnight?utm_source=Discord&utm_medium=PaidGGM",
+                "id": "356875762940379136",
+                "name": "World of Warcraft"
+            },
+            "assets": {
+                "hero": "quests/1475591247103004672/1475594082549108907.jpg",
+                "hero_video": null,
+                "quest_bar_hero_blurhash": "FvcJCoJUK5pvh4eH24CqCIg=",
+                "quest_bar_hero": "quests/1475591247103004672/1475594082549108907.jpg",
+                "quest_bar_hero_video": null,
+                "game_tile": "1475594623991939233.png",
+                "logotype": "1475594295409901638.png",
+                "game_tile_light": "quests/1475591247103004672/1475594336392445962.png",
+                "game_tile_dark": "quests/1475591247103004672/1475594336392445962.png",
+                "logotype_light": "quests/1475591247103004672/1475594212996022293.png",
+                "logotype_dark": "quests/1475591247103004672/1475594256830828544.png"
+            },
+            "colors": {
+                "primary": "#FFFFFF",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "World of Warcraft: Midnight",
+                "game_title": " World of Warcraft: Midnight",
+                "game_publisher": "Blizzard Entertainment"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "event_name": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "external_ids": []
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "356875762940379136"
+                            }
+                        ]
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 1,
+                        "sku_id": "1475591247103004673",
+                        "asset": "quests/1475591247103004672/1478114014742708335.png",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "Razeshi C. Pet",
+                            "name_with_article": "a Razeshi C. Pet",
+                            "redemption_instructions_by_platform": {
+                                "0": "1. Login to the Battle.net Desktop App\n\n2. Click your profile icon at the top right corner of the App\n\n3. Click Redeem Code"
+                            }
+                        },
+                        "approximate_count": null,
+                        "redemption_link": null
+                    }
+                ],
+                "rewards_expire_at": "2026-04-14T23:00:48+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://shop.battle.net/product/world-of-warcraft-midnight?utm_source=Discord&utm_medium=PaidGGM",
+                "button_label": "Play Now"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false,
+        "traffic_metadata_raw": "EAI=",
+        "traffic_metadata_sealed": "EAI="
     }
 ]
