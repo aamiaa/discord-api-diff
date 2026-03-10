@@ -54190,5 +54190,292 @@
         "targeted_content": [],
         "preview": false,
         "traffic_metadata_raw": "EAI="
+    },
+    {
+        "id": "1474437726668328960",
+        "config": {
+            "id": "1474437726668328960",
+            "config_version": 2,
+            "starts_at": "2026-03-10T17:00:07+00:00",
+            "expires_at": "2026-03-31T23:00:07+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://azure.microsoft.com/en-us/explore/?OCID=AIDcmmtq9au3dt_OLA_%ebuy!_%epid!_%ecid!",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1474437726668328960/1477080675898097735.jpg",
+                "hero_video": "quests/1474437726668328960/1474441202022613204.mp4",
+                "quest_bar_hero_blurhash": "WTkKDII7J0WPh4ZTmHYMr7OAOw==",
+                "quest_bar_hero": "quests/1474437726668328960/1477081819768951025.jpg",
+                "quest_bar_hero_video": "quests/1474437726668328960/1474441202022613204.mp4",
+                "game_tile": "1474441642651156672.png",
+                "logotype": "1474441641543729387.png",
+                "game_tile_light": "quests/1474437726668328960/1474441468318847118.png",
+                "game_tile_dark": "quests/1474437726668328960/1474441468318847118.png",
+                "logotype_light": "quests/1474437726668328960/1474441359057485917.png",
+                "logotype_dark": "quests/1474437726668328960/1474441359057485917.png"
+            },
+            "colors": {
+                "primary": "#FFFFFF",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Microsoft Azure",
+                "game_title": "Microsoft Azure",
+                "game_publisher": "Microsoft"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "event_name": "WATCH_VIDEO",
+                        "target": 14,
+                        "external_ids": []
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "event_name": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 14,
+                        "external_ids": []
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 14,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1474437726668328960/1474441949451915355_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1474437726668328960/1474441984864157998.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1474437726668328960/1474441949451915355_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1474437726668328960/1474441984864157998.jpg"
+                            },
+                            "video_hls": {
+                                "url": "quests/1474437726668328960/1474441949451915355.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1474437726668328960/1474441984864157998.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "Microsoft Azure Trailer"
+                        }
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 14,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1474437726668328960/1474441876286341170_1080.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1474437726668328960/1474441984864157998.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1474437726668328960/1474441876286341170_720.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1474437726668328960/1474441984864157998.jpg"
+                            },
+                            "video_hls": {
+                                "url": "quests/1474437726668328960/1474441876286341170.m3u8",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1474437726668328960/1474441984864157998.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "Microsoft Azure Trailer"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 Orbs",
+                            "name_with_article": "700 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 700,
+                        "premium_orb_quantity": 0
+                    }
+                ],
+                "rewards_expire_at": "2026-04-30T23:00:07+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://azure.microsoft.com/en-us/explore/?OCID=AIDcmmtq9au3dt_OLA_%ebuy!_%epid!_%ecid!",
+                "button_label": "Learn More",
+                "subtitle": "Take stress out of growth with Azure"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false,
+        "traffic_metadata_raw": "EAI="
+    },
+    {
+        "id": "1478512780595167233",
+        "config": {
+            "id": "1478512780595167233",
+            "config_version": 2,
+            "starts_at": "2026-03-10T17:00:56+00:00",
+            "expires_at": "2026-03-25T00:00:56+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://ad.doubleclick.net/ddm/trackclk/N7657.3866164DISCORD.COM/B35336492.441336835;dc_trk_aid=635066988;dc_trk_cid=251709255;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=$%7BGDPR%7D;gdpr_consent=$%7BGDPR_CONSENT_755%7D;ltd=;dc_tdv=1",
+                "id": "542075586886107149",
+                "name": "Apex Legends"
+            },
+            "assets": {
+                "hero": "quests/1478512780595167233/1478513795717529610.jpg",
+                "hero_video": null,
+                "quest_bar_hero_blurhash": "XMcFDIIKo2ebe6U2uViQMgUbpw==",
+                "quest_bar_hero": "quests/1478512780595167233/1478513683549257859.jpg",
+                "quest_bar_hero_video": null,
+                "game_tile": "1478514466348990615.png",
+                "logotype": "1478514464620941445.png",
+                "game_tile_light": "quests/1478512780595167233/1478514333653799033.png",
+                "game_tile_dark": "quests/1478512780595167233/1478514333653799033.png",
+                "logotype_light": "quests/1478512780595167233/1478514182474305629.png",
+                "logotype_dark": "quests/1478512780595167233/1478514120910180574.png"
+            },
+            "colors": {
+                "primary": "#FFFFFF",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Apex Legends x Gundam Event",
+                "game_title": "Apex Legends",
+                "game_publisher": "Apex Legends"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "event_name": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "external_ids": []
+                    },
+                    "PLAY_ON_XBOX": {
+                        "event_name": "PLAY_ON_XBOX",
+                        "target": 900,
+                        "external_ids": [
+                            "175227487"
+                        ]
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "event_name": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "external_ids": [
+                            "CUSA12540_00",
+                            "CUSA12552_00",
+                            "PPSA04874_00",
+                            "PPSA04873_00"
+                        ]
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "542075586886107149"
+                            }
+                        ]
+                    },
+                    "PLAY_ON_XBOX": {
+                        "type": "PLAY_ON_XBOX",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "542075586886107149"
+                            }
+                        ],
+                        "external_ids": [
+                            "175227487"
+                        ]
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "type": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "542075586886107149"
+                            }
+                        ],
+                        "external_ids": [
+                            "CUSA12540_00",
+                            "CUSA12552_00",
+                            "PPSA04874_00",
+                            "PPSA04873_00"
+                        ]
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 1,
+                        "sku_id": "1478512780595167234",
+                        "asset": "quests/1478512780595167233/1478516968041615373.jpg",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "Gundam Wing Zero Trackers",
+                            "name_with_article": "Gundam Wing Zero Trackers",
+                            "redemption_instructions_by_platform": {
+                                "0": "Codes are not platform specific and are redeemed from within the Apex Legends Storefront.        \n1. Boot Apex Legends on your platform of choice.  \n2. When on the lobby screen select [Store].  \n3. Select [Redeem Code] on the bottom left.  \n4. Enter the code you received.  \n5. Select [Redeem].    \n\nRequires EA account."
+                            }
+                        },
+                        "approximate_count": null,
+                        "redemption_link": null
+                    }
+                ],
+                "rewards_expire_at": "2026-04-24T00:00:56+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://ad.doubleclick.net/ddm/trackclk/N7657.3866164DISCORD.COM/B35336492.441336835;dc_trk_aid=635066988;dc_trk_cid=251709255;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=$%7BGDPR%7D;gdpr_consent=$%7BGDPR_CONSENT_755%7D;ltd=;dc_tdv=1",
+                "button_label": "Play Now"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false,
+        "traffic_metadata_raw": "EAI="
     }
 ]
