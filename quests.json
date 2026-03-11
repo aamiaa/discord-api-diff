@@ -54591,5 +54591,543 @@
         "targeted_content": [],
         "preview": false,
         "traffic_metadata_raw": "EAI="
+    },
+    {
+        "id": "1479540375348576417",
+        "config": {
+            "id": "1479540375348576417",
+            "config_version": 2,
+            "starts_at": "2026-03-11T15:35:00+00:00",
+            "expires_at": "2026-03-14T06:59:59+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://obsessionfilm.com",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1479540375348576417/1481301903622144141.jpg",
+                "hero_video": "quests/1479540375348576417/1481307716990533743.mp4",
+                "quest_bar_hero_blurhash": "BAgGCoIQfTl2emWIcGoGlmc=",
+                "quest_bar_hero": "quests/1479540375348576417/1481301903622144141.jpg",
+                "quest_bar_hero_video": "quests/1479540375348576417/1481315839180406795.mp4",
+                "game_tile": "1481303074508243044.png",
+                "logotype": "1481303073526644857.png",
+                "game_tile_light": "quests/1479540375348576417/1481301944026005557.png",
+                "game_tile_dark": "quests/1479540375348576417/1481301944026005557.png",
+                "logotype_light": "quests/1479540375348576417/1481302000237936700.png",
+                "logotype_dark": "quests/1479540375348576417/1481302098728587434.png"
+            },
+            "colors": {
+                "primary": "#FFFFFF",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Obsession",
+                "game_title": "Obsession | Only In Theaters May 15",
+                "game_publisher": "Focus Features"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "event_name": "WATCH_VIDEO",
+                        "target": 132,
+                        "external_ids": []
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "event_name": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 132,
+                        "external_ids": []
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 132,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1479540375348576417/1481307598887063563_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1479540375348576417/1481309085344202803.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1479540375348576417/1481307598887063563_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1479540375348576417/1481309085344202803.jpg"
+                            },
+                            "video_hls": {
+                                "url": "quests/1479540375348576417/1481307598887063563.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1479540375348576417/1481309085344202803.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "Obsession Trailer"
+                        }
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 132,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1479540375348576417/1481307655330074784_1080.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1479540375348576417/1481309085344202803.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1479540375348576417/1481307655330074784_720.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1479540375348576417/1481309085344202803.jpg"
+                            },
+                            "video_hls": {
+                                "url": "quests/1479540375348576417/1481307655330074784.m3u8",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1479540375348576417/1481309085344202803.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "Obsession Trailer"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "200 Orbs",
+                            "name_with_article": "200 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 200,
+                        "premium_orb_quantity": 0
+                    }
+                ],
+                "rewards_expire_at": "2026-04-13T06:59:59+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://obsessionfilm.com",
+                "button_label": "Learn More",
+                "subtitle": "Obsession | Only In Theaters May 15"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false,
+        "traffic_metadata_raw": "EAI="
+    },
+    {
+        "id": "1478855935052222658",
+        "config": {
+            "id": "1478855935052222658",
+            "config_version": 2,
+            "starts_at": "2026-03-11T17:00:00+00:00",
+            "expires_at": "2026-03-24T00:00:59+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://www.rocketleague.com/",
+                "id": "356877880938070016",
+                "name": "Rocket League"
+            },
+            "assets": {
+                "hero": "quests/1478855935052222658/1478905022803738767.jpg",
+                "hero_video": null,
+                "quest_bar_hero_blurhash": "kGgGHwxVZ3iPVXl6N3pp1neKCGqJoJYI",
+                "quest_bar_hero": "quests/1478855935052222658/1478904961936130276.jpg",
+                "quest_bar_hero_video": null,
+                "game_tile": "1478905703451201638.png",
+                "logotype": "1478905697080184882.png",
+                "game_tile_light": "quests/1478855935052222658/1478905167427534990.png",
+                "game_tile_dark": "quests/1478855935052222658/1478905167427534990.png",
+                "logotype_light": "quests/1478855935052222658/1478905079254876261.png",
+                "logotype_dark": "quests/1478855935052222658/1478905079254876261.png"
+            },
+            "colors": {
+                "primary": "#FFFFFF",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Rocket League Season 22",
+                "game_title": "Rocket League",
+                "game_publisher": "Epic Games"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "event_name": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "external_ids": []
+                    },
+                    "PLAY_ON_XBOX": {
+                        "event_name": "PLAY_ON_XBOX",
+                        "target": 900,
+                        "external_ids": [
+                            "558797228"
+                        ]
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "event_name": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "external_ids": [
+                            "CUSA01433_00",
+                            "CUSA01163_00"
+                        ]
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "356877880938070016"
+                            }
+                        ]
+                    },
+                    "PLAY_ON_XBOX": {
+                        "type": "PLAY_ON_XBOX",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "356877880938070016"
+                            }
+                        ],
+                        "external_ids": [
+                            "558797228"
+                        ]
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "type": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "356877880938070016"
+                            }
+                        ],
+                        "external_ids": [
+                            "CUSA01433_00",
+                            "CUSA01163_00"
+                        ]
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 1,
+                        "sku_id": "1478855935052222659",
+                        "asset": "quests/1478855935052222658/1478907141464264888.png",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "Aero Splash Pack",
+                            "name_with_article": "an Aero Splash Pack",
+                            "redemption_instructions_by_platform": {
+                                "0": "How do I redeem a code in Rocket League?  \nSome items can be placed in your inventory by entering your redemption code through the in-game menu. To do this, follow the below steps:   \nLaunch Rocket League.  \nSelect Settings from the menu.  \nSelect Extras.  \nSelect Redeem Code.  \nType in the in-game redemption code. \nAll codes need to be entered exactly as they are printed. Make sure to include the dashes (-) and avoid adding extra spaces at the beginning or the end of the code  \nSelect OK."
+                            }
+                        },
+                        "approximate_count": null,
+                        "redemption_link": null
+                    }
+                ],
+                "rewards_expire_at": "2026-04-23T00:00:59+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://www.rocketleague.com/",
+                "button_label": "Play Now"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false,
+        "traffic_metadata_raw": "EAI="
+    },
+    {
+        "id": "1475943803956232283",
+        "config": {
+            "id": "1475943803956232283",
+            "config_version": 2,
+            "starts_at": "2026-03-11T17:00:44+00:00",
+            "expires_at": "2026-03-16T00:00:44+00:00",
+            "features": [
+                8,
+                27,
+                15
+            ],
+            "application": {
+                "link": "https://valorantesports.com/?utm_source=discord&utm_medium=paid&utm_campaign=VCTMastersSantiago2026",
+                "id": "1458877523826970766",
+                "name": "VALORANT Masters Santiago"
+            },
+            "assets": {
+                "hero": "quests/1475943803956232283/1476651119164915904.jpg",
+                "hero_video": "quests/1475943803956232283/1478093815070986280.mp4",
+                "quest_bar_hero_blurhash": "YGcGFIR1lXdveXlpmGgD2Vbc/g==",
+                "quest_bar_hero": "quests/1475943803956232283/1476650772103037039.jpg",
+                "quest_bar_hero_video": "quests/1475943803956232283/1476650941854912612.mp4",
+                "game_tile": "1476651176270237888.png",
+                "logotype": "1476651170704658553.png",
+                "game_tile_light": "quests/1475943803956232283/1476650544893268159.png",
+                "game_tile_dark": "quests/1475943803956232283/1476650544893268159.png",
+                "logotype_light": "quests/1475943803956232283/1476650562916454561.png",
+                "logotype_dark": "quests/1475943803956232283/1476650562916454561.png"
+            },
+            "colors": {
+                "primary": "#FFFFFF",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "VALORANT Masters Santiago",
+                "game_title": "VALORANT",
+                "game_publisher": "Riot Games"
+            },
+            "task_config": {
+                "type": 2,
+                "join_operator": "or",
+                "tasks": {
+                    "progress": {
+                        "event_name": "progress",
+                        "title": "Vote for who you think will win Masters Santiago!",
+                        "description": "The final four of VALORANT Masters Santiago are here. Which team will raise the trophy on March 15?",
+                        "target": 1
+                    }
+                },
+                "enrollment_url": "https://www.discord.com",
+                "developer_application_id": "1458877523826970766"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "ACHIEVEMENT_IN_ACTIVITY": {
+                        "type": "ACHIEVEMENT_IN_ACTIVITY",
+                        "target": 1,
+                        "applications": [
+                            {
+                                "id": "1458877523826970766"
+                            }
+                        ],
+                        "event_name": "progress",
+                        "messages": {
+                            "task_title": "Vote for who you think will win Masters Santiago!",
+                            "task_description": "The final four of VALORANT Masters Santiago are here. Which team will raise the trophy on March 15?"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 3,
+                        "sku_id": "1476651931094224957",
+                        "asset": "quests/1475943803956232283/1476651323918385403.mp4",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "Masters Santiago Dan Avatar Decoration",
+                            "name_with_article": "a Masters Santiago Dan Avatar Decoration",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "expires_at": "2026-05-14T23:00:00+00:00",
+                        "expires_at_premium": null,
+                        "expiration_mode": 3
+                    }
+                ],
+                "rewards_expire_at": "2026-04-15T00:00:44+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://valorantesports.com/?utm_source=discord&utm_medium=paid&utm_campaign=VCTMastersSantiago2026",
+                "button_label": "Watch Now",
+                "subtitle": "Finals Weekend March 13-15"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false,
+        "traffic_metadata_raw": "EAI="
+    },
+    {
+        "id": "1479563144895533307",
+        "config": {
+            "id": "1479563144895533307",
+            "config_version": 2,
+            "starts_at": "2026-03-11T17:00:42+00:00",
+            "expires_at": "2026-04-14T00:00:42+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://www.apple.com/macbook-neo/?cid=wwa-us-div-mac-26mntn-dpre-discord-nspf-inst-cpm-ios-dsk-aiost-gnt-broa-prlp-attnbb-usen-hndsp-video-11ar-30s-montn-na-sta-na-na-na-na-06718619",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1479563144895533307/1479567877148512256.jpg",
+                "hero_video": "quests/1479563144895533307/1479567918810398840.mp4",
+                "quest_bar_hero_blurhash": "d/gFFICR7Ip0iGiPZo1/rCQK8w==",
+                "quest_bar_hero": "quests/1479563144895533307/1479567970412789830.jpg",
+                "quest_bar_hero_video": "quests/1479563144895533307/1479567918810398840.mp4",
+                "game_tile": "1479574957670404228.png",
+                "logotype": "1479568432214184138.png",
+                "game_tile_light": "quests/1479563144895533307/1479568383623168020.png",
+                "game_tile_dark": "quests/1479563144895533307/1479568409321803887.png",
+                "logotype_light": "quests/1479563144895533307/1479568250953273506.png",
+                "logotype_dark": "quests/1479563144895533307/1479568276362105015.png"
+            },
+            "colors": {
+                "primary": "#FFFFFF",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "The all-new MacBook Neo",
+                "game_title": "MacBook Neo",
+                "game_publisher": "Apple"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "event_name": "WATCH_VIDEO",
+                        "target": 29,
+                        "external_ids": []
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "event_name": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 14,
+                        "external_ids": []
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 29,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1479563144895533307/1479567056709095637_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1479563144895533307/1480982290669768947.png"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1479563144895533307/1479567056709095637_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1479563144895533307/1480982290669768947.png"
+                            },
+                            "video_hls": {
+                                "url": "quests/1479563144895533307/1479567056709095637.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1479563144895533307/1480982290669768947.png"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "Mac Neo Video"
+                        }
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 14,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1479563144895533307/1479566852026794024_1080.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1479563144895533307/1480982290669768947.png"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1479563144895533307/1479566852026794024_720.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1479563144895533307/1480982290669768947.png"
+                            },
+                            "video_hls": {
+                                "url": "quests/1479563144895533307/1479566852026794024.m3u8",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1479563144895533307/1480982290669768947.png"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "Mac Neo Video"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "200 Orbs",
+                            "name_with_article": "200 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 200,
+                        "premium_orb_quantity": 0
+                    }
+                ],
+                "rewards_expire_at": "2026-05-14T00:00:42+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://www.apple.com/macbook-neo/?cid=wwa-us-div-mac-26mntn-dpre-discord-nspf-inst-cpm-ios-dsk-aiost-gnt-broa-prlp-attnbb-usen-hndsp-video-11ar-30s-montn-na-sta-na-na-na-na-06718619",
+                "button_label": "Learn More",
+                "subtitle": "Amazing Mac. Surprising price."
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false,
+        "traffic_metadata_raw": "EAI="
     }
 ]
