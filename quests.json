@@ -55129,5 +55129,268 @@
         "targeted_content": [],
         "preview": false,
         "traffic_metadata_raw": "EAI="
+    },
+    {
+        "id": "1480604391718256773",
+        "config": {
+            "id": "1480604391718256773",
+            "config_version": 2,
+            "starts_at": "2026-03-12T17:00:15+00:00",
+            "expires_at": "2026-03-23T00:00:15+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://akendfield.gryphline.com/d27t/v1d1DQ",
+                "id": "1461154307171811401",
+                "name": "Arknights:Endfield"
+            },
+            "assets": {
+                "hero": "quests/1480604391718256773/1481330486675767389.jpg",
+                "hero_video": "quests/1480604391718256773/1480622959457468477.mp4",
+                "quest_bar_hero_blurhash": "HQgOC4BghYlud3h3CX5ocQk=",
+                "quest_bar_hero": "quests/1480604391718256773/1481330906454298837.jpg",
+                "quest_bar_hero_video": "quests/1480604391718256773/1480622959457468477.mp4",
+                "game_tile": "1480623327604379689.jpg",
+                "logotype": "1480623326442426452.png",
+                "game_tile_light": "quests/1480604391718256773/1480623194061672580.jpg",
+                "game_tile_dark": "quests/1480604391718256773/1480623194061672580.jpg",
+                "logotype_light": "quests/1480604391718256773/1480623146091548737.png",
+                "logotype_dark": "quests/1480604391718256773/1480623088575058021.png"
+            },
+            "colors": {
+                "primary": "#FFFFFF",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Version Update: Tangtang",
+                "game_title": "Arknights: Endfield",
+                "game_publisher": "GRYPHLINE"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "event_name": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "external_ids": []
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "event_name": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "external_ids": [
+                            "PPSA22751_00",
+                            "PPSA18538_00"
+                        ]
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1461154307171811401"
+                            }
+                        ]
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "type": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1461154307171811401"
+                            }
+                        ],
+                        "external_ids": [
+                            "PPSA22751_00",
+                            "PPSA18538_00"
+                        ]
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 Orbs",
+                            "name_with_article": "700 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 700,
+                        "premium_orb_quantity": 0
+                    }
+                ],
+                "rewards_expire_at": "2026-04-22T00:00:15+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://akendfield.gryphline.com/d27t/v1d1DQ",
+                "button_label": "Play Now",
+                "subtitle": "Play Arknights: Endfield for 15 minutes"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false,
+        "traffic_metadata_raw": "EAI="
+    },
+    {
+        "id": "1479538233627906118",
+        "config": {
+            "id": "1479538233627906118",
+            "config_version": 2,
+            "starts_at": "2026-03-12T17:00:00+00:00",
+            "expires_at": "2026-03-19T06:59:59+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://www.disclosuredaymovie.com/",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1479538233627906118/1480991526631772253.jpg",
+                "hero_video": "quests/1479538233627906118/1481686152250527824.mp4",
+                "quest_bar_hero_blurhash": "2dYRG4Rwl3eGeDiYv3r6mbc=",
+                "quest_bar_hero": "quests/1479538233627906118/1480993031715950707.jpg",
+                "quest_bar_hero_video": "quests/1479538233627906118/1481686152250527824.mp4",
+                "game_tile": "1480991890458542343.png",
+                "logotype": "1480991889384542228.png",
+                "game_tile_light": "quests/1479538233627906118/1480991764981612656.png",
+                "game_tile_dark": "quests/1479538233627906118/1480991764981612656.png",
+                "logotype_light": "quests/1479538233627906118/1480991656277704714.png",
+                "logotype_dark": "quests/1479538233627906118/1480991718471106836.png"
+            },
+            "colors": {
+                "primary": "#FFFFFF",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Disclosure Day",
+                "game_title": "Disclosure Day",
+                "game_publisher": "Universal Pictures"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "event_name": "WATCH_VIDEO",
+                        "target": 157,
+                        "external_ids": []
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "event_name": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 157,
+                        "external_ids": []
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 157,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1479538233627906118/1481685990446858411_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1479538233627906118/1480992010310520912.png"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1479538233627906118/1481685990446858411_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1479538233627906118/1480992010310520912.png"
+                            },
+                            "video_hls": {
+                                "url": "quests/1479538233627906118/1481685990446858411.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1479538233627906118/1480992010310520912.png"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "video"
+                        }
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 157,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1479538233627906118/1481685990446858411_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1479538233627906118/1480992010310520912.png"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1479538233627906118/1481685990446858411_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1479538233627906118/1480992010310520912.png"
+                            },
+                            "video_hls": {
+                                "url": "quests/1479538233627906118/1481685990446858411.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1479538233627906118/1480992010310520912.png"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "video"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "200 Orbs",
+                            "name_with_article": "200 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 200,
+                        "premium_orb_quantity": 0
+                    }
+                ],
+                "rewards_expire_at": "2026-04-18T06:59:59+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://www.disclosuredaymovie.com/",
+                "button_label": "Learn More",
+                "subtitle": "Disclosure Day in Theaters June 12"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false,
+        "traffic_metadata_raw": "EAI="
     }
 ]
