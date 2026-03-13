@@ -51348,7 +51348,7 @@
             "id": "1473453463752151071",
             "config_version": 2,
             "starts_at": "2026-02-26T18:00:01+00:00",
-            "expires_at": "2026-03-12T23:00:01+00:00",
+            "expires_at": "2026-03-12T21:40:01+00:00",
             "features": [
                 15
             ],
@@ -51471,7 +51471,7 @@
                         "premium_orb_quantity": 0
                     }
                 ],
-                "rewards_expire_at": "2026-04-11T23:00:01+00:00",
+                "rewards_expire_at": "2026-04-11T21:40:01+00:00",
                 "platforms": [
                     0
                 ]
@@ -55386,6 +55386,152 @@
                 "link": "https://www.disclosuredaymovie.com/",
                 "button_label": "Learn More",
                 "subtitle": "Disclosure Day in Theaters June 12"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false,
+        "traffic_metadata_raw": "EAI="
+    },
+    {
+        "id": "1478526278440321174",
+        "config": {
+            "id": "1478526278440321174",
+            "config_version": 2,
+            "starts_at": "2026-03-12T21:30:00+00:00",
+            "expires_at": "2026-03-19T00:00:59+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://voidinteractive.net/ready-or-not-console/?utm_source=discord&utm_medium=paidmedialqa&utm_campaign=ron-boilingpointdlc-us&utm_term=ronplayers&utm_content=dlctrailer-1920x1080-full",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1478526278440321174/1478831179057594439.jpg",
+                "hero_video": "quests/1478526278440321174/1478831243977035979.mp4",
+                "quest_bar_hero_blurhash": "lEgKEojOgKptaYiHA2o4oIY=",
+                "quest_bar_hero": "quests/1478526278440321174/1478831179057594439.jpg",
+                "quest_bar_hero_video": "quests/1478526278440321174/1478831243977035979.mp4",
+                "game_tile": "1478832251226554459.jpg",
+                "logotype": "1478832250253480078.png",
+                "game_tile_light": "quests/1478526278440321174/1478831548160540873.jpg",
+                "game_tile_dark": "quests/1478526278440321174/1478831548160540873.jpg",
+                "logotype_light": "quests/1478526278440321174/1478831503881404457.png",
+                "logotype_dark": "quests/1478526278440321174/1478831503881404457.png"
+            },
+            "colors": {
+                "primary": "#FFFFFF",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Ready or Not DLC",
+                "game_title": "Ready or Not: Boiling Point DLC",
+                "game_publisher": "VOID Interactive"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "event_name": "WATCH_VIDEO",
+                        "target": 87,
+                        "external_ids": []
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "event_name": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 87,
+                        "external_ids": []
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 87,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1478526278440321174/1481325107426365653_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1478526278440321174/1481327158562390261.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1478526278440321174/1481325107426365653_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1478526278440321174/1481327158562390261.jpg"
+                            },
+                            "video_hls": {
+                                "url": "quests/1478526278440321174/1481325107426365653.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1478526278440321174/1481327158562390261.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "video"
+                        }
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 87,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1478526278440321174/1481325107426365653_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1478526278440321174/1481327158562390261.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1478526278440321174/1481325107426365653_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1478526278440321174/1481327158562390261.jpg"
+                            },
+                            "video_hls": {
+                                "url": "quests/1478526278440321174/1481325107426365653.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1478526278440321174/1481327158562390261.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "video"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "200 Orbs",
+                            "name_with_article": "200 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 200,
+                        "premium_orb_quantity": 0
+                    }
+                ],
+                "rewards_expire_at": "2026-04-18T00:00:59+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://voidinteractive.net/ready-or-not-console/?utm_source=discord&utm_medium=paidmedialqa&utm_campaign=ron-boilingpointdlc-us&utm_term=ronplayers&utm_content=dlctrailer-1920x1080-full",
+                "button_label": "Buy Now",
+                "subtitle": "Available on Steam, PS5 and Xbox Series X|S."
             }
         },
         "user_status": null,
