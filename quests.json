@@ -56277,5 +56277,239 @@
                 "button_label": "Install"
             }
         }
+    },
+    {
+        "id": "1482078151872876544",
+        "config": {
+            "id": "1482078151872876544",
+            "config_version": 2,
+            "starts_at": "2026-03-16T18:00:18+00:00",
+            "expires_at": "2026-03-21T00:00:18+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://www.pokemongo.com/",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1481703146219770007/1482136887148679188.jpg",
+                "hero_video": null,
+                "quest_bar_hero_blurhash": "ajQFJIoYWHefd4lzh3kIi6VgaA==",
+                "quest_bar_hero": "quests/1481703146219770007/1482145765030887497.jpg",
+                "quest_bar_hero_video": "quests/1481703146219770007/1482145805363314858.mp4",
+                "game_tile": "1482145967519039692.png",
+                "logotype": "1482145966734966814.png",
+                "game_tile_light": "quests/1481703146219770007/1482136937065349253.png",
+                "game_tile_dark": "quests/1481703146219770007/1482136937065349253.png",
+                "logotype_light": "quests/1481703146219770007/1482136967557943377.png",
+                "logotype_dark": "quests/1481703146219770007/1482136967557943377.png"
+            },
+            "colors": {
+                "primary": "#FFFFFF",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Pokémon GO",
+                "game_title": "Pokémon GO",
+                "game_publisher": "Niantic"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "event_name": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 29,
+                        "external_ids": []
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 29,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1481703146219770007/1483148915724386396_1080.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1481703146219770007/1482138977954697356.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1481703146219770007/1483148915724386396_720.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1481703146219770007/1482138977954697356.jpg"
+                            },
+                            "video_hls": {
+                                "url": "quests/1481703146219770007/1483148915724386396.m3u8",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1481703146219770007/1482138977954697356.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "Pokémon GO"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "200 Orbs",
+                            "name_with_article": "200 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 200,
+                        "premium_orb_quantity": 0
+                    }
+                ],
+                "rewards_expire_at": "2026-04-20T00:00:18+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "android": {
+                    "android_app_id": "com.nianticlabs.pokemongo"
+                },
+                "ios": {
+                    "ios_app_id": "1094591345"
+                },
+                "link": "https://www.pokemongo.com/",
+                "button_label": "Install"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false,
+        "traffic_metadata_raw": "EAI="
+    },
+    {
+        "id": "1482077690449104947",
+        "config": {
+            "id": "1482077690449104947",
+            "config_version": 2,
+            "starts_at": "2026-03-16T18:00:18+00:00",
+            "expires_at": "2026-03-21T00:00:18+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://www.pokemongo.com/",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "1482136887148679188.jpg",
+                "hero_video": null,
+                "quest_bar_hero_blurhash": "mGgSFIgHyHeEeYeGeHe2cGZfiA==",
+                "quest_bar_hero": "1482140981779370004.jpg",
+                "quest_bar_hero_video": "1483149149422616779.mp4",
+                "game_tile": "1482141975967826050.png",
+                "logotype": "1482141919004983357.png",
+                "game_tile_light": "1482136937065349253.png",
+                "game_tile_dark": "1482136937065349253.png",
+                "logotype_light": "1482136967557943377.png",
+                "logotype_dark": "1482136967557943377.png"
+            },
+            "colors": {
+                "primary": "#FFFFFF",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Pokémon GO",
+                "game_title": "Pokémon GO",
+                "game_publisher": "Niantic"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "event_name": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 29,
+                        "external_ids": []
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 29,
+                        "assets": {
+                            "video": {
+                                "url": "1482139182255046686_1080.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "1482138977954697356.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "1482139182255046686_720.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "1482138977954697356.jpg"
+                            },
+                            "video_hls": {
+                                "url": "1482139182255046686.m3u8",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "1482138977954697356.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "Pokemon Go"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "200 Orbs",
+                            "name_with_article": "200 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 200,
+                        "premium_orb_quantity": 0
+                    }
+                ],
+                "rewards_expire_at": "2026-04-20T00:00:18+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "android": {
+                    "android_app_id": "com.nianticlabs.pokemongo"
+                },
+                "ios": {
+                    "ios_app_id": "1094591345"
+                },
+                "link": "https://www.pokemongo.com/",
+                "button_label": "Install"
+            }
+        }
     }
 ]
