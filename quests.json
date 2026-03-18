@@ -55399,7 +55399,7 @@
             "id": "1478526278440321174",
             "config_version": 2,
             "starts_at": "2026-03-12T21:30:00+00:00",
-            "expires_at": "2026-03-19T00:00:59+00:00",
+            "expires_at": "2026-03-19T06:59:59+00:00",
             "features": [
                 15
             ],
@@ -55522,7 +55522,7 @@
                         "premium_orb_quantity": 0
                     }
                 ],
-                "rewards_expire_at": "2026-04-18T00:00:59+00:00",
+                "rewards_expire_at": "2026-04-18T06:59:59+00:00",
                 "platforms": [
                     0
                 ]
@@ -56511,5 +56511,143 @@
                 "button_label": "Install"
             }
         }
+    },
+    {
+        "id": "1475987384116973579",
+        "config": {
+            "id": "1475987384116973579",
+            "config_version": 2,
+            "starts_at": "2026-03-18T16:00:54+00:00",
+            "expires_at": "2026-03-26T00:00:54+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://playvalorant.com/?utm_source=discord&utm_medium=paid&utm_campaign=VALAct2LaunchPlay",
+                "id": "700136079562375258",
+                "name": "VALORANT"
+            },
+            "assets": {
+                "hero": "quests/1475987384116973579/1475990085714317372.jpg",
+                "hero_video": "quests/1475987384116973579/1475990159735525530.mp4",
+                "quest_bar_hero_blurhash": "UigKHIIC73l3iHeJeHgDeUnAZw==",
+                "quest_bar_hero": "quests/1475987384116973579/1475989961516777653.jpg",
+                "quest_bar_hero_video": "quests/1475987384116973579/1475990026113388575.mp4",
+                "game_tile": "1475990491983249508.png",
+                "logotype": "1475990490787614730.png",
+                "game_tile_light": "quests/1475987384116973579/1475990366917492766.png",
+                "game_tile_dark": "quests/1475987384116973579/1475990366917492766.png",
+                "logotype_light": "quests/1475987384116973579/1475990314412937368.png",
+                "logotype_dark": "quests/1475987384116973579/1475990314412937368.png"
+            },
+            "colors": {
+                "primary": "#FFFFFF",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "VALORANT Play",
+                "game_title": "VALORANT",
+                "game_publisher": "Riot Games"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "event_name": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "external_ids": []
+                    },
+                    "PLAY_ON_XBOX": {
+                        "event_name": "PLAY_ON_XBOX",
+                        "target": 900,
+                        "external_ids": [
+                            "2139646219"
+                        ]
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "event_name": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "external_ids": [
+                            "PPSA20676_00",
+                            "PPSA20711_00"
+                        ]
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "700136079562375258"
+                            }
+                        ]
+                    },
+                    "PLAY_ON_XBOX": {
+                        "type": "PLAY_ON_XBOX",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "700136079562375258"
+                            }
+                        ],
+                        "external_ids": [
+                            "2139646219"
+                        ]
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "type": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "700136079562375258"
+                            }
+                        ],
+                        "external_ids": [
+                            "PPSA20676_00",
+                            "PPSA20711_00"
+                        ]
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 3,
+                        "sku_id": "1477011410528768231",
+                        "asset": "quests/1475987384116973579/1477011703857152113.mp4",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "M-pulse Avatar Decoration",
+                            "name_with_article": "an M-pulse Avatar Decoration",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "expires_at": "2026-05-25T00:00:00+00:00",
+                        "expires_at_premium": null,
+                        "expiration_mode": 3
+                    }
+                ],
+                "rewards_expire_at": "2026-04-25T00:00:54+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://playvalorant.com/?utm_source=discord&utm_medium=paid&utm_campaign=VALAct2LaunchPlay",
+                "button_label": "Play Now"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false,
+        "traffic_metadata_raw": "EAI="
     }
 ]
