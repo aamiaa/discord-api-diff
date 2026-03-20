@@ -56940,5 +56940,150 @@
         "targeted_content": [],
         "preview": false,
         "traffic_metadata_raw": "EAI="
+    },
+    {
+        "id": "1482178562692747344",
+        "config": {
+            "id": "1482178562692747344",
+            "config_version": 2,
+            "starts_at": "2026-03-20T18:40:26+00:00",
+            "expires_at": "2026-03-27T00:00:26+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://discord.com/game-shop/1193841000108531764/1483729859200024586/yoon-ji-woo-the-leader-emoji-combo-bundle",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1482178562692747344/1483889362512117801.jpg",
+                "hero_video": "quests/1482178562692747344/1483889703307706522.mp4",
+                "quest_bar_hero_blurhash": "V8cNJYqveHdniJhneIeId49U9zd1",
+                "quest_bar_hero": "quests/1482178562692747344/1483889641118499002.jpg",
+                "quest_bar_hero_video": "quests/1482178562692747344/1483889703307706522.mp4",
+                "game_tile": "1482184253700837487.png",
+                "logotype": "1482184252379627561.png",
+                "game_tile_light": "quests/1482178562692747344/1482181450919969022.png",
+                "game_tile_dark": "quests/1482178562692747344/1482181450919969022.png",
+                "logotype_light": "quests/1482178562692747344/1482181356699255021.png",
+                "logotype_dark": "quests/1482178562692747344/1482181412735029268.png"
+            },
+            "colors": {
+                "primary": "#FFFFFF",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Shop Marvel Rivals on Discord",
+                "game_title": "Marvel Rivals Game Shop",
+                "game_publisher": "Discord"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "event_name": "WATCH_VIDEO",
+                        "target": 33,
+                        "external_ids": []
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "event_name": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 33,
+                        "external_ids": []
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 33,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1482178562692747344/1483890018136100955_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1482178562692747344/1483889869217464340.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1482178562692747344/1483890018136100955_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1482178562692747344/1483889869217464340.jpg"
+                            },
+                            "video_hls": {
+                                "url": "quests/1482178562692747344/1483890018136100955.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1482178562692747344/1483889869217464340.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "Marvel Rivals Game Shop Video"
+                        }
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 33,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1482178562692747344/1483890018136100955_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1482178562692747344/1483889869217464340.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1482178562692747344/1483890018136100955_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1482178562692747344/1483889869217464340.jpg"
+                            },
+                            "video_hls": {
+                                "url": "quests/1482178562692747344/1483890018136100955.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1482178562692747344/1483889869217464340.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "Marvel Rivals Game Shop Video"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "200 Orbs",
+                            "name_with_article": "200 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 200,
+                        "premium_orb_quantity": 0
+                    }
+                ],
+                "rewards_expire_at": "2026-04-26T00:00:26+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://discord.com/game-shop/1193841000108531764/1483729859200024586/yoon-ji-woo-the-leader-emoji-combo-bundle",
+                "button_label": "Shop Now"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false,
+        "traffic_metadata_raw": "EAI="
     }
 ]
