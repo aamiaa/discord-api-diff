@@ -54744,7 +54744,7 @@
             "id": "1478855935052222658",
             "config_version": 2,
             "starts_at": "2026-03-11T17:00:00+00:00",
-            "expires_at": "2026-03-24T00:00:59+00:00",
+            "expires_at": "2026-03-24T06:59:59+00:00",
             "features": [
                 15
             ],
@@ -54795,8 +54795,8 @@
                         "event_name": "PLAY_ON_PLAYSTATION",
                         "target": 900,
                         "external_ids": [
-                            "CUSA01433_00",
-                            "CUSA01163_00"
+                            "CUSA01163_00",
+                            "CUSA01433_00"
                         ]
                     }
                 }
@@ -54833,8 +54833,8 @@
                             }
                         ],
                         "external_ids": [
-                            "CUSA01433_00",
-                            "CUSA01163_00"
+                            "CUSA01163_00",
+                            "CUSA01433_00"
                         ]
                     }
                 },
@@ -54859,7 +54859,7 @@
                         "redemption_link": null
                     }
                 ],
-                "rewards_expire_at": "2026-04-23T00:00:59+00:00",
+                "rewards_expire_at": "2026-04-23T06:59:59+00:00",
                 "platforms": [
                     0
                 ]
@@ -57176,5 +57176,494 @@
         "targeted_content": [],
         "preview": false,
         "traffic_metadata_raw": "EAI="
+    },
+    {
+        "id": "1481052453335076926",
+        "config": {
+            "id": "1481052453335076926",
+            "config_version": 2,
+            "starts_at": "2026-03-23T17:00:00+00:00",
+            "expires_at": "2026-03-30T00:00:59+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://www.fandango.com/they-will-kill-you-2026-244051/movie-overview",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1481052453335076926/1481384782205161542.jpg",
+                "hero_video": "quests/1481052453335076926/1484645868903596083.mp4",
+                "quest_bar_hero_blurhash": "ylgKGoxwp1h6h0eJgHgHioc=",
+                "quest_bar_hero": "quests/1481052453335076926/1481384782205161542.jpg",
+                "quest_bar_hero_video": "quests/1481052453335076926/1484645868903596083.mp4",
+                "game_tile": "1481363801264754915.png",
+                "logotype": "1481363800191140001.png",
+                "game_tile_light": "quests/1481052453335076926/1481363770503598161.png",
+                "game_tile_dark": "quests/1481052453335076926/1481363770503598161.png",
+                "logotype_light": "quests/1481052453335076926/1481363730804506847.png",
+                "logotype_dark": "quests/1481052453335076926/1481363730804506847.png"
+            },
+            "colors": {
+                "primary": "#FFFFFF",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "They Will Kill You Movie",
+                "game_title": "They Will Kill You only in theaters Friday 3/27",
+                "game_publisher": "Warner Bros. Pictures"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "event_name": "WATCH_VIDEO",
+                        "target": 14,
+                        "external_ids": []
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "event_name": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 14,
+                        "external_ids": []
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 14,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1481052453335076926/1484645796866687237_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1481052453335076926/1481363948539351060.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1481052453335076926/1484645796866687237_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1481052453335076926/1481363948539351060.jpg"
+                            },
+                            "video_hls": {
+                                "url": "quests/1481052453335076926/1484645796866687237.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1481052453335076926/1481363948539351060.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "They Will Kill You Video"
+                        }
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 14,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1481052453335076926/1484645697230864495_1080.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1481052453335076926/1481363948539351060.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1481052453335076926/1484645697230864495_720.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1481052453335076926/1481363948539351060.jpg"
+                            },
+                            "video_hls": {
+                                "url": "quests/1481052453335076926/1484645697230864495.m3u8",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1481052453335076926/1481363948539351060.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "They Will Kill You Video"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "200 Orbs",
+                            "name_with_article": "200 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 200,
+                        "premium_orb_quantity": 0
+                    }
+                ],
+                "rewards_expire_at": "2026-04-29T00:00:59+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://www.fandango.com/they-will-kill-you-2026-244051/movie-overview",
+                "button_label": "Get Tickets",
+                "subtitle": "They Will Kill You only in theaters Friday 3/27"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false,
+        "traffic_metadata_raw": "EAI="
+    },
+    {
+        "id": "1484633127614939326",
+        "config": {
+            "id": "1484633127614939326",
+            "config_version": 2,
+            "starts_at": "2026-03-23T17:00:22+00:00",
+            "expires_at": "2026-04-01T00:00:22+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://www.avatarrealmscollide.com/",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1484276366345113882/1484640568016371895.jpg",
+                "hero_video": null,
+                "quest_bar_hero_blurhash": "necRGoKAl3aJeId4kpB3Cmo=",
+                "quest_bar_hero": "quests/1484276366345113882/1484640568016371895.jpg",
+                "quest_bar_hero_video": "quests/1484276366345113882/1484640633170821211.mp4",
+                "game_tile": "1484640872057274378.png",
+                "logotype": "1484640871361155162.png",
+                "game_tile_light": "quests/1484276366345113882/1484640835516760176.png",
+                "game_tile_dark": "quests/1484276366345113882/1484640835516760176.png",
+                "logotype_light": "quests/1484276366345113882/1484640775164923954.png",
+                "logotype_dark": "quests/1484276366345113882/1484640727345397851.png"
+            },
+            "colors": {
+                "primary": "#FFFFFF",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Avatar: Realms Collide",
+                "game_title": "Avatar: Realms Collide",
+                "game_publisher": "Tilting Point"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "event_name": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 34,
+                        "external_ids": []
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 34,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1484276366345113882/1484641021110255706_1080.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1484276366345113882/1484641837137268847.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1484276366345113882/1484641021110255706_720.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1484276366345113882/1484641837137268847.jpg"
+                            },
+                            "video_hls": {
+                                "url": "quests/1484276366345113882/1484641021110255706.m3u8",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1484276366345113882/1484641837137268847.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "Avatar: Realms Collide"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "200 Orbs",
+                            "name_with_article": "200 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 200,
+                        "premium_orb_quantity": 0
+                    }
+                ],
+                "rewards_expire_at": "2026-05-01T00:00:22+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://www.avatarrealmscollide.com/",
+                "button_label": "Play Now"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false,
+        "traffic_metadata_raw": "EAI="
+    },
+    {
+        "id": "1484647674249482493",
+        "config": {
+            "id": "1484647674249482493",
+            "config_version": 2,
+            "starts_at": "2026-03-23T17:00:48+00:00",
+            "expires_at": "2026-04-01T00:00:48+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://www.pokemongo.com/",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1484647674249482493/1484654210799898644.jpg",
+                "hero_video": null,
+                "quest_bar_hero_blurhash": "ajQFJIoYWHefd4lzh3kIi6VgaA==",
+                "quest_bar_hero": "quests/1484647674249482493/1484654277585670174.jpg",
+                "quest_bar_hero_video": "quests/1484647674249482493/1484654329267884083.mp4",
+                "game_tile": "1484654477242925087.png",
+                "logotype": "1484654476198678538.png",
+                "game_tile_light": "quests/1484647674249482493/1484654076598943804.png",
+                "game_tile_dark": "quests/1484647674249482493/1484654076598943804.png",
+                "logotype_light": "quests/1484647674249482493/1484654111986028756.png",
+                "logotype_dark": "quests/1484647674249482493/1484654111986028756.png"
+            },
+            "colors": {
+                "primary": "#FFFFFF",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Pokemon Go",
+                "game_title": "Pokemon Go",
+                "game_publisher": "Niantic"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "event_name": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 29,
+                        "external_ids": []
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 29,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1484647674249482493/1484652576065716356_1080.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1484647674249482493/1484654632184709190.png"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1484647674249482493/1484652576065716356_720.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1484647674249482493/1484654632184709190.png"
+                            },
+                            "video_hls": {
+                                "url": "quests/1484647674249482493/1484652576065716356.m3u8",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1484647674249482493/1484654632184709190.png"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "Pokemon Go"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 1,
+                        "sku_id": "1484647674249482494",
+                        "asset": "quests/1484647674249482493/1484650207986585821.png",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "200 Max Particles!",
+                            "name_with_article": "a 200 Max Particles!",
+                            "redemption_instructions_by_platform": {
+                                "0": "\"To redeem an offer code on the web:\nVisit this website: https://store.pokemongo.com/offer-redemption\nLog in using the same credentials you use to access your Pokémon GO account.\nEnter your offer code.\nAfter successfully redeeming an offer code, a message will display the items added to your inventory.\nThe redemption code will expire on March 31, 2026, at 11:59 PM PST. We highly recommend redeeming it as soon as possible.\""
+                            }
+                        },
+                        "approximate_count": null,
+                        "redemption_link": null
+                    }
+                ],
+                "rewards_expire_at": "2026-05-01T00:00:48+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "android": {
+                    "android_app_id": "com.nianticlabs.pokemongo"
+                },
+                "ios": {
+                    "ios_app_id": "1094591345"
+                },
+                "link": "https://www.pokemongo.com/",
+                "button_label": "Install"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false,
+        "traffic_metadata_raw": "EAI="
+    },
+    {
+        "id": "1484276366345113882",
+        "config": {
+            "id": "1484276366345113882",
+            "config_version": 2,
+            "starts_at": "2026-03-23T17:00:22+00:00",
+            "expires_at": "2026-04-01T00:00:22+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://www.avatarrealmscollide.com/",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "1484623563368431667.jpg",
+                "hero_video": null,
+                "quest_bar_hero_blurhash": "FNkNEoQgqWiGh1iIMIYFQ2k=",
+                "quest_bar_hero": "1484623563368431667.jpg",
+                "quest_bar_hero_video": "1484623636785528903.mp4",
+                "game_tile": "1484624051564576879.png",
+                "logotype": "1484624050062884985.png",
+                "game_tile_light": "1484623996808073257.png",
+                "game_tile_dark": "1484623996808073257.png",
+                "logotype_light": "1484623863668150462.png",
+                "logotype_dark": "1484623896828444864.png"
+            },
+            "colors": {
+                "primary": "#FFFFFF",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Avatar: Realms Collide",
+                "game_title": "Avatar: Realms Collide",
+                "game_publisher": "Tilting Point"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "event_name": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 29,
+                        "external_ids": []
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 29,
+                        "assets": {
+                            "video": {
+                                "url": "1484624187975794848_1080.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "1484624232486011142.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "1484624187975794848_720.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "1484624232486011142.jpg"
+                            },
+                            "video_hls": {
+                                "url": "1484624187975794848.m3u8",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "1484624232486011142.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "Avatar: Realms Collide"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "200 Orbs",
+                            "name_with_article": "200 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 200,
+                        "premium_orb_quantity": 0
+                    }
+                ],
+                "rewards_expire_at": "2026-05-01T00:00:22+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://www.avatarrealmscollide.com/",
+                "button_label": "Play Now"
+            }
+        }
     }
 ]
