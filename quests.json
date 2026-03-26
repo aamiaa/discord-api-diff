@@ -58075,17 +58075,17 @@
                 "name": "Discord"
             },
             "assets": {
-                "hero": "1485769334767882434.jpg",
-                "hero_video": "1485769407958487060.mp4",
+                "hero": "quests/1485726007569813727/1485769334767882434.jpg",
+                "hero_video": "quests/1485726007569813727/1485769407958487060.mp4",
                 "quest_bar_hero_blurhash": "YlQGCpDA3FqFe3d4kKF5n4g=",
-                "quest_bar_hero": "1485769334767882434.jpg",
-                "quest_bar_hero_video": "1485769407958487060.mp4",
+                "quest_bar_hero": "quests/1485726007569813727/1485769334767882434.jpg",
+                "quest_bar_hero_video": "quests/1485726007569813727/1485769407958487060.mp4",
                 "game_tile": "1485770028321345676.png",
                 "logotype": "1486396675890352198.png",
-                "game_tile_light": "1485769587340349532.png",
-                "game_tile_dark": "1485769587340349532.png",
-                "logotype_light": "1486396651189829672.png",
-                "logotype_dark": "1486396651189829672.png"
+                "game_tile_light": "quests/1485726007569813727/1485769587340349532.png",
+                "game_tile_dark": "quests/1485726007569813727/1485769587340349532.png",
+                "logotype_light": "quests/1485726007569813727/1486396651189829672.png",
+                "logotype_dark": "quests/1485726007569813727/1486396651189829672.png"
             },
             "colors": {
                 "primary": "#FFFFFF",
@@ -58114,22 +58114,22 @@
                         "target": 50,
                         "assets": {
                             "video": {
-                                "url": "1485770160735256716_1080.mp4",
+                                "url": "quests/1485726007569813727/1485770160735256716_1080.mp4",
                                 "width": 1080,
                                 "height": 1920,
-                                "thumbnail": "1485771437020286976.png"
+                                "thumbnail": "quests/1485726007569813727/1485771437020286976.png"
                             },
                             "video_low_res": {
-                                "url": "1485770160735256716_720.mp4",
+                                "url": "quests/1485726007569813727/1485770160735256716_720.mp4",
                                 "width": 1080,
                                 "height": 1920,
-                                "thumbnail": "1485771437020286976.png"
+                                "thumbnail": "quests/1485726007569813727/1485771437020286976.png"
                             },
                             "video_hls": {
-                                "url": "1485770160735256716.m3u8",
+                                "url": "quests/1485726007569813727/1485770160735256716.m3u8",
                                 "width": 1080,
                                 "height": 1920,
-                                "thumbnail": "1485771437020286976.png"
+                                "thumbnail": "quests/1485726007569813727/1485771437020286976.png"
                             }
                         },
                         "messages": {
@@ -58172,6 +58172,156 @@
                 "link": "https://pre.ovensmash.com/en",
                 "button_label": "Play Now"
             }
-        }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false,
+        "traffic_metadata_raw": "EAIYAQ=="
+    },
+    {
+        "id": "1483876544622629067",
+        "config": {
+            "id": "1483876544622629067",
+            "config_version": 2,
+            "starts_at": "2026-03-26T20:10:00+00:00",
+            "expires_at": "2026-03-29T23:00:59+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://youtu.be/IoHWPAN6FPg",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1483876544622629067/1486758437411881120.jpeg",
+                "hero_video": null,
+                "quest_bar_hero_blurhash": "3OcRBYAoWGeGeXeAeWl3hRV+UPzW",
+                "quest_bar_hero": "quests/1483876544622629067/1486783151530446970.jpg",
+                "quest_bar_hero_video": "quests/1483876544622629067/1486782844939407561.mp4",
+                "game_tile": "1486793883978432615.png",
+                "logotype": "1486750378455470281.png",
+                "game_tile_light": "quests/1483876544622629067/1486750218752884967.png",
+                "game_tile_dark": "quests/1483876544622629067/1486750218752884967.png",
+                "logotype_light": "quests/1483876544622629067/1486750262818373713.png",
+                "logotype_dark": "quests/1483876544622629067/1486750296645304533.png"
+            },
+            "colors": {
+                "primary": "#FFFFFF",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "The End of Oak Street ",
+                "game_title": "The End of Oak Street only in theaters August 14",
+                "game_publisher": "Warner Bros. Pictures"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "event_name": "WATCH_VIDEO",
+                        "target": 88,
+                        "external_ids": []
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "event_name": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 88,
+                        "external_ids": []
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 88,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1483876544622629067/1486782732049580335_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1483876544622629067/1486763109098983579.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1483876544622629067/1486782732049580335_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1483876544622629067/1486763109098983579.jpg"
+                            },
+                            "video_hls": {
+                                "url": "quests/1483876544622629067/1486782732049580335.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1483876544622629067/1486763109098983579.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "End of Oak Street Video"
+                        }
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 88,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1483876544622629067/1486763052643913851_1080.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1483876544622629067/1486763109098983579.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1483876544622629067/1486763052643913851_720.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1483876544622629067/1486763109098983579.jpg"
+                            },
+                            "video_hls": {
+                                "url": "quests/1483876544622629067/1486763052643913851.m3u8",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1483876544622629067/1486763109098983579.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "End of Oak Street Video"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "200 Orbs",
+                            "name_with_article": "200 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 200,
+                        "premium_orb_quantity": 0
+                    }
+                ],
+                "rewards_expire_at": "2026-04-28T23:00:59+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://youtu.be/IoHWPAN6FPg",
+                "button_label": "Watch Now",
+                "subtitle": "The End of Oak Street only in theaters August 14"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false,
+        "traffic_metadata_raw": "EAIYAQ=="
     }
 ]
