@@ -58323,5 +58323,122 @@
         "targeted_content": [],
         "preview": false,
         "traffic_metadata_raw": "EAIYAQ=="
+    },
+    {
+        "id": "1483891566249640076",
+        "config": {
+            "id": "1483891566249640076",
+            "config_version": 2,
+            "starts_at": "2026-03-29T17:00:18+00:00",
+            "expires_at": "2026-04-05T00:00:18+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://akendfield.gryphline.com/d27t/v1d1DQ",
+                "id": "1461154307171811401",
+                "name": "Arknights:Endfield"
+            },
+            "assets": {
+                "hero": "quests/1483891566249640076/1483893468307918998.jpg",
+                "hero_video": "quests/1483891566249640076/1483893405426647090.mp4",
+                "quest_bar_hero_blurhash": "2BkWTIJlZnd/d3eHh4lmf/i9LQ==",
+                "quest_bar_hero": "quests/1483891566249640076/1483893043621924884.jpg",
+                "quest_bar_hero_video": "quests/1483891566249640076/1483893405426647090.mp4",
+                "game_tile": "1483893866032660642.jpg",
+                "logotype": "1483893864971505804.png",
+                "game_tile_light": "quests/1483891566249640076/1483893698654900438.jpg",
+                "game_tile_dark": "quests/1483891566249640076/1483893698654900438.jpg",
+                "logotype_light": "quests/1483891566249640076/1483893638885806080.png",
+                "logotype_dark": "quests/1483891566249640076/1483893550104973412.png"
+            },
+            "colors": {
+                "primary": "#FFFFFF",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Version Update: Rossi",
+                "game_title": "Arknights: Endfield",
+                "game_publisher": "GRYPHLINE"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "event_name": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "external_ids": []
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "event_name": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "external_ids": [
+                            "PPSA18538_00",
+                            "PPSA22751_00"
+                        ]
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1461154307171811401"
+                            }
+                        ]
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "type": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1461154307171811401"
+                            }
+                        ],
+                        "external_ids": [
+                            "PPSA18538_00",
+                            "PPSA22751_00"
+                        ]
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 Orbs",
+                            "name_with_article": "700 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 700,
+                        "premium_orb_quantity": null
+                    }
+                ],
+                "rewards_expire_at": "2026-05-05T00:00:18+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://akendfield.gryphline.com/d27t/v1d1DQ",
+                "button_label": "Download",
+                "subtitle": "Play Arknights: Endfield for 15 minutes"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false,
+        "traffic_metadata_raw": "EAIYAQ=="
     }
 ]
