@@ -60473,7 +60473,7 @@
             },
             "messages": {
                 "quest_name": "Starfield PS5 Launch",
-                "game_title": "Satrfield",
+                "game_title": "Starfield",
                 "game_publisher": "Bethesda Softworks"
             },
             "task_config": {
@@ -60596,5 +60596,147 @@
         "targeted_content": [],
         "preview": false,
         "traffic_metadata_raw": "EAIYAQ=="
+    },
+    {
+        "id": "1487237961253654701",
+        "config": {
+            "id": "1487237961253654701",
+            "config_version": 2,
+            "starts_at": "2026-04-08T17:10:41+00:00",
+            "expires_at": "2026-04-21T00:00:41+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://store.steampowered.com/app/3230960/EXODUS/?utm_source=discord&utm_medium=paid&utm_campaign=paid_wishlist_de_0326&utm_content=gameplayvideo&utm_term=narrativescifirpg",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1487237961253654701/1488685231405011034.jpg",
+                "hero_video": "quests/1487237961253654701/1488685182016819414.mp4",
+                "quest_bar_hero_blurhash": "DMcFFIIUf4WTaYh1eIhVwEwm/Q==",
+                "quest_bar_hero": "quests/1487237961253654701/1488685130879996085.jpg",
+                "quest_bar_hero_video": "quests/1487237961253654701/1488685182016819414.mp4",
+                "game_tile": "1488685436779102279.png",
+                "logotype": "1488685435415957544.png",
+                "game_tile_light": "quests/1487237961253654701/1488685323767644220.png",
+                "game_tile_dark": "quests/1487237961253654701/1488685323767644220.png",
+                "logotype_light": "quests/1487237961253654701/1488685285955993842.png",
+                "logotype_dark": "quests/1487237961253654701/1488685285955993842.png"
+            },
+            "colors": {
+                "primary": "#FFFFFF",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "EXODUS™ Wunschliste",
+                "game_title": "EXODUS™",
+                "game_publisher": "Wizards of the Coast"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "event_name": "WATCH_VIDEO",
+                        "target": 29,
+                        "external_ids": []
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "event_name": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 29,
+                        "external_ids": []
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 29,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1487237961253654701/1488684924901920869_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1487237961253654701/1488684993742901448.png"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1487237961253654701/1488684924901920869_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1487237961253654701/1488684993742901448.png"
+                            },
+                            "video_hls": {
+                                "url": "quests/1487237961253654701/1488684924901920869.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1487237961253654701/1488684993742901448.png"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "EXODUS | Wunschliste Hinzufügen"
+                        }
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 29,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1487237961253654701/1488684924901920869_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1487237961253654701/1488684993742901448.png"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1487237961253654701/1488684924901920869_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1487237961253654701/1488684993742901448.png"
+                            },
+                            "video_hls": {
+                                "url": "quests/1487237961253654701/1488684924901920869.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1487237961253654701/1488684993742901448.png"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "EXODUS | Wunschliste Hinzufügen"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "200 Orbs",
+                            "name_with_article": "200 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 200,
+                        "premium_orb_quantity": null
+                    }
+                ],
+                "rewards_expire_at": "2026-05-21T00:00:41+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://store.steampowered.com/app/3230960/EXODUS/?utm_source=discord&utm_medium=paid&utm_campaign=paid_wishlist_de_0326&utm_content=gameplayvideo&utm_term=narrativescifirpg",
+                "button_label": "Wishlist Now",
+                "subtitle": "Dein EXODUS beginnt Anfang 2027."
+            }
+        }
     }
 ]
