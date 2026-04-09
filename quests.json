@@ -60738,5 +60738,127 @@
                 "subtitle": "Dein EXODUS beginnt Anfang 2027."
             }
         }
+    },
+    {
+        "id": "1486380552331333642",
+        "config": {
+            "id": "1486380552331333642",
+            "config_version": 2,
+            "starts_at": "2026-04-09T17:00:00+00:00",
+            "expires_at": "2026-04-16T00:00:59+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://pre.ovensmash.com/en",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1486380552331333642/1486483055618293850.jpg",
+                "hero_video": "quests/1486380552331333642/1486483768976871486.mp4",
+                "quest_bar_hero_blurhash": "YlQGCpDA3FqFe3d4kKF5n4g=",
+                "quest_bar_hero": "quests/1486380552331333642/1486483055618293850.jpg",
+                "quest_bar_hero_video": "quests/1486380552331333642/1486483768976871486.mp4",
+                "game_tile": "1486484192001786000.png",
+                "logotype": "1486484190961602640.png",
+                "game_tile_light": "quests/1486380552331333642/1486483960891441202.png",
+                "game_tile_dark": "quests/1486380552331333642/1486483960891441202.png",
+                "logotype_light": "quests/1486380552331333642/1486483894457860137.png",
+                "logotype_dark": "quests/1486380552331333642/1486483894457860137.png"
+            },
+            "colors": {
+                "primary": "#FFFFFF",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "COOKIERUN: OVENSMASH LAUNCH",
+                "game_title": "CookieRun: OvenSmash",
+                "game_publisher": "Devsisters"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "event_name": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 50,
+                        "external_ids": []
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 50,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1486380552331333642/1486486101379121244_1080.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1486380552331333642/1486487082309521570.png"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1486380552331333642/1486486101379121244_720.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1486380552331333642/1486487082309521570.png"
+                            },
+                            "video_hls": {
+                                "url": "quests/1486380552331333642/1486486101379121244.m3u8",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1486380552331333642/1486487082309521570.png"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "video"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 3,
+                        "sku_id": "1485784028710830242",
+                        "asset": "quests/1486380552331333642/1486487406021709954.mp4",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "DJ Miya Headset",
+                            "name_with_article": "a DJ Miya Headset",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "expires_at": "2026-05-09T06:59:59+00:00",
+                        "expires_at_premium": null,
+                        "expiration_mode": 3
+                    }
+                ],
+                "rewards_expire_at": "2026-05-16T00:00:59+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "android": {
+                    "android_app_id": "com.devsisters.cos"
+                },
+                "ios": {
+                    "ios_app_id": "6550902247"
+                },
+                "link": "https://pre.ovensmash.com/en",
+                "button_label": "Play Now"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false,
+        "traffic_metadata_raw": "EAIYAQ=="
     }
 ]
