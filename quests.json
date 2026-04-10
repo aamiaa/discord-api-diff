@@ -59531,11 +59531,6 @@
                 "type": 1,
                 "join_operator": "or",
                 "tasks": {
-                    "WATCH_VIDEO": {
-                        "event_name": "WATCH_VIDEO",
-                        "target": 29,
-                        "external_ids": []
-                    },
                     "WATCH_VIDEO_ON_MOBILE": {
                         "event_name": "WATCH_VIDEO_ON_MOBILE",
                         "target": 29,
@@ -59545,33 +59540,6 @@
             },
             "task_config_v2": {
                 "tasks": {
-                    "WATCH_VIDEO": {
-                        "type": "WATCH_VIDEO",
-                        "target": 29,
-                        "assets": {
-                            "video": {
-                                "url": "quests/1486454150907564252/1488660745939062795_1080.mp4",
-                                "width": 1920,
-                                "height": 1080,
-                                "thumbnail": "quests/1486454150907564252/1488660800360153088.jpg"
-                            },
-                            "video_low_res": {
-                                "url": "quests/1486454150907564252/1488660745939062795_720.mp4",
-                                "width": 1920,
-                                "height": 1080,
-                                "thumbnail": "quests/1486454150907564252/1488660800360153088.jpg"
-                            },
-                            "video_hls": {
-                                "url": "quests/1486454150907564252/1488660745939062795.m3u8",
-                                "width": 1920,
-                                "height": 1080,
-                                "thumbnail": "quests/1486454150907564252/1488660800360153088.jpg"
-                            }
-                        },
-                        "messages": {
-                            "video_title": "MONGIL: STAR DIVE"
-                        }
-                    },
                     "WATCH_VIDEO_ON_MOBILE": {
                         "type": "WATCH_VIDEO_ON_MOBILE",
                         "target": 29,
