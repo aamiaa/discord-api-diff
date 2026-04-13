@@ -61257,5 +61257,154 @@
                 "button_label": "Play Now"
             }
         }
+    },
+    {
+        "id": "1488708666533085354",
+        "config": {
+            "id": "1488708666533085354",
+            "config_version": 2,
+            "starts_at": "2026-04-13T17:00:00+00:00",
+            "expires_at": "2026-04-19T23:00:59+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://fandan.co/leecroninsthemummy",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1488708666533085354/1492190791886700754.jpg",
+                "hero_video": "quests/1488708666533085354/1492190905656938617.mp4",
+                "quest_bar_hero_blurhash": "RRgGCoIEnHamdZyGA6U5UJs=",
+                "quest_bar_hero": "quests/1488708666533085354/1492190791886700754.jpg",
+                "quest_bar_hero_video": "quests/1488708666533085354/1492190905656938617.mp4",
+                "game_tile": "1492191241549385748.png",
+                "logotype": "1492191235652190409.png",
+                "game_tile_light": "quests/1488708666533085354/1492191178483961876.png",
+                "game_tile_dark": "quests/1488708666533085354/1492191178483961876.png",
+                "logotype_light": "quests/1488708666533085354/1492191067104084028.png",
+                "logotype_dark": "quests/1488708666533085354/1492191044001861723.png"
+            },
+            "colors": {
+                "primary": "#FFFFFF",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Lee Cronin’s The Mummy ",
+                "game_title": "Lee Cronin's The Mummy only in theaters Friday 4/17",
+                "game_publisher": "Warner Bros. Pictures"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "event_name": "WATCH_VIDEO",
+                        "target": 14,
+                        "external_ids": []
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "event_name": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 14,
+                        "external_ids": []
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 14,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1488708666533085354/1492191604855935118_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1488708666533085354/1492192281824989265.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1488708666533085354/1492191604855935118_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1488708666533085354/1492192281824989265.jpg"
+                            },
+                            "video_hls": {
+                                "url": "quests/1488708666533085354/1492191604855935118.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1488708666533085354/1492192281824989265.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "Mummy Video"
+                        }
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 14,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1488708666533085354/1492191559016382474_1080.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1488708666533085354/1492192281824989265.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1488708666533085354/1492191559016382474_720.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1488708666533085354/1492192281824989265.jpg"
+                            },
+                            "video_hls": {
+                                "url": "quests/1488708666533085354/1492191559016382474.m3u8",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1488708666533085354/1492192281824989265.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "Mummy Video"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 3,
+                        "sku_id": "1492282046813569085",
+                        "asset": "quests/1488708666533085354/1492282158440644609.mp4",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "The Mummy Avatar Decoration",
+                            "name_with_article": "a The Mummy Avatar Decoration",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "expires_at": "2026-06-20T03:59:59+00:00",
+                        "expires_at_premium": null,
+                        "expiration_mode": 3
+                    }
+                ],
+                "rewards_expire_at": "2026-05-19T23:00:59+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://fandan.co/leecroninsthemummy",
+                "button_label": "Get Showtimes",
+                "subtitle": "Lee Cronin's The Mummy only in theaters Friday 4/17"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false,
+        "traffic_metadata_raw": "EAIYAQ=="
     }
 ]
