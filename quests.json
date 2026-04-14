@@ -61280,11 +61280,11 @@
                 "quest_bar_hero": "quests/1488708666533085354/1492190791886700754.jpg",
                 "quest_bar_hero_video": "quests/1488708666533085354/1492190905656938617.mp4",
                 "game_tile": "1492191241549385748.png",
-                "logotype": "1492191235652190409.png",
+                "logotype": "1493666058303963276.png",
                 "game_tile_light": "quests/1488708666533085354/1492191178483961876.png",
                 "game_tile_dark": "quests/1488708666533085354/1492191178483961876.png",
-                "logotype_light": "quests/1488708666533085354/1492191067104084028.png",
-                "logotype_dark": "quests/1488708666533085354/1492191044001861723.png"
+                "logotype_light": "quests/1488708666533085354/1493665160458539218.png",
+                "logotype_dark": "quests/1488708666533085354/1493665459890032871.png"
             },
             "colors": {
                 "primary": "#FFFFFF",
@@ -61400,6 +61400,143 @@
                 "link": "https://fandan.co/leecroninsthemummy",
                 "button_label": "Get Showtimes",
                 "subtitle": "Lee Cronin's The Mummy only in theaters Friday 4/17"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false,
+        "traffic_metadata_raw": "EAIYAQ=="
+    },
+    {
+        "id": "1491875442360320151",
+        "config": {
+            "id": "1491875442360320151",
+            "config_version": 2,
+            "starts_at": "2026-04-14T18:00:23+00:00",
+            "expires_at": "2026-04-29T00:00:23+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://ad.doubleclick.net/ddm/trackclk/N7657.3866164DISCORD.COM/B35464210.444124076;dc_trk_aid=637679637;dc_trk_cid=253790916;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1;dc_transparent=1;?https://www.ea.com/games/skate",
+                "id": "1416171554890580152",
+                "name": "skate."
+            },
+            "assets": {
+                "hero": "quests/1491875442360320151/1491876592606253181.jpg",
+                "hero_video": null,
+                "quest_bar_hero_blurhash": "lScKFIJtVmVznIlvYpZ7cNiL+w==",
+                "quest_bar_hero": "quests/1491875442360320151/1491876548788224230.jpg",
+                "quest_bar_hero_video": null,
+                "game_tile": "1491876850212016450.png",
+                "logotype": "1491876849217830995.png",
+                "game_tile_light": "quests/1491875442360320151/1491876764115533945.png",
+                "game_tile_dark": "quests/1491875442360320151/1491876764115533945.png",
+                "logotype_light": "quests/1491875442360320151/1491876693453967463.png",
+                "logotype_dark": "quests/1491875442360320151/1491876643541618919.png"
+            },
+            "colors": {
+                "primary": "#FFFFFF",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "skate.™ Nike SB Pop-Up Event",
+                "game_title": "skate.",
+                "game_publisher": "skate."
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "event_name": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "external_ids": []
+                    },
+                    "PLAY_ON_XBOX": {
+                        "event_name": "PLAY_ON_XBOX",
+                        "target": 900,
+                        "external_ids": [
+                            "883004381",
+                            "2106683993"
+                        ]
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "event_name": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "external_ids": [
+                            "PPSA10793_00",
+                            "CUSA37423_00"
+                        ]
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1416171554890580152"
+                            }
+                        ]
+                    },
+                    "PLAY_ON_XBOX": {
+                        "type": "PLAY_ON_XBOX",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1416171554890580152"
+                            }
+                        ],
+                        "external_ids": [
+                            "883004381",
+                            "2106683993"
+                        ]
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "type": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1416171554890580152"
+                            }
+                        ],
+                        "external_ids": [
+                            "PPSA10793_00",
+                            "CUSA37423_00"
+                        ]
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 Orbs",
+                            "name_with_article": "700 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 700,
+                        "premium_orb_quantity": null
+                    }
+                ],
+                "rewards_expire_at": "2026-05-29T00:00:23+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://ad.doubleclick.net/ddm/trackclk/N7657.3866164DISCORD.COM/B35464210.444124076;dc_trk_aid=637679637;dc_trk_cid=253790916;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1;dc_transparent=1;?https://www.ea.com/games/skate",
+                "button_label": "Play Now"
             }
         },
         "user_status": null,
