@@ -61928,5 +61928,153 @@
                 "button_label": "Play Now"
             }
         }
+    },
+    {
+        "id": "1493384182401990747",
+        "config": {
+            "id": "1493384182401990747",
+            "config_version": 2,
+            "starts_at": "2026-04-16T15:00:34+00:00",
+            "expires_at": "2026-04-24T00:00:34+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://mouse.playside.games/eONmVPz",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1493384182401990747/1493388820450902027.jpg",
+                "hero_video": "quests/1493384182401990747/1493388261006245918.mp4",
+                "quest_bar_hero_blurhash": "0wcKAoBAdG1wmBmqBfJGBFI=",
+                "quest_bar_hero": "quests/1493384182401990747/1493388820450902027.jpg",
+                "quest_bar_hero_video": "quests/1493384182401990747/1493388628003651665.mp4",
+                "game_tile": "1493388874918002799.png",
+                "logotype": "1493388873869561856.png",
+                "game_tile_light": "quests/1493384182401990747/1493387956629803058.png",
+                "game_tile_dark": "quests/1493384182401990747/1493387956629803058.png",
+                "logotype_light": "quests/1493384182401990747/1493387916666470563.png",
+                "logotype_dark": "quests/1493384182401990747/1493387916666470563.png"
+            },
+            "colors": {
+                "primary": "#FFFFFF",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "MOUSE P.I For Hire",
+                "game_title": "MOUSE P.I For Hire",
+                "game_publisher": "PlaySide Studios"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "event_name": "WATCH_VIDEO",
+                        "target": 59,
+                        "external_ids": []
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "event_name": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 59,
+                        "external_ids": []
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 59,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1493384182401990747/1493389405153656853_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1493384182401990747/1493389450300887060.png"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1493384182401990747/1493389405153656853_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1493384182401990747/1493389450300887060.png"
+                            },
+                            "video_hls": {
+                                "url": "quests/1493384182401990747/1493389405153656853.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1493384182401990747/1493389450300887060.png"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "Mouse PI Video"
+                        }
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 59,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1493384182401990747/1493389405153656853_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1493384182401990747/1493389450300887060.png"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1493384182401990747/1493389405153656853_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1493384182401990747/1493389450300887060.png"
+                            },
+                            "video_hls": {
+                                "url": "quests/1493384182401990747/1493389405153656853.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1493384182401990747/1493389450300887060.png"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "Mouse PI Video"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 3,
+                        "sku_id": "1493391761085567066",
+                        "asset": "quests/1493384182401990747/1493634226111643729.mp4",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "Jack Pepper Avatar Decoration",
+                            "name_with_article": "a Jack Pepper Avatar Decoration",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "expires_at": "2026-06-24T00:00:00+00:00",
+                        "expires_at_premium": null,
+                        "expiration_mode": 3
+                    }
+                ],
+                "rewards_expire_at": "2026-05-24T00:00:34+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://mouse.playside.games/eONmVPz",
+                "button_label": "Play Now"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false,
+        "traffic_metadata_raw": "EAIYAQ=="
     }
 ]
