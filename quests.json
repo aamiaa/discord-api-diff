@@ -62076,5 +62076,147 @@
         "targeted_content": [],
         "preview": false,
         "traffic_metadata_raw": "EAIYAQ=="
+    },
+    {
+        "id": "1485763265756663908",
+        "config": {
+            "id": "1485763265756663908",
+            "config_version": 2,
+            "starts_at": "2026-04-16T15:30:00+00:00",
+            "expires_at": "2026-04-20T00:00:59+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://store.epicgames.com/en-US/p/fortnite--save-the-world",
+                "id": "1402418703554842694",
+                "name": "Fortnite"
+            },
+            "assets": {
+                "hero": "quests/1485763265756663908/1492244238996476035.jpg",
+                "hero_video": null,
+                "quest_bar_hero_blurhash": "2EcOHIJhdodvhoiFmHqEgJOpDQ==",
+                "quest_bar_hero": "quests/1485763265756663908/1492244150110916840.jpg",
+                "quest_bar_hero_video": null,
+                "game_tile": "1492244358832062755.png",
+                "logotype": "1492244357850599617.png",
+                "game_tile_light": "quests/1485763265756663908/1492244324979572777.png",
+                "game_tile_dark": "quests/1485763265756663908/1492244324979572777.png",
+                "logotype_light": "quests/1485763265756663908/1492244283808551222.png",
+                "logotype_dark": "quests/1485763265756663908/1492244283808551222.png"
+            },
+            "colors": {
+                "primary": "#FFFFFF",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Fortnite Save the World",
+                "game_title": "Fortnite Save the World",
+                "game_publisher": "Epic Games"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "event_name": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "external_ids": []
+                    },
+                    "PLAY_ON_XBOX": {
+                        "event_name": "PLAY_ON_XBOX",
+                        "target": 900,
+                        "external_ids": [
+                            "267695549"
+                        ]
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "event_name": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "external_ids": [
+                            "CUSA07022_00",
+                            "CUSA07669_00",
+                            "PPSA01923_00",
+                            "PPSA01922_00"
+                        ]
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1402418703554842694"
+                            }
+                        ]
+                    },
+                    "PLAY_ON_XBOX": {
+                        "type": "PLAY_ON_XBOX",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1402418703554842694"
+                            }
+                        ],
+                        "external_ids": [
+                            "267695549"
+                        ]
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "type": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1402418703554842694"
+                            }
+                        ],
+                        "external_ids": [
+                            "CUSA07022_00",
+                            "CUSA07669_00",
+                            "PPSA01923_00",
+                            "PPSA01922_00"
+                        ]
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 3,
+                        "sku_id": "1492245243180089436",
+                        "asset": "quests/1485763265756663908/1492245395810685108.mp4",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "T.E.D.D.Y. Avatar Decoration",
+                            "name_with_article": "a T.E.D.D.Y. Avatar Decoration",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "expires_at": "2026-06-20T06:59:59+00:00",
+                        "expires_at_premium": null,
+                        "expiration_mode": 1
+                    }
+                ],
+                "rewards_expire_at": "2026-05-20T00:00:59+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://store.epicgames.com/en-US/p/fortnite--save-the-world",
+                "button_label": "Play Now"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false,
+        "traffic_metadata_raw": "EAIYAQ=="
     }
 ]
