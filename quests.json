@@ -62431,5 +62431,157 @@
         "targeted_content": [],
         "preview": false,
         "traffic_metadata_raw": "EAIYAQ=="
+    },
+    {
+        "id": "1487239593790017656",
+        "config": {
+            "id": "1487239593790017656",
+            "config_version": 2,
+            "starts_at": "2026-04-18T17:00:10+00:00",
+            "expires_at": "2026-05-02T00:00:10+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://www.wwesupercard.com/",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1487239593790017656/1494430923943575744.jpg",
+                "hero_video": "quests/1487239593790017656/1494467042760327208.mp4",
+                "quest_bar_hero_blurhash": "DYkKLJAGh3mKh3iAi3gmmmCxCQ==",
+                "quest_bar_hero": "quests/1487239593790017656/1494431366404640998.jpg",
+                "quest_bar_hero_video": "quests/1487239593790017656/1494467042760327208.mp4",
+                "game_tile": "1494432121140416633.png",
+                "logotype": "1494432119932325888.PNG",
+                "game_tile_light": "quests/1487239593790017656/1494432067872755742.png",
+                "game_tile_dark": "quests/1487239593790017656/1494432067872755742.png",
+                "logotype_light": "quests/1487239593790017656/1494431804143435836.PNG",
+                "logotype_dark": "quests/1487239593790017656/1494431853438963972.PNG"
+            },
+            "colors": {
+                "primary": "#FFFFFF",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Road to Immortality",
+                "game_title": "WWE 2K26",
+                "game_publisher": "2K"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "event_name": "WATCH_VIDEO",
+                        "target": 29,
+                        "external_ids": []
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "event_name": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 29,
+                        "external_ids": []
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 29,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1487239593790017656/1494468008146370710_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1487239593790017656/1494467388991869109.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1487239593790017656/1494468008146370710_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1487239593790017656/1494467388991869109.jpg"
+                            },
+                            "video_hls": {
+                                "url": "quests/1487239593790017656/1494468008146370710.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1487239593790017656/1494467388991869109.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "NEW ROAD TO IMMORTALITY MODE"
+                        }
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 29,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1487239593790017656/1494468047270842558_1080.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1487239593790017656/1494434095495647443.png"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1487239593790017656/1494468047270842558_720.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1487239593790017656/1494434095495647443.png"
+                            },
+                            "video_hls": {
+                                "url": "quests/1487239593790017656/1494468047270842558.m3u8",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1487239593790017656/1494434095495647443.png"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "NEW ROAD TO IMMORTALITY MODE"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "200 Orbs",
+                            "name_with_article": "200 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 200,
+                        "premium_orb_quantity": null
+                    }
+                ],
+                "rewards_expire_at": "2026-06-01T00:00:10+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "android": {
+                    "android_app_id": "com.catdaddy.cat22"
+                },
+                "ios": {
+                    "ios_app_id": "775402833"
+                },
+                "link": "https://www.wwesupercard.com/",
+                "button_label": "Download",
+                "subtitle": "COLLECT, DOMINATE & EARN YOUR WWE CHAMPIONSHIP!"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false,
+        "traffic_metadata_raw": "EAIYAQ=="
     }
 ]
