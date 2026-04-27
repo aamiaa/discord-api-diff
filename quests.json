@@ -64250,12 +64250,12 @@
                 "tasks": {
                     "WATCH_VIDEO": {
                         "event_name": "WATCH_VIDEO",
-                        "target": 29,
+                        "target": 28,
                         "external_ids": []
                     },
                     "WATCH_VIDEO_ON_MOBILE": {
                         "event_name": "WATCH_VIDEO_ON_MOBILE",
-                        "target": 29,
+                        "target": 28,
                         "external_ids": []
                     }
                 }
@@ -64264,22 +64264,22 @@
                 "tasks": {
                     "WATCH_VIDEO": {
                         "type": "WATCH_VIDEO",
-                        "target": 29,
+                        "target": 28,
                         "assets": {
                             "video": {
-                                "url": "quests/1496621389275205782/1497273750620737566_1080.mp4",
+                                "url": "quests/1496621389275205782/1498397989277007902_1080.mp4",
                                 "width": 1920,
                                 "height": 1080,
                                 "thumbnail": "quests/1496621389275205782/1496938682266026094.png"
                             },
                             "video_low_res": {
-                                "url": "quests/1496621389275205782/1497273750620737566_720.mp4",
+                                "url": "quests/1496621389275205782/1498397989277007902_720.mp4",
                                 "width": 1920,
                                 "height": 1080,
                                 "thumbnail": "quests/1496621389275205782/1496938682266026094.png"
                             },
                             "video_hls": {
-                                "url": "quests/1496621389275205782/1497273750620737566.m3u8",
+                                "url": "quests/1496621389275205782/1498397989277007902.m3u8",
                                 "width": 1920,
                                 "height": 1080,
                                 "thumbnail": "quests/1496621389275205782/1496938682266026094.png"
@@ -64291,24 +64291,24 @@
                     },
                     "WATCH_VIDEO_ON_MOBILE": {
                         "type": "WATCH_VIDEO_ON_MOBILE",
-                        "target": 29,
+                        "target": 28,
                         "assets": {
                             "video": {
-                                "url": "quests/1496621389275205782/1497273750620737566_1080.mp4",
-                                "width": 1920,
-                                "height": 1080,
+                                "url": "quests/1496621389275205782/1498398094503579721_1080.mp4",
+                                "width": 1080,
+                                "height": 1920,
                                 "thumbnail": "quests/1496621389275205782/1496938682266026094.png"
                             },
                             "video_low_res": {
-                                "url": "quests/1496621389275205782/1497273750620737566_720.mp4",
-                                "width": 1920,
-                                "height": 1080,
+                                "url": "quests/1496621389275205782/1498398094503579721_720.mp4",
+                                "width": 1080,
+                                "height": 1920,
                                 "thumbnail": "quests/1496621389275205782/1496938682266026094.png"
                             },
                             "video_hls": {
-                                "url": "quests/1496621389275205782/1497273750620737566.m3u8",
-                                "width": 1920,
-                                "height": 1080,
+                                "url": "quests/1496621389275205782/1498398094503579721.m3u8",
+                                "width": 1080,
+                                "height": 1920,
                                 "thumbnail": "quests/1496621389275205782/1496938682266026094.png"
                             }
                         },
