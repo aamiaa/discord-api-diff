@@ -64464,5 +64464,812 @@
         "targeted_content": [],
         "preview": false,
         "traffic_metadata_raw": "EAIYAQ=="
+    },
+    {
+        "id": "1495616251706212372",
+        "config": {
+            "id": "1495616251706212372",
+            "config_version": 2,
+            "starts_at": "2026-04-29T17:00:00+00:00",
+            "expires_at": "2026-05-06T00:00:59+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://nte.onelink.me/RX86/Event_West_12",
+                "id": "1470616226995765409",
+                "name": "Neverness to Everness"
+            },
+            "assets": {
+                "hero": "quests/1495616251706212372/1496289819905753268.jpg",
+                "hero_video": "quests/1495616251706212372/1496289879590436985.mp4",
+                "quest_bar_hero_blurhash": "pMYFDIIIIUiPZWV+Z4UKkJgBew==",
+                "quest_bar_hero": "quests/1495616251706212372/1496289709230391357.jpg",
+                "quest_bar_hero_video": "quests/1495616251706212372/1496289756760506458.mp4",
+                "game_tile": "1496290038856552499.png",
+                "logotype": "1496290033014018119.png",
+                "game_tile_light": "quests/1495616251706212372/1496290008523346101.png",
+                "game_tile_dark": "quests/1495616251706212372/1496290008523346101.png",
+                "logotype_light": "quests/1495616251706212372/1496289938461950042.png",
+                "logotype_dark": "quests/1495616251706212372/1496289938461950042.png"
+            },
+            "colors": {
+                "primary": "#FFFFFF",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "NTE Launch Drift",
+                "game_title": "NTE",
+                "game_publisher": "Perfect World Games"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "event_name": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "external_ids": []
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1470616226995765409"
+                            }
+                        ]
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 Orbs",
+                            "name_with_article": "700 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 700,
+                        "premium_orb_quantity": null
+                    }
+                ],
+                "rewards_expire_at": "2026-06-05T00:00:59+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://nte.onelink.me/RX86/Event_West_12",
+                "button_label": "Play Now",
+                "subtitle": "Supernatural urban open world RPG"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false,
+        "traffic_metadata_raw": "EAIYAQ=="
+    },
+    {
+        "id": "1495642756264103977",
+        "config": {
+            "id": "1495642756264103977",
+            "config_version": 2,
+            "starts_at": "2026-04-29T17:00:00+00:00",
+            "expires_at": "2026-05-06T00:00:59+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://genshin.hoyoverse.com/ua/pc-landing/?utm_source=discord_ua_JP&utm_medium=discord_ua_stage1&utm_campaign=GS-JP-PC-X-new-Discord-260429&hoyotrace_channel=discord_channel",
+                "id": "762434991303950386",
+                "name": "Genshin Impact"
+            },
+            "assets": {
+                "hero": "quests/1495642756264103977/1495897700699344906.jpg",
+                "hero_video": "quests/1495642756264103977/1495897617702584481.mp4",
+                "quest_bar_hero_blurhash": "p/cFJIifJXjXZa5beopXYGQGRg==",
+                "quest_bar_hero": "quests/1495642756264103977/1495897414442287214.jpg",
+                "quest_bar_hero_video": "quests/1495642756264103977/1495897617702584481.mp4",
+                "game_tile": "1495898079495192596.png",
+                "logotype": "1495975913194786856.png",
+                "game_tile_light": "quests/1495642756264103977/1495897961589117069.png",
+                "game_tile_dark": "quests/1495642756264103977/1495897961589117069.png",
+                "logotype_light": "quests/1495642756264103977/1495897773189365810.png",
+                "logotype_dark": "quests/1495642756264103977/1495975671917314140.png"
+            },
+            "colors": {
+                "primary": "#FFFFFF",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Genshin Impact: Song of the Welkin Moon \"Luna VI\"",
+                "game_title": "Genshin Impact",
+                "game_publisher": "HoYoverse"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "event_name": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "external_ids": []
+                    },
+                    "PLAY_ON_XBOX": {
+                        "event_name": "PLAY_ON_XBOX",
+                        "target": 900,
+                        "external_ids": [
+                            "2053080068"
+                        ]
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "event_name": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "external_ids": [
+                            "CUSA23681_00",
+                            "PPSA02585_00",
+                            "PPSA02562_00",
+                            "CUSA23678_00",
+                            "PPSA02584_00"
+                        ]
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "762434991303950386"
+                            }
+                        ]
+                    },
+                    "PLAY_ON_XBOX": {
+                        "type": "PLAY_ON_XBOX",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "762434991303950386"
+                            }
+                        ],
+                        "external_ids": [
+                            "2053080068"
+                        ]
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "type": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "762434991303950386"
+                            }
+                        ],
+                        "external_ids": [
+                            "CUSA23681_00",
+                            "PPSA02585_00",
+                            "PPSA02562_00",
+                            "CUSA23678_00",
+                            "PPSA02584_00"
+                        ]
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 Orbs",
+                            "name_with_article": "700 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 700,
+                        "premium_orb_quantity": null
+                    }
+                ],
+                "rewards_expire_at": "2026-06-05T00:00:59+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://genshin.hoyoverse.com/ua/pc-landing/?utm_source=discord_ua_JP&utm_medium=discord_ua_stage1&utm_campaign=GS-JP-PC-X-new-Discord-260429&hoyotrace_channel=discord_channel",
+                "button_label": "Play Now"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false,
+        "traffic_metadata_raw": "EAIYAQ=="
+    },
+    {
+        "id": "1497254810909409403",
+        "config": {
+            "id": "1497254810909409403",
+            "config_version": 2,
+            "starts_at": "2026-04-29T17:00:00+00:00",
+            "expires_at": "2026-05-07T00:00:59+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://www.eveonline.com/?utm_source=discord&utm_medium=cpm&utm_campaign=cn:us_lg:en_mg:1_pd:1_cd:video-quest-290426_cs:general_ct:video_tg:homepage_br:eve",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1497254810909409403/1498430451017056327.jpg",
+                "hero_video": "quests/1497254810909409403/1498430289293213816.mp4",
+                "quest_bar_hero_blurhash": "ShgKFIRgWnp6h3iVeIdxTwfndQ==",
+                "quest_bar_hero": "quests/1497254810909409403/1498430254384156852.jpg",
+                "quest_bar_hero_video": "quests/1497254810909409403/1498430289293213816.mp4",
+                "game_tile": "1498430738922606672.png",
+                "logotype": "1498430737878221016.png",
+                "game_tile_light": "quests/1497254810909409403/1498430573100925079.png",
+                "game_tile_dark": "quests/1497254810909409403/1498430573100925079.png",
+                "logotype_light": "quests/1497254810909409403/1498430656550535390.png",
+                "logotype_dark": "quests/1497254810909409403/1498430656550535390.png"
+            },
+            "colors": {
+                "primary": "#FFFFFF",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "EVE Online Video",
+                "game_title": "EVE Online",
+                "game_publisher": "CCP Games"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "event_name": "WATCH_VIDEO",
+                        "target": 113,
+                        "external_ids": []
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "event_name": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 113,
+                        "external_ids": []
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 113,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1497254810909409403/1498430840995053648_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1497254810909409403/1498431212073521182.png",
+                                "caption": "quests/1497254810909409403/1498431329220689960.vtt"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1497254810909409403/1498430840995053648_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1497254810909409403/1498431212073521182.png",
+                                "caption": "quests/1497254810909409403/1498431329220689960.vtt"
+                            },
+                            "video_hls": {
+                                "url": "quests/1497254810909409403/1498430840995053648.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1497254810909409403/1498431212073521182.png",
+                                "caption": "quests/1497254810909409403/1498431329220689960.vtt"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "The EVE Online Experience"
+                        }
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 113,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1497254810909409403/1498430840995053648_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1497254810909409403/1498431212073521182.png",
+                                "caption": "quests/1497254810909409403/1498431329220689960.vtt"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1497254810909409403/1498430840995053648_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1497254810909409403/1498431212073521182.png",
+                                "caption": "quests/1497254810909409403/1498431329220689960.vtt"
+                            },
+                            "video_hls": {
+                                "url": "quests/1497254810909409403/1498430840995053648.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1497254810909409403/1498431212073521182.png",
+                                "caption": "quests/1497254810909409403/1498431329220689960.vtt"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "The EVE Online Experience"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "200 Orbs",
+                            "name_with_article": "200 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 200,
+                        "premium_orb_quantity": null
+                    }
+                ],
+                "rewards_expire_at": "2026-06-06T00:00:59+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://www.eveonline.com/?utm_source=discord&utm_medium=cpm&utm_campaign=cn:us_lg:en_mg:1_pd:1_cd:video-quest-290426_cs:general_ct:video_tg:homepage_br:eve",
+                "button_label": "Play Now",
+                "subtitle": "See what the EVE Online experience is all about. "
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false,
+        "traffic_metadata_raw": "EAIYAQ=="
+    },
+    {
+        "id": "1496572086049837187",
+        "config": {
+            "id": "1496572086049837187",
+            "config_version": 2,
+            "starts_at": "2026-04-29T17:00:00+00:00",
+            "expires_at": "2026-05-11T00:00:59+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://www.fandango.com/mortal-kombat-ii-2026-241451/movie-overview",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1496572086049837187/1498802247600050367.jpg",
+                "hero_video": "quests/1496572086049837187/1498802340008956055.mp4",
+                "quest_bar_hero_blurhash": "AwgGCoIGu3WHiEioCnaHcFc=",
+                "quest_bar_hero": "quests/1496572086049837187/1498802247600050367.jpg",
+                "quest_bar_hero_video": "quests/1496572086049837187/1498802340008956055.mp4",
+                "game_tile": "1498802784907165908.png",
+                "logotype": "1498802783741280276.png",
+                "game_tile_light": "quests/1496572086049837187/1498802678002614293.png",
+                "game_tile_dark": "quests/1496572086049837187/1498802678002614293.png",
+                "logotype_light": "quests/1496572086049837187/1498802571135942866.png",
+                "logotype_dark": "quests/1496572086049837187/1498802479331020972.png"
+            },
+            "colors": {
+                "primary": "#FFFFFF",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Mortal Kombat II Scorpion",
+                "game_title": "In Theaters Friday 5/8 - Get Tickets Now",
+                "game_publisher": "Warner Bros. Pictures"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "event_name": "WATCH_VIDEO",
+                        "target": 62,
+                        "external_ids": []
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "event_name": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 62,
+                        "external_ids": []
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 62,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1496572086049837187/1498814893703565383_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1496572086049837187/1498803200453509181.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1496572086049837187/1498814893703565383_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1496572086049837187/1498803200453509181.jpg"
+                            },
+                            "video_hls": {
+                                "url": "quests/1496572086049837187/1498814893703565383.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1496572086049837187/1498803200453509181.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "video"
+                        }
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 62,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1496572086049837187/1498814784647204924_1080.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1496572086049837187/1498803200453509181.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1496572086049837187/1498814784647204924_720.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1496572086049837187/1498803200453509181.jpg"
+                            },
+                            "video_hls": {
+                                "url": "quests/1496572086049837187/1498814784647204924.m3u8",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1496572086049837187/1498803200453509181.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "video"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 3,
+                        "sku_id": "1498719106642219108",
+                        "asset": "quests/1496572086049837187/1498719332912467968.mp4",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "Scorpion Avatar Decoration",
+                            "name_with_article": "a Scorpion Avatar Decoration",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "expires_at": "2026-07-10T06:59:59+00:00",
+                        "expires_at_premium": null,
+                        "expiration_mode": 3
+                    }
+                ],
+                "rewards_expire_at": "2026-06-10T00:00:59+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://www.fandango.com/mortal-kombat-ii-2026-241451/movie-overview",
+                "button_label": "Get Tickets",
+                "subtitle": "In Theaters Friday"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false,
+        "traffic_metadata_raw": "EAIYAQ=="
+    },
+    {
+        "id": "1496570375306481844",
+        "config": {
+            "id": "1496570375306481844",
+            "config_version": 2,
+            "starts_at": "2026-04-29T17:00:00+00:00",
+            "expires_at": "2026-05-11T00:00:59+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://www.fandango.com/mortal-kombat-ii-2026-241451/movie-overview",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1496570375306481844/1498805848779128852.jpg",
+                "hero_video": "quests/1496570375306481844/1498771342525464646.mp4",
+                "quest_bar_hero_blurhash": "AwgGCoIGu3WHiEioCnaHcFc=",
+                "quest_bar_hero": "quests/1496570375306481844/1498805848779128852.jpg",
+                "quest_bar_hero_video": "quests/1496570375306481844/1498771342525464646.mp4",
+                "game_tile": "1498806465224511549.png",
+                "logotype": "1498806464263753798.png",
+                "game_tile_light": "quests/1496570375306481844/1498806432068407336.png",
+                "game_tile_dark": "quests/1496570375306481844/1498806432068407336.png",
+                "logotype_light": "quests/1496570375306481844/1498806376766509106.png",
+                "logotype_dark": "quests/1496570375306481844/1498806303739482283.png"
+            },
+            "colors": {
+                "primary": "#FFFFFF",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Mortal Kombat II Kitana",
+                "game_title": "In Theaters Friday 5/8 - Get Tickets Now",
+                "game_publisher": "Warner Bros. Pictures"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "event_name": "WATCH_VIDEO",
+                        "target": 14,
+                        "external_ids": []
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "event_name": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 14,
+                        "external_ids": []
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 14,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1496570375306481844/1498814315350724710_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1496570375306481844/1498807618850783232.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1496570375306481844/1498814315350724710_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1496570375306481844/1498807618850783232.jpg"
+                            },
+                            "video_hls": {
+                                "url": "quests/1496570375306481844/1498814315350724710.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1496570375306481844/1498807618850783232.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "video"
+                        }
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 14,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1496570375306481844/1498893524974960660_1080.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1496570375306481844/1498807618850783232.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1496570375306481844/1498893524974960660_720.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1496570375306481844/1498807618850783232.jpg"
+                            },
+                            "video_hls": {
+                                "url": "quests/1496570375306481844/1498893524974960660.m3u8",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1496570375306481844/1498807618850783232.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "video"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 3,
+                        "sku_id": "1498717411958849686",
+                        "asset": "quests/1496570375306481844/1498717753169678386.mp4",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "Kitana Avatar Decoration",
+                            "name_with_article": "a Kitana Avatar Decoration",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "expires_at": "2026-07-10T06:59:59+00:00",
+                        "expires_at_premium": null,
+                        "expiration_mode": 3
+                    }
+                ],
+                "rewards_expire_at": "2026-06-10T00:00:59+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://www.fandango.com/mortal-kombat-ii-2026-241451/movie-overview",
+                "button_label": "Get Tickets",
+                "subtitle": "In Theaters Friday"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false,
+        "traffic_metadata_raw": "EAIYAQ=="
+    },
+    {
+        "id": "1496645830361223358",
+        "config": {
+            "id": "1496645830361223358",
+            "config_version": 2,
+            "starts_at": "2026-04-29T17:00:44+00:00",
+            "expires_at": "2026-05-06T00:00:44+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://nte.onelink.me/RX86/Event_West_13",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1496630865160048702/1496648752251801690.jpg",
+                "hero_video": "quests/1496630865160048702/1496648884158599188.mp4",
+                "quest_bar_hero_blurhash": "ZRgGHITfiqe6N2hYpmm/tvVOnA==",
+                "quest_bar_hero": "quests/1496630865160048702/1496648697390567514.jpg",
+                "quest_bar_hero_video": "quests/1496630865160048702/1496648802961199137.mp4",
+                "game_tile": "1496649105601073423.png",
+                "logotype": "1496649104749625435.png",
+                "game_tile_light": "quests/1496630865160048702/1496649046893396100.png",
+                "game_tile_dark": "quests/1496630865160048702/1496649046893396100.png",
+                "logotype_light": "quests/1496630865160048702/1496648937249968319.png",
+                "logotype_dark": "quests/1496630865160048702/1496648937249968319.png"
+            },
+            "colors": {
+                "primary": "#FFFFFF",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "NTE Launch Trailer",
+                "game_title": "NTE",
+                "game_publisher": "Perfect World Games"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "event_name": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 59,
+                        "external_ids": []
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 59,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1496630865160048702/1496646221685592194_1080.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1496630865160048702/1496648500073725962.png"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1496630865160048702/1496646221685592194_720.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1496630865160048702/1496648500073725962.png"
+                            },
+                            "video_hls": {
+                                "url": "quests/1496630865160048702/1496646221685592194.m3u8",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1496630865160048702/1496648500073725962.png"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "NTE Video"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "200 Orbs",
+                            "name_with_article": "200 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 200,
+                        "premium_orb_quantity": null
+                    }
+                ],
+                "rewards_expire_at": "2026-06-05T00:00:44+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "android": {
+                    "android_app_id": "com.hottagames.nte"
+                },
+                "ios": {
+                    "ios_app_id": "6754593077"
+                },
+                "link": "https://nte.onelink.me/RX86/Event_West_13",
+                "button_label": "Play Now",
+                "subtitle": "Supernatural urban open world RPG "
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false,
+        "traffic_metadata_raw": "EAIYAQ=="
     }
 ]
