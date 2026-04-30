@@ -65271,5 +65271,151 @@
         "targeted_content": [],
         "preview": false,
         "traffic_metadata_raw": "EAIYAQ=="
+    },
+    {
+        "id": "1491934739605622935",
+        "config": {
+            "id": "1491934739605622935",
+            "config_version": 2,
+            "starts_at": "2026-04-30T07:00:00+00:00",
+            "expires_at": "2026-05-15T06:59:59+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://invinciblevs.com/?utm_campaign=launch&utm_source=discord&utm_term=us&utm_content=fightinggamefans&utm_medium=video",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1491934739605622935/1497027043232190504.jpg",
+                "hero_video": "quests/1491934739605622935/1497027107434528858.mp4",
+                "quest_bar_hero_blurhash": "E9cNDIRYh3h2h4dwiXZfjPeoaA==",
+                "quest_bar_hero": "quests/1491934739605622935/1497026823278821446.jpg",
+                "quest_bar_hero_video": "quests/1491934739605622935/1497026991784726590.mp4",
+                "game_tile": "1497027951777288263.png",
+                "logotype": "1497027950711799818.png",
+                "game_tile_light": "quests/1491934739605622935/1497027642011156612.png",
+                "game_tile_dark": "quests/1491934739605622935/1497027642011156612.png",
+                "logotype_light": "quests/1491934739605622935/1497027521328451726.png",
+                "logotype_dark": "quests/1491934739605622935/1497027489355010240.png"
+            },
+            "colors": {
+                "primary": "#FFFFFF",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Invincible VS",
+                "game_title": "Invincible VS",
+                "game_publisher": "Skybound Game Studios"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "event_name": "WATCH_VIDEO",
+                        "target": 29,
+                        "external_ids": []
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "event_name": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 29,
+                        "external_ids": []
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 29,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1491934739605622935/1497273191674941440_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1491934739605622935/1497026312303415536.png"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1491934739605622935/1497273191674941440_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1491934739605622935/1497026312303415536.png"
+                            },
+                            "video_hls": {
+                                "url": "quests/1491934739605622935/1497273191674941440.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1491934739605622935/1497026312303415536.png"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "Invincible VS Launch Trailer"
+                        }
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 29,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1491934739605622935/1497275466862690304_1080.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1491934739605622935/1497026312303415536.png"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1491934739605622935/1497275466862690304_720.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1491934739605622935/1497026312303415536.png"
+                            },
+                            "video_hls": {
+                                "url": "quests/1491934739605622935/1497275466862690304.m3u8",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1491934739605622935/1497026312303415536.png"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "Invincible VS Launch Trailer"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "200 Orbs",
+                            "name_with_article": "200 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 200,
+                        "premium_orb_quantity": null
+                    }
+                ],
+                "rewards_expire_at": "2026-06-14T06:59:59+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://invinciblevs.com/?utm_campaign=launch&utm_source=discord&utm_term=us&utm_content=fightinggamefans&utm_medium=video",
+                "button_label": "Buy Now",
+                "subtitle": "Play Invincible VS now!"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false,
+        "traffic_metadata_raw": "EAIYAQ=="
     }
 ]
