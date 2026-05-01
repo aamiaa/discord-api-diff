@@ -65556,5 +65556,121 @@
         "targeted_content": [],
         "preview": false,
         "traffic_metadata_raw": "EAIYAQ=="
+    },
+    {
+        "id": "1496630865160048702",
+        "config": {
+            "id": "1496630865160048702",
+            "config_version": 2,
+            "starts_at": "2026-04-29T17:00:44+00:00",
+            "expires_at": "2026-05-06T00:00:44+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://nte.onelink.me/RX86/Event_West_13",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1496630865160048702/1496640882009440286.jpg",
+                "hero_video": "quests/1496630865160048702/1496640931959406753.mp4",
+                "quest_bar_hero_blurhash": "o/cNFIR6ZYaPhXiFh4dmkjAFBw==",
+                "quest_bar_hero": "quests/1496630865160048702/1496640777454092328.jpg",
+                "quest_bar_hero_video": "quests/1496630865160048702/1496640832512458752.mp4",
+                "game_tile": "1496641064919109753.png",
+                "logotype": "1496641063870402610.png",
+                "game_tile_light": "quests/1496630865160048702/1496641040021459028.png",
+                "game_tile_dark": "quests/1496630865160048702/1496641040021459028.png",
+                "logotype_light": "quests/1496630865160048702/1496640996643967166.png",
+                "logotype_dark": "quests/1496630865160048702/1496640996643967166.png"
+            },
+            "colors": {
+                "primary": "#FFFFFF",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "NTE Launch Trailer",
+                "game_title": "NTE",
+                "game_publisher": "Perfect World Games"
+            },
+            "task_config": {
+                "type": 1,
+                "join_operator": "or",
+                "tasks": {
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "event_name": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 59,
+                        "external_ids": []
+                    }
+                }
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 59,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1496630865160048702/1498405941517746216_1080.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1496630865160048702/1496640557013799023.png"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1496630865160048702/1498405941517746216_720.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1496630865160048702/1496640557013799023.png"
+                            },
+                            "video_hls": {
+                                "url": "quests/1496630865160048702/1498405941517746216.m3u8",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1496630865160048702/1496640557013799023.png"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "NTE Video"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "200 Orbs",
+                            "name_with_article": "200 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 200,
+                        "premium_orb_quantity": null
+                    }
+                ],
+                "rewards_expire_at": "2026-06-05T00:00:44+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "android": {
+                    "android_app_id": "com.hottagames.nte"
+                },
+                "ios": {
+                    "ios_app_id": "6754593077"
+                },
+                "link": "https://nte.onelink.me/RX86/Event_West_13",
+                "button_label": "Play Now",
+                "subtitle": "Supernatural urban open world RPG"
+            }
+        }
     }
 ]
