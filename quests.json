@@ -51081,22 +51081,6 @@
                 "game_title": "Fios",
                 "game_publisher": "Verizon"
             },
-            "task_config": {
-                "type": 1,
-                "join_operator": "or",
-                "tasks": {
-                    "WATCH_VIDEO": {
-                        "event_name": "WATCH_VIDEO",
-                        "target": 29,
-                        "external_ids": []
-                    },
-                    "WATCH_VIDEO_ON_MOBILE": {
-                        "event_name": "WATCH_VIDEO_ON_MOBILE",
-                        "target": 29,
-                        "external_ids": []
-                    }
-                }
-            },
             "task_config_v2": {
                 "tasks": {
                     "WATCH_VIDEO": {
@@ -55021,22 +55005,6 @@
                 "game_title": "MacBook Neo",
                 "game_publisher": "Apple"
             },
-            "task_config": {
-                "type": 1,
-                "join_operator": "or",
-                "tasks": {
-                    "WATCH_VIDEO": {
-                        "event_name": "WATCH_VIDEO",
-                        "target": 29,
-                        "external_ids": []
-                    },
-                    "WATCH_VIDEO_ON_MOBILE": {
-                        "event_name": "WATCH_VIDEO_ON_MOBILE",
-                        "target": 14,
-                        "external_ids": []
-                    }
-                }
-            },
             "task_config_v2": {
                 "tasks": {
                     "WATCH_VIDEO": {
@@ -57715,37 +57683,6 @@
                 "game_title": "THE FINALS",
                 "game_publisher": "Embark Studios"
             },
-            "task_config": {
-                "type": 1,
-                "join_operator": "or",
-                "tasks": {
-                    "PLAY_ON_DESKTOP": {
-                        "event_name": "PLAY_ON_DESKTOP",
-                        "target": 900,
-                        "external_ids": []
-                    },
-                    "PLAY_ON_XBOX": {
-                        "event_name": "PLAY_ON_XBOX",
-                        "target": 900,
-                        "external_ids": [
-                            "2099828114",
-                            "1934070090"
-                        ]
-                    },
-                    "PLAY_ON_PLAYSTATION": {
-                        "event_name": "PLAY_ON_PLAYSTATION",
-                        "target": 900,
-                        "external_ids": [
-                            "PPSA18779_00",
-                            "PPSA18780_00",
-                            "CUSA49198_00",
-                            "PPSA17310_00",
-                            "PPSA12405_00",
-                            "CUSA49199_00"
-                        ]
-                    }
-                }
-            },
             "task_config_v2": {
                 "tasks": {
                     "PLAY_ON_DESKTOP": {
@@ -57766,8 +57703,8 @@
                             }
                         ],
                         "external_ids": [
-                            "2099828114",
-                            "1934070090"
+                            "1934070090",
+                            "2099828114"
                         ]
                     },
                     "PLAY_ON_PLAYSTATION": {
@@ -57779,12 +57716,12 @@
                             }
                         ],
                         "external_ids": [
+                            "CUSA49198_00",
                             "PPSA18779_00",
                             "PPSA18780_00",
-                            "CUSA49198_00",
-                            "PPSA17310_00",
                             "PPSA12405_00",
-                            "CUSA49199_00"
+                            "CUSA49199_00",
+                            "PPSA17310_00"
                         ]
                     }
                 },
@@ -58478,22 +58415,6 @@
                 "game_title": "Pokémon TCG",
                 "game_publisher": "Pokémon TCG"
             },
-            "task_config": {
-                "type": 1,
-                "join_operator": "or",
-                "tasks": {
-                    "WATCH_VIDEO": {
-                        "event_name": "WATCH_VIDEO",
-                        "target": 29,
-                        "external_ids": []
-                    },
-                    "WATCH_VIDEO_ON_MOBILE": {
-                        "event_name": "WATCH_VIDEO_ON_MOBILE",
-                        "target": 29,
-                        "external_ids": []
-                    }
-                }
-            },
             "task_config_v2": {
                 "tasks": {
                     "WATCH_VIDEO": {
@@ -58624,22 +58545,6 @@
                 "game_title": "Sign up now for presale access!",
                 "game_publisher": "Live Nation"
             },
-            "task_config": {
-                "type": 1,
-                "join_operator": "or",
-                "tasks": {
-                    "WATCH_VIDEO": {
-                        "event_name": "WATCH_VIDEO",
-                        "target": 14,
-                        "external_ids": []
-                    },
-                    "WATCH_VIDEO_ON_MOBILE": {
-                        "event_name": "WATCH_VIDEO_ON_MOBILE",
-                        "target": 14,
-                        "external_ids": []
-                    }
-                }
-            },
             "task_config_v2": {
                 "tasks": {
                     "WATCH_VIDEO": {
@@ -58769,22 +58674,6 @@
                 "quest_name": "Starfield",
                 "game_title": "Starfield",
                 "game_publisher": "Bethesda / Starfield"
-            },
-            "task_config": {
-                "type": 1,
-                "join_operator": "or",
-                "tasks": {
-                    "WATCH_VIDEO": {
-                        "event_name": "WATCH_VIDEO",
-                        "target": 28,
-                        "external_ids": []
-                    },
-                    "WATCH_VIDEO_ON_MOBILE": {
-                        "event_name": "WATCH_VIDEO_ON_MOBILE",
-                        "target": 29,
-                        "external_ids": []
-                    }
-                }
             },
             "task_config_v2": {
                 "tasks": {
@@ -59047,24 +58936,6 @@
                 "game_title": "Where Winds Meet",
                 "game_publisher": "NetEase"
             },
-            "task_config": {
-                "type": 1,
-                "join_operator": "or",
-                "tasks": {
-                    "PLAY_ON_DESKTOP": {
-                        "event_name": "PLAY_ON_DESKTOP",
-                        "target": 900,
-                        "external_ids": []
-                    },
-                    "PLAY_ON_PLAYSTATION": {
-                        "event_name": "PLAY_ON_PLAYSTATION",
-                        "target": 900,
-                        "external_ids": [
-                            "PPSA23355_00"
-                        ]
-                    }
-                }
-            },
             "task_config_v2": {
                 "tasks": {
                     "PLAY_ON_DESKTOP": {
@@ -59161,24 +59032,6 @@
                 "game_title": "Where Winds Meet",
                 "game_publisher": "NetEase"
             },
-            "task_config": {
-                "type": 1,
-                "join_operator": "or",
-                "tasks": {
-                    "PLAY_ON_DESKTOP": {
-                        "event_name": "PLAY_ON_DESKTOP",
-                        "target": 900,
-                        "external_ids": []
-                    },
-                    "PLAY_ON_PLAYSTATION": {
-                        "event_name": "PLAY_ON_PLAYSTATION",
-                        "target": 900,
-                        "external_ids": [
-                            "PPSA23355_00"
-                        ]
-                    }
-                }
-            },
             "task_config_v2": {
                 "tasks": {
                     "PLAY_ON_DESKTOP": {
@@ -59271,24 +59124,6 @@
                 "game_title": "Where Winds Meet",
                 "game_publisher": "NetEase"
             },
-            "task_config": {
-                "type": 1,
-                "join_operator": "or",
-                "tasks": {
-                    "PLAY_ON_DESKTOP": {
-                        "event_name": "PLAY_ON_DESKTOP",
-                        "target": 900,
-                        "external_ids": []
-                    },
-                    "PLAY_ON_PLAYSTATION": {
-                        "event_name": "PLAY_ON_PLAYSTATION",
-                        "target": 900,
-                        "external_ids": [
-                            "PPSA23355_00"
-                        ]
-                    }
-                }
-            },
             "task_config_v2": {
                 "tasks": {
                     "PLAY_ON_DESKTOP": {
@@ -59380,22 +59215,6 @@
                 "quest_name": "Backrooms Trailer",
                 "game_title": "In Theaters 5.29.26",
                 "game_publisher": "A24"
-            },
-            "task_config": {
-                "type": 1,
-                "join_operator": "or",
-                "tasks": {
-                    "WATCH_VIDEO": {
-                        "event_name": "WATCH_VIDEO",
-                        "target": 130,
-                        "external_ids": []
-                    },
-                    "WATCH_VIDEO_ON_MOBILE": {
-                        "event_name": "WATCH_VIDEO_ON_MOBILE",
-                        "target": 130,
-                        "external_ids": []
-                    }
-                }
             },
             "task_config_v2": {
                 "tasks": {
@@ -59527,17 +59346,6 @@
                 "game_title": "Mongil: STAR DIVE",
                 "game_publisher": "Kabam"
             },
-            "task_config": {
-                "type": 1,
-                "join_operator": "or",
-                "tasks": {
-                    "WATCH_VIDEO_ON_MOBILE": {
-                        "event_name": "WATCH_VIDEO_ON_MOBILE",
-                        "target": 29,
-                        "external_ids": []
-                    }
-                }
-            },
             "task_config_v2": {
                 "tasks": {
                     "WATCH_VIDEO_ON_MOBILE": {
@@ -59639,22 +59447,6 @@
                 "quest_name": "Microsoft Azure",
                 "game_title": "Microsoft Azure",
                 "game_publisher": "Microsoft"
-            },
-            "task_config": {
-                "type": 1,
-                "join_operator": "or",
-                "tasks": {
-                    "WATCH_VIDEO": {
-                        "event_name": "WATCH_VIDEO",
-                        "target": 14,
-                        "external_ids": []
-                    },
-                    "WATCH_VIDEO_ON_MOBILE": {
-                        "event_name": "WATCH_VIDEO_ON_MOBILE",
-                        "target": 14,
-                        "external_ids": []
-                    }
-                }
             },
             "task_config_v2": {
                 "tasks": {
@@ -59781,22 +59573,6 @@
                 "quest_name": "Star Trek Fleet Command Desktop",
                 "game_title": "Star Trek Fleet Command",
                 "game_publisher": "Scopely"
-            },
-            "task_config": {
-                "type": 1,
-                "join_operator": "or",
-                "tasks": {
-                    "WATCH_VIDEO": {
-                        "event_name": "WATCH_VIDEO",
-                        "target": 43,
-                        "external_ids": []
-                    },
-                    "WATCH_VIDEO_ON_MOBILE": {
-                        "event_name": "WATCH_VIDEO_ON_MOBILE",
-                        "target": 43,
-                        "external_ids": []
-                    }
-                }
             },
             "task_config_v2": {
                 "tasks": {
@@ -59927,17 +59703,6 @@
                 "game_title": "Star Trek Fleet Command",
                 "game_publisher": "Scopely"
             },
-            "task_config": {
-                "type": 1,
-                "join_operator": "or",
-                "tasks": {
-                    "WATCH_VIDEO_ON_MOBILE": {
-                        "event_name": "WATCH_VIDEO_ON_MOBILE",
-                        "target": 43,
-                        "external_ids": []
-                    }
-                }
-            },
             "task_config_v2": {
                 "tasks": {
                     "WATCH_VIDEO_ON_MOBILE": {
@@ -60045,22 +59810,6 @@
                 "quest_name": "Strawberry Shortcake's Cake",
                 "game_title": "Cake Off",
                 "game_publisher": "Basket Entertainment"
-            },
-            "task_config": {
-                "type": 1,
-                "join_operator": "or",
-                "tasks": {
-                    "WATCH_VIDEO": {
-                        "event_name": "WATCH_VIDEO",
-                        "target": 29,
-                        "external_ids": []
-                    },
-                    "WATCH_VIDEO_ON_MOBILE": {
-                        "event_name": "WATCH_VIDEO_ON_MOBILE",
-                        "target": 29,
-                        "external_ids": []
-                    }
-                }
             },
             "task_config_v2": {
                 "tasks": {
@@ -60191,22 +59940,6 @@
                 "quest_name": "Lee Cronin’s The Mummy",
                 "game_title": "Lee Cronin's The Mummy only in theaters April 17",
                 "game_publisher": "Warner Bros. Pictures"
-            },
-            "task_config": {
-                "type": 1,
-                "join_operator": "or",
-                "tasks": {
-                    "WATCH_VIDEO": {
-                        "event_name": "WATCH_VIDEO",
-                        "target": 14,
-                        "external_ids": []
-                    },
-                    "WATCH_VIDEO_ON_MOBILE": {
-                        "event_name": "WATCH_VIDEO_ON_MOBILE",
-                        "target": 14,
-                        "external_ids": []
-                    }
-                }
             },
             "task_config_v2": {
                 "tasks": {
@@ -60341,20 +60074,6 @@
                 "game_title": "Nitro Control",
                 "game_publisher": "Discord"
             },
-            "task_config": {
-                "type": 2,
-                "join_operator": "or",
-                "tasks": {
-                    "progress": {
-                        "event_name": "progress",
-                        "title": "Save Wumpus. Earn Orbs.",
-                        "description": "Complete 3 rounds of Nitro Control to claim 150 Orbs!",
-                        "target": 1
-                    }
-                },
-                "enrollment_url": "https://www.discord.com",
-                "developer_application_id": "1467903834436276491"
-            },
             "task_config_v2": {
                 "tasks": {
                     "ACHIEVEMENT_IN_ACTIVITY": {
@@ -60443,22 +60162,6 @@
                 "quest_name": "Starfield PS5 Launch",
                 "game_title": "Starfield",
                 "game_publisher": "Bethesda Softworks"
-            },
-            "task_config": {
-                "type": 1,
-                "join_operator": "or",
-                "tasks": {
-                    "WATCH_VIDEO": {
-                        "event_name": "WATCH_VIDEO",
-                        "target": 28,
-                        "external_ids": []
-                    },
-                    "WATCH_VIDEO_ON_MOBILE": {
-                        "event_name": "WATCH_VIDEO_ON_MOBILE",
-                        "target": 29,
-                        "external_ids": []
-                    }
-                }
             },
             "task_config_v2": {
                 "tasks": {
@@ -60602,22 +60305,6 @@
                 "game_title": "EXODUS™",
                 "game_publisher": "Wizards of the Coast"
             },
-            "task_config": {
-                "type": 1,
-                "join_operator": "or",
-                "tasks": {
-                    "WATCH_VIDEO": {
-                        "event_name": "WATCH_VIDEO",
-                        "target": 29,
-                        "external_ids": []
-                    },
-                    "WATCH_VIDEO_ON_MOBILE": {
-                        "event_name": "WATCH_VIDEO_ON_MOBILE",
-                        "target": 29,
-                        "external_ids": []
-                    }
-                }
-            },
             "task_config_v2": {
                 "tasks": {
                     "WATCH_VIDEO": {
@@ -60744,17 +60431,6 @@
                 "game_title": "CookieRun: OvenSmash",
                 "game_publisher": "Devsisters"
             },
-            "task_config": {
-                "type": 1,
-                "join_operator": "or",
-                "tasks": {
-                    "WATCH_VIDEO_ON_MOBILE": {
-                        "event_name": "WATCH_VIDEO_ON_MOBILE",
-                        "target": 50,
-                        "external_ids": []
-                    }
-                }
-            },
             "task_config_v2": {
                 "tasks": {
                     "WATCH_VIDEO_ON_MOBILE": {
@@ -60866,17 +60542,6 @@
                 "game_title": "Arena Breakout: Infinite",
                 "game_publisher": "MoreFun Studios"
             },
-            "task_config": {
-                "type": 1,
-                "join_operator": "or",
-                "tasks": {
-                    "PLAY_ON_DESKTOP": {
-                        "event_name": "PLAY_ON_DESKTOP",
-                        "target": 900,
-                        "external_ids": []
-                    }
-                }
-            },
             "task_config_v2": {
                 "tasks": {
                     "PLAY_ON_DESKTOP": {
@@ -60960,24 +60625,6 @@
                 "quest_name": "Where Winds Meet Ver 1.5 Liangzhou",
                 "game_title": "Where Winds Meet",
                 "game_publisher": "NetEase"
-            },
-            "task_config": {
-                "type": 1,
-                "join_operator": "or",
-                "tasks": {
-                    "PLAY_ON_DESKTOP": {
-                        "event_name": "PLAY_ON_DESKTOP",
-                        "target": 900,
-                        "external_ids": []
-                    },
-                    "PLAY_ON_PLAYSTATION": {
-                        "event_name": "PLAY_ON_PLAYSTATION",
-                        "target": 900,
-                        "external_ids": [
-                            "PPSA23355_00"
-                        ]
-                    }
-                }
             },
             "task_config_v2": {
                 "tasks": {
@@ -61075,24 +60722,6 @@
                 "game_title": "Where Winds Meet",
                 "game_publisher": "NETEASE"
             },
-            "task_config": {
-                "type": 1,
-                "join_operator": "or",
-                "tasks": {
-                    "PLAY_ON_DESKTOP": {
-                        "event_name": "PLAY_ON_DESKTOP",
-                        "target": 900,
-                        "external_ids": []
-                    },
-                    "PLAY_ON_PLAYSTATION": {
-                        "event_name": "PLAY_ON_PLAYSTATION",
-                        "target": 900,
-                        "external_ids": [
-                            "PPSA23355_00"
-                        ]
-                    }
-                }
-            },
             "task_config_v2": {
                 "tasks": {
                     "PLAY_ON_DESKTOP": {
@@ -61185,24 +60814,6 @@
                 "game_title": "Where Winds Meet",
                 "game_publisher": "NetEase"
             },
-            "task_config": {
-                "type": 1,
-                "join_operator": "or",
-                "tasks": {
-                    "PLAY_ON_DESKTOP": {
-                        "event_name": "PLAY_ON_DESKTOP",
-                        "target": 900,
-                        "external_ids": []
-                    },
-                    "PLAY_ON_PLAYSTATION": {
-                        "event_name": "PLAY_ON_PLAYSTATION",
-                        "target": 900,
-                        "external_ids": [
-                            "PPSA23355_00"
-                        ]
-                    }
-                }
-            },
             "task_config_v2": {
                 "tasks": {
                     "PLAY_ON_DESKTOP": {
@@ -61294,22 +60905,6 @@
                 "quest_name": "Lee Cronin’s The Mummy ",
                 "game_title": "Lee Cronin's The Mummy now playing only in theaters",
                 "game_publisher": "Warner Bros. Pictures"
-            },
-            "task_config": {
-                "type": 1,
-                "join_operator": "or",
-                "tasks": {
-                    "WATCH_VIDEO": {
-                        "event_name": "WATCH_VIDEO",
-                        "target": 14,
-                        "external_ids": []
-                    },
-                    "WATCH_VIDEO_ON_MOBILE": {
-                        "event_name": "WATCH_VIDEO_ON_MOBILE",
-                        "target": 14,
-                        "external_ids": []
-                    }
-                }
             },
             "task_config_v2": {
                 "tasks": {
@@ -61444,33 +61039,6 @@
                 "game_title": "skate.",
                 "game_publisher": "skate."
             },
-            "task_config": {
-                "type": 1,
-                "join_operator": "or",
-                "tasks": {
-                    "PLAY_ON_DESKTOP": {
-                        "event_name": "PLAY_ON_DESKTOP",
-                        "target": 900,
-                        "external_ids": []
-                    },
-                    "PLAY_ON_XBOX": {
-                        "event_name": "PLAY_ON_XBOX",
-                        "target": 900,
-                        "external_ids": [
-                            "883004381",
-                            "2106683993"
-                        ]
-                    },
-                    "PLAY_ON_PLAYSTATION": {
-                        "event_name": "PLAY_ON_PLAYSTATION",
-                        "target": 900,
-                        "external_ids": [
-                            "PPSA10793_00",
-                            "CUSA37423_00"
-                        ]
-                    }
-                }
-            },
             "task_config_v2": {
                 "tasks": {
                     "PLAY_ON_DESKTOP": {
@@ -61491,8 +61059,8 @@
                             }
                         ],
                         "external_ids": [
-                            "883004381",
-                            "2106683993"
+                            "2106683993",
+                            "883004381"
                         ]
                     },
                     "PLAY_ON_PLAYSTATION": {
@@ -61504,8 +61072,8 @@
                             }
                         ],
                         "external_ids": [
-                            "PPSA10793_00",
-                            "CUSA37423_00"
+                            "CUSA37423_00",
+                            "PPSA10793_00"
                         ]
                     }
                 },
@@ -61580,17 +61148,6 @@
                 "quest_name": "Marvel Strike Force",
                 "game_title": "MARVEL Strike Force: Squad RPG",
                 "game_publisher": "Scopely"
-            },
-            "task_config": {
-                "type": 1,
-                "join_operator": "or",
-                "tasks": {
-                    "WATCH_VIDEO_ON_MOBILE": {
-                        "event_name": "WATCH_VIDEO_ON_MOBILE",
-                        "target": 59,
-                        "external_ids": []
-                    }
-                }
             },
             "task_config_v2": {
                 "tasks": {
@@ -61699,22 +61256,6 @@
                 "quest_name": "Dive into MONGIL: STAR DIVE",
                 "game_title": "MONGIL: STAR DIVE",
                 "game_publisher": "Kabam"
-            },
-            "task_config": {
-                "type": 1,
-                "join_operator": "or",
-                "tasks": {
-                    "WATCH_VIDEO": {
-                        "event_name": "WATCH_VIDEO",
-                        "target": 29,
-                        "external_ids": []
-                    },
-                    "WATCH_VIDEO_ON_MOBILE": {
-                        "event_name": "WATCH_VIDEO_ON_MOBILE",
-                        "target": 29,
-                        "external_ids": []
-                    }
-                }
             },
             "task_config_v2": {
                 "tasks": {
@@ -61851,17 +61392,6 @@
                 "game_title": "MARVEL Strike Force: Squad RPG",
                 "game_publisher": "Scopely"
             },
-            "task_config": {
-                "type": 1,
-                "join_operator": "or",
-                "tasks": {
-                    "WATCH_VIDEO_ON_MOBILE": {
-                        "event_name": "WATCH_VIDEO_ON_MOBILE",
-                        "target": 31,
-                        "external_ids": []
-                    }
-                }
-            },
             "task_config_v2": {
                 "tasks": {
                     "WATCH_VIDEO_ON_MOBILE": {
@@ -61965,22 +61495,6 @@
                 "quest_name": "MOUSE P.I For Hire",
                 "game_title": "MOUSE P.I For Hire",
                 "game_publisher": "PlaySide Studios"
-            },
-            "task_config": {
-                "type": 1,
-                "join_operator": "or",
-                "tasks": {
-                    "WATCH_VIDEO": {
-                        "event_name": "WATCH_VIDEO",
-                        "target": 59,
-                        "external_ids": []
-                    },
-                    "WATCH_VIDEO_ON_MOBILE": {
-                        "event_name": "WATCH_VIDEO_ON_MOBILE",
-                        "target": 59,
-                        "external_ids": []
-                    }
-                }
             },
             "task_config_v2": {
                 "tasks": {
@@ -62114,34 +61628,6 @@
                 "game_title": "Fortnite Save the World",
                 "game_publisher": "Epic Games"
             },
-            "task_config": {
-                "type": 1,
-                "join_operator": "or",
-                "tasks": {
-                    "PLAY_ON_DESKTOP": {
-                        "event_name": "PLAY_ON_DESKTOP",
-                        "target": 900,
-                        "external_ids": []
-                    },
-                    "PLAY_ON_XBOX": {
-                        "event_name": "PLAY_ON_XBOX",
-                        "target": 900,
-                        "external_ids": [
-                            "267695549"
-                        ]
-                    },
-                    "PLAY_ON_PLAYSTATION": {
-                        "event_name": "PLAY_ON_PLAYSTATION",
-                        "target": 900,
-                        "external_ids": [
-                            "CUSA07022_00",
-                            "CUSA07669_00",
-                            "PPSA01923_00",
-                            "PPSA01922_00"
-                        ]
-                    }
-                }
-            },
             "task_config_v2": {
                 "tasks": {
                     "PLAY_ON_DESKTOP": {
@@ -62174,10 +61660,10 @@
                             }
                         ],
                         "external_ids": [
+                            "PPSA01922_00",
                             "CUSA07022_00",
                             "CUSA07669_00",
-                            "PPSA01923_00",
-                            "PPSA01922_00"
+                            "PPSA01923_00"
                         ]
                     }
                 },
@@ -62256,26 +61742,6 @@
                 "game_title": "Arknights: Endfield",
                 "game_publisher": "GRYPHLINE"
             },
-            "task_config": {
-                "type": 1,
-                "join_operator": "or",
-                "tasks": {
-                    "PLAY_ON_DESKTOP": {
-                        "event_name": "PLAY_ON_DESKTOP",
-                        "target": 900,
-                        "external_ids": []
-                    },
-                    "PLAY_ON_PLAYSTATION": {
-                        "event_name": "PLAY_ON_PLAYSTATION",
-                        "target": 900,
-                        "external_ids": [
-                            "PPSA22751_00",
-                            "PPSA32164_00",
-                            "PPSA18538_00"
-                        ]
-                    }
-                }
-            },
             "task_config_v2": {
                 "tasks": {
                     "PLAY_ON_DESKTOP": {
@@ -62296,9 +61762,9 @@
                             }
                         ],
                         "external_ids": [
-                            "PPSA22751_00",
                             "PPSA32164_00",
-                            "PPSA18538_00"
+                            "PPSA18538_00",
+                            "PPSA22751_00"
                         ]
                     }
                 },
@@ -62373,17 +61839,6 @@
                 "quest_name": "Torchlight: Infinite",
                 "game_title": "Torchlight: Infinite",
                 "game_publisher": "XD. Inc"
-            },
-            "task_config": {
-                "type": 1,
-                "join_operator": "or",
-                "tasks": {
-                    "PLAY_ON_DESKTOP": {
-                        "event_name": "PLAY_ON_DESKTOP",
-                        "target": 900,
-                        "external_ids": []
-                    }
-                }
             },
             "task_config_v2": {
                 "tasks": {
@@ -62468,17 +61923,6 @@
                 "quest_name": "Road to Immortality",
                 "game_title": "WWE 2K26",
                 "game_publisher": "2K"
-            },
-            "task_config": {
-                "type": 1,
-                "join_operator": "or",
-                "tasks": {
-                    "WATCH_VIDEO_ON_MOBILE": {
-                        "event_name": "WATCH_VIDEO_ON_MOBILE",
-                        "target": 29,
-                        "external_ids": []
-                    }
-                }
             },
             "task_config_v2": {
                 "tasks": {
@@ -62588,22 +62032,6 @@
                 "quest_name": "Discover Enshrouded",
                 "game_title": "Enshrouded",
                 "game_publisher": "Keen Games"
-            },
-            "task_config": {
-                "type": 1,
-                "join_operator": "or",
-                "tasks": {
-                    "WATCH_VIDEO": {
-                        "event_name": "WATCH_VIDEO",
-                        "target": 50,
-                        "external_ids": []
-                    },
-                    "WATCH_VIDEO_ON_MOBILE": {
-                        "event_name": "WATCH_VIDEO_ON_MOBILE",
-                        "target": 50,
-                        "external_ids": []
-                    }
-                }
             },
             "task_config_v2": {
                 "tasks": {
@@ -62734,25 +62162,6 @@
                 "game_title": "Honkai: Star Rail",
                 "game_publisher": "COGNOSPHERE PTE. LTD."
             },
-            "task_config": {
-                "type": 1,
-                "join_operator": "or",
-                "tasks": {
-                    "PLAY_ON_DESKTOP": {
-                        "event_name": "PLAY_ON_DESKTOP",
-                        "target": 900,
-                        "external_ids": []
-                    },
-                    "PLAY_ON_PLAYSTATION": {
-                        "event_name": "PLAY_ON_PLAYSTATION",
-                        "target": 900,
-                        "external_ids": [
-                            "PPSA08459_00",
-                            "PPSA08458_00"
-                        ]
-                    }
-                }
-            },
             "task_config_v2": {
                 "tasks": {
                     "PLAY_ON_DESKTOP": {
@@ -62773,8 +62182,8 @@
                             }
                         ],
                         "external_ids": [
-                            "PPSA08459_00",
-                            "PPSA08458_00"
+                            "PPSA08458_00",
+                            "PPSA08459_00"
                         ]
                     }
                 },
@@ -62851,22 +62260,6 @@
                 "quest_name": "Clayface",
                 "game_title": "Clayface only in theaters October 23",
                 "game_publisher": "Warner Bros. Pictures"
-            },
-            "task_config": {
-                "type": 1,
-                "join_operator": "or",
-                "tasks": {
-                    "WATCH_VIDEO": {
-                        "event_name": "WATCH_VIDEO",
-                        "target": 60,
-                        "external_ids": []
-                    },
-                    "WATCH_VIDEO_ON_MOBILE": {
-                        "event_name": "WATCH_VIDEO_ON_MOBILE",
-                        "target": 60,
-                        "external_ids": []
-                    }
-                }
             },
             "task_config_v2": {
                 "tasks": {
@@ -62998,17 +62391,6 @@
                 "game_title": "Once Human",
                 "game_publisher": "Starry Studio"
             },
-            "task_config": {
-                "type": 1,
-                "join_operator": "or",
-                "tasks": {
-                    "PLAY_ON_DESKTOP": {
-                        "event_name": "PLAY_ON_DESKTOP",
-                        "target": 900,
-                        "external_ids": []
-                    }
-                }
-            },
             "task_config_v2": {
                 "tasks": {
                     "PLAY_ON_DESKTOP": {
@@ -63093,17 +62475,6 @@
                 "game_title": "GODDESS OF VICTORY: NIKKE",
                 "game_publisher": "Level Infinite"
             },
-            "task_config": {
-                "type": 1,
-                "join_operator": "or",
-                "tasks": {
-                    "PLAY_ON_DESKTOP": {
-                        "event_name": "PLAY_ON_DESKTOP",
-                        "target": 900,
-                        "external_ids": []
-                    }
-                }
-            },
             "task_config_v2": {
                 "tasks": {
                     "PLAY_ON_DESKTOP": {
@@ -63187,22 +62558,6 @@
                 "quest_name": "World of Tanks: HEAT Wishlist",
                 "game_title": "World of Tanks: HEAT",
                 "game_publisher": "Wargaming"
-            },
-            "task_config": {
-                "type": 1,
-                "join_operator": "or",
-                "tasks": {
-                    "WATCH_VIDEO": {
-                        "event_name": "WATCH_VIDEO",
-                        "target": 50,
-                        "external_ids": []
-                    },
-                    "WATCH_VIDEO_ON_MOBILE": {
-                        "event_name": "WATCH_VIDEO_ON_MOBILE",
-                        "target": 50,
-                        "external_ids": []
-                    }
-                }
             },
             "task_config_v2": {
                 "tasks": {
@@ -63334,17 +62689,6 @@
                 "game_title": "GODDESS OF VICTORY: NIKKE",
                 "game_publisher": "HotCool Game"
             },
-            "task_config": {
-                "type": 1,
-                "join_operator": "or",
-                "tasks": {
-                    "PLAY_ON_DESKTOP": {
-                        "event_name": "PLAY_ON_DESKTOP",
-                        "target": 900,
-                        "external_ids": []
-                    }
-                }
-            },
             "task_config_v2": {
                 "tasks": {
                     "PLAY_ON_DESKTOP": {
@@ -63424,22 +62768,6 @@
                 "quest_name": "MOUSE P.I For Hire",
                 "game_title": "MOUSE P.I For Hire",
                 "game_publisher": "PlaySide Studios"
-            },
-            "task_config": {
-                "type": 1,
-                "join_operator": "or",
-                "tasks": {
-                    "WATCH_VIDEO": {
-                        "event_name": "WATCH_VIDEO",
-                        "target": 59,
-                        "external_ids": []
-                    },
-                    "WATCH_VIDEO_ON_MOBILE": {
-                        "event_name": "WATCH_VIDEO_ON_MOBILE",
-                        "target": 59,
-                        "external_ids": []
-                    }
-                }
             },
             "task_config_v2": {
                 "tasks": {
@@ -63573,22 +62901,6 @@
                 "game_title": "Fios",
                 "game_publisher": "Verizon"
             },
-            "task_config": {
-                "type": 1,
-                "join_operator": "or",
-                "tasks": {
-                    "WATCH_VIDEO": {
-                        "event_name": "WATCH_VIDEO",
-                        "target": 29,
-                        "external_ids": []
-                    },
-                    "WATCH_VIDEO_ON_MOBILE": {
-                        "event_name": "WATCH_VIDEO_ON_MOBILE",
-                        "target": 29,
-                        "external_ids": []
-                    }
-                }
-            },
             "task_config_v2": {
                 "tasks": {
                     "WATCH_VIDEO": {
@@ -63719,17 +63031,6 @@
                 "game_title": "OneState RP - Role Play Life",
                 "game_publisher": "Chillbase"
             },
-            "task_config": {
-                "type": 1,
-                "join_operator": "or",
-                "tasks": {
-                    "WATCH_VIDEO_ON_MOBILE": {
-                        "event_name": "WATCH_VIDEO_ON_MOBILE",
-                        "target": 82,
-                        "external_ids": []
-                    }
-                }
-            },
             "task_config_v2": {
                 "tasks": {
                     "WATCH_VIDEO_ON_MOBILE": {
@@ -63837,22 +63138,6 @@
                 "quest_name": "Warframe: Jade Shadows Constellations Video",
                 "game_title": "Warframe",
                 "game_publisher": "Digital Extremes"
-            },
-            "task_config": {
-                "type": 1,
-                "join_operator": "or",
-                "tasks": {
-                    "WATCH_VIDEO": {
-                        "event_name": "WATCH_VIDEO",
-                        "target": 154,
-                        "external_ids": []
-                    },
-                    "WATCH_VIDEO_ON_MOBILE": {
-                        "event_name": "WATCH_VIDEO_ON_MOBILE",
-                        "target": 154,
-                        "external_ids": []
-                    }
-                }
             },
             "task_config_v2": {
                 "tasks": {
@@ -63984,24 +63269,6 @@
                 "game_title": "Where Winds Meet",
                 "game_publisher": "NetEase"
             },
-            "task_config": {
-                "type": 1,
-                "join_operator": "or",
-                "tasks": {
-                    "PLAY_ON_DESKTOP": {
-                        "event_name": "PLAY_ON_DESKTOP",
-                        "target": 900,
-                        "external_ids": []
-                    },
-                    "PLAY_ON_PLAYSTATION": {
-                        "event_name": "PLAY_ON_PLAYSTATION",
-                        "target": 900,
-                        "external_ids": [
-                            "PPSA23355_00"
-                        ]
-                    }
-                }
-            },
             "task_config_v2": {
                 "tasks": {
                     "PLAY_ON_DESKTOP": {
@@ -64097,22 +63364,6 @@
                 "quest_name": "Obsession",
                 "game_title": "Obsession | Only In Theaters May 15",
                 "game_publisher": "Focus Features"
-            },
-            "task_config": {
-                "type": 1,
-                "join_operator": "or",
-                "tasks": {
-                    "WATCH_VIDEO": {
-                        "event_name": "WATCH_VIDEO",
-                        "target": 28,
-                        "external_ids": []
-                    },
-                    "WATCH_VIDEO_ON_MOBILE": {
-                        "event_name": "WATCH_VIDEO_ON_MOBILE",
-                        "target": 28,
-                        "external_ids": []
-                    }
-                }
             },
             "task_config_v2": {
                 "tasks": {
@@ -64244,22 +63495,6 @@
                 "game_title": "Obsession | Only In Theaters May 15",
                 "game_publisher": "Focus Features"
             },
-            "task_config": {
-                "type": 1,
-                "join_operator": "or",
-                "tasks": {
-                    "WATCH_VIDEO": {
-                        "event_name": "WATCH_VIDEO",
-                        "target": 28,
-                        "external_ids": []
-                    },
-                    "WATCH_VIDEO_ON_MOBILE": {
-                        "event_name": "WATCH_VIDEO_ON_MOBILE",
-                        "target": 28,
-                        "external_ids": []
-                    }
-                }
-            },
             "task_config_v2": {
                 "tasks": {
                     "WATCH_VIDEO": {
@@ -64386,25 +63621,6 @@
                 "game_title": "Arknights: Endfield",
                 "game_publisher": "GRYPHLINE"
             },
-            "task_config": {
-                "type": 1,
-                "join_operator": "or",
-                "tasks": {
-                    "PLAY_ON_DESKTOP": {
-                        "event_name": "PLAY_ON_DESKTOP",
-                        "target": 900,
-                        "external_ids": []
-                    },
-                    "PLAY_ON_PLAYSTATION": {
-                        "event_name": "PLAY_ON_PLAYSTATION",
-                        "target": 900,
-                        "external_ids": [
-                            "PPSA18538_00",
-                            "PPSA22751_00"
-                        ]
-                    }
-                }
-            },
             "task_config_v2": {
                 "tasks": {
                     "PLAY_ON_DESKTOP": {
@@ -64502,17 +63718,6 @@
                 "game_title": "NTE",
                 "game_publisher": "Perfect World Games"
             },
-            "task_config": {
-                "type": 1,
-                "join_operator": "or",
-                "tasks": {
-                    "PLAY_ON_DESKTOP": {
-                        "event_name": "PLAY_ON_DESKTOP",
-                        "target": 900,
-                        "external_ids": []
-                    }
-                }
-            },
             "task_config_v2": {
                 "tasks": {
                     "PLAY_ON_DESKTOP": {
@@ -64598,35 +63803,6 @@
                 "game_title": "Genshin Impact",
                 "game_publisher": "HoYoverse"
             },
-            "task_config": {
-                "type": 1,
-                "join_operator": "or",
-                "tasks": {
-                    "PLAY_ON_DESKTOP": {
-                        "event_name": "PLAY_ON_DESKTOP",
-                        "target": 900,
-                        "external_ids": []
-                    },
-                    "PLAY_ON_XBOX": {
-                        "event_name": "PLAY_ON_XBOX",
-                        "target": 900,
-                        "external_ids": [
-                            "2053080068"
-                        ]
-                    },
-                    "PLAY_ON_PLAYSTATION": {
-                        "event_name": "PLAY_ON_PLAYSTATION",
-                        "target": 900,
-                        "external_ids": [
-                            "CUSA23681_00",
-                            "PPSA02585_00",
-                            "PPSA02562_00",
-                            "CUSA23678_00",
-                            "PPSA02584_00"
-                        ]
-                    }
-                }
-            },
             "task_config_v2": {
                 "tasks": {
                     "PLAY_ON_DESKTOP": {
@@ -64660,10 +63836,10 @@
                         ],
                         "external_ids": [
                             "CUSA23681_00",
-                            "PPSA02585_00",
-                            "PPSA02562_00",
+                            "PPSA02584_00",
                             "CUSA23678_00",
-                            "PPSA02584_00"
+                            "PPSA02585_00",
+                            "PPSA02562_00"
                         ]
                     }
                 },
@@ -64738,22 +63914,6 @@
                 "quest_name": "EVE Online Video",
                 "game_title": "EVE Online",
                 "game_publisher": "CCP Games"
-            },
-            "task_config": {
-                "type": 1,
-                "join_operator": "or",
-                "tasks": {
-                    "WATCH_VIDEO": {
-                        "event_name": "WATCH_VIDEO",
-                        "target": 113,
-                        "external_ids": []
-                    },
-                    "WATCH_VIDEO_ON_MOBILE": {
-                        "event_name": "WATCH_VIDEO_ON_MOBILE",
-                        "target": 113,
-                        "external_ids": []
-                    }
-                }
             },
             "task_config_v2": {
                 "tasks": {
@@ -64891,22 +64051,6 @@
                 "game_title": "Mortal Kombat II Only in Theaters Friday",
                 "game_publisher": "Warner Bros. Pictures"
             },
-            "task_config": {
-                "type": 1,
-                "join_operator": "or",
-                "tasks": {
-                    "WATCH_VIDEO": {
-                        "event_name": "WATCH_VIDEO",
-                        "target": 62,
-                        "external_ids": []
-                    },
-                    "WATCH_VIDEO_ON_MOBILE": {
-                        "event_name": "WATCH_VIDEO_ON_MOBILE",
-                        "target": 62,
-                        "external_ids": []
-                    }
-                }
-            },
             "task_config_v2": {
                 "tasks": {
                     "WATCH_VIDEO": {
@@ -65039,22 +64183,6 @@
                 "quest_name": "Mortal Kombat II Kitana",
                 "game_title": "Mortal Kombat II Only in Theaters Friday",
                 "game_publisher": "Warner Bros. Pictures"
-            },
-            "task_config": {
-                "type": 1,
-                "join_operator": "or",
-                "tasks": {
-                    "WATCH_VIDEO": {
-                        "event_name": "WATCH_VIDEO",
-                        "target": 14,
-                        "external_ids": []
-                    },
-                    "WATCH_VIDEO_ON_MOBILE": {
-                        "event_name": "WATCH_VIDEO_ON_MOBILE",
-                        "target": 14,
-                        "external_ids": []
-                    }
-                }
             },
             "task_config_v2": {
                 "tasks": {
@@ -65189,17 +64317,6 @@
                 "game_title": "NTE",
                 "game_publisher": "Perfect World Games"
             },
-            "task_config": {
-                "type": 1,
-                "join_operator": "or",
-                "tasks": {
-                    "WATCH_VIDEO_ON_MOBILE": {
-                        "event_name": "WATCH_VIDEO_ON_MOBILE",
-                        "target": 59,
-                        "external_ids": []
-                    }
-                }
-            },
             "task_config_v2": {
                 "tasks": {
                     "WATCH_VIDEO_ON_MOBILE": {
@@ -65308,22 +64425,6 @@
                 "quest_name": "Invincible VS",
                 "game_title": "Invincible VS",
                 "game_publisher": "Skybound Game Studios"
-            },
-            "task_config": {
-                "type": 1,
-                "join_operator": "or",
-                "tasks": {
-                    "WATCH_VIDEO": {
-                        "event_name": "WATCH_VIDEO",
-                        "target": 29,
-                        "external_ids": []
-                    },
-                    "WATCH_VIDEO_ON_MOBILE": {
-                        "event_name": "WATCH_VIDEO_ON_MOBILE",
-                        "target": 29,
-                        "external_ids": []
-                    }
-                }
             },
             "task_config_v2": {
                 "tasks": {
@@ -65455,34 +64556,6 @@
                 "game_title": "Delta Force",
                 "game_publisher": "Team Jade"
             },
-            "task_config": {
-                "type": 1,
-                "join_operator": "or",
-                "tasks": {
-                    "PLAY_ON_DESKTOP": {
-                        "event_name": "PLAY_ON_DESKTOP",
-                        "target": 900,
-                        "external_ids": []
-                    },
-                    "PLAY_ON_XBOX": {
-                        "event_name": "PLAY_ON_XBOX",
-                        "target": 900,
-                        "external_ids": [
-                            "1854680102"
-                        ]
-                    },
-                    "PLAY_ON_PLAYSTATION": {
-                        "event_name": "PLAY_ON_PLAYSTATION",
-                        "target": 900,
-                        "external_ids": [
-                            "PPSA28881_00",
-                            "PPSA28883_00",
-                            "PPSA28884_00",
-                            "PPSA28882_00"
-                        ]
-                    }
-                }
-            },
             "task_config_v2": {
                 "tasks": {
                     "PLAY_ON_DESKTOP": {
@@ -65515,10 +64588,10 @@
                             }
                         ],
                         "external_ids": [
-                            "PPSA28881_00",
-                            "PPSA28883_00",
+                            "PPSA28882_00",
                             "PPSA28884_00",
-                            "PPSA28882_00"
+                            "PPSA28883_00",
+                            "PPSA28881_00"
                         ]
                     }
                 },
@@ -65593,17 +64666,6 @@
                 "quest_name": "NTE Launch Trailer",
                 "game_title": "NTE",
                 "game_publisher": "Perfect World Games"
-            },
-            "task_config": {
-                "type": 1,
-                "join_operator": "or",
-                "tasks": {
-                    "WATCH_VIDEO_ON_MOBILE": {
-                        "event_name": "WATCH_VIDEO_ON_MOBILE",
-                        "target": 59,
-                        "external_ids": []
-                    }
-                }
             },
             "task_config_v2": {
                 "tasks": {
@@ -65709,22 +64771,6 @@
                 "quest_name": "Scale with Microsoft Azure",
                 "game_title": "Microsoft Azure",
                 "game_publisher": "Microsoft Azure"
-            },
-            "task_config": {
-                "type": 1,
-                "join_operator": "or",
-                "tasks": {
-                    "WATCH_VIDEO": {
-                        "event_name": "WATCH_VIDEO",
-                        "target": 14,
-                        "external_ids": []
-                    },
-                    "WATCH_VIDEO_ON_MOBILE": {
-                        "event_name": "WATCH_VIDEO_ON_MOBILE",
-                        "target": 14,
-                        "external_ids": []
-                    }
-                }
             },
             "task_config_v2": {
                 "tasks": {
