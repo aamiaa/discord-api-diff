@@ -68075,5 +68075,141 @@
                 "subtitle": "クリストファー・ノーラン監督作品。9月11日より劇場公開。"
             }
         }
+    },
+    {
+        "id": "1493412800679252078",
+        "config": {
+            "id": "1493412800679252078",
+            "config_version": 2,
+            "starts_at": "2026-05-08T10:00:00+00:00",
+            "expires_at": "2026-05-23T00:00:59+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://store.steampowered.com/app/3526710/Everything_is_Crab_The_Animal_Evolution_Roguelite/?utm_source=discord&utm_medium=launch&utm_campaign=quests",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1493412800679252078/1494758405884088320.jpg",
+                "hero_video": "quests/1493412800679252078/1496900480406913064.mp4",
+                "quest_bar_hero_blurhash": "5QgKLorHqWaPiYiEhoh1l5maxY9a+5k=",
+                "quest_bar_hero": "quests/1493412800679252078/1494758655785042013.jpg",
+                "quest_bar_hero_video": "quests/1493412800679252078/1496900480406913064.mp4",
+                "game_tile": "1494758997180551268.png",
+                "logotype": "1494758995896832161.png",
+                "game_tile_light": "quests/1493412800679252078/1494758874958528683.png",
+                "game_tile_dark": "quests/1493412800679252078/1494758874958528683.png",
+                "logotype_light": "quests/1493412800679252078/1494758814984179822.png",
+                "logotype_dark": "quests/1493412800679252078/1494758814984179822.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Everything is Crab",
+                "game_title": "Everything is Crab",
+                "game_publisher": "Secret Mode"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 79,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1493412800679252078/1499152349338538078_1080.mp4",
+                                "width": 2560,
+                                "height": 1440,
+                                "thumbnail": "quests/1493412800679252078/1494760776697905193.png",
+                                "caption": "quests/1493412800679252078/1499153878803939388.vtt"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1493412800679252078/1499152349338538078_720.mp4",
+                                "width": 2560,
+                                "height": 1440,
+                                "thumbnail": "quests/1493412800679252078/1494760776697905193.png",
+                                "caption": "quests/1493412800679252078/1499153878803939388.vtt"
+                            },
+                            "video_hls": {
+                                "url": "quests/1493412800679252078/1499152349338538078.m3u8",
+                                "width": 2560,
+                                "height": 1440,
+                                "thumbnail": "quests/1493412800679252078/1494760776697905193.png",
+                                "caption": "quests/1493412800679252078/1499153878803939388.vtt"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "video"
+                        }
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 79,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1493412800679252078/1499152136339062876_1080.mp4",
+                                "width": 1440,
+                                "height": 2560,
+                                "thumbnail": "quests/1493412800679252078/1494760776697905193.png",
+                                "caption": "quests/1493412800679252078/1499153878803939388.vtt"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1493412800679252078/1499152136339062876_720.mp4",
+                                "width": 1440,
+                                "height": 2560,
+                                "thumbnail": "quests/1493412800679252078/1494760776697905193.png",
+                                "caption": "quests/1493412800679252078/1499153878803939388.vtt"
+                            },
+                            "video_hls": {
+                                "url": "quests/1493412800679252078/1499152136339062876.m3u8",
+                                "width": 1440,
+                                "height": 2560,
+                                "thumbnail": "quests/1493412800679252078/1494760776697905193.png",
+                                "caption": "quests/1493412800679252078/1499153878803939388.vtt"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "video"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "200 Orbs",
+                            "name_with_article": "200 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 200,
+                        "premium_orb_quantity": 240
+                    }
+                ],
+                "rewards_expire_at": "2026-06-22T00:00:59+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://store.steampowered.com/app/3526710/Everything_is_Crab_The_Animal_Evolution_Roguelite/?utm_source=discord&utm_medium=launch&utm_campaign=quests",
+                "button_label": "Play Now",
+                "subtitle": "Play Today on Steam"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false,
+        "traffic_metadata_raw": "EAIYAQ=="
     }
 ]
