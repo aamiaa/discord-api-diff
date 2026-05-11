@@ -68434,5 +68434,285 @@
         "targeted_content": [],
         "preview": false,
         "traffic_metadata_raw": "EAIYAQ=="
+    },
+    {
+        "id": "1502134928924475452",
+        "config": {
+            "id": "1502134928924475452",
+            "config_version": 2,
+            "starts_at": "2026-05-11T07:00:00+00:00",
+            "expires_at": "2026-05-31T18:59:59+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://store.steampowered.com/app/3564740/480?utm_source=DiscordOrbs",
+                "id": "1437509662303059998",
+                "name": "Where Winds Meet"
+            },
+            "assets": {
+                "hero": "quests/1502134928924475452/1502162240651132928.jpeg",
+                "hero_video": "quests/1502134928924475452/1502162296737239080.mp4",
+                "quest_bar_hero_blurhash": "ZkoKDIIIiHh3d2pxh3d0kHYvxw==",
+                "quest_bar_hero": "quests/1502134928924475452/1502162125202657310.jpeg",
+                "quest_bar_hero_video": "quests/1502134928924475452/1502162184413642792.mp4",
+                "game_tile": "1502162820932964383.png",
+                "logotype": "1502162818156331058.png",
+                "game_tile_light": "quests/1502134928924475452/1502162682542030878.png",
+                "game_tile_dark": "quests/1502134928924475452/1502162682542030878.png",
+                "logotype_light": "quests/1502134928924475452/1502162423787028520.png",
+                "logotype_dark": "quests/1502134928924475452/1502162423787028520.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Where Winds Meet Ver 1.6 Qinchuan",
+                "game_title": "Where Winds Meet",
+                "game_publisher": "NetEase "
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1437509662303059998"
+                            }
+                        ]
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "type": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1437509662303059998"
+                            }
+                        ],
+                        "external_ids": [
+                            "PPSA23355_00"
+                        ]
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 Orbs",
+                            "name_with_article": "700 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 700,
+                        "premium_orb_quantity": 840
+                    }
+                ],
+                "rewards_expire_at": "2026-06-30T18:59:59+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://store.steampowered.com/app/3564740/480?utm_source=DiscordOrbs",
+                "button_label": "Play Now"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false,
+        "traffic_metadata_raw": "EAIYAQ=="
+    },
+    {
+        "id": "1502102122492071958",
+        "config": {
+            "id": "1502102122492071958",
+            "config_version": 2,
+            "starts_at": "2026-05-11T07:00:00+00:00",
+            "expires_at": "2026-06-01T06:59:59+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://store.steampowered.com/app/3564740/480?utm_source=DiscordOrbs",
+                "id": "1437509662303059998",
+                "name": "Where Winds Meet"
+            },
+            "assets": {
+                "hero": "quests/1502102122492071958/1502122872448094238.jpeg",
+                "hero_video": "quests/1502102122492071958/1502122913254604942.mp4",
+                "quest_bar_hero_blurhash": "ZkoKDIIIiHh3d2pxh3d0kHYvxw==",
+                "quest_bar_hero": "quests/1502102122492071958/1502122774150250650.jpeg",
+                "quest_bar_hero_video": "quests/1502102122492071958/1502122823337119964.mp4",
+                "game_tile": "1502123982026051665.png",
+                "logotype": "1502123979308269589.png",
+                "game_tile_light": "quests/1502102122492071958/1502123351337078866.png",
+                "game_tile_dark": "quests/1502102122492071958/1502123351337078866.png",
+                "logotype_light": "quests/1502102122492071958/1502123120683913296.png",
+                "logotype_dark": "quests/1502102122492071958/1502123120683913296.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Where Winds Meet Ver 1.6 Qinchuan",
+                "game_title": "Where Winds Meet",
+                "game_publisher": "NetEase"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1437509662303059998"
+                            }
+                        ]
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "type": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1437509662303059998"
+                            }
+                        ],
+                        "external_ids": [
+                            "PPSA23355_00"
+                        ]
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 Orbs",
+                            "name_with_article": "700 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 700,
+                        "premium_orb_quantity": null
+                    }
+                ],
+                "rewards_expire_at": "2026-07-01T06:59:59+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://store.steampowered.com/app/3564740/480?utm_source=DiscordOrbs",
+                "button_label": "Play Now"
+            }
+        }
+    },
+    {
+        "id": "1502164508033155162",
+        "config": {
+            "id": "1502164508033155162",
+            "config_version": 2,
+            "starts_at": "2026-05-11T07:00:00+00:00",
+            "expires_at": "2026-05-31T18:59:59+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://store.steampowered.com/app/3564740/480?utm_source=DiscordOrbs",
+                "id": "1437509662303059998",
+                "name": "Where Winds Meet"
+            },
+            "assets": {
+                "hero": "quests/1502164508033155162/1502164825944363068.jpeg",
+                "hero_video": "quests/1502164508033155162/1502164901786030180.mp4",
+                "quest_bar_hero_blurhash": "oLYNFIb4V0eFeYeJdogHhXZgaA==",
+                "quest_bar_hero": "quests/1502164508033155162/1502164722479530115.jpeg",
+                "quest_bar_hero_video": "quests/1502164508033155162/1502164769556402306.mp4",
+                "game_tile": "1502162820932964383.png",
+                "logotype": "1502162818156331058.png",
+                "game_tile_light": "quests/1502134928924475452/1502162682542030878.png",
+                "game_tile_dark": "quests/1502134928924475452/1502162682542030878.png",
+                "logotype_light": "quests/1502134928924475452/1502162423787028520.png",
+                "logotype_dark": "quests/1502134928924475452/1502162423787028520.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Where Winds Meet Ver 1.6 Qinchuan",
+                "game_title": "Where Winds Meet",
+                "game_publisher": "NetEase "
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1437509662303059998"
+                            }
+                        ]
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "type": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1437509662303059998"
+                            }
+                        ],
+                        "external_ids": [
+                            "PPSA23355_00"
+                        ]
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 Orbs",
+                            "name_with_article": "700 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 700,
+                        "premium_orb_quantity": null
+                    }
+                ],
+                "rewards_expire_at": "2026-06-30T18:59:59+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://store.steampowered.com/app/3564740/480?utm_source=DiscordOrbs",
+                "button_label": "Play Now"
+            }
+        }
     }
 ]
