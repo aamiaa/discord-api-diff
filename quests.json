@@ -69353,5 +69353,134 @@
                 "button_label": "Learn More"
             }
         }
+    },
+    {
+        "id": "1498869809570381844",
+        "config": {
+            "id": "1498869809570381844",
+            "config_version": 2,
+            "starts_at": "2026-05-14T15:00:00+00:00",
+            "expires_at": "2026-05-19T14:59:59+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://subnautica2ua.com",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1498869809570381844/1500914441154461766.jpg",
+                "hero_video": "quests/1498869809570381844/1500914506749182133.mp4",
+                "quest_bar_hero_blurhash": "CccJGoYHeYeEeod4+YqWn4c=",
+                "quest_bar_hero": "quests/1498869809570381844/1500914441154461766.jpg",
+                "quest_bar_hero_video": "quests/1498869809570381844/1500914506749182133.mp4",
+                "game_tile": "1500915457253838938.jpg",
+                "logotype": "1500915456146538627.png",
+                "game_tile_light": "quests/1498869809570381844/1500915275548065873.jpg",
+                "game_tile_dark": "quests/1498869809570381844/1500915275548065873.jpg",
+                "logotype_light": "quests/1498869809570381844/1500915209773252628.png",
+                "logotype_dark": "quests/1498869809570381844/1500915209773252628.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Subnautica 2 Early Access Launch",
+                "game_title": "Subnautica 2",
+                "game_publisher": "Unknown Worlds"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 97,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1498869809570381844/1500915912289550506_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1498869809570381844/1500918059546706021.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1498869809570381844/1500915912289550506_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1498869809570381844/1500918059546706021.jpg"
+                            },
+                            "video_hls": {
+                                "url": "quests/1498869809570381844/1500915912289550506.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1498869809570381844/1500918059546706021.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "video"
+                        }
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 97,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1498869809570381844/1500915912289550506_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1498869809570381844/1500918059546706021.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1498869809570381844/1500915912289550506_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1498869809570381844/1500918059546706021.jpg"
+                            },
+                            "video_hls": {
+                                "url": "quests/1498869809570381844/1500915912289550506.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1498869809570381844/1500918059546706021.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "video"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "200 Orbs",
+                            "name_with_article": "200 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 200,
+                        "premium_orb_quantity": 240
+                    }
+                ],
+                "rewards_expire_at": "2026-06-18T14:59:59+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://subnautica2ua.com",
+                "button_label": "Play Now"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false,
+        "traffic_metadata_raw": "EAIYAQ=="
     }
 ]
