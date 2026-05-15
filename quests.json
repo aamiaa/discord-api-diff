@@ -69482,5 +69482,364 @@
         "targeted_content": [],
         "preview": false,
         "traffic_metadata_raw": "EAIYAQ=="
+    },
+    {
+        "id": "1503493096116326591",
+        "config": {
+            "id": "1503493096116326591",
+            "config_version": 2,
+            "starts_at": "2026-05-15T17:00:00+00:00",
+            "expires_at": "2026-05-31T06:59:59+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://www.imax.com/movie/the-mandalorian-and-grogu?activation=mandalorian&utm_source=discord&utm_medium=paid",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1503493096116326591/1503542728427048982.jpg",
+                "hero_video": "quests/1503493096116326591/1503542773326811236.mp4",
+                "quest_bar_hero_blurhash": "BfgFAoACTZV6hniHBnrnP4k=",
+                "quest_bar_hero": "quests/1503493096116326591/1503542728427048982.jpg",
+                "quest_bar_hero_video": "quests/1503493096116326591/1503542773326811236.mp4",
+                "game_tile": "1503542980206661639.png",
+                "logotype": "1503542979112206527.png",
+                "game_tile_light": "quests/1503493096116326591/1503542946333589545.png",
+                "game_tile_dark": "quests/1503493096116326591/1503542946333589545.png",
+                "logotype_light": "quests/1503493096116326591/1503542851764748308.png",
+                "logotype_dark": "quests/1503493096116326591/1503542894747713648.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Filmed For IMAX",
+                "game_title": "Experience Star Wars: The Mandalorian & Grogu in IMAX",
+                "game_publisher": "IMAX"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 29,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1503493096116326591/1503543069822423163_1080.mp4",
+                                "width": 1280,
+                                "height": 720,
+                                "thumbnail": "quests/1503493096116326591/1503543169189417041.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1503493096116326591/1503543069822423163_720.mp4",
+                                "width": 1280,
+                                "height": 720,
+                                "thumbnail": "quests/1503493096116326591/1503543169189417041.jpg"
+                            },
+                            "video_hls": {
+                                "url": "quests/1503493096116326591/1503543069822423163.m3u8",
+                                "width": 1280,
+                                "height": 720,
+                                "thumbnail": "quests/1503493096116326591/1503543169189417041.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "IMAX Video"
+                        }
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 29,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1503493096116326591/1503851361949847683_1080.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1503493096116326591/1503543169189417041.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1503493096116326591/1503851361949847683_720.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1503493096116326591/1503543169189417041.jpg"
+                            },
+                            "video_hls": {
+                                "url": "quests/1503493096116326591/1503851361949847683.m3u8",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1503493096116326591/1503543169189417041.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "IMAX Video"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "200 Orbs",
+                            "name_with_article": "200 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 200,
+                        "premium_orb_quantity": 240
+                    }
+                ],
+                "rewards_expire_at": "2026-06-30T06:59:59+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://www.imax.com/movie/the-mandalorian-and-grogu?activation=mandalorian&utm_source=discord&utm_medium=paid",
+                "button_label": "Get Tickets",
+                "subtitle": "Experience Star Wars: The Mandalorian & Grogu in IMAX"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false,
+        "traffic_metadata_raw": "EAIYAQ=="
+    },
+    {
+        "id": "1501736290411085945",
+        "config": {
+            "id": "1501736290411085945",
+            "config_version": 2,
+            "starts_at": "2026-05-15T17:00:00+00:00",
+            "expires_at": "2026-06-02T00:00:59+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://build.microsoft.com/home?wt.mc_ID=msbuild26_gmee_corp_pd_scl_dis_Dis_P3W3_Gen",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1501736290411085945/1502363924799160370.jpg",
+                "hero_video": "quests/1501736290411085945/1502363986941706290.mp4",
+                "quest_bar_hero_blurhash": "2PgJTIzHWJlwdXl8dXqAqajHjw==",
+                "quest_bar_hero": "quests/1501736290411085945/1502363815617106081.jpg",
+                "quest_bar_hero_video": "quests/1501736290411085945/1502363874387562556.mp4",
+                "game_tile": "1502364503742877706.png",
+                "logotype": "1502364502698492035.png",
+                "game_tile_light": "quests/1501736290411085945/1502364181339439304.png",
+                "game_tile_dark": "quests/1501736290411085945/1502364181339439304.png",
+                "logotype_light": "quests/1501736290411085945/1502364057775116329.png",
+                "logotype_dark": "quests/1501736290411085945/1502364125022388405.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Microsoft Build",
+                "game_title": "Microsoft Build",
+                "game_publisher": "Microsoft"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 29,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1501736290411085945/1502364648811397150_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1501736290411085945/1502365623387291710.png"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1501736290411085945/1502364648811397150_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1501736290411085945/1502365623387291710.png"
+                            },
+                            "video_hls": {
+                                "url": "quests/1501736290411085945/1502364648811397150.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1501736290411085945/1502365623387291710.png"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 29,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1501736290411085945/1502364604267892816_1080.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1501736290411085945/1502365623387291710.png"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1501736290411085945/1502364604267892816_720.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1501736290411085945/1502365623387291710.png"
+                            },
+                            "video_hls": {
+                                "url": "quests/1501736290411085945/1502364604267892816.m3u8",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1501736290411085945/1502365623387291710.png"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "200 Orbs",
+                            "name_with_article": "200 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 200,
+                        "premium_orb_quantity": 240
+                    }
+                ],
+                "rewards_expire_at": "2026-07-02T00:00:59+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://build.microsoft.com/home?wt.mc_ID=msbuild26_gmee_corp_pd_scl_dis_Dis_P3W3_Gen",
+                "button_label": "Learn More",
+                "subtitle": "Register Now"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false,
+        "traffic_metadata_raw": "EAIYAQ=="
+    },
+    {
+        "id": "1503878119743029389",
+        "config": {
+            "id": "1503878119743029389",
+            "config_version": 2,
+            "starts_at": "2026-05-15T17:00:44+00:00",
+            "expires_at": "2026-05-29T00:00:44+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://learn.applecash.apple/benefits",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1503878119743029389/1503878462384111687.jpg",
+                "hero_video": "quests/1503878119743029389/1503886866628219001.mp4",
+                "quest_bar_hero_blurhash": "w/cFCoCwOT13eFhqT+D5FJ0=",
+                "quest_bar_hero": "quests/1503878119743029389/1503878462384111687.jpg",
+                "quest_bar_hero_video": "quests/1503878119743029389/1503886866628219001.mp4",
+                "game_tile": "1503887134258364477.png",
+                "logotype": "1503887133117780120.png",
+                "game_tile_light": "quests/1503878119743029389/1503887031011643452.png",
+                "game_tile_dark": "quests/1503878119743029389/1503887031011643452.png",
+                "logotype_light": "quests/1503878119743029389/1503886963839598745.png",
+                "logotype_dark": "quests/1503878119743029389/1503886940318203924.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Apple Cash",
+                "game_title": "Send or request money in the chat.",
+                "game_publisher": "Apple"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 14,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1503878119743029389/1503887273161392208_1080.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1503878119743029389/1503887603034755214.png"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1503878119743029389/1503887273161392208_720.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1503878119743029389/1503887603034755214.png"
+                            },
+                            "video_hls": {
+                                "url": "quests/1503878119743029389/1503887273161392208.m3u8",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1503878119743029389/1503887603034755214.png"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "Apple Cash Video "
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "200 Orbs",
+                            "name_with_article": "200 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 200,
+                        "premium_orb_quantity": null
+                    }
+                ],
+                "rewards_expire_at": "2026-06-28T00:00:44+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "not_shareable",
+            "cta_config": {
+                "link": "https://learn.applecash.apple/benefits",
+                "button_label": "Learn More",
+                "subtitle": "Send or request money in the chat."
+            }
+        }
     }
 ]
