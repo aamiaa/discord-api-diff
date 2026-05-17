@@ -69841,5 +69841,135 @@
                 "subtitle": "Send or request money in the chat."
             }
         }
+    },
+    {
+        "id": "1503853078712156230",
+        "config": {
+            "id": "1503853078712156230",
+            "config_version": 2,
+            "starts_at": "2026-05-17T17:00:00+00:00",
+            "expires_at": "2026-05-20T06:59:59+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://backrooms.mov/",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1503853078712156230/1504229162838130758.jpg",
+                "hero_video": "quests/1503853078712156230/1504229108853248051.mp4",
+                "quest_bar_hero_blurhash": "lyoGEoAKTYiIl3Z4C3kHnDY=",
+                "quest_bar_hero": "quests/1503853078712156230/1504229162838130758.jpg",
+                "quest_bar_hero_video": "quests/1503853078712156230/1504229108853248051.mp4",
+                "game_tile": "1504229316865687612.png",
+                "logotype": "1504229315900870837.png",
+                "game_tile_light": "quests/1503853078712156230/1504229289149730947.png",
+                "game_tile_dark": "quests/1503853078712156230/1504229289149730947.png",
+                "logotype_light": "quests/1503853078712156230/1504229242215465183.png",
+                "logotype_dark": "quests/1503853078712156230/1504229242215465183.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Backrooms",
+                "game_title": "In Theaters 5.29.26",
+                "game_publisher": "A24"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 59,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1503853078712156230/1504236359575928927_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1503853078712156230/1504236284804337704.png"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1503853078712156230/1504236359575928927_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1503853078712156230/1504236284804337704.png"
+                            },
+                            "video_hls": {
+                                "url": "quests/1503853078712156230/1504236359575928927.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1503853078712156230/1504236284804337704.png"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "A24 Video"
+                        }
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 59,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1503853078712156230/1504236232597573722_1080.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1503853078712156230/1504236284804337704.png"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1503853078712156230/1504236232597573722_720.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1503853078712156230/1504236284804337704.png"
+                            },
+                            "video_hls": {
+                                "url": "quests/1503853078712156230/1504236232597573722.m3u8",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1503853078712156230/1504236284804337704.png"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "A24 Video"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "200 Orbs",
+                            "name_with_article": "200 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 200,
+                        "premium_orb_quantity": 240
+                    }
+                ],
+                "rewards_expire_at": "2026-06-19T06:59:59+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://backrooms.mov/",
+                "button_label": "Get Tickets",
+                "subtitle": "In Theaters 5.29.26"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false,
+        "traffic_metadata_raw": "EAIYAQ=="
     }
 ]
