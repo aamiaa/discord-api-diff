@@ -69971,5 +69971,215 @@
         "targeted_content": [],
         "preview": false,
         "traffic_metadata_raw": "EAIYAQ=="
+    },
+    {
+        "id": "1504210745225904188",
+        "config": {
+            "id": "1504210745225904188",
+            "config_version": 2,
+            "starts_at": "2026-05-18T17:00:00+00:00",
+            "expires_at": "2026-05-29T06:59:59+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "http://www.roblox.com/games/16732694052/Fisch?gsrbx=1",
+                "id": "363445589247131668",
+                "name": "Roblox"
+            },
+            "assets": {
+                "hero": "quests/1504210745225904188/1504549471575609495.jpg",
+                "hero_video": "quests/1504210745225904188/1504550163669192885.mp4",
+                "quest_bar_hero_blurhash": "maYNFISjdIaPZ3aMhopdS+C1BA==",
+                "quest_bar_hero": "quests/1504210745225904188/1504550214994755775.jpg",
+                "quest_bar_hero_video": "quests/1504210745225904188/1504550163669192885.mp4",
+                "game_tile": "1504552954563133630.png",
+                "logotype": "1504550315184095312.png",
+                "game_tile_light": "quests/1504210745225904188/1504549956940337182.png",
+                "game_tile_dark": "quests/1504210745225904188/1504552860342292642.png",
+                "logotype_light": "quests/1504210745225904188/1504550094962294814.png",
+                "logotype_dark": "quests/1504210745225904188/1504550126482620497.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "ROBLOX: FISCH",
+                "game_title": "Fisch on Roblox",
+                "game_publisher": "Roblox"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "363445589247131668"
+                            }
+                        ]
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 Orbs",
+                            "name_with_article": "700 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 700,
+                        "premium_orb_quantity": 840
+                    }
+                ],
+                "rewards_expire_at": "2026-06-28T06:59:59+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "http://www.roblox.com/games/16732694052/Fisch?gsrbx=1",
+                "button_label": "Get Game"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false,
+        "traffic_metadata_raw": "EAIYAQ=="
+    },
+    {
+        "id": "1499938629387030638",
+        "config": {
+            "id": "1499938629387030638",
+            "config_version": 2,
+            "starts_at": "2026-05-18T17:00:00+00:00",
+            "expires_at": "2026-06-01T00:00:59+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://store.steampowered.com/app/3230960/EXODUS/?utm_source=discord&utm_medium=paid&utm_campaign=paid_spikesustain_uk_0526&utm_content=wishlistvideo_desktop&utm_term=actionadventure",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1499938629387030638/1504917479309447279.jpg",
+                "hero_video": "quests/1499938629387030638/1504917522078502992.mp4",
+                "quest_bar_hero_blurhash": "DMcFFIIUf4WTaYh1eIhVwEwm/Q==",
+                "quest_bar_hero": "quests/1499938629387030638/1504917385650372648.jpg",
+                "quest_bar_hero_video": "quests/1499938629387030638/1504917421318996139.mp4",
+                "game_tile": "1504917650596434130.png",
+                "logotype": "1504917649287544862.png",
+                "game_tile_light": "quests/1499938629387030638/1504917622880469113.png",
+                "game_tile_dark": "quests/1499938629387030638/1504917622880469113.png",
+                "logotype_light": "quests/1499938629387030638/1504917577699295302.png",
+                "logotype_dark": "quests/1499938629387030638/1504917577699295302.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "EXODUS™ Wishlist",
+                "game_title": "EXODUS™",
+                "game_publisher": "Wizards of the Coast"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 29,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1499938629387030638/1504917729008943164_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1499938629387030638/1504917896059555910.png"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1499938629387030638/1504917729008943164_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1499938629387030638/1504917896059555910.png"
+                            },
+                            "video_hls": {
+                                "url": "quests/1499938629387030638/1504917729008943164.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1499938629387030638/1504917896059555910.png"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "EXODUS™ Wishlist Trailer"
+                        }
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 29,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1499938629387030638/1504917729008943164_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1499938629387030638/1504917896059555910.png"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1499938629387030638/1504917729008943164_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1499938629387030638/1504917896059555910.png"
+                            },
+                            "video_hls": {
+                                "url": "quests/1499938629387030638/1504917729008943164.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1499938629387030638/1504917896059555910.png"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "EXODUS™ Wishlist Trailer"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "200 Orbs",
+                            "name_with_article": "200 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 200,
+                        "premium_orb_quantity": null
+                    }
+                ],
+                "rewards_expire_at": "2026-07-01T00:00:59+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://store.steampowered.com/app/3230960/EXODUS/?utm_source=discord&utm_medium=paid&utm_campaign=paid_spikesustain_uk_0526&utm_content=wishlistvideo_desktop&utm_term=actionadventure",
+                "button_label": "Wishlist Now",
+                "subtitle": "Your EXODUS Beings Early 2027"
+            }
+        }
     }
 ]
