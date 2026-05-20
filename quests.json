@@ -70265,5 +70265,265 @@
         "targeted_content": [],
         "preview": false,
         "traffic_metadata_raw": "EAIYAQ=="
+    },
+    {
+        "id": "1504974058511401021",
+        "config": {
+            "id": "1504974058511401021",
+            "config_version": 2,
+            "starts_at": "2026-05-20T21:20:00+00:00",
+            "expires_at": "2026-05-27T00:00:59+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://www.fandango.com/masters-of-the-universe-2026-239690/movie-overview",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1504974058511401021/1506438894936391770.jpg",
+                "hero_video": "quests/1504974058511401021/1506737324837437490.mp4",
+                "quest_bar_hero_blurhash": "YAgSDIKIZ4h/l5hnhpgwZQWVNw==",
+                "quest_bar_hero": "quests/1504974058511401021/1506439691245850724.jpg",
+                "quest_bar_hero_video": "quests/1504974058511401021/1506737324837437490.mp4",
+                "game_tile": "1506439901552574504.png",
+                "logotype": "1506439900512256143.png",
+                "game_tile_light": "quests/1504974058511401021/1506438984925057135.png",
+                "game_tile_dark": "quests/1504974058511401021/1506438984925057135.png",
+                "logotype_light": "quests/1504974058511401021/1506439162197442560.png",
+                "logotype_dark": "quests/1504974058511401021/1506439162197442560.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Masters of the Universe",
+                "game_title": "Masters of the Universe Only in Theaters June 5",
+                "game_publisher": "Amazon MGM"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 115,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1504974058511401021/1506707900767408229_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1504974058511401021/1506737441015599144.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1504974058511401021/1506707900767408229_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1504974058511401021/1506737441015599144.jpg"
+                            },
+                            "video_hls": {
+                                "url": "quests/1504974058511401021/1506707900767408229.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1504974058511401021/1506737441015599144.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "Only in Theaters June 5"
+                        }
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 115,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1504974058511401021/1506707827098652773_1080.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1504974058511401021/1506737441015599144.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1504974058511401021/1506707827098652773_720.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1504974058511401021/1506737441015599144.jpg"
+                            },
+                            "video_hls": {
+                                "url": "quests/1504974058511401021/1506707827098652773.m3u8",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1504974058511401021/1506737441015599144.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "Only in Theaters June 5"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "200 Orbs",
+                            "name_with_article": "200 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 200,
+                        "premium_orb_quantity": 240
+                    }
+                ],
+                "rewards_expire_at": "2026-06-26T00:00:59+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://www.fandango.com/masters-of-the-universe-2026-239690/movie-overview",
+                "button_label": "Get Tickets",
+                "subtitle": "Only in Theaters June 5"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false,
+        "traffic_metadata_raw": "EAIYAQ=="
+    },
+    {
+        "id": "1506410821838700635",
+        "config": {
+            "id": "1506410821838700635",
+            "config_version": 2,
+            "starts_at": "2026-05-20T20:30:00+00:00",
+            "expires_at": "2026-05-25T00:00:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "http://obsessionfilm.com",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1506410821838700635/1506434538438398176.jpg",
+                "hero_video": "quests/1506410821838700635/1506752415494570114.mp4",
+                "quest_bar_hero_blurhash": "BAgGCoIQfTl2emWIcGoGlmc=",
+                "quest_bar_hero": "quests/1506410821838700635/1506434538438398176.jpg",
+                "quest_bar_hero_video": "quests/1506410821838700635/1506752415494570114.mp4",
+                "game_tile": "1506434818546729060.png",
+                "logotype": "1506434817544421497.png",
+                "game_tile_light": "quests/1506410821838700635/1506434790826446878.png",
+                "game_tile_dark": "quests/1506410821838700635/1506434790826446878.png",
+                "logotype_light": "quests/1506410821838700635/1506434738141921341.png",
+                "logotype_dark": "quests/1506410821838700635/1506434625180794981.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Obsession",
+                "game_title": "Obsession | Now Playing Only in Theaters",
+                "game_publisher": "Focus Features"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 29,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1506410821838700635/1506752568825479168_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1506410821838700635/1506753801653190896.png"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1506410821838700635/1506752568825479168_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1506410821838700635/1506753801653190896.png"
+                            },
+                            "video_hls": {
+                                "url": "quests/1506410821838700635/1506752568825479168.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1506410821838700635/1506753801653190896.png"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 28,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1506410821838700635/1506752624492412998_1080.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1506410821838700635/1506753801653190896.png"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1506410821838700635/1506752624492412998_720.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1506410821838700635/1506753801653190896.png"
+                            },
+                            "video_hls": {
+                                "url": "quests/1506410821838700635/1506752624492412998.m3u8",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1506410821838700635/1506753801653190896.png"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "200 Orbs",
+                            "name_with_article": "200 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 200,
+                        "premium_orb_quantity": 240
+                    }
+                ],
+                "rewards_expire_at": "2026-06-24T00:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "http://obsessionfilm.com",
+                "button_label": "Get Tickets",
+                "subtitle": "Obsession | Now Playing Only in Theaters"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false,
+        "traffic_metadata_raw": "EAIYAQ=="
     }
 ]
