@@ -64863,7 +64863,7 @@
             "id": "1498340338211885066",
             "config_version": 2,
             "starts_at": "2026-05-05T17:00:34+00:00",
-            "expires_at": "2026-05-16T00:00:34+00:00",
+            "expires_at": "2026-05-25T00:00:34+00:00",
             "features": [
                 27,
                 15
@@ -64931,7 +64931,7 @@
                         "premium_orb_quantity": null
                     }
                 ],
-                "rewards_expire_at": "2026-06-15T00:00:34+00:00",
+                "rewards_expire_at": "2026-06-24T00:00:34+00:00",
                 "platforms": [
                     0
                 ]
@@ -70181,5 +70181,89 @@
                 "subtitle": "Your EXODUS Beings Early 2027"
             }
         }
+    },
+    {
+        "id": "1506023361820622878",
+        "config": {
+            "id": "1506023361820622878",
+            "config_version": 2,
+            "starts_at": "2026-05-20T17:00:00+00:00",
+            "expires_at": "2026-05-30T00:00:59+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://store.steampowered.com/app/3542380/?utm_source=discord&utm_campaign=launch",
+                "id": "1445982840423583785",
+                "name": "Rune Dice"
+            },
+            "assets": {
+                "hero": "quests/1506023361820622878/1506031071194648617.jpg",
+                "hero_video": "quests/1506023361820622878/1506031125519400960.mp4",
+                "quest_bar_hero_blurhash": "0SYGEoIFhkWIhGaZ+qY1iQY=",
+                "quest_bar_hero": "quests/1506023361820622878/1506031071194648617.jpg",
+                "quest_bar_hero_video": "quests/1506023361820622878/1506031125519400960.mp4",
+                "game_tile": "1506032247420223539.png",
+                "logotype": "1506035585226379284.png",
+                "game_tile_light": "quests/1506023361820622878/1506031568391766196.png",
+                "game_tile_dark": "quests/1506023361820622878/1506031568391766196.png",
+                "logotype_light": "quests/1506023361820622878/1506035558109937794.png",
+                "logotype_dark": "quests/1506023361820622878/1506035558109937794.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Rune Dice",
+                "game_title": "Rune Dice",
+                "game_publisher": "Kwalee"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1445982840423583785"
+                            }
+                        ]
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 Orbs",
+                            "name_with_article": "700 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 700,
+                        "premium_orb_quantity": 840
+                    }
+                ],
+                "rewards_expire_at": "2026-06-29T00:00:59+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://store.steampowered.com/app/3542380/?utm_source=discord&utm_campaign=launch",
+                "button_label": "Play Now"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false,
+        "traffic_metadata_raw": "EAIYAQ=="
     }
 ]
