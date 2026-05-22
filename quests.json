@@ -69777,7 +69777,7 @@
             },
             "messages": {
                 "quest_name": "Apple Cash",
-                "game_title": "Send or request money in the chat.",
+                "game_title": "Send Cash easily in Messages.",
                 "game_publisher": "Apple"
             },
             "task_config_v2": {
@@ -69787,19 +69787,19 @@
                         "target": 14,
                         "assets": {
                             "video": {
-                                "url": "quests/1503878119743029389/1503887273161392208_1080.mp4",
+                                "url": "quests/1503878119743029389/1504526788313747466_1080.mp4",
                                 "width": 1080,
                                 "height": 1920,
                                 "thumbnail": "quests/1503878119743029389/1503887603034755214.png"
                             },
                             "video_low_res": {
-                                "url": "quests/1503878119743029389/1503887273161392208_720.mp4",
+                                "url": "quests/1503878119743029389/1504526788313747466_720.mp4",
                                 "width": 1080,
                                 "height": 1920,
                                 "thumbnail": "quests/1503878119743029389/1503887603034755214.png"
                             },
                             "video_hls": {
-                                "url": "quests/1503878119743029389/1503887273161392208.m3u8",
+                                "url": "quests/1503878119743029389/1504526788313747466.m3u8",
                                 "width": 1080,
                                 "height": 1920,
                                 "thumbnail": "quests/1503878119743029389/1503887603034755214.png"
@@ -69838,7 +69838,7 @@
             "cta_config": {
                 "link": "https://learn.applecash.apple/benefits",
                 "button_label": "Learn More",
-                "subtitle": "Send or request money in the chat."
+                "subtitle": "Send Cash easily in Messages."
             }
         }
     },
@@ -70615,6 +70615,114 @@
             "share_policy": "shareable_everywhere",
             "cta_config": {
                 "link": "https://akendfield.gryphline.com/d27t/v1d2DQ",
+                "button_label": "Play Now"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false,
+        "traffic_metadata_raw": "EAIYAQ=="
+    },
+    {
+        "id": "1506417950951866398",
+        "config": {
+            "id": "1506417950951866398",
+            "config_version": 2,
+            "starts_at": "2026-05-22T18:20:00+00:00",
+            "expires_at": "2026-06-05T00:00:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://mo.co/en/",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1506417950951866398/1506430272592285746.jpg",
+                "hero_video": "quests/1506417950951866398/1506427394129399878.mp4",
+                "quest_bar_hero_blurhash": "JjgGHIivdYindod2lZXNj2j4NQ==",
+                "quest_bar_hero": "quests/1506417950951866398/1506428382038986792.jpg",
+                "quest_bar_hero_video": "quests/1506417950951866398/1506428413450129488.mp4",
+                "game_tile": "1506428546653098045.png",
+                "logotype": "1506430128018690191.png",
+                "game_tile_light": "quests/1506417950951866398/1506427434105569282.png",
+                "game_tile_dark": "quests/1506417950951866398/1506427434105569282.png",
+                "logotype_light": "quests/1506417950951866398/1506430102697804016.png",
+                "logotype_dark": "quests/1506417950951866398/1506430102697804016.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Mo.co",
+                "game_title": "Mo.co",
+                "game_publisher": "Supercell"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 62,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1506417950951866398/1506420887333900368_1080.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1506417950951866398/1506428680530952403.png"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1506417950951866398/1506420887333900368_720.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1506417950951866398/1506428680530952403.png"
+                            },
+                            "video_hls": {
+                                "url": "quests/1506417950951866398/1506420887333900368.m3u8",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1506417950951866398/1506428680530952403.png"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "Mo.co Trailer"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "200 Orbs",
+                            "name_with_article": "200 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 200,
+                        "premium_orb_quantity": 240
+                    }
+                ],
+                "rewards_expire_at": "2026-07-05T00:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "android": {
+                    "android_app_id": "com.supercell.moco"
+                },
+                "ios": {
+                    "ios_app_id": "6474323148"
+                },
+                "link": "https://mo.co/en/",
                 "button_label": "Play Now"
             }
         },
