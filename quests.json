@@ -70730,5 +70730,273 @@
         "targeted_content": [],
         "preview": false,
         "traffic_metadata_raw": "EAIYAQ=="
+    },
+    {
+        "id": "1504406329316479038",
+        "config": {
+            "id": "1504406329316479038",
+            "config_version": 2,
+            "starts_at": "2026-05-27T02:00:00+00:00",
+            "expires_at": "2026-06-03T00:00:59+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://lineagew.ncvgames.com/",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1504406329316479038/1506780540668481670.jpg",
+                "hero_video": "quests/1504406329316479038/1506780474910048388.mp4",
+                "quest_bar_hero_blurhash": "izgGHIYEx2Z7d3iFiXgFbEXQVg==",
+                "quest_bar_hero": "quests/1504406329316479038/1506780422267338884.jpg",
+                "quest_bar_hero_video": "quests/1504406329316479038/1506780474910048388.mp4",
+                "game_tile": "1506780762517803128.png",
+                "logotype": "1506780761531879464.png",
+                "game_tile_light": "quests/1504406329316479038/1506780737180008528.png",
+                "game_tile_dark": "quests/1504406329316479038/1506780737180008528.png",
+                "logotype_light": "quests/1504406329316479038/1506780587195760650.png",
+                "logotype_dark": "quests/1504406329316479038/1506780637292400713.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Lineage W",
+                "game_title": "LINEAGE W",
+                "game_publisher": "NCVGAMES"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 29,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1504406329316479038/1506778972225277972_1080.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1504406329316479038/1506779068413251708.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1504406329316479038/1506778972225277972_720.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1504406329316479038/1506779068413251708.jpg"
+                            },
+                            "video_hls": {
+                                "url": "quests/1504406329316479038/1506778972225277972.m3u8",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1504406329316479038/1506779068413251708.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "Lineage W - Now Live"
+                        }
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 29,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1504406329316479038/1506778972225277972_1080.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1504406329316479038/1506779068413251708.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1504406329316479038/1506778972225277972_720.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1504406329316479038/1506779068413251708.jpg"
+                            },
+                            "video_hls": {
+                                "url": "quests/1504406329316479038/1506778972225277972.m3u8",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1504406329316479038/1506779068413251708.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "Lineage W - Now Live"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "200 Orbs",
+                            "name_with_article": "200 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 200,
+                        "premium_orb_quantity": 240
+                    }
+                ],
+                "rewards_expire_at": "2026-07-03T00:00:59+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "android": {
+                    "android_app_id": "com.ncvgames.lineagewsa"
+                },
+                "ios": {
+                    "ios_app_id": "6755233247"
+                },
+                "link": "https://lineagew.ncvgames.com/",
+                "button_label": "Download",
+                "subtitle": "Download Now"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false,
+        "traffic_metadata_raw": "EAIYAQ=="
+    },
+    {
+        "id": "1504404395624894494",
+        "config": {
+            "id": "1504404395624894494",
+            "config_version": 2,
+            "starts_at": "2026-05-27T02:00:00+00:00",
+            "expires_at": "2026-06-03T00:00:59+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://lineagew.ncvgames.com/",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1504404395624894494/1506776203649089576.jpg",
+                "hero_video": "quests/1504404395624894494/1506776118064316539.mp4",
+                "quest_bar_hero_blurhash": "izgGHIYEx2Z7d3iFiXgFbEXQVg==",
+                "quest_bar_hero": "quests/1504404395624894494/1506776252239974440.jpg",
+                "quest_bar_hero_video": "quests/1504404395624894494/1506776118064316539.mp4",
+                "game_tile": "1506776284909408440.png",
+                "logotype": "1506776283793850491.png",
+                "game_tile_light": "quests/1504404395624894494/1506775931287638116.png",
+                "game_tile_dark": "quests/1504404395624894494/1506775931287638116.png",
+                "logotype_light": "quests/1504404395624894494/1506776000619479172.png",
+                "logotype_dark": "quests/1504404395624894494/1506776032122765312.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Lineage W",
+                "game_title": "LINEAGE W",
+                "game_publisher": "VNGGAMES"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 29,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1504404395624894494/1506774603014475980_1080.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1504404395624894494/1506775558661345300.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1504404395624894494/1506774603014475980_720.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1504404395624894494/1506775558661345300.jpg"
+                            },
+                            "video_hls": {
+                                "url": "quests/1504404395624894494/1506774603014475980.m3u8",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1504404395624894494/1506775558661345300.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "Lineage W - Now Live"
+                        }
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 29,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1504404395624894494/1506774603014475980_1080.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1504404395624894494/1506775558661345300.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1504404395624894494/1506774603014475980_720.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1504404395624894494/1506775558661345300.jpg"
+                            },
+                            "video_hls": {
+                                "url": "quests/1504404395624894494/1506774603014475980.m3u8",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1504404395624894494/1506775558661345300.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "Lineage W - Now Live"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "200 Orbs",
+                            "name_with_article": "200 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 200,
+                        "premium_orb_quantity": null
+                    }
+                ],
+                "rewards_expire_at": "2026-07-03T00:00:59+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "android": {
+                    "android_app_id": "com.vng.lineagewvn"
+                },
+                "ios": {
+                    "ios_app_id": "6754081597"
+                },
+                "link": "https://lineagew.ncvgames.com/",
+                "button_label": "Download",
+                "subtitle": "Download Now"
+            }
+        }
     }
 ]
