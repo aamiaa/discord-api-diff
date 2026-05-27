@@ -69657,22 +69657,22 @@
                         "target": 29,
                         "assets": {
                             "video": {
-                                "url": "quests/1501736290411085945/1502364648811397150_1080.mp4",
+                                "url": "quests/1501736290411085945/1509282163126833322_1080.mp4",
                                 "width": 1920,
                                 "height": 1080,
-                                "thumbnail": "quests/1501736290411085945/1502365623387291710.png"
+                                "thumbnail": "quests/1501736290411085945/1509282163080822804.png"
                             },
                             "video_low_res": {
-                                "url": "quests/1501736290411085945/1502364648811397150_720.mp4",
+                                "url": "quests/1501736290411085945/1509282163126833322_720.mp4",
                                 "width": 1920,
                                 "height": 1080,
-                                "thumbnail": "quests/1501736290411085945/1502365623387291710.png"
+                                "thumbnail": "quests/1501736290411085945/1509282163080822804.png"
                             },
                             "video_hls": {
-                                "url": "quests/1501736290411085945/1502364648811397150.m3u8",
+                                "url": "quests/1501736290411085945/1509282163126833322.m3u8",
                                 "width": 1920,
                                 "height": 1080,
-                                "thumbnail": "quests/1501736290411085945/1502365623387291710.png"
+                                "thumbnail": "quests/1501736290411085945/1509282163080822804.png"
                             }
                         },
                         "messages": {
@@ -69684,22 +69684,22 @@
                         "target": 29,
                         "assets": {
                             "video": {
-                                "url": "quests/1501736290411085945/1502364604267892816_1080.mp4",
+                                "url": "quests/1501736290411085945/1509282163114377468_1080.mp4",
                                 "width": 1080,
                                 "height": 1920,
-                                "thumbnail": "quests/1501736290411085945/1502365623387291710.png"
+                                "thumbnail": "quests/1501736290411085945/1509282163080822804.png"
                             },
                             "video_low_res": {
-                                "url": "quests/1501736290411085945/1502364604267892816_720.mp4",
+                                "url": "quests/1501736290411085945/1509282163114377468_720.mp4",
                                 "width": 1080,
                                 "height": 1920,
-                                "thumbnail": "quests/1501736290411085945/1502365623387291710.png"
+                                "thumbnail": "quests/1501736290411085945/1509282163080822804.png"
                             },
                             "video_hls": {
-                                "url": "quests/1501736290411085945/1502364604267892816.m3u8",
+                                "url": "quests/1501736290411085945/1509282163114377468.m3u8",
                                 "width": 1080,
                                 "height": 1920,
-                                "thumbnail": "quests/1501736290411085945/1502365623387291710.png"
+                                "thumbnail": "quests/1501736290411085945/1509282163080822804.png"
                             }
                         },
                         "messages": {
@@ -71378,6 +71378,894 @@
                 "link": "http://disclosureday-film.de/",
                 "button_label": "Get Tickets",
                 "subtitle": "AB 10. JUNI NUR IM KINO"
+            }
+        }
+    },
+    {
+        "id": "1507415251908432002",
+        "config": {
+            "id": "1507415251908432002",
+            "config_version": 2,
+            "starts_at": "2026-05-27T17:00:00+00:00",
+            "expires_at": "2026-06-08T00:00:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "http://www.disclosureday-movie.co.uk/",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1507415251908432002/1508948997170270379.jpg",
+                "hero_video": "quests/1507415251908432002/1508949055877812275.mp4",
+                "quest_bar_hero_blurhash": "1tYNHIRgiHeHd3iReXePefyY1w==",
+                "quest_bar_hero": "quests/1507415251908432002/1508948953159303218.jpg",
+                "quest_bar_hero_video": "quests/1507415251908432002/1508949055877812275.mp4",
+                "game_tile": "1508949298153525409.png",
+                "logotype": "1508949297163407560.png",
+                "game_tile_light": "quests/1507415251908432002/1508949250392981675.png",
+                "game_tile_dark": "quests/1507415251908432002/1508949250392981675.png",
+                "logotype_light": "quests/1507415251908432002/1508949150144794714.png",
+                "logotype_dark": "quests/1507415251908432002/1508949203320176832.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Disclosure Day",
+                "game_title": "In cinemas Wednesday June 10",
+                "game_publisher": "Universal Pictures"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 157,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1507415251908432002/1509256315141230744_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1507415251908432002/1508949343955320933.png"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1507415251908432002/1509256315141230744_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1507415251908432002/1508949343955320933.png"
+                            },
+                            "video_hls": {
+                                "url": "quests/1507415251908432002/1509256315141230744.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1507415251908432002/1508949343955320933.png"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 157,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1507415251908432002/1509256175802122360_1080.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1507415251908432002/1508949343955320933.png"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1507415251908432002/1509256175802122360_720.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1507415251908432002/1508949343955320933.png"
+                            },
+                            "video_hls": {
+                                "url": "quests/1507415251908432002/1509256175802122360.m3u8",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1507415251908432002/1508949343955320933.png"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "200 Orbs",
+                            "name_with_article": "200 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 200,
+                        "premium_orb_quantity": null
+                    }
+                ],
+                "rewards_expire_at": "2026-07-08T00:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "http://www.disclosureday-movie.co.uk/",
+                "button_label": "Get Tickets",
+                "subtitle": "In cinemas Wednesday June 10"
+            }
+        }
+    },
+    {
+        "id": "1507417562055442432",
+        "config": {
+            "id": "1507417562055442432",
+            "config_version": 2,
+            "starts_at": "2026-05-27T17:00:00+00:00",
+            "expires_at": "2026-06-08T00:00:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "http://www.diadelarevelacion-pelicula.mx",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1507417562055442432/1508947408745140304.jpg",
+                "hero_video": "quests/1507417562055442432/1508947465989132381.mp4",
+                "quest_bar_hero_blurhash": "1tYNHIRgiHeHd3iReXePefyY1w==",
+                "quest_bar_hero": "quests/1507417562055442432/1508947366219092078.jpg",
+                "quest_bar_hero_video": "quests/1507417562055442432/1508947465989132381.mp4",
+                "game_tile": "1508948087639506944.png",
+                "logotype": "1508948086247002203.png",
+                "game_tile_light": "quests/1507417562055442432/1508948016969683024.png",
+                "game_tile_dark": "quests/1507417562055442432/1508948016969683024.png",
+                "logotype_light": "quests/1507417562055442432/1508947898606420140.png",
+                "logotype_dark": "quests/1507417562055442432/1508947960761811135.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "El Día de la Revelación",
+                "game_title": "10 de junio Exclusivamente en Cines",
+                "game_publisher": "Universal Pictures"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 72,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1507417562055442432/1509255888664399903_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1507417562055442432/1508948128445763706.png"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1507417562055442432/1509255888664399903_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1507417562055442432/1508948128445763706.png"
+                            },
+                            "video_hls": {
+                                "url": "quests/1507417562055442432/1509255888664399903.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1507417562055442432/1508948128445763706.png"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 72,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1507417562055442432/1509253632464523424_1080.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1507417562055442432/1508948128445763706.png"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1507417562055442432/1509253632464523424_720.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1507417562055442432/1508948128445763706.png"
+                            },
+                            "video_hls": {
+                                "url": "quests/1507417562055442432/1509253632464523424.m3u8",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1507417562055442432/1508948128445763706.png"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "200 Orbs",
+                            "name_with_article": "200 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 200,
+                        "premium_orb_quantity": null
+                    }
+                ],
+                "rewards_expire_at": "2026-07-08T00:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "http://www.diadelarevelacion-pelicula.mx",
+                "button_label": "Get Tickets",
+                "subtitle": "10 de junio Exclusivamente en Cines"
+            }
+        }
+    },
+    {
+        "id": "1507414022511656970",
+        "config": {
+            "id": "1507414022511656970",
+            "config_version": 2,
+            "starts_at": "2026-05-27T17:00:00+00:00",
+            "expires_at": "2026-06-08T00:00:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "http://www.eldiadelarevelacion-lapelicula.es/entradas",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1507414022511656970/1508940380635402280.jpg",
+                "hero_video": "quests/1507414022511656970/1508940454060884118.mp4",
+                "quest_bar_hero_blurhash": "1tYNHIRgiHeHd3iReXePefyY1w==",
+                "quest_bar_hero": "quests/1507414022511656970/1508940334661636136.jpg",
+                "quest_bar_hero_video": "quests/1507414022511656970/1508940454060884118.mp4",
+                "game_tile": "1508940726006845440.png",
+                "logotype": "1508940724970983474.png",
+                "game_tile_light": "quests/1507414022511656970/1508940648630452254.png",
+                "game_tile_dark": "quests/1507414022511656970/1508940648630452254.png",
+                "logotype_light": "quests/1507414022511656970/1508940548797632563.png",
+                "logotype_dark": "quests/1507414022511656970/1508940602933510175.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "El Día de la Revelación",
+                "game_title": "12 de Junio Exclusivamente en Cines",
+                "game_publisher": "Universal Pictures"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 157,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1507414022511656970/1509251636973928478_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1507414022511656970/1508940807372144790.png"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1507414022511656970/1509251636973928478_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1507414022511656970/1508940807372144790.png"
+                            },
+                            "video_hls": {
+                                "url": "quests/1507414022511656970/1509251636973928478.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1507414022511656970/1508940807372144790.png"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 157,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1507414022511656970/1509251413593821265_1080.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1507414022511656970/1508940807372144790.png"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1507414022511656970/1509251413593821265_720.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1507414022511656970/1508940807372144790.png"
+                            },
+                            "video_hls": {
+                                "url": "quests/1507414022511656970/1509251413593821265.m3u8",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1507414022511656970/1508940807372144790.png"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "200 Orbs",
+                            "name_with_article": "200 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 200,
+                        "premium_orb_quantity": null
+                    }
+                ],
+                "rewards_expire_at": "2026-07-08T00:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "http://www.eldiadelarevelacion-lapelicula.es/entradas",
+                "button_label": "Get Tickets",
+                "subtitle": "12 de Junio Exclusivamente en Cines"
+            }
+        }
+    },
+    {
+        "id": "1504975599389900943",
+        "config": {
+            "id": "1504975599389900943",
+            "config_version": 2,
+            "starts_at": "2026-05-27T17:00:43+00:00",
+            "expires_at": "2026-06-11T00:00:43+00:00",
+            "features": [
+                42,
+                15
+            ],
+            "application": {
+                "link": "https://discord.com/store",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1504975599389900943/1506714667559420006.jpg",
+                "hero_video": "quests/1504975599389900943/1506713986429616129.mp4",
+                "quest_bar_hero_blurhash": "1vcNDII1dYdniHeAmqbe8N8svw==",
+                "quest_bar_hero": "quests/1504975599389900943/1506714619014545499.jpg",
+                "quest_bar_hero_video": "quests/1504975599389900943/1506713916099788830.mp4",
+                "game_tile": "1507503802004144339.png",
+                "logotype": "1506715032711598090.png",
+                "game_tile_light": "quests/1504975599389900943/1507503761491492894.png",
+                "game_tile_dark": "quests/1504975599389900943/1506732685551341669.png",
+                "logotype_light": "quests/1504975599389900943/1506714747683344544.png",
+                "logotype_dark": "quests/1504975599389900943/1506714806391148564.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Nitro + XBOX Game Pass",
+                "game_title": "Nitro + XBOX Game Pass",
+                "game_publisher": "Discord"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 27,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1504975599389900943/1506715160889397288_1080.mp4",
+                                "width": 3840,
+                                "height": 2160,
+                                "thumbnail": "quests/1504975599389900943/1506728048467116114.png",
+                                "caption": "quests/1504975599389900943/1506717351373176883.vtt"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1504975599389900943/1506715160889397288_720.mp4",
+                                "width": 3840,
+                                "height": 2160,
+                                "thumbnail": "quests/1504975599389900943/1506728048467116114.png",
+                                "caption": "quests/1504975599389900943/1506717351373176883.vtt"
+                            },
+                            "video_hls": {
+                                "url": "quests/1504975599389900943/1506715160889397288.m3u8",
+                                "width": 3840,
+                                "height": 2160,
+                                "thumbnail": "quests/1504975599389900943/1506728048467116114.png",
+                                "caption": "quests/1504975599389900943/1506717351373176883.vtt"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "video"
+                        }
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 27,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1504975599389900943/1506715160889397288_1080.mp4",
+                                "width": 3840,
+                                "height": 2160,
+                                "thumbnail": "quests/1504975599389900943/1506728048467116114.png",
+                                "caption": "quests/1504975599389900943/1506717351373176883.vtt"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1504975599389900943/1506715160889397288_720.mp4",
+                                "width": 3840,
+                                "height": 2160,
+                                "thumbnail": "quests/1504975599389900943/1506728048467116114.png",
+                                "caption": "quests/1504975599389900943/1506717351373176883.vtt"
+                            },
+                            "video_hls": {
+                                "url": "quests/1504975599389900943/1506715160889397288.m3u8",
+                                "width": 3840,
+                                "height": 2160,
+                                "thumbnail": "quests/1504975599389900943/1506728048467116114.png",
+                                "caption": "quests/1504975599389900943/1506717351373176883.vtt"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "video"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "200 Orbs",
+                            "name_with_article": "200 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 200,
+                        "premium_orb_quantity": null
+                    }
+                ],
+                "rewards_expire_at": "2026-07-11T00:00:43+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://discord.com/store",
+                "button_label": "Learn More"
+            }
+        }
+    },
+    {
+        "id": "1507416559763591188",
+        "config": {
+            "id": "1507416559763591188",
+            "config_version": 2,
+            "starts_at": "2026-05-27T17:00:00+00:00",
+            "expires_at": "2026-06-08T00:00:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://litt.ly/disclosureday",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1507416559763591188/1508945453297827901.jpg",
+                "hero_video": "quests/1507416559763591188/1508945514631135232.mp4",
+                "quest_bar_hero_blurhash": "1tYNHIRgiHeHd3iReXePefyY1w==",
+                "quest_bar_hero": "quests/1507416559763591188/1508945404715204862.jpg",
+                "quest_bar_hero_video": "quests/1507416559763591188/1508945514631135232.mp4",
+                "game_tile": "1508945790784114768.png",
+                "logotype": "1508945789756375100.png",
+                "game_tile_light": "quests/1507416559763591188/1508945730306445452.png",
+                "game_tile_dark": "quests/1507416559763591188/1508945730306445452.png",
+                "logotype_light": "quests/1507416559763591188/1508945601998618746.png",
+                "logotype_dark": "quests/1507416559763591188/1508945660404170872.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "디스클로저 데이 퀘스트",
+                "game_title": "6월 10일 대개봉",
+                "game_publisher": "Universal Pictures"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 157,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1507416559763591188/1509253119157080115_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1507416559763591188/1508945859684077700.png"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1507416559763591188/1509253119157080115_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1507416559763591188/1508945859684077700.png"
+                            },
+                            "video_hls": {
+                                "url": "quests/1507416559763591188/1509253119157080115.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1507416559763591188/1508945859684077700.png"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 157,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1507416559763591188/1509253044657979452_1080.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1507416559763591188/1508945859684077700.png"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1507416559763591188/1509253044657979452_720.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1507416559763591188/1508945859684077700.png"
+                            },
+                            "video_hls": {
+                                "url": "quests/1507416559763591188/1509253044657979452.m3u8",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1507416559763591188/1508945859684077700.png"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "200 Orbs",
+                            "name_with_article": "200 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 200,
+                        "premium_orb_quantity": null
+                    }
+                ],
+                "rewards_expire_at": "2026-07-08T00:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://litt.ly/disclosureday",
+                "button_label": "Learn More",
+                "subtitle": "6월 10일 대개봉"
+            }
+        }
+    },
+    {
+        "id": "1507414550088126638",
+        "config": {
+            "id": "1507414550088126638",
+            "config_version": 2,
+            "starts_at": "2026-05-27T17:00:00+00:00",
+            "expires_at": "2026-06-08T00:00:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "http://app.powster.com/universalstudios/disclosure-day-intl/it",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1507414550088126638/1508944229831802940.jpg",
+                "hero_video": "quests/1507414550088126638/1508944281358962828.mp4",
+                "quest_bar_hero_blurhash": "1tYNHIRgiHeHd3iReXePefyY1w==",
+                "quest_bar_hero": "quests/1507414550088126638/1508944186181947412.jpg",
+                "quest_bar_hero_video": "quests/1507414550088126638/1508944281358962828.mp4",
+                "game_tile": "1508944567230005248.png",
+                "logotype": "1508944566135554131.png",
+                "game_tile_light": "quests/1507414550088126638/1508944502453305404.png",
+                "game_tile_dark": "quests/1507414550088126638/1508944502453305404.png",
+                "logotype_light": "quests/1507414550088126638/1508944435180994751.png",
+                "logotype_dark": "quests/1507414550088126638/1508944371331109065.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Disclosure Day",
+                "game_title": "Dal 10 giugno al cinema",
+                "game_publisher": "Universal Pictures"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 157,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1507414550088126638/1509252359518163136_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1507414550088126638/1508944623572353245.png"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1507414550088126638/1509252359518163136_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1507414550088126638/1508944623572353245.png"
+                            },
+                            "video_hls": {
+                                "url": "quests/1507414550088126638/1509252359518163136.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1507414550088126638/1508944623572353245.png"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 157,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1507414550088126638/1509252257034797217_1080.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1507414550088126638/1508944623572353245.png"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1507414550088126638/1509252257034797217_720.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1507414550088126638/1508944623572353245.png"
+                            },
+                            "video_hls": {
+                                "url": "quests/1507414550088126638/1509252257034797217.m3u8",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1507414550088126638/1508944623572353245.png"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "200 Orbs",
+                            "name_with_article": "200 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 200,
+                        "premium_orb_quantity": null
+                    }
+                ],
+                "rewards_expire_at": "2026-07-08T00:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "http://app.powster.com/universalstudios/disclosure-day-intl/it",
+                "button_label": "Get Tickets",
+                "subtitle": "Dal 10 giugno al cinema"
+            }
+        }
+    },
+    {
+        "id": "1507415776620187738",
+        "config": {
+            "id": "1507415776620187738",
+            "config_version": 2,
+            "starts_at": "2026-05-27T17:00:00+00:00",
+            "expires_at": "2026-06-08T00:00:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "http://www.disclosureday-movie.com.au",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1507415776620187738/1508929494268772613.jpg",
+                "hero_video": "quests/1507415776620187738/1508930324459946064.mp4",
+                "quest_bar_hero_blurhash": "1tYNHIRgiHeHd3iReXePefyY1w==",
+                "quest_bar_hero": "quests/1507415776620187738/1508929791384879369.jpg",
+                "quest_bar_hero_video": "quests/1507415776620187738/1508930324459946064.mp4",
+                "game_tile": "1508930107891519569.png",
+                "logotype": "1508930106813452328.png",
+                "game_tile_light": "quests/1507415776620187738/1508930009560252456.png",
+                "game_tile_dark": "quests/1507415776620187738/1508930009560252456.png",
+                "logotype_light": "quests/1507415776620187738/1508929911044182217.png",
+                "logotype_dark": "quests/1507415776620187738/1508929963330633938.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Disclosure Day",
+                "game_title": "In cinemas Wednesday June 11",
+                "game_publisher": "Universal Pictures"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 157,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1507415776620187738/1509248214354890863_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1507415776620187738/1508930489795219630.png"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1507415776620187738/1509248214354890863_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1507415776620187738/1508930489795219630.png"
+                            },
+                            "video_hls": {
+                                "url": "quests/1507415776620187738/1509248214354890863.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1507415776620187738/1508930489795219630.png"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 157,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1507415776620187738/1509248103562219560_1080.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1507415776620187738/1508930489795219630.png"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1507415776620187738/1509248103562219560_720.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1507415776620187738/1508930489795219630.png"
+                            },
+                            "video_hls": {
+                                "url": "quests/1507415776620187738/1509248103562219560.m3u8",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1507415776620187738/1508930489795219630.png"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "200 Orbs",
+                            "name_with_article": "200 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 200,
+                        "premium_orb_quantity": null
+                    }
+                ],
+                "rewards_expire_at": "2026-07-08T00:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "http://www.disclosureday-movie.com.au",
+                "button_label": "Get Tickets",
+                "subtitle": "In cinemas Wednesday June 11"
             }
         }
     }
