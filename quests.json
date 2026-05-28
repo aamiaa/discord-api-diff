@@ -69782,6 +69782,33 @@
             },
             "task_config_v2": {
                 "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 14,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1503878119743029389/1509326039946629231_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1503878119743029389/1503887603034755214.png"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1503878119743029389/1509326039946629231_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1503878119743029389/1503887603034755214.png"
+                            },
+                            "video_hls": {
+                                "url": "quests/1503878119743029389/1509326039946629231.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1503878119743029389/1503887603034755214.png"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "Apple Cash Video "
+                        }
+                    },
                     "WATCH_VIDEO_ON_MOBILE": {
                         "type": "WATCH_VIDEO_ON_MOBILE",
                         "target": 14,
