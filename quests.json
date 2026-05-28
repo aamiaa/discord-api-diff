@@ -72299,5 +72299,89 @@
                 "subtitle": "In cinemas Wednesday June 11"
             }
         }
+    },
+    {
+        "id": "1506568728849023016",
+        "config": {
+            "id": "1506568728849023016",
+            "config_version": 2,
+            "starts_at": "2026-05-28T17:00:00+00:00",
+            "expires_at": "2026-06-08T00:00:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://store.steampowered.com/app/2139460?utm_source=discord",
+                "id": "1260340082150346932",
+                "name": "Once Human"
+            },
+            "assets": {
+                "hero": "quests/1506568728849023016/1508884438363144212.jpg",
+                "hero_video": null,
+                "quest_bar_hero_blurhash": "VtcJDIIQe3hud4eSiWtYkIgFeQ==",
+                "quest_bar_hero": "quests/1506568728849023016/1508884367441920130.jpg",
+                "quest_bar_hero_video": null,
+                "game_tile": "1507091176174522448.jpg",
+                "logotype": "1507091175205503106.png",
+                "game_tile_light": "quests/1506568728849023016/1507090972247593020.jpg",
+                "game_tile_dark": "quests/1506568728849023016/1507090972247593020.jpg",
+                "logotype_light": "quests/1506568728849023016/1507090869231288371.png",
+                "logotype_dark": "quests/1506568728849023016/1507090925921370112.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "GRAVITY ABYSS",
+                "game_title": "Once Human",
+                "game_publisher": "Starry Studio"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1260340082150346932"
+                            }
+                        ]
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 Orbs",
+                            "name_with_article": "700 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 700,
+                        "premium_orb_quantity": 840
+                    }
+                ],
+                "rewards_expire_at": "2026-07-08T00:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://store.steampowered.com/app/2139460?utm_source=discord",
+                "button_label": "Play"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false,
+        "traffic_metadata_raw": "EAIYAQ=="
     }
 ]
