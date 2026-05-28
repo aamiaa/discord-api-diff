@@ -69749,7 +69749,7 @@
             "id": "1503878119743029389",
             "config_version": 2,
             "starts_at": "2026-05-15T17:00:44+00:00",
-            "expires_at": "2026-05-29T00:00:44+00:00",
+            "expires_at": "2026-05-29T03:59:44+00:00",
             "features": [
                 15
             ],
@@ -69853,10 +69853,10 @@
                             }
                         },
                         "orb_quantity": 200,
-                        "premium_orb_quantity": null
+                        "premium_orb_quantity": 240
                     }
                 ],
-                "rewards_expire_at": "2026-06-28T00:00:44+00:00",
+                "rewards_expire_at": "2026-06-28T03:59:44+00:00",
                 "platforms": [
                     0
                 ]
@@ -69867,7 +69867,11 @@
                 "button_label": "Learn More",
                 "subtitle": "Send Cash easily in Messages."
             }
-        }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false,
+        "traffic_metadata_raw": "EAIYAQ=="
     },
     {
         "id": "1503853078712156230",
