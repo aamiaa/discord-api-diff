@@ -72943,8 +72943,8 @@
                         "external_ids": [
                             "PPSA23974_00",
                             "PPSA22040_00",
-                            "PPSA22041_00",
-                            "PPSA23975_00"
+                            "PPSA23975_00",
+                            "PPSA22041_00"
                         ]
                     }
                 },
@@ -72956,7 +72956,7 @@
                     {
                         "type": 3,
                         "sku_id": "1505981973347176658",
-                        "asset": "quests/1504788660673839134/1506320540288417953.png",
+                        "asset": "quests/1504788660673839134/1511048496084553948.mp4",
                         "asset_video": null,
                         "messages": {
                             "name": "Runeseeker Avatar Decoration",
@@ -73483,5 +73483,113 @@
                 "button_label": "Play Now"
             }
         }
+    },
+    {
+        "id": "1506409136634724422",
+        "config": {
+            "id": "1506409136634724422",
+            "config_version": 2,
+            "starts_at": "2026-06-01T15:00:00+00:00",
+            "expires_at": "2026-06-15T00:00:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://twinharbourinteractive.com/games/",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1506409136634724422/1506419804192637019.jpg",
+                "hero_video": "quests/1506409136634724422/1506419886157598760.mp4",
+                "quest_bar_hero_blurhash": "zOcFCoQKd2eMiURmB2ICA2M=",
+                "quest_bar_hero": "quests/1506409136634724422/1506419804192637019.jpg",
+                "quest_bar_hero_video": "quests/1506409136634724422/1506419886157598760.mp4",
+                "game_tile": "1506420265469349949.jpg",
+                "logotype": "1509664302896910438.png",
+                "game_tile_light": "quests/1506409136634724422/1506420108099194951.jpg",
+                "game_tile_dark": "quests/1506409136634724422/1506420108099194951.jpg",
+                "logotype_light": "quests/1506409136634724422/1509664274685890681.png",
+                "logotype_dark": "quests/1506409136634724422/1509664233682370720.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Supremacy: World War 3",
+                "game_title": "Supremacy: World War 3",
+                "game_publisher": "Stillfront"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 31,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1506409136634724422/1506420362773135370_1080.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1506409136634724422/1506420888252317788.png"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1506409136634724422/1506420362773135370_720.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1506409136634724422/1506420888252317788.png"
+                            },
+                            "video_hls": {
+                                "url": "quests/1506409136634724422/1506420362773135370.m3u8",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1506409136634724422/1506420888252317788.png"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "200 Orbs",
+                            "name_with_article": "200 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 200,
+                        "premium_orb_quantity": 240
+                    }
+                ],
+                "rewards_expire_at": "2026-07-15T00:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "android": {
+                    "android_app_id": "com.doradogames.conflictnations.worldwar3"
+                },
+                "ios": {
+                    "ios_app_id": "id1510997559"
+                },
+                "link": "https://twinharbourinteractive.com/games/",
+                "button_label": "Install"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false,
+        "traffic_metadata_raw": "EAIYAQ=="
     }
 ]
