@@ -73591,5 +73591,228 @@
         "targeted_content": [],
         "preview": false,
         "traffic_metadata_raw": "EAIYAQ=="
+    },
+    {
+        "id": "1486800972150870016",
+        "config": {
+            "id": "1486800972150870016",
+            "config_version": 2,
+            "starts_at": "2026-06-01T17:00:00+00:00",
+            "expires_at": "2026-06-29T00:00:59+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://ad.doubleclick.net/ddm/trackclk/N572608.3866164DISCORD.COM/B34827662.443522024;dc_trk_aid=637084255;dc_trk_cid=253194417;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};gpp=${GPP_STRING_755};gpp_sid=${GPP_SID};ltd=;dc_tdv=1",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1486800972150870016/1508895253749567488.jpg",
+                "hero_video": "quests/1486800972150870016/1508895194958004364.mp4",
+                "quest_bar_hero_blurhash": "1PcNJIqwdZmKd3mFh4aPiPd4eA==",
+                "quest_bar_hero": "quests/1486800972150870016/1508957594050494624.jpg",
+                "quest_bar_hero_video": "quests/1486800972150870016/1508895296128553184.mp4",
+                "game_tile": "1508895520733528166.png",
+                "logotype": "1511048546722385961.png",
+                "game_tile_light": "quests/1486800972150870016/1508895423539056770.png",
+                "game_tile_dark": "quests/1486800972150870016/1508895423539056770.png",
+                "logotype_light": "quests/1486800972150870016/1511048525792935996.png",
+                "logotype_dark": "quests/1486800972150870016/1508895386738102342.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Simplify with Microsoft Azure",
+                "game_title": "Microsoft Azure",
+                "game_publisher": "Microsoft"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 14,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1486800972150870016/1508895573023916112_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1486800972150870016/1508895673968230553.png"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1486800972150870016/1508895573023916112_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1486800972150870016/1508895673968230553.png"
+                            },
+                            "video_hls": {
+                                "url": "quests/1486800972150870016/1508895573023916112.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1486800972150870016/1508895673968230553.png"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "Integrate"
+                        }
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 14,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1486800972150870016/1508930066070114456_1080.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1486800972150870016/1508895673968230553.png"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1486800972150870016/1508930066070114456_720.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1486800972150870016/1508895673968230553.png"
+                            },
+                            "video_hls": {
+                                "url": "quests/1486800972150870016/1508930066070114456.m3u8",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1486800972150870016/1508895673968230553.png"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "Integrate"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "200 Orbs",
+                            "name_with_article": "200 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 200,
+                        "premium_orb_quantity": 240
+                    }
+                ],
+                "rewards_expire_at": "2026-07-29T00:00:59+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://ad.doubleclick.net/ddm/trackclk/N572608.3866164DISCORD.COM/B34827662.443522024;dc_trk_aid=637084255;dc_trk_cid=253194417;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};gpp=${GPP_STRING_755};gpp_sid=${GPP_SID};ltd=;dc_tdv=1",
+                "button_label": "Learn More"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false,
+        "traffic_metadata_raw": "EAIYAQ=="
+    },
+    {
+        "id": "1506770769999433830",
+        "config": {
+            "id": "1506770769999433830",
+            "config_version": 2,
+            "starts_at": "2026-06-01T17:00:00+00:00",
+            "expires_at": "2026-06-15T00:00:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://aka.ms/DiscordXDL20",
+                "id": "1445163122284429375",
+                "name": "Forza Horizon 6"
+            },
+            "assets": {
+                "hero": "quests/1506770769999433830/1509601738624078015.jpg",
+                "hero_video": null,
+                "quest_bar_hero_blurhash": "NQgKDIL3hohhiHlekXtndIB0CA==",
+                "quest_bar_hero": "quests/1506770769999433830/1506775999881150544.jpg",
+                "quest_bar_hero_video": null,
+                "game_tile": "1506780817282826392.png",
+                "logotype": "1509601781389332621.png",
+                "game_tile_light": "quests/1506770769999433830/1506776252831240223.png",
+                "game_tile_dark": "quests/1506770769999433830/1506780796281684089.png",
+                "logotype_light": "quests/1506770769999433830/1509601637734416445.png",
+                "logotype_dark": "quests/1506770769999433830/1509328711088869466.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Your Game - Your Controller ",
+                "game_title": "Forza Horizon 6",
+                "game_publisher": "Microsoft"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1445163122284429375"
+                            }
+                        ]
+                    },
+                    "PLAY_ON_XBOX": {
+                        "type": "PLAY_ON_XBOX",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1445163122284429375"
+                            }
+                        ],
+                        "external_ids": [
+                            "2079757188"
+                        ]
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 1,
+                        "sku_id": "1506770769999433831",
+                        "asset": "quests/1506770769999433830/1506777168255127592.jpg",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "20% Xbox Design Lab Promo Code",
+                            "name_with_article": "a 20% Xbox Design Lab Promo Code",
+                            "redemption_instructions_by_platform": {
+                                "0": "1. Open the URL https://aka.ms/DiscordXDL20.  \n2. Customise your controller and add it to your cart.  \n3. Select APPLY CODE under Order Summary and enter your code in the discount code box, select APPLY DISCOUNT.  \n4. Your 20% discount will appear in your order total — complete purchase as guest or with an account.    \nTerms & Conditions: Offer applies only to Elite Wireless Controllers and Standard Wireless Controllers in the Xbox Design Lab. This offer ends on 30th June 2026 or while stocks last. The promo code must be entered at checkout to receive the discount. Not valid for previous orders or purchases. This offer is non-transferable and cannot be exchanged for cash. May not be combined with other offers. Any applicable taxes are the responsibility of the recipient. Please allow 6–8 weeks for delivery. Standard engraving terms and conditions apply. Microsoft reserves the right to cancel, change or suspend this offer at any time without notice."
+                            }
+                        },
+                        "approximate_count": null,
+                        "redemption_link": null
+                    }
+                ],
+                "rewards_expire_at": "2026-07-15T00:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://aka.ms/DiscordXDL20",
+                "button_label": "Learn More"
+            }
+        }
     }
 ]
