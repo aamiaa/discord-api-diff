@@ -73832,10 +73832,10 @@
             },
             "assets": {
                 "hero": "quests/1509683146239512726/1510024772099244154.jpg",
-                "hero_video": "quests/1509683146239512726/1511095610667962560.mp4",
+                "hero_video": "quests/1509683146239512726/1511382083510075472.mp4",
                 "quest_bar_hero_blurhash": "YtgFGojCt6iAYpWYaISABgk=",
                 "quest_bar_hero": "quests/1509683146239512726/1510024772099244154.jpg",
-                "quest_bar_hero_video": "quests/1509683146239512726/1511095610667962560.mp4",
+                "quest_bar_hero_video": "quests/1509683146239512726/1511382083510075472.mp4",
                 "game_tile": "1510024971651387603.png",
                 "logotype": "1510024970380771578.png",
                 "game_tile_light": "quests/1509683146239512726/1510024521875460116.png",
@@ -73916,6 +73916,90 @@
                 },
                 "link": "https://www.monopolygo.com/",
                 "button_label": "Play Game"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false,
+        "traffic_metadata_raw": "EAIYAQ=="
+    },
+    {
+        "id": "1506575466969043055",
+        "config": {
+            "id": "1506575466969043055",
+            "config_version": 2,
+            "starts_at": "2026-06-02T16:00:00+00:00",
+            "expires_at": "2026-06-05T06:59:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://duetnightabyss.dna-panstudio.com/DiscordQuest/",
+                "id": "1440136452942856234",
+                "name": "Duet Night Abyss"
+            },
+            "assets": {
+                "hero": "quests/1506575466969043055/1509941131155214478.jpg",
+                "hero_video": "quests/1506575466969043055/1509691110069506159.mp4",
+                "quest_bar_hero_blurhash": "FxgKFIJShndwiIiFiYcnsBYFWA==",
+                "quest_bar_hero": "quests/1506575466969043055/1509691110090608712.jpg",
+                "quest_bar_hero_video": "quests/1506575466969043055/1509691659707875338.mp4",
+                "game_tile": "1509691350973419531.png",
+                "logotype": "1509691349295829033.png",
+                "game_tile_light": "quests/1506575466969043055/1509691110191140894.png",
+                "game_tile_dark": "quests/1506575466969043055/1509691110191140894.png",
+                "logotype_light": "quests/1506575466969043055/1509691110044340404.png",
+                "logotype_dark": "quests/1506575466969043055/1509691110035816629.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Duet Night Abyss",
+                "game_title": "Duet Night Abyss",
+                "game_publisher": "Hero Games"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1440136452942856234"
+                            }
+                        ]
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 Orbs",
+                            "name_with_article": "700 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 700,
+                        "premium_orb_quantity": 840
+                    }
+                ],
+                "rewards_expire_at": "2026-07-05T06:59:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://duetnightabyss.dna-panstudio.com/DiscordQuest/",
+                "button_label": "Play Now"
             }
         },
         "user_status": null,
