@@ -71171,7 +71171,7 @@
                 15
             ],
             "application": {
-                "link": "https://www.universalpics.com.br/micro/disclosure-day",
+                "link": "https://app.powster.com/universalstudios/disclosure-day-intl/br/",
                 "id": "545364944258990091",
                 "name": "Discord"
             },
@@ -71280,8 +71280,8 @@
             },
             "share_policy": "shareable_everywhere",
             "cta_config": {
-                "link": "https://www.universalpics.com.br/micro/disclosure-day",
-                "button_label": "Learn More",
+                "link": "https://app.powster.com/universalstudios/disclosure-day-intl/br/",
+                "button_label": "Get Tickets",
                 "subtitle": "Dia D, 10 de junho nos cinemas"
             }
         }
@@ -71659,7 +71659,7 @@
             "share_policy": "shareable_everywhere",
             "cta_config": {
                 "link": "http://www.diadelarevelacion-pelicula.mx",
-                "button_label": "Learn More",
+                "button_label": "Get Tickets",
                 "subtitle": "10 de junio Exclusivamente en Cines"
             }
         }
@@ -73490,7 +73490,7 @@
             "id": "1506409136634724422",
             "config_version": 2,
             "starts_at": "2026-06-01T15:00:00+00:00",
-            "expires_at": "2026-06-15T00:00:00+00:00",
+            "expires_at": "2026-06-04T16:10:00+00:00",
             "features": [
                 15
             ],
@@ -73570,7 +73570,7 @@
                         "premium_orb_quantity": 240
                     }
                 ],
-                "rewards_expire_at": "2026-07-15T00:00:00+00:00",
+                "rewards_expire_at": "2026-07-04T16:10:00+00:00",
                 "platforms": [
                     0
                 ]
@@ -74222,5 +74222,271 @@
         "targeted_content": [],
         "preview": false,
         "traffic_metadata_raw": "EAIYAQ=="
+    },
+    {
+        "id": "1508940810387853372",
+        "config": {
+            "id": "1508940810387853372",
+            "config_version": 2,
+            "starts_at": "2026-06-04T15:30:00+00:00",
+            "expires_at": "2026-06-11T06:59:00+00:00",
+            "features": [
+                27,
+                36,
+                15
+            ],
+            "application": {
+                "link": "http://www.odysseymovietickets.com/",
+                "id": "1495767543946809424",
+                "name": "The Odyssey – Telemachus"
+            },
+            "assets": {
+                "hero": "quests/1508940810387853372/1511475384292479158.jpg",
+                "hero_video": "quests/1508940810387853372/1511475384590405742.mp4",
+                "quest_bar_hero_blurhash": "UwgGDIJuWYdog4dQZ5OPa/TJVg==",
+                "quest_bar_hero": "quests/1508940810387853372/1511475385085202572.jpg",
+                "quest_bar_hero_video": "quests/1508940810387853372/1511475384590405742.mp4",
+                "game_tile": "1511475616803979436.png",
+                "logotype": "1511475610248024195.png",
+                "game_tile_light": "quests/1508940810387853372/1511475406589530264.png",
+                "game_tile_dark": "quests/1508940810387853372/1511475406589530264.png",
+                "logotype_light": "quests/1508940810387853372/1511475406472089770.png",
+                "logotype_dark": "quests/1508940810387853372/1511475406472089770.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "The Odyssey",
+                "game_title": "A film by Christopher Nolan. In theaters 7 17 26.",
+                "game_publisher": "Universal Pictures"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "ACHIEVEMENT_IN_ACTIVITY": {
+                        "type": "ACHIEVEMENT_IN_ACTIVITY",
+                        "target": 1,
+                        "applications": [
+                            {
+                                "id": "1495767543946809424"
+                            }
+                        ],
+                        "event_name": "progress",
+                        "messages": {
+                            "task_title": "A film by Christopher Nolan. In theatres 7 17 26.",
+                            "task_description": "Journey with Telemachus to earn 700 Discord Orbs!"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 Orbs",
+                            "name_with_article": "700 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 700,
+                        "premium_orb_quantity": 840
+                    }
+                ],
+                "rewards_expire_at": "2026-07-11T06:59:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "http://www.odysseymovietickets.com/",
+                "button_label": "Get Tickets",
+                "subtitle": "A film by Christopher Nolan. In theatres 7 17 26."
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false,
+        "traffic_metadata_raw": "EAIYAQ=="
+    },
+    {
+        "id": "1511073863214170153",
+        "config": {
+            "id": "1511073863214170153",
+            "config_version": 2,
+            "starts_at": "2026-06-04T15:30:00+00:00",
+            "expires_at": "2026-06-11T06:59:00+00:00",
+            "features": [
+                27,
+                36,
+                15
+            ],
+            "application": {
+                "link": "https://discord.gg/odysseymovie",
+                "id": "1495767543946809424",
+                "name": "The Odyssey – Telemachus"
+            },
+            "assets": {
+                "hero": "quests/1511073863214170153/1511476324978655394.jpg",
+                "hero_video": "quests/1511073863214170153/1511476325142102036.mp4",
+                "quest_bar_hero_blurhash": "UwgGDIJuWYdog4dQZ5OPa/TJVg==",
+                "quest_bar_hero": "quests/1511073863214170153/1511476325167272068.jpg",
+                "quest_bar_hero_video": "quests/1511073863214170153/1511476325142102036.mp4",
+                "game_tile": "1511476587487559934.png",
+                "logotype": "1511476586417885355.png",
+                "game_tile_light": "quests/1511073863214170153/1511476307589075024.png",
+                "game_tile_dark": "quests/1511073863214170153/1511476307589075024.png",
+                "logotype_light": "quests/1511073863214170153/1511476307048005752.png",
+                "logotype_dark": "quests/1511073863214170153/1511476307048005752.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "The Odyssey",
+                "game_title": "A film by Christopher Nolan. In theatres 17 7 26.",
+                "game_publisher": "Universal Pictures"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "ACHIEVEMENT_IN_ACTIVITY": {
+                        "type": "ACHIEVEMENT_IN_ACTIVITY",
+                        "target": 1,
+                        "applications": [
+                            {
+                                "id": "1495767543946809424"
+                            }
+                        ],
+                        "event_name": "progress",
+                        "messages": {
+                            "task_title": "A film by Christopher Nolan. In theatres 17 7 26.",
+                            "task_description": "Journey with Telemachus to earn 700 Discord Orbs!"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 Orbs",
+                            "name_with_article": "700 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 700,
+                        "premium_orb_quantity": null
+                    }
+                ],
+                "rewards_expire_at": "2026-07-11T06:59:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://discord.gg/odysseymovie",
+                "button_label": "Join Server",
+                "subtitle": "A film by Christopher Nolan. In theatres 17 7 26."
+            }
+        }
+    },
+    {
+        "id": "1511073242142474351",
+        "config": {
+            "id": "1511073242142474351",
+            "config_version": 2,
+            "starts_at": "2026-06-04T15:30:00+00:00",
+            "expires_at": "2026-06-11T06:59:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://www.odysseymovie.ca/",
+                "id": "1495767543946809424",
+                "name": "The Odyssey – Telemachus"
+            },
+            "assets": {
+                "hero": "quests/1511073242142474351/1511473968840839249.jpg",
+                "hero_video": "quests/1511073242142474351/1511473969083977872.mp4",
+                "quest_bar_hero_blurhash": "UwgGDIJuWYdog4dQZ5OPa/TJVg==",
+                "quest_bar_hero": "quests/1511073242142474351/1511473969407070319.jpg",
+                "quest_bar_hero_video": "quests/1511073242142474351/1511473969083977872.mp4",
+                "game_tile": "1511474408735117402.png",
+                "logotype": "1511474407636340897.png",
+                "game_tile_light": "quests/1511073242142474351/1511474052492034170.png",
+                "game_tile_dark": "quests/1511073242142474351/1511474052492034170.png",
+                "logotype_light": "quests/1511073242142474351/1511474144632635392.png",
+                "logotype_dark": "quests/1511073242142474351/1511474144632635392.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "The Odyssey",
+                "game_title": "A film by Christopher Nolan. In theatres 7 17 26.",
+                "game_publisher": "Universal Pictures"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "ACHIEVEMENT_IN_ACTIVITY": {
+                        "type": "ACHIEVEMENT_IN_ACTIVITY",
+                        "target": 1,
+                        "applications": [
+                            {
+                                "id": "1495767543946809424"
+                            }
+                        ],
+                        "event_name": "progress",
+                        "messages": {
+                            "task_title": "A film by Christopher Nolan. In theatres 7 17 26.",
+                            "task_description": "Journey with Telemachus to earn 700 Discord Orbs!"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 Orbs",
+                            "name_with_article": "700 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 700,
+                        "premium_orb_quantity": null
+                    }
+                ],
+                "rewards_expire_at": "2026-07-11T06:59:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://www.odysseymovie.ca/",
+                "button_label": "Get Tickets",
+                "subtitle": "A film by Christopher Nolan. In theatres 7 17 26."
+            }
+        }
     }
 ]
