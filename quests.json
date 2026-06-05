@@ -73112,7 +73112,7 @@
             },
             "messages": {
                 "quest_name": "Masters of the Universe",
-                "game_title": "Masters of the Universe - In Theatres Friday",
+                "game_title": "Masters of the Universe - Now Playing",
                 "game_publisher": "Amazon MGM"
             },
             "task_config_v2": {
@@ -73125,19 +73125,19 @@
                                 "url": "quests/1509318566103617727/1509973031504842772_1080.mp4",
                                 "width": 1920,
                                 "height": 1080,
-                                "thumbnail": "quests/1509318566103617727/1509974632743043205.jpg"
+                                "thumbnail": "quests/1509318566103617727/1512211829106147398.jpg"
                             },
                             "video_low_res": {
                                 "url": "quests/1509318566103617727/1509973031504842772_720.mp4",
                                 "width": 1920,
                                 "height": 1080,
-                                "thumbnail": "quests/1509318566103617727/1509974632743043205.jpg"
+                                "thumbnail": "quests/1509318566103617727/1512211829106147398.jpg"
                             },
                             "video_hls": {
                                 "url": "quests/1509318566103617727/1509973031504842772.m3u8",
                                 "width": 1920,
                                 "height": 1080,
-                                "thumbnail": "quests/1509318566103617727/1509974632743043205.jpg"
+                                "thumbnail": "quests/1509318566103617727/1512211829106147398.jpg"
                             }
                         },
                         "messages": {
@@ -73152,19 +73152,19 @@
                                 "url": "quests/1509318566103617727/1509973031127355585_1080.mp4",
                                 "width": 1080,
                                 "height": 1920,
-                                "thumbnail": "quests/1509318566103617727/1509974632743043205.jpg"
+                                "thumbnail": "quests/1509318566103617727/1512211829106147398.jpg"
                             },
                             "video_low_res": {
                                 "url": "quests/1509318566103617727/1509973031127355585_720.mp4",
                                 "width": 1080,
                                 "height": 1920,
-                                "thumbnail": "quests/1509318566103617727/1509974632743043205.jpg"
+                                "thumbnail": "quests/1509318566103617727/1512211829106147398.jpg"
                             },
                             "video_hls": {
                                 "url": "quests/1509318566103617727/1509973031127355585.m3u8",
                                 "width": 1080,
                                 "height": 1920,
-                                "thumbnail": "quests/1509318566103617727/1509974632743043205.jpg"
+                                "thumbnail": "quests/1509318566103617727/1512211829106147398.jpg"
                             }
                         },
                         "messages": {
@@ -73200,7 +73200,7 @@
             "cta_config": {
                 "link": "http://www.mastersoftheuniversemovie.ca/",
                 "button_label": "Get Tickets",
-                "subtitle": "In Theatres Friday"
+                "subtitle": "Now Playing"
             }
         }
     },
@@ -74486,6 +74486,216 @@
                 "link": "https://www.odysseymovie.ca/",
                 "button_label": "Get Tickets",
                 "subtitle": "A film by Christopher Nolan. In theatres 7 17 26."
+            }
+        }
+    },
+    {
+        "id": "1511092913403203744",
+        "config": {
+            "id": "1511092913403203744",
+            "config_version": 2,
+            "starts_at": "2026-06-04T17:00:00+00:00",
+            "expires_at": "2026-06-17T00:00:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://game.ea.com/redirect?campaignName=FC26_UA_US_EA_SOC_DIS_WC-INCR-AZ&caudience=C3-FC-COMPETITOR&ccreative=S-NATPRIDE&caudienceid=1511092913403203746",
+                "id": "1421154726023532544",
+                "name": "EA SPORTS FC 26"
+            },
+            "assets": {
+                "hero": "quests/1511092913403203744/1512132993739919551.jpg",
+                "hero_video": null,
+                "quest_bar_hero_blurhash": "0PcJJISGiXeSiHeViG+GcEppBw==",
+                "quest_bar_hero": "quests/1511092913403203744/1512117674002616460.jpg",
+                "quest_bar_hero_video": null,
+                "game_tile": "1511830050398539857.png",
+                "logotype": "1511830049290981416.png",
+                "game_tile_light": "quests/1511092913403203744/1511813589311295488.png",
+                "game_tile_dark": "quests/1511092913403203744/1511830016080609441.png",
+                "logotype_light": "quests/1511092913403203744/1511813589210759269.png",
+                "logotype_dark": "quests/1511092913403203744/1511830016101580860.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "EAFC x The World's Game",
+                "game_title": "EA Sports FC 26",
+                "game_publisher": "Electronic Arts"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1421154726023532544"
+                            }
+                        ]
+                    },
+                    "PLAY_ON_XBOX": {
+                        "type": "PLAY_ON_XBOX",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1421154726023532544"
+                            }
+                        ],
+                        "external_ids": [
+                            "1909324253"
+                        ]
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "type": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1421154726023532544"
+                            }
+                        ],
+                        "external_ids": [
+                            "CUSA52342_00",
+                            "PPSA27360_00"
+                        ]
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 Orbs",
+                            "name_with_article": "700 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 700,
+                        "premium_orb_quantity": null
+                    }
+                ],
+                "rewards_expire_at": "2026-07-17T00:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://game.ea.com/redirect?campaignName=FC26_UA_US_EA_SOC_DIS_WC-INCR-AZ&caudience=C3-FC-COMPETITOR&ccreative=S-NATPRIDE&caudienceid=1511092913403203746",
+                "button_label": "Play Now"
+            }
+        }
+    },
+    {
+        "id": "1511089574988873969",
+        "config": {
+            "id": "1511089574988873969",
+            "config_version": 2,
+            "starts_at": "2026-06-04T17:00:00+00:00",
+            "expires_at": "2026-06-17T00:00:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://game.ea.com/redirect?campaignName=FC26_UA_US_EA_SOC_DIS_WC&caudience=C3-FC-COMPETITOR&ccreative=S-NATPRIDE&caudienceid=1511089574988873971",
+                "id": "1421154726023532544",
+                "name": "EA SPORTS FC 26"
+            },
+            "assets": {
+                "hero": "quests/1511089574988873969/1512117569438617721.jpg",
+                "hero_video": null,
+                "quest_bar_hero_blurhash": "k+cJIoSHeIiAdrh5loBbawg=",
+                "quest_bar_hero": "quests/1511089574988873969/1512132919752261774.jpg",
+                "quest_bar_hero_video": null,
+                "game_tile": "1511829977690275840.png",
+                "logotype": "1511829976259887135.png",
+                "game_tile_light": "quests/1511089574988873969/1511798841245171782.png",
+                "game_tile_dark": "quests/1511089574988873969/1511829847071260774.png",
+                "logotype_light": "quests/1511089574988873969/1511798841236525206.png",
+                "logotype_dark": "quests/1511089574988873969/1511829847092232413.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "EAFC x The World's Game",
+                "game_title": "EA Sports FC 26",
+                "game_publisher": "Electronic Arts"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1421154726023532544"
+                            }
+                        ]
+                    },
+                    "PLAY_ON_XBOX": {
+                        "type": "PLAY_ON_XBOX",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1421154726023532544"
+                            }
+                        ],
+                        "external_ids": [
+                            "1909324253"
+                        ]
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "type": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1421154726023532544"
+                            }
+                        ],
+                        "external_ids": [
+                            "PPSA27360_00",
+                            "CUSA52342_00"
+                        ]
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 Orbs",
+                            "name_with_article": "700 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 700,
+                        "premium_orb_quantity": null
+                    }
+                ],
+                "rewards_expire_at": "2026-07-17T00:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://game.ea.com/redirect?campaignName=FC26_UA_US_EA_SOC_DIS_WC&caudience=C3-FC-COMPETITOR&ccreative=S-NATPRIDE&caudienceid=1511089574988873971",
+                "button_label": "Play Now"
             }
         }
     }
