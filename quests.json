@@ -75346,5 +75346,89 @@
         "targeted_content": [],
         "preview": false,
         "traffic_metadata_raw": "EAIYAQ=="
+    },
+    {
+        "id": "1511144932533076080",
+        "config": {
+            "id": "1511144932533076080",
+            "config_version": 2,
+            "starts_at": "2026-06-06T17:00:00+00:00",
+            "expires_at": "2026-06-17T00:00:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://www.roblox.com/games/5938036553/FRONTLINES&gsrbx=1",
+                "id": "363445589247131668",
+                "name": "Roblox"
+            },
+            "assets": {
+                "hero": "quests/1511144932533076080/1512189336559423710.jpg",
+                "hero_video": "quests/1511144932533076080/1512189471398035607.mp4",
+                "quest_bar_hero_blurhash": "FggGDIL4l3etpWiEVnvAaAV7Rg==",
+                "quest_bar_hero": "quests/1511144932533076080/1512190023808716903.jpg",
+                "quest_bar_hero_video": "quests/1511144932533076080/1512189471398035607.mp4",
+                "game_tile": "1512190088405057648.png",
+                "logotype": "1512190087440629810.png",
+                "game_tile_light": "quests/1511144932533076080/1512189491690078299.png",
+                "game_tile_dark": "quests/1511144932533076080/1512189717347700947.png",
+                "logotype_light": "quests/1511144932533076080/1512189492356710430.png",
+                "logotype_dark": "quests/1511144932533076080/1512189492319227984.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "ROBLOX: FRONTLINES",
+                "game_title": "Frontlines",
+                "game_publisher": "Roblox"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "363445589247131668"
+                            }
+                        ]
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 Orbs",
+                            "name_with_article": "700 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 700,
+                        "premium_orb_quantity": 840
+                    }
+                ],
+                "rewards_expire_at": "2026-07-17T00:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://www.roblox.com/games/5938036553/FRONTLINES&gsrbx=1",
+                "button_label": "Get Game"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false,
+        "traffic_metadata_raw": "EAIYAQ=="
     }
 ]
