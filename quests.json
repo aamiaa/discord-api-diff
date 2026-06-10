@@ -76799,5 +76799,119 @@
         "targeted_content": [],
         "preview": false,
         "traffic_metadata_raw": "EAIYAQ=="
+    },
+    {
+        "id": "1509951017167618078",
+        "config": {
+            "id": "1509951017167618078",
+            "config_version": 2,
+            "starts_at": "2026-06-10T17:00:00+00:00",
+            "expires_at": "2026-06-17T00:00:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://app.adjust.com/20nmb944?redirect=https%3A%2F%2Fstore.steampowered.com%2Fapp%2F1449850%2FYuGiOh_Master_Duel%2F",
+                "id": "1140238527980916757",
+                "name": "Yu-Gi-Oh! Master Duel"
+            },
+            "assets": {
+                "hero": "quests/1509951017167618078/1511759494760108063.jpg",
+                "quest_bar_hero_blurhash": "IPcNLIQnZ3mAiHh0eIcFi/SDcw==",
+                "quest_bar_hero": "quests/1509951017167618078/1511759494718292069.jpg",
+                "game_tile": "1514312923877740646.png",
+                "logotype": "1511759706169938003.png",
+                "game_tile_light": "quests/1509951017167618078/1514312884916846714.png",
+                "game_tile_dark": "quests/1509951017167618078/1514312884916846714.png",
+                "logotype_light": "quests/1509951017167618078/1511759629489668147.png",
+                "logotype_dark": "quests/1509951017167618078/1511759629489668147.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Blue-Eyes White Dragon",
+                "game_title": "Yu-Gi-Oh! MASTER DUEL",
+                "game_publisher": "Konami Digital Entertainment"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1140238527980916757"
+                            }
+                        ]
+                    },
+                    "PLAY_ON_XBOX": {
+                        "type": "PLAY_ON_XBOX",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1140238527980916757"
+                            }
+                        ],
+                        "external_ids": [
+                            "2053555152"
+                        ]
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "type": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1140238527980916757"
+                            }
+                        ],
+                        "external_ids": [
+                            "PPSA02503_00",
+                            "CUSA24658_00",
+                            "CUSA24659_00",
+                            "CUSA24660_00",
+                            "PPSA02504_00",
+                            "PPSA02502_00"
+                        ]
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 3,
+                        "sku_id": "1511762112647794738",
+                        "asset": "quests/1509951017167618078/1513968481652052049.mp4",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "Blue-Eyes White Dragon Avatar Decoration",
+                            "name_with_article": "a Blue-Eyes White Dragon Avatar Decoration",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "expires_at": "2026-08-16T00:00:00+00:00",
+                        "expires_at_premium": null,
+                        "expiration_mode": 3
+                    }
+                ],
+                "rewards_expire_at": "2026-07-17T00:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://app.adjust.com/20nmb944?redirect=https%3A%2F%2Fstore.steampowered.com%2Fapp%2F1449850%2FYuGiOh_Master_Duel%2F",
+                "button_label": "Play Now"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false,
+        "traffic_metadata_raw": "EAIYAQ=="
     }
 ]
