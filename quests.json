@@ -77178,5 +77178,294 @@
                 "subtitle": "In Cinemas June 25"
             }
         }
+    },
+    {
+        "id": "1514104077842387115",
+        "config": {
+            "id": "1514104077842387115",
+            "config_version": 2,
+            "starts_at": "2026-06-15T07:00:00+00:00",
+            "expires_at": "2026-06-25T06:59:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://store.steampowered.com/app/3564740/480?utm_source=DiscordOrbs",
+                "id": "1437509662303059998",
+                "name": "Where Winds Meet"
+            },
+            "assets": {
+                "hero": "quests/1514104077842387115/1514147492239900802.jpg",
+                "hero_video": "quests/1514104077842387115/1514147492327850055.mp4",
+                "quest_bar_hero_blurhash": "DhkGFIIHRad3dpmAd5gLWcCgJA==",
+                "quest_bar_hero": "quests/1514104077842387115/1514147492105683049.jpg",
+                "quest_bar_hero_video": "quests/1514104077842387115/1515024780489920612.mp4",
+                "game_tile": "1514147663178760222.png",
+                "logotype": "1514147660339085412.png",
+                "game_tile_light": "quests/1514104077842387115/1514147195304149173.png",
+                "game_tile_dark": "quests/1514104077842387115/1514147195304149173.png",
+                "logotype_light": "quests/1514104077842387115/1514147254355623996.png",
+                "logotype_dark": "quests/1514104077842387115/1514147254355623996.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Where Winds Meet Ver 1.7 Imperial Palace",
+                "game_title": "Where Winds Meet",
+                "game_publisher": "NETEASE"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1437509662303059998"
+                            }
+                        ]
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "type": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1437509662303059998"
+                            }
+                        ],
+                        "external_ids": [
+                            "PPSA23355_00"
+                        ]
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 3,
+                        "sku_id": "1514488122937966682",
+                        "asset": "quests/1514104077842387115/1514488452349952030.mp4",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "Imperial Palace Avatar Decoration",
+                            "name_with_article": "an Imperial Palace Avatar Decoration",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "expires_at": "2026-08-25T00:00:00+00:00",
+                        "expires_at_premium": null,
+                        "expiration_mode": 3
+                    }
+                ],
+                "rewards_expire_at": "2026-07-25T06:59:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://store.steampowered.com/app/3564740/480?utm_source=DiscordOrbs",
+                "button_label": "Play Now"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false,
+        "traffic_metadata_raw": "EAIYAQ=="
+    },
+    {
+        "id": "1514107091491491930",
+        "config": {
+            "id": "1514107091491491930",
+            "config_version": 2,
+            "starts_at": "2026-06-15T07:00:00+00:00",
+            "expires_at": "2026-06-25T06:59:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://store.steampowered.com/app/3564740/480?utm_source=DiscordOrbs",
+                "id": "1437509662303059998",
+                "name": "Where Winds Meet"
+            },
+            "assets": {
+                "hero": "quests/1514107091491491930/1514114015402524803.jpg",
+                "hero_video": "quests/1514107091491491930/1514113379286126734.mp4",
+                "quest_bar_hero_blurhash": "DhkGFIIHRad3dpmAd5gLWcCgJA==",
+                "quest_bar_hero": "quests/1514107091491491930/1514113863979634760.jpg",
+                "quest_bar_hero_video": "quests/1514107091491491930/1515025069376798910.mp4",
+                "game_tile": "1514112520032358470.png",
+                "logotype": "1514112512679874701.png",
+                "game_tile_light": "quests/1514107091491491930/1514111687379128481.png",
+                "game_tile_dark": "quests/1514107091491491930/1514111687379128481.png",
+                "logotype_light": "quests/1514107091491491930/1514112242868686969.png",
+                "logotype_dark": "quests/1514107091491491930/1514112242868686969.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Where Winds Meet Ver 1.7 Imperial Palace",
+                "game_title": "Where Winds Meet",
+                "game_publisher": "NETEASE"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1437509662303059998"
+                            }
+                        ]
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "type": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1437509662303059998"
+                            }
+                        ],
+                        "external_ids": [
+                            "PPSA23355_00"
+                        ]
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 3,
+                        "sku_id": "1514488122937966682",
+                        "asset": "quests/1514107091491491930/1514488297466888222.mp4",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "Imperial Palace Avatar Decoration",
+                            "name_with_article": "an Imperial Palace Avatar Decoration",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "expires_at": "2026-08-25T00:00:00+00:00",
+                        "expires_at_premium": null,
+                        "expiration_mode": 3
+                    }
+                ],
+                "rewards_expire_at": "2026-07-25T06:59:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://store.steampowered.com/app/3564740/480?utm_source=DiscordOrbs",
+                "button_label": "Play Now"
+            }
+        }
+    },
+    {
+        "id": "1514325405803483258",
+        "config": {
+            "id": "1514325405803483258",
+            "config_version": 2,
+            "starts_at": "2026-06-15T07:00:00+00:00",
+            "expires_at": "2026-06-25T06:59:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://store.steampowered.com/app/3564740/480?utm_source=DiscordOrbs",
+                "id": "1437509662303059998",
+                "name": "Where Winds Meet"
+            },
+            "assets": {
+                "hero": "quests/1514325405803483258/1514327107927281716.jpg",
+                "hero_video": "quests/1514325405803483258/1514327194996834384.mp4",
+                "quest_bar_hero_blurhash": "RxgGFII4R5d3eXZwiYlYh4B1CA==",
+                "quest_bar_hero": "quests/1514325405803483258/1514326909973168190.jpg",
+                "quest_bar_hero_video": "quests/1514325405803483258/1514327195022131200.mp4",
+                "game_tile": "1514147663178760222.png",
+                "logotype": "1514147660339085412.png",
+                "game_tile_light": "quests/1514104077842387115/1514147195304149173.png",
+                "game_tile_dark": "quests/1514104077842387115/1514147195304149173.png",
+                "logotype_light": "quests/1514104077842387115/1514147254355623996.png",
+                "logotype_dark": "quests/1514104077842387115/1514147254355623996.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Where Winds Meet Ver 1.7 Imperial Palace",
+                "game_title": "Where Winds Meet",
+                "game_publisher": "NETEASE"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1437509662303059998"
+                            }
+                        ]
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "type": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1437509662303059998"
+                            }
+                        ],
+                        "external_ids": [
+                            "PPSA23355_00"
+                        ]
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 3,
+                        "sku_id": "1514488122937966682",
+                        "asset": "quests/1514104077842387115/1514488452349952030.mp4",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "Imperial Palace Avatar Decoration",
+                            "name_with_article": "an Imperial Palace Avatar Decoration",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "expires_at": "2026-08-25T00:00:00+00:00",
+                        "expires_at_premium": null,
+                        "expiration_mode": 3
+                    }
+                ],
+                "rewards_expire_at": "2026-07-25T06:59:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://store.steampowered.com/app/3564740/480?utm_source=DiscordOrbs",
+                "button_label": "Play Now"
+            }
+        }
     }
 ]
