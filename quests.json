@@ -73824,10 +73824,10 @@
                 "name": "Discord"
             },
             "assets": {
-                "hero": "quests/1509683146239512726/1510024772099244154.jpg",
+                "hero": "quests/1509683146239512726/1516120266143699046.jpg",
                 "hero_video": "quests/1509683146239512726/1511382083510075472.mp4",
-                "quest_bar_hero_blurhash": "YtgFGojCt6iAYpWYaISABgk=",
-                "quest_bar_hero": "quests/1509683146239512726/1510024772099244154.jpg",
+                "quest_bar_hero_blurhash": "mscJJIYBuFd5iHiIaotGkHMFSg==",
+                "quest_bar_hero": "quests/1509683146239512726/1516122351278751866.jpg",
                 "quest_bar_hero_video": "quests/1509683146239512726/1511382083510075472.mp4",
                 "game_tile": "1510024971651387603.png",
                 "logotype": "1510024970380771578.png",
@@ -76816,7 +76816,7 @@
                 "name": "Yu-Gi-Oh! Master Duel"
             },
             "assets": {
-                "hero": "quests/1509951017167618078/1511759494760108063.jpg",
+                "hero": "quests/1509951017167618078/1516131571680153670.jpg",
                 "quest_bar_hero_blurhash": "IPcNLIQnZ3mAiHh0eIcFi/SDcw==",
                 "quest_bar_hero": "quests/1509951017167618078/1511759494718292069.jpg",
                 "game_tile": "1514312923877740646.png",
@@ -76867,12 +76867,12 @@
                             }
                         ],
                         "external_ids": [
-                            "CUSA24658_00",
-                            "CUSA24659_00",
+                            "PPSA02503_00",
                             "PPSA02504_00",
                             "PPSA02502_00",
+                            "CUSA24658_00",
                             "CUSA24660_00",
-                            "PPSA02503_00"
+                            "CUSA24659_00"
                         ]
                     }
                 },
@@ -77467,5 +77467,303 @@
                 "button_label": "Play Now"
             }
         }
+    },
+    {
+        "id": "1511835214585008128",
+        "config": {
+            "id": "1511835214585008128",
+            "config_version": 2,
+            "starts_at": "2026-06-15T17:00:00+00:00",
+            "expires_at": "2026-06-22T00:00:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://store.steampowered.com/app/2569760?utm_source=discord&utm_medium=playquest&utm_campaign=nextfest_june26",
+                "id": "1515074184961724517",
+                "name": "The Mound: Omen of Cthulhu"
+            },
+            "assets": {
+                "hero": "quests/1511835214585008128/1513969535492030634.jpg",
+                "hero_video": "quests/1511835214585008128/1513969642518085792.mp4",
+                "quest_bar_hero_blurhash": "ThgOBIAliYdvlHiIh4dTf2Q/Cg==",
+                "quest_bar_hero": "quests/1511835214585008128/1513965900624167143.jpg",
+                "quest_bar_hero_video": "quests/1511835214585008128/1513969594757415024.mp4",
+                "game_tile": "1513969876174114937.png",
+                "logotype": "1514296326194597938.png",
+                "game_tile_light": "quests/1511835214585008128/1513965765915709722.png",
+                "game_tile_dark": "quests/1511835214585008128/1513965765915709722.png",
+                "logotype_light": "quests/1511835214585008128/1514296199484538961.png",
+                "logotype_dark": "quests/1511835214585008128/1514296151124476127.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "The Mound: Omen of Cthulhu FREE DEMO",
+                "game_title": "The Mound: Omen of Cthulhu FREE DEMO",
+                "game_publisher": "Nacon"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1515074184961724517"
+                            }
+                        ]
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 Orbs",
+                            "name_with_article": "700 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 700,
+                        "premium_orb_quantity": 840
+                    }
+                ],
+                "rewards_expire_at": "2026-07-22T00:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://store.steampowered.com/app/2569760?utm_source=discord&utm_medium=playquest&utm_campaign=nextfest_june26",
+                "button_label": "Play Now"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false,
+        "traffic_metadata_raw": "EAIYAQ=="
+    },
+    {
+        "id": "1514298167900901386",
+        "config": {
+            "id": "1514298167900901386",
+            "config_version": 2,
+            "starts_at": "2026-06-15T17:00:00+00:00",
+            "expires_at": "2026-06-23T00:00:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://store.steampowered.com/app/3874040?utm_source=discord&utm_campaign=certifiablyingame&utm_medium=steammedium&utm_content=playable&utm_term=pcgaming",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1514298167900901386/1514362482440011968.jpg",
+                "hero_video": "quests/1514298167900901386/1514362482402131988.mp4",
+                "quest_bar_hero_blurhash": "UecJCoIgepeGaVeLf7n7t6k=",
+                "quest_bar_hero": "quests/1514298167900901386/1514362482440011968.jpg",
+                "quest_bar_hero_video": "quests/1514298167900901386/1514362482402131988.mp4",
+                "game_tile": "1514363345522917417.png",
+                "logotype": "1514363344654565498.png",
+                "game_tile_light": "quests/1514298167900901386/1514362483002052761.png",
+                "game_tile_dark": "quests/1514298167900901386/1514362483002052761.png",
+                "logotype_light": "quests/1514298167900901386/1514362482440011969.png",
+                "logotype_dark": "quests/1514298167900901386/1514362483002052760.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Star Trek Warp",
+                "game_title": "Star Trek: Warp",
+                "game_publisher": "Plarium"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 59,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1514298167900901386/1514362482435817715_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1514298167900901386/1514362482901123164.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1514298167900901386/1514362482435817715_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1514298167900901386/1514362482901123164.jpg"
+                            },
+                            "video_hls": {
+                                "url": "quests/1514298167900901386/1514362482435817715.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1514298167900901386/1514362482901123164.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 28,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1514298167900901386/1514362482372771944_1080.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1514298167900901386/1514362482901123164.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1514298167900901386/1514362482372771944_720.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1514298167900901386/1514362482901123164.jpg"
+                            },
+                            "video_hls": {
+                                "url": "quests/1514298167900901386/1514362482372771944.m3u8",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1514298167900901386/1514362482901123164.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 3,
+                        "sku_id": "1514721229658001570",
+                        "asset": "quests/1514298167900901386/1515006972628439050.mp4",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "Star Trek Warp Avatar Decoration",
+                            "name_with_article": "a Star Trek Warp Avatar Decoration",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "expires_at": "2026-08-15T00:00:00+00:00",
+                        "expires_at_premium": null,
+                        "expiration_mode": 1
+                    }
+                ],
+                "rewards_expire_at": "2026-07-23T00:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://store.steampowered.com/app/3874040?utm_source=discord&utm_campaign=certifiablyingame&utm_medium=steammedium&utm_content=playable&utm_term=pcgaming",
+                "button_label": "Wishlist Now"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false,
+        "traffic_metadata_raw": "EAIYAQ=="
+    },
+    {
+        "id": "1511347416199336096",
+        "config": {
+            "id": "1511347416199336096",
+            "config_version": 2,
+            "starts_at": "2026-06-15T17:00:00+00:00",
+            "expires_at": "2026-06-22T00:00:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://gsght.com/c/0r2pve",
+                "id": "1428180244241584269",
+                "name": "Enginefall"
+            },
+            "assets": {
+                "hero": "quests/1511347416199336096/1515144780265291807.jpg",
+                "quest_bar_hero_blurhash": "FxkOJIpMZmh2mHdQl3dacHQGdg==",
+                "quest_bar_hero": "quests/1511347416199336096/1515144780252708987.jpg",
+                "game_tile": "1515144902021877850.png",
+                "logotype": "1515144901065445496.png",
+                "game_tile_light": "quests/1511347416199336096/1515144780118757456.png",
+                "game_tile_dark": "quests/1511347416199336096/1515144780118757456.png",
+                "logotype_light": "quests/1511347416199336096/1515144780290457649.png",
+                "logotype_dark": "quests/1511347416199336096/1515144780089393162.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Play Enginefall Next Fest Demo",
+                "game_title": "Enginefall Next Fest Demo",
+                "game_publisher": "Red Rover Interactive"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1428180244241584269"
+                            }
+                        ]
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 Orbs",
+                            "name_with_article": "700 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 700,
+                        "premium_orb_quantity": 840
+                    }
+                ],
+                "rewards_expire_at": "2026-07-22T00:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://gsght.com/c/0r2pve",
+                "button_label": "Get Game"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false,
+        "traffic_metadata_raw": "EAIYAQ=="
     }
 ]
