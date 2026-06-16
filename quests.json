@@ -77873,5 +77873,87 @@
         "targeted_content": [],
         "preview": false,
         "traffic_metadata_raw": "EAIYAQ=="
+    },
+    {
+        "id": "1515036218419576943",
+        "config": {
+            "id": "1515036218419576943",
+            "config_version": 2,
+            "starts_at": "2026-06-16T17:00:00+00:00",
+            "expires_at": "2026-06-24T00:00:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://store.steampowered.com/app/4323990/EMPULSE/",
+                "id": "1506481295700529172",
+                "name": "EMPULSE"
+            },
+            "assets": {
+                "hero": "quests/1515036218419576943/1516165450906603610.jpg",
+                "quest_bar_hero_blurhash": "KccNFISPdndcaoh7hYfKb3j+hw==",
+                "quest_bar_hero": "quests/1515036218419576943/1516165427821023364.jpg",
+                "game_tile": "1516165556787613799.png",
+                "logotype": "1516165555713867886.png",
+                "game_tile_light": "quests/1515036218419576943/1516165353766391868.png",
+                "game_tile_dark": "quests/1515036218419576943/1516165353766391868.png",
+                "logotype_light": "quests/1515036218419576943/1516165353766391867.png",
+                "logotype_dark": "quests/1515036218419576943/1516165354269835344.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "EMPULSE",
+                "game_title": "EMPULSE",
+                "game_publisher": "1047 Games"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1506481295700529172"
+                            }
+                        ]
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 Orbs",
+                            "name_with_article": "700 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 700,
+                        "premium_orb_quantity": 840
+                    }
+                ],
+                "rewards_expire_at": "2026-07-24T00:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://store.steampowered.com/app/4323990/EMPULSE/",
+                "button_label": "Get Game"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false,
+        "traffic_metadata_raw": "EAIYAQ=="
     }
 ]
