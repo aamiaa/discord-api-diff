@@ -77955,5 +77955,650 @@
         "targeted_content": [],
         "preview": false,
         "traffic_metadata_raw": "EAIYAQ=="
+    },
+    {
+        "id": "1514718506887676036",
+        "config": {
+            "id": "1514718506887676036",
+            "config_version": 2,
+            "starts_at": "2026-06-17T17:00:00+00:00",
+            "expires_at": "2026-06-24T00:00:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://www.warframe.com/?utm_medium=paid-social&utm_source=discord&utm_campaign=2026-06-DiscordJadeShadowsLaunchPlayQuest",
+                "id": "1402418586244612216",
+                "name": "Warframe"
+            },
+            "assets": {
+                "hero": "quests/1514718506887676036/1516214077829939334.jpg",
+                "hero_video": "quests/1514718506887676036/1515157943975280771_720.mp4",
+                "quest_bar_hero_blurhash": "UAgKEo5GKIh/d1R3cFsFh3Y=",
+                "quest_bar_hero": "quests/1514718506887676036/1516214077829939334.jpg",
+                "quest_bar_hero_video": "quests/1514718506887676036/1515157943975280771_720.mp4",
+                "game_tile": "1516189893498503229.png",
+                "logotype": "1516189727718641804.png",
+                "game_tile_light": "quests/1514718506887676036/1516189873982279911.png",
+                "game_tile_dark": "quests/1514718506887676036/1515157827004403824.png",
+                "logotype_light": "quests/1514718506887676036/1516189705480306809.png",
+                "logotype_dark": "quests/1514718506887676036/1515157797996859533.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Warframe Jade Shadows: Constellations",
+                "game_title": "Warframe",
+                "game_publisher": "Digital Extremes"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1402418586244612216"
+                            }
+                        ]
+                    },
+                    "PLAY_ON_XBOX": {
+                        "type": "PLAY_ON_XBOX",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1402418586244612216"
+                            }
+                        ],
+                        "external_ids": [
+                            "1482870140"
+                        ]
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "type": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1402418586244612216"
+                            }
+                        ],
+                        "external_ids": [
+                            "PPSA02323_00",
+                            "PPSA01737_00",
+                            "CUSA00080_00",
+                            "PPSA01980_00",
+                            "CUSA00106_00"
+                        ]
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 3,
+                        "sku_id": "1516169877256147175",
+                        "asset": "quests/1514718506887676036/1516170745489788979.mp4",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "Dueling Rivals Avatar Decoration",
+                            "name_with_article": "a Dueling Rivals Avatar Decoration",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "expires_at": "2026-08-24T00:00:00+00:00",
+                        "expires_at_premium": null,
+                        "expiration_mode": 3
+                    }
+                ],
+                "rewards_expire_at": "2026-07-24T00:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://www.warframe.com/?utm_medium=paid-social&utm_source=discord&utm_campaign=2026-06-DiscordJadeShadowsLaunchPlayQuest",
+                "button_label": "Play Now"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false,
+        "traffic_metadata_raw": "EAIYAQ=="
+    },
+    {
+        "id": "1515997340522123424",
+        "config": {
+            "id": "1515997340522123424",
+            "config_version": 2,
+            "starts_at": "2026-06-17T17:00:00+00:00",
+            "expires_at": "2026-06-24T00:00:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://zenless.hoyoverse.com/ua?utm_source=discord&utm_medium=discord_ua&utm_campaign=ZZZ-JP-PC-X-new-Discord-260617&hoyotrace_channel=discord_channel",
+                "id": "1257819671114289184",
+                "name": "Zenless Zone Zero"
+            },
+            "assets": {
+                "hero": "quests/1515997340522123424/1516001087331635251.jpg",
+                "quest_bar_hero_blurhash": "mPcRDIBQe2eIh3iVh4dwhgdniQ==",
+                "quest_bar_hero": "quests/1515997340522123424/1516001376772165762.jpg",
+                "quest_bar_hero_video": "quests/1515997340522123424/1516267159930798080.mp4",
+                "game_tile": "1516002213200138391.png",
+                "logotype": "1516268779389059153.png",
+                "game_tile_light": "quests/1515997340522123424/1516001088346787951.png",
+                "game_tile_dark": "quests/1515997340522123424/1516001088346787951.png",
+                "logotype_light": "quests/1515997340522123424/1516001086719131739.png",
+                "logotype_dark": "quests/1515997340522123424/1516001086719131739.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Zenless Zone Zero Version 3.0",
+                "game_title": "Zenless Zone Zero",
+                "game_publisher": "HoYoverse"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1257819671114289184"
+                            }
+                        ]
+                    },
+                    "PLAY_ON_XBOX": {
+                        "type": "PLAY_ON_XBOX",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1257819671114289184"
+                            }
+                        ],
+                        "external_ids": [
+                            "1696147865"
+                        ]
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "type": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1257819671114289184"
+                            }
+                        ],
+                        "external_ids": [
+                            "PPSA20599_00",
+                            "PPSA20549_00"
+                        ]
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 Orbs",
+                            "name_with_article": "700 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 700,
+                        "premium_orb_quantity": 840
+                    }
+                ],
+                "rewards_expire_at": "2026-07-24T00:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://zenless.hoyoverse.com/ua?utm_source=discord&utm_medium=discord_ua&utm_campaign=ZZZ-JP-PC-X-new-Discord-260617&hoyotrace_channel=discord_channel",
+                "button_label": "Play Now"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false,
+        "traffic_metadata_raw": "EAIYAQ=="
+    },
+    {
+        "id": "1516006204722122932",
+        "config": {
+            "id": "1516006204722122932",
+            "config_version": 2,
+            "starts_at": "2026-06-17T17:00:00+00:00",
+            "expires_at": "2026-06-24T00:00:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://survey.playtesthub.com/",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1516006204722122932/1516260533110575124.jpg",
+                "quest_bar_hero_blurhash": "FdcJHIRIVnZ/h4h3eXapgIcKaA==",
+                "quest_bar_hero": "quests/1516006204722122932/1516260533123420300.jpg",
+                "quest_bar_hero_video": "quests/1516006204722122932/1516260623787360319_720.mp4",
+                "game_tile": "1516259684443492362.png",
+                "logotype": "1516461915629686936.png",
+                "game_tile_light": "quests/1516006204722122932/1516257434816221334.png",
+                "game_tile_dark": "quests/1516006204722122932/1516257434816221334.png",
+                "logotype_light": "quests/1516006204722122932/1516257433339691008.png",
+                "logotype_dark": "quests/1516006204722122932/1516257434815955014.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Untitled Project - Join the Playtest",
+                "game_title": "Untitled Project",
+                "game_publisher": "Untitled Project"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 29,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1516006204722122932/1516261222444433481_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1516006204722122932/1516263781632835594.png"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1516006204722122932/1516261222444433481_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1516006204722122932/1516263781632835594.png"
+                            },
+                            "video_hls": {
+                                "url": "quests/1516006204722122932/1516261222444433481.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1516006204722122932/1516263781632835594.png"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 29,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1516006204722122932/1516261222444433481_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1516006204722122932/1516263781632835594.png"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1516006204722122932/1516261222444433481_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1516006204722122932/1516263781632835594.png"
+                            },
+                            "video_hls": {
+                                "url": "quests/1516006204722122932/1516261222444433481.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1516006204722122932/1516263781632835594.png"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "200 Orbs",
+                            "name_with_article": "200 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 200,
+                        "premium_orb_quantity": 240
+                    }
+                ],
+                "rewards_expire_at": "2026-07-24T00:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://survey.playtesthub.com/",
+                "button_label": "Apply Now",
+                "subtitle": "Limited Playtest Spots - sign up today!"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false,
+        "traffic_metadata_raw": "EAIYAQ=="
+    },
+    {
+        "id": "1514719284410978364",
+        "config": {
+            "id": "1514719284410978364",
+            "config_version": 2,
+            "starts_at": "2026-06-17T17:00:00+00:00",
+            "expires_at": "2026-07-01T00:00:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://playgoals.com/en",
+                "id": "1440130372162682961",
+                "name": "GOALS"
+            },
+            "assets": {
+                "hero": "quests/1514719284410978364/1516821317662281769.jpg",
+                "quest_bar_hero_blurhash": "kOgJJIRneZmAiGmIeHdXgFn1SA==",
+                "quest_bar_hero": "quests/1514719284410978364/1516821293016682528.jpg",
+                "game_tile": "1516479784362971378.png",
+                "logotype": "1516479783398150165.png",
+                "game_tile_light": "quests/1514719284410978364/1516479573855047740.png",
+                "game_tile_dark": "quests/1514719284410978364/1516479573855047740.png",
+                "logotype_light": "quests/1514719284410978364/1516479573364314212.png",
+                "logotype_dark": "quests/1514719284410978364/1516479573364314212.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "GOALS",
+                "game_title": "GOALS",
+                "game_publisher": "GOALS"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1440130372162682961"
+                            }
+                        ]
+                    },
+                    "PLAY_ON_XBOX": {
+                        "type": "PLAY_ON_XBOX",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1440130372162682961"
+                            }
+                        ],
+                        "external_ids": [
+                            "1631010499"
+                        ]
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "type": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1440130372162682961"
+                            }
+                        ],
+                        "external_ids": [
+                            "PPSA26339_00"
+                        ]
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 Orbs",
+                            "name_with_article": "700 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 700,
+                        "premium_orb_quantity": 840
+                    }
+                ],
+                "rewards_expire_at": "2026-07-31T00:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://playgoals.com/en",
+                "button_label": "Play Now"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false,
+        "traffic_metadata_raw": "EAIYAQ=="
+    },
+    {
+        "id": "1516189260724830278",
+        "config": {
+            "id": "1516189260724830278",
+            "config_version": 2,
+            "starts_at": "2026-06-17T16:00:00+00:00",
+            "expires_at": "2026-06-28T00:00:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://www.roblox.com/games/130739873848552/Basketball-Zero&gsrbx=1",
+                "id": "363445589247131668",
+                "name": "Roblox"
+            },
+            "assets": {
+                "hero": "quests/1516189260724830278/1516190811971391668.jpg",
+                "hero_video": "quests/1516189260724830278/1516190675413106768_720.mp4",
+                "quest_bar_hero_blurhash": "FygKDITemoqjeFmimE8IZ9v1ug==",
+                "quest_bar_hero": "quests/1516189260724830278/1516829298655367350.jpg",
+                "quest_bar_hero_video": "quests/1516189260724830278/1516190675413106768_720.mp4",
+                "game_tile": "1516190844988821604.png",
+                "logotype": "1516190843856355358.png",
+                "game_tile_light": "quests/1516189260724830278/1516190315516793004.png",
+                "game_tile_dark": "quests/1516189260724830278/1516190315516793004.png",
+                "logotype_light": "quests/1516189260724830278/1516190402435219496.png",
+                "logotype_dark": "quests/1516189260724830278/1516190402435219496.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Basketball Zero",
+                "game_title": "Basketball Zero on Roblox",
+                "game_publisher": "ROBLOX"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "363445589247131668"
+                            }
+                        ]
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 Orbs",
+                            "name_with_article": "700 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 700,
+                        "premium_orb_quantity": 840
+                    }
+                ],
+                "rewards_expire_at": "2026-07-28T00:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://www.roblox.com/games/130739873848552/Basketball-Zero&gsrbx=1",
+                "button_label": "Get Game"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false,
+        "traffic_metadata_raw": "EAIYAQ=="
+    },
+    {
+        "id": "1514724833353797733",
+        "config": {
+            "id": "1514724833353797733",
+            "config_version": 2,
+            "starts_at": "2026-06-17T17:00:00+00:00",
+            "expires_at": "2026-07-10T00:00:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://game.ea.com/redirect?campaignName=FC26_UA_BR_EA_SOC_DIS_WC&caudience=C3-FC-COMPETITOR&ccreative=S-NATPRIDE&caudienceid=1514724833353797735",
+                "id": "1421154726023532544",
+                "name": "EA SPORTS FC 26"
+            },
+            "assets": {
+                "hero": "quests/1514724833353797733/1516254716265234492.jpg",
+                "quest_bar_hero_blurhash": "0PcJJISGiXeSiHeViG+GcEppBw==",
+                "quest_bar_hero": "quests/1514724833353797733/1516254684602564628.jpg",
+                "game_tile": "1516255240310099968.png",
+                "logotype": "1516255239320375436.png",
+                "game_tile_light": "quests/1514724833353797733/1516254379261431839.png",
+                "game_tile_dark": "quests/1514724833353797733/1516255194067894272.png",
+                "logotype_light": "quests/1514724833353797733/1516254379227746434.png",
+                "logotype_dark": "quests/1514724833353797733/1516254379190259723.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "EAFC x Jogo de Todo Mundo",
+                "game_title": "EA Sports FC 26",
+                "game_publisher": "Electronic Arts"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1421154726023532544"
+                            }
+                        ]
+                    },
+                    "PLAY_ON_XBOX": {
+                        "type": "PLAY_ON_XBOX",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1421154726023532544"
+                            }
+                        ],
+                        "external_ids": [
+                            "1909324253"
+                        ]
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "type": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1421154726023532544"
+                            }
+                        ],
+                        "external_ids": [
+                            "PPSA27360_00",
+                            "CUSA52342_00"
+                        ]
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 Orbs",
+                            "name_with_article": "700 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 700,
+                        "premium_orb_quantity": null
+                    }
+                ],
+                "rewards_expire_at": "2026-08-09T00:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://game.ea.com/redirect?campaignName=FC26_UA_BR_EA_SOC_DIS_WC&caudience=C3-FC-COMPETITOR&ccreative=S-NATPRIDE&caudienceid=1514724833353797735",
+                "button_label": "Play Now"
+            }
+        }
     }
 ]
