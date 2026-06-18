@@ -78697,5 +78697,98 @@
         "targeted_content": [],
         "preview": false,
         "traffic_metadata_raw": "EAIYAQ=="
+    },
+    {
+        "id": "1484230623521538189",
+        "config": {
+            "id": "1484230623521538189",
+            "config_version": 2,
+            "starts_at": "2026-06-18T16:00:36+00:00",
+            "expires_at": "2026-06-29T00:00:36+00:00",
+            "features": [
+                8,
+                27,
+                36,
+                15
+            ],
+            "application": {
+                "link": "https://playvalorant.com/?utm_source=discord&utm_medium=paid&utm_campaign=VALAct4LaunchMission",
+                "id": "1483422685630300300",
+                "name": "VALORANT - Sage's Quarters"
+            },
+            "assets": {
+                "hero": "quests/1484230623521538189/1515068087185965187.jpg",
+                "hero_video": "quests/1484230623521538189/1515068087236300981.mp4",
+                "quest_bar_hero_blurhash": "2vYFFIhGk1egWXhjqWcGlvp1mA==",
+                "quest_bar_hero": "quests/1484230623521538189/1515068087177711807.jpg",
+                "quest_bar_hero_video": "quests/1484230623521538189/1516184936489418854_720.mp4",
+                "game_tile": "1515068366212300840.png",
+                "logotype": "1515068365209735168.png",
+                "game_tile_light": "quests/1484230623521538189/1515068128311382318.png",
+                "game_tile_dark": "quests/1484230623521538189/1515068128311382318.png",
+                "logotype_light": "quests/1484230623521538189/1515068128831213712.png",
+                "logotype_dark": "quests/1484230623521538189/1515068128831213712.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "VALORANT Sage's New Map",
+                "game_title": "VALORANT",
+                "game_publisher": "Riot Games"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "ACHIEVEMENT_IN_ACTIVITY": {
+                        "type": "ACHIEVEMENT_IN_ACTIVITY",
+                        "target": 3,
+                        "applications": [
+                            {
+                                "id": "1483422685630300300"
+                            }
+                        ],
+                        "event_name": "progress",
+                        "messages": {
+                            "task_title": "Explore Sage's Room in the new Map",
+                            "task_description": "Journey back to the place where Sage's story first began in the mountains of China."
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 Orbs",
+                            "name_with_article": "700 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 700,
+                        "premium_orb_quantity": 840
+                    }
+                ],
+                "rewards_expire_at": "2026-07-29T00:00:36+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://playvalorant.com/?utm_source=discord&utm_medium=paid&utm_campaign=VALAct4LaunchMission",
+                "button_label": "Play Now",
+                "subtitle": "VALORANT's New Map"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false,
+        "traffic_metadata_raw": "EAIYAQ=="
     }
 ]
