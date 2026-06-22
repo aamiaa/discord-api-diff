@@ -75682,7 +75682,7 @@
             "id": "1511136883525160970",
             "config_version": 2,
             "starts_at": "2026-06-08T17:00:00+00:00",
-            "expires_at": "2026-06-08T22:58:00+00:00",
+            "expires_at": "2026-07-06T00:00:00+00:00",
             "features": [
                 15
             ],
@@ -75762,7 +75762,7 @@
                         "premium_orb_quantity": 240
                     }
                 ],
-                "rewards_expire_at": "2026-07-08T22:58:00+00:00",
+                "rewards_expire_at": "2026-08-05T00:00:00+00:00",
                 "platforms": [
                     0
                 ]
@@ -78185,7 +78185,7 @@
             "id": "1516006204722122932",
             "config_version": 2,
             "starts_at": "2026-06-17T17:00:00+00:00",
-            "expires_at": "2026-06-24T00:00:00+00:00",
+            "expires_at": "2026-07-01T00:00:00+00:00",
             "features": [
                 15
             ],
@@ -78212,7 +78212,7 @@
             },
             "messages": {
                 "quest_name": "Confidential Project - Join the Playtest",
-                "game_title": "Untitled Project",
+                "game_title": "Confidential Project",
                 "game_publisher": "Untitled Project"
             },
             "task_config_v2": {
@@ -78291,7 +78291,7 @@
                         "premium_orb_quantity": 240
                     }
                 ],
-                "rewards_expire_at": "2026-07-24T00:00:00+00:00",
+                "rewards_expire_at": "2026-07-31T00:00:00+00:00",
                 "platforms": [
                     0
                 ]
@@ -80555,6 +80555,105 @@
             "share_policy": "not_shareable",
             "cta_config": {
                 "link": "https://tv.apple.com/us/show/silo/umc.cmc.3yksgc857px0k0rqe5zd4jice?itscg=MC_50000&itsct=atvp_brand_omd&mttn3pid=Discord&mttnagencyid=a5e&mttncc=US&mttnsiteid=143238&mttnsubad=07029942",
+                "button_label": "Learn More",
+                "subtitle": "New Season July 3 on Apple TV"
+            }
+        }
+    },
+    {
+        "id": "1517295523512455208",
+        "config": {
+            "id": "1517295523512455208",
+            "config_version": 2,
+            "starts_at": "2026-06-22T20:00:00+00:00",
+            "expires_at": "2026-07-03T00:59:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://tv.apple.com/ca/show/silo/umc.cmc.3yksgc857px0k0rqe5zd4jice?itscg=MC_10000&itsct=atvp_brand_omd&mttn3pid=innovid&mttnagencyid=a5e&mttncc=CA&mttnsiteid=143238&mttnsubad=07056041",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1517295523512455208/1517297314434121778.jpg",
+                "hero_video": "quests/1517295523512455208/1517299926793719908_720.mp4",
+                "quest_bar_hero_blurhash": "lOgNFIRgZnhrd3eFiHYkT/W2Zw==",
+                "quest_bar_hero": "quests/1517295523512455208/1517299556923084810.jpg",
+                "quest_bar_hero_video": "quests/1517295523512455208/1517299926793719908_720.mp4",
+                "game_tile": "1517300507721465856.jpg",
+                "logotype": "1517300506647593192.png",
+                "game_tile_light": "quests/1517295523512455208/1517297313901576284.jpg",
+                "game_tile_dark": "quests/1517295523512455208/1517297313901576284.jpg",
+                "logotype_light": "quests/1517295523512455208/1517297313859633444.png",
+                "logotype_dark": "quests/1517295523512455208/1517297313859633444.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Silo Season 3",
+                "game_title": "New Season July 3 on Apple TV",
+                "game_publisher": "Apple TV"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 29,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1517295523512455208/1517299866953322606_1080.mp4",
+                                "width": 720,
+                                "height": 1280,
+                                "thumbnail": "quests/1517295523512455208/1517299556923084810.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1517295523512455208/1517299866953322606_720.mp4",
+                                "width": 720,
+                                "height": 1280,
+                                "thumbnail": "quests/1517295523512455208/1517299556923084810.jpg"
+                            },
+                            "video_hls": {
+                                "url": "quests/1517295523512455208/1517299866953322606.m3u8",
+                                "width": 720,
+                                "height": 1280,
+                                "thumbnail": "quests/1517295523512455208/1517299556923084810.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "200 Orbs",
+                            "name_with_article": "200 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 200,
+                        "premium_orb_quantity": null
+                    }
+                ],
+                "rewards_expire_at": "2026-08-02T00:59:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "not_shareable",
+            "cta_config": {
+                "link": "https://tv.apple.com/ca/show/silo/umc.cmc.3yksgc857px0k0rqe5zd4jice?itscg=MC_10000&itsct=atvp_brand_omd&mttn3pid=innovid&mttnagencyid=a5e&mttncc=CA&mttnsiteid=143238&mttnsubad=07056041",
                 "button_label": "Learn More",
                 "subtitle": "New Season July 3 on Apple TV"
             }
