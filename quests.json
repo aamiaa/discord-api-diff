@@ -79828,5 +79828,134 @@
                 "subtitle": "1 de julho nos cinemas."
             }
         }
+    },
+    {
+        "id": "1516563706262196244",
+        "config": {
+            "id": "1516563706262196244",
+            "config_version": 2,
+            "starts_at": "2026-06-22T06:00:00+00:00",
+            "expires_at": "2026-07-06T05:59:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://app.powster.com/universalstudios/minions-and-monsters-intl/mx/",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1516563706262196244/1516840332715626677.jpg",
+                "hero_video": "quests/1516563706262196244/1516848752697016320_720.mp4",
+                "quest_bar_hero_blurhash": "lhgGFIIdK2fXCXpTZ2ddq7DSCw==",
+                "quest_bar_hero": "quests/1516563706262196244/1516841172872466592.jpg",
+                "quest_bar_hero_video": "quests/1516563706262196244/1516848752697016320_720.mp4",
+                "game_tile": "1516847451426918520.png",
+                "logotype": "1516847450336530502.png",
+                "game_tile_light": "quests/1516563706262196244/1516840235982524507.png",
+                "game_tile_dark": "quests/1516563706262196244/1516840235873472512.png",
+                "logotype_light": "quests/1516563706262196244/1516840577239355492.png",
+                "logotype_dark": "quests/1516563706262196244/1516840576727781426.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Minions & Monstruos",
+                "game_title": "01 de julio solo en cines",
+                "game_publisher": "Universal Pictures"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 151,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1516563706262196244/1516840432070426887_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1516563706262196244/1516840304353738913.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1516563706262196244/1516840432070426887_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1516563706262196244/1516840304353738913.jpg"
+                            },
+                            "video_hls": {
+                                "url": "quests/1516563706262196244/1516840432070426887.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1516563706262196244/1516840304353738913.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 151,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1516563706262196244/1516840432028618953_1080.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1516563706262196244/1516840304353738913.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1516563706262196244/1516840432028618953_720.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1516563706262196244/1516840304353738913.jpg"
+                            },
+                            "video_hls": {
+                                "url": "quests/1516563706262196244/1516840432028618953.m3u8",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1516563706262196244/1516840304353738913.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 3,
+                        "sku_id": "1514692555374330068",
+                        "asset": "quests/1516563706262196244/1516863119438254311.mp4",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "Decoración de avatar Minions & Monstruos",
+                            "name_with_article": "Decoración de avatar Minions & Monstruos",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "expires_at": "2026-09-05T00:00:00+00:00",
+                        "expires_at_premium": null,
+                        "expiration_mode": 3
+                    }
+                ],
+                "rewards_expire_at": "2026-08-05T05:59:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://app.powster.com/universalstudios/minions-and-monsters-intl/mx/",
+                "button_label": "Get Tickets",
+                "subtitle": "01 de julio solo en cines"
+            }
+        }
     }
 ]
