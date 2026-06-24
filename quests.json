@@ -80923,5 +80923,117 @@
         "targeted_content": [],
         "preview": false,
         "traffic_metadata_raw": "EAIYAQ=="
+    },
+    {
+        "id": "1514375949620215869",
+        "config": {
+            "id": "1514375949620215869",
+            "config_version": 2,
+            "starts_at": "2026-06-24T16:00:00+00:00",
+            "expires_at": "2026-07-01T00:00:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://playvalorant.com/?utm_source=discord&utm_medium=paid&utm_campaign=VALAct4LaunchPlay",
+                "id": "700136079562375258",
+                "name": "VALORANT"
+            },
+            "assets": {
+                "hero": "quests/1514375949620215869/1514378264674566204.jpg",
+                "hero_video": "quests/1514375949620215869/1514378005923893248.mp4",
+                "quest_bar_hero_blurhash": "rLcNNI6Po4eFaYd5h3dfiPikhg==",
+                "quest_bar_hero": "quests/1514375949620215869/1514378250376183898.jpg",
+                "quest_bar_hero_video": "quests/1514375949620215869/1514378005760442368.mp4",
+                "game_tile": "1514378770767810560.png",
+                "logotype": "1514378769618436237.png",
+                "game_tile_light": "quests/1514375949620215869/1514378005965963414.png",
+                "game_tile_dark": "quests/1514375949620215869/1514378005965963414.png",
+                "logotype_light": "quests/1514375949620215869/1514378005752053983.png",
+                "logotype_dark": "quests/1514375949620215869/1514378005781286914.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Play VALORANT",
+                "game_title": "VALORANT",
+                "game_publisher": "Riot Games"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "700136079562375258"
+                            }
+                        ]
+                    },
+                    "PLAY_ON_XBOX": {
+                        "type": "PLAY_ON_XBOX",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "700136079562375258"
+                            }
+                        ],
+                        "external_ids": [
+                            "2139646219"
+                        ]
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "type": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "700136079562375258"
+                            }
+                        ],
+                        "external_ids": [
+                            "PPSA20676_00",
+                            "PPSA20711_00"
+                        ]
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 3,
+                        "sku_id": "1516523989927858267",
+                        "asset": "quests/1514375949620215869/1516524098363330722.mp4",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "Sage's Outfit Avatar Decoration",
+                            "name_with_article": "Sage's Outfit Avatar Decoration",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "expires_at": "2026-08-31T00:00:00+00:00",
+                        "expires_at_premium": null,
+                        "expiration_mode": 3
+                    }
+                ],
+                "rewards_expire_at": "2026-07-31T00:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://playvalorant.com/?utm_source=discord&utm_medium=paid&utm_campaign=VALAct4LaunchPlay",
+                "button_label": "Play Now"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false,
+        "traffic_metadata_raw": "EAIYAQ=="
     }
 ]
