@@ -79978,7 +79978,7 @@
                 "hero_video": "quests/1516176546988298411/1517279821804343396.mp4",
                 "quest_bar_hero_blurhash": "2qUFYpT3FaxbtolXA4hEcEg=",
                 "quest_bar_hero": "quests/1516176546988298411/1516180091380437065.jpg",
-                "quest_bar_hero_video": "quests/1516176546988298411/1517279398670237734.mp4",
+                "quest_bar_hero_video": "quests/1516176546988298411/1520095636941438986_720.mp4",
                 "game_tile": "1516180173614088424.jpg",
                 "logotype": "1516180172330766387.png",
                 "game_tile_light": "quests/1516176546988298411/1516179986414047312.jpg",
@@ -79992,7 +79992,7 @@
             },
             "messages": {
                 "quest_name": "Supergirl",
-                "game_title": "Supergirl in Theaters Friday",
+                "game_title": "Supergirl in Theaters Now",
                 "game_publisher": "Warner Bros. Pictures"
             },
             "task_config_v2": {
@@ -80002,22 +80002,22 @@
                         "target": 14,
                         "assets": {
                             "video": {
-                                "url": "quests/1516176546988298411/1517278135240888351_1080.mp4",
+                                "url": "quests/1516176546988298411/1520083327883677917_1080.mp4",
                                 "width": 1920,
                                 "height": 1080,
-                                "thumbnail": "quests/1516176546988298411/1516180302865891469.jpg"
+                                "thumbnail": "quests/1516176546988298411/1517365879044571226.jpg"
                             },
                             "video_low_res": {
-                                "url": "quests/1516176546988298411/1517278135240888351_720.mp4",
+                                "url": "quests/1516176546988298411/1520083327883677917_720.mp4",
                                 "width": 1920,
                                 "height": 1080,
-                                "thumbnail": "quests/1516176546988298411/1516180302865891469.jpg"
+                                "thumbnail": "quests/1516176546988298411/1517365879044571226.jpg"
                             },
                             "video_hls": {
-                                "url": "quests/1516176546988298411/1517278135240888351.m3u8",
+                                "url": "quests/1516176546988298411/1520083327883677917.m3u8",
                                 "width": 1920,
                                 "height": 1080,
-                                "thumbnail": "quests/1516176546988298411/1516180302865891469.jpg"
+                                "thumbnail": "quests/1516176546988298411/1517365879044571226.jpg"
                             }
                         },
                         "messages": {
@@ -80029,22 +80029,22 @@
                         "target": 14,
                         "assets": {
                             "video": {
-                                "url": "quests/1516176546988298411/1517332061038313673_1080.mp4",
+                                "url": "quests/1516176546988298411/1520083327556784148_1080.mp4",
                                 "width": 1080,
                                 "height": 1920,
-                                "thumbnail": "quests/1516176546988298411/1516180302865891469.jpg"
+                                "thumbnail": "quests/1516176546988298411/1517365879044571226.jpg"
                             },
                             "video_low_res": {
-                                "url": "quests/1516176546988298411/1517332061038313673_720.mp4",
+                                "url": "quests/1516176546988298411/1520083327556784148_720.mp4",
                                 "width": 1080,
                                 "height": 1920,
-                                "thumbnail": "quests/1516176546988298411/1516180302865891469.jpg"
+                                "thumbnail": "quests/1516176546988298411/1517365879044571226.jpg"
                             },
                             "video_hls": {
-                                "url": "quests/1516176546988298411/1517332061038313673.m3u8",
+                                "url": "quests/1516176546988298411/1520083327556784148.m3u8",
                                 "width": 1080,
                                 "height": 1920,
-                                "thumbnail": "quests/1516176546988298411/1516180302865891469.jpg"
+                                "thumbnail": "quests/1516176546988298411/1517365879044571226.jpg"
                             }
                         },
                         "messages": {
@@ -80083,7 +80083,7 @@
             "cta_config": {
                 "link": "https://www.fandango.com/supergirl-2026-243716/movie-overview",
                 "button_label": "Get Showtimes",
-                "subtitle": "Supergirl in Theaters Friday"
+                "subtitle": "Supergirl in Theaters Now"
             }
         },
         "user_status": null,
@@ -81315,5 +81315,89 @@
                 "button_label": "Play Now"
             }
         }
+    },
+    {
+        "id": "1512304691868995584",
+        "config": {
+            "id": "1512304691868995584",
+            "config_version": 2,
+            "starts_at": "2026-06-26T17:00:00+00:00",
+            "expires_at": "2026-07-03T00:00:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://osrs.runescape.com/download",
+                "id": "1180205756998488064",
+                "name": "Old School RuneScape"
+            },
+            "assets": {
+                "hero": "quests/1512304691868995584/1519730392284795041.jpg",
+                "quest_bar_hero_blurhash": "GugJJISkeneflnd9eY16YHRGCA==",
+                "quest_bar_hero": "quests/1512304691868995584/1519387883134259431.jpg",
+                "quest_bar_hero_video": "quests/1512304691868995584/1519730411218141474_720.mp4",
+                "game_tile": "1519388319547523292.jpg",
+                "logotype": "1519412667004096684.png",
+                "game_tile_light": "quests/1512304691868995584/1519387013328146533.jpg",
+                "game_tile_dark": "quests/1512304691868995584/1519387013328146533.jpg",
+                "logotype_light": "quests/1512304691868995584/1519412622980677814.png",
+                "logotype_dark": "quests/1512304691868995584/1519412622536081448.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Old School RuneScape",
+                "game_title": "Old School RuneScape",
+                "game_publisher": "Jagex"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1180205756998488064"
+                            }
+                        ]
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 Orbs",
+                            "name_with_article": "700 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 700,
+                        "premium_orb_quantity": 840
+                    }
+                ],
+                "rewards_expire_at": "2026-08-02T00:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://osrs.runescape.com/download",
+                "button_label": "Play Now",
+                "subtitle": "Play Old School RuneScape"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false,
+        "traffic_metadata_raw": "EAIYAQ=="
     }
 ]
