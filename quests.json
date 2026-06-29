@@ -81777,5 +81777,473 @@
                 "subtitle": "A battery built for late-night studying"
             }
         }
+    },
+    {
+        "id": "1519897790417731634",
+        "config": {
+            "id": "1519897790417731634",
+            "config_version": 2,
+            "starts_at": "2026-06-29T16:40:00+00:00",
+            "expires_at": "2026-07-02T06:59:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://www.focusfeatures.com/werwulf",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1519897790417731634/1519899704882888814.jpg",
+                "hero_video": "quests/1519897790417731634/1521163907237023744_720.mp4",
+                "quest_bar_hero_blurhash": "xPcFAoBge4eHeIh3fcH/Z4g=",
+                "quest_bar_hero": "quests/1519897790417731634/1519899704882888814.jpg",
+                "quest_bar_hero_video": "quests/1519897790417731634/1521163907237023744_720.mp4",
+                "game_tile": "1519900022819524782.png",
+                "logotype": "1521167803338723559.png",
+                "game_tile_light": "quests/1519897790417731634/1519898828164305026.png",
+                "game_tile_dark": "quests/1519897790417731634/1519898828164305026.png",
+                "logotype_light": "quests/1519897790417731634/1521167245903003648.png",
+                "logotype_dark": "quests/1519897790417731634/1519899138878083242.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Werwulf",
+                "game_title": "Werwulf | Only In Theaters Christmas Day",
+                "game_publisher": "Focus Features"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 118,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1519897790417731634/1521165875250593882_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1519897790417731634/1519900165018878159.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1519897790417731634/1521165875250593882_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1519897790417731634/1519900165018878159.jpg"
+                            },
+                            "video_hls": {
+                                "url": "quests/1519897790417731634/1521165875250593882.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1519897790417731634/1519900165018878159.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 118,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1519897790417731634/1521165875250593882_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1519897790417731634/1519900165018878159.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1519897790417731634/1521165875250593882_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1519897790417731634/1519900165018878159.jpg"
+                            },
+                            "video_hls": {
+                                "url": "quests/1519897790417731634/1521165875250593882.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1519897790417731634/1519900165018878159.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "200 Orbs",
+                            "name_with_article": "200 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 200,
+                        "premium_orb_quantity": 240
+                    }
+                ],
+                "rewards_expire_at": "2026-08-01T06:59:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://www.focusfeatures.com/werwulf",
+                "button_label": "Learn More",
+                "subtitle": "Werwulf | Only In Theaters Christmas Day"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false,
+        "traffic_metadata_raw": "EAIYAQ=="
+    },
+    {
+        "id": "1518683615360319568",
+        "config": {
+            "id": "1518683615360319568",
+            "config_version": 2,
+            "starts_at": "2026-06-29T17:00:00+00:00",
+            "expires_at": "2026-07-13T00:00:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://assassinscreed.com/black-flag-resynced",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1518683615360319568/1519450504415940739.jpg",
+                "hero_video": "quests/1518683615360319568/1520114587582599258_720.mp4",
+                "quest_bar_hero_blurhash": "3PcNJIhEaWl/ioh8hnhmYGUGVg==",
+                "quest_bar_hero": "quests/1518683615360319568/1519450504185385100.jpg",
+                "quest_bar_hero_video": "quests/1518683615360319568/1520114587582599258_720.mp4",
+                "game_tile": "1519451491755098173.png",
+                "logotype": "1519451490664583178.png",
+                "game_tile_light": "quests/1518683615360319568/1519450504222998739.png",
+                "game_tile_dark": "quests/1518683615360319568/1519450504222998739.png",
+                "logotype_light": "quests/1518683615360319568/1519450504181059716.png",
+                "logotype_dark": "quests/1518683615360319568/1519450504248168620.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Your pirate adventure awaits",
+                "game_title": "Assassin's Creed Black Flag Resynced",
+                "game_publisher": "Ubisoft"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 29,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1518683615360319568/1520114065798725722_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1518683615360319568/1519450504940490782.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1518683615360319568/1520114065798725722_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1518683615360319568/1519450504940490782.jpg"
+                            },
+                            "video_hls": {
+                                "url": "quests/1518683615360319568/1520114065798725722.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1518683615360319568/1519450504940490782.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 29,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1518683615360319568/1520114426231914516_1080.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1518683615360319568/1519450504940490782.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1518683615360319568/1520114426231914516_720.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1518683615360319568/1519450504940490782.jpg"
+                            },
+                            "video_hls": {
+                                "url": "quests/1518683615360319568/1520114426231914516.m3u8",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1518683615360319568/1519450504940490782.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "200 Orbs",
+                            "name_with_article": "200 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 200,
+                        "premium_orb_quantity": 240
+                    }
+                ],
+                "rewards_expire_at": "2026-08-12T00:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://assassinscreed.com/black-flag-resynced",
+                "button_label": "Learn More",
+                "subtitle": "Available July 9"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false,
+        "traffic_metadata_raw": "EAIYAQ=="
+    },
+    {
+        "id": "1520181992006619207",
+        "config": {
+            "id": "1520181992006619207",
+            "config_version": 2,
+            "starts_at": "2026-06-29T17:00:00+00:00",
+            "expires_at": "2026-07-06T00:00:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://www.monopolygo.com/",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1520181992006619207/1520185447412662272.jpg",
+                "hero_video": "quests/1520181992006619207/1520185100543852645_720.mp4",
+                "quest_bar_hero_blurhash": "Y8cNKogFa4andliIAYUDRTg=",
+                "quest_bar_hero": "quests/1520181992006619207/1520185447412662272.jpg",
+                "quest_bar_hero_video": "quests/1520181992006619207/1520185100543852645_720.mp4",
+                "game_tile": "1520185562664009778.png",
+                "logotype": "1520185561434820618.png",
+                "game_tile_light": "quests/1520181992006619207/1520184522111455283.png",
+                "game_tile_dark": "quests/1520181992006619207/1520184522111455283.png",
+                "logotype_light": "quests/1520181992006619207/1520184521549418659.png",
+                "logotype_dark": "quests/1520181992006619207/1520184521549418659.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "MONOPOLY GO",
+                "game_title": "MONOPOLY GO",
+                "game_publisher": "Scopely"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 39,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1520181992006619207/1520184605615853608_1080.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1520181992006619207/1520184521671180458.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1520181992006619207/1520184605615853608_720.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1520181992006619207/1520184521671180458.jpg"
+                            },
+                            "video_hls": {
+                                "url": "quests/1520181992006619207/1520184605615853608.m3u8",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1520181992006619207/1520184521671180458.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "200 Orbs",
+                            "name_with_article": "200 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 200,
+                        "premium_orb_quantity": null
+                    }
+                ],
+                "rewards_expire_at": "2026-08-05T00:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "android": {
+                    "android_app_id": "com.scopely.monopolygo"
+                },
+                "ios": {
+                    "ios_app_id": "1621328561"
+                },
+                "link": "https://www.monopolygo.com/",
+                "button_label": "Play Game"
+            }
+        }
+    },
+    {
+        "id": "1520186290597925067",
+        "config": {
+            "id": "1520186290597925067",
+            "config_version": 2,
+            "starts_at": "2026-06-29T17:00:00+00:00",
+            "expires_at": "2026-07-06T00:00:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://www.monopolygo.com/",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1520186290597925067/1520189101439979632.jpg",
+                "hero_video": "quests/1520186290597925067/1520188978349871154_720.mp4",
+                "quest_bar_hero_blurhash": "Y8cNKogFa4andliIAYUDRTg=",
+                "quest_bar_hero": "quests/1520186290597925067/1520189101439979632.jpg",
+                "quest_bar_hero_video": "quests/1520186290597925067/1520188978349871154_720.mp4",
+                "game_tile": "1520189186324435105.png",
+                "logotype": "1520189185267339404.png",
+                "game_tile_light": "quests/1520186290597925067/1520188699919253504.png",
+                "game_tile_dark": "quests/1520186290597925067/1520188699919253504.png",
+                "logotype_light": "quests/1520186290597925067/1520188699810463764.png",
+                "logotype_dark": "quests/1520186290597925067/1520188699810463764.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "MONOPOLY GO",
+                "game_title": "MONOPOLY GO",
+                "game_publisher": "Scopely"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 39,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1520186290597925067/1520188700204728390_1080.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1520186290597925067/1520188699948748800.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1520186290597925067/1520188700204728390_720.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1520186290597925067/1520188699948748800.jpg"
+                            },
+                            "video_hls": {
+                                "url": "quests/1520186290597925067/1520188700204728390.m3u8",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1520186290597925067/1520188699948748800.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "200 Orbs",
+                            "name_with_article": "200 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 200,
+                        "premium_orb_quantity": null
+                    }
+                ],
+                "rewards_expire_at": "2026-08-05T00:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "android": {
+                    "android_app_id": "com.scopely.monopolygo"
+                },
+                "ios": {
+                    "ios_app_id": "1621328561"
+                },
+                "link": "https://www.monopolygo.com/",
+                "button_label": "Play Game"
+            }
+        }
     }
 ]
