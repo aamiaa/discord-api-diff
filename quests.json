@@ -82540,6 +82540,7 @@
                             }
                         ],
                         "external_ids": [
+                            "1668346801",
                             "1854680102"
                         ]
                     },
@@ -82552,9 +82553,9 @@
                             }
                         ],
                         "external_ids": [
-                            "PPSA28881_00",
-                            "PPSA28882_00",
                             "PPSA28884_00",
+                            "PPSA28882_00",
+                            "PPSA28881_00",
                             "PPSA28883_00"
                         ]
                     }
@@ -82600,7 +82601,7 @@
             "id": "1515075342941818972",
             "config_version": 2,
             "starts_at": "2026-06-30T18:15:00+00:00",
-            "expires_at": "2026-07-03T00:59:00+00:00",
+            "expires_at": "2026-06-30T20:50:00+00:00",
             "features": [
                 15
             ],
@@ -82680,7 +82681,7 @@
                         "premium_orb_quantity": null
                     }
                 ],
-                "rewards_expire_at": "2026-08-02T00:59:00+00:00",
+                "rewards_expire_at": "2026-07-30T20:50:00+00:00",
                 "platforms": [
                     0
                 ]
@@ -82688,6 +82689,262 @@
             "share_policy": "not_shareable",
             "cta_config": {
                 "link": "https://tv.apple.com/us/show/silo/umc.cmc.3yksgc857px0k0rqe5zd4jice?itscg=MC_50000&itsct=atvp_brand_omd&mttn3pid=Discord&mttnagencyid=a5e&mttncc=US&mttnsiteid=143238&mttnsubad=07098706",
+                "button_label": "Learn More",
+                "subtitle": "New Season July 3 on Apple TV"
+            }
+        }
+    },
+    {
+        "id": "1520115809693864037",
+        "config": {
+            "id": "1520115809693864037",
+            "config_version": 2,
+            "starts_at": "2026-06-29T17:00:00+00:00",
+            "expires_at": "2026-07-05T03:59:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://www.tntdrama.com/",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1520115809693864037/1521146764214669392.jpg",
+                "hero_video": "quests/1520115809693864037/1521147012563861706_720.mp4",
+                "quest_bar_hero_blurhash": "WBgWDIKIeIl/iIh3d4ppeZCzBw==",
+                "quest_bar_hero": "quests/1520115809693864037/1521146244385214554.jpg",
+                "quest_bar_hero_video": "quests/1520115809693864037/1521147012563861706_720.mp4",
+                "game_tile": "1521147152557019178.png",
+                "logotype": "1521165018358349984.png",
+                "game_tile_light": "quests/1520115809693864037/1521145970279055451.png",
+                "game_tile_dark": "quests/1520115809693864037/1521145970279055451.png",
+                "logotype_light": "quests/1520115809693864037/1521164994547552466.png",
+                "logotype_dark": "quests/1520115809693864037/1521146160780148765.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "TNT The Fight",
+                "game_title": "The Fight on July 4th. Live at 7 p.m. ET on TNT, truTV, and DAZN",
+                "game_publisher": "TNT Sports"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 77,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1520115809693864037/1521147481474334720_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1520115809693864037/1521146228799443014.png"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1520115809693864037/1521147481474334720_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1520115809693864037/1521146228799443014.png"
+                            },
+                            "video_hls": {
+                                "url": "quests/1520115809693864037/1521147481474334720.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1520115809693864037/1521146228799443014.png"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 77,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1520115809693864037/1521147418551259186_1080.mp4",
+                                "width": 606,
+                                "height": 1080,
+                                "thumbnail": "quests/1520115809693864037/1521146228799443014.png"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1520115809693864037/1521147418551259186_720.mp4",
+                                "width": 606,
+                                "height": 1080,
+                                "thumbnail": "quests/1520115809693864037/1521146228799443014.png"
+                            },
+                            "video_hls": {
+                                "url": "quests/1520115809693864037/1521147418551259186.m3u8",
+                                "width": 606,
+                                "height": 1080,
+                                "thumbnail": "quests/1520115809693864037/1521146228799443014.png"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "200 Orbs",
+                            "name_with_article": "200 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 200,
+                        "premium_orb_quantity": 240
+                    }
+                ],
+                "rewards_expire_at": "2026-08-04T03:59:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://www.tntdrama.com/",
+                "button_label": "Watch More",
+                "subtitle": "The Fight on July 4th. Live at 7 p.m. ET on TNT, truTV, and DAZN"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false,
+        "traffic_metadata_raw": "EAIYAQ=="
+    },
+    {
+        "id": "1520846163689869513",
+        "config": {
+            "id": "1520846163689869513",
+            "config_version": 2,
+            "starts_at": "2026-06-30T18:45:00+00:00",
+            "expires_at": "2026-06-30T20:50:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://tv.apple.com/us/show/silo/umc.cmc.3yksgc857px0k0rqe5zd4jice?itscg=MC_50000&itsct=atvp_brand_omd&mttn3pid=Discord&mttnagencyid=a5e&mttncc=US&mttnsiteid=143238&mttnsubad=07098707",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1520846163689869513/1520850543185235978.jpg",
+                "hero_video": "quests/1520846163689869513/1520850706440126474_720.mp4",
+                "quest_bar_hero_blurhash": "lOgNFIRgZnhrd3eFiHYkT/W2Zw==",
+                "quest_bar_hero": "quests/1520846163689869513/1520850543273050332.jpg",
+                "quest_bar_hero_video": "quests/1520846163689869513/1520850706440126474_720.mp4",
+                "game_tile": "1520850992856432820.jpg",
+                "logotype": "1520850991623311491.png",
+                "game_tile_light": "quests/1520846163689869513/1520850543193489558.jpg",
+                "game_tile_dark": "quests/1520846163689869513/1520850543193489558.jpg",
+                "logotype_light": "quests/1520846163689869513/1520850543268860075.png",
+                "logotype_dark": "quests/1520846163689869513/1520850543268860075.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Silo Season 3",
+                "game_title": "New Season July 3 on Apple TV",
+                "game_publisher": "Apple TV"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 171,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1520846163689869513/1521575499976151191_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1520846163689869513/1520850543273050332.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1520846163689869513/1521575499976151191_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1520846163689869513/1520850543273050332.jpg"
+                            },
+                            "video_hls": {
+                                "url": "quests/1520846163689869513/1521575499976151191.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1520846163689869513/1520850543273050332.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 171,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1520846163689869513/1521575499976151191_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1520846163689869513/1520850543273050332.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1520846163689869513/1521575499976151191_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1520846163689869513/1520850543273050332.jpg"
+                            },
+                            "video_hls": {
+                                "url": "quests/1520846163689869513/1521575499976151191.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1520846163689869513/1520850543273050332.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "200 Orbs",
+                            "name_with_article": "200 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 200,
+                        "premium_orb_quantity": null
+                    }
+                ],
+                "rewards_expire_at": "2026-07-30T20:50:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "not_shareable",
+            "cta_config": {
+                "link": "https://tv.apple.com/us/show/silo/umc.cmc.3yksgc857px0k0rqe5zd4jice?itscg=MC_50000&itsct=atvp_brand_omd&mttn3pid=Discord&mttnagencyid=a5e&mttncc=US&mttnsiteid=143238&mttnsubad=07098707",
                 "button_label": "Learn More",
                 "subtitle": "New Season July 3 on Apple TV"
             }
