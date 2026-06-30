@@ -80930,7 +80930,7 @@
             "id": "1514375949620215869",
             "config_version": 2,
             "starts_at": "2026-06-24T16:00:00+00:00",
-            "expires_at": "2026-07-01T00:00:00+00:00",
+            "expires_at": "2026-07-01T06:59:00+00:00",
             "features": [
                 15
             ],
@@ -80993,8 +80993,8 @@
                             }
                         ],
                         "external_ids": [
-                            "PPSA20676_00",
-                            "PPSA20711_00"
+                            "PPSA20711_00",
+                            "PPSA20676_00"
                         ]
                     }
                 },
@@ -81020,7 +81020,7 @@
                         "expiration_mode": 3
                     }
                 ],
-                "rewards_expire_at": "2026-07-31T00:00:00+00:00",
+                "rewards_expire_at": "2026-07-31T06:59:00+00:00",
                 "platforms": [
                     0
                 ]
@@ -82480,6 +82480,216 @@
                 },
                 "link": "https://www.monopolygo.com/",
                 "button_label": "Play Game"
+            }
+        }
+    },
+    {
+        "id": "1519537307718520912",
+        "config": {
+            "id": "1519537307718520912",
+            "config_version": 2,
+            "starts_at": "2026-06-30T17:00:00+00:00",
+            "expires_at": "2026-07-14T00:00:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://store.steampowered.com/app/2507950?utm_source=discordquest",
+                "id": "1314682894106497096",
+                "name": "Delta Force"
+            },
+            "assets": {
+                "hero": "quests/1519537307718520912/1521535551637946599.jpg",
+                "hero_video": "quests/1519537307718520912/1521535445064876233_720.mp4",
+                "quest_bar_hero_blurhash": "0AgGDIBgLYgct3dqiIgTDRrRgA==",
+                "quest_bar_hero": "quests/1519537307718520912/1521535418594754641.jpg",
+                "quest_bar_hero_video": "quests/1519537307718520912/1521535459489222908_720.mp4",
+                "game_tile": "1519541505264451655.png",
+                "logotype": "1521168404357058631.png",
+                "game_tile_light": "quests/1519537307718520912/1519540250509049957.png",
+                "game_tile_dark": "quests/1519537307718520912/1519540250509049957.png",
+                "logotype_light": "quests/1519537307718520912/1521168383956091040.png",
+                "logotype_dark": "quests/1519537307718520912/1519540248462229554.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "New Season Meltdown",
+                "game_title": "Delta Force",
+                "game_publisher": "Team Jade"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1314682894106497096"
+                            }
+                        ]
+                    },
+                    "PLAY_ON_XBOX": {
+                        "type": "PLAY_ON_XBOX",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1314682894106497096"
+                            }
+                        ],
+                        "external_ids": [
+                            "1854680102"
+                        ]
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "type": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1314682894106497096"
+                            }
+                        ],
+                        "external_ids": [
+                            "PPSA28881_00",
+                            "PPSA28882_00",
+                            "PPSA28884_00",
+                            "PPSA28883_00"
+                        ]
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 Orbs",
+                            "name_with_article": "700 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 700,
+                        "premium_orb_quantity": 840
+                    }
+                ],
+                "rewards_expire_at": "2026-08-13T00:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://store.steampowered.com/app/2507950?utm_source=discordquest",
+                "button_label": "Play Now"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false,
+        "traffic_metadata_raw": "EAIYAQ=="
+    },
+    {
+        "id": "1515075342941818972",
+        "config": {
+            "id": "1515075342941818972",
+            "config_version": 2,
+            "starts_at": "2026-06-30T18:15:00+00:00",
+            "expires_at": "2026-07-03T00:59:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://tv.apple.com/us/show/silo/umc.cmc.3yksgc857px0k0rqe5zd4jice?itscg=MC_50000&itsct=atvp_brand_omd&mttn3pid=Discord&mttnagencyid=a5e&mttncc=US&mttnsiteid=143238&mttnsubad=07098706",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1515075342941818972/1516561976778821773.jpg",
+                "hero_video": "quests/1515075342941818972/1516567877686136882_720.mp4",
+                "quest_bar_hero_blurhash": "mjkKKoT3WGY5unVo9jlIn4M=",
+                "quest_bar_hero": "quests/1515075342941818972/1516561976778821773.jpg",
+                "quest_bar_hero_video": "quests/1515075342941818972/1516567877686136882_720.mp4",
+                "game_tile": "1516562080268943371.jpg",
+                "logotype": "1516562079266635866.png",
+                "game_tile_light": "quests/1515075342941818972/1516561847027892395.jpg",
+                "game_tile_dark": "quests/1515075342941818972/1516561847027892395.jpg",
+                "logotype_light": "quests/1515075342941818972/1516561910336590025.png",
+                "logotype_dark": "quests/1515075342941818972/1516561910336590025.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Silo Season 3",
+                "game_title": "New Season July 3 on Apple TV",
+                "game_publisher": "Apple TV"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 172,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1515075342941818972/1521572576650985532_1080.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1515075342941818972/1516562295436611656.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1515075342941818972/1521572576650985532_720.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1515075342941818972/1516562295436611656.jpg"
+                            },
+                            "video_hls": {
+                                "url": "quests/1515075342941818972/1521572576650985532.m3u8",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1515075342941818972/1516562295436611656.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "200 Orbs",
+                            "name_with_article": "200 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 200,
+                        "premium_orb_quantity": null
+                    }
+                ],
+                "rewards_expire_at": "2026-08-02T00:59:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "not_shareable",
+            "cta_config": {
+                "link": "https://tv.apple.com/us/show/silo/umc.cmc.3yksgc857px0k0rqe5zd4jice?itscg=MC_50000&itsct=atvp_brand_omd&mttn3pid=Discord&mttnagencyid=a5e&mttncc=US&mttnsiteid=143238&mttnsubad=07098706",
+                "button_label": "Learn More",
+                "subtitle": "New Season July 3 on Apple TV"
             }
         }
     }
