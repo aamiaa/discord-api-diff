@@ -83349,5 +83349,89 @@
                 "subtitle": "Take stress out of growth with Azure"
             }
         }
+    },
+    {
+        "id": "1516628515209089125",
+        "config": {
+            "id": "1516628515209089125",
+            "config_version": 2,
+            "starts_at": "2026-07-02T07:00:00+00:00",
+            "expires_at": "2026-07-09T00:00:00+00:00",
+            "features": [
+                26,
+                15
+            ],
+            "application": {
+                "link": "https://www.gearupbooster.com/discord/quest/guquest01/",
+                "id": "1512256241806606387",
+                "name": "GearUP"
+            },
+            "assets": {
+                "hero": "quests/1516628515209089125/1519011089197826329.jpg",
+                "quest_bar_hero_blurhash": "jNYFFIQFd4dImXiBjaT7ud2e/A==",
+                "quest_bar_hero": "quests/1516628515209089125/1516639738944028683.jpg",
+                "game_tile": "1516640028258861136.png",
+                "logotype": "1518648627931779183.png",
+                "game_tile_light": "quests/1516628515209089125/1516631874720764046.png",
+                "game_tile_dark": "quests/1516628515209089125/1516631874720764046.png",
+                "logotype_light": "quests/1516628515209089125/1518648603776647379.png",
+                "logotype_dark": "quests/1516628515209089125/1516631872984318093.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "GearUP LAG-FREE",
+                "game_title": "GearUP",
+                "game_publisher": "GearUP"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 600,
+                        "applications": [
+                            {
+                                "id": "1512256241806606387"
+                            }
+                        ]
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 Orbs",
+                            "name_with_article": "700 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 700,
+                        "premium_orb_quantity": 840
+                    }
+                ],
+                "rewards_expire_at": "2026-08-08T00:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://www.gearupbooster.com/discord/quest/guquest01/",
+                "button_label": "Play Now",
+                "subtitle": "Don’t let lag decide the match. Try GearUP free for lower ping."
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false,
+        "traffic_metadata_raw": "EAIYAQ=="
     }
 ]
