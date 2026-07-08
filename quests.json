@@ -87303,5 +87303,251 @@
                 "subtitle": "Great ideas start on Mac"
             }
         }
+    },
+    {
+        "id": "1521699040776159282",
+        "config": {
+            "id": "1521699040776159282",
+            "config_version": 2,
+            "starts_at": "2026-07-08T17:00:00+00:00",
+            "expires_at": "2026-07-16T00:00:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://nte.onelink.me/RX86/Event_West_12",
+                "id": "1470616226995765409",
+                "name": "Neverness to Everness"
+            },
+            "assets": {
+                "hero": "quests/1521699040776159282/1521701197290143936.jpg",
+                "hero_video": "quests/1521699040776159282/1524273833987543050.mp4",
+                "quest_bar_hero_blurhash": "YgcKCoR/n1aHd3Z3oqBqQHg=",
+                "quest_bar_hero": "quests/1521699040776159282/1521701197239812166.jpg",
+                "quest_bar_hero_video": "quests/1521699040776159282/1524273833282895983.mp4",
+                "game_tile": "1521701516283744326.jpeg",
+                "logotype": "1521701787801747568.png",
+                "game_tile_light": "quests/1521699040776159282/1521701197248200794.jpeg",
+                "game_tile_dark": "quests/1521699040776159282/1521701197248200794.jpeg",
+                "logotype_light": "quests/1521699040776159282/1521701197248200795.png",
+                "logotype_dark": "quests/1521699040776159282/1521701197248200795.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "NTE 1.2 Version",
+                "game_title": "NTE: Neverness to Everness",
+                "game_publisher": "Perfect World Games"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1470616226995765409"
+                            }
+                        ]
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 Orbs",
+                            "name_with_article": "700 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 700,
+                        "premium_orb_quantity": 840
+                    }
+                ],
+                "rewards_expire_at": "2026-08-15T00:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://nte.onelink.me/RX86/Event_West_12",
+                "button_label": "Play Now"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false,
+        "traffic_metadata_raw": "EAIYAQ=="
+    },
+    {
+        "id": "1524107612398944376",
+        "config": {
+            "id": "1524107612398944376",
+            "config_version": 2,
+            "starts_at": "2026-07-08T17:00:00+00:00",
+            "expires_at": "2026-07-15T00:00:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://www.roblox.com/spotlight/adventure?gsrbx=1",
+                "id": "363445589247131668",
+                "name": "Roblox"
+            },
+            "assets": {
+                "hero": "quests/1523830532302045285/1524108180513095760.jpg",
+                "quest_bar_hero_blurhash": "iggGFIQLzIl0eGlVVoRrgJsI6A==",
+                "quest_bar_hero": "quests/1523830532302045285/1524108376093622302.jpg",
+                "quest_bar_hero_video": "quests/1523830532302045285/1524108440711073822_720.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1523830532302045285/1523831490822279360.png",
+                "game_tile_dark": "quests/1523830532302045285/1523831431921532948.png",
+                "logotype_light": "quests/1523830532302045285/1523831557645664336.png",
+                "logotype_dark": "quests/1523830532302045285/1523831557662703758.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Paranormal",
+                "game_title": "Paranormal on Roblox",
+                "game_publisher": "ROBLOX"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "363445589247131668"
+                            }
+                        ]
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 Orbs",
+                            "name_with_article": "700 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 700,
+                        "premium_orb_quantity": 840
+                    }
+                ],
+                "rewards_expire_at": "2026-08-14T00:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://www.roblox.com/spotlight/adventure?gsrbx=1",
+                "button_label": "Play Now"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false,
+        "traffic_metadata_raw": "EAIYAQ=="
+    },
+    {
+        "id": "1523830532302045285",
+        "config": {
+            "id": "1523830532302045285",
+            "config_version": 2,
+            "starts_at": "2026-07-08T17:00:00+00:00",
+            "expires_at": "2026-07-15T00:00:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://www.roblox.com/spotlight/adventure?gsrbx=1",
+                "id": "363445589247131668",
+                "name": "Roblox"
+            },
+            "assets": {
+                "hero": "quests/1523830532302045285/1523831681969029180.jpg",
+                "quest_bar_hero_blurhash": "JbYJJIT1dpc6eohDhopFVlBiBA==",
+                "quest_bar_hero": "quests/1523830532302045285/1524440085817196756.jpg",
+                "quest_bar_hero_video": "quests/1523830532302045285/1523831750638309527_720.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1523830532302045285/1523831490822279360.png",
+                "game_tile_dark": "quests/1523830532302045285/1523831431921532948.png",
+                "logotype_light": "quests/1523830532302045285/1523831557645664336.png",
+                "logotype_dark": "quests/1523830532302045285/1523831557662703758.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Dragon Adventures",
+                "game_title": " Dragon Adventures on Roblox",
+                "game_publisher": "ROBLOX"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "363445589247131668"
+                            }
+                        ]
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 Orbs",
+                            "name_with_article": "700 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 700,
+                        "premium_orb_quantity": null
+                    }
+                ],
+                "rewards_expire_at": "2026-08-14T00:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://www.roblox.com/spotlight/adventure?gsrbx=1",
+                "button_label": "Play Now"
+            }
+        }
     }
 ]
