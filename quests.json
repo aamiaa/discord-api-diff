@@ -80116,8 +80116,8 @@
                 "logotype": "1516894975844155562.png",
                 "game_tile_light": "quests/1516561474498203728/1516894594556493945.png",
                 "game_tile_dark": "quests/1516561474498203728/1516894595282374927.png",
-                "logotype_light": "quests/1516561474498203728/1516894553603309649.png",
-                "logotype_dark": "quests/1516561474498203728/1516894553968345108.png"
+                "logotype_light": "quests/1516561474498203728/1524953151189553192.png",
+                "logotype_dark": "quests/1516561474498203728/1524953150979838002.png"
             },
             "colors": {
                 "primary": "#4752C4",
@@ -84119,8 +84119,8 @@
                 "logotype": "1521654185089564682.png",
                 "game_tile_light": "quests/1521652470898757874/1521653066603036673.png",
                 "game_tile_dark": "quests/1521652470898757874/1521653066791915600.png",
-                "logotype_light": "quests/1521652470898757874/1521653886836805784.png",
-                "logotype_dark": "quests/1521652470898757874/1521653886379884675.png"
+                "logotype_light": "quests/1521652470898757874/1524953469243494440.png",
+                "logotype_dark": "quests/1521652470898757874/1524953320261685329.png"
             },
             "colors": {
                 "primary": "#4752C4",
@@ -87549,6 +87549,105 @@
             "cta_config": {
                 "link": "https://www.roblox.com/spotlight/adventure?gsrbx=1",
                 "button_label": "Play Now"
+            }
+        }
+    },
+    {
+        "id": "1524857938517299230",
+        "config": {
+            "id": "1524857938517299230",
+            "config_version": 2,
+            "starts_at": "2026-07-10T01:30:00+00:00",
+            "expires_at": "2026-07-13T06:59:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://tv.apple.com/ca/show/silo/umc.cmc.3yksgc857px0k0rqe5zd4jice?itscg=MC_50000&itsct=atvp_brand_omd&mttn3pid=Discord&mttnagencyid=a5e&mttncc=CA&mttnsiteid=143238&mttnsubad=07150460",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1524857938517299230/1524858586264502453.jpg",
+                "hero_video": "quests/1524857938517299230/1524858800585052402_720.mp4",
+                "quest_bar_hero_blurhash": "mjkKKoT3WGY5unVo9jlIn4M=",
+                "quest_bar_hero": "quests/1524857938517299230/1524858586264502453.jpg",
+                "quest_bar_hero_video": "quests/1524857938517299230/1524858800585052402_720.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1524857938517299230/1524858586151256104.jpg",
+                "game_tile_dark": "quests/1524857938517299230/1524858586151256104.jpg",
+                "logotype_light": "quests/1524857938517299230/1524858586075889747.png",
+                "logotype_dark": "quests/1524857938517299230/1524858586075889747.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Silo Season 3",
+                "game_title": "New episodes on Apple TV",
+                "game_publisher": "Apple TV"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 172,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1524857938517299230/1524858666715451513_1080.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1524857938517299230/1524858586340003942.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1524857938517299230/1524858666715451513_720.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1524857938517299230/1524858586340003942.jpg"
+                            },
+                            "video_hls": {
+                                "url": "quests/1524857938517299230/1524858666715451513.m3u8",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1524857938517299230/1524858586340003942.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "200 Orbs",
+                            "name_with_article": "200 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 200,
+                        "premium_orb_quantity": null
+                    }
+                ],
+                "rewards_expire_at": "2026-08-12T06:59:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "not_shareable",
+            "cta_config": {
+                "link": "https://tv.apple.com/ca/show/silo/umc.cmc.3yksgc857px0k0rqe5zd4jice?itscg=MC_50000&itsct=atvp_brand_omd&mttn3pid=Discord&mttnagencyid=a5e&mttncc=CA&mttnsiteid=143238&mttnsubad=07150460",
+                "button_label": "Watch Now",
+                "subtitle": "New episodes on Apple TV"
             }
         }
     }
