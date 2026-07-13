@@ -80665,7 +80665,7 @@
             "id": "1517198835024400514",
             "config_version": 2,
             "starts_at": "2026-06-23T17:00:00+00:00",
-            "expires_at": "2026-07-20T00:00:00+00:00",
+            "expires_at": "2026-07-14T00:00:00+00:00",
             "features": [
                 15
             ],
@@ -80772,7 +80772,7 @@
                         "premium_orb_quantity": 240
                     }
                 ],
-                "rewards_expire_at": "2026-08-19T00:00:00+00:00",
+                "rewards_expire_at": "2026-08-13T00:00:00+00:00",
                 "platforms": [
                     0
                 ]
@@ -82395,10 +82395,10 @@
                 "name": "Discord"
             },
             "assets": {
-                "hero": "quests/1520190459530707096/1520204818910548099.jpg",
+                "hero": "quests/1520190459530707096/1525270944380358808.jpg",
                 "hero_video": "quests/1520190459530707096/1520204660550406325_720.mp4",
-                "quest_bar_hero_blurhash": "YtgFGojCt6iAYpWYaISABgk=",
-                "quest_bar_hero": "quests/1520190459530707096/1520204818910548099.jpg",
+                "quest_bar_hero_blurhash": "WLcNKoowl0mIeIeId6BjCTo=",
+                "quest_bar_hero": "quests/1520190459530707096/1525270944380358808.jpg",
                 "quest_bar_hero_video": "quests/1520190459530707096/1520204660550406325_720.mp4",
                 "game_tile": "1520204880243851314.png",
                 "logotype": "1520204879056867378.png",
@@ -82420,22 +82420,22 @@
                 "tasks": {
                     "WATCH_VIDEO_ON_MOBILE": {
                         "type": "WATCH_VIDEO_ON_MOBILE",
-                        "target": 29,
+                        "target": 28,
                         "assets": {
                             "video": {
-                                "url": "quests/1520190459530707096/1520204934719733831_1080.mp4",
+                                "url": "quests/1520190459530707096/1525269062500880695_1080.mp4",
                                 "width": 1080,
                                 "height": 1920,
                                 "thumbnail": "quests/1520190459530707096/1521204480316543047.jpg"
                             },
                             "video_low_res": {
-                                "url": "quests/1520190459530707096/1520204934719733831_720.mp4",
+                                "url": "quests/1520190459530707096/1525269062500880695_720.mp4",
                                 "width": 1080,
                                 "height": 1920,
                                 "thumbnail": "quests/1520190459530707096/1521204480316543047.jpg"
                             },
                             "video_hls": {
-                                "url": "quests/1520190459530707096/1520204934719733831.m3u8",
+                                "url": "quests/1520190459530707096/1525269062500880695.m3u8",
                                 "width": 1080,
                                 "height": 1920,
                                 "thumbnail": "quests/1520190459530707096/1521204480316543047.jpg"
@@ -88080,6 +88080,646 @@
             "share_policy": "shareable_everywhere",
             "cta_config": {
                 "link": "https://store.steampowered.com/app/3564740/480?utm_source=DiscordOrbs",
+                "button_label": "Play Now"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false,
+        "traffic_metadata_raw": "EAIYAQ=="
+    },
+    {
+        "id": "1524060064422432778",
+        "config": {
+            "id": "1524060064422432778",
+            "config_version": 2,
+            "starts_at": "2026-07-13T17:00:00+00:00",
+            "expires_at": "2026-07-20T00:00:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://www.hulu.com/series/52b8dd8a-eff2-4ed2-9b8d-7c0039df1c53?cmp=21640&utm_campaign=CM_SOC_Discord_KOTH15&utm_medium=Social&utm_source=Discord&utm_term=&utm_content=&utm_focus=&utm_target=&utm_funnel=&dl=false",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1524060064422432778/1524167622642499704.jpg",
+                "hero_video": "quests/1524060064422432778/1525184102150574240_720.mp4",
+                "quest_bar_hero_blurhash": "oPgJFIRFxmpgWHmGeppp9pYEaw==",
+                "quest_bar_hero": "quests/1524060064422432778/1524169822894686319.jpg",
+                "quest_bar_hero_video": "quests/1524060064422432778/1525184102150574240_720.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1524060064422432778/1524167480589680801.jpg",
+                "game_tile_dark": "quests/1524060064422432778/1524167480589680801.jpg",
+                "logotype_light": "quests/1524060064422432778/1524519085394890834.png",
+                "logotype_dark": "quests/1524060064422432778/1524519085420056677.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "King of the Hill S15",
+                "game_title": "New Season July 20 on Hulu",
+                "game_publisher": "Hulu"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 109,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1524060064422432778/1524167482221396171_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1524060064422432778/1524167480652730388.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1524060064422432778/1524167482221396171_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1524060064422432778/1524167480652730388.jpg"
+                            },
+                            "video_hls": {
+                                "url": "quests/1524060064422432778/1524167482221396171.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1524060064422432778/1524167480652730388.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 109,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1524060064422432778/1524167866423836722_1080.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1524060064422432778/1524167480652730388.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1524060064422432778/1524167866423836722_720.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1524060064422432778/1524167480652730388.jpg"
+                            },
+                            "video_hls": {
+                                "url": "quests/1524060064422432778/1524167866423836722.m3u8",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1524060064422432778/1524167480652730388.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 3,
+                        "sku_id": "1524568831958323341",
+                        "asset": "quests/1524060064422432778/1524569051236401178.mp4",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "Bobby Hill Avatar Decoration",
+                            "name_with_article": "a Bobby Hill Avatar Decoration",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "expires_at": "2026-09-19T00:00:00+00:00",
+                        "expires_at_premium": null,
+                        "expiration_mode": 1
+                    }
+                ],
+                "rewards_expire_at": "2026-08-19T00:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://www.hulu.com/series/52b8dd8a-eff2-4ed2-9b8d-7c0039df1c53?cmp=21640&utm_campaign=CM_SOC_Discord_KOTH15&utm_medium=Social&utm_source=Discord&utm_term=&utm_content=&utm_focus=&utm_target=&utm_funnel=&dl=false",
+                "button_label": "Learn More",
+                "subtitle": "New Season July 20 on Hulu"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false,
+        "traffic_metadata_raw": "EAIYAQ=="
+    },
+    {
+        "id": "1522398262143746079",
+        "config": {
+            "id": "1522398262143746079",
+            "config_version": 2,
+            "starts_at": "2026-07-13T17:00:00+00:00",
+            "expires_at": "2026-07-20T00:00:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://store.steampowered.com/app/2569760?utm_source=discord&utm_medium=videoquest&utm_campaign=launch",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1522398262143746079/1522399904520081500.jpg",
+                "hero_video": "quests/1522398262143746079/1522400914550554675_720.mp4",
+                "quest_bar_hero_blurhash": "ThgOBIAliYdvlHiIh4dTf2Q/Cg==",
+                "quest_bar_hero": "quests/1522398262143746079/1522399905052889218.jpg",
+                "quest_bar_hero_video": "quests/1522398262143746079/1522400533640384522_720.mp4",
+                "game_tile": "1522401177889669160.png",
+                "logotype": "1522401176887365632.png",
+                "game_tile_light": "quests/1522398262143746079/1522399904226349157.png",
+                "game_tile_dark": "quests/1522398262143746079/1522399904226349157.png",
+                "logotype_light": "quests/1522398262143746079/1524478265534972065.png",
+                "logotype_dark": "quests/1522398262143746079/1524478265396301865.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "A New Co-op Horror Game",
+                "game_title": "A New Co-op Horror Game",
+                "game_publisher": "Nacon"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 179,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1522398262143746079/1522399905069662308_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1522398262143746079/1522399905052889218.jpg",
+                                "caption": "quests/1522398262143746079/1522399904667009074.vtt"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1522398262143746079/1522399905069662308_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1522398262143746079/1522399905052889218.jpg",
+                                "caption": "quests/1522398262143746079/1522399904667009074.vtt"
+                            },
+                            "video_hls": {
+                                "url": "quests/1522398262143746079/1522399905069662308.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1522398262143746079/1522399905052889218.jpg",
+                                "caption": "quests/1522398262143746079/1522399904667009074.vtt"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 179,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1522398262143746079/1522399905069662308_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1522398262143746079/1522399905052889218.jpg",
+                                "caption": "quests/1522398262143746079/1522399904667009074.vtt"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1522398262143746079/1522399905069662308_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1522398262143746079/1522399905052889218.jpg",
+                                "caption": "quests/1522398262143746079/1522399904667009074.vtt"
+                            },
+                            "video_hls": {
+                                "url": "quests/1522398262143746079/1522399905069662308.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1522398262143746079/1522399905052889218.jpg",
+                                "caption": "quests/1522398262143746079/1522399904667009074.vtt"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "200 Orbs",
+                            "name_with_article": "200 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 200,
+                        "premium_orb_quantity": 240
+                    }
+                ],
+                "rewards_expire_at": "2026-08-19T00:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://store.steampowered.com/app/2569760?utm_source=discord&utm_medium=videoquest&utm_campaign=launch",
+                "button_label": "Play Now",
+                "subtitle": "The Mound: Omen of Cthulhu"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false,
+        "traffic_metadata_raw": "EAIYAQ=="
+    },
+    {
+        "id": "1516884151209427004",
+        "config": {
+            "id": "1516884151209427004",
+            "config_version": 2,
+            "starts_at": "2026-07-13T17:00:00+00:00",
+            "expires_at": "2026-08-06T00:00:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://ad.doubleclick.net/ddm/trackclk/N2464377.3866164DISCORD.COM/B36109752.449400895;dc_trk_aid=643644680;dc_trk_cid=259235436;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;ltd=;dc_tdv=1",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1516884151209427004/1518732486266458183.jpg",
+                "hero_video": "quests/1516884151209427004/1518710005686075545_720.mp4",
+                "quest_bar_hero_blurhash": "+gcKBIKJmJeFeHhvd206tA+8Jw==",
+                "quest_bar_hero": "quests/1516884151209427004/1518732437520125972.jpg",
+                "quest_bar_hero_video": "quests/1516884151209427004/1518710005686075545_720.mp4",
+                "game_tile": "1518729369361842328.png",
+                "logotype": "1518709320920076369.png",
+                "game_tile_light": "quests/1516884151209427004/1518729315628486826.png",
+                "game_tile_dark": "quests/1516884151209427004/1518729315649323161.png",
+                "logotype_light": "quests/1516884151209427004/1518708779158339624.png",
+                "logotype_dark": "quests/1516884151209427004/1518708698833355042.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Off to College",
+                "game_title": "Off to College",
+                "game_publisher": "Amazon"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 14,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1516884151209427004/1518710189371691149_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1516884151209427004/1518732437520125972.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1516884151209427004/1518710189371691149_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1516884151209427004/1518732437520125972.jpg"
+                            },
+                            "video_hls": {
+                                "url": "quests/1516884151209427004/1518710189371691149.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1516884151209427004/1518732437520125972.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 14,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1516884151209427004/1518710188419448962_1080.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1516884151209427004/1518732437520125972.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1516884151209427004/1518710188419448962_720.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1516884151209427004/1518732437520125972.jpg"
+                            },
+                            "video_hls": {
+                                "url": "quests/1516884151209427004/1518710188419448962.m3u8",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1516884151209427004/1518732437520125972.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "200 Orbs",
+                            "name_with_article": "200 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 200,
+                        "premium_orb_quantity": 240
+                    }
+                ],
+                "rewards_expire_at": "2026-09-05T00:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://ad.doubleclick.net/ddm/trackclk/N2464377.3866164DISCORD.COM/B36109752.449400895;dc_trk_aid=643644680;dc_trk_cid=259235436;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;ltd=;dc_tdv=1",
+                "button_label": "Shop Now",
+                "subtitle": "Save on Everything College"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false,
+        "traffic_metadata_raw": "EAIYAQ=="
+    },
+    {
+        "id": "1523740534139519087",
+        "config": {
+            "id": "1523740534139519087",
+            "config_version": 2,
+            "starts_at": "2026-07-13T17:00:00+00:00",
+            "expires_at": "2026-07-27T00:00:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://marvelstrikeforce.com/en/",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1523740534139519087/1523742936481796096.jpg",
+                "quest_bar_hero_blurhash": "2ScKHISAmId+dHeZd3ewYgZKdg==",
+                "quest_bar_hero": "quests/1523740534139519087/1523743232767426711.jpg",
+                "quest_bar_hero_video": "quests/1523740534139519087/1523743145064665208_720.mp4",
+                "game_tile": "1523743419321815210.png",
+                "logotype": "1523753572129443870.png",
+                "game_tile_light": "quests/1523740534139519087/1523742936838307911.png",
+                "game_tile_dark": "quests/1523740534139519087/1523742936838307911.png",
+                "logotype_light": "quests/1523740534139519087/1523753525392314439.png",
+                "logotype_dark": "quests/1523740534139519087/1523753525392314439.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Marvel Strike Force",
+                "game_title": "Marvel Strike Force",
+                "game_publisher": "Scopely"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 43,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1523740534139519087/1523742942194438265_1080.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1523740534139519087/1523742936427266199.png"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1523740534139519087/1523742942194438265_720.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1523740534139519087/1523742936427266199.png"
+                            },
+                            "video_hls": {
+                                "url": "quests/1523740534139519087/1523742942194438265.m3u8",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1523740534139519087/1523742936427266199.png"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "200 Orbs",
+                            "name_with_article": "200 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 200,
+                        "premium_orb_quantity": 240
+                    }
+                ],
+                "rewards_expire_at": "2026-08-26T00:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "android": {
+                    "android_app_id": "com.foxnextgames.m3"
+                },
+                "ios": {
+                    "ios_app_id": "1292952049"
+                },
+                "link": "https://marvelstrikeforce.com/en/",
+                "button_label": "Learn More"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false,
+        "traffic_metadata_raw": "EAIYAQ=="
+    },
+    {
+        "id": "1522013807860383995",
+        "config": {
+            "id": "1522013807860383995",
+            "config_version": 2,
+            "starts_at": "2026-07-13T17:00:00+00:00",
+            "expires_at": "2026-07-27T06:00:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://gotdragonfire.com/",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1522013807860383995/1524925025252016178.jpg",
+                "quest_bar_hero_blurhash": "1fcJBIBsRpd8hnlwiHQ/ivZyZw==",
+                "quest_bar_hero": "quests/1522013807860383995/1525138577703440515.jpg",
+                "quest_bar_hero_video": "quests/1522013807860383995/1525220475943260253.mp4",
+                "game_tile": "1522014146822934699.png",
+                "logotype": "1522014145652719637.png",
+                "game_tile_light": "quests/1522013807860383995/1522013909832302592.png",
+                "game_tile_dark": "quests/1522013807860383995/1522013909832302592.png",
+                "logotype_light": "quests/1522013807860383995/1522014082293567548.png",
+                "logotype_dark": "quests/1522013807860383995/1522014081043927152.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Game of Thrones: Dragonfire",
+                "game_title": "Game of Thrones: Dragonfire",
+                "game_publisher": "Warner Bros. International Enterprises"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 40,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1522013807860383995/1524950044287963268_1080.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1522013807860383995/1524952872335179927.png"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1522013807860383995/1524950044287963268_720.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1522013807860383995/1524952872335179927.png"
+                            },
+                            "video_hls": {
+                                "url": "quests/1522013807860383995/1524950044287963268.m3u8",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1522013807860383995/1524952872335179927.png"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 40,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1522013807860383995/1524950044287963268_1080.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1522013807860383995/1524952872335179927.png"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1522013807860383995/1524950044287963268_720.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1522013807860383995/1524952872335179927.png"
+                            },
+                            "video_hls": {
+                                "url": "quests/1522013807860383995/1524950044287963268.m3u8",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1522013807860383995/1524952872335179927.png"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "200 Orbs",
+                            "name_with_article": "200 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 200,
+                        "premium_orb_quantity": 240
+                    }
+                ],
+                "rewards_expire_at": "2026-08-26T06:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "android": {
+                    "android_app_id": "com.wb.goog.hotd.socialstrategy"
+                },
+                "ios": {
+                    "ios_app_id": "1642607669"
+                },
+                "link": "https://gotdragonfire.com/",
                 "button_label": "Play Now"
             }
         },
