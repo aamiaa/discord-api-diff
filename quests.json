@@ -88829,5 +88829,298 @@
         "targeted_content": [],
         "preview": false,
         "traffic_metadata_raw": "EAIYAQ=="
+    },
+    {
+        "id": "1526440558577582090",
+        "config": {
+            "id": "1526440558577582090",
+            "config_version": 2,
+            "starts_at": "2026-07-15T17:00:00+00:00",
+            "expires_at": "2026-07-25T00:00:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://www.roblox.com/spotlight/sports?gsrbx=1",
+                "id": "363445589247131668",
+                "name": "Roblox"
+            },
+            "assets": {
+                "hero": "quests/1525240906611949598/1525241968345616615.jpg",
+                "hero_video": "quests/1525240906611949598/1525241882446135497_720.mp4",
+                "quest_bar_hero_blurhash": "mrYFGoYEmX1kmoSXCKKHQIk=",
+                "quest_bar_hero": "quests/1525240906611949598/1525241968345616615.jpg",
+                "quest_bar_hero_video": "quests/1525240906611949598/1525241882446135497_720.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1525240906611949598/1525241675868536985.png",
+                "game_tile_dark": "quests/1525240906611949598/1525241675977593035.png",
+                "logotype_light": "quests/1525240906611949598/1525241715315965992.png",
+                "logotype_dark": "quests/1525240906611949598/1525241715164975304.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Tennis Zero",
+                "game_title": "Tennis Zero on Roblox",
+                "game_publisher": "ROBLOX"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "363445589247131668"
+                            }
+                        ]
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 Orbs",
+                            "name_with_article": "700 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 700,
+                        "premium_orb_quantity": 840
+                    }
+                ],
+                "rewards_expire_at": "2026-08-24T00:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://www.roblox.com/spotlight/sports?gsrbx=1",
+                "button_label": "Get Game"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false,
+        "traffic_metadata_raw": "EAIYAQ=="
+    },
+    {
+        "id": "1524983562133307432",
+        "config": {
+            "id": "1524983562133307432",
+            "config_version": 2,
+            "starts_at": "2026-07-15T17:00:00+00:00",
+            "expires_at": "2026-07-30T00:00:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://www.imax.com/movie/the-odyssey",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1524983562133307432/1524985375251103764.jpg",
+                "quest_bar_hero_blurhash": "wfcBBIAIx1iGeXZxjXn3eX6f5w==",
+                "quest_bar_hero": "quests/1524983562133307432/1525170740985598204.jpg",
+                "quest_bar_hero_video": "quests/1524983562133307432/1525170547380588584_720.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1524983562133307432/1524985073189912617.png",
+                "game_tile_dark": "quests/1524983562133307432/1524985073315745993.png",
+                "logotype_light": "quests/1524983562133307432/1524985073483386909.png",
+                "logotype_dark": "quests/1524983562133307432/1524985073085059243.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Every Frame in IMAX",
+                "game_title": "Experience The Odyssey in IMAX",
+                "game_publisher": "IMAX"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 29,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1524983562133307432/1524985346037911582_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1524983562133307432/1524985171672174603.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1524983562133307432/1524985346037911582_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1524983562133307432/1524985171672174603.jpg"
+                            },
+                            "video_hls": {
+                                "url": "quests/1524983562133307432/1524985346037911582.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1524983562133307432/1524985171672174603.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 29,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1524983562133307432/1525171195497025747_1080.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1524983562133307432/1524985171672174603.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1524983562133307432/1525171195497025747_720.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1524983562133307432/1524985171672174603.jpg"
+                            },
+                            "video_hls": {
+                                "url": "quests/1524983562133307432/1525171195497025747.m3u8",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1524983562133307432/1524985171672174603.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "200 Orbs",
+                            "name_with_article": "200 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 200,
+                        "premium_orb_quantity": 240
+                    }
+                ],
+                "rewards_expire_at": "2026-08-29T00:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://www.imax.com/movie/the-odyssey",
+                "button_label": "Get Tickets",
+                "subtitle": "Experience The Odyssey in IMAX"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false,
+        "traffic_metadata_raw": "EAIYAQ=="
+    },
+    {
+        "id": "1525240906611949598",
+        "config": {
+            "id": "1525240906611949598",
+            "config_version": 2,
+            "starts_at": "2026-07-15T17:00:00+00:00",
+            "expires_at": "2026-07-25T00:00:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://www.roblox.com/spotlight/sports?gsrbx=1",
+                "id": "363445589247131668",
+                "name": "Roblox"
+            },
+            "assets": {
+                "hero": "quests/1525240906611949598/1526441096647938169.jpg",
+                "hero_video": "quests/1525240906611949598/1526440954603638824_720.mp4",
+                "quest_bar_hero_blurhash": "YOcJGoalCUR4eEWpB2J4MJY=",
+                "quest_bar_hero": "quests/1525240906611949598/1526441096647938169.jpg",
+                "quest_bar_hero_video": "quests/1525240906611949598/1526440954603638824_720.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1525240906611949598/1525241675868536985.png",
+                "game_tile_dark": "quests/1525240906611949598/1525241675977593035.png",
+                "logotype_light": "quests/1525240906611949598/1525241715315965992.png",
+                "logotype_dark": "quests/1525240906611949598/1525241715164975304.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Volleyball Legends",
+                "game_title": "Volleyball Legends on Roblox",
+                "game_publisher": "ROBLOX"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "363445589247131668"
+                            }
+                        ]
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 Orbs",
+                            "name_with_article": "700 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 700,
+                        "premium_orb_quantity": null
+                    }
+                ],
+                "rewards_expire_at": "2026-08-24T00:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://www.roblox.com/spotlight/sports?gsrbx=1",
+                "button_label": "Get Game"
+            }
+        }
     }
 ]
