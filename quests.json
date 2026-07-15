@@ -88632,33 +88632,6 @@
             },
             "task_config_v2": {
                 "tasks": {
-                    "WATCH_VIDEO": {
-                        "type": "WATCH_VIDEO",
-                        "target": 40,
-                        "assets": {
-                            "video": {
-                                "url": "quests/1522013807860383995/1524950044287963268_1080.mp4",
-                                "width": 1080,
-                                "height": 1920,
-                                "thumbnail": "quests/1522013807860383995/1524952872335179927.png"
-                            },
-                            "video_low_res": {
-                                "url": "quests/1522013807860383995/1524950044287963268_720.mp4",
-                                "width": 1080,
-                                "height": 1920,
-                                "thumbnail": "quests/1522013807860383995/1524952872335179927.png"
-                            },
-                            "video_hls": {
-                                "url": "quests/1522013807860383995/1524950044287963268.m3u8",
-                                "width": 1080,
-                                "height": 1920,
-                                "thumbnail": "quests/1522013807860383995/1524952872335179927.png"
-                            }
-                        },
-                        "messages": {
-                            "video_title": "PLACEHOLDER"
-                        }
-                    },
                     "WATCH_VIDEO_ON_MOBILE": {
                         "type": "WATCH_VIDEO_ON_MOBILE",
                         "target": 40,
@@ -88721,6 +88694,135 @@
                 },
                 "link": "https://gotdragonfire.com/",
                 "button_label": "Play Now"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false,
+        "traffic_metadata_raw": "EAIYAQ=="
+    },
+    {
+        "id": "1524110116436185188",
+        "config": {
+            "id": "1524110116436185188",
+            "config_version": 2,
+            "starts_at": "2026-07-15T16:00:00+00:00",
+            "expires_at": "2026-07-23T06:59:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://www.rockstargames.com/newswire/article/2525o93834o413/the-kortz-center-heist-now-available-in-gta-online?utm_source=Discord&utm_medium=p_social&utm_campaign=507:kch-release-20260714&utm_content=us-eng",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1524110116436185188/1526640066888466502.jpg",
+                "quest_bar_hero_blurhash": "ShgKCoIwfXhpeVeYID0V0GQ=",
+                "quest_bar_hero": "quests/1524110116436185188/1526640066888466502.jpg",
+                "quest_bar_hero_video": "quests/1524110116436185188/1526719967356260412_720.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1524110116436185188/1526640066875756694.png",
+                "game_tile_dark": "quests/1524110116436185188/1526640066875756694.png",
+                "logotype_light": "quests/1524110116436185188/1526644264665088072.png",
+                "logotype_dark": "quests/1524110116436185188/1526640066812710912.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "The Kortz Center Heist",
+                "game_title": "The Kortz Center Heist",
+                "game_publisher": "Rockstar Games"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 29,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1524110116436185188/1526640067093987348_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1524110116436185188/1526640066926084186.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1524110116436185188/1526640067093987348_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1524110116436185188/1526640066926084186.jpg"
+                            },
+                            "video_hls": {
+                                "url": "quests/1524110116436185188/1526640067093987348.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1524110116436185188/1526640066926084186.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 29,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1524110116436185188/1526640067093987348_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1524110116436185188/1526640066926084186.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1524110116436185188/1526640067093987348_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1524110116436185188/1526640066926084186.jpg"
+                            },
+                            "video_hls": {
+                                "url": "quests/1524110116436185188/1526640067093987348.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1524110116436185188/1526640066926084186.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "200 Orbs",
+                            "name_with_article": "200 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 200,
+                        "premium_orb_quantity": 240
+                    }
+                ],
+                "rewards_expire_at": "2026-08-22T06:59:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://www.rockstargames.com/newswire/article/2525o93834o413/the-kortz-center-heist-now-available-in-gta-online?utm_source=Discord&utm_medium=p_social&utm_campaign=507:kch-release-20260714&utm_content=us-eng",
+                "button_label": "Play Now",
+                "subtitle": "GTA Online: The Kortz Center Heist Now Available"
             }
         },
         "user_status": null,
