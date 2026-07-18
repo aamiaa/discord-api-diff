@@ -87657,7 +87657,7 @@
             "id": "1522097661828927589",
             "config_version": 2,
             "starts_at": "2026-07-10T17:00:00+00:00",
-            "expires_at": "2026-07-17T20:00:00+00:00",
+            "expires_at": "2026-07-24T00:00:00+00:00",
             "features": [
                 15
             ],
@@ -87737,7 +87737,7 @@
                         "premium_orb_quantity": 240
                     }
                 ],
-                "rewards_expire_at": "2026-08-16T20:00:00+00:00",
+                "rewards_expire_at": "2026-08-23T00:00:00+00:00",
                 "platforms": [
                     0
                 ]
@@ -89793,6 +89793,134 @@
             "cta_config": {
                 "link": "https://store.steampowered.com/app/1818450/STALZONE/?utm_source=discord_ads&utm_medium=summer2026&utm_campaign=game_quest",
                 "button_label": "Play Now"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false,
+        "traffic_metadata_raw": "EAIYAQ=="
+    },
+    {
+        "id": "1527079584561102938",
+        "config": {
+            "id": "1527079584561102938",
+            "config_version": 2,
+            "starts_at": "2026-07-17T22:05:00+00:00",
+            "expires_at": "2026-08-01T00:00:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://freetrial.finalfantasyxiv.com/na?utm_source=discord&utm_medium=dcpm_video&utm_campaign=ffxiv_awa_ffxiv_evergreen_ffxiv_mmorpg_0_fy27_na_lqa&utm_content=0",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1527079584561102938/1527750907075367072.jpg",
+                "quest_bar_hero_blurhash": "F0YKJIQDpohWqJeHiHa/qhYCxg==",
+                "quest_bar_hero": "quests/1527079584561102938/1527090005086965850.jpg",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1527079584561102938/1527089547593125958.jpg",
+                "game_tile_dark": "quests/1527079584561102938/1527089547593125958.jpg",
+                "logotype_light": "quests/1527079584561102938/1527463165799960626.png",
+                "logotype_dark": "quests/1527079584561102938/1527463243247915008.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "FINAL FANTASY XIV Online Trailer",
+                "game_title": "FINAL FANTASY XIV ",
+                "game_publisher": "SQUARE ENIX"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 62,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1527079584561102938/1527090840302780589_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1527079584561102938/1527093511449743472.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1527079584561102938/1527090840302780589_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1527079584561102938/1527093511449743472.jpg"
+                            },
+                            "video_hls": {
+                                "url": "quests/1527079584561102938/1527090840302780589.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1527079584561102938/1527093511449743472.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 62,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1527079584561102938/1527090840302780589_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1527079584561102938/1527093511449743472.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1527079584561102938/1527090840302780589_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1527079584561102938/1527093511449743472.jpg"
+                            },
+                            "video_hls": {
+                                "url": "quests/1527079584561102938/1527090840302780589.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1527079584561102938/1527093511449743472.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "200 Orbs",
+                            "name_with_article": "200 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 200,
+                        "premium_orb_quantity": 240
+                    }
+                ],
+                "rewards_expire_at": "2026-08-31T00:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://freetrial.finalfantasyxiv.com/na?utm_source=discord&utm_medium=dcpm_video&utm_campaign=ffxiv_awa_ffxiv_evergreen_ffxiv_mmorpg_0_fy27_na_lqa&utm_content=0",
+                "button_label": "Play Now",
+                "subtitle": "Play the Free Trial"
             }
         },
         "user_status": null,
