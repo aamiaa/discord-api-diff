@@ -90102,5 +90102,676 @@
         "targeted_content": [],
         "preview": false,
         "traffic_metadata_raw": "EAIYAQ=="
+    },
+    {
+        "id": "1519693428148015284",
+        "config": {
+            "id": "1519693428148015284",
+            "config_version": 2,
+            "starts_at": "2026-07-20T17:00:00+00:00",
+            "expires_at": "2026-08-04T00:00:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://gaildaughtry.com/",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1519693428148015284/1527786480632729752.jpg",
+                "quest_bar_hero_blurhash": "VSgKDILViWh/ZmeqhYn1ewmLWQ==",
+                "quest_bar_hero": "quests/1519693428148015284/1527786396310310994.jpg",
+                "quest_bar_hero_video": "quests/1519693428148015284/1527790026279096361_720.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1519693428148015284/1527786288155983973.png",
+                "game_tile_dark": "quests/1519693428148015284/1527786288155983973.png",
+                "logotype_light": "quests/1519693428148015284/1527786287577174206.png",
+                "logotype_dark": "quests/1519693428148015284/1527786287577174206.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Gail Daughtry & the Celebrity S#x Pass",
+                "game_title": "Gail Daughtry & the Celebrity S#x Pass",
+                "game_publisher": "Sony Pictures Classics"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 47,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1519693428148015284/1527786287560392755_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1519693428148015284/1527786289561337947.png"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1519693428148015284/1527786287560392755_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1519693428148015284/1527786289561337947.png"
+                            },
+                            "video_hls": {
+                                "url": "quests/1519693428148015284/1527786287560392755.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1519693428148015284/1527786289561337947.png"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 47,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1519693428148015284/1527786287581364375_1080.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1519693428148015284/1527786289561337947.png"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1519693428148015284/1527786287581364375_720.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1519693428148015284/1527786289561337947.png"
+                            },
+                            "video_hls": {
+                                "url": "quests/1519693428148015284/1527786287581364375.m3u8",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1519693428148015284/1527786289561337947.png"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "200 Orbs",
+                            "name_with_article": "200 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 200,
+                        "premium_orb_quantity": 240
+                    }
+                ],
+                "rewards_expire_at": "2026-09-03T00:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://gaildaughtry.com/",
+                "button_label": "Get Tickets",
+                "subtitle": "Now Playing in Select Cities"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false,
+        "traffic_metadata_raw": "EAIYAQ=="
+    },
+    {
+        "id": "1521294642631409845",
+        "config": {
+            "id": "1521294642631409845",
+            "config_version": 2,
+            "starts_at": "2026-07-20T17:00:00+00:00",
+            "expires_at": "2026-07-31T00:00:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://geni.us/Apex-Pro-TKL-Gen3",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1521294642631409845/1524183610339496186.jpg",
+                "hero_video": "quests/1521294642631409845/1524183075368599692_720.mp4",
+                "quest_bar_hero_blurhash": "SRgCHIQFdXq/aIi6Za18v833yw==",
+                "quest_bar_hero": "quests/1521294642631409845/1524182988517281842.jpg",
+                "quest_bar_hero_video": "quests/1521294642631409845/1524183075368599692_720.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1521294642631409845/1524182428053278760.png",
+                "game_tile_dark": "quests/1521294642631409845/1524182427780513792.png",
+                "logotype_light": "quests/1521294642631409845/1524182427684044880.png",
+                "logotype_dark": "quests/1521294642631409845/1524182428212531430.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Apex Pro Triple Threat",
+                "game_title": "Apex Pro Triple Threat",
+                "game_publisher": "Steelseries"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 29,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1521294642631409845/1524182638007418971_1080.mp4",
+                                "width": 3840,
+                                "height": 2160,
+                                "thumbnail": "quests/1521294642631409845/1524182427914731690.png"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1521294642631409845/1524182638007418971_720.mp4",
+                                "width": 3840,
+                                "height": 2160,
+                                "thumbnail": "quests/1521294642631409845/1524182427914731690.png"
+                            },
+                            "video_hls": {
+                                "url": "quests/1521294642631409845/1524182638007418971.m3u8",
+                                "width": 3840,
+                                "height": 2160,
+                                "thumbnail": "quests/1521294642631409845/1524182427914731690.png"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 29,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1521294642631409845/1524182638024196207_1080.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1521294642631409845/1524182427914731690.png"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1521294642631409845/1524182638024196207_720.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1521294642631409845/1524182427914731690.png"
+                            },
+                            "video_hls": {
+                                "url": "quests/1521294642631409845/1524182638024196207.m3u8",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1521294642631409845/1524182427914731690.png"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "200 Orbs",
+                            "name_with_article": "200 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 200,
+                        "premium_orb_quantity": 240
+                    }
+                ],
+                "rewards_expire_at": "2026-08-30T00:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://geni.us/Apex-Pro-TKL-Gen3",
+                "button_label": "Buy Now",
+                "subtitle": "The Only Keyboard That Has It All - Shop Now"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false,
+        "traffic_metadata_raw": "EAIYAQ=="
+    },
+    {
+        "id": "1527777102110265364",
+        "config": {
+            "id": "1527777102110265364",
+            "config_version": 2,
+            "starts_at": "2026-07-20T17:00:00+00:00",
+            "expires_at": "2026-07-27T00:00:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://www.monopolygo.com/",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1527777102110265364/1527780401735667815.jpg",
+                "quest_bar_hero_blurhash": "YtgFGojCt6iAYpWYaISABgk=",
+                "quest_bar_hero": "quests/1527777102110265364/1527780401735667815.jpg",
+                "quest_bar_hero_video": "quests/1527777102110265364/1527780114287562953_720.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1527777102110265364/1527780041830695143.png",
+                "game_tile_dark": "quests/1527777102110265364/1527780041830695143.png",
+                "logotype_light": "quests/1527777102110265364/1527780041172320357.png",
+                "logotype_dark": "quests/1527777102110265364/1527780041172320357.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "MONOPOLY GO",
+                "game_title": "MONOPOLY GO",
+                "game_publisher": "Scopely"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 39,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1527777102110265364/1527780041247953088_1080.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1527777102110265364/1527781019812368566.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1527777102110265364/1527780041247953088_720.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1527777102110265364/1527781019812368566.jpg"
+                            },
+                            "video_hls": {
+                                "url": "quests/1527777102110265364/1527780041247953088.m3u8",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1527777102110265364/1527781019812368566.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "200 Orbs",
+                            "name_with_article": "200 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 200,
+                        "premium_orb_quantity": null
+                    }
+                ],
+                "rewards_expire_at": "2026-08-26T00:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "android": {
+                    "android_app_id": "com.scopely.monopolygo"
+                },
+                "ios": {
+                    "ios_app_id": "1621328561"
+                },
+                "link": "https://www.monopolygo.com/",
+                "button_label": "Play Now"
+            }
+        }
+    },
+    {
+        "id": "1527791132938080326",
+        "config": {
+            "id": "1527791132938080326",
+            "config_version": 2,
+            "starts_at": "2026-07-20T17:00:00+00:00",
+            "expires_at": "2026-07-27T00:00:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://www.monopolygo.com/",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1527791132938080326/1527793175417061466.jpg",
+                "quest_bar_hero_blurhash": "YtgFGojCt6iAYpWYaISABgk=",
+                "quest_bar_hero": "quests/1527791132938080326/1527793175417061466.jpg",
+                "quest_bar_hero_video": "quests/1527791132938080326/1527793102667120820_720.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1527791132938080326/1527793006290407484.png",
+                "game_tile_dark": "quests/1527791132938080326/1527793006290407484.png",
+                "logotype_light": "quests/1527791132938080326/1527793006265106492.png",
+                "logotype_dark": "quests/1527791132938080326/1527793006265106492.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "MONOPOLY GO",
+                "game_title": "MONOPOLY GO",
+                "game_publisher": "Scopely"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 39,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1527791132938080326/1527793006235619398_1080.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1527791132938080326/1527801348622520330.png"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1527791132938080326/1527793006235619398_720.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1527791132938080326/1527801348622520330.png"
+                            },
+                            "video_hls": {
+                                "url": "quests/1527791132938080326/1527793006235619398.m3u8",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1527791132938080326/1527801348622520330.png"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "200 Orbs",
+                            "name_with_article": "200 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 200,
+                        "premium_orb_quantity": null
+                    }
+                ],
+                "rewards_expire_at": "2026-08-26T00:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "android": {
+                    "android_app_id": "com.scopely.monopolygo"
+                },
+                "ios": {
+                    "ios_app_id": "1621328561"
+                },
+                "link": "https://www.monopolygo.com/",
+                "button_label": "Play Now"
+            }
+        }
+    },
+    {
+        "id": "1527788098535030895",
+        "config": {
+            "id": "1527788098535030895",
+            "config_version": 2,
+            "starts_at": "2026-07-20T17:00:00+00:00",
+            "expires_at": "2026-07-27T00:00:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://www.monopolygo.com/",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1527788098535030895/1527789871874183270.jpg",
+                "quest_bar_hero_blurhash": "YtgFGojCt6iAYpWYaISABgk=",
+                "quest_bar_hero": "quests/1527788098535030895/1527789871874183270.jpg",
+                "quest_bar_hero_video": "quests/1527788098535030895/1527789760872058920_720.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1527788098535030895/1527789706673389568.png",
+                "game_tile_dark": "quests/1527788098535030895/1527789706673389568.png",
+                "logotype_light": "quests/1527788098535030895/1527789706555818055.png",
+                "logotype_dark": "quests/1527788098535030895/1527789706555818055.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "MONOPOLY GO",
+                "game_title": "MONOPOLY GO",
+                "game_publisher": "Scopely"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 39,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1527788098535030895/1527789707285495988_1080.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1527788098535030895/1527789706559885392.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1527788098535030895/1527789707285495988_720.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1527788098535030895/1527789706559885392.jpg"
+                            },
+                            "video_hls": {
+                                "url": "quests/1527788098535030895/1527789707285495988.m3u8",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1527788098535030895/1527789706559885392.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "200 Orbs",
+                            "name_with_article": "200 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 200,
+                        "premium_orb_quantity": null
+                    }
+                ],
+                "rewards_expire_at": "2026-08-26T00:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "android": {
+                    "android_app_id": "com.scopely.monopolygo"
+                },
+                "ios": {
+                    "ios_app_id": "1621328561"
+                },
+                "link": "https://www.monopolygo.com/",
+                "button_label": "Play Now"
+            }
+        }
+    },
+    {
+        "id": "1527781624270295223",
+        "config": {
+            "id": "1527781624270295223",
+            "config_version": 2,
+            "starts_at": "2026-07-20T17:00:00+00:00",
+            "expires_at": "2026-07-27T00:00:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://www.monopolygo.com/",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1527781624270295223/1527784740587831408.jpg",
+                "quest_bar_hero_blurhash": "YtgFGojCt6iAYpWYaISABgk=",
+                "quest_bar_hero": "quests/1527781624270295223/1527784740587831408.jpg",
+                "quest_bar_hero_video": "quests/1527781624270295223/1527784667191967764_720.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1527781624270295223/1527784607976788140.png",
+                "game_tile_dark": "quests/1527781624270295223/1527784607976788140.png",
+                "logotype_light": "quests/1527781624270295223/1527784608052023446.png",
+                "logotype_dark": "quests/1527781624270295223/1527784608052023446.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "MONOPOLY GO",
+                "game_title": "MONOPOLY GO",
+                "game_publisher": "Scopely"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 39,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1527781624270295223/1527784608962445552_1080.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1527781624270295223/1527784608089772092.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1527781624270295223/1527784608962445552_720.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1527781624270295223/1527784608089772092.jpg"
+                            },
+                            "video_hls": {
+                                "url": "quests/1527781624270295223/1527784608962445552.m3u8",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1527781624270295223/1527784608089772092.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "200 Orbs",
+                            "name_with_article": "200 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 200,
+                        "premium_orb_quantity": null
+                    }
+                ],
+                "rewards_expire_at": "2026-08-26T00:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "android": {
+                    "android_app_id": "com.scopely.monopolygo"
+                },
+                "ios": {
+                    "ios_app_id": "1621328561"
+                },
+                "link": "https://www.monopolygo.com/",
+                "button_label": "Play Now"
+            }
+        }
     }
 ]
