@@ -90010,5 +90010,97 @@
         "targeted_content": [],
         "preview": false,
         "traffic_metadata_raw": "EAIYAQ=="
+    },
+    {
+        "id": "1524064492705681432",
+        "config": {
+            "id": "1524064492705681432",
+            "config_version": 2,
+            "starts_at": "2026-07-20T16:00:00+00:00",
+            "expires_at": "2026-07-28T00:00:00+00:00",
+            "features": [
+                27,
+                36,
+                15
+            ],
+            "application": {
+                "link": "https://www.hulu.com/series/52b8dd8a-eff2-4ed2-9b8d-7c0039df1c53?cmp=21640&utm_campaign=CM_SOC_Discord_KOTH15&utm_medium=Social&utm_source=Discord&utm_term=&utm_content=&utm_focus=&utm_target=&utm_funnel=&dl=false",
+                "id": "1524717463034527784",
+                "name": "PocketSand"
+            },
+            "assets": {
+                "hero": "quests/1524064492705681432/1527310083355181157.jpg",
+                "hero_video": "quests/1524064492705681432/1527310288272232628_720.mp4",
+                "quest_bar_hero_blurhash": "VggKFIJgdYeJd4eiiIZApQJiKQ==",
+                "quest_bar_hero": "quests/1524064492705681432/1527311025760632972.jpg",
+                "quest_bar_hero_video": "quests/1524064492705681432/1527310288272232628_720.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1524064492705681432/1527309891029434531.png",
+                "game_tile_dark": "quests/1524064492705681432/1527309891029434531.png",
+                "logotype_light": "quests/1524064492705681432/1527309891734208612.png",
+                "logotype_dark": "quests/1524064492705681432/1527309891734208612.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "King of the Hill S15",
+                "game_title": "Stream the new season now on Hulu and with Hulu on Disney Plus.",
+                "game_publisher": "Hulu"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "ACHIEVEMENT_IN_ACTIVITY": {
+                        "type": "ACHIEVEMENT_IN_ACTIVITY",
+                        "target": 4,
+                        "applications": [
+                            {
+                                "id": "1524717463034527784"
+                            }
+                        ],
+                        "event_name": "progress",
+                        "messages": {
+                            "task_title": "King of the Hill S15",
+                            "task_description": "Hit the gas and collect 30 propane tanks to win 700 Orbs! "
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 Orbs",
+                            "name_with_article": "700 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 700,
+                        "premium_orb_quantity": 840
+                    }
+                ],
+                "rewards_expire_at": "2026-08-27T00:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://www.hulu.com/series/52b8dd8a-eff2-4ed2-9b8d-7c0039df1c53?cmp=21640&utm_campaign=CM_SOC_Discord_KOTH15&utm_medium=Social&utm_source=Discord&utm_term=&utm_content=&utm_focus=&utm_target=&utm_funnel=&dl=false",
+                "button_label": "Stream Now",
+                "subtitle": "Stream the new season now on Hulu and with Hulu on Disney Plus."
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false,
+        "traffic_metadata_raw": "EAIYAQ=="
     }
 ]
