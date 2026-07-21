@@ -90773,5 +90773,474 @@
                 "button_label": "Play Now"
             }
         }
+    },
+    {
+        "id": "1526986140928708638",
+        "config": {
+            "id": "1526986140928708638",
+            "config_version": 2,
+            "starts_at": "2026-07-21T17:00:00+00:00",
+            "expires_at": "2026-08-04T00:00:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://ad.doubleclick.net/ddm/trackclk/N7657.3866164DISCORD.COM/B36324648.451845807;dc_trk_aid=645326018;dc_trk_cid=259469953;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1526986140928708638/1527414373013000393.jpg",
+                "quest_bar_hero_blurhash": "0fcFJIg1BofXWGjIN1pRcQAGGA==",
+                "quest_bar_hero": "quests/1526986140928708638/1527414372975120577.jpg",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1526986140928708638/1527414417799647232.png",
+                "game_tile_dark": "quests/1526986140928708638/1527414417799647232.png",
+                "logotype_light": "quests/1526986140928708638/1527414417606578288.png",
+                "logotype_dark": "quests/1526986140928708638/1527414417745252604.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Battlefield 6 Season 4 Trailer",
+                "game_title": "Battlefield",
+                "game_publisher": "Electronic Arts"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 29,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1526986140928708638/1527414373381832855_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1526986140928708638/1527806575173959810.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1526986140928708638/1527414373381832855_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1526986140928708638/1527806575173959810.jpg"
+                            },
+                            "video_hls": {
+                                "url": "quests/1526986140928708638/1527414373381832855.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1526986140928708638/1527806575173959810.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 29,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1526986140928708638/1527414373381832855_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1526986140928708638/1527806575173959810.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1526986140928708638/1527414373381832855_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1526986140928708638/1527806575173959810.jpg"
+                            },
+                            "video_hls": {
+                                "url": "quests/1526986140928708638/1527414373381832855.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1526986140928708638/1527806575173959810.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 3,
+                        "sku_id": "1528925852564193421",
+                        "asset": "quests/1526986140928708638/1528925969136750673.mp4",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "BF Flight Helmet",
+                            "name_with_article": "a BF Flight Helmet",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "expires_at": "2026-10-03T00:00:00+00:00",
+                        "expires_at_premium": null,
+                        "expiration_mode": 3
+                    }
+                ],
+                "rewards_expire_at": "2026-09-03T00:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://ad.doubleclick.net/ddm/trackclk/N7657.3866164DISCORD.COM/B36324648.451845807;dc_trk_aid=645326018;dc_trk_cid=259469953;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1",
+                "button_label": "Play Game",
+                "subtitle": "Naval warfare returns in Season 4. Play Now."
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false,
+        "traffic_metadata_raw": "EAIYAQ=="
+    },
+    {
+        "id": "1527379212791709878",
+        "config": {
+            "id": "1527379212791709878",
+            "config_version": 2,
+            "starts_at": "2026-07-21T15:30:00+00:00",
+            "expires_at": "2026-07-28T06:59:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://othermommymovie.com/",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1527379212791709878/1527381828506488953.jpg",
+                "hero_video": "quests/1527379212791709878/1529137141198622760_720.mp4",
+                "quest_bar_hero_blurhash": "UBgGDIRwWnV6WJWFdoYAhkdgeA==",
+                "quest_bar_hero": "quests/1527379212791709878/1529137007287341147.jpg",
+                "quest_bar_hero_video": "quests/1527379212791709878/1529137141198622760_720.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1527379212791709878/1527381691075661824.png",
+                "game_tile_dark": "quests/1527379212791709878/1527381691075661824.png",
+                "logotype_light": "quests/1527379212791709878/1527381765864296498.png",
+                "logotype_dark": "quests/1527379212791709878/1527381765621157938.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Other Mommy ",
+                "game_title": "In Theaters October 09, 2026",
+                "game_publisher": "Universal Pictures"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 133,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1527379212791709878/1529136220125266123_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1527379212791709878/1527381812316344430.png"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1527379212791709878/1529136220125266123_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1527379212791709878/1527381812316344430.png"
+                            },
+                            "video_hls": {
+                                "url": "quests/1527379212791709878/1529136220125266123.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1527379212791709878/1527381812316344430.png"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 133,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1527379212791709878/1529151415115714580_1080.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1527379212791709878/1527381812316344430.png"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1527379212791709878/1529151415115714580_720.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1527379212791709878/1527381812316344430.png"
+                            },
+                            "video_hls": {
+                                "url": "quests/1527379212791709878/1529151415115714580.m3u8",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1527379212791709878/1527381812316344430.png"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "200 Orbs",
+                            "name_with_article": "200 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 200,
+                        "premium_orb_quantity": 240
+                    }
+                ],
+                "rewards_expire_at": "2026-08-27T06:59:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://othermommymovie.com/",
+                "button_label": "Learn More",
+                "subtitle": "In Theaters October 9, 2026"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false,
+        "traffic_metadata_raw": "EAIYAQ=="
+    },
+    {
+        "id": "1527003925650083910",
+        "config": {
+            "id": "1527003925650083910",
+            "config_version": 2,
+            "starts_at": "2026-07-21T17:00:00+00:00",
+            "expires_at": "2026-08-04T00:00:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://ad.doubleclick.net/ddm/trackclk/N7657.3866164DISCORD.COM/B36324648.451600163;dc_trk_aid=645326018;dc_trk_cid=259469953;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1",
+                "id": "1425690433018925056",
+                "name": "Battlefield 6"
+            },
+            "assets": {
+                "hero": "quests/1527003925650083910/1527412802858258592.jpg",
+                "quest_bar_hero_blurhash": "WPcJHIYIKXeKmHZ2ho04cHUDZw==",
+                "quest_bar_hero": "quests/1527003925650083910/1527412774030938163.jpg",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1527003925650083910/1527412802753527818.png",
+                "game_tile_dark": "quests/1527003925650083910/1527412802753527818.png",
+                "logotype_light": "quests/1527003925650083910/1527412802698870894.png",
+                "logotype_dark": "quests/1527003925650083910/1527412802627698689.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Battlefield 6 Season 4",
+                "game_title": "Battlefield",
+                "game_publisher": "Electronic Arts"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1425690433018925056"
+                            }
+                        ]
+                    },
+                    "PLAY_ON_XBOX": {
+                        "type": "PLAY_ON_XBOX",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1425690433018925056"
+                            }
+                        ],
+                        "external_ids": [
+                            "1840884885"
+                        ]
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "type": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1425690433018925056"
+                            }
+                        ],
+                        "external_ids": [
+                            "PPSA19534_00"
+                        ]
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 Orbs",
+                            "name_with_article": "700 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 700,
+                        "premium_orb_quantity": 840
+                    }
+                ],
+                "rewards_expire_at": "2026-09-03T00:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://ad.doubleclick.net/ddm/trackclk/N7657.3866164DISCORD.COM/B36324648.451600163;dc_trk_aid=645326018;dc_trk_cid=259469953;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1",
+                "button_label": "Play Game"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false,
+        "traffic_metadata_raw": "EAIYAQ=="
+    },
+    {
+        "id": "1527408960137592933",
+        "config": {
+            "id": "1527408960137592933",
+            "config_version": 2,
+            "starts_at": "2026-07-21T17:00:00+00:00",
+            "expires_at": "2026-08-04T00:00:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://game.ea.com/redirect?campaignName=GLA_MF_EU_WPP_DIRD_DIS_S4&caudience=C3-AFFINITY&ccreative=GLA-LS-S4KEYART",
+                "id": "1425690433018925056",
+                "name": "Battlefield 6"
+            },
+            "assets": {
+                "hero": "quests/1527408960137592933/1527410012056588288.jpg",
+                "quest_bar_hero_blurhash": "WPcJHIYIKXeKmHZ2ho04cHUDZw==",
+                "quest_bar_hero": "quests/1527408960137592933/1527411402233479319.jpg",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1527408960137592933/1527410011989475499.png",
+                "game_tile_dark": "quests/1527408960137592933/1527410011989475499.png",
+                "logotype_light": "quests/1527408960137592933/1527410011351941311.png",
+                "logotype_dark": "quests/1527408960137592933/1527410011553140929.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Battlefield 6 Season 4",
+                "game_title": "Battlefield",
+                "game_publisher": "Electronic Arts"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1425690433018925056"
+                            }
+                        ]
+                    },
+                    "PLAY_ON_XBOX": {
+                        "type": "PLAY_ON_XBOX",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1425690433018925056"
+                            }
+                        ],
+                        "external_ids": [
+                            "1840884885"
+                        ]
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "type": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1425690433018925056"
+                            }
+                        ],
+                        "external_ids": [
+                            "PPSA19534_00"
+                        ]
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 Orbs",
+                            "name_with_article": "700 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 700,
+                        "premium_orb_quantity": null
+                    }
+                ],
+                "rewards_expire_at": "2026-09-03T00:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://game.ea.com/redirect?campaignName=GLA_MF_EU_WPP_DIRD_DIS_S4&caudience=C3-AFFINITY&ccreative=GLA-LS-S4KEYART",
+                "button_label": "Play Game"
+            }
+        }
     }
 ]
