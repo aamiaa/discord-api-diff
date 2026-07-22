@@ -81779,6 +81779,86 @@
         }
     },
     {
+        "id": "1519474065293967471",
+        "config": {
+            "id": "1519474065293967471",
+            "config_version": 2,
+            "starts_at": "2026-07-08T17:00:00+00:00",
+            "expires_at": "2026-07-16T00:00:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://example.com",
+                "id": "111111111111111111",
+                "name": "PLACEHOLDER"
+            },
+            "assets": {
+                "hero": "PLACEHOLDER",
+                "quest_bar_hero_blurhash": null,
+                "quest_bar_hero": "PLACEHOLDER",
+                "game_tile": "1519474206419583056.png",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1519474065293967471/1519474176816189551.png",
+                "game_tile_dark": "quests/1519474065293967471/1519474176816189551.png",
+                "logotype_light": "PLACEHOLDER",
+                "logotype_dark": "PLACEHOLDER"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "PLACEHOLDER",
+                "game_title": "PLACEHOLDER",
+                "game_publisher": "PLACEHOLDER"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "111111111111111111"
+                            }
+                        ]
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 1,
+                        "sku_id": "1519474065293967472",
+                        "asset": "PLACEHOLDER",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "PLACEHOLDER",
+                            "name_with_article": "PLACEHOLDER",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "approximate_count": null,
+                        "redemption_link": null
+                    }
+                ],
+                "rewards_expire_at": "2026-08-15T00:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://example.com",
+                "button_label": "Get Game"
+            }
+        }
+    },
+    {
         "id": "1519897790417731634",
         "config": {
             "id": "1519897790417731634",
@@ -91140,6 +91220,252 @@
         "targeted_content": [],
         "preview": false,
         "traffic_metadata_raw": "EAIYAQ=="
+    },
+    {
+        "id": "1528961574029758464",
+        "config": {
+            "id": "1528961574029758464",
+            "config_version": 2,
+            "starts_at": "2026-07-20T03:00:00+00:00",
+            "expires_at": "2026-07-22T05:00:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://discord.com/store",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1528961574029758464/1528964804423847966.jpg",
+                "quest_bar_hero_blurhash": "X3YKDIQGiGeIh4iCeYUBlrNDBQ==",
+                "quest_bar_hero": "quests/1528961574029758464/1528964804319121528.jpg",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1528961574029758464/1528964457961619576.png",
+                "game_tile_dark": "quests/1528961574029758464/1528964562534138009.png",
+                "logotype_light": "quests/1528961574029758464/1528964457961619576.png",
+                "logotype_dark": "quests/1528961574029758464/1528964457961619576.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Nitro",
+                "game_title": "Nitro",
+                "game_publisher": "Discord"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 43,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1528961574029758464/1528965103737634977_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1528961574029758464/1528965103624654970.png"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1528961574029758464/1528965103737634977_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1528961574029758464/1528965103624654970.png"
+                            },
+                            "video_hls": {
+                                "url": "quests/1528961574029758464/1528965103737634977.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1528961574029758464/1528965103624654970.png"
+                            }
+                        },
+                        "messages": {
+                            "video_title": ""
+                        }
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 43,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1528961574029758464/1528965103737634977_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1528961574029758464/1528965103624654970.png"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1528961574029758464/1528965103737634977_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1528961574029758464/1528965103624654970.png"
+                            },
+                            "video_hls": {
+                                "url": "quests/1528961574029758464/1528965103737634977.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1528961574029758464/1528965103624654970.png"
+                            }
+                        },
+                        "messages": {
+                            "video_title": ""
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "200 Orbs",
+                            "name_with_article": "200 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 200,
+                        "premium_orb_quantity": 240
+                    }
+                ],
+                "rewards_expire_at": "2026-08-21T05:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "not_shareable",
+            "cta_config": {
+                "link": "https://discord.com/store",
+                "button_label": "Learn More"
+            }
+        }
+    },
+    {
+        "id": "1529582099084869642",
+        "config": {
+            "id": "1529582099084869642",
+            "config_version": 2,
+            "starts_at": "2026-07-22T04:00:00+00:00",
+            "expires_at": "2026-07-24T05:00:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://discord.com/store",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1529582099084869642/1529582517303251066.jpg",
+                "quest_bar_hero_blurhash": "X3YKDIQGiGeIh4iCeYUBlrNDBQ==",
+                "quest_bar_hero": "quests/1529582099084869642/1529582517303115927.jpg",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1529582099084869642/1529582517219364955.png",
+                "game_tile_dark": "quests/1529582099084869642/1529582517219364955.png",
+                "logotype_light": "quests/1529582099084869642/1529582517278216303.png",
+                "logotype_dark": "quests/1529582099084869642/1529582517278216303.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Nitro",
+                "game_title": "Nitro",
+                "game_publisher": "Discord"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 43,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1529582099084869642/1529582517232079070_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1529582099084869642/1529582517294727198.png"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1529582099084869642/1529582517232079070_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1529582099084869642/1529582517294727198.png"
+                            },
+                            "video_hls": {
+                                "url": "quests/1529582099084869642/1529582517232079070.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1529582099084869642/1529582517294727198.png"
+                            }
+                        },
+                        "messages": {
+                            "video_title": ""
+                        }
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 43,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1529582099084869642/1529582517232079070_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1529582099084869642/1529582517294727198.png"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1529582099084869642/1529582517232079070_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1529582099084869642/1529582517294727198.png"
+                            },
+                            "video_hls": {
+                                "url": "quests/1529582099084869642/1529582517232079070.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1529582099084869642/1529582517294727198.png"
+                            }
+                        },
+                        "messages": {
+                            "video_title": ""
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "200 Orbs",
+                            "name_with_article": "200 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 200,
+                        "premium_orb_quantity": 240
+                    }
+                ],
+                "rewards_expire_at": "2026-08-23T05:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://discord.com/store",
+                "button_label": "Learn More"
+            }
+        }
     },
     {
         "id": "1527408960137592933",
