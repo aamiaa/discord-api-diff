@@ -83215,7 +83215,7 @@
             "id": "1518710044856815737",
             "config_version": 2,
             "starts_at": "2026-07-01T17:00:00+00:00",
-            "expires_at": "2026-07-25T00:00:00+00:00",
+            "expires_at": "2026-08-01T00:00:00+00:00",
             "features": [
                 27,
                 36,
@@ -83287,7 +83287,7 @@
                         "expiration_mode": 1
                     }
                 ],
-                "rewards_expire_at": "2026-08-24T00:00:00+00:00",
+                "rewards_expire_at": "2026-08-31T00:00:00+00:00",
                 "platforms": [
                     0
                 ]
@@ -92431,7 +92431,7 @@
                 "hero": "quests/1529230500151955649/1529688938900488303.jpg",
                 "quest_bar_hero_blurhash": "xQcGCoJBL7lqp1WJmMBsCMw=",
                 "quest_bar_hero": "quests/1529230500151955649/1529688938900488303.jpg",
-                "quest_bar_hero_video": "quests/1529230500151955649/1529698360729272392.mp4",
+                "quest_bar_hero_video": "quests/1529230500151955649/1529949986320683118.mp4",
                 "game_tile": "PLACEHOLDER",
                 "logotype": "PLACEHOLDER",
                 "game_tile_light": "quests/1529230500151955649/1529688938812276846.jpg",
@@ -92452,23 +92452,23 @@
                 "tasks": {
                     "WATCH_VIDEO": {
                         "type": "WATCH_VIDEO",
-                        "target": 12,
+                        "target": 144,
                         "assets": {
                             "video": {
-                                "url": "quests/1529230500151955649/1529698360729272392_1080.mp4",
-                                "width": 1444,
+                                "url": "quests/1529230500151955649/1529949986815742205_1080.mp4",
+                                "width": 1920,
                                 "height": 1080,
                                 "thumbnail": "quests/1529230500151955649/1529688939579969546.jpg"
                             },
                             "video_low_res": {
-                                "url": "quests/1529230500151955649/1529698360729272392_720.mp4",
-                                "width": 1444,
+                                "url": "quests/1529230500151955649/1529949986815742205_720.mp4",
+                                "width": 1920,
                                 "height": 1080,
                                 "thumbnail": "quests/1529230500151955649/1529688939579969546.jpg"
                             },
                             "video_hls": {
-                                "url": "quests/1529230500151955649/1529698360729272392.m3u8",
-                                "width": 1444,
+                                "url": "quests/1529230500151955649/1529949986815742205.m3u8",
+                                "width": 1920,
                                 "height": 1080,
                                 "thumbnail": "quests/1529230500151955649/1529688939579969546.jpg"
                             }
