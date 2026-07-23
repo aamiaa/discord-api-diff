@@ -92536,5 +92536,93 @@
                 "subtitle": "En Cines este 17 de Septiembre. Filmada para IMAX"
             }
         }
+    },
+    {
+        "id": "1528852067656007920",
+        "config": {
+            "id": "1528852067656007920",
+            "config_version": 2,
+            "starts_at": "2026-07-23T13:00:00+00:00",
+            "expires_at": "2026-08-06T00:00:00+00:00",
+            "features": [
+                27,
+                36,
+                15
+            ],
+            "application": {
+                "link": "https://www.youtube.com/sonypicturesaus",
+                "id": "1519739684689805332",
+                "name": "Umbrella"
+            },
+            "assets": {
+                "hero": "quests/1528852067656007920/1529546151722750223.jpg",
+                "hero_video": "quests/1528852067656007920/1529725727107190915_720.mp4",
+                "quest_bar_hero_blurhash": "CygGFIocUIgR+nudVWVnh4CECA==",
+                "quest_bar_hero": "quests/1528852067656007920/1529171655459471521.jpg",
+                "quest_bar_hero_video": "quests/1528852067656007920/1529725727107190915_720.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1528852067656007920/1529171520931365034.png",
+                "game_tile_dark": "quests/1528852067656007920/1529171520931365034.png",
+                "logotype_light": "quests/1528852067656007920/1529544644512448603.png",
+                "logotype_dark": "quests/1528852067656007920/1529544644512448603.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Resident Evil Trailer Experience",
+                "game_title": "Resident Evil Trailer Experience",
+                "game_publisher": "Sony Pictures"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "ACHIEVEMENT_IN_ACTIVITY": {
+                        "type": "ACHIEVEMENT_IN_ACTIVITY",
+                        "target": 5,
+                        "applications": [
+                            {
+                                "id": "1519739684689805332"
+                            }
+                        ],
+                        "event_name": "progress",
+                        "messages": {
+                            "task_title": "Resident Evil Trailer Experience",
+                            "task_description": "Watch the trailer for Zach Cregger’s Resident Evil, exclusively in theatres September 17th"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 Orbs",
+                            "name_with_article": "700 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 700,
+                        "premium_orb_quantity": null
+                    }
+                ],
+                "rewards_expire_at": "2026-09-05T00:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://www.youtube.com/sonypicturesaus",
+                "button_label": "Learn More",
+                "subtitle": "Exclusively in movie theaters September 17th"
+            }
+        }
     }
 ]
