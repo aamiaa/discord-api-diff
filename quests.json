@@ -92106,5 +92106,435 @@
         "targeted_content": [],
         "preview": false,
         "traffic_metadata_raw": "EAIYAQ=="
+    },
+    {
+        "id": "1529177760612880465",
+        "config": {
+            "id": "1529177760612880465",
+            "config_version": 2,
+            "starts_at": "2026-07-23T13:00:00+00:00",
+            "expires_at": "2026-08-06T00:00:00+00:00",
+            "features": [
+                27,
+                36,
+                15
+            ],
+            "application": {
+                "link": "https://residentevil.movie?utm_source=discord&utm_medium=core",
+                "id": "1519739684689805332",
+                "name": "Umbrella"
+            },
+            "assets": {
+                "hero": "quests/1529177760612880465/1529516467564056646.jpg",
+                "hero_video": "quests/1529177760612880465/1529725664436162672_720.mp4",
+                "quest_bar_hero_blurhash": "CygGFIocUIgR+nudVWVnh4CECA==",
+                "quest_bar_hero": "quests/1529177760612880465/1529179490511753358.jpg",
+                "quest_bar_hero_video": "quests/1529177760612880465/1529725664436162672_720.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1529177760612880465/1529179490486456360.png",
+                "game_tile_dark": "quests/1529177760612880465/1529179490486456360.png",
+                "logotype_light": "quests/1529177760612880465/1529583696854908978.png",
+                "logotype_dark": "quests/1529177760612880465/1529583696854908978.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Resident Evil Trailer Experience",
+                "game_title": "Resident Evil Trailer Experience",
+                "game_publisher": "Sony Pictures"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "ACHIEVEMENT_IN_ACTIVITY": {
+                        "type": "ACHIEVEMENT_IN_ACTIVITY",
+                        "target": 5,
+                        "applications": [
+                            {
+                                "id": "1519739684689805332"
+                            }
+                        ],
+                        "event_name": "progress",
+                        "messages": {
+                            "task_title": "Resident Evil Trailer Experience",
+                            "task_description": "Watch the trailer for Zach Cregger's Resident Evil, exclusively in movie theatres September 18"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 Orbs",
+                            "name_with_article": "700 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 700,
+                        "premium_orb_quantity": 840
+                    }
+                ],
+                "rewards_expire_at": "2026-09-05T00:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://residentevil.movie?utm_source=discord&utm_medium=core",
+                "button_label": "Learn More",
+                "subtitle": "Exclusively in movie theatres September 18"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false,
+        "traffic_metadata_raw": "EAIYAQ=="
+    },
+    {
+        "id": "1528814066599071825",
+        "config": {
+            "id": "1528814066599071825",
+            "config_version": 2,
+            "starts_at": "2026-07-23T13:00:00+00:00",
+            "expires_at": "2026-08-06T00:00:00+00:00",
+            "features": [
+                27,
+                36,
+                15
+            ],
+            "application": {
+                "link": "https://www.sonypictures.co.uk/movies/resident-evil",
+                "id": "1519739684689805332",
+                "name": "Umbrella"
+            },
+            "assets": {
+                "hero": "quests/1528814066599071825/1529601802851582033.jpg",
+                "hero_video": "quests/1528814066599071825/1529725486282969208_720.mp4",
+                "quest_bar_hero_blurhash": "iRgGEoQwhXt2iKeVBZJmQFk=",
+                "quest_bar_hero": "quests/1528814066599071825/1529196713275949227.jpg",
+                "quest_bar_hero_video": "quests/1528814066599071825/1529725486282969208_720.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1528814066599071825/1529196590152290374.png",
+                "game_tile_dark": "quests/1528814066599071825/1529196590152290374.png",
+                "logotype_light": "quests/1528814066599071825/1529597080866132048.png",
+                "logotype_dark": "quests/1528814066599071825/1529597080866132048.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Resident Evil Trailer Experience",
+                "game_title": "Resident Evil Trailer Experience",
+                "game_publisher": "Sony Pictures"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "ACHIEVEMENT_IN_ACTIVITY": {
+                        "type": "ACHIEVEMENT_IN_ACTIVITY",
+                        "target": 5,
+                        "applications": [
+                            {
+                                "id": "1519739684689805332"
+                            }
+                        ],
+                        "event_name": "progress",
+                        "messages": {
+                            "task_title": "Resident Evil Trailer Experience",
+                            "task_description": "Watch the trailer for Zach Cregger’s Resident Evil, exclusively in theatres September 18"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 Orbs",
+                            "name_with_article": "700 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 700,
+                        "premium_orb_quantity": null
+                    }
+                ],
+                "rewards_expire_at": "2026-09-05T00:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://www.sonypictures.co.uk/movies/resident-evil",
+                "button_label": "Learn More",
+                "subtitle": "In Cinemas September 18.  Filmed for IMAX"
+            }
+        }
+    },
+    {
+        "id": "1529226655300714687",
+        "config": {
+            "id": "1529226655300714687",
+            "config_version": 2,
+            "starts_at": "2026-07-23T13:00:00+00:00",
+            "expires_at": "2026-07-23T13:05:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://www.sonypictures.co.uk/movies/resident-evil",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1529226655300714687/1529705677088489572.jpg",
+                "quest_bar_hero_blurhash": "xQcGCoJBL7lqp1WJmMBsCMw=",
+                "quest_bar_hero": "quests/1529226655300714687/1529705677088489572.jpg",
+                "quest_bar_hero_video": "quests/1529226655300714687/1529705712249340005.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1529226655300714687/1529705677298208768.jpg",
+                "game_tile_dark": "quests/1529226655300714687/1529705677298208768.jpg",
+                "logotype_light": "quests/1529226655300714687/1529705677159661710.png",
+                "logotype_dark": "quests/1529226655300714687/1529705677159661710.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Resident Evil",
+                "game_title": "Resident Evil",
+                "game_publisher": "Sony Pictures"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 12,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1529226655300714687/1529705712249340005_1080.mp4",
+                                "width": 1444,
+                                "height": 1080,
+                                "thumbnail": "quests/1529226655300714687/1529705677050613860.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1529226655300714687/1529705712249340005_720.mp4",
+                                "width": 1444,
+                                "height": 1080,
+                                "thumbnail": "quests/1529226655300714687/1529705677050613860.jpg"
+                            },
+                            "video_hls": {
+                                "url": "quests/1529226655300714687/1529705712249340005.m3u8",
+                                "width": 1444,
+                                "height": 1080,
+                                "thumbnail": "quests/1529226655300714687/1529705677050613860.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 12,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1529226655300714687/1529705712249340005_1080.mp4",
+                                "width": 1444,
+                                "height": 1080,
+                                "thumbnail": "quests/1529226655300714687/1529705677050613860.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1529226655300714687/1529705712249340005_720.mp4",
+                                "width": 1444,
+                                "height": 1080,
+                                "thumbnail": "quests/1529226655300714687/1529705677050613860.jpg"
+                            },
+                            "video_hls": {
+                                "url": "quests/1529226655300714687/1529705712249340005.m3u8",
+                                "width": 1444,
+                                "height": 1080,
+                                "thumbnail": "quests/1529226655300714687/1529705677050613860.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "200 Orbs",
+                            "name_with_article": "200 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 200,
+                        "premium_orb_quantity": null
+                    }
+                ],
+                "rewards_expire_at": "2026-08-22T13:05:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://www.sonypictures.co.uk/movies/resident-evil",
+                "button_label": "Learn More",
+                "subtitle": "In Cinemas September 18.  Filmed for IMAX"
+            }
+        }
+    },
+    {
+        "id": "1529230500151955649",
+        "config": {
+            "id": "1529230500151955649",
+            "config_version": 2,
+            "starts_at": "2026-07-23T13:00:00+00:00",
+            "expires_at": "2026-07-23T13:05:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://www.sonypictures.com.mx/",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1529230500151955649/1529688938900488303.jpg",
+                "quest_bar_hero_blurhash": "xQcGCoJBL7lqp1WJmMBsCMw=",
+                "quest_bar_hero": "quests/1529230500151955649/1529688938900488303.jpg",
+                "quest_bar_hero_video": "quests/1529230500151955649/1529698360729272392.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1529230500151955649/1529688938812276846.jpg",
+                "game_tile_dark": "quests/1529230500151955649/1529688938812276846.jpg",
+                "logotype_light": "quests/1529230500151955649/1529688938955149494.png",
+                "logotype_dark": "quests/1529230500151955649/1529688938955149494.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Resident Evil: Noche Cero",
+                "game_title": "Resident Evil: Noche Cero",
+                "game_publisher": "Sony Pictures"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 12,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1529230500151955649/1529698360729272392_1080.mp4",
+                                "width": 1444,
+                                "height": 1080,
+                                "thumbnail": "quests/1529230500151955649/1529688939579969546.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1529230500151955649/1529698360729272392_720.mp4",
+                                "width": 1444,
+                                "height": 1080,
+                                "thumbnail": "quests/1529230500151955649/1529688939579969546.jpg"
+                            },
+                            "video_hls": {
+                                "url": "quests/1529230500151955649/1529698360729272392.m3u8",
+                                "width": 1444,
+                                "height": 1080,
+                                "thumbnail": "quests/1529230500151955649/1529688939579969546.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 12,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1529230500151955649/1529698360729272392_1080.mp4",
+                                "width": 1444,
+                                "height": 1080,
+                                "thumbnail": "quests/1529230500151955649/1529688939579969546.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1529230500151955649/1529698360729272392_720.mp4",
+                                "width": 1444,
+                                "height": 1080,
+                                "thumbnail": "quests/1529230500151955649/1529688939579969546.jpg"
+                            },
+                            "video_hls": {
+                                "url": "quests/1529230500151955649/1529698360729272392.m3u8",
+                                "width": 1444,
+                                "height": 1080,
+                                "thumbnail": "quests/1529230500151955649/1529688939579969546.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "200 Orbs",
+                            "name_with_article": "200 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 200,
+                        "premium_orb_quantity": null
+                    }
+                ],
+                "rewards_expire_at": "2026-08-22T13:05:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://www.sonypictures.com.mx/",
+                "button_label": "View More",
+                "subtitle": "En Cines este 17 de Septiembre. Filmada para IMAX"
+            }
+        }
     }
 ]
