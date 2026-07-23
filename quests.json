@@ -91922,5 +91922,93 @@
         "targeted_content": [],
         "preview": false,
         "traffic_metadata_raw": "EAIYAQ=="
+    },
+    {
+        "id": "1527583638571450408",
+        "config": {
+            "id": "1527583638571450408",
+            "config_version": 2,
+            "starts_at": "2026-07-23T01:00:00+00:00",
+            "expires_at": "2026-07-31T14:59:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://umamusume.com/",
+                "id": "1387281194043048067",
+                "name": "Umamusume: Pretty Derby"
+            },
+            "assets": {
+                "hero": "quests/1527583638571450408/1527584930144452638.jpg",
+                "quest_bar_hero_blurhash": "8QgGFIj5ZauKd4gatGoroG/hfw==",
+                "quest_bar_hero": "quests/1527583638571450408/1527584932031893534.jpg",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1527583638571450408/1527584532251934811.png",
+                "game_tile_dark": "quests/1527583638571450408/1527584532251934811.png",
+                "logotype_light": "quests/1527583638571450408/1527584613357191238.png",
+                "logotype_dark": "quests/1527583638571450408/1527584613357191238.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Umamusume: Pretty Derby",
+                "game_title": "Umamusume: Pretty Derby",
+                "game_publisher": "Cygames"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1387281194043048067"
+                            }
+                        ]
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 Orbs",
+                            "name_with_article": "700 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 700,
+                        "premium_orb_quantity": 840
+                    }
+                ],
+                "rewards_expire_at": "2026-08-30T14:59:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "android": {
+                    "android_app_id": "com.cygames.umamusume"
+                },
+                "ios": {
+                    "ios_app_id": "6480433538"
+                },
+                "link": "https://umamusume.com/",
+                "button_label": "Play Now"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false,
+        "traffic_metadata_raw": "EAIYAQ=="
     }
 ]
