@@ -92960,5 +92960,89 @@
                 "button_label": "Learn More"
             }
         }
+    },
+    {
+        "id": "1528893107893174404",
+        "config": {
+            "id": "1528893107893174404",
+            "config_version": 2,
+            "starts_at": "2026-07-25T16:15:00+00:00",
+            "expires_at": "2026-08-04T00:00:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://www.roblox.com/games/99146394215857/Dollys-Factory?gsrbx=1",
+                "id": "363445589247131668",
+                "name": "Roblox"
+            },
+            "assets": {
+                "hero": "quests/1528893107893174404/1528894551459233924.jpg",
+                "hero_video": "quests/1528893107893174404/1528894577946398800_720.mp4",
+                "quest_bar_hero_blurhash": "5DcCEoLpWYBpuZdHBndXoCY=",
+                "quest_bar_hero": "quests/1528893107893174404/1528894551459233924.jpg",
+                "quest_bar_hero_video": "quests/1528893107893174404/1528894577946398800_720.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1528893107893174404/1528894332650782871.png",
+                "game_tile_dark": "quests/1528893107893174404/1528894332541599895.png",
+                "logotype_light": "quests/1528893107893174404/1528894403538587729.png",
+                "logotype_dark": "quests/1528893107893174404/1528894403400175616.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Dolly's Factory",
+                "game_title": "Dolly's Factory  on Roblox",
+                "game_publisher": "ROBLOX"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "363445589247131668"
+                            }
+                        ]
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 Orbs",
+                            "name_with_article": "700 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 700,
+                        "premium_orb_quantity": 840
+                    }
+                ],
+                "rewards_expire_at": "2026-09-03T00:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://www.roblox.com/games/99146394215857/Dollys-Factory?gsrbx=1",
+                "button_label": "Play Now"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false,
+        "traffic_metadata_raw": "EAIYAQ=="
     }
 ]
