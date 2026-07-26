@@ -93044,5 +93044,134 @@
         "targeted_content": [],
         "preview": false,
         "traffic_metadata_raw": "EAIYAQ=="
+    },
+    {
+        "id": "1528874818114420746",
+        "config": {
+            "id": "1528874818114420746",
+            "config_version": 2,
+            "starts_at": "2026-07-26T15:00:00+00:00",
+            "expires_at": "2026-08-09T14:59:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://www.minions.jp/",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1528874818114420746/1528876167904628756.jpg",
+                "hero_video": "quests/1528874818114420746/1528876510893707404_720.mp4",
+                "quest_bar_hero_blurhash": "lhgGFIIdK2fXCXpTZ2ddq7DSCw==",
+                "quest_bar_hero": "quests/1528874818114420746/1528876483756560566.jpg",
+                "quest_bar_hero_video": "quests/1528874818114420746/1528876510893707404_720.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1528874818114420746/1528875833698160730.png",
+                "game_tile_dark": "quests/1528874818114420746/1528875834012598363.png",
+                "logotype_light": "quests/1528874818114420746/1528876071464861726.png",
+                "logotype_dark": "quests/1528874818114420746/1528876071745753219.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "『 ミニオンズ＆モンスターズ 』",
+                "game_title": "8月7日(金)全国ロードショー",
+                "game_publisher": "Universal Pictures"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 120,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1528874818114420746/1528876097523941479_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1528874818114420746/1528876210782863582.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1528874818114420746/1528876097523941479_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1528874818114420746/1528876210782863582.jpg"
+                            },
+                            "video_hls": {
+                                "url": "quests/1528874818114420746/1528876097523941479.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1528874818114420746/1528876210782863582.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 120,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1528874818114420746/1528876097700364298_1080.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1528874818114420746/1528876210782863582.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1528874818114420746/1528876097700364298_720.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1528874818114420746/1528876210782863582.jpg"
+                            },
+                            "video_hls": {
+                                "url": "quests/1528874818114420746/1528876097700364298.m3u8",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1528874818114420746/1528876210782863582.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 3,
+                        "sku_id": "1514692555374330068",
+                        "asset": "quests/1528874818114420746/1528882488422961232.png",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "『 ミニオンズ＆モンスターズ 』　アバターデコレーション",
+                            "name_with_article": "『 ミニオンズ＆モンスターズ 』　アバターデコレーション",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "expires_at": "2026-10-09T00:00:00+00:00",
+                        "expires_at_premium": null,
+                        "expiration_mode": 3
+                    }
+                ],
+                "rewards_expire_at": "2026-09-08T14:59:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://www.minions.jp/",
+                "button_label": "Get Tickets",
+                "subtitle": "8月7日(金)全国ロードショー"
+            }
+        }
     }
 ]
