@@ -93173,5 +93173,454 @@
                 "subtitle": "8月7日(金)全国ロードショー"
             }
         }
+    },
+    {
+        "id": "1529570389154467900",
+        "config": {
+            "id": "1529570389154467900",
+            "config_version": 2,
+            "starts_at": "2026-07-27T17:00:00+00:00",
+            "expires_at": "2026-08-10T00:00:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "http://wwechampions.scopely.com/",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1529570389154467900/1530376064747049091.jpg",
+                "quest_bar_hero_blurhash": "WOcNLIJpZnaPeXdoiHeXf0zm9g==",
+                "quest_bar_hero": "quests/1529570389154467900/1529576539916734504.jpg",
+                "quest_bar_hero_video": "quests/1529570389154467900/1529966409780822157_720.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1529570389154467900/1529572129048100945.png",
+                "game_tile_dark": "quests/1529570389154467900/1529572129048100945.png",
+                "logotype_light": "quests/1529570389154467900/1529572129199100034.png",
+                "logotype_dark": "quests/1529570389154467900/1529572129526386698.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "WWE Champions: Wrestling RPG",
+                "game_title": "WWE Champions: Wrestling RPG",
+                "game_publisher": "Scopely"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 29,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1529570389154467900/1529574055366230267_1080.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1529570389154467900/1529576472849940611.png"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1529570389154467900/1529574055366230267_720.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1529570389154467900/1529576472849940611.png"
+                            },
+                            "video_hls": {
+                                "url": "quests/1529570389154467900/1529574055366230267.m3u8",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1529570389154467900/1529576472849940611.png"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "200 Orbs",
+                            "name_with_article": "200 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 200,
+                        "premium_orb_quantity": 240
+                    }
+                ],
+                "rewards_expire_at": "2026-09-09T00:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "android": {
+                    "android_app_id": "com.scopely.whiplash"
+                },
+                "ios": {
+                    "ios_app_id": "1017432937"
+                },
+                "link": "http://wwechampions.scopely.com/",
+                "button_label": "Play Now"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false,
+        "traffic_metadata_raw": "EAIYAQ=="
+    },
+    {
+        "id": "1529066589305966662",
+        "config": {
+            "id": "1529066589305966662",
+            "config_version": 2,
+            "starts_at": "2026-07-27T17:00:00+00:00",
+            "expires_at": "2026-08-10T00:00:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://www.eveonline.com/?utm_source=discord&utm_medium=cpm&utm_campaign=cn:ww_lg:en_mg:1_pd:1_cd:play-quest-270726_cs:general_ct:video_tg:homepage_br:eve",
+                "id": "363413402300710912",
+                "name": "EVE Online"
+            },
+            "assets": {
+                "hero": "quests/1529066589305966662/1529858502565298347.jpg",
+                "quest_bar_hero_blurhash": "hzgGFIQ0mIZ6h3eAioZQegGlFw==",
+                "quest_bar_hero": "quests/1529066589305966662/1529858331294961775.jpg",
+                "quest_bar_hero_video": "quests/1529066589305966662/1529068962430718012_720.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1529066589305966662/1529067191507357786.png",
+                "game_tile_dark": "quests/1529066589305966662/1529067191406952549.png",
+                "logotype_light": "quests/1529066589305966662/1529067442280599572.png",
+                "logotype_dark": "quests/1529066589305966662/1529067442318479380.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "EVE Online",
+                "game_title": "The EVE Online Experience",
+                "game_publisher": "Fenris Creations"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "363413402300710912"
+                            }
+                        ]
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 Orbs",
+                            "name_with_article": "700 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 700,
+                        "premium_orb_quantity": 840
+                    }
+                ],
+                "rewards_expire_at": "2026-09-09T00:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://www.eveonline.com/?utm_source=discord&utm_medium=cpm&utm_campaign=cn:ww_lg:en_mg:1_pd:1_cd:play-quest-270726_cs:general_ct:video_tg:homepage_br:eve",
+                "button_label": "Play Now",
+                "subtitle": "See what the EVE Online experience is all about. "
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false,
+        "traffic_metadata_raw": "EAIYAQ=="
+    },
+    {
+        "id": "1530231567459287251",
+        "config": {
+            "id": "1530231567459287251",
+            "config_version": 2,
+            "starts_at": "2026-07-27T17:00:00+00:00",
+            "expires_at": "2026-08-03T06:59:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://www.fandango.com/the-end-of-oak-street-2026-245149/movie-overview",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1530231567459287251/1530232086693417252.jpg",
+                "hero_video": "quests/1530231567459287251/1530234437760057515_720.mp4",
+                "quest_bar_hero_blurhash": "T/gFDIIUiIRhiVlwepo7pYAFqQ==",
+                "quest_bar_hero": "quests/1530231567459287251/1530234409842901092.jpg",
+                "quest_bar_hero_video": "quests/1530231567459287251/1530234437760057515_720.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1530231567459287251/1530232038307663872.png",
+                "game_tile_dark": "quests/1530231567459287251/1530232038307663872.png",
+                "logotype_light": "quests/1530231567459287251/1530232036344860764.png",
+                "logotype_dark": "quests/1530231567459287251/1530232036520890450.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "The End of Oak Street",
+                "game_title": "Tickets Now on Sale!",
+                "game_publisher": "Warner Bros. Pictures"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 14,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1530231567459287251/1530234731830972486_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1530231567459287251/1530232036353376427.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1530231567459287251/1530234731830972486_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1530231567459287251/1530232036353376427.jpg"
+                            },
+                            "video_hls": {
+                                "url": "quests/1530231567459287251/1530234731830972486.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1530231567459287251/1530232036353376427.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 14,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1530231567459287251/1530234731784962208_1080.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1530231567459287251/1530232036353376427.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1530231567459287251/1530234731784962208_720.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1530231567459287251/1530232036353376427.jpg"
+                            },
+                            "video_hls": {
+                                "url": "quests/1530231567459287251/1530234731784962208.m3u8",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1530231567459287251/1530232036353376427.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 3,
+                        "sku_id": "1530330733036441770",
+                        "asset": "quests/1530231567459287251/1530330922497478766.mp4",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "The End of Oak Street Avatar Decoration",
+                            "name_with_article": "a The End of Oak Street Avatar Decoration",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "expires_at": "2026-10-02T00:00:00+00:00",
+                        "expires_at_premium": null,
+                        "expiration_mode": 3
+                    }
+                ],
+                "rewards_expire_at": "2026-09-02T06:59:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://www.fandango.com/the-end-of-oak-street-2026-245149/movie-overview",
+                "button_label": "Get Tickets",
+                "subtitle": "Tickets Now on Sale!"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false,
+        "traffic_metadata_raw": "EAIYAQ=="
+    },
+    {
+        "id": "1529229208340140092",
+        "config": {
+            "id": "1529229208340140092",
+            "config_version": 2,
+            "starts_at": "2026-07-27T15:50:00+00:00",
+            "expires_at": "2026-07-31T06:59:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://www.youtube.com/sonypicturesaus",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1529229208340140092/1529710799453552710.jpg",
+                "quest_bar_hero_blurhash": "AwgGDIIJl6d5hnhwe4QIioKgWA==",
+                "quest_bar_hero": "quests/1529229208340140092/1529911498955161732.jpg",
+                "quest_bar_hero_video": "quests/1529229208340140092/1529911532354408558_720.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1529229208340140092/1529710799671787540.jpg",
+                "game_tile_dark": "quests/1529229208340140092/1529710799671787540.jpg",
+                "logotype_light": "quests/1529229208340140092/1529713710992589011.png",
+                "logotype_dark": "quests/1529229208340140092/1529713710992589011.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Resident Evil",
+                "game_title": "In Cinemas September 17. Filmed for IMAX",
+                "game_publisher": "Sony Pictures"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 144,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1529229208340140092/1529999880771211465_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1529229208340140092/1529710800053338122.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1529229208340140092/1529999880771211465_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1529229208340140092/1529710800053338122.jpg"
+                            },
+                            "video_hls": {
+                                "url": "quests/1529229208340140092/1529999880771211465.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1529229208340140092/1529710800053338122.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 144,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1529229208340140092/1531322135094624346_1080.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1529229208340140092/1529710800053338122.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1529229208340140092/1531322135094624346_720.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1529229208340140092/1529710800053338122.jpg"
+                            },
+                            "video_hls": {
+                                "url": "quests/1529229208340140092/1531322135094624346.m3u8",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1529229208340140092/1529710800053338122.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "200 Orbs",
+                            "name_with_article": "200 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 200,
+                        "premium_orb_quantity": null
+                    }
+                ],
+                "rewards_expire_at": "2026-08-30T06:59:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://www.youtube.com/sonypicturesaus",
+                "button_label": "Learn More",
+                "subtitle": "In Cinemas September 17. Filmed for IMAX"
+            }
+        }
     }
 ]
