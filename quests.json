@@ -82465,7 +82465,7 @@
             "id": "1520190459530707096",
             "config_version": 2,
             "starts_at": "2026-06-29T17:00:00+00:00",
-            "expires_at": "2026-07-27T06:59:00+00:00",
+            "expires_at": "2026-08-03T06:59:00+00:00",
             "features": [
                 15
             ],
@@ -82545,7 +82545,7 @@
                         "premium_orb_quantity": null
                     }
                 ],
-                "rewards_expire_at": "2026-08-26T06:59:00+00:00",
+                "rewards_expire_at": "2026-09-02T06:59:00+00:00",
                 "platforms": [
                     0
                 ]
@@ -93314,7 +93314,7 @@
             },
             "messages": {
                 "quest_name": "EVE Online",
-                "game_title": "The EVE Online Experience",
+                "game_title": "EVE Online",
                 "game_publisher": "Fenris Creations"
             },
             "task_config_v2": {
@@ -93622,5 +93622,94 @@
                 "subtitle": "In Cinemas September 17. Filmed for IMAX"
             }
         }
+    },
+    {
+        "id": "1526631789316276374",
+        "config": {
+            "id": "1526631789316276374",
+            "config_version": 2,
+            "starts_at": "2026-07-28T14:40:00+00:00",
+            "expires_at": "2026-08-07T00:00:00+00:00",
+            "features": [
+                27,
+                36,
+                15
+            ],
+            "application": {
+                "link": "https://2kgam.es/3RuZ5v9",
+                "id": "1526628598549708880",
+                "name": "Skyhook"
+            },
+            "assets": {
+                "hero": "quests/1526631789316276374/1530669909783351386.jpg",
+                "quest_bar_hero_blurhash": "0ycKBIQHdniYd3ajeoWZmID0aA==",
+                "quest_bar_hero": "quests/1526631789316276374/1530669815780475000.jpg",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1526631789316276374/1530670230504734861.jpg",
+                "game_tile_dark": "quests/1526631789316276374/1530670230504734861.jpg",
+                "logotype_light": "quests/1526631789316276374/1530670102372945920.png",
+                "logotype_dark": "quests/1526631789316276374/1530671446966272010.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "2K Mart | NBA 2K27 Sneak Peek",
+                "game_title": "NBA 2K27",
+                "game_publisher": "NBA 2K27"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "ACHIEVEMENT_IN_ACTIVITY": {
+                        "type": "ACHIEVEMENT_IN_ACTIVITY",
+                        "target": 10,
+                        "applications": [
+                            {
+                                "id": "1526628598549708880"
+                            }
+                        ],
+                        "event_name": "progress",
+                        "messages": {
+                            "task_title": "2K Mart | NBA 2K27 Sneak Peek",
+                            "task_description": "Explore the 2K Mart to find 10 hidden NBA 2K stickers and win 700 Orbs!"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 Orbs",
+                            "name_with_article": "700 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 700,
+                        "premium_orb_quantity": 840
+                    }
+                ],
+                "rewards_expire_at": "2026-09-06T00:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://2kgam.es/3RuZ5v9",
+                "button_label": "Pre-Order Now"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false,
+        "traffic_metadata_raw": "EAIYAQ=="
     }
 ]
