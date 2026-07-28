@@ -93711,5 +93711,137 @@
         "targeted_content": [],
         "preview": false,
         "traffic_metadata_raw": "EAIYAQ=="
+    },
+    {
+        "id": "1531312585922707571",
+        "config": {
+            "id": "1531312585922707571",
+            "config_version": 2,
+            "starts_at": "2026-07-28T17:00:00+00:00",
+            "expires_at": "2026-08-04T00:00:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://www.halowaypoint.com/halo-campaign-evolved?OCID=cmmhwpvukrn_OLV_HaloL_Disc_US_Quest",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1531312585922707571/1531314459388285048.jpg",
+                "hero_video": "quests/1531312585922707571/1531314440740536320.mp4",
+                "quest_bar_hero_blurhash": "5ecVCoJPhnlqh4d3cGcHg2c=",
+                "quest_bar_hero": "quests/1531312585922707571/1531314454640464115.jpg",
+                "quest_bar_hero_video": "quests/1531312585922707571/1531314453998600344.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1531312585922707571/1531314454309113936.png",
+                "game_tile_dark": "quests/1531312585922707571/1531314454204125315.png",
+                "logotype_light": "quests/1531312585922707571/1531314454132691074.png",
+                "logotype_dark": "quests/1531312585922707571/1531314454652915983.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Halo: Campaign Evolved - Play Now",
+                "game_title": "Halo: Campaign Evolved",
+                "game_publisher": "Xbox Game Studios"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 26,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1531312585922707571/1531319476346421308_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1531312585922707571/1531319612027830332.png"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1531312585922707571/1531319476346421308_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1531312585922707571/1531319612027830332.png"
+                            },
+                            "video_hls": {
+                                "url": "quests/1531312585922707571/1531319476346421308.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1531312585922707571/1531319612027830332.png"
+                            }
+                        },
+                        "messages": {
+                            "video_title": ""
+                        }
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 26,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1531312585922707571/1531318817303822416_1080.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1531312585922707571/1531319612027830332.png"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1531312585922707571/1531318817303822416_720.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1531312585922707571/1531319612027830332.png"
+                            },
+                            "video_hls": {
+                                "url": "quests/1531312585922707571/1531318817303822416.m3u8",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1531312585922707571/1531319612027830332.png"
+                            }
+                        },
+                        "messages": {
+                            "video_title": ""
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 1,
+                        "sku_id": "1531312585922707572",
+                        "asset": "quests/1531312585922707571/1531315099258851458.png",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "Hidden Blade Armor Style",
+                            "name_with_article": "a Hidden Blade Armor Style",
+                            "redemption_instructions_by_platform": {
+                                "0": "Congratulations on your Halo: Campaign Evolved in-game reward. Follow the steps below to claim your item.\n\nNote: You need to own Halo: Campaign Evolved for the code to work.\n\nSTEP 1: Go to www.halowaypoint.com/redeem.\n\nSTEP 2: Sign in with your Microsoft account.\n\nSTEP 3: Paste your Halo code in the “Enter Code” field.\n\nSTEP 4: Click Redeem.\n\nSTEP 5: Once successful, your item will appear in the Customization menu."
+                            }
+                        },
+                        "approximate_count": null,
+                        "redemption_link": null
+                    }
+                ],
+                "rewards_expire_at": "2026-09-03T00:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://www.halowaypoint.com/halo-campaign-evolved?OCID=cmmhwpvukrn_OLV_HaloL_Disc_US_Quest",
+                "button_label": "Play Now",
+                "subtitle": "Play the legendary campaign faithfully rebuilt from the ground up."
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false,
+        "traffic_metadata_raw": "EAIYAQ=="
     }
 ]
