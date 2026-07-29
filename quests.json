@@ -93940,5 +93940,106 @@
         "targeted_content": [],
         "preview": false,
         "traffic_metadata_raw": "EAIYAQ=="
+    },
+    {
+        "id": "1530173428542341120",
+        "config": {
+            "id": "1530173428542341120",
+            "config_version": 2,
+            "starts_at": "2026-07-29T07:00:00+00:00",
+            "expires_at": "2026-08-24T06:59:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://www.snk-corp.co.jp/us/games/fatalfury-cotw/products/",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1530173428542341120/1530173914280628315.jpg",
+                "quest_bar_hero_blurhash": "FIYKFIQeNYaJd4ZgiWpAdfPGKQ==",
+                "quest_bar_hero": "quests/1530173428542341120/1530173914267914280.jpg",
+                "quest_bar_hero_video": "quests/1530173428542341120/1530174062872236094_720.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1530173428542341120/1530173914297139280.png",
+                "game_tile_dark": "quests/1530173428542341120/1530173914301464656.png",
+                "logotype_light": "quests/1530173428542341120/1530173939467288686.png",
+                "logotype_dark": "quests/1530173428542341120/1530173939467288686.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "FATAL FURY: CotW",
+                "game_title": "Season3 Now Live",
+                "game_publisher": "SNK"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 178,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1530173428542341120/1530173940381515786_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1530173428542341120/1530173915513749564.png"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1530173428542341120/1530173940381515786_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1530173428542341120/1530173915513749564.png"
+                            },
+                            "video_hls": {
+                                "url": "quests/1530173428542341120/1530173940381515786.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1530173428542341120/1530173915513749564.png"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "200 Orbs",
+                            "name_with_article": "200 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 200,
+                        "premium_orb_quantity": 240
+                    }
+                ],
+                "rewards_expire_at": "2026-09-23T06:59:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://www.snk-corp.co.jp/us/games/fatalfury-cotw/products/",
+                "button_label": "Buy Now"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false,
+        "traffic_metadata_raw": "EAIYAQ=="
     }
 ]
