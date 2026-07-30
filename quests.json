@@ -94506,5 +94506,112 @@
                 "button_label": "Learn More"
             }
         }
+    },
+    {
+        "id": "1532058290736074763",
+        "config": {
+            "id": "1532058290736074763",
+            "config_version": 2,
+            "starts_at": "2026-07-30T17:00:00+00:00",
+            "expires_at": "2026-08-13T00:00:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "http://wwechampions.scopely.com/",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1532058290736074763/1532062909121958019.jpg",
+                "quest_bar_hero_blurhash": "WOcNLIJpZnaPeXdoiHeXf0zm9g==",
+                "quest_bar_hero": "quests/1532058290736074763/1532077084275642540.jpg",
+                "quest_bar_hero_video": "quests/1532058290736074763/1532062592510464182_720.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1532058290736074763/1532060245751369898.png",
+                "game_tile_dark": "quests/1532058290736074763/1532060245751369898.png",
+                "logotype_light": "quests/1532058290736074763/1532060245658964093.png",
+                "logotype_dark": "quests/1532058290736074763/1532060245310832680.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "WWE Champions: Wrestling RPG",
+                "game_title": "WWE Champions: Wrestling RPG",
+                "game_publisher": "Scopely"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 29,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1532058290736074763/1532060245982183595_1080.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1532058290736074763/1532063176684863578.png"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1532058290736074763/1532060245982183595_720.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1532058290736074763/1532063176684863578.png"
+                            },
+                            "video_hls": {
+                                "url": "quests/1532058290736074763/1532060245982183595.m3u8",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1532058290736074763/1532063176684863578.png"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "200 Orbs",
+                            "name_with_article": "200 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 200,
+                        "premium_orb_quantity": 240
+                    }
+                ],
+                "rewards_expire_at": "2026-09-12T00:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "android": {
+                    "android_app_id": "com.scopely.whiplash"
+                },
+                "ios": {
+                    "ios_app_id": "1017432937"
+                },
+                "link": "http://wwechampions.scopely.com/",
+                "button_label": "Play Now"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false,
+        "traffic_metadata_raw": "EAIYAQ=="
     }
 ]

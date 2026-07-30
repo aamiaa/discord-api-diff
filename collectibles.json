@@ -121041,6 +121041,7 @@
             ]
         },
         "hero_ranking": [
+            "1531712539560382504",
             "1462116613791682632",
             "1462116613804396646",
             "1462116613821305035",
@@ -121072,8 +121073,336 @@
         ],
         "products": [
             {
+                "sku_id": "1531712539560382504",
+                "name": "Dark Roses Bundle (Black)",
+                "summary": "{joinedItems}",
+                "styles": {
+                    "background_colors": [
+                        2628961,
+                        8402858
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 2099,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 14400,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 1699,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 14400,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "preview_assets": {
+                    "fg_static": "https://cdn.discordapp.com/media/v1/collectibles-shop/bundle-fg-static/1531712539560382504",
+                    "bg_static": "https://cdn.discordapp.com/media/v1/collectibles-shop/bundle-bg-static/1531712539560382504"
+                },
+                "items": [
+                    {
+                        "type": 0,
+                        "sku_id": "1462116613645144185",
+                        "asset": "a_c7d0b92c2c06bbb3fed297b34a51d5e5",
+                        "label": "Black roses with thorny gray stems, leaves, and butterfly."
+                    },
+                    {
+                        "type": 2,
+                        "sku_id": "1526654942931320952",
+                        "asset": "nameplates/dark_roses/1526654942931320952/",
+                        "label": "Black roses with a butterfly.",
+                        "palette": "black"
+                    },
+                    {
+                        "type": 1,
+                        "sku_id": "1462116613712253044",
+                        "title": "Dark Roses (Black)",
+                        "description": "Show this effect when others view your profile.",
+                        "accessibilityLabel": "Black roses with gray leaves appear and frame the profile borders.",
+                        "animationType": 1,
+                        "staticFrameSrc": "https://cdn.discordapp.com/assets/content/5fb8699b27103734c46a65d4a284a86a76a06c013a9e661cf1f4c97f9febb3c6",
+                        "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/content/4d71e444e4288fa4d727b209622455074596560add27586e8cd3bdc292902fad",
+                        "reducedMotionSrc": "https://cdn.discordapp.com/assets/content/b224f821e92fb8550946c403ba11ef3a0824920ee7faf0f32a8d3f1210eb7aab",
+                        "effects": [
+                            {
+                                "src": "https://cdn.discordapp.com/assets/content/d0d1bcd19aa85c9a61436790216d90421a481336f07335859ee9ae4d184184e2",
+                                "loop": false,
+                                "height": 880,
+                                "width": 450,
+                                "duration": 3000,
+                                "start": 0,
+                                "loopDelay": 0,
+                                "position": {
+                                    "x": 0,
+                                    "y": 0
+                                },
+                                "zIndex": 100,
+                                "randomizedSources": []
+                            },
+                            {
+                                "src": "https://cdn.discordapp.com/assets/content/2efaf1202e1633579f7f29df1cb942e678054ec69381945ce2fc03c902dfa5ed",
+                                "loop": true,
+                                "height": 880,
+                                "width": 450,
+                                "duration": 3000,
+                                "start": 3000,
+                                "loopDelay": 0,
+                                "position": {
+                                    "x": 0,
+                                    "y": 0
+                                },
+                                "zIndex": 101,
+                                "randomizedSources": []
+                            }
+                        ]
+                    },
+                    {
+                        "type": 3,
+                        "sku_id": "1511834130294247555",
+                        "label": "Black roses sit on the top left and bottom right corners of the profile and climb up the sides",
+                        "layers": [
+                            {
+                                "id": "1515086606665646213",
+                                "type": "staple",
+                                "order": "front",
+                                "anchor": "top",
+                                "responsive": false
+                            },
+                            {
+                                "id": "1515086611896078477",
+                                "type": "staple",
+                                "order": "front",
+                                "anchor": "bottom",
+                                "responsive": false
+                            }
+                        ],
+                        "inner_width": 1200,
+                        "overflow_top": 211,
+                        "overflow_bottom": 186,
+                        "overflow_horizontal": 56
+                    }
+                ],
+                "type": 1000,
+                "premium_type": 0,
+                "category_sku_id": "1462116614332748010",
+                "bundled_products": [
+                    {
+                        "sku_id": "1462116613645144185",
+                        "name": "Dark Roses (Black)",
+                        "summary": "Give your avatar a new look.",
+                        "type": 0,
+                        "premium_type": 0,
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 599,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 499,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "sku_id": "1526654942931320952",
+                        "name": "Dark Roses (Black)",
+                        "summary": "Make your name stand out in servers and chats.",
+                        "type": 2,
+                        "premium_type": 0,
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 599,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 499,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "sku_id": "1462116613712253044",
+                        "name": "Dark Roses (Black)",
+                        "summary": "Show this effect when others view your profile.",
+                        "type": 1,
+                        "premium_type": 0,
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 599,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 499,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "sku_id": "1511834130294247555",
+                        "name": "Dark Roses (Black)",
+                        "summary": "Elevate and wrap your profile with a frame.",
+                        "type": 3,
+                        "premium_type": 0,
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 599,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 499,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ],
+                "google_sku_ids": {
+                    "5": "1531712539560382504_1531716868715446362",
+                    "7": "1531712539560382504_1531716875061297333"
+                },
+                "badge_override": "New",
+                "is_first_party": true
+            },
+            {
                 "sku_id": "1462116613791682632",
-                "name": "Dark Roses Bundle",
+                "name": "Dark Roses Bundle (Nightshade)",
                 "summary": "{joinedItems}",
                 "styles": {
                     "background_colors": [
@@ -131881,10 +132210,16 @@
             ]
         },
         "hero_ranking": [
-            "1471907727889399910",
-            "1471907883732963340",
+            "1531810659644211210",
+            "1531816417513705584",
             "1471908095251841055",
             "1471908533908799609",
+            "1532454028909346908",
+            "1532454419675746324",
+            "1532455066169245922",
+            "1532455555166240860",
+            "1471907727889399910",
+            "1471907883732963340",
             "1471908778516549683",
             "1471909041541218426",
             "1471909787355840626",
@@ -131895,6 +132230,865 @@
             "1471911380490780703"
         ],
         "products": [
+            {
+                "sku_id": "1531810659644211210",
+                "name": "Mickey Mouse Bundle",
+                "summary": "{joinedItems}",
+                "styles": {
+                    "background_colors": [
+                        786432,
+                        4849921
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 1699,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 1299,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    }
+                },
+                "preview_assets": {
+                    "fg_static": "https://cdn.discordapp.com/media/v1/collectibles-shop/bundle-fg-static/1531810659644211210",
+                    "bg_static": "https://cdn.discordapp.com/media/v1/collectibles-shop/bundle-bg-static/1531810659644211210"
+                },
+                "items": [
+                    {
+                        "type": 0,
+                        "sku_id": "1471907727889399910",
+                        "asset": "a_2b7059990006501be98e7b32b18fceb1",
+                        "label": "Black Mickey Mouse ears headband with twinkling stars on top."
+                    },
+                    {
+                        "type": 2,
+                        "sku_id": "1471909787355840626",
+                        "asset": "nameplates/mickey_twinkle_star/1471909787355840626/",
+                        "label": "Purple gradient with twinkling white stars.",
+                        "palette": "violet"
+                    }
+                ],
+                "type": 1000,
+                "premium_type": 0,
+                "category_sku_id": "1471907073888485541",
+                "bundled_products": [
+                    {
+                        "sku_id": "1471907727889399910",
+                        "name": "Mickey Ear Headband",
+                        "summary": "Give your avatar a new look.",
+                        "type": 0,
+                        "premium_type": 0,
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 899,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 699,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "sku_id": "1471909787355840626",
+                        "name": "Mickey Twinkle Star",
+                        "summary": "Make your name stand out in servers and chats.",
+                        "type": 2,
+                        "premium_type": 0,
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 899,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 699,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ],
+                "google_sku_ids": {
+                    "5": "1531810659644211210_1531817154725412985",
+                    "7": "1531810659644211210_1531817162103062750"
+                },
+                "badge_override": "New",
+                "is_first_party": false
+            },
+            {
+                "sku_id": "1531816417513705584",
+                "name": "Minnie Mouse Bundle",
+                "summary": "{joinedItems}",
+                "styles": {
+                    "background_colors": [
+                        786432,
+                        4849921
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 1699,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 1299,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    }
+                },
+                "preview_assets": {
+                    "fg_static": "https://cdn.discordapp.com/media/v1/collectibles-shop/bundle-fg-static/1531816417513705584",
+                    "bg_static": "https://cdn.discordapp.com/media/v1/collectibles-shop/bundle-bg-static/1531816417513705584"
+                },
+                "items": [
+                    {
+                        "type": 0,
+                        "sku_id": "1471907883732963340",
+                        "asset": "a_9b4ce9be7dba0f46133d6e86302c8be9",
+                        "label": "Black Minnie Mouse ears with red polka dot bow and floating red hearts."
+                    },
+                    {
+                        "type": 2,
+                        "sku_id": "1471910272783482993",
+                        "asset": "nameplates/minnie_true_love/1471910272783482993/",
+                        "label": "Red to pink gradient with floating red hearts.",
+                        "palette": "crimson"
+                    }
+                ],
+                "type": 1000,
+                "premium_type": 0,
+                "category_sku_id": "1471907073888485541",
+                "bundled_products": [
+                    {
+                        "sku_id": "1471907883732963340",
+                        "name": "Minnie Ear Headband",
+                        "summary": "Give your avatar a new look.",
+                        "type": 0,
+                        "premium_type": 0,
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 899,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 699,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "sku_id": "1471910272783482993",
+                        "name": "Minnie True Love",
+                        "summary": "Make your name stand out in servers and chats.",
+                        "type": 2,
+                        "premium_type": 0,
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 899,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 699,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ],
+                "google_sku_ids": {
+                    "5": "1531816417513705584_1531818040960880640",
+                    "7": "1531816417513705584_1531818047113789563"
+                },
+                "is_first_party": false
+            },
+            {
+                "sku_id": "1532454028909346908",
+                "name": "Donald Duck Bundle",
+                "summary": "{joinedItems}",
+                "styles": {
+                    "background_colors": [
+                        786432,
+                        4849921
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 1699,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 1299,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    }
+                },
+                "preview_assets": {
+                    "fg_static": "https://cdn.discordapp.com/media/v1/collectibles-shop/bundle-fg-static/1532454028909346908",
+                    "bg_static": "https://cdn.discordapp.com/media/v1/collectibles-shop/bundle-bg-static/1532454028909346908"
+                },
+                "items": [
+                    {
+                        "type": 0,
+                        "sku_id": "1471908095251841055",
+                        "asset": "a_edf5812af522ef3c1fb270ba742ac5fe",
+                        "label": "Blue headband with Donald Duck character and floating blue bubbles."
+                    },
+                    {
+                        "type": 2,
+                        "sku_id": "1471910608386392136",
+                        "asset": "nameplates/donald_splish_splash/1471910608386392136/",
+                        "label": "Blue gradient with floating blue bubbles.",
+                        "palette": "sky"
+                    }
+                ],
+                "type": 1000,
+                "premium_type": 0,
+                "category_sku_id": "1471907073888485541",
+                "bundled_products": [
+                    {
+                        "sku_id": "1471908095251841055",
+                        "name": "Donald Headband",
+                        "summary": "Give your avatar a new look.",
+                        "type": 0,
+                        "premium_type": 0,
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 899,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 699,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "sku_id": "1471910608386392136",
+                        "name": "Donald Splish Splash",
+                        "summary": "Make your name stand out in servers and chats.",
+                        "type": 2,
+                        "premium_type": 0,
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 899,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 699,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ],
+                "google_sku_ids": {
+                    "5": "1532454028909346908_1532455853465145394",
+                    "7": "1532454028909346908_1532455860197130250"
+                },
+                "is_first_party": false
+            },
+            {
+                "sku_id": "1532454419675746324",
+                "name": "Daisy Duck Bundle",
+                "summary": "{joinedItems}",
+                "styles": {
+                    "background_colors": [
+                        786432,
+                        4849921
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 1699,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 1299,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    }
+                },
+                "preview_assets": {
+                    "fg_static": "https://cdn.discordapp.com/media/v1/collectibles-shop/bundle-fg-static/1532454419675746324",
+                    "bg_static": "https://cdn.discordapp.com/media/v1/collectibles-shop/bundle-bg-static/1532454419675746324"
+                },
+                "items": [
+                    {
+                        "type": 0,
+                        "sku_id": "1471908533908799609",
+                        "asset": "a_3b8b9d80afc6a69a9e27f9b7ca856769",
+                        "label": "Purple headband with Daisy Duck character and floating pink bubbles."
+                    },
+                    {
+                        "type": 2,
+                        "sku_id": "1471910867741179967",
+                        "asset": "nameplates/daisy_dream_bubbles/1471910867741179967/",
+                        "label": "Pink to purple gradient with floating pink bubbles.",
+                        "palette": "bubble_gum"
+                    }
+                ],
+                "type": 1000,
+                "premium_type": 0,
+                "category_sku_id": "1471907073888485541",
+                "bundled_products": [
+                    {
+                        "sku_id": "1471908533908799609",
+                        "name": "Daisy Headband",
+                        "summary": "Give your avatar a new look.",
+                        "type": 0,
+                        "premium_type": 0,
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 899,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 699,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "sku_id": "1471910867741179967",
+                        "name": "Daisy Dream Bubbles",
+                        "summary": "Make your name stand out in servers and chats.",
+                        "type": 2,
+                        "premium_type": 0,
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 899,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 699,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ],
+                "google_sku_ids": {
+                    "5": "1532454419675746324_1532457552087093258",
+                    "7": "1532454419675746324_1532457557770244137"
+                },
+                "is_first_party": false
+            },
+            {
+                "sku_id": "1532455066169245922",
+                "name": "Goofy Bundle",
+                "summary": "{joinedItems}",
+                "styles": {
+                    "background_colors": [
+                        786432,
+                        4849921
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 1699,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 1299,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    }
+                },
+                "preview_assets": {
+                    "fg_static": "https://cdn.discordapp.com/media/v1/collectibles-shop/bundle-fg-static/1532455066169245922",
+                    "bg_static": "https://cdn.discordapp.com/media/v1/collectibles-shop/bundle-bg-static/1532455066169245922"
+                },
+                "items": [
+                    {
+                        "type": 0,
+                        "sku_id": "1471908778516549683",
+                        "asset": "a_e6421b80146b787909e4accc4ab2c708",
+                        "label": "Orange and green headband with Goofy ears and green musical notes."
+                    },
+                    {
+                        "type": 2,
+                        "sku_id": "1471911196448784704",
+                        "asset": "nameplates/goofy_happy_tune/1471911196448784704/",
+                        "label": "Green gradient with floating green musical notes.",
+                        "palette": "clover"
+                    }
+                ],
+                "type": 1000,
+                "premium_type": 0,
+                "category_sku_id": "1471907073888485541",
+                "bundled_products": [
+                    {
+                        "sku_id": "1471908778516549683",
+                        "name": "Goofy Ear Headband",
+                        "summary": "Give your avatar a new look.",
+                        "type": 0,
+                        "premium_type": 0,
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 899,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 699,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "sku_id": "1471911196448784704",
+                        "name": "Goofy Happy Tune",
+                        "summary": "Make your name stand out in servers and chats.",
+                        "type": 2,
+                        "premium_type": 0,
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 899,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 699,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ],
+                "google_sku_ids": {
+                    "5": "1532455066169245922_1532456241681662013",
+                    "7": "1532455066169245922_1532456247654224103"
+                },
+                "is_first_party": false
+            },
+            {
+                "sku_id": "1532455555166240860",
+                "name": "Pluto Bundle",
+                "summary": "{joinedItems}",
+                "styles": {
+                    "background_colors": [
+                        786432,
+                        4849921
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 1699,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 1299,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    }
+                },
+                "preview_assets": {
+                    "fg_static": "https://cdn.discordapp.com/media/v1/collectibles-shop/bundle-fg-static/1532455555166240860",
+                    "bg_static": "https://cdn.discordapp.com/media/v1/collectibles-shop/bundle-bg-static/1532455555166240860"
+                },
+                "items": [
+                    {
+                        "type": 0,
+                        "sku_id": "1471909041541218426",
+                        "asset": "a_13e5503db57a1c618428703c4b3b819d",
+                        "label": "Yellow Pluto face hat with black ears and green bone treats."
+                    },
+                    {
+                        "type": 2,
+                        "sku_id": "1471911380490780703",
+                        "asset": "nameplates/pluto_playful_friend/1471911222382428362/",
+                        "label": "Green gradient with floating green bone treats.",
+                        "palette": "clover"
+                    }
+                ],
+                "type": 1000,
+                "premium_type": 0,
+                "category_sku_id": "1471907073888485541",
+                "bundled_products": [
+                    {
+                        "sku_id": "1471909041541218426",
+                        "name": "Pluto Hat",
+                        "summary": "Give your avatar a new look.",
+                        "type": 0,
+                        "premium_type": 0,
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 899,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 699,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "sku_id": "1471911380490780703",
+                        "name": "Pluto Playful Friend",
+                        "summary": "Make your name stand out in servers and chats.",
+                        "type": 2,
+                        "premium_type": 0,
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 899,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 699,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ],
+                "google_sku_ids": {
+                    "5": "1532455555166240860_1532459624576581842",
+                    "7": "1532455555166240860_1532459630767247510"
+                },
+                "is_first_party": false
+            },
             {
                 "sku_id": "1471907727889399910",
                 "name": "Mickey Ear Headband",
