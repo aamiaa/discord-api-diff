@@ -132515,6 +132515,7 @@
                     "5": "1531816417513705584_1531818040960880640",
                     "7": "1531816417513705584_1531818047113789563"
                 },
+                "badge_override": "New",
                 "is_first_party": false
             },
             {
@@ -132658,6 +132659,7 @@
                     "5": "1532454028909346908_1532455853465145394",
                     "7": "1532454028909346908_1532455860197130250"
                 },
+                "badge_override": "New",
                 "is_first_party": false
             },
             {
@@ -132801,6 +132803,7 @@
                     "5": "1532454419675746324_1532457552087093258",
                     "7": "1532454419675746324_1532457557770244137"
                 },
+                "badge_override": "New",
                 "is_first_party": false
             },
             {
@@ -132944,6 +132947,7 @@
                     "5": "1532455066169245922_1532456241681662013",
                     "7": "1532455066169245922_1532456247654224103"
                 },
+                "badge_override": "New",
                 "is_first_party": false
             },
             {
@@ -133087,6 +133091,7 @@
                     "5": "1532455555166240860_1532459624576581842",
                     "7": "1532455555166240860_1532459630767247510"
                 },
+                "badge_override": "New",
                 "is_first_party": false
             },
             {
@@ -138304,14 +138309,8 @@
             ]
         },
         "hero_ranking": [
-            "1483885622770008075",
-            "1483886987139223652",
-            "1483891150774472955",
-            "1483892085835960483",
-            "1483911783268876489",
-            "1483912153596559581",
-            "1483912356919513209",
-            "1483912597710569612",
+            "1532470272324538561",
+            "1532469327305904128",
             "1483912918616510544",
             "1483913244132245645",
             "1483913889539166238",
@@ -138320,6 +138319,14 @@
             "1483910732298064123",
             "1483910956647190558",
             "1483911198394159284",
+            "1483885622770008075",
+            "1483886987139223652",
+            "1483891150774472955",
+            "1483892085835960483",
+            "1483911783268876489",
+            "1483912153596559581",
+            "1483912356919513209",
+            "1483912597710569612",
             "1483914387235406097",
             "1483914592080891984",
             "1483914802634948670",
@@ -138343,6 +138350,352 @@
             "1483918626514927627"
         ],
         "products": [
+            {
+                "sku_id": "1532470272324538561",
+                "name": "Clappy Feet Bundle",
+                "summary": "{joinedItems}",
+                "styles": {
+                    "background_colors": [
+                        10610140,
+                        10767870
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 1099,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 7600,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 899,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 7600,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "preview_assets": {
+                    "fg_static": "https://cdn.discordapp.com/media/v1/collectibles-shop/bundle-fg-static/1532470272324538561",
+                    "bg_static": "https://cdn.discordapp.com/media/v1/collectibles-shop/bundle-bg-static/1532470272324538561"
+                },
+                "items": [
+                    {
+                        "type": 0,
+                        "sku_id": "1483911783268876489",
+                        "asset": "a_dce2396544ebe23aa6a5194c7d6cde94",
+                        "label": "Pair of cartoon bare feet clapping shown from the bottom"
+                    },
+                    {
+                        "type": 2,
+                        "sku_id": "1483917760194154506",
+                        "asset": "nameplates/clappy_feet/1483917760194154506/",
+                        "label": "Pair of cartoon bare feet clapping",
+                        "palette": "cobalt"
+                    }
+                ],
+                "type": 1000,
+                "premium_type": 0,
+                "category_sku_id": "1483885441362169957",
+                "bundled_products": [
+                    {
+                        "sku_id": "1483911783268876489",
+                        "name": "Clappy Feet",
+                        "summary": "Give your avatar a new look.",
+                        "type": 0,
+                        "premium_type": 0,
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 599,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 499,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "sku_id": "1483917760194154506",
+                        "name": "Clappy Feet",
+                        "summary": "Make your name stand out in servers and chats.",
+                        "type": 2,
+                        "premium_type": 0,
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 599,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 499,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ],
+                "google_sku_ids": {
+                    "5": "1532470272324538561_1532470555209502971",
+                    "7": "1532470272324538561_1532470560607567922"
+                },
+                "is_first_party": true
+            },
+            {
+                "sku_id": "1532469327305904128",
+                "name": "K-Heart Bundle",
+                "summary": "{joinedItems}",
+                "styles": {
+                    "background_colors": [
+                        10610140,
+                        10767870
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 1099,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 7600,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 899,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 7600,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "preview_assets": {
+                    "fg_static": "https://cdn.discordapp.com/media/v1/collectibles-shop/bundle-fg-static/1532469327305904128",
+                    "bg_static": "https://cdn.discordapp.com/media/v1/collectibles-shop/bundle-bg-static/1532469327305904128"
+                },
+                "items": [
+                    {
+                        "type": 0,
+                        "sku_id": "1483885622770008075",
+                        "asset": "a_aa8dcf830fe7026c422139055c58546c",
+                        "label": "Hand gestures with thumb and index finger crossed to form a small heart"
+                    },
+                    {
+                        "type": 2,
+                        "sku_id": "1483916313100288191",
+                        "asset": "nameplates/k-heart/1483916313100288191/",
+                        "label": "Hand gesturing with thumb and index finger crossed to form a small heart",
+                        "palette": "cobalt"
+                    }
+                ],
+                "type": 1000,
+                "premium_type": 0,
+                "category_sku_id": "1483885441362169957",
+                "bundled_products": [
+                    {
+                        "sku_id": "1483885622770008075",
+                        "name": "K-Heart",
+                        "summary": "Give your avatar a new look.",
+                        "type": 0,
+                        "premium_type": 0,
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 599,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 499,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "sku_id": "1483916313100288191",
+                        "name": "K-Heart",
+                        "summary": "Make your name stand out in servers and chats.",
+                        "type": 2,
+                        "premium_type": 0,
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 599,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 499,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ],
+                "google_sku_ids": {
+                    "5": "1532469327305904128_1532471459178348634",
+                    "7": "1532469327305904128_1532471464140472511"
+                },
+                "is_first_party": true
+            },
             {
                 "sku_id": "1483885622770008075",
                 "name": "K-Heart",
