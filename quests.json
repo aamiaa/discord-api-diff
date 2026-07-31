@@ -95135,5 +95135,135 @@
         "targeted_content": [],
         "preview": false,
         "traffic_metadata_raw": "EAIYAQ=="
+    },
+    {
+        "id": "1521297240402956400",
+        "config": {
+            "id": "1521297240402956400",
+            "config_version": 2,
+            "starts_at": "2026-07-31T17:00:00+00:00",
+            "expires_at": "2026-08-10T00:00:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://geni.us/Apex-Pro-TKL-Gen3",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1521297240402956400/1531438956208455750.jpg",
+                "hero_video": "quests/1521297240402956400/1531439007420911777_720.mp4",
+                "quest_bar_hero_blurhash": "SRgCHIQFdXq/aIi6Za18v833yw==",
+                "quest_bar_hero": "quests/1521297240402956400/1531438786742063227.jpg",
+                "quest_bar_hero_video": "quests/1521297240402956400/1531438842807058543_720.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1521297240402956400/1531438665056780509.png",
+                "game_tile_dark": "quests/1521297240402956400/1531438665627205662.png",
+                "logotype_light": "quests/1521297240402956400/1531438664922435594.png",
+                "logotype_dark": "quests/1521297240402956400/1531438665610559509.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Apex Pro Quick Set",
+                "game_title": "Apex Pro Quick Set",
+                "game_publisher": "SteelSeries"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 25,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1521297240402956400/1531440175597617152_1080.mp4",
+                                "width": 3840,
+                                "height": 2160,
+                                "thumbnail": "quests/1521297240402956400/1531440068982472774.png"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1521297240402956400/1531440175597617152_720.mp4",
+                                "width": 3840,
+                                "height": 2160,
+                                "thumbnail": "quests/1521297240402956400/1531440068982472774.png"
+                            },
+                            "video_hls": {
+                                "url": "quests/1521297240402956400/1531440175597617152.m3u8",
+                                "width": 3840,
+                                "height": 2160,
+                                "thumbnail": "quests/1521297240402956400/1531440068982472774.png"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 25,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1521297240402956400/1531440035541549146_1080.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1521297240402956400/1531440068982472774.png"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1521297240402956400/1531440035541549146_720.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1521297240402956400/1531440068982472774.png"
+                            },
+                            "video_hls": {
+                                "url": "quests/1521297240402956400/1531440035541549146.m3u8",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1521297240402956400/1531440068982472774.png"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "200 Orbs",
+                            "name_with_article": "200 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 200,
+                        "premium_orb_quantity": 240
+                    }
+                ],
+                "rewards_expire_at": "2026-09-09T00:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://geni.us/Apex-Pro-TKL-Gen3",
+                "button_label": "Buy Now",
+                "subtitle": "The Only Keyboard That Has It All - Shop Now"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false,
+        "traffic_metadata_raw": "EAIYAQ=="
     }
 ]
