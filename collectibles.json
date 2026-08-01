@@ -8302,8 +8302,7 @@
         "sku_id": "1265375293397270650",
         "name": "VALORANT Champions",
         "summary": " ",
-        "store_listing_id": "1263981844915814432",
-        "unpublished_at": "2025-12-31T23:59:00+00:00",
+        "store_listing_id": "1265375293397270650",
         "styles": {
             "background_colors": [
                 1118740,
@@ -8321,200 +8320,27 @@
                 9739511
             ]
         },
-        "logo": "1266108772980625530",
-        "hero_ranking": null,
-        "mobile_bg": "1271632151112060928",
-        "pdp_bg": "1266108773022568529",
-        "mobile_banner": "1270863589091053721",
-        "featured_block": null,
+        "hero_ranking": [
+            "1267521289330102344",
+            "1267521289355268154",
+            "1266160780928352268",
+            "1266160780978556969",
+            "1220513989729976411",
+            "1220513977683935373",
+            "1220513984273186816",
+            "1266161342801383434",
+            "1220513995308400680",
+            "1220514048068812901",
+            "1266493591207940133",
+            "1220432740638523543",
+            "1220432647453409384",
+            "1220432697718083614"
+        ],
         "products": [
-            {
-                "sku_id": "1274105879238676561",
-                "name": "VCT Supernova Bundle",
-                "summary": "A bundle of collectibles.",
-                "store_listing_id": "1274105847089336380",
-                "unpublished_at": null,
-                "styles": {
-                    "background_colors": [
-                        1118740,
-                        1118740
-                    ],
-                    "button_colors": [
-                        5793266,
-                        5793266
-                    ],
-                    "confetti_colors": [
-                        43772,
-                        15774258,
-                        16414587,
-                        3000177,
-                        9739511
-                    ]
-                },
-                "prices": {
-                    "0": {
-                        "country_prices": {
-                            "country_code": "US",
-                            "prices": [
-                                {
-                                    "amount": 2899,
-                                    "currency": "usd",
-                                    "exponent": 2
-                                }
-                            ]
-                        }
-                    },
-                    "4": {
-                        "country_prices": {
-                            "country_code": "US",
-                            "prices": [
-                                {
-                                    "amount": 2199,
-                                    "currency": "usd",
-                                    "exponent": 2
-                                }
-                            ]
-                        }
-                    }
-                },
-                "items": [
-                    {
-                        "type": 0,
-                        "id": "1274070185090879567",
-                        "sku_id": "1268362891946627103",
-                        "asset": "a_90e0dce3cc48c4a9607b6d41209c737e",
-                        "assets": {
-                            "static_image_url": "https://cdn.discordapp.com/assets/content/679f7db963845e443903b7aeb3cc3a44742f2850814441420c398b2fc4725cb6",
-                            "animated_image_url": "https://cdn.discordapp.com/assets/content/fdf2120c41d52ac59baf80e33726ad9347e390bd7e0b80190d0bbc05562fe82e"
-                        },
-                        "label": "Metallic vines and thorns tightly wrap and writhe around the avatar. A metallic symbol shaped after the VALORANT Champions Tour logo then appears before being absorbed into the avatar's center."
-                    },
-                    {
-                        "type": 1,
-                        "id": "1266493591233237173",
-                        "sku_id": "1266493591275044903",
-                        "title": "VCT Supernova",
-                        "description": "Show this effect when others view your profile.",
-                        "accessibilityLabel": "The VALORANT Champions Tour logo appears over your profile, glowing and twirling with celestial energy before exploding in a supernova-like fashion, revealing the Champions 2024 Finisher.",
-                        "animationType": 2,
-                        "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/content/53e6b300b9cce9af7c5c8ffffa270c93064fca2d6ebf581ff1faf89999d293c1",
-                        "reducedMotionSrc": "https://cdn.discordapp.com/assets/content/013853e1d8e9df845d7199117b29ec6dfa4538e09ba19b13c902370ac6e23362",
-                        "effects": [
-                            {
-                                "src": "https://cdn.discordapp.com/assets/content/50d52919bdb760f0225133b243c90eda03efd253d97bd3826fc29a1584030d24",
-                                "loop": false,
-                                "height": 880,
-                                "width": 450,
-                                "duration": 4650,
-                                "start": 0,
-                                "loopDelay": 0,
-                                "position": {
-                                    "x": 0,
-                                    "y": 0
-                                },
-                                "zIndex": 100,
-                                "randomizedSources": []
-                            },
-                            {
-                                "src": "https://cdn.discordapp.com/assets/content/82f716c617faed5dd8af77565f336e87a3db80abc1ee39f6c2c23c58823b2aad",
-                                "loop": true,
-                                "height": 880,
-                                "width": 450,
-                                "duration": 5063,
-                                "start": 7815,
-                                "loopDelay": 4000,
-                                "position": {
-                                    "x": 0,
-                                    "y": 0
-                                },
-                                "zIndex": 101,
-                                "randomizedSources": []
-                            }
-                        ]
-                    }
-                ],
-                "type": 1000,
-                "premium_type": 0,
-                "category_sku_id": "1265375293397270650",
-                "bundled_products": [
-                    {
-                        "sku_id": "1268362891946627103",
-                        "name": "VALORANT Champions 2024",
-                        "summary": "All paths end here.",
-                        "type": 0,
-                        "premium_type": 0,
-                        "prices": {
-                            "0": {
-                                "country_prices": {
-                                    "country_code": "US",
-                                    "prices": [
-                                        {
-                                            "amount": 1599,
-                                            "currency": "usd",
-                                            "exponent": 2
-                                        }
-                                    ]
-                                }
-                            },
-                            "4": {
-                                "country_prices": {
-                                    "country_code": "US",
-                                    "prices": [
-                                        {
-                                            "amount": 1199,
-                                            "currency": "usd",
-                                            "exponent": 2
-                                        }
-                                    ]
-                                }
-                            }
-                        }
-                    },
-                    {
-                        "sku_id": "1266493591275044903",
-                        "name": "VCT Supernova",
-                        "summary": "Upgrade your look with a supernova of VCT 2024 style.",
-                        "type": 1,
-                        "premium_type": 0,
-                        "prices": {
-                            "0": {
-                                "country_prices": {
-                                    "country_code": "US",
-                                    "prices": [
-                                        {
-                                            "amount": 1599,
-                                            "currency": "usd",
-                                            "exponent": 2
-                                        }
-                                    ]
-                                }
-                            },
-                            "4": {
-                                "country_prices": {
-                                    "country_code": "US",
-                                    "prices": [
-                                        {
-                                            "amount": 1199,
-                                            "currency": "usd",
-                                            "exponent": 2
-                                        }
-                                    ]
-                                }
-                            }
-                        }
-                    }
-                ],
-                "google_sku_ids": {
-                    "5": "1274105879238676561_1329905277910253662",
-                    "7": "1274105879238676561_1329905291579494500"
-                }
-            },
             {
                 "sku_id": "1267521289330102344",
                 "name": "Yoru Bundle",
-                "summary": "A bundle of collectibles.",
-                "store_listing_id": "1267521289321709618",
-                "unpublished_at": null,
+                "summary": "{joinedItems}",
                 "styles": {
                     "background_colors": [
                         1118740,
@@ -8558,28 +8384,26 @@
                         }
                     }
                 },
+                "preview_assets": {
+                    "fg_static": "https://cdn.discordapp.com/media/v1/collectibles-shop/bundle-fg-static/1267521289330102344",
+                    "bg_static": "https://cdn.discordapp.com/media/v1/collectibles-shop/bundle-bg-static/1267521289330102344"
+                },
                 "items": [
                     {
                         "type": 0,
-                        "id": "1266160780961906688",
                         "sku_id": "1266160780928352268",
                         "asset": "a_da532f804b47f1681006c2996eb07b2a",
-                        "assets": {
-                            "static_image_url": "https://cdn.discordapp.com/assets/content/b13cd0fb120f2ef36ddae82686a0c3e08d141b1d8d51fa7c4b42927064ff6a8e",
-                            "animated_image_url": "https://cdn.discordapp.com/assets/content/12c8c0f0c7ff9274b4a587e499209b6556bec7b7204ff8ef557d70d36ba99946"
-                        },
                         "label": "Agent Yoru's hands appear, ripping open a new dimension over your avatar that lets him drift between dimensions, unable to be detected by enemies and even yourself."
                     },
                     {
                         "type": 1,
-                        "id": "1266493591191158814",
                         "sku_id": "1266493591207940133",
                         "title": "Yoru Dimensional Rip",
                         "description": "Show this effect when others view your profile.",
                         "accessibilityLabel": "The hands of Yoru appear over your profile. Yoru's masked face is visible for just a second before he succeeds in tearing open the dimensional fabric of your profile and seemingly vanishes.",
                         "animationType": 2,
                         "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/content/8cea4b415caeb62d505c3145b3ca0d8b99d97dffc1d7f2a354a6fc750691c05e",
-                        "reducedMotionSrc": "https://cdn.discordapp.com/assets/content/b84cbecd592553e2bcbfa366e1005e144b03ca5c6bd7b8ce45f320c3708abfb9",
+                        "reducedMotionSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/7c5fe7a223082d1eb3a059b59066c76220e36d8c10df2f3b8009bc4b283ee992",
                         "effects": [
                             {
                                 "src": "https://cdn.discordapp.com/assets/content/92ceb8fdfbf0f13d0610d7423daee5577d50b7e5457dae42a8972981486ad655",
@@ -8688,14 +8512,13 @@
                 "google_sku_ids": {
                     "5": "1267521289330102344_1329905304795873371",
                     "7": "1267521289330102344_1329905318662111304"
-                }
+                },
+                "is_first_party": false
             },
             {
                 "sku_id": "1267521289355268154",
                 "name": "ACE Bundle",
-                "summary": "A bundle of collectibles.",
-                "store_listing_id": "1267521289338228801",
-                "unpublished_at": null,
+                "summary": "{joinedItems}",
                 "styles": {
                     "background_colors": [
                         1118740,
@@ -8739,21 +8562,19 @@
                         }
                     }
                 },
+                "preview_assets": {
+                    "fg_static": "https://cdn.discordapp.com/media/v1/collectibles-shop/bundle-fg-static/1267521289355268154",
+                    "bg_static": "https://cdn.discordapp.com/media/v1/collectibles-shop/bundle-bg-static/1267521289355268154"
+                },
                 "items": [
                     {
                         "type": 0,
-                        "id": "1220513996889919548",
                         "sku_id": "1220513995308400680",
                         "asset": "a_09de63526a45be1ddac70e84718ee04a",
-                        "assets": {
-                            "static_image_url": "https://cdn.discordapp.com/assets/content/767b38d64bc1650c24c2e963cd482cbe30d4aa1df84bd869a865252f90348319",
-                            "animated_image_url": "https://cdn.discordapp.com/assets/content/d2ae0a4fc5aa426b9f1a1bf2d699a54397b61be33d52753c07cce3894f4348b8"
-                        },
                         "label": "A kill icon displaying 5 confirmed kills."
                     },
                     {
                         "type": 1,
-                        "id": "1220432721134747648",
                         "sku_id": "1220432740638523543",
                         "title": "ACE",
                         "description": "Show this effect when others view your profile.",
@@ -8885,84 +8706,13 @@
                 "google_sku_ids": {
                     "5": "1267521289355268154_1329905332423491604",
                     "7": "1267521289355268154_1329905345543536670"
-                }
-            },
-            {
-                "sku_id": "1268362891946627103",
-                "name": "VALORANT Champions 2024",
-                "summary": "All paths end here.",
-                "store_listing_id": "1274070185052999690",
-                "unpublished_at": null,
-                "styles": {
-                    "background_colors": [
-                        1118740,
-                        1118740
-                    ],
-                    "button_colors": [
-                        5793266,
-                        5793266
-                    ],
-                    "confetti_colors": [
-                        43772,
-                        15774258,
-                        16414587,
-                        3000177,
-                        9739511
-                    ]
                 },
-                "prices": {
-                    "0": {
-                        "country_prices": {
-                            "country_code": "US",
-                            "prices": [
-                                {
-                                    "amount": 1599,
-                                    "currency": "usd",
-                                    "exponent": 2
-                                }
-                            ]
-                        }
-                    },
-                    "4": {
-                        "country_prices": {
-                            "country_code": "US",
-                            "prices": [
-                                {
-                                    "amount": 1199,
-                                    "currency": "usd",
-                                    "exponent": 2
-                                }
-                            ]
-                        }
-                    }
-                },
-                "items": [
-                    {
-                        "type": 0,
-                        "id": "1274070185090879567",
-                        "sku_id": "1268362891946627103",
-                        "asset": "a_90e0dce3cc48c4a9607b6d41209c737e",
-                        "assets": {
-                            "static_image_url": "https://cdn.discordapp.com/assets/content/679f7db963845e443903b7aeb3cc3a44742f2850814441420c398b2fc4725cb6",
-                            "animated_image_url": "https://cdn.discordapp.com/assets/content/fdf2120c41d52ac59baf80e33726ad9347e390bd7e0b80190d0bbc05562fe82e"
-                        },
-                        "label": "Metallic vines and thorns tightly wrap and writhe around the avatar. A metallic symbol shaped after the VALORANT Champions Tour logo then appears before being absorbed into the avatar's center."
-                    }
-                ],
-                "type": 0,
-                "premium_type": 0,
-                "category_sku_id": "1265375293397270650",
-                "google_sku_ids": {
-                    "5": "1268362891946627103_1276022027597381684",
-                    "7": "1268362891946627103_1276022036808077352"
-                }
+                "is_first_party": false
             },
             {
                 "sku_id": "1266160780928352268",
                 "name": "Yoru Dimensional Drift",
                 "summary": "Looking for me?",
-                "store_listing_id": "1266109378273218560",
-                "unpublished_at": null,
                 "styles": {
                     "background_colors": [
                         1118740,
@@ -9006,16 +8756,12 @@
                         }
                     }
                 },
+                "preview_assets": null,
                 "items": [
                     {
                         "type": 0,
-                        "id": "1266160780961906688",
                         "sku_id": "1266160780928352268",
                         "asset": "a_da532f804b47f1681006c2996eb07b2a",
-                        "assets": {
-                            "static_image_url": "https://cdn.discordapp.com/assets/content/b13cd0fb120f2ef36ddae82686a0c3e08d141b1d8d51fa7c4b42927064ff6a8e",
-                            "animated_image_url": "https://cdn.discordapp.com/assets/content/12c8c0f0c7ff9274b4a587e499209b6556bec7b7204ff8ef557d70d36ba99946"
-                        },
                         "label": "Agent Yoru's hands appear, ripping open a new dimension over your avatar that lets him drift between dimensions, unable to be detected by enemies and even yourself."
                     }
                 ],
@@ -9025,14 +8771,13 @@
                 "google_sku_ids": {
                     "5": "1266160780928352268_1270113176687476837",
                     "7": "1266160780928352268_1270113204797833216"
-                }
+                },
+                "is_first_party": false
             },
             {
                 "sku_id": "1266160780978556969",
                 "name": "Viper Poison Cloud",
                 "summary": "No one can hold their breath forever.",
-                "store_listing_id": "1266160780953391146",
-                "unpublished_at": null,
                 "styles": {
                     "background_colors": [
                         1118740,
@@ -9076,16 +8821,12 @@
                         }
                     }
                 },
+                "preview_assets": null,
                 "items": [
                     {
                         "type": 0,
-                        "id": "1266160781008044135",
                         "sku_id": "1266160780978556969",
                         "asset": "a_62cd9d7c0031a7c1eb5ad5cc96992189",
-                        "assets": {
-                            "static_image_url": "https://cdn.discordapp.com/assets/content/820f5874b0f20589db128426cd52d01e03e81941dd7cafe1b7b2d2c8c5b42758",
-                            "animated_image_url": "https://cdn.discordapp.com/assets/content/03beebcd64df169e204072d73978d37f2ca6ffa1a0ef8e78006a172c1a2804fc"
-                        },
                         "label": "Viper's poison cloud ability surrounds the avatar. Hope you brought a mask."
                     }
                 ],
@@ -9095,294 +8836,13 @@
                 "google_sku_ids": {
                     "5": "1266160780978556969_1270112557855801405",
                     "7": "1266160780978556969_1270112568765059083"
-                }
-            },
-            {
-                "sku_id": "1266161342801383434",
-                "name": "Cypher Neural Theft",
-                "summary": "Nothing stays hidden from me.",
-                "store_listing_id": "1266161342881075336",
-                "unpublished_at": null,
-                "styles": {
-                    "background_colors": [
-                        1118740,
-                        1118740
-                    ],
-                    "button_colors": [
-                        5793266,
-                        5793266
-                    ],
-                    "confetti_colors": [
-                        43772,
-                        15774258,
-                        16414587,
-                        3000177,
-                        9739511
-                    ]
                 },
-                "prices": {
-                    "0": {
-                        "country_prices": {
-                            "country_code": "US",
-                            "prices": [
-                                {
-                                    "amount": 1599,
-                                    "currency": "usd",
-                                    "exponent": 2
-                                }
-                            ]
-                        }
-                    },
-                    "4": {
-                        "country_prices": {
-                            "country_code": "US",
-                            "prices": [
-                                {
-                                    "amount": 1199,
-                                    "currency": "usd",
-                                    "exponent": 2
-                                }
-                            ]
-                        }
-                    }
-                },
-                "items": [
-                    {
-                        "type": 0,
-                        "id": "1266160780940939295",
-                        "sku_id": "1266161342801383434",
-                        "asset": "a_b1efe77f379c6c9c6e47e6b6299d5a7d",
-                        "assets": {
-                            "static_image_url": "https://cdn.discordapp.com/assets/content/9ba801d054ec4c24d09cf7673c23c0480858da706f532d8137d63895bb66a833",
-                            "animated_image_url": "https://cdn.discordapp.com/assets/content/375a9e45456821e011da234fe6c8909f92e4fe3a0c2ed02303445e754dd10000"
-                        },
-                        "label": "The avatar wears Cypher's signature hat, cleverly disguised as an intel device that can reveal the location of your enemies."
-                    }
-                ],
-                "type": 0,
-                "premium_type": 0,
-                "category_sku_id": "1265375293397270650",
-                "google_sku_ids": {
-                    "5": "1266161342801383434_1270111604955938836",
-                    "7": "1266161342801383434_1270111628863471728"
-                }
-            },
-            {
-                "sku_id": "1220513977683935373",
-                "name": "A Hint of Clove",
-                "summary": "Back again from the great beyond.",
-                "store_listing_id": "1220513975494512780",
-                "unpublished_at": null,
-                "styles": {
-                    "background_colors": [
-                        1118740,
-                        1118740
-                    ],
-                    "button_colors": [
-                        5793266,
-                        5793266
-                    ],
-                    "confetti_colors": [
-                        43772,
-                        15774258,
-                        16414587,
-                        3000177,
-                        9739511
-                    ]
-                },
-                "prices": {
-                    "0": {
-                        "country_prices": {
-                            "country_code": "US",
-                            "prices": [
-                                {
-                                    "amount": 1599,
-                                    "currency": "usd",
-                                    "exponent": 2
-                                }
-                            ]
-                        }
-                    },
-                    "4": {
-                        "country_prices": {
-                            "country_code": "US",
-                            "prices": [
-                                {
-                                    "amount": 1199,
-                                    "currency": "usd",
-                                    "exponent": 2
-                                }
-                            ]
-                        }
-                    }
-                },
-                "items": [
-                    {
-                        "type": 0,
-                        "id": "1220513979898793994",
-                        "sku_id": "1220513977683935373",
-                        "asset": "a_98555e40cc6802bd3a4fed906af1d992",
-                        "assets": {
-                            "static_image_url": "https://cdn.discordapp.com/assets/content/dc0df8a68d61c6557237ea67e7cae434801f25a7b1661daac3cb417eb07d4bd1",
-                            "animated_image_url": "https://cdn.discordapp.com/assets/content/0fe9f273e451f5c8926e098f8cf07708dc73ac8fb1828d9d7a7496c5812b891d"
-                        },
-                        "label": "Clove's special smoke ability wraps around the avatar, with several fluttering, glowing butterflies."
-                    }
-                ],
-                "type": 0,
-                "premium_type": 0,
-                "category_sku_id": "1265375293397270650",
-                "google_sku_ids": {
-                    "5": "1220513977683935373_1259920860995780719",
-                    "7": "1220513977683935373_1259920879995981955"
-                }
-            },
-            {
-                "sku_id": "1220513995308400680",
-                "name": "FRAG OUT",
-                "summary": "Five down. None to go.",
-                "store_listing_id": "1220513993215447040",
-                "unpublished_at": null,
-                "styles": {
-                    "background_colors": [
-                        1118740,
-                        1118740
-                    ],
-                    "button_colors": [
-                        5793266,
-                        5793266
-                    ],
-                    "confetti_colors": [
-                        43772,
-                        15774258,
-                        16414587,
-                        3000177,
-                        9739511
-                    ]
-                },
-                "prices": {
-                    "0": {
-                        "country_prices": {
-                            "country_code": "US",
-                            "prices": [
-                                {
-                                    "amount": 1599,
-                                    "currency": "usd",
-                                    "exponent": 2
-                                }
-                            ]
-                        }
-                    },
-                    "4": {
-                        "country_prices": {
-                            "country_code": "US",
-                            "prices": [
-                                {
-                                    "amount": 1199,
-                                    "currency": "usd",
-                                    "exponent": 2
-                                }
-                            ]
-                        }
-                    }
-                },
-                "items": [
-                    {
-                        "type": 0,
-                        "id": "1220513996889919548",
-                        "sku_id": "1220513995308400680",
-                        "asset": "a_09de63526a45be1ddac70e84718ee04a",
-                        "assets": {
-                            "static_image_url": "https://cdn.discordapp.com/assets/content/767b38d64bc1650c24c2e963cd482cbe30d4aa1df84bd869a865252f90348319",
-                            "animated_image_url": "https://cdn.discordapp.com/assets/content/d2ae0a4fc5aa426b9f1a1bf2d699a54397b61be33d52753c07cce3894f4348b8"
-                        },
-                        "label": "A kill icon displaying 5 confirmed kills."
-                    }
-                ],
-                "type": 0,
-                "premium_type": 0,
-                "category_sku_id": "1265375293397270650",
-                "google_sku_ids": {
-                    "5": "1220513995308400680_1259920951911514203",
-                    "7": "1220513995308400680_1259920962892206120"
-                }
-            },
-            {
-                "sku_id": "1220513984273186816",
-                "name": "Omen's Cowl",
-                "summary": "Embrace the shadows.",
-                "store_listing_id": "1220513982083764357",
-                "unpublished_at": null,
-                "styles": {
-                    "background_colors": [
-                        1118740,
-                        1118740
-                    ],
-                    "button_colors": [
-                        5793266,
-                        5793266
-                    ],
-                    "confetti_colors": [
-                        43772,
-                        15774258,
-                        16414587,
-                        3000177,
-                        9739511
-                    ]
-                },
-                "prices": {
-                    "0": {
-                        "country_prices": {
-                            "country_code": "US",
-                            "prices": [
-                                {
-                                    "amount": 1599,
-                                    "currency": "usd",
-                                    "exponent": 2
-                                }
-                            ]
-                        }
-                    },
-                    "4": {
-                        "country_prices": {
-                            "country_code": "US",
-                            "prices": [
-                                {
-                                    "amount": 1199,
-                                    "currency": "usd",
-                                    "exponent": 2
-                                }
-                            ]
-                        }
-                    }
-                },
-                "items": [
-                    {
-                        "type": 0,
-                        "id": "1220513986051837952",
-                        "sku_id": "1220513984273186816",
-                        "asset": "a_c45abe8c7585fdb41b8d8d4d666f1588",
-                        "assets": {
-                            "static_image_url": "https://cdn.discordapp.com/assets/content/a71700feb41e7f26831cf641f2d9fbfe66dd57ade3992da3cc9227e0078cb5dd",
-                            "animated_image_url": "https://cdn.discordapp.com/assets/content/0c17bfb16601a3d97affa95834100dfba100882b921c6bb68a45c0a13bf84060"
-                        },
-                        "label": "The avatar wears Omen's signature hood."
-                    }
-                ],
-                "type": 0,
-                "premium_type": 0,
-                "category_sku_id": "1265375293397270650",
-                "google_sku_ids": {
-                    "5": "1220513984273186816_1259920890167034007",
-                    "7": "1220513984273186816_1259920900472569910"
-                }
+                "is_first_party": false
             },
             {
                 "sku_id": "1220513989729976411",
                 "name": "Reyna's Leer",
                 "summary": "The last thing they'll ever see. Lucky them.",
-                "store_listing_id": "1220513987863515166",
-                "unpublished_at": null,
                 "styles": {
                     "background_colors": [
                         1118740,
@@ -9426,16 +8886,12 @@
                         }
                     }
                 },
+                "preview_assets": null,
                 "items": [
                     {
                         "type": 0,
-                        "id": "1220513991449907280",
                         "sku_id": "1220513989729976411",
                         "asset": "a_a87e3efa4de2956331831681231ce63b",
-                        "assets": {
-                            "static_image_url": "https://cdn.discordapp.com/assets/content/a2710b8a71ba5d9c81000ba81d192fe0fe51c4d1057a5c80e0ec90d2fcfca35a",
-                            "animated_image_url": "https://cdn.discordapp.com/assets/content/6b46f9a147f9b5dea88e9f0123b88e538c1fda74abb4423786ef51871aff46a5"
-                        },
                         "label": "Reyna's Leer ability surrounds the avatar, nearsighting all those who dare to stare into its gaze."
                     }
                 ],
@@ -9445,14 +8901,13 @@
                 "google_sku_ids": {
                     "5": "1220513989729976411_1259920911239352512",
                     "7": "1220513989729976411_1259920942457421874"
-                }
+                },
+                "is_first_party": false
             },
             {
-                "sku_id": "1220514048068812901",
-                "name": "Blade Storm",
-                "summary": "Watch this.",
-                "store_listing_id": "1220513998684819546",
-                "unpublished_at": null,
+                "sku_id": "1220513977683935373",
+                "name": "A Hint of Clove",
+                "summary": "Back again from the great beyond.",
                 "styles": {
                     "background_colors": [
                         1118740,
@@ -9496,16 +8951,272 @@
                         }
                     }
                 },
+                "preview_assets": null,
                 "items": [
                     {
                         "type": 0,
-                        "id": "1220514050551709787",
+                        "sku_id": "1220513977683935373",
+                        "asset": "a_98555e40cc6802bd3a4fed906af1d992",
+                        "label": "Clove's special smoke ability wraps around the avatar, with several fluttering, glowing butterflies."
+                    }
+                ],
+                "type": 0,
+                "premium_type": 0,
+                "category_sku_id": "1265375293397270650",
+                "google_sku_ids": {
+                    "5": "1220513977683935373_1259920860995780719",
+                    "7": "1220513977683935373_1259920879995981955"
+                },
+                "is_first_party": false
+            },
+            {
+                "sku_id": "1220513984273186816",
+                "name": "Omen's Cowl",
+                "summary": "Embrace the shadows.",
+                "styles": {
+                    "background_colors": [
+                        1118740,
+                        1118740
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 1599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 1199,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    }
+                },
+                "preview_assets": null,
+                "items": [
+                    {
+                        "type": 0,
+                        "sku_id": "1220513984273186816",
+                        "asset": "a_c45abe8c7585fdb41b8d8d4d666f1588",
+                        "label": "The avatar wears Omen's signature hood."
+                    }
+                ],
+                "type": 0,
+                "premium_type": 0,
+                "category_sku_id": "1265375293397270650",
+                "google_sku_ids": {
+                    "5": "1220513984273186816_1259920890167034007",
+                    "7": "1220513984273186816_1259920900472569910"
+                },
+                "is_first_party": false
+            },
+            {
+                "sku_id": "1266161342801383434",
+                "name": "Cypher Neural Theft",
+                "summary": "Nothing stays hidden from me.",
+                "styles": {
+                    "background_colors": [
+                        1118740,
+                        1118740
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 1599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 1199,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    }
+                },
+                "preview_assets": null,
+                "items": [
+                    {
+                        "type": 0,
+                        "sku_id": "1266161342801383434",
+                        "asset": "a_b1efe77f379c6c9c6e47e6b6299d5a7d",
+                        "label": "The avatar wears Cypher's signature hat, cleverly disguised as an intel device that can reveal the location of your enemies."
+                    }
+                ],
+                "type": 0,
+                "premium_type": 0,
+                "category_sku_id": "1265375293397270650",
+                "google_sku_ids": {
+                    "5": "1266161342801383434_1270111604955938836",
+                    "7": "1266161342801383434_1270111628863471728"
+                },
+                "is_first_party": false
+            },
+            {
+                "sku_id": "1220513995308400680",
+                "name": "FRAG OUT",
+                "summary": "Five down. None to go.",
+                "styles": {
+                    "background_colors": [
+                        1118740,
+                        1118740
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 1599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 1199,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    }
+                },
+                "preview_assets": null,
+                "items": [
+                    {
+                        "type": 0,
+                        "sku_id": "1220513995308400680",
+                        "asset": "a_09de63526a45be1ddac70e84718ee04a",
+                        "label": "A kill icon displaying 5 confirmed kills."
+                    }
+                ],
+                "type": 0,
+                "premium_type": 0,
+                "category_sku_id": "1265375293397270650",
+                "google_sku_ids": {
+                    "5": "1220513995308400680_1259920951911514203",
+                    "7": "1220513995308400680_1259920962892206120"
+                },
+                "is_first_party": false
+            },
+            {
+                "sku_id": "1220514048068812901",
+                "name": "Blade Storm",
+                "summary": "Watch this.",
+                "styles": {
+                    "background_colors": [
+                        1118740,
+                        1118740
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 1599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 1199,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    }
+                },
+                "preview_assets": null,
+                "items": [
+                    {
+                        "type": 0,
                         "sku_id": "1220514048068812901",
                         "asset": "a_904b1989077c91fca1168d39bfcaa0a4",
-                        "assets": {
-                            "static_image_url": "https://cdn.discordapp.com/assets/content/357b32f325ac79c02e5acf2ec87db0179fd75db5cafe1f1e4045bc79cf197cf6",
-                            "animated_image_url": "https://cdn.discordapp.com/assets/content/c1a961503f798d13afbbfac294a5d5505dc8e03a02cf7885d92dbf07a0b8132a"
-                        },
                         "label": "The avatar equips throwing knives from Jett's signature Blade Storm ability."
                     }
                 ],
@@ -9515,14 +9226,13 @@
                 "google_sku_ids": {
                     "5": "1220514048068812901_1259920973126172743",
                     "7": "1220514048068812901_1259920983997939833"
-                }
+                },
+                "is_first_party": false
             },
             {
                 "sku_id": "1266493591207940133",
                 "name": "Yoru Dimensional Rip",
                 "summary": "Tear through the dimensional fabric and make your mark.",
-                "store_listing_id": "1266501525103054877",
-                "unpublished_at": null,
                 "styles": {
                     "background_colors": [
                         1118740,
@@ -9566,17 +9276,17 @@
                         }
                     }
                 },
+                "preview_assets": null,
                 "items": [
                     {
                         "type": 1,
-                        "id": "1266493591191158814",
                         "sku_id": "1266493591207940133",
                         "title": "Yoru Dimensional Rip",
                         "description": "Show this effect when others view your profile.",
                         "accessibilityLabel": "The hands of Yoru appear over your profile. Yoru's masked face is visible for just a second before he succeeds in tearing open the dimensional fabric of your profile and seemingly vanishes.",
                         "animationType": 2,
                         "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/content/8cea4b415caeb62d505c3145b3ca0d8b99d97dffc1d7f2a354a6fc750691c05e",
-                        "reducedMotionSrc": "https://cdn.discordapp.com/assets/content/b84cbecd592553e2bcbfa366e1005e144b03ca5c6bd7b8ce45f320c3708abfb9",
+                        "reducedMotionSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/7c5fe7a223082d1eb3a059b59066c76220e36d8c10df2f3b8009bc4b283ee992",
                         "effects": [
                             {
                                 "src": "https://cdn.discordapp.com/assets/content/92ceb8fdfbf0f13d0610d7423daee5577d50b7e5457dae42a8972981486ad655",
@@ -9617,116 +9327,13 @@
                 "google_sku_ids": {
                     "5": "1266493591207940133_1270111055401455646",
                     "7": "1266493591207940133_1270111066294059060"
-                }
-            },
-            {
-                "sku_id": "1266493591275044903",
-                "name": "VCT Supernova",
-                "summary": "Upgrade your look with a supernova of VCT 2024 style.",
-                "store_listing_id": "1266501525090598932",
-                "unpublished_at": null,
-                "styles": {
-                    "background_colors": [
-                        1118740,
-                        1118740
-                    ],
-                    "button_colors": [
-                        5793266,
-                        5793266
-                    ],
-                    "confetti_colors": [
-                        43772,
-                        15774258,
-                        16414587,
-                        3000177,
-                        9739511
-                    ]
                 },
-                "prices": {
-                    "0": {
-                        "country_prices": {
-                            "country_code": "US",
-                            "prices": [
-                                {
-                                    "amount": 1599,
-                                    "currency": "usd",
-                                    "exponent": 2
-                                }
-                            ]
-                        }
-                    },
-                    "4": {
-                        "country_prices": {
-                            "country_code": "US",
-                            "prices": [
-                                {
-                                    "amount": 1199,
-                                    "currency": "usd",
-                                    "exponent": 2
-                                }
-                            ]
-                        }
-                    }
-                },
-                "items": [
-                    {
-                        "type": 1,
-                        "id": "1266493591233237173",
-                        "sku_id": "1266493591275044903",
-                        "title": "VCT Supernova",
-                        "description": "Show this effect when others view your profile.",
-                        "accessibilityLabel": "The VALORANT Champions Tour logo appears over your profile, glowing and twirling with celestial energy before exploding in a supernova-like fashion, revealing the Champions 2024 Finisher.",
-                        "animationType": 2,
-                        "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/content/53e6b300b9cce9af7c5c8ffffa270c93064fca2d6ebf581ff1faf89999d293c1",
-                        "reducedMotionSrc": "https://cdn.discordapp.com/assets/content/013853e1d8e9df845d7199117b29ec6dfa4538e09ba19b13c902370ac6e23362",
-                        "effects": [
-                            {
-                                "src": "https://cdn.discordapp.com/assets/content/50d52919bdb760f0225133b243c90eda03efd253d97bd3826fc29a1584030d24",
-                                "loop": false,
-                                "height": 880,
-                                "width": 450,
-                                "duration": 4650,
-                                "start": 0,
-                                "loopDelay": 0,
-                                "position": {
-                                    "x": 0,
-                                    "y": 0
-                                },
-                                "zIndex": 100,
-                                "randomizedSources": []
-                            },
-                            {
-                                "src": "https://cdn.discordapp.com/assets/content/82f716c617faed5dd8af77565f336e87a3db80abc1ee39f6c2c23c58823b2aad",
-                                "loop": true,
-                                "height": 880,
-                                "width": 450,
-                                "duration": 5063,
-                                "start": 7815,
-                                "loopDelay": 4000,
-                                "position": {
-                                    "x": 0,
-                                    "y": 0
-                                },
-                                "zIndex": 101,
-                                "randomizedSources": []
-                            }
-                        ]
-                    }
-                ],
-                "type": 1,
-                "premium_type": 0,
-                "category_sku_id": "1265375293397270650",
-                "google_sku_ids": {
-                    "5": "1266493591275044903_1270112571260665867",
-                    "7": "1266493591275044903_1270112582329565224"
-                }
+                "is_first_party": false
             },
             {
                 "sku_id": "1220432740638523543",
                 "name": "ACE",
                 "summary": "Too bad there's only 5 of 'em.",
-                "store_listing_id": "1220514055584743494",
-                "unpublished_at": null,
                 "styles": {
                     "background_colors": [
                         1118740,
@@ -9770,10 +9377,10 @@
                         }
                     }
                 },
+                "preview_assets": null,
                 "items": [
                     {
                         "type": 1,
-                        "id": "1220432721134747648",
                         "sku_id": "1220432740638523543",
                         "title": "ACE",
                         "description": "Show this effect when others view your profile.",
@@ -9837,14 +9444,13 @@
                 "google_sku_ids": {
                     "5": "1220432740638523543_1259921016713511034",
                     "7": "1220432740638523543_1259921027488682004"
-                }
+                },
+                "is_first_party": false
             },
             {
                 "sku_id": "1220432647453409384",
                 "name": "Clove's Ruse",
                 "summary": "Smoke's out. Time to make some mischief.",
-                "store_listing_id": "1220514052833284226",
-                "unpublished_at": null,
                 "styles": {
                     "background_colors": [
                         1118740,
@@ -9888,10 +9494,10 @@
                         }
                     }
                 },
+                "preview_assets": null,
                 "items": [
                     {
                         "type": 1,
-                        "id": "1220432606059954196",
                         "sku_id": "1220432647453409384",
                         "title": "Clove's Ruse",
                         "description": "Show this effect when others view your profile.",
@@ -9939,14 +9545,13 @@
                 "google_sku_ids": {
                     "5": "1220432647453409384_1259920996543107183",
                     "7": "1220432647453409384_1259921006126956615"
-                }
+                },
+                "is_first_party": false
             },
             {
                 "sku_id": "1220432697718083614",
                 "name": "The Immortal Clove",
                 "summary": "They've got all the time in the world.",
-                "store_listing_id": "1220514058600714240",
-                "unpublished_at": null,
                 "styles": {
                     "background_colors": [
                         1118740,
@@ -9990,10 +9595,10 @@
                         }
                     }
                 },
+                "preview_assets": null,
                 "items": [
                     {
                         "type": 1,
-                        "id": "1220432672443334778",
                         "sku_id": "1220432697718083614",
                         "title": "The Immortal Clove",
                         "description": "Show this effect when others view your profile.",
@@ -10041,14 +9646,10 @@
                 "google_sku_ids": {
                     "5": "1220432697718083614_1259921037735231629",
                     "7": "1220432697718083614_1259921048766382080"
-                }
+                },
+                "is_first_party": false
             }
         ],
-        "catalog_banner_asset": {
-            "animated": null,
-            "static": "https://cdn.discordapp.com/assets/content/dd0c00825c82ffe20f4b3469bbc65d2dd5183aae0908d5f07b034a29f77a513b"
-        },
-        "hero_logo": null,
         "catalog_banner_url": "https://cdn.discordapp.com/assets/content/dd0c00825c82ffe20f4b3469bbc65d2dd5183aae0908d5f07b034a29f77a513b",
         "logo_url": "https://cdn.discordapp.com/assets/content/4b61f7f0367da3ea757d6354ea89fa6908643dab02f92efbb213bd14b0afdb5d",
         "pdp_bg_url": "https://cdn.discordapp.com/assets/content/e6c16a507d0bf0bb4158d9a47757fbf02314e857ea77e7c83035b3da87392f0d",
