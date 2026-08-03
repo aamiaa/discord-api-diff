@@ -95470,5 +95470,227 @@
         "targeted_content": [],
         "preview": false,
         "traffic_metadata_raw": "EAIYAQ=="
+    },
+    {
+        "id": "1527071792466755624",
+        "config": {
+            "id": "1527071792466755624",
+            "config_version": 2,
+            "starts_at": "2026-08-03T17:00:00+00:00",
+            "expires_at": "2026-08-17T06:59:00+00:00",
+            "features": [
+                27,
+                36,
+                15
+            ],
+            "application": {
+                "link": "https://www.endofoakstreet.com/",
+                "id": "1526982312212828323",
+                "name": "The End of Oak Street"
+            },
+            "assets": {
+                "hero": "quests/1527071792466755624/1532841690493096119.jpg",
+                "hero_video": "quests/1527071792466755624/1532841372560916480_720.mp4",
+                "quest_bar_hero_blurhash": "VAgGCoIk92JEuDWYnjAaYHM=",
+                "quest_bar_hero": "quests/1527071792466755624/1531698216037515355.jpg",
+                "quest_bar_hero_video": "quests/1527071792466755624/1532841372560916480_720.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1527071792466755624/1531697960079851632.png",
+                "game_tile_dark": "quests/1527071792466755624/1531697960079851632.png",
+                "logotype_light": "quests/1527071792466755624/1531697960184971394.png",
+                "logotype_dark": "quests/1527071792466755624/1531697960184971394.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "The End of Oak Street",
+                "game_title": "Tickets Now on Sale!",
+                "game_publisher": "Warner Bros. Pictures"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "ACHIEVEMENT_IN_ACTIVITY": {
+                        "type": "ACHIEVEMENT_IN_ACTIVITY",
+                        "target": 5,
+                        "applications": [
+                            {
+                                "id": "1526982312212828323"
+                            }
+                        ],
+                        "event_name": "progress",
+                        "messages": {
+                            "task_title": "Survive The End of Oak Street",
+                            "task_description": "Survive The End of Oak Street and score 2,500 points to win 700 Discord Orbs!"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 Orbs",
+                            "name_with_article": "700 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 700,
+                        "premium_orb_quantity": 840
+                    }
+                ],
+                "rewards_expire_at": "2026-09-16T06:59:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://www.endofoakstreet.com/",
+                "button_label": "Get Tickets",
+                "subtitle": "Tickets Now on Sale!"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false,
+        "traffic_metadata_raw": "EAIYAQ=="
+    },
+    {
+        "id": "1532150126540361938",
+        "config": {
+            "id": "1532150126540361938",
+            "config_version": 2,
+            "starts_at": "2026-08-03T17:00:00+00:00",
+            "expires_at": "2026-08-31T00:00:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://www.hulu.com/start?cmp=21610&utm_campaign=BM_SOC_Discord_FY26Animayhem&utm_medium=Social&utm_source=Discord",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1532150126540361938/1532856403763531776.jpg",
+                "hero_video": "quests/1532150126540361938/1532868867439857805_720.mp4",
+                "quest_bar_hero_blurhash": "GegNJIZWiJiKh4eAeIeYiIBnBw==",
+                "quest_bar_hero": "quests/1532150126540361938/1532869261364559982.jpg",
+                "quest_bar_hero_video": "quests/1532150126540361938/1532868867439857805_720.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1532150126540361938/1532856210087350443.png",
+                "game_tile_dark": "quests/1532150126540361938/1532856210087350443.png",
+                "logotype_light": "quests/1532150126540361938/1532856210167038204.png",
+                "logotype_dark": "quests/1532150126540361938/1532856210167038204.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Hulu Animayhem",
+                "game_title": "Watch adult animation on Hulu and Disney+",
+                "game_publisher": "Hulu"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 29,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1532150126540361938/1532853785326653580_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1532150126540361938/1532856169310195722.png"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1532150126540361938/1532853785326653580_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1532150126540361938/1532856169310195722.png"
+                            },
+                            "video_hls": {
+                                "url": "quests/1532150126540361938/1532853785326653580.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1532150126540361938/1532856169310195722.png"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 29,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1532150126540361938/1532853783674228796_1080.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1532150126540361938/1532856169310195722.png"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1532150126540361938/1532853783674228796_720.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1532150126540361938/1532856169310195722.png"
+                            },
+                            "video_hls": {
+                                "url": "quests/1532150126540361938/1532853783674228796.m3u8",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1532150126540361938/1532856169310195722.png"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "200 Orbs",
+                            "name_with_article": "200 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 200,
+                        "premium_orb_quantity": 240
+                    }
+                ],
+                "rewards_expire_at": "2026-09-30T00:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://www.hulu.com/start?cmp=21610&utm_campaign=BM_SOC_Discord_FY26Animayhem&utm_medium=Social&utm_source=Discord",
+                "button_label": "Stream Now",
+                "subtitle": "Watch adult animation on Hulu and Disney+"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false,
+        "traffic_metadata_raw": "EAIYAQ=="
     }
 ]
