@@ -95782,84 +95782,85 @@
         "id": "1532723885332758609",
         "config": {
             "id": "1532723885332758609",
-            "config": {
-                "id": "1532723885332758609",
-                "config_version": 2,
-                "starts_at": "2026-08-04T02:15:00+00:00",
-                "expires_at": "2026-08-14T00:00:00+00:00",
-                "features": [
-                    15
+            "config_version": 2,
+            "starts_at": "2026-08-04T17:00:00+00:00",
+            "expires_at": "2026-08-14T00:00:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://www.roblox.com/games/16488030559/Protect-the-King&gsrbx=1",
+                "id": "363445589247131668",
+                "name": "Roblox"
+            },
+            "assets": {
+                "hero": "quests/1532723885332758609/1532728703434621090.jpg",
+                "hero_video": "quests/1532723885332758609/1532728747202187384_720.mp4",
+                "quest_bar_hero_blurhash": "1igKCoBgVhh3iGiYsHgInGY=",
+                "quest_bar_hero": "quests/1532723885332758609/1532728703434621090.jpg",
+                "quest_bar_hero_video": "quests/1532723885332758609/1532728747202187384_720.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1532723885332758609/1532728507942043728.png",
+                "game_tile_dark": "quests/1532723885332758609/1532728508030124122.png",
+                "logotype_light": "quests/1532723885332758609/1532728507858161704.png",
+                "logotype_dark": "quests/1532723885332758609/1532728507766018269.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Protect the King",
+                "game_title": "Protect the King on Roblox",
+                "game_publisher": "ROBLOX"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "363445589247131668"
+                            }
+                        ]
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 Orbs",
+                            "name_with_article": "700 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 700,
+                        "premium_orb_quantity": 840
+                    }
                 ],
-                "application": {
-                    "link": "https://www.roblox.com/games/16488030559/Protect-the-King&gsrbx=1",
-                    "id": "363445589247131668",
-                    "name": "Roblox"
-                },
-                "assets": {
-                    "hero": "quests/1532723885332758609/1532728703434621090.jpg",
-                    "hero_video": "quests/1532723885332758609/1532728747202187384_720.mp4",
-                    "quest_bar_hero_blurhash": "1igKCoBgVhh3iGiYsHgInGY=",
-                    "quest_bar_hero": "quests/1532723885332758609/1532728703434621090.jpg",
-                    "quest_bar_hero_video": "quests/1532723885332758609/1532728747202187384_720.mp4",
-                    "game_tile": "PLACEHOLDER",
-                    "logotype": "PLACEHOLDER",
-                    "game_tile_light": "quests/1532723885332758609/1532728507942043728.png",
-                    "game_tile_dark": "quests/1532723885332758609/1532728508030124122.png",
-                    "logotype_light": "quests/1532723885332758609/1532728507858161704.png",
-                    "logotype_dark": "quests/1532723885332758609/1532728507766018269.png"
-                },
-                "colors": {
-                    "primary": "#4752C4",
-                    "secondary": "#000000"
-                },
-                "messages": {
-                    "quest_name": "Protect the King",
-                    "game_title": "Protect the King on Roblox",
-                    "game_publisher": "ROBLOX"
-                },
-                "task_config_v2": {
-                    "tasks": {
-                        "PLAY_ON_DESKTOP": {
-                            "type": "PLAY_ON_DESKTOP",
-                            "target": 900,
-                            "applications": [
-                                {
-                                    "id": "363445589247131668"
-                                }
-                            ]
-                        }
-                    },
-                    "join_operator": "or"
-                },
-                "rewards_config": {
-                    "assignment_method": 1,
-                    "rewards": [
-                        {
-                            "type": 4,
-                            "sku_id": "1287881739531976815",
-                            "messages": {
-                                "name": "700 Orbs",
-                                "name_with_article": "700 Orbs",
-                                "redemption_instructions_by_platform": {
-                                    "0": "PLACEHOLDER"
-                                }
-                            },
-                            "orb_quantity": 700,
-                            "premium_orb_quantity": 840
-                        }
-                    ],
-                    "rewards_expire_at": "2026-09-13T00:00:00+00:00",
-                    "platforms": [
-                        0
-                    ]
-                },
-                "share_policy": "shareable_everywhere",
-                "cta_config": {
-                    "link": "https://www.roblox.com/games/16488030559/Protect-the-King&gsrbx=1",
-                    "button_label": "Play Now"
-                }
+                "rewards_expire_at": "2026-09-13T00:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://www.roblox.com/games/16488030559/Protect-the-King&gsrbx=1",
+                "button_label": "Play Now"
             }
-        }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false,
+        "traffic_metadata_raw": "EAIYAQ=="
     },
     {
         "id": "1533861934078890124",
@@ -96067,5 +96068,130 @@
         "targeted_content": [],
         "preview": false,
         "traffic_metadata_raw": "EAIYAQ=="
+    },
+    {
+        "id": "1533946165811351723",
+        "config": {
+            "id": "1533946165811351723",
+            "config_version": 2,
+            "starts_at": "2026-08-04T18:18:00+00:00",
+            "expires_at": "2026-08-11T06:59:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://www.violentnightmovie.ca",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1533946165811351723/1533946567822807070.jpg",
+                "quest_bar_hero_blurhash": "SPcFFIIodpiId4hgqnVrZu819A==",
+                "quest_bar_hero": "quests/1533946165811351723/1534261273380786217.jpg",
+                "quest_bar_hero_video": "quests/1533946165811351723/1534261365638692965_720.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1533946165811351723/1533946528765444238.png",
+                "game_tile_dark": "quests/1533946165811351723/1533946528790483125.png",
+                "logotype_light": "quests/1533946165811351723/1533946544330510336.png",
+                "logotype_dark": "quests/1533946165811351723/1533946544288567366.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Violent Night 2",
+                "game_title": "In Theaters December 4",
+                "game_publisher": "Universal Pictures"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 143,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1533946165811351723/1534235754451042426_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1533946165811351723/1533946555466252329.png"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1533946165811351723/1534235754451042426_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1533946165811351723/1533946555466252329.png"
+                            },
+                            "video_hls": {
+                                "url": "quests/1533946165811351723/1534235754451042426.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1533946165811351723/1533946555466252329.png"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 143,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1533946165811351723/1534261306876755998_1080.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1533946165811351723/1533946555466252329.png"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1533946165811351723/1534261306876755998_720.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1533946165811351723/1533946555466252329.png"
+                            },
+                            "video_hls": {
+                                "url": "quests/1533946165811351723/1534261306876755998.m3u8",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1533946165811351723/1533946555466252329.png"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "200 Orbs",
+                            "name_with_article": "200 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 200,
+                        "premium_orb_quantity": null
+                    }
+                ],
+                "rewards_expire_at": "2026-09-10T06:59:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://www.violentnightmovie.ca",
+                "button_label": "Learn More",
+                "subtitle": "In Theaters December 4"
+            }
+        }
     }
 ]
