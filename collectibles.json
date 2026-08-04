@@ -173427,5 +173427,1978 @@
             "responsive": null,
             "background_style": "linear-gradient(180deg, #B386B0 0%, #9493D0 100%)"
         }
+    },
+    {
+        "sku_id": "1531392810027061289",
+        "name": "Solar Eclipse",
+        "summary": " ",
+        "store_listing_id": "1531392810027061289",
+        "styles": {
+            "background_colors": [
+                855309,
+                5180417
+            ],
+            "button_colors": [
+                5793266,
+                5793266
+            ],
+            "confetti_colors": [
+                43772,
+                15774258,
+                16414587,
+                3000177,
+                9739511
+            ]
+        },
+        "hero_ranking": [
+            "1531413567411064842",
+            "1531414271823450173",
+            "1531405829952245982",
+            "1531406020851793950",
+            "1531403489727746310",
+            "1531405732174626986",
+            "1531414484092981319",
+            "1531411317477478654",
+            "1531411499086516244",
+            "1531412184054104104",
+            "1531412408390914118",
+            "1531412671637880892",
+            "1531413035569254500",
+            "1531413285243719880",
+            "1531413463623139328"
+        ],
+        "products": [
+            {
+                "sku_id": "1531413567411064842",
+                "name": "Solar Eclipse Bundle",
+                "summary": "{joinedItems}",
+                "styles": {
+                    "background_colors": [
+                        855309,
+                        5180417
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 2099,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 14400,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 1699,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 14400,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "preview_assets": {
+                    "fg_static": "https://cdn.discordapp.com/media/v1/collectibles-shop/bundle-fg-static/1531413567411064842",
+                    "bg_static": "https://cdn.discordapp.com/media/v1/collectibles-shop/bundle-bg-static/1531413567411064842"
+                },
+                "items": [
+                    {
+                        "type": 0,
+                        "sku_id": "1531403489727746310",
+                        "asset": "a_e3ec2d8cccdcb68819b2910c0787d3a4",
+                        "label": "A ring of golden light pulses with a soft glowing halo"
+                    },
+                    {
+                        "type": 2,
+                        "sku_id": "1531411317477478654",
+                        "asset": "nameplates/spectrum_array/1531411317477478654/",
+                        "label": "Red and orange light waves ripple and sparkle",
+                        "palette": "bubble_gum"
+                    },
+                    {
+                        "type": 1,
+                        "sku_id": "1531412408390914118",
+                        "title": "Solar Rays",
+                        "description": "Show this effect when others view your profile.",
+                        "accessibilityLabel": "A glowing solar eclipse sends rays of golden light downward",
+                        "animationType": 2,
+                        "thumbnailPreviewSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/ef28c67f6ee7c03f1115ec62c0e48458b18d26d0391dd4fa58ea8f724ccef64e",
+                        "reducedMotionSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/daecd8662d05312ddeba03f936c86abeea46fccef02f5e894349382100894380",
+                        "effects": [
+                            {
+                                "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/124a87da4f276710bc6f24a9990ef62f1f5e1d6a6c81237c3fa632dbf713aced",
+                                "loop": false,
+                                "duration": 3984,
+                                "start": 0,
+                                "loopDelay": 0,
+                                "zIndex": 110,
+                                "randomizedSources": []
+                            },
+                            {
+                                "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/d049dfe33467c2552ababf82e7dafa41def6133357552deabb1242596ac6248b",
+                                "loop": true,
+                                "duration": 4482,
+                                "start": 6984,
+                                "loopDelay": 3000,
+                                "zIndex": 100,
+                                "randomizedSources": []
+                            }
+                        ]
+                    },
+                    {
+                        "type": 3,
+                        "sku_id": "1531413285243719880",
+                        "label": "A dark eclipse with dramatic clouds crowns the top of the profile, with glowing fiery light trailing down both sides",
+                        "layers": [
+                            {
+                                "id": "1533986938368036915",
+                                "type": "staple",
+                                "order": "front",
+                                "anchor": "top",
+                                "responsive": false
+                            },
+                            {
+                                "id": "1533986943057137715",
+                                "type": "staple",
+                                "order": "front",
+                                "anchor": "bottom",
+                                "responsive": false
+                            },
+                            {
+                                "id": "1533986948220321862",
+                                "type": "staple",
+                                "order": "back",
+                                "anchor": "top",
+                                "responsive": false
+                            }
+                        ],
+                        "inner_width": 1200,
+                        "overflow_top": 304,
+                        "overflow_bottom": 212,
+                        "overflow_horizontal": 56
+                    }
+                ],
+                "type": 1000,
+                "premium_type": 0,
+                "category_sku_id": "1531392810027061289",
+                "bundled_products": [
+                    {
+                        "sku_id": "1531403489727746310",
+                        "name": "Solar Pulse",
+                        "summary": "Give your avatar a new look.",
+                        "type": 0,
+                        "premium_type": 0,
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 599,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 499,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "sku_id": "1531411317477478654",
+                        "name": "Spectrum Array",
+                        "summary": "Make your name stand out in servers and chats.",
+                        "type": 2,
+                        "premium_type": 0,
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 599,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 499,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "sku_id": "1531412408390914118",
+                        "name": "Solar Rays",
+                        "summary": "Show this effect when others view your profile.",
+                        "type": 1,
+                        "premium_type": 0,
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 599,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 499,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "sku_id": "1531413285243719880",
+                        "name": "Totality",
+                        "summary": "Elevate and wrap your profile with a frame.",
+                        "type": 3,
+                        "premium_type": 0,
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 599,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 499,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ],
+                "google_sku_ids": {
+                    "5": "1531413567411064842_1531416090981437470",
+                    "7": "1531413567411064842_1531416096274514091"
+                },
+                "is_first_party": true
+            },
+            {
+                "sku_id": "1531414271823450173",
+                "name": "Sun Crystals Bundle",
+                "summary": "{joinedItems}",
+                "styles": {
+                    "background_colors": [
+                        855309,
+                        5180417
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 2099,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 14400,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 1699,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 14400,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "preview_assets": {
+                    "fg_static": "https://cdn.discordapp.com/media/v1/collectibles-shop/bundle-fg-static/1531414271823450173",
+                    "bg_static": "https://cdn.discordapp.com/media/v1/collectibles-shop/bundle-bg-static/1531414271823450173"
+                },
+                "items": [
+                    {
+                        "type": 0,
+                        "sku_id": "1531405732174626986",
+                        "asset": "a_b0b3d7cf77fd2d73145e07436acb6a40",
+                        "label": "A gold crystalline crown with crystals hanging off chains shines with warm light"
+                    },
+                    {
+                        "type": 2,
+                        "sku_id": "1531411499086516244",
+                        "asset": "nameplates/suncatchers/1531411499086516244/",
+                        "label": "Golden crystal suncatchers sway and catch the light",
+                        "palette": "crimson"
+                    },
+                    {
+                        "type": 1,
+                        "sku_id": "1531412671637880892",
+                        "title": "Suncatchers",
+                        "description": "Show this effect when others view your profile.",
+                        "accessibilityLabel": "Golden crystal pendants hang from delicate chains across the top of the profile",
+                        "animationType": 1,
+                        "staticFrameSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/c8362093b7a7b4f711d679d2fa49d8a214e44748776a157e6c6b44f659e5d8d2",
+                        "thumbnailPreviewSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/0f73a1d57c416e5bebc6575666c2f54fa19eb5b40334cbd911e6c321ac8d157c",
+                        "reducedMotionSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/c8362093b7a7b4f711d679d2fa49d8a214e44748776a157e6c6b44f659e5d8d2",
+                        "effects": [
+                            {
+                                "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/728f0c927b5b50a012f73d81783e7814f9b5fea6d9aa4746ab2025081f968afe",
+                                "loop": false,
+                                "duration": 5905,
+                                "start": 0,
+                                "loopDelay": 0,
+                                "zIndex": 110,
+                                "randomizedSources": []
+                            },
+                            {
+                                "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/1a38f54679f592404326b9c7937efdc2d8b7548d510de13127277dea0b214d13",
+                                "loop": true,
+                                "duration": 5905,
+                                "start": 5906,
+                                "loopDelay": 0,
+                                "zIndex": 100,
+                                "randomizedSources": []
+                            }
+                        ]
+                    },
+                    {
+                        "type": 3,
+                        "sku_id": "1531413463623139328",
+                        "label": "An ornate gold frame with celestial elements and dangling sun charm pendants",
+                        "layers": [
+                            {
+                                "id": "1532536721248616610",
+                                "type": "rail",
+                                "order": "front",
+                                "anchor": "top",
+                                "responsive": true
+                            },
+                            {
+                                "id": "1532536724981547221",
+                                "type": "staple",
+                                "order": "front",
+                                "anchor": "top",
+                                "responsive": false
+                            },
+                            {
+                                "id": "1532536729821511811",
+                                "type": "staple",
+                                "order": "front",
+                                "anchor": "bottom",
+                                "responsive": false
+                            }
+                        ],
+                        "inner_width": 1200,
+                        "overflow_top": 304,
+                        "overflow_bottom": 212,
+                        "overflow_horizontal": 56
+                    }
+                ],
+                "type": 1000,
+                "premium_type": 0,
+                "category_sku_id": "1531392810027061289",
+                "bundled_products": [
+                    {
+                        "sku_id": "1531405732174626986",
+                        "name": "Crystal Crown",
+                        "summary": "Give your avatar a new look.",
+                        "type": 0,
+                        "premium_type": 0,
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 599,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 499,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "sku_id": "1531411499086516244",
+                        "name": "Suncatchers",
+                        "summary": "Make your name stand out in servers and chats.",
+                        "type": 2,
+                        "premium_type": 0,
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 599,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 499,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "sku_id": "1531412671637880892",
+                        "name": "Suncatchers",
+                        "summary": "Show this effect when others view your profile.",
+                        "type": 1,
+                        "premium_type": 0,
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 599,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 499,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "sku_id": "1531413463623139328",
+                        "name": "Solar Crown",
+                        "summary": "Elevate and wrap your profile with a frame.",
+                        "type": 3,
+                        "premium_type": 0,
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 599,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 499,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ],
+                "google_sku_ids": {
+                    "5": "1531414271823450173_1531416068101505346",
+                    "7": "1531414271823450173_1531416073860288713"
+                },
+                "is_first_party": true
+            },
+            {
+                "sku_id": "1531414484092981319",
+                "name": "Liquid Light Bundle",
+                "summary": "{joinedItems}",
+                "styles": {
+                    "background_colors": [
+                        855309,
+                        5180417
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 1599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 11000,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 1299,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 11000,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "preview_assets": {
+                    "fg_static": "https://cdn.discordapp.com/media/v1/collectibles-shop/bundle-fg-static/1531414484092981319"
+                },
+                "items": [
+                    {
+                        "type": 0,
+                        "sku_id": "1531405829952245982",
+                        "asset": "a_1a9bd997a5cfdab034f6d512ed494596",
+                        "label": "Glowing golden rings rotate around a warm luminous center"
+                    },
+                    {
+                        "type": 2,
+                        "sku_id": "1531412184054104104",
+                        "asset": "nameplates/nature's_glitter/1531412184054104104/",
+                        "label": "Warm golden light glitters across a softly rippling surface",
+                        "palette": "crimson"
+                    },
+                    {
+                        "type": 1,
+                        "sku_id": "1531413035569254500",
+                        "title": "Golden Ripples",
+                        "description": "Show this effect when others view your profile.",
+                        "accessibilityLabel": "Concentric golden wave patterns radiate outward",
+                        "animationType": 2,
+                        "thumbnailPreviewSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/f06947f99f113b091688d79f3b2d65f1e20c89ef1dcfb13e3481a2853f3ab034",
+                        "reducedMotionSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/1b520b557b5e67a207c1e9e70b2fdca671a2178bb89c79506ee276d3f648987e",
+                        "effects": [
+                            {
+                                "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/7d3664f40f3c620e971a26cf240735d34d6ae8c7236b9b35d06a86e65937e831",
+                                "loop": false,
+                                "duration": 2988,
+                                "start": 0,
+                                "loopDelay": 0,
+                                "zIndex": 110,
+                                "randomizedSources": []
+                            },
+                            {
+                                "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/e6c1639746e2fb16932237221c527488d459713416c9d3a2044b1533d06dc0a1",
+                                "loop": true,
+                                "duration": 3984,
+                                "start": 5988,
+                                "loopDelay": 3000,
+                                "zIndex": 100,
+                                "randomizedSources": []
+                            }
+                        ]
+                    }
+                ],
+                "type": 1000,
+                "premium_type": 0,
+                "category_sku_id": "1531392810027061289",
+                "bundled_products": [
+                    {
+                        "sku_id": "1531405829952245982",
+                        "name": "Astrolabe (Gold)",
+                        "summary": "Give your avatar a new look.",
+                        "type": 0,
+                        "premium_type": 0,
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 599,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 499,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "sku_id": "1531412184054104104",
+                        "name": "Nature's Glitter",
+                        "summary": "Make your name stand out in servers and chats.",
+                        "type": 2,
+                        "premium_type": 0,
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 599,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 499,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "sku_id": "1531413035569254500",
+                        "name": "Golden Ripples",
+                        "summary": "Show this effect when others view your profile.",
+                        "type": 1,
+                        "premium_type": 0,
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 599,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 499,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ],
+                "google_sku_ids": {
+                    "5": "1531414484092981319_1531416746895085702",
+                    "7": "1531414484092981319_1531416752364191814"
+                },
+                "is_first_party": true
+            },
+            {
+                "sku_id": "1531403489727746310",
+                "name": "Solar Pulse",
+                "summary": "Give your avatar a new look.",
+                "styles": {
+                    "background_colors": [
+                        855309,
+                        5180417
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "preview_assets": null,
+                "items": [
+                    {
+                        "type": 0,
+                        "sku_id": "1531403489727746310",
+                        "asset": "a_e3ec2d8cccdcb68819b2910c0787d3a4",
+                        "label": "A ring of golden light pulses with a soft glowing halo"
+                    }
+                ],
+                "type": 0,
+                "premium_type": 0,
+                "category_sku_id": "1531392810027061289",
+                "google_sku_ids": {
+                    "5": "1531403489727746310_1531409742637826219",
+                    "7": "1531403489727746310_1531409748610650192"
+                },
+                "is_first_party": true
+            },
+            {
+                "sku_id": "1531405732174626986",
+                "name": "Crystal Crown",
+                "summary": "Give your avatar a new look.",
+                "styles": {
+                    "background_colors": [
+                        855309,
+                        5180417
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "preview_assets": null,
+                "items": [
+                    {
+                        "type": 0,
+                        "sku_id": "1531405732174626986",
+                        "asset": "a_b0b3d7cf77fd2d73145e07436acb6a40",
+                        "label": "A gold crystalline crown with crystals hanging off chains shines with warm light"
+                    }
+                ],
+                "type": 0,
+                "premium_type": 0,
+                "category_sku_id": "1531392810027061289",
+                "google_sku_ids": {
+                    "5": "1531405732174626986_1531409022375432344",
+                    "7": "1531405732174626986_1531409028746313809"
+                },
+                "is_first_party": true
+            },
+            {
+                "sku_id": "1531405829952245982",
+                "name": "Astrolabe (Gold)",
+                "summary": "Give your avatar a new look.",
+                "styles": {
+                    "background_colors": [
+                        855309,
+                        5180417
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "preview_assets": null,
+                "items": [
+                    {
+                        "type": 0,
+                        "sku_id": "1531405829952245982",
+                        "asset": "a_1a9bd997a5cfdab034f6d512ed494596",
+                        "label": "Glowing golden rings rotate around a warm luminous center"
+                    }
+                ],
+                "type": 0,
+                "premium_type": 0,
+                "category_sku_id": "1531392810027061289",
+                "google_sku_ids": {
+                    "5": "1531405829952245982_1531409148711928090",
+                    "7": "1531405829952245982_1531409154684485782"
+                },
+                "is_first_party": true
+            },
+            {
+                "sku_id": "1531406020851793950",
+                "name": "Astrolabe (Silver)",
+                "summary": "Give your avatar a new look.",
+                "styles": {
+                    "background_colors": [
+                        855309,
+                        5180417
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "preview_assets": null,
+                "items": [
+                    {
+                        "type": 0,
+                        "sku_id": "1531406020851793950",
+                        "asset": "a_6849a20e97b279bd835ed5526597196e",
+                        "label": "Glowing silver rings rotate around a warm luminous center"
+                    }
+                ],
+                "type": 0,
+                "premium_type": 0,
+                "category_sku_id": "1531392810027061289",
+                "google_sku_ids": {
+                    "5": "1531406020851793950_1531407384789127388",
+                    "7": "1531406020851793950_1531407392447664269"
+                },
+                "is_first_party": true
+            },
+            {
+                "sku_id": "1531411317477478654",
+                "name": "Spectrum Array",
+                "summary": "Make your name stand out in servers and chats.",
+                "styles": {
+                    "background_colors": [
+                        855309,
+                        5180417
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "preview_assets": null,
+                "items": [
+                    {
+                        "type": 2,
+                        "sku_id": "1531411317477478654",
+                        "asset": "nameplates/spectrum_array/1531411317477478654/",
+                        "label": "Red and orange light waves ripple and sparkle",
+                        "palette": "bubble_gum"
+                    }
+                ],
+                "type": 2,
+                "premium_type": 0,
+                "category_sku_id": "1531392810027061289",
+                "google_sku_ids": {
+                    "5": "1531411317477478654_1531413554500993044",
+                    "7": "1531411317477478654_1531413561115676834"
+                },
+                "is_first_party": true
+            },
+            {
+                "sku_id": "1531411499086516244",
+                "name": "Suncatchers",
+                "summary": "Make your name stand out in servers and chats.",
+                "styles": {
+                    "background_colors": [
+                        855309,
+                        5180417
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "preview_assets": null,
+                "items": [
+                    {
+                        "type": 2,
+                        "sku_id": "1531411499086516244",
+                        "asset": "nameplates/suncatchers/1531411499086516244/",
+                        "label": "Golden crystal suncatchers sway and catch the light",
+                        "palette": "crimson"
+                    }
+                ],
+                "type": 2,
+                "premium_type": 0,
+                "category_sku_id": "1531392810027061289",
+                "google_sku_ids": {
+                    "5": "1531411499086516244_1531412826608898150",
+                    "7": "1531411499086516244_1531412833219117249"
+                },
+                "is_first_party": true
+            },
+            {
+                "sku_id": "1531412184054104104",
+                "name": "Nature's Glitter",
+                "summary": "Make your name stand out in servers and chats.",
+                "styles": {
+                    "background_colors": [
+                        855309,
+                        5180417
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "preview_assets": null,
+                "items": [
+                    {
+                        "type": 2,
+                        "sku_id": "1531412184054104104",
+                        "asset": "nameplates/nature's_glitter/1531412184054104104/",
+                        "label": "Warm golden light glitters across a softly rippling surface",
+                        "palette": "crimson"
+                    }
+                ],
+                "type": 2,
+                "premium_type": 0,
+                "category_sku_id": "1531392810027061289",
+                "google_sku_ids": {
+                    "5": "1531412184054104104_1531414407324631051",
+                    "7": "1531412184054104104_1531414419161223248"
+                },
+                "is_first_party": true
+            },
+            {
+                "sku_id": "1531412408390914118",
+                "name": "Solar Rays",
+                "summary": "Show this effect when others view your profile.",
+                "styles": {
+                    "background_colors": [
+                        855309,
+                        5180417
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "preview_assets": null,
+                "items": [
+                    {
+                        "type": 1,
+                        "sku_id": "1531412408390914118",
+                        "title": "Solar Rays",
+                        "description": "Show this effect when others view your profile.",
+                        "accessibilityLabel": "A glowing solar eclipse sends rays of golden light downward",
+                        "animationType": 2,
+                        "thumbnailPreviewSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/ef28c67f6ee7c03f1115ec62c0e48458b18d26d0391dd4fa58ea8f724ccef64e",
+                        "reducedMotionSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/daecd8662d05312ddeba03f936c86abeea46fccef02f5e894349382100894380",
+                        "effects": [
+                            {
+                                "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/124a87da4f276710bc6f24a9990ef62f1f5e1d6a6c81237c3fa632dbf713aced",
+                                "loop": false,
+                                "duration": 3984,
+                                "start": 0,
+                                "loopDelay": 0,
+                                "zIndex": 110,
+                                "randomizedSources": []
+                            },
+                            {
+                                "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/d049dfe33467c2552ababf82e7dafa41def6133357552deabb1242596ac6248b",
+                                "loop": true,
+                                "duration": 4482,
+                                "start": 6984,
+                                "loopDelay": 3000,
+                                "zIndex": 100,
+                                "randomizedSources": []
+                            }
+                        ]
+                    }
+                ],
+                "type": 1,
+                "premium_type": 0,
+                "category_sku_id": "1531392810027061289",
+                "google_sku_ids": {
+                    "5": "1531412408390914118_1531415525236936905",
+                    "7": "1531412408390914118_1531415531461148713"
+                },
+                "is_first_party": true
+            },
+            {
+                "sku_id": "1531412671637880892",
+                "name": "Suncatchers",
+                "summary": "Show this effect when others view your profile.",
+                "styles": {
+                    "background_colors": [
+                        855309,
+                        5180417
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "preview_assets": null,
+                "items": [
+                    {
+                        "type": 1,
+                        "sku_id": "1531412671637880892",
+                        "title": "Suncatchers",
+                        "description": "Show this effect when others view your profile.",
+                        "accessibilityLabel": "Golden crystal pendants hang from delicate chains across the top of the profile",
+                        "animationType": 1,
+                        "staticFrameSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/c8362093b7a7b4f711d679d2fa49d8a214e44748776a157e6c6b44f659e5d8d2",
+                        "thumbnailPreviewSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/0f73a1d57c416e5bebc6575666c2f54fa19eb5b40334cbd911e6c321ac8d157c",
+                        "reducedMotionSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/c8362093b7a7b4f711d679d2fa49d8a214e44748776a157e6c6b44f659e5d8d2",
+                        "effects": [
+                            {
+                                "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/728f0c927b5b50a012f73d81783e7814f9b5fea6d9aa4746ab2025081f968afe",
+                                "loop": false,
+                                "duration": 5905,
+                                "start": 0,
+                                "loopDelay": 0,
+                                "zIndex": 110,
+                                "randomizedSources": []
+                            },
+                            {
+                                "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/1a38f54679f592404326b9c7937efdc2d8b7548d510de13127277dea0b214d13",
+                                "loop": true,
+                                "duration": 5905,
+                                "start": 5906,
+                                "loopDelay": 0,
+                                "zIndex": 100,
+                                "randomizedSources": []
+                            }
+                        ]
+                    }
+                ],
+                "type": 1,
+                "premium_type": 0,
+                "category_sku_id": "1531392810027061289",
+                "google_sku_ids": {
+                    "5": "1531412671637880892_1531416695166468188",
+                    "7": "1531412671637880892_1531416702032810004"
+                },
+                "is_first_party": true
+            },
+            {
+                "sku_id": "1531413035569254500",
+                "name": "Golden Ripples",
+                "summary": "Show this effect when others view your profile.",
+                "styles": {
+                    "background_colors": [
+                        855309,
+                        5180417
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "preview_assets": null,
+                "items": [
+                    {
+                        "type": 1,
+                        "sku_id": "1531413035569254500",
+                        "title": "Golden Ripples",
+                        "description": "Show this effect when others view your profile.",
+                        "accessibilityLabel": "Concentric golden wave patterns radiate outward",
+                        "animationType": 2,
+                        "thumbnailPreviewSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/f06947f99f113b091688d79f3b2d65f1e20c89ef1dcfb13e3481a2853f3ab034",
+                        "reducedMotionSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/1b520b557b5e67a207c1e9e70b2fdca671a2178bb89c79506ee276d3f648987e",
+                        "effects": [
+                            {
+                                "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/7d3664f40f3c620e971a26cf240735d34d6ae8c7236b9b35d06a86e65937e831",
+                                "loop": false,
+                                "duration": 2988,
+                                "start": 0,
+                                "loopDelay": 0,
+                                "zIndex": 110,
+                                "randomizedSources": []
+                            },
+                            {
+                                "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/e6c1639746e2fb16932237221c527488d459713416c9d3a2044b1533d06dc0a1",
+                                "loop": true,
+                                "duration": 3984,
+                                "start": 5988,
+                                "loopDelay": 3000,
+                                "zIndex": 100,
+                                "randomizedSources": []
+                            }
+                        ]
+                    }
+                ],
+                "type": 1,
+                "premium_type": 0,
+                "category_sku_id": "1531392810027061289",
+                "google_sku_ids": {
+                    "5": "1531413035569254500_1531416913610146003",
+                    "7": "1531413035569254500_1531416920006594831"
+                },
+                "is_first_party": true
+            },
+            {
+                "sku_id": "1531413285243719880",
+                "name": "Totality",
+                "summary": "Elevate and wrap your profile with a frame.",
+                "styles": {
+                    "background_colors": [
+                        855309,
+                        5180417
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "preview_assets": null,
+                "items": [
+                    {
+                        "type": 3,
+                        "sku_id": "1531413285243719880",
+                        "label": "A dark eclipse with dramatic clouds crowns the top of the profile, with glowing fiery light trailing down both sides",
+                        "layers": [
+                            {
+                                "id": "1533986938368036915",
+                                "type": "staple",
+                                "order": "front",
+                                "anchor": "top",
+                                "responsive": false
+                            },
+                            {
+                                "id": "1533986943057137715",
+                                "type": "staple",
+                                "order": "front",
+                                "anchor": "bottom",
+                                "responsive": false
+                            },
+                            {
+                                "id": "1533986948220321862",
+                                "type": "staple",
+                                "order": "back",
+                                "anchor": "top",
+                                "responsive": false
+                            }
+                        ],
+                        "inner_width": 1200,
+                        "overflow_top": 304,
+                        "overflow_bottom": 212,
+                        "overflow_horizontal": 56
+                    }
+                ],
+                "type": 3,
+                "premium_type": 0,
+                "category_sku_id": "1531392810027061289",
+                "google_sku_ids": {
+                    "5": "1531413285243719880_1531416052842369134",
+                    "7": "1531413285243719880_1531416058840354866"
+                },
+                "is_first_party": true
+            },
+            {
+                "sku_id": "1531413463623139328",
+                "name": "Solar Crown",
+                "summary": "Elevate and wrap your profile with a frame.",
+                "styles": {
+                    "background_colors": [
+                        855309,
+                        5180417
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "preview_assets": null,
+                "items": [
+                    {
+                        "type": 3,
+                        "sku_id": "1531413463623139328",
+                        "label": "An ornate gold frame with celestial elements and dangling sun charm pendants",
+                        "layers": [
+                            {
+                                "id": "1532536721248616610",
+                                "type": "rail",
+                                "order": "front",
+                                "anchor": "top",
+                                "responsive": true
+                            },
+                            {
+                                "id": "1532536724981547221",
+                                "type": "staple",
+                                "order": "front",
+                                "anchor": "top",
+                                "responsive": false
+                            },
+                            {
+                                "id": "1532536729821511811",
+                                "type": "staple",
+                                "order": "front",
+                                "anchor": "bottom",
+                                "responsive": false
+                            }
+                        ],
+                        "inner_width": 1200,
+                        "overflow_top": 304,
+                        "overflow_bottom": 212,
+                        "overflow_horizontal": 56
+                    }
+                ],
+                "type": 3,
+                "premium_type": 0,
+                "category_sku_id": "1531392810027061289",
+                "google_sku_ids": {
+                    "5": "1531413463623139328_1531414406947274773",
+                    "7": "1531413463623139328_1531414412886544444"
+                },
+                "is_first_party": true
+            }
+        ],
+        "hero_banner_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/02459b8a99db8bcc7c090732ba5e63a848eed8b3532c4e32a2e8cbc8d674a62f",
+        "hero_logo_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/c8c98c8d2885f35158a2a3ed4633054a8b0d6a53eb8164fc6f2acd2733120784",
+        "catalog_banner_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/bc2ca968b356eb0de56b22ec57f6cb7c0b51f928cbeca6fb0f5f579807178523",
+        "featured_block_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1f74174fec0ecb991892b8697cdf86872add9941e78862522e45b9015284acfd",
+        "logo_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/c8c98c8d2885f35158a2a3ed4633054a8b0d6a53eb8164fc6f2acd2733120784",
+        "pdp_bg_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/c270df89e6101c42947bf854584c7a88ed162dd0210fa7ed199e24ab158f6684",
+        "mobile_hero_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/65dc4fd0985d6b2a69cf6b33a5def5cb572d8776fc5d38eeedbda104b75020d0",
+        "mobile_banner_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/176633f1557b13464b4bf64efcb640a4b0d17e272489aa8f67a1234b3a4be104",
+        "mobile_bg_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/0afb1408d0f711c18b75569ea4c4c734d5847cc43591f21ec689b2a2504919bc",
+        "hero_banner_display_config": {
+            "desktop_max_height": null,
+            "mobile_max_height": null,
+            "responsive": null,
+            "background_style": "linear-gradient(180deg, #0D0D0D 0%, #4F0C01 100%)"
+        }
     }
 ]
