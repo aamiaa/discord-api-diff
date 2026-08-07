@@ -96331,5 +96331,114 @@
         "targeted_content": [],
         "preview": false,
         "traffic_metadata_raw": "EAIYAQ=="
+    },
+    {
+        "id": "1533684751905456289",
+        "config": {
+            "id": "1533684751905456289",
+            "config_version": 2,
+            "starts_at": "2026-08-07T17:00:00+00:00",
+            "expires_at": "2026-08-22T00:00:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://zenless.hoyoverse.com/ua?utm_source=discord&utm_medium=discord_ua&utm_campaign=ZZZ-JP-PC-X-new-Discord-260617&hoyotrace_channel=discord_channel",
+                "id": "1257819671114289184",
+                "name": "Zenless Zone Zero"
+            },
+            "assets": {
+                "hero": "quests/1533684751905456289/1534757582441419064.jpg",
+                "hero_video": "quests/1533684751905456289/1534768307092324465_720.mp4",
+                "quest_bar_hero_blurhash": "qPYJGoQMhZeaenmHAXgEYDY=",
+                "quest_bar_hero": "quests/1533684751905456289/1534757582441419064.jpg",
+                "quest_bar_hero_video": "quests/1533684751905456289/1534757958477545522_720.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1533684751905456289/1534757583343063241.png",
+                "game_tile_dark": "quests/1533684751905456289/1534757583343063241.png",
+                "logotype_light": "quests/1533684751905456289/1534757582844072077.png",
+                "logotype_dark": "quests/1533684751905456289/1534757584169599066.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Zenless Zone Zero Ver.3.1",
+                "game_title": "Zenless Zone Zero",
+                "game_publisher": "HoYoverse"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1257819671114289184"
+                            }
+                        ]
+                    },
+                    "PLAY_ON_XBOX": {
+                        "type": "PLAY_ON_XBOX",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1257819671114289184"
+                            }
+                        ],
+                        "external_ids": [
+                            "1696147865"
+                        ]
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "type": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1257819671114289184"
+                            }
+                        ],
+                        "external_ids": [
+                            "PPSA20549_00",
+                            "PPSA20599_00"
+                        ]
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 Orbs",
+                            "name_with_article": "700 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 700,
+                        "premium_orb_quantity": 840
+                    }
+                ],
+                "rewards_expire_at": "2026-09-21T00:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://zenless.hoyoverse.com/ua?utm_source=discord&utm_medium=discord_ua&utm_campaign=ZZZ-JP-PC-X-new-Discord-260617&hoyotrace_channel=discord_channel",
+                "button_label": "Play Now"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false,
+        "traffic_metadata_raw": "EAIYAQ=="
     }
 ]
