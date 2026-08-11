@@ -96793,33 +96793,6 @@
             },
             "task_config_v2": {
                 "tasks": {
-                    "WATCH_VIDEO": {
-                        "type": "WATCH_VIDEO",
-                        "target": 29,
-                        "assets": {
-                            "video": {
-                                "url": "quests/1534276813554061433/1534280187284426762_1080.mp4",
-                                "width": 1080,
-                                "height": 1920,
-                                "thumbnail": "quests/1534276813554061433/1534278469913940029.png"
-                            },
-                            "video_low_res": {
-                                "url": "quests/1534276813554061433/1534280187284426762_720.mp4",
-                                "width": 1080,
-                                "height": 1920,
-                                "thumbnail": "quests/1534276813554061433/1534278469913940029.png"
-                            },
-                            "video_hls": {
-                                "url": "quests/1534276813554061433/1534280187284426762.m3u8",
-                                "width": 1080,
-                                "height": 1920,
-                                "thumbnail": "quests/1534276813554061433/1534278469913940029.png"
-                            }
-                        },
-                        "messages": {
-                            "video_title": "PLACEHOLDER"
-                        }
-                    },
                     "WATCH_VIDEO_ON_MOBILE": {
                         "type": "WATCH_VIDEO_ON_MOBILE",
                         "target": 29,
