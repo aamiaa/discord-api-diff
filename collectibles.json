@@ -136659,6 +136659,12 @@
             ]
         },
         "hero_ranking": [
+            "1536493617076502628",
+            "1536495741407727736",
+            "1536491679949922304",
+            "1536492428268281996",
+            "1536492991093678183",
+            "1536493354450288680",
             "1481392895486459945",
             "1481392199261487187",
             "1481386346429026374",
@@ -136674,6 +136680,806 @@
             "1481391634234085559"
         ],
         "products": [
+            {
+                "sku_id": "1536493617076502628",
+                "name": "Spider-Man's Web Bundle",
+                "summary": "{joinedItems}",
+                "styles": {
+                    "background_colors": [
+                        3485255,
+                        921119
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 1699,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 1299,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    }
+                },
+                "preview_assets": {
+                    "fg_static": "https://cdn.discordapp.com/media/v1/collectibles-shop/bundle-fg-static/1536493617076502628",
+                    "bg_static": "https://cdn.discordapp.com/media/v1/collectibles-shop/bundle-bg-static/1536493617076502628"
+                },
+                "items": [
+                    {
+                        "type": 3,
+                        "sku_id": "1536491679949922304",
+                        "label": "Spider-Man mid-swing stretches across the top of the profile as tangled white webs line the bottom",
+                        "layers": [
+                            {
+                                "id": "1536492376778870896",
+                                "type": "staple",
+                                "order": "front",
+                                "anchor": "top",
+                                "responsive": false
+                            },
+                            {
+                                "id": "1536492380520452238",
+                                "type": "staple",
+                                "order": "front",
+                                "anchor": "bottom",
+                                "responsive": false
+                            },
+                            {
+                                "id": "1536492384177618954",
+                                "type": "staple",
+                                "order": "back",
+                                "anchor": "top",
+                                "responsive": false
+                            },
+                            {
+                                "id": "1536492387927466055",
+                                "type": "staple",
+                                "order": "back",
+                                "anchor": "bottom",
+                                "responsive": false
+                            }
+                        ],
+                        "inner_width": 1200,
+                        "overflow_top": 285,
+                        "overflow_bottom": 190,
+                        "overflow_horizontal": 56
+                    },
+                    {
+                        "type": 3,
+                        "sku_id": "1536492428268281996",
+                        "label": "Angular white webs stretch across all four corners of the profile",
+                        "layers": [
+                            {
+                                "id": "1536492935170760895",
+                                "type": "staple",
+                                "order": "front",
+                                "anchor": "top",
+                                "responsive": false
+                            },
+                            {
+                                "id": "1536492940480872449",
+                                "type": "staple",
+                                "order": "front",
+                                "anchor": "bottom",
+                                "responsive": false
+                            },
+                            {
+                                "id": "1536492944750542958",
+                                "type": "staple",
+                                "order": "back",
+                                "anchor": "top",
+                                "responsive": false
+                            },
+                            {
+                                "id": "1536492948894515230",
+                                "type": "staple",
+                                "order": "back",
+                                "anchor": "bottom",
+                                "responsive": false
+                            }
+                        ],
+                        "inner_width": 1200,
+                        "overflow_top": 160,
+                        "overflow_bottom": 190,
+                        "overflow_horizontal": 56
+                    }
+                ],
+                "type": 1000,
+                "premium_type": 0,
+                "category_sku_id": "1481384144041939075",
+                "bundled_products": [
+                    {
+                        "sku_id": "1536491679949922304",
+                        "name": "Spider-Man",
+                        "summary": "Elevate and wrap your profile with a frame.",
+                        "type": 3,
+                        "premium_type": 0,
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 899,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 699,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "sku_id": "1536492428268281996",
+                        "name": "Spider-Man's Web",
+                        "summary": "Elevate and wrap your profile with a frame.",
+                        "type": 3,
+                        "premium_type": 0,
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 899,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 699,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ],
+                "google_sku_ids": {
+                    "5": "1536493617076502628_1536496321224122529",
+                    "7": "1536493617076502628_1536496326357811270"
+                },
+                "badge_override": "New",
+                "is_first_party": false
+            },
+            {
+                "sku_id": "1536495741407727736",
+                "name": "Symbiote Bundle",
+                "summary": "{joinedItems}",
+                "styles": {
+                    "background_colors": [
+                        3485255,
+                        921119
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 1699,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 1299,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    }
+                },
+                "preview_assets": {
+                    "fg_static": "https://cdn.discordapp.com/media/v1/collectibles-shop/bundle-fg-static/1536495741407727736",
+                    "bg_static": "https://cdn.discordapp.com/media/v1/collectibles-shop/bundle-bg-static/1536495741407727736"
+                },
+                "items": [
+                    {
+                        "type": 3,
+                        "sku_id": "1536492991093678183",
+                        "label": "Venom, a large black symbiote creature with a long red tongue, stretches across the top of the profile",
+                        "layers": [
+                            {
+                                "id": "1536493305460686919",
+                                "type": "staple",
+                                "order": "front",
+                                "anchor": "top",
+                                "responsive": false
+                            },
+                            {
+                                "id": "1536493309436895253",
+                                "type": "staple",
+                                "order": "back",
+                                "anchor": "top",
+                                "responsive": false
+                            },
+                            {
+                                "id": "1536493313946026135",
+                                "type": "staple",
+                                "order": "back",
+                                "anchor": "bottom",
+                                "responsive": false
+                            }
+                        ],
+                        "inner_width": 1200,
+                        "overflow_top": 295,
+                        "overflow_bottom": 161,
+                        "overflow_horizontal": 56
+                    },
+                    {
+                        "type": 3,
+                        "sku_id": "1536493354450288680",
+                        "label": "Jagged black symbiote tendrils line the top and bottom edges of the profile",
+                        "layers": [
+                            {
+                                "id": "1536493443591708682",
+                                "type": "staple",
+                                "order": "front",
+                                "anchor": "top",
+                                "responsive": false
+                            },
+                            {
+                                "id": "1536493448750825562",
+                                "type": "staple",
+                                "order": "front",
+                                "anchor": "bottom",
+                                "responsive": false
+                            },
+                            {
+                                "id": "1536493453150658600",
+                                "type": "staple",
+                                "order": "back",
+                                "anchor": "top",
+                                "responsive": false
+                            },
+                            {
+                                "id": "1536493458490003548",
+                                "type": "staple",
+                                "order": "back",
+                                "anchor": "bottom",
+                                "responsive": false
+                            }
+                        ],
+                        "inner_width": 1200,
+                        "overflow_top": 304,
+                        "overflow_bottom": 212,
+                        "overflow_horizontal": 56
+                    }
+                ],
+                "type": 1000,
+                "premium_type": 0,
+                "category_sku_id": "1481384144041939075",
+                "bundled_products": [
+                    {
+                        "sku_id": "1536492991093678183",
+                        "name": "Venom",
+                        "summary": "Elevate and wrap your profile with a frame.",
+                        "type": 3,
+                        "premium_type": 0,
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 899,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 699,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "sku_id": "1536493354450288680",
+                        "name": "Symbiote",
+                        "summary": "Elevate and wrap your profile with a frame.",
+                        "type": 3,
+                        "premium_type": 0,
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 899,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 699,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ],
+                "google_sku_ids": {
+                    "5": "1536495741407727736_1536496433316765818",
+                    "7": "1536495741407727736_1536496438576549908"
+                },
+                "badge_override": "New",
+                "is_first_party": false
+            },
+            {
+                "sku_id": "1536491679949922304",
+                "name": "Spider-Man",
+                "summary": "Elevate and wrap your profile with a frame.",
+                "styles": {
+                    "background_colors": [
+                        3485255,
+                        921119
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 899,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 699,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    }
+                },
+                "preview_assets": null,
+                "items": [
+                    {
+                        "type": 3,
+                        "sku_id": "1536491679949922304",
+                        "label": "Spider-Man mid-swing stretches across the top of the profile as tangled white webs line the bottom",
+                        "layers": [
+                            {
+                                "id": "1536492376778870896",
+                                "type": "staple",
+                                "order": "front",
+                                "anchor": "top",
+                                "responsive": false
+                            },
+                            {
+                                "id": "1536492380520452238",
+                                "type": "staple",
+                                "order": "front",
+                                "anchor": "bottom",
+                                "responsive": false
+                            },
+                            {
+                                "id": "1536492384177618954",
+                                "type": "staple",
+                                "order": "back",
+                                "anchor": "top",
+                                "responsive": false
+                            },
+                            {
+                                "id": "1536492387927466055",
+                                "type": "staple",
+                                "order": "back",
+                                "anchor": "bottom",
+                                "responsive": false
+                            }
+                        ],
+                        "inner_width": 1200,
+                        "overflow_top": 285,
+                        "overflow_bottom": 190,
+                        "overflow_horizontal": 56
+                    }
+                ],
+                "type": 3,
+                "premium_type": 0,
+                "category_sku_id": "1481384144041939075",
+                "google_sku_ids": {
+                    "5": "1536491679949922304_1536494268326088834",
+                    "7": "1536491679949922304_1536494273434747030"
+                },
+                "badge_override": "New",
+                "is_first_party": false
+            },
+            {
+                "sku_id": "1536492428268281996",
+                "name": "Spider-Man's Web",
+                "summary": "Elevate and wrap your profile with a frame.",
+                "styles": {
+                    "background_colors": [
+                        3485255,
+                        921119
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 899,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 699,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    }
+                },
+                "preview_assets": null,
+                "items": [
+                    {
+                        "type": 3,
+                        "sku_id": "1536492428268281996",
+                        "label": "Angular white webs stretch across all four corners of the profile",
+                        "layers": [
+                            {
+                                "id": "1536492935170760895",
+                                "type": "staple",
+                                "order": "front",
+                                "anchor": "top",
+                                "responsive": false
+                            },
+                            {
+                                "id": "1536492940480872449",
+                                "type": "staple",
+                                "order": "front",
+                                "anchor": "bottom",
+                                "responsive": false
+                            },
+                            {
+                                "id": "1536492944750542958",
+                                "type": "staple",
+                                "order": "back",
+                                "anchor": "top",
+                                "responsive": false
+                            },
+                            {
+                                "id": "1536492948894515230",
+                                "type": "staple",
+                                "order": "back",
+                                "anchor": "bottom",
+                                "responsive": false
+                            }
+                        ],
+                        "inner_width": 1200,
+                        "overflow_top": 160,
+                        "overflow_bottom": 190,
+                        "overflow_horizontal": 56
+                    }
+                ],
+                "type": 3,
+                "premium_type": 0,
+                "category_sku_id": "1481384144041939075",
+                "google_sku_ids": {
+                    "5": "1536492428268281996_1536494241344131213",
+                    "7": "1536492428268281996_1536494246574694510"
+                },
+                "badge_override": "New",
+                "is_first_party": false
+            },
+            {
+                "sku_id": "1536492991093678183",
+                "name": "Venom",
+                "summary": "Elevate and wrap your profile with a frame.",
+                "styles": {
+                    "background_colors": [
+                        3485255,
+                        921119
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 899,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 699,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    }
+                },
+                "preview_assets": null,
+                "items": [
+                    {
+                        "type": 3,
+                        "sku_id": "1536492991093678183",
+                        "label": "Venom, a large black symbiote creature with a long red tongue, stretches across the top of the profile",
+                        "layers": [
+                            {
+                                "id": "1536493305460686919",
+                                "type": "staple",
+                                "order": "front",
+                                "anchor": "top",
+                                "responsive": false
+                            },
+                            {
+                                "id": "1536493309436895253",
+                                "type": "staple",
+                                "order": "back",
+                                "anchor": "top",
+                                "responsive": false
+                            },
+                            {
+                                "id": "1536493313946026135",
+                                "type": "staple",
+                                "order": "back",
+                                "anchor": "bottom",
+                                "responsive": false
+                            }
+                        ],
+                        "inner_width": 1200,
+                        "overflow_top": 295,
+                        "overflow_bottom": 161,
+                        "overflow_horizontal": 56
+                    }
+                ],
+                "type": 3,
+                "premium_type": 0,
+                "category_sku_id": "1481384144041939075",
+                "google_sku_ids": {
+                    "5": "1536492991093678183_1536495328516120576",
+                    "7": "1536492991093678183_1536495333734092921"
+                },
+                "badge_override": "New",
+                "is_first_party": false
+            },
+            {
+                "sku_id": "1536493354450288680",
+                "name": "Symbiote",
+                "summary": "Elevate and wrap your profile with a frame.",
+                "styles": {
+                    "background_colors": [
+                        3485255,
+                        921119
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 899,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 699,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    }
+                },
+                "preview_assets": null,
+                "items": [
+                    {
+                        "type": 3,
+                        "sku_id": "1536493354450288680",
+                        "label": "Jagged black symbiote tendrils line the top and bottom edges of the profile",
+                        "layers": [
+                            {
+                                "id": "1536493443591708682",
+                                "type": "staple",
+                                "order": "front",
+                                "anchor": "top",
+                                "responsive": false
+                            },
+                            {
+                                "id": "1536493448750825562",
+                                "type": "staple",
+                                "order": "front",
+                                "anchor": "bottom",
+                                "responsive": false
+                            },
+                            {
+                                "id": "1536493453150658600",
+                                "type": "staple",
+                                "order": "back",
+                                "anchor": "top",
+                                "responsive": false
+                            },
+                            {
+                                "id": "1536493458490003548",
+                                "type": "staple",
+                                "order": "back",
+                                "anchor": "bottom",
+                                "responsive": false
+                            }
+                        ],
+                        "inner_width": 1200,
+                        "overflow_top": 304,
+                        "overflow_bottom": 212,
+                        "overflow_horizontal": 56
+                    }
+                ],
+                "type": 3,
+                "premium_type": 0,
+                "category_sku_id": "1481384144041939075",
+                "google_sku_ids": {
+                    "5": "1536493354450288680_1536495201739087872",
+                    "7": "1536493354450288680_1536495207128895528"
+                },
+                "badge_override": "New",
+                "is_first_party": false
+            },
             {
                 "sku_id": "1481392895486459945",
                 "name": "Venom Bundle",
@@ -175380,6 +176186,2280 @@
             "mobile_max_height": null,
             "responsive": null,
             "background_style": "linear-gradient(180deg, #0D0D0D 0%, #4F0C01 100%)"
+        }
+    },
+    {
+        "sku_id": "1533910281783083068",
+        "name": "Underworld",
+        "summary": " ",
+        "store_listing_id": "1533910281783083068",
+        "styles": {
+            "background_colors": [
+                1646117,
+                3696248
+            ],
+            "button_colors": [
+                5793266,
+                5793266
+            ],
+            "confetti_colors": [
+                43772,
+                15774258,
+                16414587,
+                3000177,
+                9739511
+            ]
+        },
+        "hero_ranking": [
+            "1533926906846777344",
+            "1533927517793161357",
+            "1533919242892607610",
+            "1533913226142814238",
+            "1533913535149506670",
+            "1533914517329678408",
+            "1533927867577143589",
+            "1533919389806493928",
+            "1533919549156622436",
+            "1533919704375103590",
+            "1533920310716268696",
+            "1533920512722604172",
+            "1533921032404992123",
+            "1533921239918182611",
+            "1533921674792013864",
+            "1533921966996586707",
+            "1533925148925628628",
+            "1533925498961264871",
+            "1533925887098224730"
+        ],
+        "products": [
+            {
+                "sku_id": "1533926906846777344",
+                "name": "Lord Hades Bundle",
+                "summary": "{joinedItems}",
+                "styles": {
+                    "background_colors": [
+                        1646117,
+                        3696248
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 2099,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 14400,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 1699,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 14400,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "preview_assets": {
+                    "fg_static": "https://cdn.discordapp.com/media/v1/collectibles-shop/bundle-fg-static/1533926906846777344",
+                    "bg_static": "https://cdn.discordapp.com/media/v1/collectibles-shop/bundle-bg-static/1533926906846777344"
+                },
+                "items": [
+                    {
+                        "type": 0,
+                        "sku_id": "1533913226142814238",
+                        "asset": "a_68fda5e61b1957d69913b52bda6fab31",
+                        "label": "A row of skulls with glowing eyes lines the bottom of the avatar, wreathed in blue flames"
+                    },
+                    {
+                        "type": 2,
+                        "sku_id": "1533919389806493928",
+                        "asset": "nameplates/eternal_damnation/1533919389806493928/",
+                        "label": "A pile of grey skulls surrounded by glowing blue flames",
+                        "palette": "black"
+                    },
+                    {
+                        "type": 1,
+                        "sku_id": "1533920512722604172",
+                        "title": "Lord of the Dead (Blue)",
+                        "description": "Show this effect when others view your profile.",
+                        "accessibilityLabel": "Hades seated on his throne looms over a field of skulls as blue flames rise around him",
+                        "animationType": 2,
+                        "thumbnailPreviewSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/fa2f3c7ce3cf271e32dd31c01eb08e25d5cd572dd758f316ac757fe4f38ae682",
+                        "reducedMotionSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/103518fc4066001f55e5eabe64542fa7410e50a2889cb1a4a3e19687ce2e6f06",
+                        "effects": [
+                            {
+                                "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/9437a524a4f50e83ae4963ffcf50833b7c068fc8b48b40efd6913f257a438016",
+                                "loop": false,
+                                "duration": 4980,
+                                "start": 0,
+                                "loopDelay": 0,
+                                "zIndex": 110,
+                                "randomizedSources": []
+                            },
+                            {
+                                "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/21f998898b7fd30a0a86fd3adfd26e2037a36772aafe66905a9ad11cb9d2e97e",
+                                "loop": true,
+                                "duration": 4906,
+                                "start": 7101,
+                                "loopDelay": 2400,
+                                "zIndex": 100,
+                                "randomizedSources": []
+                            }
+                        ]
+                    },
+                    {
+                        "type": 3,
+                        "sku_id": "1533925498961264871",
+                        "label": "A row of grey skulls crowns the top of the profile with blue flames erupting from them",
+                        "layers": [
+                            {
+                                "id": "1533925847021518939",
+                                "type": "staple",
+                                "order": "front",
+                                "anchor": "top",
+                                "responsive": false
+                            },
+                            {
+                                "id": "1533925851752825032",
+                                "type": "staple",
+                                "order": "back",
+                                "anchor": "top",
+                                "responsive": false
+                            },
+                            {
+                                "id": "1533925855338827867",
+                                "type": "staple",
+                                "order": "back",
+                                "anchor": "bottom",
+                                "responsive": false
+                            }
+                        ],
+                        "inner_width": 1200,
+                        "overflow_top": 304,
+                        "overflow_bottom": 148,
+                        "overflow_horizontal": 56
+                    }
+                ],
+                "type": 1000,
+                "premium_type": 0,
+                "category_sku_id": "1533910281783083068",
+                "bundled_products": [
+                    {
+                        "sku_id": "1533913226142814238",
+                        "name": "Lord of the Dead (Blue)",
+                        "summary": "Give your avatar a new look.",
+                        "type": 0,
+                        "premium_type": 0,
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 599,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 499,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "sku_id": "1533919389806493928",
+                        "name": "Eternal Damnation (Blue)",
+                        "summary": "Give your avatar a new look.",
+                        "type": 2,
+                        "premium_type": 0,
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 599,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 499,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "sku_id": "1533920512722604172",
+                        "name": "Lord of the Dead (Blue)",
+                        "summary": "Show this effect when others view your profile.",
+                        "type": 1,
+                        "premium_type": 0,
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 599,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 499,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "sku_id": "1533925498961264871",
+                        "name": "Lord of the Dead (Blue)",
+                        "summary": "Elevate and wrap your profile with a frame.",
+                        "type": 3,
+                        "premium_type": 0,
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 599,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 499,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ],
+                "google_sku_ids": {
+                    "5": "1533926906846777344_1533929891136016385",
+                    "7": "1533926906846777344_1533929898479976548"
+                },
+                "is_first_party": true
+            },
+            {
+                "sku_id": "1533927517793161357",
+                "name": "Cerberus Bundle",
+                "summary": "{joinedItems}",
+                "styles": {
+                    "background_colors": [
+                        1646117,
+                        3696248
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 1599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 11000,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 1299,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 11000,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "preview_assets": {
+                    "fg_static": "https://cdn.discordapp.com/media/v1/collectibles-shop/bundle-fg-static/1533927517793161357",
+                    "bg_static": "https://cdn.discordapp.com/media/v1/collectibles-shop/bundle-bg-static/1533927517793161357"
+                },
+                "items": [
+                    {
+                        "type": 0,
+                        "sku_id": "1533914517329678408",
+                        "asset": "a_731019cb334aa13ca110cf9e6d75b44a",
+                        "label": "Pink and purple flames swirl around the avatar"
+                    },
+                    {
+                        "type": 2,
+                        "sku_id": "1533919704375103590",
+                        "asset": "nameplates/all_bark,_all_bite/1533919704375103590/",
+                        "label": "A snarling hellhound charges, trailing pink flames",
+                        "palette": "black"
+                    },
+                    {
+                        "type": 1,
+                        "sku_id": "1533921966996586707",
+                        "title": "Hellhound",
+                        "description": "Show this effect when others view your profile.",
+                        "accessibilityLabel": "A snarling 3-headed hellhound with sharp fangs rears up, trailing pink flames",
+                        "animationType": 2,
+                        "thumbnailPreviewSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/ee63dbed7337a57ac139ae5bb16f4c35fe2092e5471193bff974d3a14672a664",
+                        "reducedMotionSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/a024aec0a1bc0536ad0fc051fa4dd32bb97db9cb5fca6cc2650e723e9318aeba",
+                        "effects": [
+                            {
+                                "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/db5a61d9fb5b447c626cd59cf00c45cc61e211b042c8d5397be5f17b4151c698",
+                                "loop": false,
+                                "duration": 4904,
+                                "start": 0,
+                                "loopDelay": 0,
+                                "zIndex": 110,
+                                "randomizedSources": []
+                            },
+                            {
+                                "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/36651b3517f1d214876474a0df786edf56a8efd545925c304a8e3155b47aa68b",
+                                "loop": true,
+                                "duration": 4905,
+                                "start": 6686,
+                                "loopDelay": 2400,
+                                "zIndex": 100,
+                                "randomizedSources": []
+                            }
+                        ]
+                    }
+                ],
+                "type": 1000,
+                "premium_type": 0,
+                "category_sku_id": "1533910281783083068",
+                "bundled_products": [
+                    {
+                        "sku_id": "1533914517329678408",
+                        "name": "Hellflame",
+                        "summary": "Give your avatar a new look.",
+                        "type": 0,
+                        "premium_type": 0,
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 599,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 499,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "sku_id": "1533919704375103590",
+                        "name": "All Bark, All Bite",
+                        "summary": "Make your name stand out in servers and chats.",
+                        "type": 2,
+                        "premium_type": 0,
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 599,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 499,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "sku_id": "1533921966996586707",
+                        "name": "Hellhound",
+                        "summary": "Show this effect when others view your profile.",
+                        "type": 1,
+                        "premium_type": 0,
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 599,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 499,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ],
+                "google_sku_ids": {
+                    "5": "1533927517793161357_1533931689263370473",
+                    "7": "1533927517793161357_1533931695269744780"
+                },
+                "is_first_party": true
+            },
+            {
+                "sku_id": "1533927867577143589",
+                "name": "Styx Bundle",
+                "summary": "{joinedItems}",
+                "styles": {
+                    "background_colors": [
+                        1646117,
+                        3696248
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 1599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 11000,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 1299,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 11000,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "preview_assets": {
+                    "fg_static": "https://cdn.discordapp.com/media/v1/collectibles-shop/bundle-fg-static/1533927867577143589",
+                    "bg_static": "https://cdn.discordapp.com/media/v1/collectibles-shop/bundle-bg-static/1533927867577143589"
+                },
+                "items": [
+                    {
+                        "type": 0,
+                        "sku_id": "1533919242892607610",
+                        "asset": "a_7ece3175e455ad5a40406557a8c88d6d",
+                        "label": "Glowing blue spirits swirl in a ring around the avatar"
+                    },
+                    {
+                        "type": 2,
+                        "sku_id": "1533920310716268696",
+                        "asset": "nameplates/phantom_tides/1533920310716268696/",
+                        "label": "Teal waves whirl in a circular motion",
+                        "palette": "black"
+                    },
+                    {
+                        "type": 1,
+                        "sku_id": "1533925148925628628",
+                        "title": "Those Left Behind",
+                        "description": "Show this effect when others view your profile.",
+                        "accessibilityLabel": "Glowing blue spirits fly forward on the profile",
+                        "animationType": 2,
+                        "thumbnailPreviewSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/ab1ba7489d93676687c6cf08e8ac002fdf571537f450a07c380d67a96e0ce571",
+                        "reducedMotionSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/2d81941fd2fc1e45e9c842d45acdeab08bc0f57c4aa5089737d6c940d4a2a0f4",
+                        "effects": [
+                            {
+                                "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/c6a804dacf39134b31719166fdf0debfb208c2284ef9aaa0d7a8db670405a092",
+                                "loop": false,
+                                "duration": 4908,
+                                "start": 0,
+                                "loopDelay": 0,
+                                "zIndex": 110,
+                                "randomizedSources": []
+                            },
+                            {
+                                "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/a5d939bee2b05ef76803472b5b8ecc27da965997fce90fc8f9e58d43c9f8970e",
+                                "loop": true,
+                                "duration": 3906,
+                                "start": 7669,
+                                "loopDelay": 2900,
+                                "zIndex": 100,
+                                "randomizedSources": []
+                            }
+                        ]
+                    }
+                ],
+                "type": 1000,
+                "premium_type": 0,
+                "category_sku_id": "1533910281783083068",
+                "bundled_products": [
+                    {
+                        "sku_id": "1533919242892607610",
+                        "name": "Styx Spirits",
+                        "summary": "Give your avatar a new look.",
+                        "type": 0,
+                        "premium_type": 0,
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 599,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 499,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "sku_id": "1533920310716268696",
+                        "name": "Phantom Tides",
+                        "summary": "Make your name stand out in servers and chats.",
+                        "type": 2,
+                        "premium_type": 0,
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 599,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 499,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "sku_id": "1533925148925628628",
+                        "name": "Those Left Behind",
+                        "summary": "Show this effect when others view your profile.",
+                        "type": 1,
+                        "premium_type": 0,
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 599,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 499,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ],
+                "google_sku_ids": {
+                    "5": "1533927867577143589_1533931040375050501",
+                    "7": "1533927867577143589_1533931046301859840"
+                },
+                "is_first_party": true
+            },
+            {
+                "sku_id": "1533913226142814238",
+                "name": "Lord of the Dead (Blue)",
+                "summary": "Give your avatar a new look.",
+                "styles": {
+                    "background_colors": [
+                        1646117,
+                        3696248
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "preview_assets": null,
+                "items": [
+                    {
+                        "type": 0,
+                        "sku_id": "1533913226142814238",
+                        "asset": "a_68fda5e61b1957d69913b52bda6fab31",
+                        "label": "A row of skulls with glowing eyes lines the bottom of the avatar, wreathed in blue flames"
+                    }
+                ],
+                "type": 0,
+                "premium_type": 0,
+                "category_sku_id": "1533910281783083068",
+                "google_sku_ids": {
+                    "5": "1533913226142814238_1533914816849121480",
+                    "7": "1533913226142814238_1533914822385733802"
+                },
+                "is_first_party": true
+            },
+            {
+                "sku_id": "1533913535149506670",
+                "name": "Lord of the Dead (Red)",
+                "summary": "Give your avatar a new look.",
+                "styles": {
+                    "background_colors": [
+                        1646117,
+                        3696248
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "preview_assets": null,
+                "items": [
+                    {
+                        "type": 0,
+                        "sku_id": "1533913535149506670",
+                        "asset": "a_1970eaeb65b05a09248e69105945cb19",
+                        "label": "A row of skulls with glowing eyes lines the bottom of the avatar, wreathed in red flames"
+                    }
+                ],
+                "type": 0,
+                "premium_type": 0,
+                "category_sku_id": "1533910281783083068",
+                "google_sku_ids": {
+                    "5": "1533913535149506670_1533916668592390166",
+                    "7": "1533913535149506670_1533916676775612446"
+                },
+                "is_first_party": true
+            },
+            {
+                "sku_id": "1533914517329678408",
+                "name": "Hellflame",
+                "summary": "Give your avatar a new look.",
+                "styles": {
+                    "background_colors": [
+                        1646117,
+                        3696248
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "preview_assets": null,
+                "items": [
+                    {
+                        "type": 0,
+                        "sku_id": "1533914517329678408",
+                        "asset": "a_731019cb334aa13ca110cf9e6d75b44a",
+                        "label": "Pink and purple flames swirl around the avatar"
+                    }
+                ],
+                "type": 0,
+                "premium_type": 0,
+                "category_sku_id": "1533910281783083068",
+                "google_sku_ids": {
+                    "5": "1533914517329678408_1533919528893939752",
+                    "7": "1533914517329678408_1533919534422167753"
+                },
+                "is_first_party": true
+            },
+            {
+                "sku_id": "1533919242892607610",
+                "name": "Styx Spirits",
+                "summary": "Give your avatar a new look.",
+                "styles": {
+                    "background_colors": [
+                        1646117,
+                        3696248
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "preview_assets": null,
+                "items": [
+                    {
+                        "type": 0,
+                        "sku_id": "1533919242892607610",
+                        "asset": "a_7ece3175e455ad5a40406557a8c88d6d",
+                        "label": "Glowing blue spirits swirl in a ring around the avatar"
+                    }
+                ],
+                "type": 0,
+                "premium_type": 0,
+                "category_sku_id": "1533910281783083068",
+                "google_sku_ids": {
+                    "5": "1533919242892607610_1533922403309195315",
+                    "7": "1533919242892607610_1533922409059455098"
+                },
+                "is_first_party": true
+            },
+            {
+                "sku_id": "1533919389806493928",
+                "name": "Eternal Damnation (Blue)",
+                "summary": "Give your avatar a new look.",
+                "styles": {
+                    "background_colors": [
+                        1646117,
+                        3696248
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "preview_assets": null,
+                "items": [
+                    {
+                        "type": 2,
+                        "sku_id": "1533919389806493928",
+                        "asset": "nameplates/eternal_damnation/1533919389806493928/",
+                        "label": "A pile of grey skulls surrounded by glowing blue flames",
+                        "palette": "black"
+                    }
+                ],
+                "type": 2,
+                "premium_type": 0,
+                "category_sku_id": "1533910281783083068",
+                "google_sku_ids": {
+                    "5": "1533919389806493928_1533920820559085830",
+                    "7": "1533919389806493928_1533920826242371624"
+                },
+                "is_first_party": true
+            },
+            {
+                "sku_id": "1533919549156622436",
+                "name": "Eternal Damnation (Red)",
+                "summary": "Give your avatar a new look.",
+                "styles": {
+                    "background_colors": [
+                        1646117,
+                        3696248
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "preview_assets": null,
+                "items": [
+                    {
+                        "type": 2,
+                        "sku_id": "1533919549156622436",
+                        "asset": "nameplates/eternal_damnation/1533919549156622436/",
+                        "label": "A pile of grey skulls surrounded by glowing red flames",
+                        "palette": "black"
+                    }
+                ],
+                "type": 2,
+                "premium_type": 0,
+                "category_sku_id": "1533910281783083068",
+                "google_sku_ids": {
+                    "5": "1533919549156622436_1533921502368501840",
+                    "7": "1533919549156622436_1533921507464450098"
+                },
+                "is_first_party": true
+            },
+            {
+                "sku_id": "1533919704375103590",
+                "name": "All Bark, All Bite",
+                "summary": "Make your name stand out in servers and chats.",
+                "styles": {
+                    "background_colors": [
+                        1646117,
+                        3696248
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "preview_assets": null,
+                "items": [
+                    {
+                        "type": 2,
+                        "sku_id": "1533919704375103590",
+                        "asset": "nameplates/all_bark,_all_bite/1533919704375103590/",
+                        "label": "A snarling hellhound charges, trailing pink flames",
+                        "palette": "black"
+                    }
+                ],
+                "type": 2,
+                "premium_type": 0,
+                "category_sku_id": "1533910281783083068",
+                "google_sku_ids": {
+                    "5": "1533919704375103590_1533921894997164122",
+                    "7": "1533919704375103590_1533921900772982936"
+                },
+                "is_first_party": true
+            },
+            {
+                "sku_id": "1533920310716268696",
+                "name": "Phantom Tides",
+                "summary": "Make your name stand out in servers and chats.",
+                "styles": {
+                    "background_colors": [
+                        1646117,
+                        3696248
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "preview_assets": null,
+                "items": [
+                    {
+                        "type": 2,
+                        "sku_id": "1533920310716268696",
+                        "asset": "nameplates/phantom_tides/1533920310716268696/",
+                        "label": "Teal waves whirl in a circular motion",
+                        "palette": "black"
+                    }
+                ],
+                "type": 2,
+                "premium_type": 0,
+                "category_sku_id": "1533910281783083068",
+                "google_sku_ids": {
+                    "5": "1533920310716268696_1533924106259529908",
+                    "7": "1533920310716268696_1533924111649214606"
+                },
+                "is_first_party": true
+            },
+            {
+                "sku_id": "1533920512722604172",
+                "name": "Lord of the Dead (Blue)",
+                "summary": "Show this effect when others view your profile.",
+                "styles": {
+                    "background_colors": [
+                        1646117,
+                        3696248
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "preview_assets": null,
+                "items": [
+                    {
+                        "type": 1,
+                        "sku_id": "1533920512722604172",
+                        "title": "Lord of the Dead (Blue)",
+                        "description": "Show this effect when others view your profile.",
+                        "accessibilityLabel": "Hades seated on his throne looms over a field of skulls as blue flames rise around him",
+                        "animationType": 2,
+                        "thumbnailPreviewSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/fa2f3c7ce3cf271e32dd31c01eb08e25d5cd572dd758f316ac757fe4f38ae682",
+                        "reducedMotionSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/103518fc4066001f55e5eabe64542fa7410e50a2889cb1a4a3e19687ce2e6f06",
+                        "effects": [
+                            {
+                                "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/9437a524a4f50e83ae4963ffcf50833b7c068fc8b48b40efd6913f257a438016",
+                                "loop": false,
+                                "duration": 4980,
+                                "start": 0,
+                                "loopDelay": 0,
+                                "zIndex": 110,
+                                "randomizedSources": []
+                            },
+                            {
+                                "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/21f998898b7fd30a0a86fd3adfd26e2037a36772aafe66905a9ad11cb9d2e97e",
+                                "loop": true,
+                                "duration": 4906,
+                                "start": 7101,
+                                "loopDelay": 2400,
+                                "zIndex": 100,
+                                "randomizedSources": []
+                            }
+                        ]
+                    }
+                ],
+                "type": 1,
+                "premium_type": 0,
+                "category_sku_id": "1533910281783083068",
+                "google_sku_ids": {
+                    "5": "1533920512722604172_1533922507629924624",
+                    "7": "1533920512722604172_1533922513526984846"
+                },
+                "is_first_party": true
+            },
+            {
+                "sku_id": "1533921032404992123",
+                "name": "Lord of the Dead (Red)",
+                "summary": "Show this effect when others view your profile.",
+                "styles": {
+                    "background_colors": [
+                        1646117,
+                        3696248
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "preview_assets": null,
+                "items": [
+                    {
+                        "type": 1,
+                        "sku_id": "1533921032404992123",
+                        "title": "Lord of the Dead",
+                        "description": "Show this effect when others view your profile.",
+                        "accessibilityLabel": "Hades seated on his throne looms over a field of skulls as red flames rise around him",
+                        "animationType": 2,
+                        "thumbnailPreviewSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/b555971c87eecc9e46b5b858fe7bb0d489868515d5eadc0cb32289038395218d",
+                        "reducedMotionSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/10eb99c5c8089bd62f71a1b96688a5d2b0699a140821680527fcf47f4b211eaf",
+                        "effects": [
+                            {
+                                "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/cd4313e497939cbb41a6a0bc136de9126ce3ab8e69e966caf062fb3e984f24fc",
+                                "loop": false,
+                                "duration": 4980,
+                                "start": 0,
+                                "loopDelay": 0,
+                                "zIndex": 110,
+                                "randomizedSources": []
+                            },
+                            {
+                                "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/512802946947e881654598c0e6f34cb21f4f603cb025e51dc2aecdbf6ac762f9",
+                                "loop": true,
+                                "duration": 4906,
+                                "start": 7101,
+                                "loopDelay": 2400,
+                                "zIndex": 100,
+                                "randomizedSources": []
+                            }
+                        ]
+                    }
+                ],
+                "type": 1,
+                "premium_type": 0,
+                "category_sku_id": "1533910281783083068",
+                "google_sku_ids": {
+                    "5": "1533921032404992123_1533924566143864983",
+                    "7": "1533921032404992123_1533924571814560034"
+                },
+                "is_first_party": true
+            },
+            {
+                "sku_id": "1533921239918182611",
+                "name": "Hades' Throne (Blue)",
+                "summary": "Show this effect when others view your profile.",
+                "styles": {
+                    "background_colors": [
+                        1646117,
+                        3696248
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "preview_assets": null,
+                "items": [
+                    {
+                        "type": 1,
+                        "sku_id": "1533921239918182611",
+                        "title": "Hades' Throne",
+                        "description": "Show this effect when others view your profile.",
+                        "accessibilityLabel": "Hades' throne looms over a field of skulls surrounded by blue flames",
+                        "animationType": 2,
+                        "thumbnailPreviewSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/6e6b7991883ae77d43d2844a4c34f317c4afe6e75c9b678a7a9707db2be99b74",
+                        "reducedMotionSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/103518fc4066001f55e5eabe64542fa7410e50a2889cb1a4a3e19687ce2e6f06",
+                        "effects": [
+                            {
+                                "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/1dff809a30cc4a449776ce73ace0cc5c16681c4d4c42bb854c73921dbcbb9aeb",
+                                "loop": false,
+                                "duration": 4980,
+                                "start": 0,
+                                "loopDelay": 0,
+                                "zIndex": 110,
+                                "randomizedSources": []
+                            },
+                            {
+                                "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/21f998898b7fd30a0a86fd3adfd26e2037a36772aafe66905a9ad11cb9d2e97e",
+                                "loop": true,
+                                "duration": 4906,
+                                "start": 7101,
+                                "loopDelay": 2400,
+                                "zIndex": 100,
+                                "randomizedSources": []
+                            }
+                        ]
+                    }
+                ],
+                "type": 1,
+                "premium_type": 0,
+                "category_sku_id": "1533910281783083068",
+                "google_sku_ids": {
+                    "5": "1533921239918182611_1533922837100892452",
+                    "7": "1533921239918182611_1533922844101181614"
+                },
+                "is_first_party": true
+            },
+            {
+                "sku_id": "1533921674792013864",
+                "name": "Hades' Throne (Red)",
+                "summary": "Show this effect when others view your profile.",
+                "styles": {
+                    "background_colors": [
+                        1646117,
+                        3696248
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "preview_assets": null,
+                "items": [
+                    {
+                        "type": 1,
+                        "sku_id": "1533921674792013864",
+                        "title": "Hades' Throne",
+                        "description": "Show this effect when others view your profile.",
+                        "accessibilityLabel": "Hades' throne looms over a field of skulls surrounded by red flames",
+                        "animationType": 2,
+                        "thumbnailPreviewSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/387a89a26b2e67b81946457252d68b1d4f942c625f9253c80f8aa8e15120aa13",
+                        "reducedMotionSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/10eb99c5c8089bd62f71a1b96688a5d2b0699a140821680527fcf47f4b211eaf",
+                        "effects": [
+                            {
+                                "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/894fcce7ea3134be0bc1a21bb8d3f5c44ac58560bfc3ebdc586245f4014f0874",
+                                "loop": false,
+                                "duration": 4980,
+                                "start": 0,
+                                "loopDelay": 0,
+                                "zIndex": 110,
+                                "randomizedSources": []
+                            },
+                            {
+                                "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/512802946947e881654598c0e6f34cb21f4f603cb025e51dc2aecdbf6ac762f9",
+                                "loop": true,
+                                "duration": 4906,
+                                "start": 7101,
+                                "loopDelay": 2400,
+                                "zIndex": 100,
+                                "randomizedSources": []
+                            }
+                        ]
+                    }
+                ],
+                "type": 1,
+                "premium_type": 0,
+                "category_sku_id": "1533910281783083068",
+                "google_sku_ids": {
+                    "5": "1533921674792013864_1533923314127474798",
+                    "7": "1533921674792013864_1533923323812118569"
+                },
+                "is_first_party": true
+            },
+            {
+                "sku_id": "1533921966996586707",
+                "name": "Hellhound",
+                "summary": "Show this effect when others view your profile.",
+                "styles": {
+                    "background_colors": [
+                        1646117,
+                        3696248
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "preview_assets": null,
+                "items": [
+                    {
+                        "type": 1,
+                        "sku_id": "1533921966996586707",
+                        "title": "Hellhound",
+                        "description": "Show this effect when others view your profile.",
+                        "accessibilityLabel": "A snarling 3-headed hellhound with sharp fangs rears up, trailing pink flames",
+                        "animationType": 2,
+                        "thumbnailPreviewSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/ee63dbed7337a57ac139ae5bb16f4c35fe2092e5471193bff974d3a14672a664",
+                        "reducedMotionSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/a024aec0a1bc0536ad0fc051fa4dd32bb97db9cb5fca6cc2650e723e9318aeba",
+                        "effects": [
+                            {
+                                "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/db5a61d9fb5b447c626cd59cf00c45cc61e211b042c8d5397be5f17b4151c698",
+                                "loop": false,
+                                "duration": 4904,
+                                "start": 0,
+                                "loopDelay": 0,
+                                "zIndex": 110,
+                                "randomizedSources": []
+                            },
+                            {
+                                "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/36651b3517f1d214876474a0df786edf56a8efd545925c304a8e3155b47aa68b",
+                                "loop": true,
+                                "duration": 4905,
+                                "start": 6686,
+                                "loopDelay": 2400,
+                                "zIndex": 100,
+                                "randomizedSources": []
+                            }
+                        ]
+                    }
+                ],
+                "type": 1,
+                "premium_type": 0,
+                "category_sku_id": "1533910281783083068",
+                "google_sku_ids": {
+                    "5": "1533921966996586707_1533926699761275012",
+                    "7": "1533921966996586707_1533926706845581443"
+                },
+                "is_first_party": true
+            },
+            {
+                "sku_id": "1533925148925628628",
+                "name": "Those Left Behind",
+                "summary": "Show this effect when others view your profile.",
+                "styles": {
+                    "background_colors": [
+                        1646117,
+                        3696248
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "preview_assets": null,
+                "items": [
+                    {
+                        "type": 1,
+                        "sku_id": "1533925148925628628",
+                        "title": "Those Left Behind",
+                        "description": "Show this effect when others view your profile.",
+                        "accessibilityLabel": "Glowing blue spirits fly forward on the profile",
+                        "animationType": 2,
+                        "thumbnailPreviewSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/ab1ba7489d93676687c6cf08e8ac002fdf571537f450a07c380d67a96e0ce571",
+                        "reducedMotionSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/2d81941fd2fc1e45e9c842d45acdeab08bc0f57c4aa5089737d6c940d4a2a0f4",
+                        "effects": [
+                            {
+                                "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/c6a804dacf39134b31719166fdf0debfb208c2284ef9aaa0d7a8db670405a092",
+                                "loop": false,
+                                "duration": 4908,
+                                "start": 0,
+                                "loopDelay": 0,
+                                "zIndex": 110,
+                                "randomizedSources": []
+                            },
+                            {
+                                "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/a5d939bee2b05ef76803472b5b8ecc27da965997fce90fc8f9e58d43c9f8970e",
+                                "loop": true,
+                                "duration": 3906,
+                                "start": 7669,
+                                "loopDelay": 2900,
+                                "zIndex": 100,
+                                "randomizedSources": []
+                            }
+                        ]
+                    }
+                ],
+                "type": 1,
+                "premium_type": 0,
+                "category_sku_id": "1533910281783083068",
+                "google_sku_ids": {
+                    "5": "1533925148925628628_1533929192746651708",
+                    "7": "1533925148925628628_1533929198568214699"
+                },
+                "is_first_party": true
+            },
+            {
+                "sku_id": "1533925498961264871",
+                "name": "Lord of the Dead (Blue)",
+                "summary": "Elevate and wrap your profile with a frame.",
+                "styles": {
+                    "background_colors": [
+                        1646117,
+                        3696248
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "preview_assets": null,
+                "items": [
+                    {
+                        "type": 3,
+                        "sku_id": "1533925498961264871",
+                        "label": "A row of grey skulls crowns the top of the profile with blue flames erupting from them",
+                        "layers": [
+                            {
+                                "id": "1533925847021518939",
+                                "type": "staple",
+                                "order": "front",
+                                "anchor": "top",
+                                "responsive": false
+                            },
+                            {
+                                "id": "1533925851752825032",
+                                "type": "staple",
+                                "order": "back",
+                                "anchor": "top",
+                                "responsive": false
+                            },
+                            {
+                                "id": "1533925855338827867",
+                                "type": "staple",
+                                "order": "back",
+                                "anchor": "bottom",
+                                "responsive": false
+                            }
+                        ],
+                        "inner_width": 1200,
+                        "overflow_top": 304,
+                        "overflow_bottom": 148,
+                        "overflow_horizontal": 56
+                    }
+                ],
+                "type": 3,
+                "premium_type": 0,
+                "category_sku_id": "1533910281783083068",
+                "google_sku_ids": {
+                    "5": "1533925498961264871_1533930042055462912",
+                    "7": "1533925498961264871_1533930057238577312"
+                },
+                "is_first_party": true
+            },
+            {
+                "sku_id": "1533925887098224730",
+                "name": "Lord of the Dead (Red)",
+                "summary": "Elevate and wrap your profile with a frame.",
+                "styles": {
+                    "background_colors": [
+                        1646117,
+                        3696248
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "preview_assets": null,
+                "items": [
+                    {
+                        "type": 3,
+                        "sku_id": "1533925887098224730",
+                        "label": "A row of grey skulls crowns the top of the profile with red flames erupting from them",
+                        "layers": [
+                            {
+                                "id": "1534992785206411324",
+                                "type": "staple",
+                                "order": "front",
+                                "anchor": "top",
+                                "responsive": false
+                            },
+                            {
+                                "id": "1534992798002974751",
+                                "type": "staple",
+                                "order": "back",
+                                "anchor": "top",
+                                "responsive": false
+                            },
+                            {
+                                "id": "1534992807885017249",
+                                "type": "staple",
+                                "order": "back",
+                                "anchor": "bottom",
+                                "responsive": false
+                            }
+                        ],
+                        "inner_width": 1200,
+                        "overflow_top": 304,
+                        "overflow_bottom": 148,
+                        "overflow_horizontal": 56
+                    }
+                ],
+                "type": 3,
+                "premium_type": 0,
+                "category_sku_id": "1533910281783083068",
+                "google_sku_ids": {
+                    "5": "1533925887098224730_1533931065956106360",
+                    "7": "1533925887098224730_1533931071371215009"
+                },
+                "is_first_party": true
+            }
+        ],
+        "hero_banner_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/c4bf5acb4266ca43d5591108621c8fca0f74254123c7926b6dc5e5e98ab44d04",
+        "hero_logo_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/293455a2c92ada19f1007368ff3bb88a476d7bf29abdbcd67b58046eb5a6f231",
+        "catalog_banner_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/b19b137a2a01cdd14a07fe40cc47b049c36f27102d7e32f14e78884e7a9e8a23",
+        "featured_block_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/a16b3d35e40159c3931e8cc9202d6d712e889994e5120c7d1d43542ebfaf36f6",
+        "logo_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/293455a2c92ada19f1007368ff3bb88a476d7bf29abdbcd67b58046eb5a6f231",
+        "pdp_bg_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/6b2e930a49694250a6a7f34c680749b1baf0ee5bdee3e70f7951b52b8f6f66a6",
+        "mobile_hero_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/864a5f051b87131c34018abf318a0638462134348fe749daab23a6621704aa1c",
+        "mobile_banner_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/f39795a03b9f0d6a7e67138c58347a1e030b4b78584bdd47486cc3f634fb571b",
+        "mobile_bg_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/7cc345038098cb8b9adf106561ea1fee15e368bd8b1d0003c9fbc29ffccbd0ef",
+        "hero_banner_display_config": {
+            "desktop_max_height": null,
+            "mobile_max_height": null,
+            "responsive": null,
+            "background_style": "linear-gradient(180deg, #191E25 0%, #386678 100%)"
         }
     }
 ]
