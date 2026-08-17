@@ -98424,5 +98424,100 @@
         "targeted_content": [],
         "preview": false,
         "traffic_metadata_raw": "EAIYAQ=="
+    },
+    {
+        "id": "1534613925767676096",
+        "config": {
+            "id": "1534613925767676096",
+            "config_version": 2,
+            "starts_at": "2026-08-17T20:50:00+00:00",
+            "expires_at": "2026-09-05T00:00:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://www.playstation.com/games/marvel-tokon-fighting-souls/?emcid=vd-1s-536319",
+                "id": "1428207854153633852",
+                "name": "MARVEL Tōkon: Fighting Souls"
+            },
+            "assets": {
+                "hero": "quests/1534613925767676096/1536463047453970432.jpg",
+                "quest_bar_hero_blurhash": "pygODILZp3lvh4aHdor/NvB3RQ==",
+                "quest_bar_hero": "quests/1534613925767676096/1534614702590529806.jpg",
+                "quest_bar_hero_video": "quests/1534613925767676096/1534989736639336629_720.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1534613925767676096/1534980286163583046.png",
+                "game_tile_dark": "quests/1534613925767676096/1534980286163583046.png",
+                "logotype_light": "quests/1534613925767676096/1536450033921036298.png",
+                "logotype_dark": "quests/1534613925767676096/1536450033921036298.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Marvel Tokon: Fighting Souls",
+                "game_title": "Marvel Tokon: Fighting Souls",
+                "game_publisher": "PlayStation"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1428207854153633852"
+                            }
+                        ]
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "type": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1428207854153633852"
+                            }
+                        ],
+                        "external_ids": [
+                            "PPSA15595_00"
+                        ]
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 Orbs",
+                            "name_with_article": "700 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 700,
+                        "premium_orb_quantity": 840
+                    }
+                ],
+                "rewards_expire_at": "2026-10-05T00:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://www.playstation.com/games/marvel-tokon-fighting-souls/?emcid=vd-1s-536319",
+                "button_label": "Play Game"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false,
+        "traffic_metadata_raw": "EAIYAQ=="
     }
 ]
