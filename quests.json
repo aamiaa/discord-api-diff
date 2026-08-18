@@ -97459,7 +97459,7 @@
                 15
             ],
             "application": {
-                "link": " https://azure.microsoft.com/en-us/pricing/purchase-options/azure-account/search?cid=formula1&OCID=AIDcmmkln6z48t_OLA_%ebuy!_%epid!_%ecid!&siteID=%esid!",
+                "link": "https://azure.microsoft.com/en-us/pricing/purchase-options/azure-account/search?cid=formula1&OCID=AIDcmmkln6z48t_OLA_%ebuy!_%epid!_%ecid!&siteID=%esid!",
                 "id": "545364944258990091",
                 "name": "Discord"
             },
@@ -97574,7 +97574,7 @@
             },
             "share_policy": "shareable_everywhere",
             "cta_config": {
-                "link": " https://azure.microsoft.com/en-us/pricing/purchase-options/azure-account/search?cid=formula1&OCID=AIDcmmkln6z48t_OLA_%ebuy!_%epid!_%ecid!&siteID=%esid!",
+                "link": "https://azure.microsoft.com/en-us/pricing/purchase-options/azure-account/search?cid=formula1&OCID=AIDcmmkln6z48t_OLA_%ebuy!_%epid!_%ecid!&siteID=%esid!",
                 "button_label": "Learn More",
                 "subtitle": "Build greatness with Azure"
             }
@@ -98610,5 +98610,137 @@
                 "button_label": "Play Game"
             }
         }
+    },
+    {
+        "id": "1536795790717091970",
+        "config": {
+            "id": "1536795790717091970",
+            "config_version": 2,
+            "starts_at": "2026-08-18T18:15:00+00:00",
+            "expires_at": "2026-08-28T00:00:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://2kgam.es/3RuZ5v9",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1536795790717091970/1539020923624095875.jpg",
+                "quest_bar_hero_blurhash": "T7kGFIp0dqUEiHmUbnPJQIoNtA==",
+                "quest_bar_hero": "quests/1536795790717091970/1539020923607457952.jpg",
+                "quest_bar_hero_video": "quests/1536795790717091970/1539313823956340868_720.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1536795790717091970/1536796252459638845.jpg",
+                "game_tile_dark": "quests/1536795790717091970/1536796252459638845.jpg",
+                "logotype_light": "quests/1536795790717091970/1536796236164894801.png",
+                "logotype_dark": "quests/1536795790717091970/1536796203235409980.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "NBA 2K27 Content Drop",
+                "game_title": "NBA 2K27",
+                "game_publisher": "NBA 2K27"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 95,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1536795790717091970/1539019499431530546_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1536795790717091970/1539019822464237738.png"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1536795790717091970/1539019499431530546_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1536795790717091970/1539019822464237738.png"
+                            },
+                            "video_hls": {
+                                "url": "quests/1536795790717091970/1539019499431530546.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1536795790717091970/1539019822464237738.png"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 95,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1536795790717091970/1539019499431530546_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1536795790717091970/1539019822464237738.png"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1536795790717091970/1539019499431530546_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1536795790717091970/1539019822464237738.png"
+                            },
+                            "video_hls": {
+                                "url": "quests/1536795790717091970/1539019499431530546.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1536795790717091970/1539019822464237738.png"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 3,
+                        "sku_id": "1538978299785781278",
+                        "asset": "quests/1536795790717091970/1538978483768664134.mp4",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "NBA 2K27 Green Release",
+                            "name_with_article": "an NBA 2K27 Green Release",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "expires_at": "2026-10-27T00:00:00+00:00",
+                        "expires_at_premium": null,
+                        "expiration_mode": 3
+                    }
+                ],
+                "rewards_expire_at": "2026-09-27T00:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://2kgam.es/3RuZ5v9",
+                "button_label": "Pre-Order Now",
+                "subtitle": "Enter the World of 2K - Pre-order Now"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false,
+        "traffic_metadata_raw": "EAIYAQ=="
     }
 ]
