@@ -99302,5 +99302,222 @@
         "targeted_content": [],
         "preview": false,
         "traffic_metadata_raw": "EAIYAQ=="
+    },
+    {
+        "id": "1539838784705798294",
+        "config": {
+            "id": "1539838784705798294",
+            "config_version": 2,
+            "starts_at": "2026-08-20T13:00:00+00:00",
+            "expires_at": "2026-08-31T00:00:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "http://fortnite.com/b/override",
+                "id": "1402418703554842694",
+                "name": "Fortnite"
+            },
+            "assets": {
+                "hero": "quests/1539074454225690648/1539307518860197950.jpg",
+                "quest_bar_hero_blurhash": "1OYRFIJHN5l/hYeFh4V6gOgFZg==",
+                "quest_bar_hero": "quests/1539074454225690648/1539307494793420921.jpg",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1539074454225690648/1539307443274776626.png",
+                "game_tile_dark": "quests/1539074454225690648/1539307443274776626.png",
+                "logotype_light": "quests/1539074454225690648/1539307443119726763.png",
+                "logotype_dark": "quests/1539074454225690648/1539307443119726763.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Fortnite Override",
+                "game_title": "Fortnite",
+                "game_publisher": "Epic Games"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1402418703554842694"
+                            }
+                        ]
+                    },
+                    "PLAY_ON_XBOX": {
+                        "type": "PLAY_ON_XBOX",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1402418703554842694"
+                            }
+                        ],
+                        "external_ids": [
+                            "267695549"
+                        ]
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "type": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1402418703554842694"
+                            }
+                        ],
+                        "external_ids": [
+                            "CUSA07022_00",
+                            "PPSA01922_00",
+                            "PPSA01923_00",
+                            "CUSA07669_00"
+                        ]
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 Orbs",
+                            "name_with_article": "700 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 700,
+                        "premium_orb_quantity": 840
+                    }
+                ],
+                "rewards_expire_at": "2026-09-30T00:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "http://fortnite.com/b/override",
+                "button_label": "Play Now"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false,
+        "traffic_metadata_raw": "EAIYAQ=="
+    },
+    {
+        "id": "1539360322421268627",
+        "config": {
+            "id": "1539360322421268627",
+            "config_version": 2,
+            "starts_at": "2026-08-20T13:00:00+00:00",
+            "expires_at": "2026-08-31T00:00:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "http://fortnite.com/b/override",
+                "id": "1402418703554842694",
+                "name": "Fortnite"
+            },
+            "assets": {
+                "hero": "quests/1539074454225690648/1539307518860197950.jpg",
+                "quest_bar_hero_blurhash": "1OYRFIJHN5l/hYeFh4V6gOgFZg==",
+                "quest_bar_hero": "quests/1539074454225690648/1539307494793420921.jpg",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1539074454225690648/1539307443274776626.png",
+                "game_tile_dark": "quests/1539074454225690648/1539307443274776626.png",
+                "logotype_light": "quests/1539074454225690648/1539307443119726763.png",
+                "logotype_dark": "quests/1539074454225690648/1539307443119726763.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Fortnite Override",
+                "game_title": "Fortnite",
+                "game_publisher": "Epic Games"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1402418703554842694"
+                            }
+                        ]
+                    },
+                    "PLAY_ON_XBOX": {
+                        "type": "PLAY_ON_XBOX",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1402418703554842694"
+                            }
+                        ],
+                        "external_ids": [
+                            "267695549"
+                        ]
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "type": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1402418703554842694"
+                            }
+                        ],
+                        "external_ids": [
+                            "CUSA07669_00",
+                            "PPSA01922_00",
+                            "PPSA01923_00",
+                            "CUSA07022_00"
+                        ]
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 3,
+                        "sku_id": "1539361544284938270",
+                        "asset": "quests/1539074454225690648/1539361796601684089.mp4",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "Fortnite Override Avatar Decoration",
+                            "name_with_article": "a Fortnite Override Avatar Decoration",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "expires_at": "2026-10-30T00:00:00+00:00",
+                        "expires_at_premium": null,
+                        "expiration_mode": 3
+                    }
+                ],
+                "rewards_expire_at": "2026-09-30T00:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "http://fortnite.com/b/override",
+                "button_label": "Play Now"
+            }
+        }
     }
 ]
