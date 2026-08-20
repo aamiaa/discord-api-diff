@@ -73814,7 +73814,7 @@
             "id": "1509683146239512726",
             "config_version": 2,
             "starts_at": "2026-06-01T17:00:00+00:00",
-            "expires_at": "2026-08-24T06:59:00+00:00",
+            "expires_at": "2026-08-31T06:59:00+00:00",
             "features": [
                 44,
                 15
@@ -73895,7 +73895,7 @@
                         "premium_orb_quantity": 240
                     }
                 ],
-                "rewards_expire_at": "2026-09-23T06:59:00+00:00",
+                "rewards_expire_at": "2026-09-30T06:59:00+00:00",
                 "platforms": [
                     0
                 ]
@@ -82125,7 +82125,7 @@
             "id": "1520181992006619207",
             "config_version": 2,
             "starts_at": "2026-06-29T17:00:00+00:00",
-            "expires_at": "2026-08-24T06:59:00+00:00",
+            "expires_at": "2026-08-31T06:59:00+00:00",
             "features": [
                 44,
                 15
@@ -82206,7 +82206,7 @@
                         "premium_orb_quantity": null
                     }
                 ],
-                "rewards_expire_at": "2026-09-23T06:59:00+00:00",
+                "rewards_expire_at": "2026-09-30T06:59:00+00:00",
                 "platforms": [
                     0
                 ]
@@ -82467,7 +82467,7 @@
             "id": "1520190459530707096",
             "config_version": 2,
             "starts_at": "2026-06-29T17:00:00+00:00",
-            "expires_at": "2026-08-24T06:59:00+00:00",
+            "expires_at": "2026-08-31T06:59:00+00:00",
             "features": [
                 44,
                 15
@@ -82548,7 +82548,7 @@
                         "premium_orb_quantity": null
                     }
                 ],
-                "rewards_expire_at": "2026-09-23T06:59:00+00:00",
+                "rewards_expire_at": "2026-09-30T06:59:00+00:00",
                 "platforms": [
                     0
                 ]
@@ -90767,7 +90767,7 @@
             "id": "1527781624270295223",
             "config_version": 2,
             "starts_at": "2026-07-20T17:00:00+00:00",
-            "expires_at": "2026-08-24T06:59:00+00:00",
+            "expires_at": "2026-08-31T06:59:00+00:00",
             "features": [
                 44,
                 15
@@ -90848,7 +90848,7 @@
                         "premium_orb_quantity": null
                     }
                 ],
-                "rewards_expire_at": "2026-09-23T06:59:00+00:00",
+                "rewards_expire_at": "2026-09-30T06:59:00+00:00",
                 "platforms": [
                     0
                 ]
@@ -98199,7 +98199,7 @@
             },
             "messages": {
                 "quest_name": "Insidious: Out Of The Further",
-                "game_title": "INSIDIOUS: Out Of The Further in cinemas August 21st",
+                "game_title": "Now Playing Exclusively in Theatres",
                 "game_publisher": "Sony Pictures Entertainment"
             },
             "task_config_v2": {
@@ -98209,22 +98209,22 @@
                         "target": 29,
                         "assets": {
                             "video": {
-                                "url": "quests/1535343840557539408/1537929362681372722_1080.mp4",
+                                "url": "quests/1535343840557539408/1537929352426160259_1080.mp4",
                                 "width": 1920,
                                 "height": 1080,
-                                "thumbnail": "quests/1535343840557539408/1536613375562227732.jpg"
+                                "thumbnail": "quests/1535343840557539408/1536613388614901850.jpg"
                             },
                             "video_low_res": {
-                                "url": "quests/1535343840557539408/1537929362681372722_720.mp4",
+                                "url": "quests/1535343840557539408/1537929352426160259_720.mp4",
                                 "width": 1920,
                                 "height": 1080,
-                                "thumbnail": "quests/1535343840557539408/1536613375562227732.jpg"
+                                "thumbnail": "quests/1535343840557539408/1536613388614901850.jpg"
                             },
                             "video_hls": {
-                                "url": "quests/1535343840557539408/1537929362681372722.m3u8",
+                                "url": "quests/1535343840557539408/1537929352426160259.m3u8",
                                 "width": 1920,
                                 "height": 1080,
-                                "thumbnail": "quests/1535343840557539408/1536613375562227732.jpg"
+                                "thumbnail": "quests/1535343840557539408/1536613388614901850.jpg"
                             }
                         },
                         "messages": {
@@ -98236,22 +98236,22 @@
                         "target": 24,
                         "assets": {
                             "video": {
-                                "url": "quests/1535343840557539408/1538731494892376104_1080.mp4",
+                                "url": "quests/1535343840557539408/1538731494640455822_1080.mp4",
                                 "width": 1080,
                                 "height": 1920,
-                                "thumbnail": "quests/1535343840557539408/1536613375562227732.jpg"
+                                "thumbnail": "quests/1535343840557539408/1536613388614901850.jpg"
                             },
                             "video_low_res": {
-                                "url": "quests/1535343840557539408/1538731494892376104_720.mp4",
+                                "url": "quests/1535343840557539408/1538731494640455822_720.mp4",
                                 "width": 1080,
                                 "height": 1920,
-                                "thumbnail": "quests/1535343840557539408/1536613375562227732.jpg"
+                                "thumbnail": "quests/1535343840557539408/1536613388614901850.jpg"
                             },
                             "video_hls": {
-                                "url": "quests/1535343840557539408/1538731494892376104.m3u8",
+                                "url": "quests/1535343840557539408/1538731494640455822.m3u8",
                                 "width": 1080,
                                 "height": 1920,
-                                "thumbnail": "quests/1535343840557539408/1536613375562227732.jpg"
+                                "thumbnail": "quests/1535343840557539408/1536613388614901850.jpg"
                             }
                         },
                         "messages": {
@@ -98287,7 +98287,7 @@
             "cta_config": {
                 "link": "https://insidious.movie?utm_source=discord&utm_medium=core",
                 "button_label": "Get Tickets",
-                "subtitle": "INSIDIOUS: Out Of The Further in cinemas August 21st"
+                "subtitle": "Now Playing Exclusively in Theatres"
             }
         },
         "user_status": null,
@@ -99115,7 +99115,7 @@
             },
             "messages": {
                 "quest_name": "Insidious: Out Of The Further",
-                "game_title": "INSIDIOUS: Out Of The Further - In theatres Thursday",
+                "game_title": "INSIDIOUS: Out Of The Further - Now playing in theatres.",
                 "game_publisher": "Sony Pictures Entertainment"
             },
             "task_config_v2": {
@@ -99125,22 +99125,22 @@
                         "target": 14,
                         "assets": {
                             "video": {
-                                "url": "quests/1535352137792487624/1539001551161663530_1080.mp4",
+                                "url": "quests/1535352137792487624/1539001550947623103_1080.mp4",
                                 "width": 1920,
                                 "height": 1080,
-                                "thumbnail": "quests/1535352137792487624/1538948240416710767.jpg"
+                                "thumbnail": "quests/1535352137792487624/1538948240425099304.jpg"
                             },
                             "video_low_res": {
-                                "url": "quests/1535352137792487624/1539001551161663530_720.mp4",
+                                "url": "quests/1535352137792487624/1539001550947623103_720.mp4",
                                 "width": 1920,
                                 "height": 1080,
-                                "thumbnail": "quests/1535352137792487624/1538948240416710767.jpg"
+                                "thumbnail": "quests/1535352137792487624/1538948240425099304.jpg"
                             },
                             "video_hls": {
-                                "url": "quests/1535352137792487624/1539001551161663530.m3u8",
+                                "url": "quests/1535352137792487624/1539001550947623103.m3u8",
                                 "width": 1920,
                                 "height": 1080,
-                                "thumbnail": "quests/1535352137792487624/1538948240416710767.jpg"
+                                "thumbnail": "quests/1535352137792487624/1538948240425099304.jpg"
                             }
                         },
                         "messages": {
@@ -99152,22 +99152,22 @@
                         "target": 14,
                         "assets": {
                             "video": {
-                                "url": "quests/1535352137792487624/1539001551132041276_1080.mp4",
+                                "url": "quests/1535352137792487624/1539001550960197702_1080.mp4",
                                 "width": 1080,
                                 "height": 1920,
-                                "thumbnail": "quests/1535352137792487624/1538948240416710767.jpg"
+                                "thumbnail": "quests/1535352137792487624/1538948240425099304.jpg"
                             },
                             "video_low_res": {
-                                "url": "quests/1535352137792487624/1539001551132041276_720.mp4",
+                                "url": "quests/1535352137792487624/1539001550960197702_720.mp4",
                                 "width": 1080,
                                 "height": 1920,
-                                "thumbnail": "quests/1535352137792487624/1538948240416710767.jpg"
+                                "thumbnail": "quests/1535352137792487624/1538948240425099304.jpg"
                             },
                             "video_hls": {
-                                "url": "quests/1535352137792487624/1539001551132041276.m3u8",
+                                "url": "quests/1535352137792487624/1539001550960197702.m3u8",
                                 "width": 1080,
                                 "height": 1920,
-                                "thumbnail": "quests/1535352137792487624/1538948240416710767.jpg"
+                                "thumbnail": "quests/1535352137792487624/1538948240425099304.jpg"
                             }
                         },
                         "messages": {
@@ -99203,7 +99203,7 @@
             "cta_config": {
                 "link": "https://insidious-out-of-the-further-tix.ca?utm_source=discord&utm_medium=core_tickets",
                 "button_label": "Get Tickets",
-                "subtitle": "INSIDIOUS: Out Of The Further - In theatres Thursday"
+                "subtitle": "INSIDIOUS: Out Of The Further - Now playing in theatres."
             }
         }
     },
@@ -99519,5 +99519,330 @@
                 "button_label": "Play Now"
             }
         }
+    },
+    {
+        "id": "1539783929567911996",
+        "config": {
+            "id": "1539783929567911996",
+            "config_version": 2,
+            "starts_at": "2026-08-20T17:45:00+00:00",
+            "expires_at": "2026-09-03T00:00:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://www.tiltingpoint.com/games/avatar",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1539783929567911996/1539786826187931699.jpg",
+                "hero_video": "quests/1539783929567911996/1539786600941363222_720.mp4",
+                "quest_bar_hero_blurhash": "nhgKIoK6hJWFh/h376X2lh4=",
+                "quest_bar_hero": "quests/1539783929567911996/1539786826187931699.jpg",
+                "quest_bar_hero_video": "quests/1539783929567911996/1539786600941363222_720.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1539783929567911996/1539786177861783663.png",
+                "game_tile_dark": "quests/1539783929567911996/1539786177861783663.png",
+                "logotype_light": "quests/1539783929567911996/1539786194928537721.png",
+                "logotype_dark": "quests/1539783929567911996/1539786390319923271.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Avatar: Realms Collide",
+                "game_title": "Choose Your Nation",
+                "game_publisher": "Tilting Point"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 29,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1539783929567911996/1539787378175246376_1080.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1539783929567911996/1539787682748694589.png"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1539783929567911996/1539787378175246376_720.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1539783929567911996/1539787682748694589.png"
+                            },
+                            "video_hls": {
+                                "url": "quests/1539783929567911996/1539787378175246376.m3u8",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1539783929567911996/1539787682748694589.png"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "200 Orbs",
+                            "name_with_article": "200 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 200,
+                        "premium_orb_quantity": 240
+                    }
+                ],
+                "rewards_expire_at": "2026-10-03T00:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "android": {
+                    "android_app_id": "com.angames.android.google.avatarbendingtheworld"
+                },
+                "ios": {
+                    "ios_app_id": "6479603752"
+                },
+                "link": "https://www.tiltingpoint.com/games/avatar",
+                "button_label": "Play Now"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false,
+        "traffic_metadata_raw": "EAIYAQ=="
+    },
+    {
+        "id": "1535350172480053308",
+        "config": {
+            "id": "1535350172480053308",
+            "config_version": 2,
+            "starts_at": "2026-08-20T17:00:00+00:00",
+            "expires_at": "2026-08-28T00:00:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://www.playstation.com/en-us/games/helldivers-2/?modal=game-catalog&emcid=dd-1s-536825",
+                "id": "1205090671527071784",
+                "name": "Helldivers 2"
+            },
+            "assets": {
+                "hero": "quests/1535350172480053308/1535350651972886559.jpg",
+                "quest_bar_hero_blurhash": "kdYJFIIId4dphoiDeZmmkIoOmQ==",
+                "quest_bar_hero": "quests/1535350172480053308/1535350662601375824.jpg",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1535350172480053308/1536823568933978253.png",
+                "game_tile_dark": "quests/1535350172480053308/1536823411815219210.png",
+                "logotype_light": "quests/1535350172480053308/1536823306727198780.png",
+                "logotype_dark": "quests/1535350172480053308/1536823306735587429.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Helldivers 2",
+                "game_title": "Helldivers 2",
+                "game_publisher": "PlayStation"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1205090671527071784"
+                            }
+                        ]
+                    },
+                    "PLAY_ON_XBOX": {
+                        "type": "PLAY_ON_XBOX",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1205090671527071784"
+                            }
+                        ],
+                        "external_ids": [
+                            "1924639289"
+                        ]
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "type": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1205090671527071784"
+                            }
+                        ],
+                        "external_ids": [
+                            "PPSA06017_00",
+                            "PPSA01413_00",
+                            "PPSA06020_00",
+                            "PPSA06016_00"
+                        ]
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 Orbs",
+                            "name_with_article": "700 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 700,
+                        "premium_orb_quantity": 840
+                    }
+                ],
+                "rewards_expire_at": "2026-09-27T00:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://www.playstation.com/en-us/games/helldivers-2/?modal=game-catalog&emcid=dd-1s-536825",
+                "button_label": "Play Game"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false,
+        "traffic_metadata_raw": "EAIYAQ=="
+    },
+    {
+        "id": "1537161325170532412",
+        "config": {
+            "id": "1537161325170532412",
+            "config_version": 2,
+            "starts_at": "2026-08-20T17:00:00+00:00",
+            "expires_at": "2026-08-29T00:00:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://ad.doubleclick.net/ddm/trackclk/N7657.3866164DISCORD.COM/B36324648.451843323;dc_trk_aid=645325703;dc_trk_cid=259523000;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1",
+                "id": "1425690433018925056",
+                "name": "Battlefield 6"
+            },
+            "assets": {
+                "hero": "quests/1537161325170532412/1537163384959533136.jpg",
+                "quest_bar_hero_blurhash": "nggOHIi3dHdfl4h0hYZGQHYEdQ==",
+                "quest_bar_hero": "quests/1537161325170532412/1537892223704637551.jpg",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1537161325170532412/1537163384863334552.jpg",
+                "game_tile_dark": "quests/1537161325170532412/1537163384863334552.jpg",
+                "logotype_light": "quests/1537161325170532412/1537163385303732234.png",
+                "logotype_dark": "quests/1537161325170532412/1537163384854946013.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Battlefield 6 Top Gun",
+                "game_title": "Battlefield",
+                "game_publisher": "Electronic Arts"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1425690433018925056"
+                            }
+                        ]
+                    },
+                    "PLAY_ON_XBOX": {
+                        "type": "PLAY_ON_XBOX",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1425690433018925056"
+                            }
+                        ],
+                        "external_ids": [
+                            "1840884885"
+                        ]
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "type": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1425690433018925056"
+                            }
+                        ],
+                        "external_ids": [
+                            "PPSA19534_00"
+                        ]
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 1,
+                        "sku_id": "1537161325170532413",
+                        "asset": "quests/1537161325170532412/1539735321665732768.jpg",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "2XP Boost",
+                            "name_with_article": "a 2XP Boost",
+                            "redemption_instructions_by_platform": {
+                                "0": "Log in to redeem your code at: https://www.ea.com/games/battlefield/battlefield-6/redeem    \n\n1. Log in to your EA Account  \n2. Redeem your in-game codes  \n3. Link your platforms to your EA Account to play on any platform"
+                            }
+                        },
+                        "approximate_count": null,
+                        "redemption_link": null
+                    }
+                ],
+                "rewards_expire_at": "2026-09-28T00:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://ad.doubleclick.net/ddm/trackclk/N7657.3866164DISCORD.COM/B36324648.451843323;dc_trk_aid=645325703;dc_trk_cid=259523000;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1",
+                "button_label": "Play Game"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false,
+        "traffic_metadata_raw": "EAIYAQ=="
     }
 ]
