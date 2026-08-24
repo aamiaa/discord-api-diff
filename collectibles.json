@@ -47027,9 +47027,263 @@
             "1341506443605442560",
             "1341506444293308416",
             "1341506444310085632",
-            "1341506444188450816"
+            "1341506444188450816",
+            "1243619479645065287",
+            "1144308439720394944",
+            "1341506443613831168",
+            "1341506443622219776",
+            "1154896005045694555",
+            "1341506443630608384",
+            "1341506443647385601",
+            "1144307257807491094",
+            "1341506443659968512",
+            "1341506443664162817",
+            "1144305233707671573",
+            "1341506443685134336",
+            "1144307629225672846",
+            "1341506443693522944",
+            "1341506443701911552",
+            "1144308196723408958",
+            "1341506443714494464",
+            "1341506443718688768",
+            "1144307957425778779",
+            "1341506443731271680",
+            "1341506443735465984",
+            "1212569856189407352",
+            "1341506443748048896",
+            "1341506443756437504",
+            "1341506443760631808",
+            "1341506443764826112",
+            "1212570343567261736",
+            "1341506443777409024",
+            "1341506443781603328",
+            "1341506443789991936",
+            "1341506443794186240",
+            "1212570596970467378",
+            "1341506443806769152",
+            "1341506443810963456",
+            "1341506443819352064",
+            "1341506443823546368",
+            "1212581390936178768",
+            "1341506443836129280",
+            "1341506443840323584",
+            "1341506443844517889",
+            "1341506443852906496",
+            "1212569433839636530",
+            "1341506443865489408",
+            "1341506443869683712",
+            "1341506443878072320",
+            "1341506443882266624",
+            "1212581147675205652",
+            "1341506443894849536",
+            "1341506443899043840",
+            "1341506443903238144",
+            "1341506443911626752",
+            "1139323101881061466",
+            "1341506443920015360",
+            "1341506443928403968",
+            "1139323093551165533",
+            "1341506443940986880",
+            "1341506443945181184",
+            "1139323101008642101",
+            "1341506443957764096",
+            "1341506443961958400",
+            "1212582298893946880",
+            "1341506443974541312",
+            "1341506443978735616",
+            "1341506443987124224",
+            "1341506443991318528",
+            "1212582372877541427",
+            "1341506444003901440",
+            "1341506444008095744",
+            "1341506444016484352",
+            "1341506444020678656",
+            "1212582452640350238",
+            "1341506444033261568",
+            "1341506444041650176",
+            "1341506444045844480",
+            "1341506444054233088",
+            "1139323100568244355",
+            "1341895113089220722",
+            "1341895142495359141",
+            "1541533896326512781",
+            "1541537966621589504"
         ],
         "products": [
+            {
+                "sku_id": "1541537966621589504",
+                "name": "Angry Bundle",
+                "summary": "{joinedItems}",
+                "styles": {
+                    "background_colors": [
+                        14778601,
+                        2034564
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 1099,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 7600,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 899,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 7600,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "preview_assets": {
+                    "fg_static": "https://cdn.discordapp.com/media/v1/collectibles-shop/bundle-fg-static/1541537966621589504",
+                    "bg_static": "https://cdn.discordapp.com/media/v1/collectibles-shop/bundle-bg-static/1541537966621589504"
+                },
+                "items": [
+                    {
+                        "type": 0,
+                        "sku_id": "1144308439720394944",
+                        "asset": "a_3c97a2d37f433a7913a1c7b7a735d000",
+                        "label": "Anger Symbol with Exclamation Mark Speech Bubble, Anime-Style, Red, Animated"
+                    },
+                    {
+                        "type": 2,
+                        "sku_id": "1541533896326512781",
+                        "asset": "nameplates/angry/1541533896326512781/",
+                        "label": "Anger Symbol with Exclamation Mark Speech Bubble, Anime-Style, Red, Animated",
+                        "palette": "crimson"
+                    }
+                ],
+                "type": 1000,
+                "premium_type": 0,
+                "category_sku_id": "1341506445249609728",
+                "bundled_products": [
+                    {
+                        "sku_id": "1144308439720394944",
+                        "name": "Angry",
+                        "summary": "Give your avatar a new look.",
+                        "type": 0,
+                        "premium_type": 0,
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 599,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 499,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "sku_id": "1541533896326512781",
+                        "name": "Angry",
+                        "summary": "Make your name stand out in servers and chats.",
+                        "type": 2,
+                        "premium_type": 0,
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 599,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 499,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ],
+                "google_sku_ids": {
+                    "5": "1541537966621589504_1541541669445443634",
+                    "7": "1541537966621589504_1541541674906419300"
+                },
+                "badge_override": "New",
+                "is_first_party": true
+            },
             {
                 "sku_id": "1341506444071010304",
                 "name": "Magical Girl Bundle",
@@ -48272,339 +48526,6 @@
                 "is_first_party": true
             },
             {
-                "sku_id": "1341506444272336896",
-                "name": "Wishful Beginnings",
-                "summary": "Show this effect when others view your profile.",
-                "styles": {
-                    "background_colors": [
-                        14778601,
-                        2034564
-                    ],
-                    "button_colors": [
-                        5793266,
-                        5793266
-                    ],
-                    "confetti_colors": [
-                        43772,
-                        15774258,
-                        16414587,
-                        3000177,
-                        9739511
-                    ]
-                },
-                "prices": {
-                    "0": {
-                        "country_prices": {
-                            "country_code": "US",
-                            "prices": [
-                                {
-                                    "amount": 599,
-                                    "currency": "usd",
-                                    "exponent": 2
-                                },
-                                {
-                                    "amount": 4100,
-                                    "currency": "discord_orb",
-                                    "exponent": 0
-                                }
-                            ]
-                        }
-                    },
-                    "4": {
-                        "country_prices": {
-                            "country_code": "US",
-                            "prices": [
-                                {
-                                    "amount": 499,
-                                    "currency": "usd",
-                                    "exponent": 2
-                                },
-                                {
-                                    "amount": 4100,
-                                    "currency": "discord_orb",
-                                    "exponent": 0
-                                }
-                            ]
-                        }
-                    }
-                },
-                "preview_assets": null,
-                "items": [
-                    {
-                        "type": 1,
-                        "sku_id": "1341506444272336896",
-                        "title": "Wishful Beginnings",
-                        "description": "Show this effect when others view your profile.",
-                        "accessibilityLabel": "A dazzling shooting star streaks across a peaceful, starry night sky. It then bursts into an awe-inducing firework display of shimmering star fragments.",
-                        "animationType": 2,
-                        "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/content/56c06430f276d2ff10379190a65187b4c2a46d793b79e9e8c697d2e98e93f329",
-                        "reducedMotionSrc": "https://cdn.discordapp.com/assets/content/9bcb611fd3721131852b7c3a76a868d79ba709c762ac864ba28c45b311372229",
-                        "effects": [
-                            {
-                                "src": "https://cdn.discordapp.com/assets/content/96113b6d1649b9cfaf75b2f71999e1f2d9f79cd24864fd1db246b6eaf608e307",
-                                "loop": false,
-                                "height": 880,
-                                "width": 450,
-                                "duration": 5000,
-                                "start": 0,
-                                "loopDelay": 0,
-                                "position": {
-                                    "x": 0,
-                                    "y": 0
-                                },
-                                "zIndex": 100,
-                                "randomizedSources": []
-                            },
-                            {
-                                "src": "https://cdn.discordapp.com/assets/content/b693474b318b2b9d34b0d4e63ea5488c55985d76ec1ee8962ffc812c9384233c",
-                                "loop": true,
-                                "height": 880,
-                                "width": 450,
-                                "duration": 5000,
-                                "start": 6500,
-                                "loopDelay": 3500,
-                                "position": {
-                                    "x": 0,
-                                    "y": 0
-                                },
-                                "zIndex": 101,
-                                "randomizedSources": []
-                            }
-                        ]
-                    }
-                ],
-                "type": 1,
-                "premium_type": 0,
-                "category_sku_id": "1341506445249609728",
-                "google_sku_ids": {
-                    "5": "1341506444272336896_1342263783841595394",
-                    "7": "1341506444272336896_1342263797569818734"
-                },
-                "is_first_party": true
-            },
-            {
-                "sku_id": "1341506444293308416",
-                "name": "Magical Girl Energy",
-                "summary": "Show this effect when others view your profile.",
-                "styles": {
-                    "background_colors": [
-                        14778601,
-                        2034564
-                    ],
-                    "button_colors": [
-                        5793266,
-                        5793266
-                    ],
-                    "confetti_colors": [
-                        43772,
-                        15774258,
-                        16414587,
-                        3000177,
-                        9739511
-                    ]
-                },
-                "prices": {
-                    "0": {
-                        "country_prices": {
-                            "country_code": "US",
-                            "prices": [
-                                {
-                                    "amount": 599,
-                                    "currency": "usd",
-                                    "exponent": 2
-                                },
-                                {
-                                    "amount": 4100,
-                                    "currency": "discord_orb",
-                                    "exponent": 0
-                                }
-                            ]
-                        }
-                    },
-                    "4": {
-                        "country_prices": {
-                            "country_code": "US",
-                            "prices": [
-                                {
-                                    "amount": 499,
-                                    "currency": "usd",
-                                    "exponent": 2
-                                },
-                                {
-                                    "amount": 4100,
-                                    "currency": "discord_orb",
-                                    "exponent": 0
-                                }
-                            ]
-                        }
-                    }
-                },
-                "preview_assets": null,
-                "items": [
-                    {
-                        "type": 1,
-                        "sku_id": "1341506444293308416",
-                        "title": "Magical Girl Energy",
-                        "description": "Show this effect when others view your profile.",
-                        "accessibilityLabel": "A young magical girl appears and playfully dances around, creating a dreamy, purple streak of magical energy and bright stars and sparkles around her with her movements.",
-                        "animationType": 2,
-                        "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/content/540883afcbff841cd1f0fbddc8aa70ff4c3e4dea7229cc8189278736e7a5f1f0",
-                        "reducedMotionSrc": "https://cdn.discordapp.com/assets/content/04fa0d1c89ea84489b788bb1100fc6335f4597c3ab0df9d3075d09abaa6e1127",
-                        "effects": [
-                            {
-                                "src": "https://cdn.discordapp.com/assets/content/53ca87616d252fd7109d2d3d627e4dc0ee4fb3980f5434482ba81f50ec1b0150",
-                                "loop": false,
-                                "height": 880,
-                                "width": 450,
-                                "duration": 5000,
-                                "start": 0,
-                                "loopDelay": 0,
-                                "position": {
-                                    "x": 0,
-                                    "y": 0
-                                },
-                                "zIndex": 100,
-                                "randomizedSources": []
-                            },
-                            {
-                                "src": "https://cdn.discordapp.com/assets/content/8f30cfda4176fcf81ad50d2dc45823ece49a801a6ab634a69740d61504f8dc57",
-                                "loop": true,
-                                "height": 880,
-                                "width": 450,
-                                "duration": 5000,
-                                "start": 5000,
-                                "loopDelay": 2500,
-                                "position": {
-                                    "x": 0,
-                                    "y": 0
-                                },
-                                "zIndex": 101,
-                                "randomizedSources": []
-                            }
-                        ]
-                    }
-                ],
-                "type": 1,
-                "premium_type": 0,
-                "category_sku_id": "1341506445249609728",
-                "google_sku_ids": {
-                    "5": "1341506444293308416_1342266118487670785",
-                    "7": "1341506444293308416_1342266132354039848"
-                },
-                "is_first_party": true
-            },
-            {
-                "sku_id": "1341506444310085632",
-                "name": "Close Combat",
-                "summary": "Show this effect when others view your profile.",
-                "styles": {
-                    "background_colors": [
-                        14778601,
-                        2034564
-                    ],
-                    "button_colors": [
-                        5793266,
-                        5793266
-                    ],
-                    "confetti_colors": [
-                        43772,
-                        15774258,
-                        16414587,
-                        3000177,
-                        9739511
-                    ]
-                },
-                "prices": {
-                    "0": {
-                        "country_prices": {
-                            "country_code": "US",
-                            "prices": [
-                                {
-                                    "amount": 599,
-                                    "currency": "usd",
-                                    "exponent": 2
-                                },
-                                {
-                                    "amount": 4100,
-                                    "currency": "discord_orb",
-                                    "exponent": 0
-                                }
-                            ]
-                        }
-                    },
-                    "4": {
-                        "country_prices": {
-                            "country_code": "US",
-                            "prices": [
-                                {
-                                    "amount": 499,
-                                    "currency": "usd",
-                                    "exponent": 2
-                                },
-                                {
-                                    "amount": 4100,
-                                    "currency": "discord_orb",
-                                    "exponent": 0
-                                }
-                            ]
-                        }
-                    }
-                },
-                "preview_assets": null,
-                "items": [
-                    {
-                        "type": 1,
-                        "sku_id": "1341506444310085632",
-                        "title": "Close Combat",
-                        "description": "Show this effect when others view your profile.",
-                        "accessibilityLabel": "An intense close combat duel unfolds between a nimble woman and alien fighter. They exchange rapid blows mid-air in a whirlwind of motion, their final clash causing a dazzling explosion of energy.",
-                        "animationType": 2,
-                        "thumbnailPreviewSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/f7837892ef84dda4a918aa43c7f6b9adaa6f5f9a26e00e69e7a3214fa647ea28",
-                        "reducedMotionSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/96daac40a58d7ca9e95343e02a03e22804bb70d236ae53b3e16bd691e33bcbd9",
-                        "effects": [
-                            {
-                                "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/48f14d31d1c567e99e0dc7f7b855fc2ba026abaaee19a3bc051ddb1db040f35f",
-                                "loop": false,
-                                "height": 880,
-                                "width": 450,
-                                "duration": 5000,
-                                "start": 0,
-                                "loopDelay": 0,
-                                "position": {
-                                    "x": 0,
-                                    "y": 0
-                                },
-                                "zIndex": 100,
-                                "randomizedSources": []
-                            },
-                            {
-                                "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/01f7921139e8a2849c6e25a94db501269bf916311b89b942438f3fcd0a2fb1d6",
-                                "loop": true,
-                                "height": 880,
-                                "width": 450,
-                                "duration": 5000,
-                                "start": 6000,
-                                "loopDelay": 2500,
-                                "position": {
-                                    "x": 0,
-                                    "y": 0
-                                },
-                                "zIndex": 101,
-                                "randomizedSources": []
-                            }
-                        ]
-                    }
-                ],
-                "type": 1,
-                "premium_type": 0,
-                "category_sku_id": "1341506445249609728",
-                "google_sku_ids": {
-                    "5": "1341506444310085632_1342265864136687807",
-                    "7": "1341506444310085632_1342265876442779751"
-                },
-                "is_first_party": true
-            },
-            {
                 "sku_id": "1144308439720394944",
                 "name": "Angry",
                 "summary": "Give your avatar a new look.",
@@ -49280,6 +49201,381 @@
                 "is_first_party": true
             },
             {
+                "sku_id": "1212570343567261736",
+                "name": "Heartbloom",
+                "summary": "Give your avatar a new look.",
+                "styles": {
+                    "background_colors": [
+                        14778601,
+                        2034564
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "preview_assets": null,
+                "items": [
+                    {
+                        "type": 0,
+                        "sku_id": "1212570343567261736",
+                        "asset": "a_3e1fc3c7ee2e34e8176f4737427e8f4f",
+                        "label": "Hearts and flowers decorate the avatar's frame for a lovely, charming vibe."
+                    }
+                ],
+                "type": 0,
+                "premium_type": 0,
+                "category_sku_id": "1341506445249609728",
+                "google_sku_ids": {
+                    "5": "1212570343567261736_1259921662095396935",
+                    "7": "1212570343567261736_1259921672820101160"
+                },
+                "is_first_party": true
+            },
+            {
+                "sku_id": "1341506443777409024",
+                "name": "Heartbloom (Purple)",
+                "summary": "Give your avatar a new look.",
+                "styles": {
+                    "background_colors": [
+                        14778601,
+                        2034564
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "preview_assets": null,
+                "items": [
+                    {
+                        "type": 0,
+                        "sku_id": "1341506443777409024",
+                        "asset": "a_28455bc12c3d5ad1366b5664b6c0a8f1",
+                        "label": "Hearts and flowers decorate the avatar's frame for a lovely, charming vibe."
+                    }
+                ],
+                "type": 0,
+                "premium_type": 0,
+                "category_sku_id": "1341506445249609728",
+                "google_sku_ids": {
+                    "5": "1341506443777409024_1342263010533576745",
+                    "7": "1341506443777409024_1342263023817195651"
+                },
+                "is_first_party": true
+            },
+            {
+                "sku_id": "1341506443781603328",
+                "name": "Heartbloom (Blue)",
+                "summary": "Give your avatar a new look.",
+                "styles": {
+                    "background_colors": [
+                        14778601,
+                        2034564
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "preview_assets": null,
+                "items": [
+                    {
+                        "type": 0,
+                        "sku_id": "1341506443781603328",
+                        "asset": "a_03a963c521600ab53743ded9192ff7a2",
+                        "label": "Hearts and flowers decorate the avatar's frame for a lovely, charming vibe."
+                    }
+                ],
+                "type": 0,
+                "premium_type": 0,
+                "category_sku_id": "1341506445249609728",
+                "google_sku_ids": {
+                    "5": "1341506443781603328_1342264512367296724",
+                    "7": "1341506443781603328_1342264533850525846"
+                },
+                "is_first_party": true
+            },
+            {
+                "sku_id": "1341506443789991936",
+                "name": "Heartbloom (Yellow)",
+                "summary": "Give your avatar a new look.",
+                "styles": {
+                    "background_colors": [
+                        14778601,
+                        2034564
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "preview_assets": null,
+                "items": [
+                    {
+                        "type": 0,
+                        "sku_id": "1341506443789991936",
+                        "asset": "a_82f40a8aef9954686361c14f7be8dc7e",
+                        "label": "Hearts and flowers decorate the avatar's frame for a lovely, charming vibe."
+                    }
+                ],
+                "type": 0,
+                "premium_type": 0,
+                "category_sku_id": "1341506445249609728",
+                "google_sku_ids": {
+                    "5": "1341506443789991936_1342263865785712640",
+                    "7": "1341506443789991936_1342263892608548948"
+                },
+                "is_first_party": true
+            },
+            {
+                "sku_id": "1341506443794186240",
+                "name": "Heartbloom (Green)",
+                "summary": "Give your avatar a new look.",
+                "styles": {
+                    "background_colors": [
+                        14778601,
+                        2034564
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "preview_assets": null,
+                "items": [
+                    {
+                        "type": 0,
+                        "sku_id": "1341506443794186240",
+                        "asset": "a_76f0dc77cdedbd10b414524f532b5a39",
+                        "label": "Hearts and flowers decorate the avatar's frame for a lovely, charming vibe."
+                    }
+                ],
+                "type": 0,
+                "premium_type": 0,
+                "category_sku_id": "1341506445249609728",
+                "google_sku_ids": {
+                    "5": "1341506443794186240_1342265513220243529",
+                    "7": "1341506443794186240_1342265526256402533"
+                },
+                "is_first_party": true
+            },
+            {
                 "sku_id": "1144305233707671573",
                 "name": "Soul Leaving Body",
                 "summary": "Give your avatar a new look.",
@@ -49426,6 +49722,381 @@
                 "google_sku_ids": {
                     "5": "1341506443685134336_1342266610467082310",
                     "7": "1341506443685134336_1342266623721078837"
+                },
+                "is_first_party": true
+            },
+            {
+                "sku_id": "1212581147675205652",
+                "name": "Rage",
+                "summary": "Give your avatar a new look.",
+                "styles": {
+                    "background_colors": [
+                        14778601,
+                        2034564
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "preview_assets": null,
+                "items": [
+                    {
+                        "type": 0,
+                        "sku_id": "1212581147675205652",
+                        "asset": "a_a0db4314b8cc271c8f472357aa895005",
+                        "label": "The avatar emits an exclamation mark, conveying an expression of rage."
+                    }
+                ],
+                "type": 0,
+                "premium_type": 0,
+                "category_sku_id": "1341506445249609728",
+                "google_sku_ids": {
+                    "5": "1212581147675205652_1259921725399896094",
+                    "7": "1212581147675205652_1259921735482998887"
+                },
+                "is_first_party": true
+            },
+            {
+                "sku_id": "1341506443894849536",
+                "name": "Rage (Green)",
+                "summary": "Give your avatar a new look.",
+                "styles": {
+                    "background_colors": [
+                        14778601,
+                        2034564
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "preview_assets": null,
+                "items": [
+                    {
+                        "type": 0,
+                        "sku_id": "1341506443894849536",
+                        "asset": "a_10bc8f6254f42a31f4ca4d050642276f",
+                        "label": "The avatar emits an exclamation mark, conveying an expression of rage."
+                    }
+                ],
+                "type": 0,
+                "premium_type": 0,
+                "category_sku_id": "1341506445249609728",
+                "google_sku_ids": {
+                    "5": "1341506443894849536_1342266561376948255",
+                    "7": "1341506443894849536_1342266575511617616"
+                },
+                "is_first_party": true
+            },
+            {
+                "sku_id": "1341506443899043840",
+                "name": "Rage (Blue)",
+                "summary": "Give your avatar a new look.",
+                "styles": {
+                    "background_colors": [
+                        14778601,
+                        2034564
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "preview_assets": null,
+                "items": [
+                    {
+                        "type": 0,
+                        "sku_id": "1341506443899043840",
+                        "asset": "a_c6af9ac54288679a367cf31fa8c9dc85",
+                        "label": "The avatar emits an exclamation mark, conveying an expression of rage."
+                    }
+                ],
+                "type": 0,
+                "premium_type": 0,
+                "category_sku_id": "1341506445249609728",
+                "google_sku_ids": {
+                    "5": "1341506443899043840_1342264703480500324",
+                    "7": "1341506443899043840_1342264716164071527"
+                },
+                "is_first_party": true
+            },
+            {
+                "sku_id": "1341506443903238144",
+                "name": "Rage (Purple)",
+                "summary": "Give your avatar a new look.",
+                "styles": {
+                    "background_colors": [
+                        14778601,
+                        2034564
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "preview_assets": null,
+                "items": [
+                    {
+                        "type": 0,
+                        "sku_id": "1341506443903238144",
+                        "asset": "a_8171acd15128572f5a57cdb843129db7",
+                        "label": "The avatar emits an exclamation mark, conveying an expression of rage."
+                    }
+                ],
+                "type": 0,
+                "premium_type": 0,
+                "category_sku_id": "1341506445249609728",
+                "google_sku_ids": {
+                    "5": "1341506443903238144_1342265563103100968",
+                    "7": "1341506443903238144_1342265589527220234"
+                },
+                "is_first_party": true
+            },
+            {
+                "sku_id": "1341506443911626752",
+                "name": "Rage (Red)",
+                "summary": "Give your avatar a new look.",
+                "styles": {
+                    "background_colors": [
+                        14778601,
+                        2034564
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "preview_assets": null,
+                "items": [
+                    {
+                        "type": 0,
+                        "sku_id": "1341506443911626752",
+                        "asset": "a_e1b081af92aceb5c01bf3e0be12a06cf",
+                        "label": "The avatar emits an exclamation mark, conveying an expression of rage."
+                    }
+                ],
+                "type": 0,
+                "premium_type": 0,
+                "category_sku_id": "1341506445249609728",
+                "google_sku_ids": {
+                    "5": "1341506443911626752_1342263258085588993",
+                    "7": "1341506443911626752_1342263281682747416"
                 },
                 "is_first_party": true
             },
@@ -50480,8 +51151,8 @@
                 "is_first_party": true
             },
             {
-                "sku_id": "1212570343567261736",
-                "name": "Heartbloom",
+                "sku_id": "1212581390936178768",
+                "name": "In Tears",
                 "summary": "Give your avatar a new look.",
                 "styles": {
                     "background_colors": [
@@ -50540,23 +51211,23 @@
                 "items": [
                     {
                         "type": 0,
-                        "sku_id": "1212570343567261736",
-                        "asset": "a_3e1fc3c7ee2e34e8176f4737427e8f4f",
-                        "label": "Hearts and flowers decorate the avatar's frame for a lovely, charming vibe."
+                        "sku_id": "1212581390936178768",
+                        "asset": "a_4cc97277177b166fd7d4af3bdb370815",
+                        "label": "A sobbing avatar lets loose a cascade of tears."
                     }
                 ],
                 "type": 0,
                 "premium_type": 0,
                 "category_sku_id": "1341506445249609728",
                 "google_sku_ids": {
-                    "5": "1212570343567261736_1259921662095396935",
-                    "7": "1212570343567261736_1259921672820101160"
+                    "5": "1212581390936178768_1259921748703580230",
+                    "7": "1212581390936178768_1259921758732030114"
                 },
                 "is_first_party": true
             },
             {
-                "sku_id": "1341506443777409024",
-                "name": "Heartbloom (Purple)",
+                "sku_id": "1341506443836129280",
+                "name": "In Tears (Purple)",
                 "summary": "Give your avatar a new look.",
                 "styles": {
                     "background_colors": [
@@ -50615,23 +51286,23 @@
                 "items": [
                     {
                         "type": 0,
-                        "sku_id": "1341506443777409024",
-                        "asset": "a_28455bc12c3d5ad1366b5664b6c0a8f1",
-                        "label": "Hearts and flowers decorate the avatar's frame for a lovely, charming vibe."
+                        "sku_id": "1341506443836129280",
+                        "asset": "a_c0fa0747897f881f86a58a491a898121",
+                        "label": "Your avatar bursts into tears, shedding large bubbly teardrops."
                     }
                 ],
                 "type": 0,
                 "premium_type": 0,
                 "category_sku_id": "1341506445249609728",
                 "google_sku_ids": {
-                    "5": "1341506443777409024_1342263010533576745",
-                    "7": "1341506443777409024_1342263023817195651"
+                    "5": "1341506443836129280_1342266219398692895",
+                    "7": "1341506443836129280_1342266232757293086"
                 },
                 "is_first_party": true
             },
             {
-                "sku_id": "1341506443781603328",
-                "name": "Heartbloom (Blue)",
+                "sku_id": "1341506443840323584",
+                "name": "In Tears (Pink)",
                 "summary": "Give your avatar a new look.",
                 "styles": {
                     "background_colors": [
@@ -50690,23 +51361,23 @@
                 "items": [
                     {
                         "type": 0,
-                        "sku_id": "1341506443781603328",
-                        "asset": "a_03a963c521600ab53743ded9192ff7a2",
-                        "label": "Hearts and flowers decorate the avatar's frame for a lovely, charming vibe."
+                        "sku_id": "1341506443840323584",
+                        "asset": "a_b3cfc814d50a94cb00bc51a22a053700",
+                        "label": "Your avatar bursts into tears, shedding large bubbly teardrops."
                     }
                 ],
                 "type": 0,
                 "premium_type": 0,
                 "category_sku_id": "1341506445249609728",
                 "google_sku_ids": {
-                    "5": "1341506443781603328_1342264512367296724",
-                    "7": "1341506443781603328_1342264533850525846"
+                    "5": "1341506443840323584_1342266594302099456",
+                    "7": "1341506443840323584_1342266606885011537"
                 },
                 "is_first_party": true
             },
             {
-                "sku_id": "1341506443789991936",
-                "name": "Heartbloom (Yellow)",
+                "sku_id": "1341506443844517889",
+                "name": "In Tears (Yellow)",
                 "summary": "Give your avatar a new look.",
                 "styles": {
                     "background_colors": [
@@ -50765,23 +51436,23 @@
                 "items": [
                     {
                         "type": 0,
-                        "sku_id": "1341506443789991936",
-                        "asset": "a_82f40a8aef9954686361c14f7be8dc7e",
-                        "label": "Hearts and flowers decorate the avatar's frame for a lovely, charming vibe."
+                        "sku_id": "1341506443844517889",
+                        "asset": "a_18b5f947a8b9aadc81fc1c53a6b4623d",
+                        "label": "Your avatar bursts into tears, shedding large bubbly teardrops."
                     }
                 ],
                 "type": 0,
                 "premium_type": 0,
                 "category_sku_id": "1341506445249609728",
                 "google_sku_ids": {
-                    "5": "1341506443789991936_1342263865785712640",
-                    "7": "1341506443789991936_1342263892608548948"
+                    "5": "1341506443844517889_1342263847087509544",
+                    "7": "1341506443844517889_1342263860434042890"
                 },
                 "is_first_party": true
             },
             {
-                "sku_id": "1341506443794186240",
-                "name": "Heartbloom (Green)",
+                "sku_id": "1341506443852906496",
+                "name": "In Tears (Green)",
                 "summary": "Give your avatar a new look.",
                 "styles": {
                     "background_colors": [
@@ -50840,17 +51511,17 @@
                 "items": [
                     {
                         "type": 0,
-                        "sku_id": "1341506443794186240",
-                        "asset": "a_76f0dc77cdedbd10b414524f532b5a39",
-                        "label": "Hearts and flowers decorate the avatar's frame for a lovely, charming vibe."
+                        "sku_id": "1341506443852906496",
+                        "asset": "a_16376210bab027cb709ccd76a40c63ef",
+                        "label": "Your avatar bursts into tears, shedding large bubbly teardrops."
                     }
                 ],
                 "type": 0,
                 "premium_type": 0,
                 "category_sku_id": "1341506445249609728",
                 "google_sku_ids": {
-                    "5": "1341506443794186240_1342265513220243529",
-                    "7": "1341506443794186240_1342265526256402533"
+                    "5": "1341506443852906496_1342263993095557273",
+                    "7": "1341506443852906496_1342264005573480499"
                 },
                 "is_first_party": true
             },
@@ -51230,381 +51901,6 @@
                 "is_first_party": true
             },
             {
-                "sku_id": "1212581390936178768",
-                "name": "In Tears",
-                "summary": "Give your avatar a new look.",
-                "styles": {
-                    "background_colors": [
-                        14778601,
-                        2034564
-                    ],
-                    "button_colors": [
-                        5793266,
-                        5793266
-                    ],
-                    "confetti_colors": [
-                        43772,
-                        15774258,
-                        16414587,
-                        3000177,
-                        9739511
-                    ]
-                },
-                "prices": {
-                    "0": {
-                        "country_prices": {
-                            "country_code": "US",
-                            "prices": [
-                                {
-                                    "amount": 599,
-                                    "currency": "usd",
-                                    "exponent": 2
-                                },
-                                {
-                                    "amount": 4100,
-                                    "currency": "discord_orb",
-                                    "exponent": 0
-                                }
-                            ]
-                        }
-                    },
-                    "4": {
-                        "country_prices": {
-                            "country_code": "US",
-                            "prices": [
-                                {
-                                    "amount": 499,
-                                    "currency": "usd",
-                                    "exponent": 2
-                                },
-                                {
-                                    "amount": 4100,
-                                    "currency": "discord_orb",
-                                    "exponent": 0
-                                }
-                            ]
-                        }
-                    }
-                },
-                "preview_assets": null,
-                "items": [
-                    {
-                        "type": 0,
-                        "sku_id": "1212581390936178768",
-                        "asset": "a_4cc97277177b166fd7d4af3bdb370815",
-                        "label": "A sobbing avatar lets loose a cascade of tears."
-                    }
-                ],
-                "type": 0,
-                "premium_type": 0,
-                "category_sku_id": "1341506445249609728",
-                "google_sku_ids": {
-                    "5": "1212581390936178768_1259921748703580230",
-                    "7": "1212581390936178768_1259921758732030114"
-                },
-                "is_first_party": true
-            },
-            {
-                "sku_id": "1341506443836129280",
-                "name": "In Tears (Purple)",
-                "summary": "Give your avatar a new look.",
-                "styles": {
-                    "background_colors": [
-                        14778601,
-                        2034564
-                    ],
-                    "button_colors": [
-                        5793266,
-                        5793266
-                    ],
-                    "confetti_colors": [
-                        43772,
-                        15774258,
-                        16414587,
-                        3000177,
-                        9739511
-                    ]
-                },
-                "prices": {
-                    "0": {
-                        "country_prices": {
-                            "country_code": "US",
-                            "prices": [
-                                {
-                                    "amount": 599,
-                                    "currency": "usd",
-                                    "exponent": 2
-                                },
-                                {
-                                    "amount": 4100,
-                                    "currency": "discord_orb",
-                                    "exponent": 0
-                                }
-                            ]
-                        }
-                    },
-                    "4": {
-                        "country_prices": {
-                            "country_code": "US",
-                            "prices": [
-                                {
-                                    "amount": 499,
-                                    "currency": "usd",
-                                    "exponent": 2
-                                },
-                                {
-                                    "amount": 4100,
-                                    "currency": "discord_orb",
-                                    "exponent": 0
-                                }
-                            ]
-                        }
-                    }
-                },
-                "preview_assets": null,
-                "items": [
-                    {
-                        "type": 0,
-                        "sku_id": "1341506443836129280",
-                        "asset": "a_c0fa0747897f881f86a58a491a898121",
-                        "label": "Your avatar bursts into tears, shedding large bubbly teardrops."
-                    }
-                ],
-                "type": 0,
-                "premium_type": 0,
-                "category_sku_id": "1341506445249609728",
-                "google_sku_ids": {
-                    "5": "1341506443836129280_1342266219398692895",
-                    "7": "1341506443836129280_1342266232757293086"
-                },
-                "is_first_party": true
-            },
-            {
-                "sku_id": "1341506443840323584",
-                "name": "In Tears (Pink)",
-                "summary": "Give your avatar a new look.",
-                "styles": {
-                    "background_colors": [
-                        14778601,
-                        2034564
-                    ],
-                    "button_colors": [
-                        5793266,
-                        5793266
-                    ],
-                    "confetti_colors": [
-                        43772,
-                        15774258,
-                        16414587,
-                        3000177,
-                        9739511
-                    ]
-                },
-                "prices": {
-                    "0": {
-                        "country_prices": {
-                            "country_code": "US",
-                            "prices": [
-                                {
-                                    "amount": 599,
-                                    "currency": "usd",
-                                    "exponent": 2
-                                },
-                                {
-                                    "amount": 4100,
-                                    "currency": "discord_orb",
-                                    "exponent": 0
-                                }
-                            ]
-                        }
-                    },
-                    "4": {
-                        "country_prices": {
-                            "country_code": "US",
-                            "prices": [
-                                {
-                                    "amount": 499,
-                                    "currency": "usd",
-                                    "exponent": 2
-                                },
-                                {
-                                    "amount": 4100,
-                                    "currency": "discord_orb",
-                                    "exponent": 0
-                                }
-                            ]
-                        }
-                    }
-                },
-                "preview_assets": null,
-                "items": [
-                    {
-                        "type": 0,
-                        "sku_id": "1341506443840323584",
-                        "asset": "a_b3cfc814d50a94cb00bc51a22a053700",
-                        "label": "Your avatar bursts into tears, shedding large bubbly teardrops."
-                    }
-                ],
-                "type": 0,
-                "premium_type": 0,
-                "category_sku_id": "1341506445249609728",
-                "google_sku_ids": {
-                    "5": "1341506443840323584_1342266594302099456",
-                    "7": "1341506443840323584_1342266606885011537"
-                },
-                "is_first_party": true
-            },
-            {
-                "sku_id": "1341506443844517889",
-                "name": "In Tears (Yellow)",
-                "summary": "Give your avatar a new look.",
-                "styles": {
-                    "background_colors": [
-                        14778601,
-                        2034564
-                    ],
-                    "button_colors": [
-                        5793266,
-                        5793266
-                    ],
-                    "confetti_colors": [
-                        43772,
-                        15774258,
-                        16414587,
-                        3000177,
-                        9739511
-                    ]
-                },
-                "prices": {
-                    "0": {
-                        "country_prices": {
-                            "country_code": "US",
-                            "prices": [
-                                {
-                                    "amount": 599,
-                                    "currency": "usd",
-                                    "exponent": 2
-                                },
-                                {
-                                    "amount": 4100,
-                                    "currency": "discord_orb",
-                                    "exponent": 0
-                                }
-                            ]
-                        }
-                    },
-                    "4": {
-                        "country_prices": {
-                            "country_code": "US",
-                            "prices": [
-                                {
-                                    "amount": 499,
-                                    "currency": "usd",
-                                    "exponent": 2
-                                },
-                                {
-                                    "amount": 4100,
-                                    "currency": "discord_orb",
-                                    "exponent": 0
-                                }
-                            ]
-                        }
-                    }
-                },
-                "preview_assets": null,
-                "items": [
-                    {
-                        "type": 0,
-                        "sku_id": "1341506443844517889",
-                        "asset": "a_18b5f947a8b9aadc81fc1c53a6b4623d",
-                        "label": "Your avatar bursts into tears, shedding large bubbly teardrops."
-                    }
-                ],
-                "type": 0,
-                "premium_type": 0,
-                "category_sku_id": "1341506445249609728",
-                "google_sku_ids": {
-                    "5": "1341506443844517889_1342263847087509544",
-                    "7": "1341506443844517889_1342263860434042890"
-                },
-                "is_first_party": true
-            },
-            {
-                "sku_id": "1341506443852906496",
-                "name": "In Tears (Green)",
-                "summary": "Give your avatar a new look.",
-                "styles": {
-                    "background_colors": [
-                        14778601,
-                        2034564
-                    ],
-                    "button_colors": [
-                        5793266,
-                        5793266
-                    ],
-                    "confetti_colors": [
-                        43772,
-                        15774258,
-                        16414587,
-                        3000177,
-                        9739511
-                    ]
-                },
-                "prices": {
-                    "0": {
-                        "country_prices": {
-                            "country_code": "US",
-                            "prices": [
-                                {
-                                    "amount": 599,
-                                    "currency": "usd",
-                                    "exponent": 2
-                                },
-                                {
-                                    "amount": 4100,
-                                    "currency": "discord_orb",
-                                    "exponent": 0
-                                }
-                            ]
-                        }
-                    },
-                    "4": {
-                        "country_prices": {
-                            "country_code": "US",
-                            "prices": [
-                                {
-                                    "amount": 499,
-                                    "currency": "usd",
-                                    "exponent": 2
-                                },
-                                {
-                                    "amount": 4100,
-                                    "currency": "discord_orb",
-                                    "exponent": 0
-                                }
-                            ]
-                        }
-                    }
-                },
-                "preview_assets": null,
-                "items": [
-                    {
-                        "type": 0,
-                        "sku_id": "1341506443852906496",
-                        "asset": "a_16376210bab027cb709ccd76a40c63ef",
-                        "label": "Your avatar bursts into tears, shedding large bubbly teardrops."
-                    }
-                ],
-                "type": 0,
-                "premium_type": 0,
-                "category_sku_id": "1341506445249609728",
-                "google_sku_ids": {
-                    "5": "1341506443852906496_1342263993095557273",
-                    "7": "1341506443852906496_1342264005573480499"
-                },
-                "is_first_party": true
-            },
-            {
                 "sku_id": "1212569433839636530",
                 "name": "Cat Ears",
                 "summary": "Give your avatar a new look.",
@@ -51980,9 +52276,9 @@
                 "is_first_party": true
             },
             {
-                "sku_id": "1212581147675205652",
-                "name": "Rage",
-                "summary": "Give your avatar a new look.",
+                "sku_id": "1541533896326512781",
+                "name": "Angry",
+                "summary": "Make your name stand out in servers and chats.",
                 "styles": {
                     "background_colors": [
                         14778601,
@@ -52039,25 +52335,138 @@
                 "preview_assets": null,
                 "items": [
                     {
-                        "type": 0,
-                        "sku_id": "1212581147675205652",
-                        "asset": "a_a0db4314b8cc271c8f472357aa895005",
-                        "label": "The avatar emits an exclamation mark, conveying an expression of rage."
+                        "type": 2,
+                        "sku_id": "1541533896326512781",
+                        "asset": "nameplates/angry/1541533896326512781/",
+                        "label": "Anger Symbol with Exclamation Mark Speech Bubble, Anime-Style, Red, Animated",
+                        "palette": "crimson"
                     }
                 ],
-                "type": 0,
+                "type": 2,
                 "premium_type": 0,
                 "category_sku_id": "1341506445249609728",
                 "google_sku_ids": {
-                    "5": "1212581147675205652_1259921725399896094",
-                    "7": "1212581147675205652_1259921735482998887"
+                    "5": "1541533896326512781_1541535294874976338",
+                    "7": "1541533896326512781_1541535300315127908"
+                },
+                "badge_override": "New",
+                "is_first_party": true
+            },
+            {
+                "sku_id": "1139323100568244355",
+                "name": "Magic Hearts",
+                "summary": "Show this effect when others view your profile.",
+                "styles": {
+                    "background_colors": [
+                        14778601,
+                        2034564
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "preview_assets": null,
+                "items": [
+                    {
+                        "type": 1,
+                        "sku_id": "1139323100568244355",
+                        "title": "Magic Hearts",
+                        "description": "Show this effect when others view your profile.",
+                        "accessibilityLabel": "Hearts are beating and shimmering upon the profile, binding you under its charm.",
+                        "animationType": 2,
+                        "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/content/21f6a1bd12d3f80fc379f4426ec1f64c8c85cfdf8af118cf4393dedcc9a8bea3",
+                        "reducedMotionSrc": "https://cdn.discordapp.com/assets/content/9f22975e6fc17b00756a6139c16e72f365765320fba425e64a200f71b3cd062f",
+                        "effects": [
+                            {
+                                "src": "https://cdn.discordapp.com/assets/content/a38447d7d6931f50944f1f5acdca34f20bf086e6da4362f59aac27e38fedbd21",
+                                "loop": false,
+                                "height": 880,
+                                "width": 450,
+                                "duration": 2880,
+                                "start": 0,
+                                "loopDelay": 0,
+                                "position": {
+                                    "x": 0,
+                                    "y": 0
+                                },
+                                "zIndex": 100,
+                                "randomizedSources": []
+                            },
+                            {
+                                "src": "https://cdn.discordapp.com/assets/content/6f7444d87e28d7ce011398eee37f637c597d1cf1bad2e90580dbad8b6eba3ca4",
+                                "loop": true,
+                                "height": 880,
+                                "width": 450,
+                                "duration": 2880,
+                                "start": 5760,
+                                "loopDelay": 5760,
+                                "position": {
+                                    "x": 0,
+                                    "y": 0
+                                },
+                                "zIndex": 101,
+                                "randomizedSources": []
+                            }
+                        ]
+                    }
+                ],
+                "type": 1,
+                "premium_type": 0,
+                "category_sku_id": "1341506445249609728",
+                "google_sku_ids": {
+                    "5": "1139323100568244355_1259921984213618750",
+                    "7": "1139323100568244355_1259921994359636018"
                 },
                 "is_first_party": true
             },
             {
-                "sku_id": "1341506443894849536",
-                "name": "Rage (Green)",
-                "summary": "Give your avatar a new look.",
+                "sku_id": "1341895113089220722",
+                "name": "Magic Hearts (Blue)",
+                "summary": "Show this effect when others view your profile.",
                 "styles": {
                     "background_colors": [
                         14778601,
@@ -52114,25 +52523,61 @@
                 "preview_assets": null,
                 "items": [
                     {
-                        "type": 0,
-                        "sku_id": "1341506443894849536",
-                        "asset": "a_10bc8f6254f42a31f4ca4d050642276f",
-                        "label": "The avatar emits an exclamation mark, conveying an expression of rage."
+                        "type": 1,
+                        "sku_id": "1341895113089220722",
+                        "title": "Magic Hearts (Blue)",
+                        "description": "Show this effect when others view your profile.",
+                        "accessibilityLabel": "Hearts are beating and shimmering upon the profile, binding you under its charm.",
+                        "animationType": 2,
+                        "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/content/27015246e95db948f2ad860c10bacdd5aecaa7fd67b554ddfad937ddb5d161b2",
+                        "reducedMotionSrc": "https://cdn.discordapp.com/assets/content/7dcc6cd5450e1bc033ae5a77387f959da2ec581bf939a0f002658d8adca69ed5",
+                        "effects": [
+                            {
+                                "src": "https://cdn.discordapp.com/assets/content/58e61b8d5306a31b217a22486405a9f63c91774869a9fa771dbd523f60c1c31d",
+                                "loop": false,
+                                "height": 880,
+                                "width": 450,
+                                "duration": 2880,
+                                "start": 0,
+                                "loopDelay": 0,
+                                "position": {
+                                    "x": 0,
+                                    "y": 0
+                                },
+                                "zIndex": 100,
+                                "randomizedSources": []
+                            },
+                            {
+                                "src": "https://cdn.discordapp.com/assets/content/8b756deca4bb1a574426f646828cb17ff15e02f103bb83f43a327f722d511adc",
+                                "loop": true,
+                                "height": 880,
+                                "width": 450,
+                                "duration": 2880,
+                                "start": 5760,
+                                "loopDelay": 5760,
+                                "position": {
+                                    "x": 0,
+                                    "y": 0
+                                },
+                                "zIndex": 101,
+                                "randomizedSources": []
+                            }
+                        ]
                     }
                 ],
-                "type": 0,
+                "type": 1,
                 "premium_type": 0,
                 "category_sku_id": "1341506445249609728",
                 "google_sku_ids": {
-                    "5": "1341506443894849536_1342266561376948255",
-                    "7": "1341506443894849536_1342266575511617616"
+                    "5": "1341895113089220722_1342264929176256716",
+                    "7": "1341895113089220722_1342264942476132446"
                 },
                 "is_first_party": true
             },
             {
-                "sku_id": "1341506443899043840",
-                "name": "Rage (Blue)",
-                "summary": "Give your avatar a new look.",
+                "sku_id": "1341895142495359141",
+                "name": "Magic Hearts (Gold)",
+                "summary": "Show this effect when others view your profile.",
                 "styles": {
                     "background_colors": [
                         14778601,
@@ -52189,25 +52634,61 @@
                 "preview_assets": null,
                 "items": [
                     {
-                        "type": 0,
-                        "sku_id": "1341506443899043840",
-                        "asset": "a_c6af9ac54288679a367cf31fa8c9dc85",
-                        "label": "The avatar emits an exclamation mark, conveying an expression of rage."
+                        "type": 1,
+                        "sku_id": "1341895142495359141",
+                        "title": "Magic Hearts (Gold)",
+                        "description": "Show this effect when others view your profile.",
+                        "accessibilityLabel": "Hearts are beating and shimmering upon the profile, binding you under its charm.",
+                        "animationType": 2,
+                        "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/content/eef7c17a2db8f5947a53a8a878e1910f68957e783350111d29df71bbc5385478",
+                        "reducedMotionSrc": "https://cdn.discordapp.com/assets/content/5c2a78d0ab0de18dffbe0c2e6743382ad9ccd986a1055ee33819095e4ae3b95c",
+                        "effects": [
+                            {
+                                "src": "https://cdn.discordapp.com/assets/content/bc70a7ae9d5c79cc90e79ab3895f6212988f898510916b61fa086cbc9474b30c",
+                                "loop": false,
+                                "height": 880,
+                                "width": 450,
+                                "duration": 2880,
+                                "start": 0,
+                                "loopDelay": 0,
+                                "position": {
+                                    "x": 0,
+                                    "y": 0
+                                },
+                                "zIndex": 100,
+                                "randomizedSources": []
+                            },
+                            {
+                                "src": "https://cdn.discordapp.com/assets/content/2ecd952da0b1c005598256181a36c470b6ad44afb9d0ba43b1e2d65b04e036f0",
+                                "loop": true,
+                                "height": 880,
+                                "width": 450,
+                                "duration": 2880,
+                                "start": 5760,
+                                "loopDelay": 5760,
+                                "position": {
+                                    "x": 0,
+                                    "y": 0
+                                },
+                                "zIndex": 101,
+                                "randomizedSources": []
+                            }
+                        ]
                     }
                 ],
-                "type": 0,
+                "type": 1,
                 "premium_type": 0,
                 "category_sku_id": "1341506445249609728",
                 "google_sku_ids": {
-                    "5": "1341506443899043840_1342264703480500324",
-                    "7": "1341506443899043840_1342264716164071527"
+                    "5": "1341895142495359141_1342266050112262316",
+                    "7": "1341895142495359141_1342266063936553042"
                 },
                 "is_first_party": true
             },
             {
-                "sku_id": "1341506443903238144",
-                "name": "Rage (Purple)",
-                "summary": "Give your avatar a new look.",
+                "sku_id": "1341506444272336896",
+                "name": "Wishful Beginnings",
+                "summary": "Show this effect when others view your profile.",
                 "styles": {
                     "background_colors": [
                         14778601,
@@ -52264,25 +52745,61 @@
                 "preview_assets": null,
                 "items": [
                     {
-                        "type": 0,
-                        "sku_id": "1341506443903238144",
-                        "asset": "a_8171acd15128572f5a57cdb843129db7",
-                        "label": "The avatar emits an exclamation mark, conveying an expression of rage."
+                        "type": 1,
+                        "sku_id": "1341506444272336896",
+                        "title": "Wishful Beginnings",
+                        "description": "Show this effect when others view your profile.",
+                        "accessibilityLabel": "A dazzling shooting star streaks across a peaceful, starry night sky. It then bursts into an awe-inducing firework display of shimmering star fragments.",
+                        "animationType": 2,
+                        "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/content/56c06430f276d2ff10379190a65187b4c2a46d793b79e9e8c697d2e98e93f329",
+                        "reducedMotionSrc": "https://cdn.discordapp.com/assets/content/9bcb611fd3721131852b7c3a76a868d79ba709c762ac864ba28c45b311372229",
+                        "effects": [
+                            {
+                                "src": "https://cdn.discordapp.com/assets/content/96113b6d1649b9cfaf75b2f71999e1f2d9f79cd24864fd1db246b6eaf608e307",
+                                "loop": false,
+                                "height": 880,
+                                "width": 450,
+                                "duration": 5000,
+                                "start": 0,
+                                "loopDelay": 0,
+                                "position": {
+                                    "x": 0,
+                                    "y": 0
+                                },
+                                "zIndex": 100,
+                                "randomizedSources": []
+                            },
+                            {
+                                "src": "https://cdn.discordapp.com/assets/content/b693474b318b2b9d34b0d4e63ea5488c55985d76ec1ee8962ffc812c9384233c",
+                                "loop": true,
+                                "height": 880,
+                                "width": 450,
+                                "duration": 5000,
+                                "start": 6500,
+                                "loopDelay": 3500,
+                                "position": {
+                                    "x": 0,
+                                    "y": 0
+                                },
+                                "zIndex": 101,
+                                "randomizedSources": []
+                            }
+                        ]
                     }
                 ],
-                "type": 0,
+                "type": 1,
                 "premium_type": 0,
                 "category_sku_id": "1341506445249609728",
                 "google_sku_ids": {
-                    "5": "1341506443903238144_1342265563103100968",
-                    "7": "1341506443903238144_1342265589527220234"
+                    "5": "1341506444272336896_1342263783841595394",
+                    "7": "1341506444272336896_1342263797569818734"
                 },
                 "is_first_party": true
             },
             {
-                "sku_id": "1341506443911626752",
-                "name": "Rage (Red)",
-                "summary": "Give your avatar a new look.",
+                "sku_id": "1341506444293308416",
+                "name": "Magical Girl Energy",
+                "summary": "Show this effect when others view your profile.",
                 "styles": {
                     "background_colors": [
                         14778601,
@@ -52339,18 +52856,54 @@
                 "preview_assets": null,
                 "items": [
                     {
-                        "type": 0,
-                        "sku_id": "1341506443911626752",
-                        "asset": "a_e1b081af92aceb5c01bf3e0be12a06cf",
-                        "label": "The avatar emits an exclamation mark, conveying an expression of rage."
+                        "type": 1,
+                        "sku_id": "1341506444293308416",
+                        "title": "Magical Girl Energy",
+                        "description": "Show this effect when others view your profile.",
+                        "accessibilityLabel": "A young magical girl appears and playfully dances around, creating a dreamy, purple streak of magical energy and bright stars and sparkles around her with her movements.",
+                        "animationType": 2,
+                        "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/content/540883afcbff841cd1f0fbddc8aa70ff4c3e4dea7229cc8189278736e7a5f1f0",
+                        "reducedMotionSrc": "https://cdn.discordapp.com/assets/content/04fa0d1c89ea84489b788bb1100fc6335f4597c3ab0df9d3075d09abaa6e1127",
+                        "effects": [
+                            {
+                                "src": "https://cdn.discordapp.com/assets/content/53ca87616d252fd7109d2d3d627e4dc0ee4fb3980f5434482ba81f50ec1b0150",
+                                "loop": false,
+                                "height": 880,
+                                "width": 450,
+                                "duration": 5000,
+                                "start": 0,
+                                "loopDelay": 0,
+                                "position": {
+                                    "x": 0,
+                                    "y": 0
+                                },
+                                "zIndex": 100,
+                                "randomizedSources": []
+                            },
+                            {
+                                "src": "https://cdn.discordapp.com/assets/content/8f30cfda4176fcf81ad50d2dc45823ece49a801a6ab634a69740d61504f8dc57",
+                                "loop": true,
+                                "height": 880,
+                                "width": 450,
+                                "duration": 5000,
+                                "start": 5000,
+                                "loopDelay": 2500,
+                                "position": {
+                                    "x": 0,
+                                    "y": 0
+                                },
+                                "zIndex": 101,
+                                "randomizedSources": []
+                            }
+                        ]
                     }
                 ],
-                "type": 0,
+                "type": 1,
                 "premium_type": 0,
                 "category_sku_id": "1341506445249609728",
                 "google_sku_ids": {
-                    "5": "1341506443911626752_1342263258085588993",
-                    "7": "1341506443911626752_1342263281682747416"
+                    "5": "1341506444293308416_1342266118487670785",
+                    "7": "1341506444293308416_1342266132354039848"
                 },
                 "is_first_party": true
             },
@@ -53020,6 +53573,117 @@
                 "google_sku_ids": {
                     "5": "1341506443945181184_1342265213373648966",
                     "7": "1341506443945181184_1342265226371923999"
+                },
+                "is_first_party": true
+            },
+            {
+                "sku_id": "1341506444310085632",
+                "name": "Close Combat",
+                "summary": "Show this effect when others view your profile.",
+                "styles": {
+                    "background_colors": [
+                        14778601,
+                        2034564
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "preview_assets": null,
+                "items": [
+                    {
+                        "type": 1,
+                        "sku_id": "1341506444310085632",
+                        "title": "Close Combat",
+                        "description": "Show this effect when others view your profile.",
+                        "accessibilityLabel": "An intense close combat duel unfolds between a nimble woman and alien fighter. They exchange rapid blows mid-air in a whirlwind of motion, their final clash causing a dazzling explosion of energy.",
+                        "animationType": 2,
+                        "thumbnailPreviewSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/f7837892ef84dda4a918aa43c7f6b9adaa6f5f9a26e00e69e7a3214fa647ea28",
+                        "reducedMotionSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/96daac40a58d7ca9e95343e02a03e22804bb70d236ae53b3e16bd691e33bcbd9",
+                        "effects": [
+                            {
+                                "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/48f14d31d1c567e99e0dc7f7b855fc2ba026abaaee19a3bc051ddb1db040f35f",
+                                "loop": false,
+                                "height": 880,
+                                "width": 450,
+                                "duration": 5000,
+                                "start": 0,
+                                "loopDelay": 0,
+                                "position": {
+                                    "x": 0,
+                                    "y": 0
+                                },
+                                "zIndex": 100,
+                                "randomizedSources": []
+                            },
+                            {
+                                "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/01f7921139e8a2849c6e25a94db501269bf916311b89b942438f3fcd0a2fb1d6",
+                                "loop": true,
+                                "height": 880,
+                                "width": 450,
+                                "duration": 5000,
+                                "start": 6000,
+                                "loopDelay": 2500,
+                                "position": {
+                                    "x": 0,
+                                    "y": 0
+                                },
+                                "zIndex": 101,
+                                "randomizedSources": []
+                            }
+                        ]
+                    }
+                ],
+                "type": 1,
+                "premium_type": 0,
+                "category_sku_id": "1341506445249609728",
+                "google_sku_ids": {
+                    "5": "1341506444310085632_1342265864136687807",
+                    "7": "1341506444310085632_1342265876442779751"
                 },
                 "is_first_party": true
             },
@@ -55020,339 +55684,6 @@
                 "google_sku_ids": {
                     "5": "1341506444054233088_1342264773961584753",
                     "7": "1341506444054233088_1342264800297615462"
-                },
-                "is_first_party": true
-            },
-            {
-                "sku_id": "1139323100568244355",
-                "name": "Magic Hearts",
-                "summary": "Show this effect when others view your profile.",
-                "styles": {
-                    "background_colors": [
-                        14778601,
-                        2034564
-                    ],
-                    "button_colors": [
-                        5793266,
-                        5793266
-                    ],
-                    "confetti_colors": [
-                        43772,
-                        15774258,
-                        16414587,
-                        3000177,
-                        9739511
-                    ]
-                },
-                "prices": {
-                    "0": {
-                        "country_prices": {
-                            "country_code": "US",
-                            "prices": [
-                                {
-                                    "amount": 599,
-                                    "currency": "usd",
-                                    "exponent": 2
-                                },
-                                {
-                                    "amount": 4100,
-                                    "currency": "discord_orb",
-                                    "exponent": 0
-                                }
-                            ]
-                        }
-                    },
-                    "4": {
-                        "country_prices": {
-                            "country_code": "US",
-                            "prices": [
-                                {
-                                    "amount": 499,
-                                    "currency": "usd",
-                                    "exponent": 2
-                                },
-                                {
-                                    "amount": 4100,
-                                    "currency": "discord_orb",
-                                    "exponent": 0
-                                }
-                            ]
-                        }
-                    }
-                },
-                "preview_assets": null,
-                "items": [
-                    {
-                        "type": 1,
-                        "sku_id": "1139323100568244355",
-                        "title": "Magic Hearts",
-                        "description": "Show this effect when others view your profile.",
-                        "accessibilityLabel": "Hearts are beating and shimmering upon the profile, binding you under its charm.",
-                        "animationType": 2,
-                        "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/content/21f6a1bd12d3f80fc379f4426ec1f64c8c85cfdf8af118cf4393dedcc9a8bea3",
-                        "reducedMotionSrc": "https://cdn.discordapp.com/assets/content/9f22975e6fc17b00756a6139c16e72f365765320fba425e64a200f71b3cd062f",
-                        "effects": [
-                            {
-                                "src": "https://cdn.discordapp.com/assets/content/a38447d7d6931f50944f1f5acdca34f20bf086e6da4362f59aac27e38fedbd21",
-                                "loop": false,
-                                "height": 880,
-                                "width": 450,
-                                "duration": 2880,
-                                "start": 0,
-                                "loopDelay": 0,
-                                "position": {
-                                    "x": 0,
-                                    "y": 0
-                                },
-                                "zIndex": 100,
-                                "randomizedSources": []
-                            },
-                            {
-                                "src": "https://cdn.discordapp.com/assets/content/6f7444d87e28d7ce011398eee37f637c597d1cf1bad2e90580dbad8b6eba3ca4",
-                                "loop": true,
-                                "height": 880,
-                                "width": 450,
-                                "duration": 2880,
-                                "start": 5760,
-                                "loopDelay": 5760,
-                                "position": {
-                                    "x": 0,
-                                    "y": 0
-                                },
-                                "zIndex": 101,
-                                "randomizedSources": []
-                            }
-                        ]
-                    }
-                ],
-                "type": 1,
-                "premium_type": 0,
-                "category_sku_id": "1341506445249609728",
-                "google_sku_ids": {
-                    "5": "1139323100568244355_1259921984213618750",
-                    "7": "1139323100568244355_1259921994359636018"
-                },
-                "is_first_party": true
-            },
-            {
-                "sku_id": "1341895113089220722",
-                "name": "Magic Hearts (Blue)",
-                "summary": "Show this effect when others view your profile.",
-                "styles": {
-                    "background_colors": [
-                        14778601,
-                        2034564
-                    ],
-                    "button_colors": [
-                        5793266,
-                        5793266
-                    ],
-                    "confetti_colors": [
-                        43772,
-                        15774258,
-                        16414587,
-                        3000177,
-                        9739511
-                    ]
-                },
-                "prices": {
-                    "0": {
-                        "country_prices": {
-                            "country_code": "US",
-                            "prices": [
-                                {
-                                    "amount": 599,
-                                    "currency": "usd",
-                                    "exponent": 2
-                                },
-                                {
-                                    "amount": 4100,
-                                    "currency": "discord_orb",
-                                    "exponent": 0
-                                }
-                            ]
-                        }
-                    },
-                    "4": {
-                        "country_prices": {
-                            "country_code": "US",
-                            "prices": [
-                                {
-                                    "amount": 499,
-                                    "currency": "usd",
-                                    "exponent": 2
-                                },
-                                {
-                                    "amount": 4100,
-                                    "currency": "discord_orb",
-                                    "exponent": 0
-                                }
-                            ]
-                        }
-                    }
-                },
-                "preview_assets": null,
-                "items": [
-                    {
-                        "type": 1,
-                        "sku_id": "1341895113089220722",
-                        "title": "Magic Hearts (Blue)",
-                        "description": "Show this effect when others view your profile.",
-                        "accessibilityLabel": "Hearts are beating and shimmering upon the profile, binding you under its charm.",
-                        "animationType": 2,
-                        "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/content/27015246e95db948f2ad860c10bacdd5aecaa7fd67b554ddfad937ddb5d161b2",
-                        "reducedMotionSrc": "https://cdn.discordapp.com/assets/content/7dcc6cd5450e1bc033ae5a77387f959da2ec581bf939a0f002658d8adca69ed5",
-                        "effects": [
-                            {
-                                "src": "https://cdn.discordapp.com/assets/content/58e61b8d5306a31b217a22486405a9f63c91774869a9fa771dbd523f60c1c31d",
-                                "loop": false,
-                                "height": 880,
-                                "width": 450,
-                                "duration": 2880,
-                                "start": 0,
-                                "loopDelay": 0,
-                                "position": {
-                                    "x": 0,
-                                    "y": 0
-                                },
-                                "zIndex": 100,
-                                "randomizedSources": []
-                            },
-                            {
-                                "src": "https://cdn.discordapp.com/assets/content/8b756deca4bb1a574426f646828cb17ff15e02f103bb83f43a327f722d511adc",
-                                "loop": true,
-                                "height": 880,
-                                "width": 450,
-                                "duration": 2880,
-                                "start": 5760,
-                                "loopDelay": 5760,
-                                "position": {
-                                    "x": 0,
-                                    "y": 0
-                                },
-                                "zIndex": 101,
-                                "randomizedSources": []
-                            }
-                        ]
-                    }
-                ],
-                "type": 1,
-                "premium_type": 0,
-                "category_sku_id": "1341506445249609728",
-                "google_sku_ids": {
-                    "5": "1341895113089220722_1342264929176256716",
-                    "7": "1341895113089220722_1342264942476132446"
-                },
-                "is_first_party": true
-            },
-            {
-                "sku_id": "1341895142495359141",
-                "name": "Magic Hearts (Gold)",
-                "summary": "Show this effect when others view your profile.",
-                "styles": {
-                    "background_colors": [
-                        14778601,
-                        2034564
-                    ],
-                    "button_colors": [
-                        5793266,
-                        5793266
-                    ],
-                    "confetti_colors": [
-                        43772,
-                        15774258,
-                        16414587,
-                        3000177,
-                        9739511
-                    ]
-                },
-                "prices": {
-                    "0": {
-                        "country_prices": {
-                            "country_code": "US",
-                            "prices": [
-                                {
-                                    "amount": 599,
-                                    "currency": "usd",
-                                    "exponent": 2
-                                },
-                                {
-                                    "amount": 4100,
-                                    "currency": "discord_orb",
-                                    "exponent": 0
-                                }
-                            ]
-                        }
-                    },
-                    "4": {
-                        "country_prices": {
-                            "country_code": "US",
-                            "prices": [
-                                {
-                                    "amount": 499,
-                                    "currency": "usd",
-                                    "exponent": 2
-                                },
-                                {
-                                    "amount": 4100,
-                                    "currency": "discord_orb",
-                                    "exponent": 0
-                                }
-                            ]
-                        }
-                    }
-                },
-                "preview_assets": null,
-                "items": [
-                    {
-                        "type": 1,
-                        "sku_id": "1341895142495359141",
-                        "title": "Magic Hearts (Gold)",
-                        "description": "Show this effect when others view your profile.",
-                        "accessibilityLabel": "Hearts are beating and shimmering upon the profile, binding you under its charm.",
-                        "animationType": 2,
-                        "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/content/eef7c17a2db8f5947a53a8a878e1910f68957e783350111d29df71bbc5385478",
-                        "reducedMotionSrc": "https://cdn.discordapp.com/assets/content/5c2a78d0ab0de18dffbe0c2e6743382ad9ccd986a1055ee33819095e4ae3b95c",
-                        "effects": [
-                            {
-                                "src": "https://cdn.discordapp.com/assets/content/bc70a7ae9d5c79cc90e79ab3895f6212988f898510916b61fa086cbc9474b30c",
-                                "loop": false,
-                                "height": 880,
-                                "width": 450,
-                                "duration": 2880,
-                                "start": 0,
-                                "loopDelay": 0,
-                                "position": {
-                                    "x": 0,
-                                    "y": 0
-                                },
-                                "zIndex": 100,
-                                "randomizedSources": []
-                            },
-                            {
-                                "src": "https://cdn.discordapp.com/assets/content/2ecd952da0b1c005598256181a36c470b6ad44afb9d0ba43b1e2d65b04e036f0",
-                                "loop": true,
-                                "height": 880,
-                                "width": 450,
-                                "duration": 2880,
-                                "start": 5760,
-                                "loopDelay": 5760,
-                                "position": {
-                                    "x": 0,
-                                    "y": 0
-                                },
-                                "zIndex": 101,
-                                "randomizedSources": []
-                            }
-                        ]
-                    }
-                ],
-                "type": 1,
-                "premium_type": 0,
-                "category_sku_id": "1341506445249609728",
-                "google_sku_ids": {
-                    "5": "1341895142495359141_1342266050112262316",
-                    "7": "1341895142495359141_1342266063936553042"
                 },
                 "is_first_party": true
             }
@@ -59363,18 +59694,194 @@
         },
         "hero_ranking": [
             "1352407446236299354",
+            "1541543864173731850",
             "1352407446303412304",
-            "1352407446370648166",
-            "1352407446416658493",
-            "1352407446265794630",
-            "1352407446349549638",
-            "1352407446466990130",
             "1352407446391492660",
-            "1352407446441951242",
+            "1352407446370648166",
+            "1352407446328578078",
             "1352407446282440704",
-            "1352407446328578078"
+            "1352407446349549638",
+            "1352407446265794630",
+            "1541529803809755246",
+            "1352407446416658493",
+            "1352407446466990130",
+            "1352407446441951242"
         ],
         "products": [
+            {
+                "sku_id": "1541543864173731850",
+                "name": "Buffering... Bundle",
+                "summary": "{joinedItems}",
+                "styles": {
+                    "background_colors": [
+                        7847144,
+                        12509931
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 1099,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 7600,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 899,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 7600,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "preview_assets": {
+                    "fg_static": "https://cdn.discordapp.com/media/v1/collectibles-shop/bundle-fg-static/1541543864173731850",
+                    "bg_static": "https://cdn.discordapp.com/media/v1/collectibles-shop/bundle-bg-static/1541543864173731850"
+                },
+                "items": [
+                    {
+                        "type": 0,
+                        "sku_id": "1352407446391492660",
+                        "asset": "a_780cd1b7e878dce85d20c7ee495a86fe",
+                        "label": "A buffering icon spinning over your forehead... this might take a while."
+                    },
+                    {
+                        "type": 2,
+                        "sku_id": "1541529803809755246",
+                        "asset": "nameplates/buffering.../1541529803809755246/",
+                        "label": "A buffering icon spinning... this might take a while.",
+                        "palette": "cobalt"
+                    }
+                ],
+                "type": 1000,
+                "premium_type": 0,
+                "category_sku_id": "1352407446500675708",
+                "bundled_products": [
+                    {
+                        "sku_id": "1352407446391492660",
+                        "name": "Buffering...",
+                        "summary": "Give your avatar a new look.",
+                        "type": 0,
+                        "premium_type": 0,
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 599,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 499,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "sku_id": "1541529803809755246",
+                        "name": "Buffering...",
+                        "summary": "Make your name stand out in servers and chats.",
+                        "type": 2,
+                        "premium_type": 0,
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 599,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 499,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ],
+                "google_sku_ids": {
+                    "5": "1541543864173731850_1541544844827304116",
+                    "7": "1541543864173731850_1541544849826775070"
+                },
+                "badge_override": "New",
+                "is_first_party": true
+            },
             {
                 "sku_id": "1352407446236299354",
                 "name": "Nom Kitty Bundle",
@@ -60587,6 +61094,83 @@
                     "5": "1352407446466990130_1353214264969793631",
                     "7": "1352407446466990130_1353214276248277033"
                 },
+                "is_first_party": true
+            },
+            {
+                "sku_id": "1541529803809755246",
+                "name": "Buffering...",
+                "summary": "Make your name stand out in servers and chats.",
+                "styles": {
+                    "background_colors": [
+                        7847144,
+                        12509931
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "preview_assets": null,
+                "items": [
+                    {
+                        "type": 2,
+                        "sku_id": "1541529803809755246",
+                        "asset": "nameplates/buffering.../1541529803809755246/",
+                        "label": "A buffering icon spinning... this might take a while.",
+                        "palette": "cobalt"
+                    }
+                ],
+                "type": 2,
+                "premium_type": 0,
+                "category_sku_id": "1352407446500675708",
+                "google_sku_ids": {
+                    "5": "1541529803809755246_1541534403027673210",
+                    "7": "1541529803809755246_1541534410535604264"
+                },
+                "badge_override": "New",
                 "is_first_party": true
             }
         ],
