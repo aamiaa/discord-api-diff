@@ -100305,19 +100305,19 @@
                         "target": 29,
                         "assets": {
                             "video": {
-                                "url": "quests/1532567061241528410/1540142742644985856_1080.mp4",
+                                "url": "quests/1532567061241528410/1541844076444385340_1080.mp4",
                                 "width": 1920,
                                 "height": 1080,
                                 "thumbnail": "quests/1532567061241528410/1539834806236610700.jpg"
                             },
                             "video_low_res": {
-                                "url": "quests/1532567061241528410/1540142742644985856_720.mp4",
+                                "url": "quests/1532567061241528410/1541844076444385340_720.mp4",
                                 "width": 1920,
                                 "height": 1080,
                                 "thumbnail": "quests/1532567061241528410/1539834806236610700.jpg"
                             },
                             "video_hls": {
-                                "url": "quests/1532567061241528410/1540142742644985856.m3u8",
+                                "url": "quests/1532567061241528410/1541844076444385340.m3u8",
                                 "width": 1920,
                                 "height": 1080,
                                 "thumbnail": "quests/1532567061241528410/1539834806236610700.jpg"
@@ -100332,19 +100332,19 @@
                         "target": 29,
                         "assets": {
                             "video": {
-                                "url": "quests/1532567061241528410/1540141189490020402_1080.mp4",
+                                "url": "quests/1532567061241528410/1541844075752325150_1080.mp4",
                                 "width": 1080,
                                 "height": 1920,
                                 "thumbnail": "quests/1532567061241528410/1539834806236610700.jpg"
                             },
                             "video_low_res": {
-                                "url": "quests/1532567061241528410/1540141189490020402_720.mp4",
+                                "url": "quests/1532567061241528410/1541844075752325150_720.mp4",
                                 "width": 1080,
                                 "height": 1920,
                                 "thumbnail": "quests/1532567061241528410/1539834806236610700.jpg"
                             },
                             "video_hls": {
-                                "url": "quests/1532567061241528410/1540141189490020402.m3u8",
+                                "url": "quests/1532567061241528410/1541844075752325150.m3u8",
                                 "width": 1080,
                                 "height": 1920,
                                 "thumbnail": "quests/1532567061241528410/1539834806236610700.jpg"
@@ -101530,6 +101530,174 @@
                     "ios_app_id": "1592081003"
                 },
                 "link": "https://marvelsnap.com/",
+                "button_label": "Play Now"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false,
+        "traffic_metadata_raw": "EAIYAQ=="
+    },
+    {
+        "id": "1540476174520557620",
+        "config": {
+            "id": "1540476174520557620",
+            "config_version": 2,
+            "starts_at": "2026-08-25T17:00:00+00:00",
+            "expires_at": "2026-09-05T00:00:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://store.steampowered.com/app/1997040/MARVEL_SNAP/?utm_source=discord&utm_medium=questbar&utm_campaign=snap-aug2026-discord&utm_term=us-it-uk-kr-ca-jp-desktop",
+                "id": "1067552066454695965",
+                "name": "Marvel Snap"
+            },
+            "assets": {
+                "hero": "quests/1540476174520557620/1540478501503635506.jpg",
+                "hero_video": "quests/1540476174520557620/1540478216257675314_720.mp4",
+                "quest_bar_hero_blurhash": "0/cFDIIIBlmIeHeSi4YyBEVEEA==",
+                "quest_bar_hero": "quests/1540476174520557620/1540478470885212270.jpg",
+                "quest_bar_hero_video": "quests/1540476174520557620/1540478216257675314_720.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1540476174520557620/1540477965517852722.png",
+                "game_tile_dark": "quests/1540476174520557620/1540477965517852722.png",
+                "logotype_light": "quests/1540476174520557620/1541846422239055882.png",
+                "logotype_dark": "quests/1540476174520557620/1541846422239055882.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "MARVEL SNAP",
+                "game_title": "MARVEL SNAP x Draft Mode",
+                "game_publisher": "Second Dinner "
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1067552066454695965"
+                            }
+                        ]
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 Orbs",
+                            "name_with_article": "700 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 700,
+                        "premium_orb_quantity": 840
+                    }
+                ],
+                "rewards_expire_at": "2026-10-05T00:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://store.steampowered.com/app/1997040/MARVEL_SNAP/?utm_source=discord&utm_medium=questbar&utm_campaign=snap-aug2026-discord&utm_term=us-it-uk-kr-ca-jp-desktop",
+                "button_label": "Get Game"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "preview": false,
+        "traffic_metadata_raw": "EAIYAQ=="
+    },
+    {
+        "id": "1539393111409823906",
+        "config": {
+            "id": "1539393111409823906",
+            "config_version": 2,
+            "starts_at": "2026-08-25T16:15:00+00:00",
+            "expires_at": "2026-09-04T00:00:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://www.roblox.com/games/101432174163538/Superstar-Baseball?gsrbx=1",
+                "id": "363445589247131668",
+                "name": "Roblox"
+            },
+            "assets": {
+                "hero": "quests/1539393111409823906/1541544517851680878.jpg",
+                "hero_video": "quests/1539393111409823906/1541544559979528282_720.mp4",
+                "quest_bar_hero_blurhash": "kxYKEoIJlIZlh3uJ4Hc5T5s=",
+                "quest_bar_hero": "quests/1539393111409823906/1541544517851680878.jpg",
+                "quest_bar_hero_video": "quests/1539393111409823906/1541544559979528282_720.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1539393111409823906/1539393940086587443.png",
+                "game_tile_dark": "quests/1539393111409823906/1539393939923013652.png",
+                "logotype_light": "quests/1539393111409823906/1539393910680322141.png",
+                "logotype_dark": "quests/1539393111409823906/1539393911150219365.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Superstar Baseball",
+                "game_title": "Superstar Baseball on Roblox ",
+                "game_publisher": "ROBLOX"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "363445589247131668"
+                            }
+                        ]
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 Orbs",
+                            "name_with_article": "700 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 700,
+                        "premium_orb_quantity": 840
+                    }
+                ],
+                "rewards_expire_at": "2026-10-04T00:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://www.roblox.com/games/101432174163538/Superstar-Baseball?gsrbx=1",
                 "button_label": "Play Now"
             }
         },
