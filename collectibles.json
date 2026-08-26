@@ -180883,5 +180883,1738 @@
             "responsive": null,
             "background_style": "linear-gradient(180deg, #000A01 0%, #000000 100%)"
         }
+    },
+    {
+        "sku_id": "1537865618328391801",
+        "name": "Pale Reverie",
+        "summary": " ",
+        "store_listing_id": "1537865618328391801",
+        "styles": {
+            "background_colors": [
+                9802665,
+                13025997
+            ],
+            "button_colors": [
+                5793266,
+                5793266
+            ],
+            "confetti_colors": [
+                43772,
+                15774258,
+                16414587,
+                3000177,
+                9739511
+            ]
+        },
+        "hero_ranking": [
+            "1538992882340466780",
+            "1538993334251692184",
+            "1538991362601656420",
+            "1538990902306152558",
+            "1538991167511994549",
+            "1538993580230582302",
+            "1538991537399136407",
+            "1538991722535714867",
+            "1538991887497695252",
+            "1538992070226608158",
+            "1538992284379652136",
+            "1538992498695872543",
+            "1538992680552636548"
+        ],
+        "products": [
+            {
+                "sku_id": "1538992882340466780",
+                "name": "Rose Filigree Bundle",
+                "summary": "{joinedItems}",
+                "styles": {
+                    "background_colors": [
+                        9802665,
+                        13025997
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 2099,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 14400,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 1699,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 14400,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "preview_assets": {
+                    "fg_static": "https://cdn.discordapp.com/media/v1/collectibles-shop/bundle-fg-static/1538992882340466780",
+                    "bg_static": "https://cdn.discordapp.com/media/v1/collectibles-shop/bundle-bg-static/1538992882340466780"
+                },
+                "items": [
+                    {
+                        "type": 0,
+                        "sku_id": "1538990902306152558",
+                        "asset": "a_d943453ba3b3f0286c0a76a3b0b0f896",
+                        "label": "Sparkling pale roses and delicate vines form a circular wreath"
+                    },
+                    {
+                        "type": 2,
+                        "sku_id": "1538991537399136407",
+                        "asset": "nameplates/mystic_rose_petals/1538991537399136407/",
+                        "label": "Pale, glowing rose petals drift across a lavender background",
+                        "palette": "black"
+                    },
+                    {
+                        "type": 1,
+                        "sku_id": "1538992070226608158",
+                        "title": "Whispering Rose",
+                        "description": "Show this effect when others view your profile.",
+                        "accessibilityLabel": "Pale rose petals drift and sparkle across a soft lavender background",
+                        "animationType": 2,
+                        "thumbnailPreviewSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/fa324b1c3c17941dd4edb3cbeedc41d288660aa7cae440e1e61fd54651d78055",
+                        "reducedMotionSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/94d15a5c39c60dcbee51bf7e9dc1112db3cb14aae3209ba7d273f9c20cdf7b44",
+                        "effects": [
+                            {
+                                "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/f6798f7dce84fed42daa90be43d3e5852e96baf9de60022065116d3ca137b096",
+                                "loop": false,
+                                "duration": 3984,
+                                "start": 0,
+                                "loopDelay": 0,
+                                "zIndex": 110,
+                                "randomizedSources": []
+                            },
+                            {
+                                "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/c9bafb1182c45452f70b58073d63d139ab6435cd261a63c10c1b6b048b6d9369",
+                                "loop": true,
+                                "duration": 2988,
+                                "start": 5193,
+                                "loopDelay": 2900,
+                                "zIndex": 100,
+                                "randomizedSources": []
+                            }
+                        ]
+                    },
+                    {
+                        "type": 3,
+                        "sku_id": "1538992680552636548",
+                        "label": "Pale white roses and curling vines with a soft lavender glow surround the profile",
+                        "layers": [
+                            {
+                                "id": "1538992839197720769",
+                                "type": "staple",
+                                "order": "front",
+                                "anchor": "top",
+                                "responsive": false
+                            },
+                            {
+                                "id": "1538992843312464012",
+                                "type": "staple",
+                                "order": "front",
+                                "anchor": "bottom",
+                                "responsive": false
+                            },
+                            {
+                                "id": "1538992846814576751",
+                                "type": "staple",
+                                "order": "back",
+                                "anchor": "top",
+                                "responsive": false
+                            },
+                            {
+                                "id": "1538992850535059466",
+                                "type": "staple",
+                                "order": "back",
+                                "anchor": "bottom",
+                                "responsive": false
+                            }
+                        ],
+                        "inner_width": 1200,
+                        "overflow_top": 304,
+                        "overflow_bottom": 212,
+                        "overflow_horizontal": 56
+                    }
+                ],
+                "type": 1000,
+                "premium_type": 0,
+                "category_sku_id": "1537865618328391801",
+                "bundled_products": [
+                    {
+                        "sku_id": "1538990902306152558",
+                        "name": "Rose Filigree",
+                        "summary": "Give your avatar a new look.",
+                        "type": 0,
+                        "premium_type": 0,
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 599,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 499,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "sku_id": "1538991537399136407",
+                        "name": "Mystic Rose Petals",
+                        "summary": "Make your name stand out in servers and chats.",
+                        "type": 2,
+                        "premium_type": 0,
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 599,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 499,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "sku_id": "1538992070226608158",
+                        "name": "Whispering Rose",
+                        "summary": "Show this effect when others view your profile.",
+                        "type": 1,
+                        "premium_type": 0,
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 599,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 499,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "sku_id": "1538992680552636548",
+                        "name": "Rose Filigree",
+                        "summary": "Elevate and wrap your profile with a frame.",
+                        "type": 3,
+                        "premium_type": 0,
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 599,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 499,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ],
+                "google_sku_ids": {
+                    "5": "1538992882340466780_1538993514153648278",
+                    "7": "1538992882340466780_1538993518746275941"
+                },
+                "is_first_party": true
+            },
+            {
+                "sku_id": "1538993334251692184",
+                "name": "Wolf Moon Bundle",
+                "summary": "{joinedItems}",
+                "styles": {
+                    "background_colors": [
+                        9802665,
+                        13025997
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 1599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 11000,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 1299,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 11000,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "preview_assets": {
+                    "fg_static": "https://cdn.discordapp.com/media/v1/collectibles-shop/bundle-fg-static/1538993334251692184",
+                    "bg_static": "https://cdn.discordapp.com/media/v1/collectibles-shop/bundle-bg-static/1538993334251692184"
+                },
+                "items": [
+                    {
+                        "type": 0,
+                        "sku_id": "1538991167511994549",
+                        "asset": "a_9850506c85f382f6f8af97cf6d60c000",
+                        "label": "A sparkling crescent moon peeks through soft grey clouds"
+                    },
+                    {
+                        "type": 2,
+                        "sku_id": "1538991722535714867",
+                        "asset": "nameplates/spirit_wolf/1538991722535714867/",
+                        "label": "A close-up of a white wolf's glistening purple eye",
+                        "palette": "white"
+                    },
+                    {
+                        "type": 1,
+                        "sku_id": "1538992284379652136",
+                        "title": "Midnight Howl",
+                        "description": "Show this effect when others view your profile.",
+                        "accessibilityLabel": "A white wolf howls at a large glowing full moon against a starry night sky",
+                        "animationType": 2,
+                        "thumbnailPreviewSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/d54ed9347319264bb42a14757bbd19284570c98622162e1ac57ef4eac41a8204",
+                        "reducedMotionSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/7370ce23b615f9369b369b98a7d71aced9eb1d6835dfe85c7e9ebe99097a8b53",
+                        "effects": [
+                            {
+                                "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/c8eda0d8533d69a251d780152bbfe6bac4fbbaab48be155a7c7dbebe8d74ed05",
+                                "loop": false,
+                                "duration": 2988,
+                                "start": 0,
+                                "loopDelay": 0,
+                                "zIndex": 110,
+                                "randomizedSources": []
+                            },
+                            {
+                                "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/8996b4926f52d07d4e791b6db6e132be07d0a34b2e63dadf32919542b9da004d",
+                                "loop": true,
+                                "duration": 2988,
+                                "start": 5665,
+                                "loopDelay": 2900,
+                                "zIndex": 100,
+                                "randomizedSources": []
+                            }
+                        ]
+                    }
+                ],
+                "type": 1000,
+                "premium_type": 0,
+                "category_sku_id": "1537865618328391801",
+                "bundled_products": [
+                    {
+                        "sku_id": "1538991167511994549",
+                        "name": "Crescent Dreams",
+                        "summary": "Give your avatar a new look.",
+                        "type": 0,
+                        "premium_type": 0,
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 599,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 499,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "sku_id": "1538991722535714867",
+                        "name": "Spirit Wolf",
+                        "summary": "Make your name stand out in servers and chats.",
+                        "type": 2,
+                        "premium_type": 0,
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 599,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 499,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "sku_id": "1538992284379652136",
+                        "name": "Midnight Howl",
+                        "summary": "Show this effect when others view your profile.",
+                        "type": 1,
+                        "premium_type": 0,
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 599,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 499,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ],
+                "google_sku_ids": {
+                    "5": "1538993334251692184_1538993704306483220",
+                    "7": "1538993334251692184_1538993708928868513"
+                },
+                "is_first_party": true
+            },
+            {
+                "sku_id": "1538993580230582302",
+                "name": "Butterfly Waltz Bundle",
+                "summary": "{joinedItems}",
+                "styles": {
+                    "background_colors": [
+                        9802665,
+                        13025997
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 1599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 11000,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 1299,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 11000,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "preview_assets": {
+                    "fg_static": "https://cdn.discordapp.com/media/v1/collectibles-shop/bundle-fg-static/1538993580230582302",
+                    "bg_static": "https://cdn.discordapp.com/media/v1/collectibles-shop/bundle-bg-static/1538993580230582302"
+                },
+                "items": [
+                    {
+                        "type": 0,
+                        "sku_id": "1538991362601656420",
+                        "asset": "a_92af94f6167b9d12f8f72e6e306a5b80",
+                        "label": "Pale, glowing butterflies flutter around the avatar"
+                    },
+                    {
+                        "type": 2,
+                        "sku_id": "1538991887497695252",
+                        "asset": "nameplates/butterfly_waltz/1538991887497695252/",
+                        "label": "Soft glowing butterflies drift across a pale lavender background",
+                        "palette": "white"
+                    },
+                    {
+                        "type": 1,
+                        "sku_id": "1538992498695872543",
+                        "title": "Shattered Wings",
+                        "description": "Show this effect when others view your profile.",
+                        "accessibilityLabel": "A glowing, pale butterfly shatters like glass in mid-air against a sparkling lavender background",
+                        "animationType": 2,
+                        "thumbnailPreviewSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/dc424970b232e08726c601206010cca8fb4e37b8124e4e15f24af32bb18742ba",
+                        "reducedMotionSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/14272d2d6dbd683a4238b4da2744a67b265a133e53e956c349a05bf65b8cce1a",
+                        "effects": [
+                            {
+                                "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/13e64b0456243ed81ae809a507d980cadf31d1b44848bd2c89d3c511604b25ff",
+                                "loop": false,
+                                "duration": 3984,
+                                "start": 0,
+                                "loopDelay": 0,
+                                "zIndex": 110,
+                                "randomizedSources": []
+                            },
+                            {
+                                "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/66349ad1617c21762b446035e03f536391351001a0261f3fc695292a0c00230b",
+                                "loop": true,
+                                "duration": 2988,
+                                "start": 6109,
+                                "loopDelay": 3000,
+                                "zIndex": 100,
+                                "randomizedSources": []
+                            }
+                        ]
+                    }
+                ],
+                "type": 1000,
+                "premium_type": 0,
+                "category_sku_id": "1537865618328391801",
+                "bundled_products": [
+                    {
+                        "sku_id": "1538991362601656420",
+                        "name": "Butterfly Waltz",
+                        "summary": "Give your avatar a new look.",
+                        "type": 0,
+                        "premium_type": 0,
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 599,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 499,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "sku_id": "1538991887497695252",
+                        "name": "Butterfly Waltz",
+                        "summary": "Make your name stand out in servers and chats.",
+                        "type": 2,
+                        "premium_type": 0,
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 599,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 499,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "sku_id": "1538992498695872543",
+                        "name": "Shattered Wings",
+                        "summary": "Show this effect when others view your profile.",
+                        "type": 1,
+                        "premium_type": 0,
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 599,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 499,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ],
+                "google_sku_ids": {
+                    "5": "1538993580230582302_1538994133878833163",
+                    "7": "1538993580230582302_1538994139428032572"
+                },
+                "is_first_party": true
+            },
+            {
+                "sku_id": "1538990902306152558",
+                "name": "Rose Filigree",
+                "summary": "Give your avatar a new look.",
+                "styles": {
+                    "background_colors": [
+                        9802665,
+                        13025997
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "preview_assets": null,
+                "items": [
+                    {
+                        "type": 0,
+                        "sku_id": "1538990902306152558",
+                        "asset": "a_d943453ba3b3f0286c0a76a3b0b0f896",
+                        "label": "Sparkling pale roses and delicate vines form a circular wreath"
+                    }
+                ],
+                "type": 0,
+                "premium_type": 0,
+                "category_sku_id": "1537865618328391801",
+                "google_sku_ids": {
+                    "5": "1538990902306152558_1538992417296875631",
+                    "7": "1538990902306152558_1538992422133039154"
+                },
+                "is_first_party": true
+            },
+            {
+                "sku_id": "1538991167511994549",
+                "name": "Crescent Dreams",
+                "summary": "Give your avatar a new look.",
+                "styles": {
+                    "background_colors": [
+                        9802665,
+                        13025997
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "preview_assets": null,
+                "items": [
+                    {
+                        "type": 0,
+                        "sku_id": "1538991167511994549",
+                        "asset": "a_9850506c85f382f6f8af97cf6d60c000",
+                        "label": "A sparkling crescent moon peeks through soft grey clouds"
+                    }
+                ],
+                "type": 0,
+                "premium_type": 0,
+                "category_sku_id": "1537865618328391801",
+                "google_sku_ids": {
+                    "5": "1538991167511994549_1538992109141368963",
+                    "7": "1538991167511994549_1538992114585567313"
+                },
+                "is_first_party": true
+            },
+            {
+                "sku_id": "1538991362601656420",
+                "name": "Butterfly Waltz",
+                "summary": "Give your avatar a new look.",
+                "styles": {
+                    "background_colors": [
+                        9802665,
+                        13025997
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "preview_assets": null,
+                "items": [
+                    {
+                        "type": 0,
+                        "sku_id": "1538991362601656420",
+                        "asset": "a_92af94f6167b9d12f8f72e6e306a5b80",
+                        "label": "Pale, glowing butterflies flutter around the avatar"
+                    }
+                ],
+                "type": 0,
+                "premium_type": 0,
+                "category_sku_id": "1537865618328391801",
+                "google_sku_ids": {
+                    "5": "1538991362601656420_1538994357682569337",
+                    "7": "1538991362601656420_1538994363441487924"
+                },
+                "is_first_party": true
+            },
+            {
+                "sku_id": "1538991537399136407",
+                "name": "Mystic Rose Petals",
+                "summary": "Make your name stand out in servers and chats.",
+                "styles": {
+                    "background_colors": [
+                        9802665,
+                        13025997
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "preview_assets": null,
+                "items": [
+                    {
+                        "type": 2,
+                        "sku_id": "1538991537399136407",
+                        "asset": "nameplates/mystic_rose_petals/1538991537399136407/",
+                        "label": "Pale, glowing rose petals drift across a lavender background",
+                        "palette": "black"
+                    }
+                ],
+                "type": 2,
+                "premium_type": 0,
+                "category_sku_id": "1537865618328391801",
+                "google_sku_ids": {
+                    "5": "1538991537399136407_1538995691391553556",
+                    "7": "1538991537399136407_1538995696852795512"
+                },
+                "is_first_party": true
+            },
+            {
+                "sku_id": "1538991722535714867",
+                "name": "Spirit Wolf",
+                "summary": "Make your name stand out in servers and chats.",
+                "styles": {
+                    "background_colors": [
+                        9802665,
+                        13025997
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "preview_assets": null,
+                "items": [
+                    {
+                        "type": 2,
+                        "sku_id": "1538991722535714867",
+                        "asset": "nameplates/spirit_wolf/1538991722535714867/",
+                        "label": "A close-up of a white wolf's glistening purple eye",
+                        "palette": "white"
+                    }
+                ],
+                "type": 2,
+                "premium_type": 0,
+                "category_sku_id": "1537865618328391801",
+                "google_sku_ids": {
+                    "5": "1538991722535714867_1538995939065200771",
+                    "7": "1538991722535714867_1538995943972667492"
+                },
+                "is_first_party": true
+            },
+            {
+                "sku_id": "1538991887497695252",
+                "name": "Butterfly Waltz",
+                "summary": "Make your name stand out in servers and chats.",
+                "styles": {
+                    "background_colors": [
+                        9802665,
+                        13025997
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "preview_assets": null,
+                "items": [
+                    {
+                        "type": 2,
+                        "sku_id": "1538991887497695252",
+                        "asset": "nameplates/butterfly_waltz/1538991887497695252/",
+                        "label": "Soft glowing butterflies drift across a pale lavender background",
+                        "palette": "white"
+                    }
+                ],
+                "type": 2,
+                "premium_type": 0,
+                "category_sku_id": "1537865618328391801",
+                "google_sku_ids": {
+                    "5": "1538991887497695252_1538995911324344500",
+                    "7": "1538991887497695252_1538995916504178729"
+                },
+                "is_first_party": true
+            },
+            {
+                "sku_id": "1538992070226608158",
+                "name": "Whispering Rose",
+                "summary": "Show this effect when others view your profile.",
+                "styles": {
+                    "background_colors": [
+                        9802665,
+                        13025997
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "preview_assets": null,
+                "items": [
+                    {
+                        "type": 1,
+                        "sku_id": "1538992070226608158",
+                        "title": "Whispering Rose",
+                        "description": "Show this effect when others view your profile.",
+                        "accessibilityLabel": "Pale rose petals drift and sparkle across a soft lavender background",
+                        "animationType": 2,
+                        "thumbnailPreviewSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/fa324b1c3c17941dd4edb3cbeedc41d288660aa7cae440e1e61fd54651d78055",
+                        "reducedMotionSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/94d15a5c39c60dcbee51bf7e9dc1112db3cb14aae3209ba7d273f9c20cdf7b44",
+                        "effects": [
+                            {
+                                "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/f6798f7dce84fed42daa90be43d3e5852e96baf9de60022065116d3ca137b096",
+                                "loop": false,
+                                "duration": 3984,
+                                "start": 0,
+                                "loopDelay": 0,
+                                "zIndex": 110,
+                                "randomizedSources": []
+                            },
+                            {
+                                "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/c9bafb1182c45452f70b58073d63d139ab6435cd261a63c10c1b6b048b6d9369",
+                                "loop": true,
+                                "duration": 2988,
+                                "start": 5193,
+                                "loopDelay": 2900,
+                                "zIndex": 100,
+                                "randomizedSources": []
+                            }
+                        ]
+                    }
+                ],
+                "type": 1,
+                "premium_type": 0,
+                "category_sku_id": "1537865618328391801",
+                "google_sku_ids": {
+                    "5": "1538992070226608158_1538995800162435174",
+                    "7": "1538992070226608158_1538995805246062733"
+                },
+                "is_first_party": true
+            },
+            {
+                "sku_id": "1538992284379652136",
+                "name": "Midnight Howl",
+                "summary": "Show this effect when others view your profile.",
+                "styles": {
+                    "background_colors": [
+                        9802665,
+                        13025997
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "preview_assets": null,
+                "items": [
+                    {
+                        "type": 1,
+                        "sku_id": "1538992284379652136",
+                        "title": "Midnight Howl",
+                        "description": "Show this effect when others view your profile.",
+                        "accessibilityLabel": "A white wolf howls at a large glowing full moon against a starry night sky",
+                        "animationType": 2,
+                        "thumbnailPreviewSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/d54ed9347319264bb42a14757bbd19284570c98622162e1ac57ef4eac41a8204",
+                        "reducedMotionSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/7370ce23b615f9369b369b98a7d71aced9eb1d6835dfe85c7e9ebe99097a8b53",
+                        "effects": [
+                            {
+                                "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/c8eda0d8533d69a251d780152bbfe6bac4fbbaab48be155a7c7dbebe8d74ed05",
+                                "loop": false,
+                                "duration": 2988,
+                                "start": 0,
+                                "loopDelay": 0,
+                                "zIndex": 110,
+                                "randomizedSources": []
+                            },
+                            {
+                                "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/8996b4926f52d07d4e791b6db6e132be07d0a34b2e63dadf32919542b9da004d",
+                                "loop": true,
+                                "duration": 2988,
+                                "start": 5665,
+                                "loopDelay": 2900,
+                                "zIndex": 100,
+                                "randomizedSources": []
+                            }
+                        ]
+                    }
+                ],
+                "type": 1,
+                "premium_type": 0,
+                "category_sku_id": "1537865618328391801",
+                "google_sku_ids": {
+                    "5": "1538992284379652136_1538993704357068980",
+                    "7": "1538992284379652136_1538993709180260392"
+                },
+                "is_first_party": true
+            },
+            {
+                "sku_id": "1538992498695872543",
+                "name": "Shattered Wings",
+                "summary": "Show this effect when others view your profile.",
+                "styles": {
+                    "background_colors": [
+                        9802665,
+                        13025997
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "preview_assets": null,
+                "items": [
+                    {
+                        "type": 1,
+                        "sku_id": "1538992498695872543",
+                        "title": "Shattered Wings",
+                        "description": "Show this effect when others view your profile.",
+                        "accessibilityLabel": "A glowing, pale butterfly shatters like glass in mid-air against a sparkling lavender background",
+                        "animationType": 2,
+                        "thumbnailPreviewSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/dc424970b232e08726c601206010cca8fb4e37b8124e4e15f24af32bb18742ba",
+                        "reducedMotionSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/14272d2d6dbd683a4238b4da2744a67b265a133e53e956c349a05bf65b8cce1a",
+                        "effects": [
+                            {
+                                "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/13e64b0456243ed81ae809a507d980cadf31d1b44848bd2c89d3c511604b25ff",
+                                "loop": false,
+                                "duration": 3984,
+                                "start": 0,
+                                "loopDelay": 0,
+                                "zIndex": 110,
+                                "randomizedSources": []
+                            },
+                            {
+                                "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/66349ad1617c21762b446035e03f536391351001a0261f3fc695292a0c00230b",
+                                "loop": true,
+                                "duration": 2988,
+                                "start": 6109,
+                                "loopDelay": 3000,
+                                "zIndex": 100,
+                                "randomizedSources": []
+                            }
+                        ]
+                    }
+                ],
+                "type": 1,
+                "premium_type": 0,
+                "category_sku_id": "1537865618328391801",
+                "google_sku_ids": {
+                    "5": "1538992498695872543_1538993955042238584",
+                    "7": "1538992498695872543_1538993960352096287"
+                },
+                "is_first_party": true
+            },
+            {
+                "sku_id": "1538992680552636548",
+                "name": "Rose Filigree",
+                "summary": "Elevate and wrap your profile with a frame.",
+                "styles": {
+                    "background_colors": [
+                        9802665,
+                        13025997
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "preview_assets": null,
+                "items": [
+                    {
+                        "type": 3,
+                        "sku_id": "1538992680552636548",
+                        "label": "Pale white roses and curling vines with a soft lavender glow surround the profile",
+                        "layers": [
+                            {
+                                "id": "1538992839197720769",
+                                "type": "staple",
+                                "order": "front",
+                                "anchor": "top",
+                                "responsive": false
+                            },
+                            {
+                                "id": "1538992843312464012",
+                                "type": "staple",
+                                "order": "front",
+                                "anchor": "bottom",
+                                "responsive": false
+                            },
+                            {
+                                "id": "1538992846814576751",
+                                "type": "staple",
+                                "order": "back",
+                                "anchor": "top",
+                                "responsive": false
+                            },
+                            {
+                                "id": "1538992850535059466",
+                                "type": "staple",
+                                "order": "back",
+                                "anchor": "bottom",
+                                "responsive": false
+                            }
+                        ],
+                        "inner_width": 1200,
+                        "overflow_top": 304,
+                        "overflow_bottom": 212,
+                        "overflow_horizontal": 56
+                    }
+                ],
+                "type": 3,
+                "premium_type": 0,
+                "category_sku_id": "1537865618328391801",
+                "google_sku_ids": {
+                    "5": "1538992680552636548_1538995051080847360",
+                    "7": "1538992680552636548_1538995057862910043"
+                },
+                "is_first_party": true
+            }
+        ],
+        "hero_banner_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/8d1c7d22923609c41513e07eed017ef6d4effb23f2020f3ad7734e61ae582a1f",
+        "hero_logo_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/d818d4a9fb5c4e955416a0474069e6988c5fc01f168b6c5531e028d86168a66f",
+        "catalog_banner_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/dc2009d69ec5a01f474ef7ed783f95f2fd14da59dba85b735033e484ae1f71b1",
+        "featured_block_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/7ecf3ab34194c5c50dfe2a0b4cd6ac02e28a89d09abb7b87501e13833d4718a3",
+        "logo_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/d818d4a9fb5c4e955416a0474069e6988c5fc01f168b6c5531e028d86168a66f",
+        "pdp_bg_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/dfe109f74e58f8905ec8f8431eca66424c8619292061b43dff5d41174b9be074",
+        "mobile_hero_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/18221c663339390af5dc8ae5a1a22e788e94d62f5882f22337a8e55736192bb2",
+        "mobile_banner_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/d79287be4b5a3f26095bb9443c43a08c40dd38fed56e7bd864cf2fb2e654b8b9",
+        "mobile_bg_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1a90343255fe589b3a1f5b5bcc574fb03d0c17f4d2aa6a483a89e33e8204619a",
+        "hero_banner_display_config": {
+            "desktop_max_height": null,
+            "mobile_max_height": null,
+            "responsive": null,
+            "background_style": "linear-gradient(180deg, #9593A9 0%, #C6C2CD 100%)"
+        }
     }
 ]
