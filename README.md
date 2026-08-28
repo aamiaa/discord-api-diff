@@ -13,3 +13,5 @@ As of Jan 31st 2026, `store_listing_id` of products in `collectibles.json` is no
 As of March 6th 2026, `traffic_metadata_sealed` of quests in `quests.json` is no longer tracked, due to it changing every request.
 
 As of April 1st 2026, `profile-effects.json` can no longer be updated due to the endpoint's removal (the data is now included in the collectible item object).
+
+As of August 27th 2026, `provenance_metadata_sealed` of quests in `quests.json` is no longer tracked, due to it changing every request.
