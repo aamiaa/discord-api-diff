@@ -182610,5 +182610,2802 @@
             "responsive": null,
             "background_style": "linear-gradient(180deg, #9593A9 0%, #C6C2CD 100%)"
         }
+    },
+    {
+        "sku_id": "1541248655800012960",
+        "name": "Dark Folklore",
+        "summary": " ",
+        "store_listing_id": "1541248655800012960",
+        "styles": {
+            "background_colors": [
+                0,
+                0
+            ],
+            "button_colors": [
+                5793266,
+                5793266
+            ],
+            "confetti_colors": [
+                43772,
+                15774258,
+                16414587,
+                3000177,
+                9739511
+            ]
+        },
+        "hero_ranking": [
+            "1541465515636162570",
+            "1541465312443236473",
+            "1541453590374256650",
+            "1541454236456456232",
+            "1541454059670605845",
+            "1541453953760239616",
+            "1541464730349076500",
+            "1541465731583971358",
+            "1541458062701895761",
+            "1541454524210745364",
+            "1541457836360601652",
+            "1541454356434395136",
+            "1541458198177779782",
+            "1541462269999972432",
+            "1541460613727911936",
+            "1541461252587397270",
+            "1541458389949874236",
+            "1541462491387662336",
+            "1541464541966114826",
+            "1541464049919983667",
+            "1541462746032381982"
+        ],
+        "products": [
+            {
+                "sku_id": "1541465515636162570",
+                "name": "Mothman Bundle",
+                "summary": "{joinedItems}",
+                "styles": {
+                    "background_colors": [
+                        0,
+                        0
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 2099,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 14400,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 1699,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 14400,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "preview_assets": {
+                    "fg_static": "https://cdn.discordapp.com/media/v1/collectibles-shop/bundle-fg-static/1541465515636162570",
+                    "bg_static": "https://cdn.discordapp.com/media/v1/collectibles-shop/bundle-bg-static/1541465515636162570"
+                },
+                "items": [
+                    {
+                        "type": 0,
+                        "sku_id": "1541454059670605845",
+                        "asset": "a_363732b221f45aa7e81b3be945c6e072",
+                        "label": "Pale, translucent moth wings"
+                    },
+                    {
+                        "type": 2,
+                        "sku_id": "1541458062701895761",
+                        "asset": "nameplates/ghost_moth/1541458062701895761/",
+                        "label": "A pale moth glows softly in misty light",
+                        "palette": "black"
+                    },
+                    {
+                        "type": 1,
+                        "sku_id": "1541462269999972432",
+                        "title": "Mothman",
+                        "description": "Show this effect when others view your profile.",
+                        "accessibilityLabel": "A red-eyed, owl-like creature perches on a bare branch under a full moon",
+                        "animationType": 2,
+                        "thumbnailPreviewSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/88278b3768b7a4e2dc71af8f77c136b07169c7eafb0cc752969bb07ada33e112",
+                        "reducedMotionSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/39d61c814965ad280b0bd00a84d0e2689838ed4cf49659dae74c5f606ae57eb5",
+                        "effects": [
+                            {
+                                "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/1f2b91c50cc613ac683138f81c4fd6636445246275d0a43be220105b7426dc37",
+                                "loop": false,
+                                "duration": 5000,
+                                "start": 0,
+                                "loopDelay": 0,
+                                "zIndex": 100,
+                                "randomizedSources": []
+                            },
+                            {
+                                "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/6141bed8d0353c9104a069af0c42dc80967c72a4061c018f7ace53c1f4a359ad",
+                                "loop": true,
+                                "duration": 5000,
+                                "start": 8000,
+                                "loopDelay": 3500,
+                                "zIndex": 101,
+                                "randomizedSources": [
+                                    {
+                                        "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/6141bed8d0353c9104a069af0c42dc80967c72a4061c018f7ace53c1f4a359ad"
+                                    },
+                                    {
+                                        "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/018e9aacc0a05f90dd18b4851c7130041321d0dbdc5df32944d7d361d0e65794"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "type": 3,
+                        "sku_id": "1541464541966114826",
+                        "label": "Bare, gnarled tree branches form a border around the proflie",
+                        "layers": [
+                            {
+                                "id": "1541464621884510258",
+                                "type": "staple",
+                                "order": "front",
+                                "anchor": "top",
+                                "responsive": false
+                            },
+                            {
+                                "id": "1541464626057711706",
+                                "type": "staple",
+                                "order": "front",
+                                "anchor": "bottom",
+                                "responsive": false
+                            },
+                            {
+                                "id": "1541464629321011250",
+                                "type": "staple",
+                                "order": "back",
+                                "anchor": "top",
+                                "responsive": false
+                            },
+                            {
+                                "id": "1541464632957472842",
+                                "type": "staple",
+                                "order": "back",
+                                "anchor": "bottom",
+                                "responsive": false
+                            }
+                        ],
+                        "inner_width": 1200,
+                        "overflow_top": 215,
+                        "overflow_bottom": 133,
+                        "overflow_horizontal": 56
+                    }
+                ],
+                "type": 1000,
+                "premium_type": 0,
+                "category_sku_id": "1541248655800012960",
+                "bundled_products": [
+                    {
+                        "sku_id": "1541454059670605845",
+                        "name": "Ghost Moth",
+                        "summary": "Give your avatar a new look.",
+                        "type": 0,
+                        "premium_type": 0,
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 599,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 499,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "sku_id": "1541458062701895761",
+                        "name": "Ghost Moth",
+                        "summary": "Make your name stand out in servers and chats.",
+                        "type": 2,
+                        "premium_type": 0,
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 599,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 499,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "sku_id": "1541462269999972432",
+                        "name": "Mothman",
+                        "summary": "Show this effect when others view your profile.",
+                        "type": 1,
+                        "premium_type": 0,
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 599,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 499,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "sku_id": "1541464541966114826",
+                        "name": "Bare Branches",
+                        "summary": "Elevate and wrap your profile with a frame.",
+                        "type": 3,
+                        "premium_type": 0,
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 599,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 499,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ],
+                "google_sku_ids": {
+                    "5": "1541465515636162570_1541468798048014406",
+                    "7": "1541465515636162570_1541468805249896528"
+                },
+                "is_first_party": true
+            },
+            {
+                "sku_id": "1541465312443236473",
+                "name": "Jackalope Bundle",
+                "summary": "{joinedItems}",
+                "styles": {
+                    "background_colors": [
+                        0,
+                        0
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 2099,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 14400,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 1699,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 14400,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "preview_assets": {
+                    "fg_static": "https://cdn.discordapp.com/media/v1/collectibles-shop/bundle-fg-static/1541465312443236473",
+                    "bg_static": "https://cdn.discordapp.com/media/v1/collectibles-shop/bundle-bg-static/1541465312443236473"
+                },
+                "items": [
+                    {
+                        "type": 0,
+                        "sku_id": "1541453953760239616",
+                        "asset": "a_f6fc1d536c93a40bfdfdf3efaf5f0aca",
+                        "label": "Pale moonflowers and trailing vines"
+                    },
+                    {
+                        "type": 2,
+                        "sku_id": "1541457836360601652",
+                        "asset": "nameplates/moonflowers/1541457836360601652/",
+                        "label": "A horned Jackalope stands among moonflowers and vines",
+                        "palette": "forest"
+                    },
+                    {
+                        "type": 1,
+                        "sku_id": "1541461252587397270",
+                        "title": "Moonflowers (Jackalope)",
+                        "description": "Show this effect when others view your profile.",
+                        "accessibilityLabel": "Vines with pale moonflowers encircle a crescent moon with a jackalope beneath",
+                        "animationType": 1,
+                        "staticFrameSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/9e985bb9dcdfd10b0e651d7c8403a4b709c9fe9750d6082307ad5efb1318c0da",
+                        "thumbnailPreviewSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/ed46943222a428a7a2c26fd78cc36f3a17f31cd9e6f30855422f016f45ef8189",
+                        "reducedMotionSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/93901ed79d6e5b5c3ae694fca79d329ca8792c2e43cc753726f16104d455709a",
+                        "effects": [
+                            {
+                                "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/7b9d0c8ce8287a2600543a1c65f872262e30a9eeed68936f01bef7e99c40f95b",
+                                "loop": false,
+                                "duration": 5000,
+                                "start": 0,
+                                "loopDelay": 0,
+                                "zIndex": 100,
+                                "randomizedSources": []
+                            },
+                            {
+                                "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/684d47f73e67c1393c54cd605ee9ddda072df1ae68672eb1d41bf90f933bd480",
+                                "loop": true,
+                                "duration": 5000,
+                                "start": 4999,
+                                "loopDelay": 0,
+                                "zIndex": 101,
+                                "randomizedSources": []
+                            }
+                        ]
+                    },
+                    {
+                        "type": 3,
+                        "sku_id": "1541464049919983667",
+                        "label": "Pale moonflowers and vines form a border around the profile",
+                        "layers": [
+                            {
+                                "id": "1541464161576423504",
+                                "type": "staple",
+                                "order": "front",
+                                "anchor": "top",
+                                "responsive": false
+                            },
+                            {
+                                "id": "1541464165909012671",
+                                "type": "staple",
+                                "order": "front",
+                                "anchor": "bottom",
+                                "responsive": false
+                            },
+                            {
+                                "id": "1541464169302335608",
+                                "type": "staple",
+                                "order": "back",
+                                "anchor": "top",
+                                "responsive": false
+                            },
+                            {
+                                "id": "1541464173194518649",
+                                "type": "staple",
+                                "order": "back",
+                                "anchor": "bottom",
+                                "responsive": false
+                            }
+                        ],
+                        "inner_width": 1200,
+                        "overflow_top": 303,
+                        "overflow_bottom": 212,
+                        "overflow_horizontal": 55
+                    }
+                ],
+                "type": 1000,
+                "premium_type": 0,
+                "category_sku_id": "1541248655800012960",
+                "bundled_products": [
+                    {
+                        "sku_id": "1541453953760239616",
+                        "name": "Moonflowers",
+                        "summary": "Give your avatar a new look.",
+                        "type": 0,
+                        "premium_type": 0,
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 599,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 499,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "sku_id": "1541457836360601652",
+                        "name": "Moonflowers (Jackalope)",
+                        "summary": "Make your name stand out in servers and chats.",
+                        "type": 2,
+                        "premium_type": 0,
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 599,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 499,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "sku_id": "1541461252587397270",
+                        "name": "Moonflowers (Jackalope)",
+                        "summary": "Show this effect when others view your profile.",
+                        "type": 1,
+                        "premium_type": 0,
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 599,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 499,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "sku_id": "1541464049919983667",
+                        "name": "Moonflowers",
+                        "summary": "Elevate and wrap your profile with a frame.",
+                        "type": 3,
+                        "premium_type": 0,
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 599,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 499,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ],
+                "google_sku_ids": {
+                    "5": "1541465312443236473_1541466730885283881",
+                    "7": "1541465312443236473_1541466736912634006"
+                },
+                "is_first_party": true
+            },
+            {
+                "sku_id": "1541464730349076500",
+                "name": "Jersey Devil Bundle",
+                "summary": "{joinedItems}",
+                "styles": {
+                    "background_colors": [
+                        0,
+                        0
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 2099,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 14400,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 1699,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 14400,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "preview_assets": {
+                    "fg_static": "https://cdn.discordapp.com/media/v1/collectibles-shop/bundle-fg-static/1541464730349076500",
+                    "bg_static": "https://cdn.discordapp.com/media/v1/collectibles-shop/bundle-bg-static/1541464730349076500"
+                },
+                "items": [
+                    {
+                        "type": 0,
+                        "sku_id": "1541453590374256650",
+                        "asset": "a_ddcb58dc871566410f6798bf37d45ae0",
+                        "label": "Dark curved devil horns and ears"
+                    },
+                    {
+                        "type": 2,
+                        "sku_id": "1541454356434395136",
+                        "asset": "nameplates/jersey_devil/1541454356434395136/",
+                        "label": "A horned devil creature roars in a foggy forest",
+                        "palette": "white"
+                    },
+                    {
+                        "type": 1,
+                        "sku_id": "1541458389949874236",
+                        "title": "Jersey Devil",
+                        "description": "Show this effect when others view your profile.",
+                        "accessibilityLabel": "A horned devil creature emerges from a foggy forest",
+                        "animationType": 2,
+                        "thumbnailPreviewSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/c630a6338341e384a575da9bf2571237ae6b7317f8e77d47216d28b25a58270b",
+                        "reducedMotionSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/ad2578e0962793622563a01bffd01134e2ca1349afd5a688351dc29e0fa47962",
+                        "effects": [
+                            {
+                                "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/4d6f618dbe94a45857e73fd2f66050d91e492bc16494e0bdc2786d545d34b40a",
+                                "loop": false,
+                                "duration": 5083,
+                                "start": 0,
+                                "loopDelay": 0,
+                                "zIndex": 100,
+                                "randomizedSources": []
+                            },
+                            {
+                                "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/5348393692e3b9d3fbee89d482f48589b541d62a41baa3d1c996528d458694b8",
+                                "loop": true,
+                                "duration": 5000,
+                                "start": 8500,
+                                "loopDelay": 3500,
+                                "zIndex": 101,
+                                "randomizedSources": []
+                            }
+                        ]
+                    },
+                    {
+                        "type": 3,
+                        "sku_id": "1541462746032381982",
+                        "label": "Dark thorny branches form a spiked border around the profile",
+                        "layers": [
+                            {
+                                "id": "1541463498339516477",
+                                "type": "rail",
+                                "order": "front",
+                                "anchor": "top",
+                                "responsive": true
+                            },
+                            {
+                                "id": "1541463501657215026",
+                                "type": "staple",
+                                "order": "front",
+                                "anchor": "top",
+                                "responsive": false
+                            },
+                            {
+                                "id": "1541463505176109087",
+                                "type": "staple",
+                                "order": "back",
+                                "anchor": "top",
+                                "responsive": false
+                            }
+                        ],
+                        "inner_width": 1200,
+                        "overflow_top": 270,
+                        "overflow_bottom": 0,
+                        "overflow_horizontal": 56
+                    }
+                ],
+                "type": 1000,
+                "premium_type": 0,
+                "category_sku_id": "1541248655800012960",
+                "bundled_products": [
+                    {
+                        "sku_id": "1541453590374256650",
+                        "name": "Demon Horns",
+                        "summary": "Give your avatar a new look.",
+                        "type": 0,
+                        "premium_type": 0,
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 599,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 499,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "sku_id": "1541454356434395136",
+                        "name": "Jersey Devil",
+                        "summary": "Make your name stand out in servers and chats.",
+                        "type": 2,
+                        "premium_type": 0,
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 599,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 499,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "sku_id": "1541458389949874236",
+                        "name": "Jersey Devil",
+                        "summary": "Show this effect when others view your profile.",
+                        "type": 1,
+                        "premium_type": 0,
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 599,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 499,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "sku_id": "1541462746032381982",
+                        "name": "Devil's Thorns",
+                        "summary": "Elevate and wrap your profile with a frame.",
+                        "type": 3,
+                        "premium_type": 0,
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 599,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 499,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ],
+                "google_sku_ids": {
+                    "5": "1541464730349076500_1541469057566375936",
+                    "7": "1541464730349076500_1541469062553411595"
+                },
+                "is_first_party": true
+            },
+            {
+                "sku_id": "1541465731583971358",
+                "name": "La Llorona Bundle",
+                "summary": "{joinedItems}",
+                "styles": {
+                    "background_colors": [
+                        0,
+                        0
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 1599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 11000,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 1299,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 11000,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "preview_assets": {
+                    "fg_static": "https://cdn.discordapp.com/media/v1/collectibles-shop/bundle-fg-static/1541465731583971358",
+                    "bg_static": "https://cdn.discordapp.com/media/v1/collectibles-shop/bundle-bg-static/1541465731583971358"
+                },
+                "items": [
+                    {
+                        "type": 0,
+                        "sku_id": "1541454236456456232",
+                        "asset": "a_321b7d7cde2926b0c6323933684cd091",
+                        "label": "Glowing teal wisps of ghostly light"
+                    },
+                    {
+                        "type": 2,
+                        "sku_id": "1541458198177779782",
+                        "asset": "nameplates/will-o'-the-wisp/1541458198177779782/",
+                        "label": "Glowing green wisps drift through misty light",
+                        "palette": "teal"
+                    },
+                    {
+                        "type": 1,
+                        "sku_id": "1541462491387662336",
+                        "title": "La Llorona",
+                        "description": "Show this effect when others view your profile.",
+                        "accessibilityLabel": "A ghostly translucent figure drifts through misty light, trailed by glowing wisps",
+                        "animationType": 1,
+                        "staticFrameSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/cf6bf672be59f2343c44af8614c2e1c6db8a0572b1fe9034db172c2a96d30ca7",
+                        "thumbnailPreviewSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/daf7dc5e029a14dc6a1b5ae1bc000606d76cd212e2cb232e57f52baf66eda3e5",
+                        "reducedMotionSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/8aac911cd9e9dd94e8282fb2ca18a2b5c0db4afe1ab921bdb7fca46b3a9d64b3",
+                        "effects": [
+                            {
+                                "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/1bbc69db6468dd93e7dc34414108dc3661f756f9c77adcf536e0cf2fb9c1f4f7",
+                                "loop": false,
+                                "duration": 5000,
+                                "start": 0,
+                                "loopDelay": 0,
+                                "zIndex": 102,
+                                "randomizedSources": []
+                            },
+                            {
+                                "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/00dc9fba5a4c13e82ac4b2b2173c4502c74fef3feda61ef4557437331e05349d",
+                                "loop": true,
+                                "duration": 5000,
+                                "start": 8500,
+                                "loopDelay": 5000,
+                                "zIndex": 103,
+                                "randomizedSources": []
+                            }
+                        ]
+                    }
+                ],
+                "type": 1000,
+                "premium_type": 0,
+                "category_sku_id": "1541248655800012960",
+                "bundled_products": [
+                    {
+                        "sku_id": "1541454236456456232",
+                        "name": "Will-o'-the-Wisp",
+                        "summary": "Give your avatar a new look.",
+                        "type": 0,
+                        "premium_type": 0,
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 599,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 499,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "sku_id": "1541458198177779782",
+                        "name": "Will-o'-the-Wisp",
+                        "summary": "Make your name stand out in servers and chats.",
+                        "type": 2,
+                        "premium_type": 0,
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 599,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 499,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "sku_id": "1541462491387662336",
+                        "name": "La Llorona",
+                        "summary": "Show this effect when others view your profile.",
+                        "type": 1,
+                        "premium_type": 0,
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 599,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 499,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ],
+                "google_sku_ids": {
+                    "5": "1541465731583971358_1541468927513600030",
+                    "7": "1541465731583971358_1541468935688294491"
+                },
+                "is_first_party": true
+            },
+            {
+                "sku_id": "1541454059670605845",
+                "name": "Ghost Moth",
+                "summary": "Give your avatar a new look.",
+                "styles": {
+                    "background_colors": [
+                        0,
+                        0
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "preview_assets": null,
+                "items": [
+                    {
+                        "type": 0,
+                        "sku_id": "1541454059670605845",
+                        "asset": "a_363732b221f45aa7e81b3be945c6e072",
+                        "label": "Pale, translucent moth wings"
+                    }
+                ],
+                "type": 0,
+                "premium_type": 0,
+                "category_sku_id": "1541248655800012960",
+                "google_sku_ids": {
+                    "5": "1541454059670605845_1541458009295691976",
+                    "7": "1541454059670605845_1541458016031997962"
+                },
+                "is_first_party": true
+            },
+            {
+                "sku_id": "1541453953760239616",
+                "name": "Moonflowers",
+                "summary": "Give your avatar a new look.",
+                "styles": {
+                    "background_colors": [
+                        0,
+                        0
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "preview_assets": null,
+                "items": [
+                    {
+                        "type": 0,
+                        "sku_id": "1541453953760239616",
+                        "asset": "a_f6fc1d536c93a40bfdfdf3efaf5f0aca",
+                        "label": "Pale moonflowers and trailing vines"
+                    }
+                ],
+                "type": 0,
+                "premium_type": 0,
+                "category_sku_id": "1541248655800012960",
+                "google_sku_ids": {
+                    "5": "1541453953760239616_1541456238842351706",
+                    "7": "1541453953760239616_1541456244227702856"
+                },
+                "is_first_party": true
+            },
+            {
+                "sku_id": "1541453590374256650",
+                "name": "Demon Horns",
+                "summary": "Give your avatar a new look.",
+                "styles": {
+                    "background_colors": [
+                        0,
+                        0
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "preview_assets": null,
+                "items": [
+                    {
+                        "type": 0,
+                        "sku_id": "1541453590374256650",
+                        "asset": "a_ddcb58dc871566410f6798bf37d45ae0",
+                        "label": "Dark curved devil horns and ears"
+                    }
+                ],
+                "type": 0,
+                "premium_type": 0,
+                "category_sku_id": "1541248655800012960",
+                "google_sku_ids": {
+                    "5": "1541453590374256650_1541457519992373318",
+                    "7": "1541453590374256650_1541457526283968602"
+                },
+                "is_first_party": true
+            },
+            {
+                "sku_id": "1541454236456456232",
+                "name": "Will-o'-the-Wisp",
+                "summary": "Give your avatar a new look.",
+                "styles": {
+                    "background_colors": [
+                        0,
+                        0
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "preview_assets": null,
+                "items": [
+                    {
+                        "type": 0,
+                        "sku_id": "1541454236456456232",
+                        "asset": "a_321b7d7cde2926b0c6323933684cd091",
+                        "label": "Glowing teal wisps of ghostly light"
+                    }
+                ],
+                "type": 0,
+                "premium_type": 0,
+                "category_sku_id": "1541248655800012960",
+                "google_sku_ids": {
+                    "5": "1541454236456456232_1541454998620078120",
+                    "7": "1541454236456456232_1541455005243150367"
+                },
+                "is_first_party": true
+            },
+            {
+                "sku_id": "1541458062701895761",
+                "name": "Ghost Moth",
+                "summary": "Make your name stand out in servers and chats.",
+                "styles": {
+                    "background_colors": [
+                        0,
+                        0
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "preview_assets": null,
+                "items": [
+                    {
+                        "type": 2,
+                        "sku_id": "1541458062701895761",
+                        "asset": "nameplates/ghost_moth/1541458062701895761/",
+                        "label": "A pale moth glows softly in misty light",
+                        "palette": "black"
+                    }
+                ],
+                "type": 2,
+                "premium_type": 0,
+                "category_sku_id": "1541248655800012960",
+                "google_sku_ids": {
+                    "5": "1541458062701895761_1541462143994691655",
+                    "7": "1541458062701895761_1541462150067785748"
+                },
+                "is_first_party": true
+            },
+            {
+                "sku_id": "1541454524210745364",
+                "name": "Moonflowers (Base)",
+                "summary": "Make your name stand out in servers and chats.",
+                "styles": {
+                    "background_colors": [
+                        0,
+                        0
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "preview_assets": null,
+                "items": [
+                    {
+                        "type": 2,
+                        "sku_id": "1541454524210745364",
+                        "asset": "nameplates/moonflowers/1541454524210745364/",
+                        "label": "Pale moonflowers and trailing vines on a green backdrop",
+                        "palette": "forest"
+                    }
+                ],
+                "type": 2,
+                "premium_type": 0,
+                "category_sku_id": "1541248655800012960",
+                "google_sku_ids": {
+                    "5": "1541454524210745364_1541460160067665940",
+                    "7": "1541454524210745364_1541460167475077150"
+                },
+                "is_first_party": true
+            },
+            {
+                "sku_id": "1541457836360601652",
+                "name": "Moonflowers (Jackalope)",
+                "summary": "Make your name stand out in servers and chats.",
+                "styles": {
+                    "background_colors": [
+                        0,
+                        0
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "preview_assets": null,
+                "items": [
+                    {
+                        "type": 2,
+                        "sku_id": "1541457836360601652",
+                        "asset": "nameplates/moonflowers/1541457836360601652/",
+                        "label": "A horned Jackalope stands among moonflowers and vines",
+                        "palette": "forest"
+                    }
+                ],
+                "type": 2,
+                "premium_type": 0,
+                "category_sku_id": "1541248655800012960",
+                "google_sku_ids": {
+                    "5": "1541457836360601652_1541462211371868290",
+                    "7": "1541457836360601652_1541462218170966157"
+                },
+                "is_first_party": true
+            },
+            {
+                "sku_id": "1541454356434395136",
+                "name": "Jersey Devil",
+                "summary": "Make your name stand out in servers and chats.",
+                "styles": {
+                    "background_colors": [
+                        0,
+                        0
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "preview_assets": null,
+                "items": [
+                    {
+                        "type": 2,
+                        "sku_id": "1541454356434395136",
+                        "asset": "nameplates/jersey_devil/1541454356434395136/",
+                        "label": "A horned devil creature roars in a foggy forest",
+                        "palette": "white"
+                    }
+                ],
+                "type": 2,
+                "premium_type": 0,
+                "category_sku_id": "1541248655800012960",
+                "google_sku_ids": {
+                    "5": "1541454356434395136_1541457892601888960",
+                    "7": "1541454356434395136_1541457898587029574"
+                },
+                "is_first_party": true
+            },
+            {
+                "sku_id": "1541458198177779782",
+                "name": "Will-o'-the-Wisp",
+                "summary": "Make your name stand out in servers and chats.",
+                "styles": {
+                    "background_colors": [
+                        0,
+                        0
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "preview_assets": null,
+                "items": [
+                    {
+                        "type": 2,
+                        "sku_id": "1541458198177779782",
+                        "asset": "nameplates/will-o'-the-wisp/1541458198177779782/",
+                        "label": "Glowing green wisps drift through misty light",
+                        "palette": "teal"
+                    }
+                ],
+                "type": 2,
+                "premium_type": 0,
+                "category_sku_id": "1541248655800012960",
+                "google_sku_ids": {
+                    "5": "1541458198177779782_1541460056552251503",
+                    "7": "1541458198177779782_1541460062130798602"
+                },
+                "is_first_party": true
+            },
+            {
+                "sku_id": "1541462269999972432",
+                "name": "Mothman",
+                "summary": "Show this effect when others view your profile.",
+                "styles": {
+                    "background_colors": [
+                        0,
+                        0
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "preview_assets": null,
+                "items": [
+                    {
+                        "type": 1,
+                        "sku_id": "1541462269999972432",
+                        "title": "Mothman",
+                        "description": "Show this effect when others view your profile.",
+                        "accessibilityLabel": "A red-eyed, owl-like creature perches on a bare branch under a full moon",
+                        "animationType": 2,
+                        "thumbnailPreviewSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/88278b3768b7a4e2dc71af8f77c136b07169c7eafb0cc752969bb07ada33e112",
+                        "reducedMotionSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/39d61c814965ad280b0bd00a84d0e2689838ed4cf49659dae74c5f606ae57eb5",
+                        "effects": [
+                            {
+                                "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/1f2b91c50cc613ac683138f81c4fd6636445246275d0a43be220105b7426dc37",
+                                "loop": false,
+                                "duration": 5000,
+                                "start": 0,
+                                "loopDelay": 0,
+                                "zIndex": 100,
+                                "randomizedSources": []
+                            },
+                            {
+                                "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/6141bed8d0353c9104a069af0c42dc80967c72a4061c018f7ace53c1f4a359ad",
+                                "loop": true,
+                                "duration": 5000,
+                                "start": 8000,
+                                "loopDelay": 3500,
+                                "zIndex": 101,
+                                "randomizedSources": [
+                                    {
+                                        "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/6141bed8d0353c9104a069af0c42dc80967c72a4061c018f7ace53c1f4a359ad"
+                                    },
+                                    {
+                                        "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/018e9aacc0a05f90dd18b4851c7130041321d0dbdc5df32944d7d361d0e65794"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "type": 1,
+                "premium_type": 0,
+                "category_sku_id": "1541248655800012960",
+                "google_sku_ids": {
+                    "5": "1541462269999972432_1541465876962746399",
+                    "7": "1541462269999972432_1541465883258527804"
+                },
+                "is_first_party": true
+            },
+            {
+                "sku_id": "1541460613727911936",
+                "name": "Moonflowers (Base)",
+                "summary": "Show this effect when others view your profile.",
+                "styles": {
+                    "background_colors": [
+                        0,
+                        0
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "preview_assets": null,
+                "items": [
+                    {
+                        "type": 1,
+                        "sku_id": "1541460613727911936",
+                        "title": "Moonflowers (Base)",
+                        "description": "Show this effect when others view your profile.",
+                        "accessibilityLabel": "Vines with pale moonflowers encircle a crescent moon",
+                        "animationType": 1,
+                        "staticFrameSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/9e985bb9dcdfd10b0e651d7c8403a4b709c9fe9750d6082307ad5efb1318c0da",
+                        "thumbnailPreviewSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/5c86da4e65bd9a5a5c0f37ad559ec6637fde50a6782dc6800cb7ee88293676d0",
+                        "reducedMotionSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/93901ed79d6e5b5c3ae694fca79d329ca8792c2e43cc753726f16104d455709a",
+                        "effects": [
+                            {
+                                "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/bbd175b29de9b89e9bb88f5e1f690033a7112be874c57e7d7aed06c9db80a606",
+                                "loop": false,
+                                "duration": 5000,
+                                "start": 0,
+                                "loopDelay": 0,
+                                "zIndex": 100,
+                                "randomizedSources": []
+                            },
+                            {
+                                "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/684d47f73e67c1393c54cd605ee9ddda072df1ae68672eb1d41bf90f933bd480",
+                                "loop": true,
+                                "duration": 5000,
+                                "start": 4999,
+                                "loopDelay": 0,
+                                "zIndex": 101,
+                                "randomizedSources": []
+                            }
+                        ]
+                    }
+                ],
+                "type": 1,
+                "premium_type": 0,
+                "category_sku_id": "1541248655800012960",
+                "google_sku_ids": {
+                    "5": "1541460613727911936_1541463889835987025",
+                    "7": "1541460613727911936_1541463896110399528"
+                },
+                "is_first_party": true
+            },
+            {
+                "sku_id": "1541461252587397270",
+                "name": "Moonflowers (Jackalope)",
+                "summary": "Show this effect when others view your profile.",
+                "styles": {
+                    "background_colors": [
+                        0,
+                        0
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "preview_assets": null,
+                "items": [
+                    {
+                        "type": 1,
+                        "sku_id": "1541461252587397270",
+                        "title": "Moonflowers (Jackalope)",
+                        "description": "Show this effect when others view your profile.",
+                        "accessibilityLabel": "Vines with pale moonflowers encircle a crescent moon with a jackalope beneath",
+                        "animationType": 1,
+                        "staticFrameSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/9e985bb9dcdfd10b0e651d7c8403a4b709c9fe9750d6082307ad5efb1318c0da",
+                        "thumbnailPreviewSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/ed46943222a428a7a2c26fd78cc36f3a17f31cd9e6f30855422f016f45ef8189",
+                        "reducedMotionSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/93901ed79d6e5b5c3ae694fca79d329ca8792c2e43cc753726f16104d455709a",
+                        "effects": [
+                            {
+                                "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/7b9d0c8ce8287a2600543a1c65f872262e30a9eeed68936f01bef7e99c40f95b",
+                                "loop": false,
+                                "duration": 5000,
+                                "start": 0,
+                                "loopDelay": 0,
+                                "zIndex": 100,
+                                "randomizedSources": []
+                            },
+                            {
+                                "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/684d47f73e67c1393c54cd605ee9ddda072df1ae68672eb1d41bf90f933bd480",
+                                "loop": true,
+                                "duration": 5000,
+                                "start": 4999,
+                                "loopDelay": 0,
+                                "zIndex": 101,
+                                "randomizedSources": []
+                            }
+                        ]
+                    }
+                ],
+                "type": 1,
+                "premium_type": 0,
+                "category_sku_id": "1541248655800012960",
+                "google_sku_ids": {
+                    "5": "1541461252587397270_1541465293610549319",
+                    "7": "1541461252587397270_1541465298828529826"
+                },
+                "is_first_party": true
+            },
+            {
+                "sku_id": "1541458389949874236",
+                "name": "Jersey Devil",
+                "summary": "Show this effect when others view your profile.",
+                "styles": {
+                    "background_colors": [
+                        0,
+                        0
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "preview_assets": null,
+                "items": [
+                    {
+                        "type": 1,
+                        "sku_id": "1541458389949874236",
+                        "title": "Jersey Devil",
+                        "description": "Show this effect when others view your profile.",
+                        "accessibilityLabel": "A horned devil creature emerges from a foggy forest",
+                        "animationType": 2,
+                        "thumbnailPreviewSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/c630a6338341e384a575da9bf2571237ae6b7317f8e77d47216d28b25a58270b",
+                        "reducedMotionSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/ad2578e0962793622563a01bffd01134e2ca1349afd5a688351dc29e0fa47962",
+                        "effects": [
+                            {
+                                "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/4d6f618dbe94a45857e73fd2f66050d91e492bc16494e0bdc2786d545d34b40a",
+                                "loop": false,
+                                "duration": 5083,
+                                "start": 0,
+                                "loopDelay": 0,
+                                "zIndex": 100,
+                                "randomizedSources": []
+                            },
+                            {
+                                "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/5348393692e3b9d3fbee89d482f48589b541d62a41baa3d1c996528d458694b8",
+                                "loop": true,
+                                "duration": 5000,
+                                "start": 8500,
+                                "loopDelay": 3500,
+                                "zIndex": 101,
+                                "randomizedSources": []
+                            }
+                        ]
+                    }
+                ],
+                "type": 1,
+                "premium_type": 0,
+                "category_sku_id": "1541248655800012960",
+                "google_sku_ids": {
+                    "5": "1541458389949874236_1541460739494121533",
+                    "7": "1541458389949874236_1541460745143722044"
+                },
+                "is_first_party": true
+            },
+            {
+                "sku_id": "1541462491387662336",
+                "name": "La Llorona",
+                "summary": "Show this effect when others view your profile.",
+                "styles": {
+                    "background_colors": [
+                        0,
+                        0
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "preview_assets": null,
+                "items": [
+                    {
+                        "type": 1,
+                        "sku_id": "1541462491387662336",
+                        "title": "La Llorona",
+                        "description": "Show this effect when others view your profile.",
+                        "accessibilityLabel": "A ghostly translucent figure drifts through misty light, trailed by glowing wisps",
+                        "animationType": 1,
+                        "staticFrameSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/cf6bf672be59f2343c44af8614c2e1c6db8a0572b1fe9034db172c2a96d30ca7",
+                        "thumbnailPreviewSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/daf7dc5e029a14dc6a1b5ae1bc000606d76cd212e2cb232e57f52baf66eda3e5",
+                        "reducedMotionSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/8aac911cd9e9dd94e8282fb2ca18a2b5c0db4afe1ab921bdb7fca46b3a9d64b3",
+                        "effects": [
+                            {
+                                "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/1bbc69db6468dd93e7dc34414108dc3661f756f9c77adcf536e0cf2fb9c1f4f7",
+                                "loop": false,
+                                "duration": 5000,
+                                "start": 0,
+                                "loopDelay": 0,
+                                "zIndex": 102,
+                                "randomizedSources": []
+                            },
+                            {
+                                "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/00dc9fba5a4c13e82ac4b2b2173c4502c74fef3feda61ef4557437331e05349d",
+                                "loop": true,
+                                "duration": 5000,
+                                "start": 8500,
+                                "loopDelay": 5000,
+                                "zIndex": 103,
+                                "randomizedSources": []
+                            }
+                        ]
+                    }
+                ],
+                "type": 1,
+                "premium_type": 0,
+                "category_sku_id": "1541248655800012960",
+                "google_sku_ids": {
+                    "5": "1541462491387662336_1541463498096123975",
+                    "7": "1541462491387662336_1541463503716487229"
+                },
+                "is_first_party": true
+            },
+            {
+                "sku_id": "1541464541966114826",
+                "name": "Bare Branches",
+                "summary": "Elevate and wrap your profile with a frame.",
+                "styles": {
+                    "background_colors": [
+                        0,
+                        0
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "preview_assets": null,
+                "items": [
+                    {
+                        "type": 3,
+                        "sku_id": "1541464541966114826",
+                        "label": "Bare, gnarled tree branches form a border around the proflie",
+                        "layers": [
+                            {
+                                "id": "1541464621884510258",
+                                "type": "staple",
+                                "order": "front",
+                                "anchor": "top",
+                                "responsive": false
+                            },
+                            {
+                                "id": "1541464626057711706",
+                                "type": "staple",
+                                "order": "front",
+                                "anchor": "bottom",
+                                "responsive": false
+                            },
+                            {
+                                "id": "1541464629321011250",
+                                "type": "staple",
+                                "order": "back",
+                                "anchor": "top",
+                                "responsive": false
+                            },
+                            {
+                                "id": "1541464632957472842",
+                                "type": "staple",
+                                "order": "back",
+                                "anchor": "bottom",
+                                "responsive": false
+                            }
+                        ],
+                        "inner_width": 1200,
+                        "overflow_top": 215,
+                        "overflow_bottom": 133,
+                        "overflow_horizontal": 56
+                    }
+                ],
+                "type": 3,
+                "premium_type": 0,
+                "category_sku_id": "1541248655800012960",
+                "google_sku_ids": {
+                    "5": "1541464541966114826_1541468863164579981",
+                    "7": "1541464541966114826_1541468871519899809"
+                },
+                "is_first_party": true
+            },
+            {
+                "sku_id": "1541464049919983667",
+                "name": "Moonflowers",
+                "summary": "Elevate and wrap your profile with a frame.",
+                "styles": {
+                    "background_colors": [
+                        0,
+                        0
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "preview_assets": null,
+                "items": [
+                    {
+                        "type": 3,
+                        "sku_id": "1541464049919983667",
+                        "label": "Pale moonflowers and vines form a border around the profile",
+                        "layers": [
+                            {
+                                "id": "1541464161576423504",
+                                "type": "staple",
+                                "order": "front",
+                                "anchor": "top",
+                                "responsive": false
+                            },
+                            {
+                                "id": "1541464165909012671",
+                                "type": "staple",
+                                "order": "front",
+                                "anchor": "bottom",
+                                "responsive": false
+                            },
+                            {
+                                "id": "1541464169302335608",
+                                "type": "staple",
+                                "order": "back",
+                                "anchor": "top",
+                                "responsive": false
+                            },
+                            {
+                                "id": "1541464173194518649",
+                                "type": "staple",
+                                "order": "back",
+                                "anchor": "bottom",
+                                "responsive": false
+                            }
+                        ],
+                        "inner_width": 1200,
+                        "overflow_top": 303,
+                        "overflow_bottom": 212,
+                        "overflow_horizontal": 55
+                    }
+                ],
+                "type": 3,
+                "premium_type": 0,
+                "category_sku_id": "1541248655800012960",
+                "google_sku_ids": {
+                    "5": "1541464049919983667_1541465945749332069",
+                    "7": "1541464049919983667_1541465951088934982"
+                },
+                "is_first_party": true
+            },
+            {
+                "sku_id": "1541462746032381982",
+                "name": "Devil's Thorns",
+                "summary": "Elevate and wrap your profile with a frame.",
+                "styles": {
+                    "background_colors": [
+                        0,
+                        0
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "preview_assets": null,
+                "items": [
+                    {
+                        "type": 3,
+                        "sku_id": "1541462746032381982",
+                        "label": "Dark thorny branches form a spiked border around the profile",
+                        "layers": [
+                            {
+                                "id": "1541463498339516477",
+                                "type": "rail",
+                                "order": "front",
+                                "anchor": "top",
+                                "responsive": true
+                            },
+                            {
+                                "id": "1541463501657215026",
+                                "type": "staple",
+                                "order": "front",
+                                "anchor": "top",
+                                "responsive": false
+                            },
+                            {
+                                "id": "1541463505176109087",
+                                "type": "staple",
+                                "order": "back",
+                                "anchor": "top",
+                                "responsive": false
+                            }
+                        ],
+                        "inner_width": 1200,
+                        "overflow_top": 270,
+                        "overflow_bottom": 0,
+                        "overflow_horizontal": 56
+                    }
+                ],
+                "type": 3,
+                "premium_type": 0,
+                "category_sku_id": "1541248655800012960",
+                "google_sku_ids": {
+                    "5": "1541462746032381982_1541465089494745199",
+                    "7": "1541462746032381982_1541465094926377011"
+                },
+                "is_first_party": true
+            }
+        ],
+        "hero_banner_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/900c246a82b7b5f1302319625b2218a7fd6bddff367c46f6561cfedde4f44453",
+        "hero_logo_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/d9c5dccdae0e3449ea67e1b7a4723b11a1bf2418999ddb3b9a69800175a5c872",
+        "catalog_banner_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/b43b0814651ff0161b4b4737924f4afa8760d1e656b745ee723da8fef9a83bb8",
+        "featured_block_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/7001479b465e40e3b4388ebb3e078c73f36b0503e557d621be158bb869fcd47f",
+        "logo_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/d9c5dccdae0e3449ea67e1b7a4723b11a1bf2418999ddb3b9a69800175a5c872",
+        "pdp_bg_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/f42668b1a1698c25a4bdb1f105bcf14865fc26ac0196e1e8c51d067d0aadcd36",
+        "mobile_hero_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/3ebda21f305b0d98054929574754701d26592f873b9edd9837d7703a0fc67254",
+        "mobile_banner_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/665fe9c89421af34d0cb6a4b1d5f75bbb94d042e0499cf3447adb67871a316cc",
+        "mobile_bg_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/f4f1b4a0c83f286d347d6b7875eea77b91db9e71cca4eb532729e949dadf426d",
+        "hero_banner_display_config": {
+            "desktop_max_height": null,
+            "mobile_max_height": null,
+            "responsive": null,
+            "background_style": "linear-gradient(180deg, #000000 0%, #000000 100%)"
+        }
     }
 ]
