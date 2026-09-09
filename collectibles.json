@@ -185403,5 +185403,1766 @@
             "responsive": null,
             "background_style": "linear-gradient(180deg, #000000 0%, #000000 100%)"
         }
+    },
+    {
+        "sku_id": "1544051220942029012",
+        "name": "Mermaid Melodies",
+        "summary": " ",
+        "store_listing_id": "1544051220942029012",
+        "styles": {
+            "background_colors": [
+                16506845,
+                9919107
+            ],
+            "button_colors": [
+                5793266,
+                5793266
+            ],
+            "confetti_colors": [
+                43772,
+                15774258,
+                16414587,
+                3000177,
+                9739511
+            ]
+        },
+        "hero_ranking": [
+            "1544103799432683580",
+            "1544104562116403303",
+            "1544101523082977290",
+            "1544102352368304179",
+            "1544102243152961646",
+            "1544104329017950208",
+            "1544102433343668364",
+            "1544102562620375061",
+            "1544102714131091496",
+            "1544102836437123182",
+            "1544103047083466772",
+            "1544103361148755998",
+            "1544103549892300830"
+        ],
+        "products": [
+            {
+                "sku_id": "1544103799432683580",
+                "name": "Mer-Bubbles Bundle",
+                "summary": "{joinedItems}",
+                "styles": {
+                    "background_colors": [
+                        16506845,
+                        9919107
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 2099,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 14400,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 1699,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 14400,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "preview_assets": {
+                    "fg_static": "https://cdn.discordapp.com/media/v1/collectibles-shop/bundle-fg-static/1544103799432683580",
+                    "bg_static": "https://cdn.discordapp.com/media/v1/collectibles-shop/bundle-bg-static/1544103799432683580"
+                },
+                "items": [
+                    {
+                        "type": 0,
+                        "sku_id": "1544102243152961646",
+                        "asset": "a_98128e4c9492e5f805111b5032c3de7a",
+                        "label": "Iridescent pearls encircle the avatar."
+                    },
+                    {
+                        "type": 2,
+                        "sku_id": "1544102433343668364",
+                        "asset": "nameplates/mer-bubbles/1544102433343668364/",
+                        "label": "A pastel purple haze with floating bubbles.",
+                        "palette": "sky"
+                    },
+                    {
+                        "type": 1,
+                        "sku_id": "1544102836437123182",
+                        "title": "Mer-Bubbles",
+                        "description": "Show this effect when others view your profile.",
+                        "accessibilityLabel": "Iridescent bubbles and heart-shaped bubbles float upward.",
+                        "animationType": 2,
+                        "thumbnailPreviewSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/cbcc272d92c12625b122c3ac045007cbf203f4bc03d5e5a18271d711066642ed",
+                        "reducedMotionSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/3dd2c4a42d402fbce611a0ba98a2eb987020a7bcf8971ebe7c32581342f1e52e",
+                        "effects": [
+                            {
+                                "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/d3809919c161a030bc9cc3149b4cbd227bc679a21ac1c4ac086fc1d7d97350b0",
+                                "loop": false,
+                                "duration": 4907,
+                                "start": 0,
+                                "loopDelay": 0,
+                                "zIndex": 110,
+                                "randomizedSources": []
+                            },
+                            {
+                                "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/564b1f2e6a765a912a05f56a0d622503dc7acf56980671e084a9da94c87ce646",
+                                "loop": true,
+                                "duration": 4907,
+                                "start": 7646,
+                                "loopDelay": 2600,
+                                "zIndex": 100,
+                                "randomizedSources": []
+                            }
+                        ]
+                    },
+                    {
+                        "type": 3,
+                        "sku_id": "1544103549892300830",
+                        "label": "Iridescent pearls line the top and bottom of the profile.",
+                        "layers": [
+                            {
+                                "id": "1547338458316541973",
+                                "type": "rail",
+                                "order": "front",
+                                "anchor": "top",
+                                "responsive": true
+                            },
+                            {
+                                "id": "1547338462351597628",
+                                "type": "staple",
+                                "order": "front",
+                                "anchor": "top",
+                                "responsive": false
+                            },
+                            {
+                                "id": "1547338466327789588",
+                                "type": "staple",
+                                "order": "front",
+                                "anchor": "bottom",
+                                "responsive": false
+                            },
+                            {
+                                "id": "1547338470249209936",
+                                "type": "rail",
+                                "order": "back",
+                                "anchor": "top",
+                                "responsive": true
+                            },
+                            {
+                                "id": "1547338474368139274",
+                                "type": "staple",
+                                "order": "back",
+                                "anchor": "top",
+                                "responsive": false
+                            },
+                            {
+                                "id": "1547338478239617044",
+                                "type": "staple",
+                                "order": "back",
+                                "anchor": "bottom",
+                                "responsive": false
+                            }
+                        ],
+                        "inner_width": 1200,
+                        "overflow_top": 190,
+                        "overflow_bottom": 138,
+                        "overflow_horizontal": 56
+                    }
+                ],
+                "type": 1000,
+                "premium_type": 0,
+                "category_sku_id": "1544051220942029012",
+                "bundled_products": [
+                    {
+                        "sku_id": "1544102243152961646",
+                        "name": "Rainbow Pearls",
+                        "summary": "Give your avatar a new look.",
+                        "type": 0,
+                        "premium_type": 0,
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 599,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 499,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "sku_id": "1544102433343668364",
+                        "name": "Mer-Bubbles",
+                        "summary": "Make your name stand out in servers and chats.",
+                        "type": 2,
+                        "premium_type": 0,
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 599,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 499,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "sku_id": "1544102836437123182",
+                        "name": "Mer-Bubbles",
+                        "summary": "Show this effect when others view your profile.",
+                        "type": 1,
+                        "premium_type": 0,
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 599,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 499,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "sku_id": "1544103549892300830",
+                        "name": "Pearly Pop",
+                        "summary": "Elevate and wrap your profile with a frame.",
+                        "type": 3,
+                        "premium_type": 0,
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 599,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 499,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ],
+                "google_sku_ids": {
+                    "5": "1544103799432683580_1544106881868627968",
+                    "7": "1544103799432683580_1544106887207714926"
+                },
+                "is_first_party": true
+            },
+            {
+                "sku_id": "1544104562116403303",
+                "name": "Mermaid Mirage Bundle",
+                "summary": "{joinedItems}",
+                "styles": {
+                    "background_colors": [
+                        16506845,
+                        9919107
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 1599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 11000,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 1299,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 11000,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "preview_assets": {
+                    "fg_static": "https://cdn.discordapp.com/media/v1/collectibles-shop/bundle-fg-static/1544104562116403303",
+                    "bg_static": "https://cdn.discordapp.com/media/v1/collectibles-shop/bundle-bg-static/1544104562116403303"
+                },
+                "items": [
+                    {
+                        "type": 0,
+                        "sku_id": "1544102352368304179",
+                        "asset": "a_7f172bd579cf60092bd5912b275885a7",
+                        "label": "A soft rainbow-colored glow radiates around the avatar."
+                    },
+                    {
+                        "type": 2,
+                        "sku_id": "1544102714131091496",
+                        "asset": "nameplates/pearly_waves/1544102714131091496/",
+                        "label": "A soft purple haze streaked with sparkles.",
+                        "palette": "cobalt"
+                    },
+                    {
+                        "type": 1,
+                        "sku_id": "1544103361148755998",
+                        "title": "Mermaid Muse",
+                        "description": "Show this effect when others view your profile.",
+                        "accessibilityLabel": "An iridescent mermaid with flowing hair and a shimmering tail swims past",
+                        "animationType": 2,
+                        "thumbnailPreviewSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/76bde72f5d4d168f04e97f1ecaf729e29fe0bc0904deb90b19dd18b9191accaa",
+                        "reducedMotionSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/ec1f24b6228867066e35f3896b377595cb012057b528fed23546be6a6cac7ee1",
+                        "effects": [
+                            {
+                                "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/4a07534b42b61eb73f91d791c1565b266b87944490e418ccac86701cb4b7e1a1",
+                                "loop": false,
+                                "duration": 4907,
+                                "start": 0,
+                                "loopDelay": 0,
+                                "zIndex": 110,
+                                "randomizedSources": []
+                            },
+                            {
+                                "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/5989f529bfa0cc80dad59766a7a140f6216fcf87c75b1f994bdb0602011edfa7",
+                                "loop": true,
+                                "duration": 4907,
+                                "start": 6926,
+                                "loopDelay": 2600,
+                                "zIndex": 100,
+                                "randomizedSources": []
+                            }
+                        ]
+                    }
+                ],
+                "type": 1000,
+                "premium_type": 0,
+                "category_sku_id": "1544051220942029012",
+                "bundled_products": [
+                    {
+                        "sku_id": "1544102352368304179",
+                        "name": "Rainbow Haze",
+                        "summary": "Give your avatar a new look.",
+                        "type": 0,
+                        "premium_type": 0,
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 599,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 499,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "sku_id": "1544102714131091496",
+                        "name": "Pearly Waves",
+                        "summary": "Make your name stand out in servers and chats.",
+                        "type": 2,
+                        "premium_type": 0,
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 599,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 499,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "sku_id": "1544103361148755998",
+                        "name": "Mermaid Muse",
+                        "summary": "Show this effect when others view your profile.",
+                        "type": 1,
+                        "premium_type": 0,
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 599,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 499,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ],
+                "google_sku_ids": {
+                    "5": "1544104562116403303_1544105974938341517",
+                    "7": "1544104562116403303_1544105981502558238"
+                },
+                "is_first_party": true
+            },
+            {
+                "sku_id": "1544104329017950208",
+                "name": "Dolphin Daydreams Bundle",
+                "summary": "{joinedItems}",
+                "styles": {
+                    "background_colors": [
+                        16506845,
+                        9919107
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 1599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 11000,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 1299,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 11000,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "preview_assets": {
+                    "fg_static": "https://cdn.discordapp.com/media/v1/collectibles-shop/bundle-fg-static/1544104329017950208",
+                    "bg_static": "https://cdn.discordapp.com/media/v1/collectibles-shop/bundle-bg-static/1544104329017950208"
+                },
+                "items": [
+                    {
+                        "type": 0,
+                        "sku_id": "1544101523082977290",
+                        "asset": "a_59cc4926ae2483fa7c714bd36cc5acd9",
+                        "label": "Two iridescent dolphins encircle the avatar."
+                    },
+                    {
+                        "type": 2,
+                        "sku_id": "1544102562620375061",
+                        "asset": "nameplates/rainbow_daydreams/1544102562620375061/",
+                        "label": "A pastel rainbow arcs through purple clouds.",
+                        "palette": "violet"
+                    },
+                    {
+                        "type": 1,
+                        "sku_id": "1544103047083466772",
+                        "title": "Dancing Dolphins",
+                        "description": "Show this effect when others view your profile.",
+                        "accessibilityLabel": "Dolphins leap above pastel clouds under sparkling stars.",
+                        "animationType": 2,
+                        "thumbnailPreviewSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/72a3f56de03275f1f3e9fc4cac238e29984a7336961f79b2f27a979f01cdeb75",
+                        "reducedMotionSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/7548f538530bbfdbb9ba5692647dcab3ebf658a559dc0f4a553bf685083d4eca",
+                        "effects": [
+                            {
+                                "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/b2c710c81e5cd692cbc84717028a9964fd4391d79171e9bdefdb04e61aafd96b",
+                                "loop": false,
+                                "duration": 4907,
+                                "start": 0,
+                                "loopDelay": 0,
+                                "zIndex": 110,
+                                "randomizedSources": []
+                            },
+                            {
+                                "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/68db3457e058112908e0e4a7fd8a3f288cc3013a17e916f2dd1b996ae1bdc73e",
+                                "loop": true,
+                                "duration": 4901,
+                                "start": 8132,
+                                "loopDelay": 2800,
+                                "zIndex": 100,
+                                "randomizedSources": []
+                            }
+                        ]
+                    }
+                ],
+                "type": 1000,
+                "premium_type": 0,
+                "category_sku_id": "1544051220942029012",
+                "bundled_products": [
+                    {
+                        "sku_id": "1544101523082977290",
+                        "name": "Dancing Dolphins",
+                        "summary": "Give your avatar a new look.",
+                        "type": 0,
+                        "premium_type": 0,
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 599,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 499,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "sku_id": "1544102562620375061",
+                        "name": "Rainbow Daydreams",
+                        "summary": "Make your name stand out in servers and chats.",
+                        "type": 2,
+                        "premium_type": 0,
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 599,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 499,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "sku_id": "1544103047083466772",
+                        "name": "Dancing Dolphins",
+                        "summary": "Show this effect when others view your profile.",
+                        "type": 1,
+                        "premium_type": 0,
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 599,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 499,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ],
+                "google_sku_ids": {
+                    "5": "1544104329017950208_1544105987076784278",
+                    "7": "1544104329017950208_1544105993435090964"
+                },
+                "is_first_party": true
+            },
+            {
+                "sku_id": "1544102243152961646",
+                "name": "Rainbow Pearls",
+                "summary": "Give your avatar a new look.",
+                "styles": {
+                    "background_colors": [
+                        16506845,
+                        9919107
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "preview_assets": null,
+                "items": [
+                    {
+                        "type": 0,
+                        "sku_id": "1544102243152961646",
+                        "asset": "a_98128e4c9492e5f805111b5032c3de7a",
+                        "label": "Iridescent pearls encircle the avatar."
+                    }
+                ],
+                "type": 0,
+                "premium_type": 0,
+                "category_sku_id": "1544051220942029012",
+                "google_sku_ids": {
+                    "5": "1544102243152961646_1544105877190082753",
+                    "7": "1544102243152961646_1544105882189824080"
+                },
+                "is_first_party": true
+            },
+            {
+                "sku_id": "1544102352368304179",
+                "name": "Rainbow Haze",
+                "summary": "Give your avatar a new look.",
+                "styles": {
+                    "background_colors": [
+                        16506845,
+                        9919107
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "preview_assets": null,
+                "items": [
+                    {
+                        "type": 0,
+                        "sku_id": "1544102352368304179",
+                        "asset": "a_7f172bd579cf60092bd5912b275885a7",
+                        "label": "A soft rainbow-colored glow radiates around the avatar."
+                    }
+                ],
+                "type": 0,
+                "premium_type": 0,
+                "category_sku_id": "1544051220942029012",
+                "google_sku_ids": {
+                    "5": "1544102352368304179_1544103794478948432",
+                    "7": "1544102352368304179_1544103799445262546"
+                },
+                "is_first_party": true
+            },
+            {
+                "sku_id": "1544101523082977290",
+                "name": "Dancing Dolphins",
+                "summary": "Give your avatar a new look.",
+                "styles": {
+                    "background_colors": [
+                        16506845,
+                        9919107
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "preview_assets": null,
+                "items": [
+                    {
+                        "type": 0,
+                        "sku_id": "1544101523082977290",
+                        "asset": "a_59cc4926ae2483fa7c714bd36cc5acd9",
+                        "label": "Two iridescent dolphins encircle the avatar."
+                    }
+                ],
+                "type": 0,
+                "premium_type": 0,
+                "category_sku_id": "1544051220942029012",
+                "google_sku_ids": {
+                    "5": "1544101523082977290_1544104464800288868",
+                    "7": "1544101523082977290_1544104470013812796"
+                },
+                "is_first_party": true
+            },
+            {
+                "sku_id": "1544102433343668364",
+                "name": "Mer-Bubbles",
+                "summary": "Make your name stand out in servers and chats.",
+                "styles": {
+                    "background_colors": [
+                        16506845,
+                        9919107
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "preview_assets": null,
+                "items": [
+                    {
+                        "type": 2,
+                        "sku_id": "1544102433343668364",
+                        "asset": "nameplates/mer-bubbles/1544102433343668364/",
+                        "label": "A pastel purple haze with floating bubbles.",
+                        "palette": "sky"
+                    }
+                ],
+                "type": 2,
+                "premium_type": 0,
+                "category_sku_id": "1544051220942029012",
+                "google_sku_ids": {
+                    "5": "1544102433343668364_1544106428447457390",
+                    "7": "1544102433343668364_1544106433258197042"
+                },
+                "is_first_party": true
+            },
+            {
+                "sku_id": "1544102714131091496",
+                "name": "Pearly Waves",
+                "summary": "Make your name stand out in servers and chats.",
+                "styles": {
+                    "background_colors": [
+                        16506845,
+                        9919107
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "preview_assets": null,
+                "items": [
+                    {
+                        "type": 2,
+                        "sku_id": "1544102714131091496",
+                        "asset": "nameplates/pearly_waves/1544102714131091496/",
+                        "label": "A soft purple haze streaked with sparkles.",
+                        "palette": "cobalt"
+                    }
+                ],
+                "type": 2,
+                "premium_type": 0,
+                "category_sku_id": "1544051220942029012",
+                "google_sku_ids": {
+                    "5": "1544102714131091496_1544105163503968306",
+                    "7": "1544102714131091496_1544105169904738334"
+                },
+                "is_first_party": true
+            },
+            {
+                "sku_id": "1544102562620375061",
+                "name": "Rainbow Daydreams",
+                "summary": "Make your name stand out in servers and chats.",
+                "styles": {
+                    "background_colors": [
+                        16506845,
+                        9919107
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "preview_assets": null,
+                "items": [
+                    {
+                        "type": 2,
+                        "sku_id": "1544102562620375061",
+                        "asset": "nameplates/rainbow_daydreams/1544102562620375061/",
+                        "label": "A pastel rainbow arcs through purple clouds.",
+                        "palette": "violet"
+                    }
+                ],
+                "type": 2,
+                "premium_type": 0,
+                "category_sku_id": "1544051220942029012",
+                "google_sku_ids": {
+                    "5": "1544102562620375061_1544106277813092432",
+                    "7": "1544102562620375061_1544106282837876736"
+                },
+                "is_first_party": true
+            },
+            {
+                "sku_id": "1544102836437123182",
+                "name": "Mer-Bubbles",
+                "summary": "Show this effect when others view your profile.",
+                "styles": {
+                    "background_colors": [
+                        16506845,
+                        9919107
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "preview_assets": null,
+                "items": [
+                    {
+                        "type": 1,
+                        "sku_id": "1544102836437123182",
+                        "title": "Mer-Bubbles",
+                        "description": "Show this effect when others view your profile.",
+                        "accessibilityLabel": "Iridescent bubbles and heart-shaped bubbles float upward.",
+                        "animationType": 2,
+                        "thumbnailPreviewSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/cbcc272d92c12625b122c3ac045007cbf203f4bc03d5e5a18271d711066642ed",
+                        "reducedMotionSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/3dd2c4a42d402fbce611a0ba98a2eb987020a7bcf8971ebe7c32581342f1e52e",
+                        "effects": [
+                            {
+                                "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/d3809919c161a030bc9cc3149b4cbd227bc679a21ac1c4ac086fc1d7d97350b0",
+                                "loop": false,
+                                "duration": 4907,
+                                "start": 0,
+                                "loopDelay": 0,
+                                "zIndex": 110,
+                                "randomizedSources": []
+                            },
+                            {
+                                "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/564b1f2e6a765a912a05f56a0d622503dc7acf56980671e084a9da94c87ce646",
+                                "loop": true,
+                                "duration": 4907,
+                                "start": 7646,
+                                "loopDelay": 2600,
+                                "zIndex": 100,
+                                "randomizedSources": []
+                            }
+                        ]
+                    }
+                ],
+                "type": 1,
+                "premium_type": 0,
+                "category_sku_id": "1544051220942029012",
+                "google_sku_ids": {
+                    "5": "1544102836437123182_1544104161489191022",
+                    "7": "1544102836437123182_1544104166182359131"
+                },
+                "is_first_party": true
+            },
+            {
+                "sku_id": "1544103361148755998",
+                "name": "Mermaid Muse",
+                "summary": "Show this effect when others view your profile.",
+                "styles": {
+                    "background_colors": [
+                        16506845,
+                        9919107
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "preview_assets": null,
+                "items": [
+                    {
+                        "type": 1,
+                        "sku_id": "1544103361148755998",
+                        "title": "Mermaid Muse",
+                        "description": "Show this effect when others view your profile.",
+                        "accessibilityLabel": "An iridescent mermaid with flowing hair and a shimmering tail swims past",
+                        "animationType": 2,
+                        "thumbnailPreviewSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/76bde72f5d4d168f04e97f1ecaf729e29fe0bc0904deb90b19dd18b9191accaa",
+                        "reducedMotionSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/ec1f24b6228867066e35f3896b377595cb012057b528fed23546be6a6cac7ee1",
+                        "effects": [
+                            {
+                                "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/4a07534b42b61eb73f91d791c1565b266b87944490e418ccac86701cb4b7e1a1",
+                                "loop": false,
+                                "duration": 4907,
+                                "start": 0,
+                                "loopDelay": 0,
+                                "zIndex": 110,
+                                "randomizedSources": []
+                            },
+                            {
+                                "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/5989f529bfa0cc80dad59766a7a140f6216fcf87c75b1f994bdb0602011edfa7",
+                                "loop": true,
+                                "duration": 4907,
+                                "start": 6926,
+                                "loopDelay": 2600,
+                                "zIndex": 100,
+                                "randomizedSources": []
+                            }
+                        ]
+                    }
+                ],
+                "type": 1,
+                "premium_type": 0,
+                "category_sku_id": "1544051220942029012",
+                "google_sku_ids": {
+                    "5": "1544103361148755998_1544105369721245848",
+                    "7": "1544103361148755998_1544105374418735174"
+                },
+                "is_first_party": true
+            },
+            {
+                "sku_id": "1544103047083466772",
+                "name": "Dancing Dolphins",
+                "summary": "Show this effect when others view your profile.",
+                "styles": {
+                    "background_colors": [
+                        16506845,
+                        9919107
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "preview_assets": null,
+                "items": [
+                    {
+                        "type": 1,
+                        "sku_id": "1544103047083466772",
+                        "title": "Dancing Dolphins",
+                        "description": "Show this effect when others view your profile.",
+                        "accessibilityLabel": "Dolphins leap above pastel clouds under sparkling stars.",
+                        "animationType": 2,
+                        "thumbnailPreviewSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/72a3f56de03275f1f3e9fc4cac238e29984a7336961f79b2f27a979f01cdeb75",
+                        "reducedMotionSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/7548f538530bbfdbb9ba5692647dcab3ebf658a559dc0f4a553bf685083d4eca",
+                        "effects": [
+                            {
+                                "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/b2c710c81e5cd692cbc84717028a9964fd4391d79171e9bdefdb04e61aafd96b",
+                                "loop": false,
+                                "duration": 4907,
+                                "start": 0,
+                                "loopDelay": 0,
+                                "zIndex": 110,
+                                "randomizedSources": []
+                            },
+                            {
+                                "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/68db3457e058112908e0e4a7fd8a3f288cc3013a17e916f2dd1b996ae1bdc73e",
+                                "loop": true,
+                                "duration": 4901,
+                                "start": 8132,
+                                "loopDelay": 2800,
+                                "zIndex": 100,
+                                "randomizedSources": []
+                            }
+                        ]
+                    }
+                ],
+                "type": 1,
+                "premium_type": 0,
+                "category_sku_id": "1544051220942029012",
+                "google_sku_ids": {
+                    "5": "1544103047083466772_1544104556172935288",
+                    "7": "1544103047083466772_1544104562611327016"
+                },
+                "is_first_party": true
+            },
+            {
+                "sku_id": "1544103549892300830",
+                "name": "Pearly Pop",
+                "summary": "Elevate and wrap your profile with a frame.",
+                "styles": {
+                    "background_colors": [
+                        16506845,
+                        9919107
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "preview_assets": null,
+                "items": [
+                    {
+                        "type": 3,
+                        "sku_id": "1544103549892300830",
+                        "label": "Iridescent pearls line the top and bottom of the profile.",
+                        "layers": [
+                            {
+                                "id": "1547338458316541973",
+                                "type": "rail",
+                                "order": "front",
+                                "anchor": "top",
+                                "responsive": true
+                            },
+                            {
+                                "id": "1547338462351597628",
+                                "type": "staple",
+                                "order": "front",
+                                "anchor": "top",
+                                "responsive": false
+                            },
+                            {
+                                "id": "1547338466327789588",
+                                "type": "staple",
+                                "order": "front",
+                                "anchor": "bottom",
+                                "responsive": false
+                            },
+                            {
+                                "id": "1547338470249209936",
+                                "type": "rail",
+                                "order": "back",
+                                "anchor": "top",
+                                "responsive": true
+                            },
+                            {
+                                "id": "1547338474368139274",
+                                "type": "staple",
+                                "order": "back",
+                                "anchor": "top",
+                                "responsive": false
+                            },
+                            {
+                                "id": "1547338478239617044",
+                                "type": "staple",
+                                "order": "back",
+                                "anchor": "bottom",
+                                "responsive": false
+                            }
+                        ],
+                        "inner_width": 1200,
+                        "overflow_top": 190,
+                        "overflow_bottom": 138,
+                        "overflow_horizontal": 56
+                    }
+                ],
+                "type": 3,
+                "premium_type": 0,
+                "category_sku_id": "1544051220942029012",
+                "google_sku_ids": {
+                    "5": "1544103549892300830_1544107346844712991",
+                    "7": "1544103549892300830_1544107353052549191"
+                },
+                "is_first_party": true
+            }
+        ],
+        "hero_banner_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/0484ca31aa316fd67cdd149945751c48c7970970d06c7f1cfece7e6e54153080",
+        "hero_logo_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/de7c0cedeb5e02ffcdc22a48aaeeca7c2032c5f8a5cf09aca29422cd351ba213",
+        "catalog_banner_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/c89b7565a2c357526dc6479a3530c26b1af30ed51ad476de4ce2107c476ac5ed",
+        "featured_block_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/b0db770a2854b3b8bf96313e61d20b3f631b9c199089d417d39ee32c46390607",
+        "logo_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/de7c0cedeb5e02ffcdc22a48aaeeca7c2032c5f8a5cf09aca29422cd351ba213",
+        "pdp_bg_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/3b00527d1051e63e7f7412e71f60c728ab319f467a6c27999b5fb9e4c1c1e3c0",
+        "mobile_hero_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/b840e972ba87f948730bcd956686c1afb1095766c2b3d5fb8c3b7d072ce6c3f7",
+        "mobile_banner_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/49c1e277b23ecae8b5d21714921bc35ce07a56dbe3e66c86b7dbad8f9082da54",
+        "mobile_bg_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/b8615785e50daf84c13803a5264fa14d4197852090ce38ddc228769b1e23c713",
+        "hero_banner_display_config": {
+            "desktop_max_height": null,
+            "mobile_max_height": null,
+            "responsive": null,
+            "background_style": "linear-gradient(180deg, #FBDFDD 0%, #975A83 100%)"
+        }
     }
 ]
