@@ -107608,5 +107608,521 @@
                 "subtitle": "Exclusivamente en cines este 16 de septiembre"
             }
         }
+    },
+    {
+        "id": "1547370886645026876",
+        "config": {
+            "id": "1547370886645026876",
+            "config_version": 2,
+            "starts_at": "2026-09-09T20:45:00+00:00",
+            "expires_at": "2026-10-01T00:00:00+00:00",
+            "features": [
+                44,
+                15
+            ],
+            "application": {
+                "link": "https://servedby.flashtalking.com/click/8/307307;11106370;4777753;211;0/?ft_width=1&ft_height=1&gdpr=${GDPR}&gdpr_consent=${GDPR_CONSENT_78}&us_privacy=${US_PRIVACY}&url=45757731",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1547370886645026876/1547373049173639258.jpg",
+                "hero_video": "quests/1547370886645026876/1547373101497581658.mp4",
+                "quest_bar_hero_blurhash": "VBgODIRPZpaZd2eId3feYJsIdQ==",
+                "quest_bar_hero": "quests/1547370886645026876/1547373009235484693.jpg",
+                "quest_bar_hero_video": "quests/1547370886645026876/1547373101497581658.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1547370886645026876/1547372640371613696.png",
+                "game_tile_dark": "quests/1547370886645026876/1547372640371613696.png",
+                "logotype_light": "quests/1547370886645026876/1547372714732425266.png",
+                "logotype_dark": "quests/1547370886645026876/1547372714732425266.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "FanDuel Everywhere",
+                "game_title": "FanDuel Everywhere",
+                "game_publisher": "FanDuel"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 29,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1547370886645026876/1547372029488009306_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1547370886645026876/1547372361232285696.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1547370886645026876/1547372029488009306_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1547370886645026876/1547372361232285696.jpg"
+                            },
+                            "video_hls": {
+                                "url": "quests/1547370886645026876/1547372029488009306.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1547370886645026876/1547372361232285696.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": ""
+                        }
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 14,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1547370886645026876/1547372150787145739_1080.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1547370886645026876/1547372361232285696.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1547370886645026876/1547372150787145739_720.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1547370886645026876/1547372361232285696.jpg"
+                            },
+                            "video_hls": {
+                                "url": "quests/1547370886645026876/1547372150787145739.m3u8",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1547370886645026876/1547372361232285696.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": ""
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "200 Orbs",
+                            "name_with_article": "200 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 200,
+                        "premium_orb_quantity": 240
+                    }
+                ],
+                "rewards_expire_at": "2026-10-31T00:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://servedby.flashtalking.com/click/8/307307;11106370;4777753;211;0/?ft_width=1&ft_height=1&gdpr=${GDPR}&gdpr_consent=${GDPR_CONSENT_78}&us_privacy=${US_PRIVACY}&url=45757731",
+                "button_label": "Join Server",
+                "subtitle": "Join The FanDuel Server"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "ad_context": null,
+        "preview": false,
+        "traffic_metadata_raw": "EAIYAQ=="
+    },
+    {
+        "id": "1545504106955808900",
+        "config": {
+            "id": "1545504106955808900",
+            "config_version": 2,
+            "starts_at": "2026-09-09T20:45:00+00:00",
+            "expires_at": "2026-09-09T22:40:00+00:00",
+            "features": [
+                44,
+                15
+            ],
+            "application": {
+                "link": "https://servedby.flashtalking.com/click/8/307307;11106370;4777753;211;0/?ft_width=1&ft_height=1&gdpr=${GDPR}&gdpr_consent=${GDPR_CONSENT_78}&us_privacy=${US_PRIVACY}&url=45757731",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1545075418489553016/1545482059517268098.jpg",
+                "hero_video": "quests/1545504106955808900/1546890846098427954_720.mp4",
+                "quest_bar_hero_blurhash": "VBgODIRPZpaZd2eId3feYJsIdQ==",
+                "quest_bar_hero": "quests/1545075418489553016/1545482011408470096.jpg",
+                "quest_bar_hero_video": "quests/1545504106955808900/1546890846098427954_720.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1545075418489553016/1545127492195459103.png",
+                "game_tile_dark": "quests/1545075418489553016/1545127492195459103.png",
+                "logotype_light": "quests/1545075418489553016/1545127492031877151.png",
+                "logotype_dark": "quests/1545075418489553016/1545127492031877151.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "FanDuel Everywhere",
+                "game_title": "FanDuel Everywhere",
+                "game_publisher": "FanDuel"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 29,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1545504106955808900/1546980772504666203_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1545075418489553016/1545128843465990285.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1545504106955808900/1546980772504666203_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1545075418489553016/1545128843465990285.jpg"
+                            },
+                            "video_hls": {
+                                "url": "quests/1545504106955808900/1546980772504666203.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1545075418489553016/1545128843465990285.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": ""
+                        }
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 14,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1545075418489553016/1545481069543948338_1080.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1545075418489553016/1545128843465990285.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1545075418489553016/1545481069543948338_720.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1545075418489553016/1545128843465990285.jpg"
+                            },
+                            "video_hls": {
+                                "url": "quests/1545075418489553016/1545481069543948338.m3u8",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1545075418489553016/1545128843465990285.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": ""
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "200 Orbs",
+                            "name_with_article": "200 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 200,
+                        "premium_orb_quantity": 240
+                    }
+                ],
+                "rewards_expire_at": "2026-10-09T22:40:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://servedby.flashtalking.com/click/8/307307;11106370;4777753;211;0/?ft_width=1&ft_height=1&gdpr=${GDPR}&gdpr_consent=${GDPR_CONSENT_78}&us_privacy=${US_PRIVACY}&url=45757731",
+                "button_label": "Join Server",
+                "subtitle": "Join The FanDuel Server"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "ad_context": null,
+        "preview": false,
+        "traffic_metadata_raw": "EAIYAQ=="
+    },
+    {
+        "id": "1547289460910329926",
+        "config": {
+            "id": "1547289460910329926",
+            "config_version": 2,
+            "starts_at": "2026-09-09T20:45:00+00:00",
+            "expires_at": "2026-09-21T00:00:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://ad.doubleclick.net/ddm/trackclk/N2056633.3866164DISCORD.COM/B36742236.455844255;dc_trk_aid=649857625;dc_trk_cid=263966184;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1547289460910329926/1547299990697803847.jpg",
+                "quest_bar_hero_blurhash": "hwgGFIIKV9Z8hXeFeHQJfIXAWA==",
+                "quest_bar_hero": "quests/1547289460910329926/1547300012587753564.jpg",
+                "quest_bar_hero_video": "quests/1547289460910329926/1547300183946305536_720.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1547289460910329926/1547300121027289239.png",
+                "game_tile_dark": "quests/1547289460910329926/1547300121027289239.png",
+                "logotype_light": "quests/1547289460910329926/1547299982443413564.png",
+                "logotype_dark": "quests/1547289460910329926/1547299982820909167.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Resident Evil: Der Film - ",
+                "game_title": "Erlebe einen Horror, der alles verschlingt.",
+                "game_publisher": "Constantin Film"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 144,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1547289460910329926/1547300024105574450_1080.mp4",
+                                "width": 3840,
+                                "height": 2160,
+                                "thumbnail": "quests/1547289460910329926/1547299949329391736.png"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1547289460910329926/1547300024105574450_720.mp4",
+                                "width": 3840,
+                                "height": 2160,
+                                "thumbnail": "quests/1547289460910329926/1547299949329391736.png"
+                            },
+                            "video_hls": {
+                                "url": "quests/1547289460910329926/1547300024105574450.m3u8",
+                                "width": 3840,
+                                "height": 2160,
+                                "thumbnail": "quests/1547289460910329926/1547299949329391736.png"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 144,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1547289460910329926/1547300023606186034_1080.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1547289460910329926/1547299949329391736.png"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1547289460910329926/1547300023606186034_720.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1547289460910329926/1547299949329391736.png"
+                            },
+                            "video_hls": {
+                                "url": "quests/1547289460910329926/1547300023606186034.m3u8",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1547289460910329926/1547299949329391736.png"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "200 Orbs",
+                            "name_with_article": "200 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 200,
+                        "premium_orb_quantity": null
+                    }
+                ],
+                "rewards_expire_at": "2026-10-21T00:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://ad.doubleclick.net/ddm/trackclk/N2056633.3866164DISCORD.COM/B36742236.455844255;dc_trk_aid=649857625;dc_trk_cid=263966184;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1",
+                "button_label": "View More",
+                "subtitle": "Erlebe einen Horror, der alles verschlingt."
+            }
+        }
+    },
+    {
+        "id": "1545075418489553016",
+        "config": {
+            "id": "1545075418489553016",
+            "config_version": 2,
+            "starts_at": "2026-09-09T20:45:00+00:00",
+            "expires_at": "2026-10-01T00:00:00+00:00",
+            "features": [
+                44,
+                15
+            ],
+            "application": {
+                "link": "https://servedby.flashtalking.com/click/8/307307;11106370;4777753;211;0/?ft_width=1&ft_height=1&gdpr=${GDPR}&gdpr_consent=${GDPR_CONSENT_78}&us_privacy=${US_PRIVACY}&url=45757731",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1545075418489553016/1545482059517268098.jpg",
+                "hero_video": "quests/1545504106955808900/1546890846098427954_720.mp4",
+                "quest_bar_hero_blurhash": "VBgODIRPZpaZd2eId3feYJsIdQ==",
+                "quest_bar_hero": "quests/1545075418489553016/1545482011408470096.jpg",
+                "quest_bar_hero_video": "quests/1545504106955808900/1546890846098427954_720.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1545075418489553016/1545127492195459103.png",
+                "game_tile_dark": "quests/1545075418489553016/1545127492195459103.png",
+                "logotype_light": "quests/1545075418489553016/1545127492031877151.png",
+                "logotype_dark": "quests/1545075418489553016/1545127492031877151.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "FanDuel Everywhere",
+                "game_title": "FanDuel Everywhere",
+                "game_publisher": "FanDuel"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 29,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1545504106955808900/1546980772504666203_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1545075418489553016/1545128843465990285.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1545504106955808900/1546980772504666203_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1545075418489553016/1545128843465990285.jpg"
+                            },
+                            "video_hls": {
+                                "url": "quests/1545504106955808900/1546980772504666203.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1545075418489553016/1545128843465990285.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": ""
+                        }
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 14,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1545075418489553016/1545481069543948338_1080.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1545075418489553016/1545128843465990285.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1545075418489553016/1545481069543948338_720.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1545075418489553016/1545128843465990285.jpg"
+                            },
+                            "video_hls": {
+                                "url": "quests/1545075418489553016/1545481069543948338.m3u8",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1545075418489553016/1545128843465990285.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": ""
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "200 Orbs",
+                            "name_with_article": "200 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 200,
+                        "premium_orb_quantity": null
+                    }
+                ],
+                "rewards_expire_at": "2026-10-31T00:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://servedby.flashtalking.com/click/8/307307;11106370;4777753;211;0/?ft_width=1&ft_height=1&gdpr=${GDPR}&gdpr_consent=${GDPR_CONSENT_78}&us_privacy=${US_PRIVACY}&url=45757731",
+                "button_label": "Join Server",
+                "subtitle": "Join The FanDuel Server"
+            }
+        }
     }
 ]
