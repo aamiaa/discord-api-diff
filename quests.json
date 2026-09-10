@@ -100110,7 +100110,7 @@
             "id": "1540084308683784265",
             "config_version": 2,
             "starts_at": "2026-08-21T17:00:00+00:00",
-            "expires_at": "2026-09-11T06:59:00+00:00",
+            "expires_at": "2026-09-18T06:59:00+00:00",
             "features": [
                 44,
                 15
@@ -100190,7 +100190,7 @@
                         "premium_orb_quantity": 240
                     }
                 ],
-                "rewards_expire_at": "2026-10-11T06:59:00+00:00",
+                "rewards_expire_at": "2026-10-18T06:59:00+00:00",
                 "platforms": [
                     0
                 ]
@@ -104164,8 +104164,8 @@
                 "logotype": "PLACEHOLDER",
                 "game_tile_light": "quests/1545079125243600947/1545080582759907378.png",
                 "game_tile_dark": "quests/1545079125243600947/1545080582352937011.png",
-                "logotype_light": "quests/1545079125243600947/1547398045258485850.png",
-                "logotype_dark": "quests/1545079125243600947/1547398045258485850.png"
+                "logotype_light": "quests/1545079125243600947/1547655028209360987.png",
+                "logotype_dark": "quests/1545079125243600947/1547655028209360987.png"
             },
             "colors": {
                 "primary": "#4752C4",
@@ -108338,5 +108338,766 @@
         "ad_context": null,
         "preview": false,
         "traffic_metadata_raw": "EAIYAQ=="
+    },
+    {
+        "id": "1534314625397686472",
+        "config": {
+            "id": "1534314625397686472",
+            "config_version": 2,
+            "starts_at": "2026-09-10T17:00:00+00:00",
+            "expires_at": "2026-09-24T00:00:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://ad.doubleclick.net/ddm/trackclk/N1306638.3397510DISCORD/B36237439.453695393;dc_trk_aid=648408992;dc_trk_cid=262092854;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1534314625397686472/1536463948453388320.jpg",
+                "quest_bar_hero_blurhash": "iygCDILfE8p/aYVll71HCjrLkA==",
+                "quest_bar_hero": "quests/1534314625397686472/1534713082826461305.jpg",
+                "quest_bar_hero_video": "quests/1534314625397686472/1534991708276916264.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1534314625397686472/1534315661067681985.png",
+                "game_tile_dark": "quests/1534314625397686472/1534315661084590251.png",
+                "logotype_light": "quests/1534314625397686472/1534315661575327949.png",
+                "logotype_dark": "quests/1534314625397686472/1534315660782604439.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Marvel’s Wolverine",
+                "game_title": "Marvel’s Wolverine",
+                "game_publisher": "PlayStation"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 81,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1534314625397686472/1545140311389634590_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1534314625397686472/1534315943877152808.png"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1534314625397686472/1545140311389634590_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1534314625397686472/1534315943877152808.png"
+                            },
+                            "video_hls": {
+                                "url": "quests/1534314625397686472/1545140311389634590.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1534314625397686472/1534315943877152808.png"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 81,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1534314625397686472/1545140311389634590_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1534314625397686472/1534315943877152808.png"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1534314625397686472/1545140311389634590_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1534314625397686472/1534315943877152808.png"
+                            },
+                            "video_hls": {
+                                "url": "quests/1534314625397686472/1545140311389634590.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1534314625397686472/1534315943877152808.png"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 3,
+                        "sku_id": "1545167030704013382",
+                        "asset": "quests/1534314625397686472/1545167737083527310.mp4",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "Marvel's Wolverine Avatar Decoration",
+                            "name_with_article": "a Marvel's Wolverine Avatar Decoration",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "expires_at": "2026-11-24T01:00:00+00:00",
+                        "expires_at_premium": null,
+                        "expiration_mode": 3
+                    }
+                ],
+                "rewards_expire_at": "2026-10-24T00:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://ad.doubleclick.net/ddm/trackclk/N1306638.3397510DISCORD/B36237439.453695393;dc_trk_aid=648408992;dc_trk_cid=262092854;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1",
+                "button_label": "Pre-Order Now",
+                "subtitle": "MARVEL’S WOLVERINE AVAILABLE 9.15.26 ON PS5"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "ad_context": null,
+        "preview": false,
+        "traffic_metadata_raw": "EAIYAQ=="
+    },
+    {
+        "id": "1544810991022374933",
+        "config": {
+            "id": "1544810991022374933",
+            "config_version": 2,
+            "starts_at": "2026-09-10T17:00:00+00:00",
+            "expires_at": "2026-09-18T00:00:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://www.empiremena.com/movie/residentevil/en/",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1544810991022374933/1547363568830259272.jpeg",
+                "quest_bar_hero_blurhash": "0gcKDIaQdpd7eHh2eGhMr8b1ag==",
+                "quest_bar_hero": "quests/1544810991022374933/1547363568549101609.jpg",
+                "quest_bar_hero_video": "quests/1544804366295375903/1544810480265068665.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1544810991022374933/1547363568591179906.jpg",
+                "game_tile_dark": "quests/1544810991022374933/1547363568591179906.jpg",
+                "logotype_light": "quests/1544810991022374933/1547363568863809616.png",
+                "logotype_dark": "quests/1544810991022374933/1547363568880586832.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Resident Evil",
+                "game_title": "In Cinemas September 17",
+                "game_publisher": "Sony Pictures Entertainment"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 29,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1544810991022374933/1547363539516129300_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1544810991022374933/1547363568549101609.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1544810991022374933/1547363539516129300_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1544810991022374933/1547363568549101609.jpg"
+                            },
+                            "video_hls": {
+                                "url": "quests/1544810991022374933/1547363539516129300.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1544810991022374933/1547363568549101609.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 53,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1544804366295375903/1544809693304586321_1080.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1544810991022374933/1547363568549101609.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1544804366295375903/1544809693304586321_720.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1544810991022374933/1547363568549101609.jpg"
+                            },
+                            "video_hls": {
+                                "url": "quests/1544804366295375903/1544809693304586321.m3u8",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1544810991022374933/1547363568549101609.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "200 Orbs",
+                            "name_with_article": "200 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 200,
+                        "premium_orb_quantity": null
+                    }
+                ],
+                "rewards_expire_at": "2026-10-18T00:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://www.empiremena.com/movie/residentevil/en/",
+                "button_label": "Learn More",
+                "subtitle": "In Cinemas September 17"
+            }
+        }
+    },
+    {
+        "id": "1547366212022046751",
+        "config": {
+            "id": "1547366212022046751",
+            "config_version": 2,
+            "starts_at": "2026-09-10T17:00:00+00:00",
+            "expires_at": "2026-09-18T00:00:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://eaglepictures.com/resident-evil",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1547366212022046751/1547367385760014416.jpg",
+                "quest_bar_hero_blurhash": "0gcODIaQh5d7d3h3iGhNr9P0Og==",
+                "quest_bar_hero": "quests/1547366212022046751/1547367385952944198.jpg",
+                "quest_bar_hero_video": "quests/1547366212022046751/1547367777889820774.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1547366212022046751/1547367385890029598.jpg",
+                "game_tile_dark": "quests/1547366212022046751/1547367385890029598.jpg",
+                "logotype_light": "quests/1547366212022046751/1547628328998142032.png",
+                "logotype_dark": "quests/1547366212022046751/1547367386036838400.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Resident Evil",
+                "game_title": "Dal 17 settembre al cinema",
+                "game_publisher": "Sony Pictures Entertainment"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 14,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1547366212022046751/1547367386213122098_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1547366212022046751/1547367385952944198.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1547366212022046751/1547367386213122098_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1547366212022046751/1547367385952944198.jpg"
+                            },
+                            "video_hls": {
+                                "url": "quests/1547366212022046751/1547367386213122098.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1547366212022046751/1547367385952944198.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 14,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1547366212022046751/1547367387236536442_1080.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1547366212022046751/1547367385952944198.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1547366212022046751/1547367387236536442_720.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1547366212022046751/1547367385952944198.jpg"
+                            },
+                            "video_hls": {
+                                "url": "quests/1547366212022046751/1547367387236536442.m3u8",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1547366212022046751/1547367385952944198.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "200 Orbs",
+                            "name_with_article": "200 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 200,
+                        "premium_orb_quantity": null
+                    }
+                ],
+                "rewards_expire_at": "2026-10-18T00:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://eaglepictures.com/resident-evil",
+                "button_label": "Get Tickets",
+                "subtitle": "Dal 17 settembre al cinema"
+            }
+        }
+    },
+    {
+        "id": "1544804366295375903",
+        "config": {
+            "id": "1544804366295375903",
+            "config_version": 2,
+            "starts_at": "2026-09-10T17:00:00+00:00",
+            "expires_at": "2026-09-18T00:00:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://www.empiremena.com/movie/residentevil/en/",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1544804366295375903/1547351850485948467.jpeg",
+                "quest_bar_hero_blurhash": "0gcKDIaQdpd7eHh2eGhMr8b1ag==",
+                "quest_bar_hero": "quests/1544804366295375903/1547351850637074482.jpg",
+                "quest_bar_hero_video": "quests/1544804366295375903/1544810480265068665.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1544804366295375903/1547351850766966875.jpg",
+                "game_tile_dark": "quests/1544804366295375903/1547351850766966875.jpg",
+                "logotype_light": "quests/1544804366295375903/1547353455008546856.png",
+                "logotype_dark": "quests/1544804366295375903/1547352121370738781.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Resident Evil",
+                "game_title": "In Cinemas September 17",
+                "game_publisher": "Sony Pictures Entertainment"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 29,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1544804366295375903/1547354821042896996_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1544804366295375903/1547351850637074482.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1544804366295375903/1547354821042896996_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1544804366295375903/1547351850637074482.jpg"
+                            },
+                            "video_hls": {
+                                "url": "quests/1544804366295375903/1547354821042896996.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1544804366295375903/1547351850637074482.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 53,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1544804366295375903/1544809693304586321_1080.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1544804366295375903/1547351850637074482.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1544804366295375903/1544809693304586321_720.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1544804366295375903/1547351850637074482.jpg"
+                            },
+                            "video_hls": {
+                                "url": "quests/1544804366295375903/1544809693304586321.m3u8",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1544804366295375903/1547351850637074482.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "200 Orbs",
+                            "name_with_article": "200 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 200,
+                        "premium_orb_quantity": null
+                    }
+                ],
+                "rewards_expire_at": "2026-10-18T00:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://www.empiremena.com/movie/residentevil/en/",
+                "button_label": "Learn More",
+                "subtitle": "In Cinemas September 17"
+            }
+        }
+    },
+    {
+        "id": "1540111729902751795",
+        "config": {
+            "id": "1540111729902751795",
+            "config_version": 2,
+            "starts_at": "2026-09-10T17:00:00+00:00",
+            "expires_at": "2026-09-24T00:00:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://www.playstation.com/en-gb/games/marvels-wolverine/?emcid=vd-1s-536961",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1540111729902751795/1544765694321631303.jpg",
+                "quest_bar_hero_blurhash": "iygCDILfE8p/aYVll71HCjrLkA==",
+                "quest_bar_hero": "quests/1534314625397686472/1534713082826461305.jpg",
+                "quest_bar_hero_video": "quests/1540111729902751795/1542270758900731904_720.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1534314625397686472/1534315661067681985.png",
+                "game_tile_dark": "quests/1534314625397686472/1534315661084590251.png",
+                "logotype_light": "quests/1534314625397686472/1534315661575327949.png",
+                "logotype_dark": "quests/1534314625397686472/1534315660782604439.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Marvel’s Wolverine",
+                "game_title": "Marvel’s Wolverine",
+                "game_publisher": "PlayStation"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 29,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1540111729902751795/1540117774687272990_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1540111729902751795/1542664660669562991.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1540111729902751795/1540117774687272990_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1540111729902751795/1542664660669562991.jpg"
+                            },
+                            "video_hls": {
+                                "url": "quests/1540111729902751795/1540117774687272990.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1540111729902751795/1542664660669562991.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 29,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1540111729902751795/1540117774687272990_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1540111729902751795/1542664660669562991.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1540111729902751795/1540117774687272990_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1540111729902751795/1542664660669562991.jpg"
+                            },
+                            "video_hls": {
+                                "url": "quests/1540111729902751795/1540117774687272990.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1540111729902751795/1542664660669562991.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 3,
+                        "sku_id": "1545167030704013382",
+                        "asset": "quests/1540111729902751795/1545167409395015821.mp4",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "Marvel's Wolverine Avatar Decoration",
+                            "name_with_article": "a Marvel's Wolverine Avatar Decoration",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "expires_at": "2026-11-24T01:00:00+00:00",
+                        "expires_at_premium": null,
+                        "expiration_mode": 3
+                    }
+                ],
+                "rewards_expire_at": "2026-10-24T00:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://www.playstation.com/en-gb/games/marvels-wolverine/?emcid=vd-1s-536961",
+                "button_label": "Pre-Order Now",
+                "subtitle": "Available 15.09.26"
+            }
+        }
+    },
+    {
+        "id": "1544785839341445243",
+        "config": {
+            "id": "1544785839341445243",
+            "config_version": 2,
+            "starts_at": "2026-09-10T17:00:00+00:00",
+            "expires_at": "2026-09-18T00:00:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://residentevilmovie.com.au/",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1544785839341445243/1546959165069590538.jpg",
+                "quest_bar_hero_blurhash": "0gcKDIaQdpd7eHh2eGhMr8b1ag==",
+                "quest_bar_hero": "quests/1544785839341445243/1546959166151856218.jpg",
+                "quest_bar_hero_video": "quests/1544785839341445243/1544788117343707326_720.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1544785839341445243/1546959165451149482.jpg",
+                "game_tile_dark": "quests/1544785839341445243/1546959165451149482.jpg",
+                "logotype_light": "quests/1544785839341445243/1546959616393486357.png",
+                "logotype_dark": "quests/1544785839341445243/1546959616456523846.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Resident Evil",
+                "game_title": "In Cinemas September 17",
+                "game_publisher": "Sony Pictures Entertainment"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 29,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1544785839341445243/1544788078827147445_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1544785839341445243/1546959166151856218.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1544785839341445243/1544788078827147445_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1544785839341445243/1546959166151856218.jpg"
+                            },
+                            "video_hls": {
+                                "url": "quests/1544785839341445243/1544788078827147445.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1544785839341445243/1546959166151856218.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 29,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1544785839341445243/1544788078781005934_1080.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1544785839341445243/1546959166151856218.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1544785839341445243/1544788078781005934_720.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1544785839341445243/1546959166151856218.jpg"
+                            },
+                            "video_hls": {
+                                "url": "quests/1544785839341445243/1544788078781005934.m3u8",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1544785839341445243/1546959166151856218.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "200 Orbs",
+                            "name_with_article": "200 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 200,
+                        "premium_orb_quantity": null
+                    }
+                ],
+                "rewards_expire_at": "2026-10-18T00:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://residentevilmovie.com.au/",
+                "button_label": "Get Showtimes",
+                "subtitle": "In Cinemas September 17"
+            }
+        }
     }
 ]
