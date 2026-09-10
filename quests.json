@@ -108124,5 +108124,86 @@
                 "subtitle": "Join The FanDuel Server"
             }
         }
+    },
+    {
+        "id": "1546343004569084006",
+        "config": {
+            "id": "1546343004569084006",
+            "config_version": 2,
+            "starts_at": "2026-09-10T02:15:00+00:00",
+            "expires_at": "2026-09-23T00:00:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://www.kritika.hk/?channel=dc",
+                "id": "1546706891349037116",
+                "name": "Kritika Open Beta"
+            },
+            "assets": {
+                "hero": "quests/1546343004569084006/1546347201716949072.jpg",
+                "hero_video": "quests/1546343004569084006/1546347235489357914_720.mp4",
+                "quest_bar_hero_blurhash": "mSgKHII1OXdviIdUmHcEZlOQNw==",
+                "quest_bar_hero": "quests/1546343004569084006/1546346928311373844.jpg",
+                "quest_bar_hero_video": "quests/1546343004569084006/1546346969218285608_720.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1546343004569084006/1546346772744372314.png",
+                "game_tile_dark": "quests/1546343004569084006/1546346772744372314.png",
+                "logotype_light": "quests/1546343004569084006/1546346772983455764.png",
+                "logotype_dark": "quests/1546343004569084006/1546346773625315348.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Kritika Open Beta",
+                "game_title": "Kritika",
+                "game_publisher": "HONG KONG PHOENIXGAME"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1546706891349037116"
+                            }
+                        ]
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 Orbs",
+                            "name_with_article": "700 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 700,
+                        "premium_orb_quantity": null
+                    }
+                ],
+                "rewards_expire_at": "2026-10-23T00:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://www.kritika.hk/?channel=dc",
+                "button_label": "Play Now",
+                "subtitle": "The 3D action fighting online game is back – jump into the action now!"
+            }
+        }
     }
 ]
