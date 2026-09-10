@@ -108205,5 +108205,138 @@
                 "subtitle": "The 3D action fighting online game is back – jump into the action now!"
             }
         }
+    },
+    {
+        "id": "1544639617083510845",
+        "config": {
+            "id": "1544639617083510845",
+            "config_version": 2,
+            "starts_at": "2026-09-10T14:00:00+00:00",
+            "expires_at": "2026-10-01T00:00:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://www.dumbwaystodie.com/build?utm_source=discord&utm_medium=quest&utm_campaign=dwtbuild_launch",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1544639617083510845/1546406672082403468.jpg",
+                "hero_video": "quests/1544639617083510845/1546406691795378276_720.mp4",
+                "quest_bar_hero_blurhash": "6qYFLIhSFDgPmYthhnoCYlEANw==",
+                "quest_bar_hero": "quests/1544639617083510845/1546406589328785418.jpg",
+                "quest_bar_hero_video": "quests/1544639617083510845/1546699705948438568_720.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1544639617083510845/1546406472756363274.png",
+                "game_tile_dark": "quests/1544639617083510845/1546406472756363274.png",
+                "logotype_light": "quests/1544639617083510845/1546699148034834512.png",
+                "logotype_dark": "quests/1544639617083510845/1546699148034834512.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Dumb Ways to Build",
+                "game_title": "Dumb Ways to Build",
+                "game_publisher": "PlaySide Studios"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 61,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1544639617083510845/1546425239020380221_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1544639617083510845/1546425094795173888.png"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1544639617083510845/1546425239020380221_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1544639617083510845/1546425094795173888.png"
+                            },
+                            "video_hls": {
+                                "url": "quests/1544639617083510845/1546425239020380221.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1544639617083510845/1546425094795173888.png"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 61,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1544639617083510845/1546425239020380221_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1544639617083510845/1546425094795173888.png"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1544639617083510845/1546425239020380221_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1544639617083510845/1546425094795173888.png"
+                            },
+                            "video_hls": {
+                                "url": "quests/1544639617083510845/1546425239020380221.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1544639617083510845/1546425094795173888.png"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 3,
+                        "sku_id": "1545463001182642218",
+                        "asset": "quests/1544639617083510845/1546518142283415683.mp4",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "Builder Bean Avatar Decoration",
+                            "name_with_article": "a Builder Bean Avatar Decoration",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "expires_at": "2026-11-30T01:00:00+00:00",
+                        "expires_at_premium": null,
+                        "expiration_mode": 3
+                    }
+                ],
+                "rewards_expire_at": "2026-10-31T00:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://www.dumbwaystodie.com/build?utm_source=discord&utm_medium=quest&utm_campaign=dwtbuild_launch",
+                "button_label": "Learn More"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "ad_context": null,
+        "preview": false,
+        "traffic_metadata_raw": "EAIYAQ=="
     }
 ]
