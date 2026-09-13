@@ -109499,8 +109499,8 @@
                 "logotype": "PLACEHOLDER",
                 "game_tile_light": "quests/1547274383226179668/1547275132366753822.png",
                 "game_tile_dark": "quests/1547274383226179668/1547275132366753822.png",
-                "logotype_light": "quests/1547274383226179668/1547277853530263692.png",
-                "logotype_dark": "quests/1547274383226179668/1547277853530263692.png"
+                "logotype_light": "quests/1547274383226179668/1548822004730298478.png",
+                "logotype_dark": "quests/1547274383226179668/1548822004730298478.png"
             },
             "colors": {
                 "primary": "#4752C4",
@@ -110146,6 +110146,258 @@
                 "link": "https://www.facebook.com/universalpicturesph",
                 "button_label": "Get Tickets",
                 "subtitle": "In Cinemas September 23"
+            }
+        }
+    },
+    {
+        "id": "1547326208948052060",
+        "config": {
+            "id": "1547326208948052060",
+            "config_version": 2,
+            "starts_at": "2026-09-13T22:00:00+00:00",
+            "expires_at": "2026-09-20T21:59:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://www.universalpictures.it/micro/forgotten-island",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1547326208948052060/1547340618697678958.jpg",
+                "hero_video": "quests/1547326208948052060/1547340762772013126_720.mp4",
+                "quest_bar_hero_blurhash": "0fcJDIKKeIiSeHdwd2m7cI0/6g==",
+                "quest_bar_hero": "quests/1547326208948052060/1547340680022589580.jpg",
+                "quest_bar_hero_video": "quests/1547326208948052060/1547340762772013126_720.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1547326208948052060/1547340574548426832.png",
+                "game_tile_dark": "quests/1547326208948052060/1547340574548426832.png",
+                "logotype_light": "quests/1547326208948052060/1547340589169909930.png",
+                "logotype_dark": "quests/1547326208948052060/1547340589169909930.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "L'isola dei Ricordi",
+                "game_title": "Dal 24 settembre al cinema",
+                "game_publisher": "Universal Pictures"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 59,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1547326208948052060/1547340488267407480_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1547326208948052060/1547340604264943758.png"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1547326208948052060/1547340488267407480_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1547326208948052060/1547340604264943758.png"
+                            },
+                            "video_hls": {
+                                "url": "quests/1547326208948052060/1547340488267407480.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1547326208948052060/1547340604264943758.png"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 59,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1547326208948052060/1547340488078790707_1080.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1547326208948052060/1547340604264943758.png"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1547326208948052060/1547340488078790707_720.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1547326208948052060/1547340604264943758.png"
+                            },
+                            "video_hls": {
+                                "url": "quests/1547326208948052060/1547340488078790707.m3u8",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1547326208948052060/1547340604264943758.png"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "200 Orbs",
+                            "name_with_article": "200 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 200,
+                        "premium_orb_quantity": null
+                    }
+                ],
+                "rewards_expire_at": "2026-10-20T21:59:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://www.universalpictures.it/micro/forgotten-island",
+                "button_label": "Get Tickets",
+                "subtitle": "Dal 24 settembre al cinema"
+            }
+        }
+    },
+    {
+        "id": "1547321906695372921",
+        "config": {
+            "id": "1547321906695372921",
+            "config_version": 2,
+            "starts_at": "2026-09-13T22:00:00+00:00",
+            "expires_at": "2026-09-20T21:59:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://www.laislaolvidada-lapelicula.es/entradas/",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1547321906695372921/1547337361409572986.jpg",
+                "hero_video": "quests/1547321906695372921/1547337656378064916_720.mp4",
+                "quest_bar_hero_blurhash": "0fcJDIKKeIiTeHdwd2i7cIw/6g==",
+                "quest_bar_hero": "quests/1547321906695372921/1547337629866000545.jpg",
+                "quest_bar_hero_video": "quests/1547321906695372921/1547337656378064916_720.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1547321906695372921/1547337215573758042.png",
+                "game_tile_dark": "quests/1547321906695372921/1547337215573758042.png",
+                "logotype_light": "quests/1547321906695372921/1547337230488572037.png",
+                "logotype_dark": "quests/1547321906695372921/1547337230488572037.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "La Isla Olvidada",
+                "game_title": "25 de septiembre solo en cines",
+                "game_publisher": "Universal Pictures"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 59,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1547321906695372921/1547337189015294013_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1547321906695372921/1547337249459277954.png"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1547321906695372921/1547337189015294013_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1547321906695372921/1547337249459277954.png"
+                            },
+                            "video_hls": {
+                                "url": "quests/1547321906695372921/1547337189015294013.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1547321906695372921/1547337249459277954.png"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 59,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1547321906695372921/1547337189090664568_1080.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1547321906695372921/1547337249459277954.png"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1547321906695372921/1547337189090664568_720.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1547321906695372921/1547337249459277954.png"
+                            },
+                            "video_hls": {
+                                "url": "quests/1547321906695372921/1547337189090664568.m3u8",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1547321906695372921/1547337249459277954.png"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "200 Orbs",
+                            "name_with_article": "200 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 200,
+                        "premium_orb_quantity": null
+                    }
+                ],
+                "rewards_expire_at": "2026-10-20T21:59:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://www.laislaolvidada-lapelicula.es/entradas/",
+                "button_label": "Get Tickets",
+                "subtitle": "25 de septiembre solo en cines"
             }
         }
     }
