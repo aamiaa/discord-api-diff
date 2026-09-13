@@ -110022,5 +110022,131 @@
                 "subtitle": "9월 23일 대개봉"
             }
         }
+    },
+    {
+        "id": "1547334999844323390",
+        "config": {
+            "id": "1547334999844323390",
+            "config_version": 2,
+            "starts_at": "2026-09-13T16:00:00+00:00",
+            "expires_at": "2026-09-20T15:59:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://www.facebook.com/universalpicturesph",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1547334999844323390/1548050223752941768.jpg",
+                "hero_video": "quests/1547334999844323390/1548050243348860968_720.mp4",
+                "quest_bar_hero_blurhash": "0/cJDIKKaIiReHdwd2eqcIs/6g==",
+                "quest_bar_hero": "quests/1547334999844323390/1547346393813880903.jpg",
+                "quest_bar_hero_video": "quests/1547334999844323390/1548050243348860968_720.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1547334999844323390/1548077156993732738.png",
+                "game_tile_dark": "quests/1547334999844323390/1548077156993732738.png",
+                "logotype_light": "quests/1547334999844323390/1548077157408833777.png",
+                "logotype_dark": "quests/1547334999844323390/1548077157408833777.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Forgotten Island",
+                "game_title": "In Cinemas September 23",
+                "game_publisher": "Universal Pictures"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 59,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1547334999844323390/1548049805551341608_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1547334999844323390/1548077158122131456.png"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1547334999844323390/1548049805551341608_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1547334999844323390/1548077158122131456.png"
+                            },
+                            "video_hls": {
+                                "url": "quests/1547334999844323390/1548049805551341608.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1547334999844323390/1548077158122131456.png"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 59,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1547334999844323390/1548049805605867570_1080.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1547334999844323390/1548077158122131456.png"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1547334999844323390/1548049805605867570_720.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1547334999844323390/1548077158122131456.png"
+                            },
+                            "video_hls": {
+                                "url": "quests/1547334999844323390/1548049805605867570.m3u8",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1547334999844323390/1548077158122131456.png"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "200 Orbs",
+                            "name_with_article": "200 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 200,
+                        "premium_orb_quantity": null
+                    }
+                ],
+                "rewards_expire_at": "2026-10-20T15:59:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://www.facebook.com/universalpicturesph",
+                "button_label": "Get Tickets",
+                "subtitle": "In Cinemas September 23"
+            }
+        }
     }
 ]
