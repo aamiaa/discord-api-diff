@@ -105373,7 +105373,7 @@
                 15
             ],
             "application": {
-                "link": "https://game.ea.com/redirect?campaignName=GLA_MF_US_EA_SOC_Discord_S4FY27_PlayQuestPlus",
+                "link": "https://game.ea.com/redirect?campaignName=GLA_MF_US_EA_SOC_Discord_S4FY27_PlayQuestPlus&dclid={dclid}",
                 "id": "1405836009584988170",
                 "name": "Battlefield 6"
             },
@@ -105443,7 +105443,7 @@
             },
             "share_policy": "shareable_everywhere",
             "cta_config": {
-                "link": "https://game.ea.com/redirect?campaignName=GLA_MF_US_EA_SOC_Discord_S4FY27_PlayQuestPlus",
+                "link": "https://game.ea.com/redirect?campaignName=GLA_MF_US_EA_SOC_Discord_S4FY27_PlayQuestPlus&dclid={dclid}",
                 "button_label": "Play Game"
             }
         },
@@ -110524,6 +110524,508 @@
                 "link": "http://www.ilhaesquecidafilme.com.br/",
                 "button_label": "Learn More",
                 "subtitle": "24 de setembro nos cinemas"
+            }
+        }
+    },
+    {
+        "id": "1545515895353385011",
+        "config": {
+            "id": "1545515895353385011",
+            "config_version": 2,
+            "starts_at": "2026-09-14T16:00:00+00:00",
+            "expires_at": "2026-09-24T06:00:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://www.roblox.com/games/17625359962/RIVALS?gsrbx=1",
+                "id": "363445589247131668",
+                "name": "Roblox"
+            },
+            "assets": {
+                "hero": "quests/1545515895353385011/1547734220657524756.jpg",
+                "hero_video": "quests/1545515895353385011/1547734299543994468_720.mp4",
+                "quest_bar_hero_blurhash": "I0gKKo7lo+g9gvh4cKQFWWk=",
+                "quest_bar_hero": "quests/1545515895353385011/1547734220657524756.jpg",
+                "quest_bar_hero_video": "quests/1545515895353385011/1547734299543994468_720.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1545079125243600947/1545080582759907378.png",
+                "game_tile_dark": "quests/1545079125243600947/1545080582352937011.png",
+                "logotype_light": "quests/1545515895353385011/1547734038272548934.png",
+                "logotype_dark": "quests/1545515895353385011/1547734038272548934.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "RIVALS",
+                "game_title": "RIVALS on Roblox",
+                "game_publisher": "ROBLOX"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "363445589247131668"
+                            }
+                        ]
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 Orbs",
+                            "name_with_article": "700 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 700,
+                        "premium_orb_quantity": 840
+                    }
+                ],
+                "rewards_expire_at": "2026-10-24T06:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://www.roblox.com/games/17625359962/RIVALS?gsrbx=1",
+                "button_label": "Play Now"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "ad_context": null,
+        "preview": false,
+        "traffic_metadata_raw": "EAIYAQ=="
+    },
+    {
+        "id": "1545205635577290893",
+        "config": {
+            "id": "1545205635577290893",
+            "config_version": 2,
+            "starts_at": "2026-09-14T17:00:00+00:00",
+            "expires_at": "2026-09-21T00:00:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://www.peacocktv.com/",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1545205635577290893/1547009161147973712.jpg",
+                "hero_video": "quests/1545205635577290893/1545209034884251748_720.mp4",
+                "quest_bar_hero_blurhash": "GQgKBIB5iYibinePhnx2IHko9Q==",
+                "quest_bar_hero": "quests/1545205635577290893/1545248376164188311.jpeg",
+                "quest_bar_hero_video": "quests/1545205635577290893/1545209034884251748_720.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1545205635577290893/1545207664659669034.png",
+                "game_tile_dark": "quests/1545205635577290893/1545207664659669034.png",
+                "logotype_light": "quests/1545205635577290893/1545208340718551113.png",
+                "logotype_dark": "quests/1545205635577290893/1545208340718551113.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Crystal Lake",
+                "game_title": "Mommy’s here. Stream Oct 15, only on Peacock.",
+                "game_publisher": "Peacock"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 29,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1545205635577290893/1545209907387568270_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1545205635577290893/1545210204885360710.png"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1545205635577290893/1545209907387568270_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1545205635577290893/1545210204885360710.png"
+                            },
+                            "video_hls": {
+                                "url": "quests/1545205635577290893/1545209907387568270.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1545205635577290893/1545210204885360710.png"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 29,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1545205635577290893/1545209923674181653_1080.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1545205635577290893/1545210204885360710.png"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1545205635577290893/1545209923674181653_720.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1545205635577290893/1545210204885360710.png"
+                            },
+                            "video_hls": {
+                                "url": "quests/1545205635577290893/1545209923674181653.m3u8",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1545205635577290893/1545210204885360710.png"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "200 Orbs",
+                            "name_with_article": "200 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 200,
+                        "premium_orb_quantity": 240
+                    }
+                ],
+                "rewards_expire_at": "2026-10-21T00:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://www.peacocktv.com/",
+                "button_label": "Watch More",
+                "subtitle": "Mommy’s here. Stream Oct 15, only on Peacock."
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "ad_context": null,
+        "preview": false,
+        "traffic_metadata_raw": "EAIYAQ=="
+    },
+    {
+        "id": "1546582362035453952",
+        "config": {
+            "id": "1546582362035453952",
+            "config_version": 2,
+            "starts_at": "2026-09-14T17:00:00+00:00",
+            "expires_at": "2026-09-18T00:00:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://www.apple.com/au/iphone-18-pro/?cid=wwa-au-div-iphn-trplh-dpre-discord-skvf-revd-cpv-aos-mul-adevt-gnt-broa-prlp-attnbb-auen-prdflm-video-169ar-15s-trip-cmra-na-na-na-na-na-07351500&mpid=7351500",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1546582362035453952/1549086937162195055.jpg",
+                "hero_video": "quests/1546582362035453952/1547803809655291954_720.mp4",
+                "quest_bar_hero_blurhash": "xAcGBIAHyWaDeYaGencId4VwVw==",
+                "quest_bar_hero": "quests/1546582362035453952/1547803751723704370.jpg",
+                "quest_bar_hero_video": "quests/1546582362035453952/1547803809655291954_720.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1546582362035453952/1547802730482110514.png",
+                "game_tile_dark": "quests/1546582362035453952/1547802829203308655.png",
+                "logotype_light": "quests/1546582362035453952/1547803099253702706.png",
+                "logotype_dark": "quests/1546582362035453952/1547803099286999110.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "iPhone 18 Pro",
+                "game_title": "iPhone 18 Pro",
+                "game_publisher": "Apple"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 14,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1546582362035453952/1547804209305489478_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1546582362035453952/1547804311092985927.png"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1546582362035453952/1547804209305489478_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1546582362035453952/1547804311092985927.png"
+                            },
+                            "video_hls": {
+                                "url": "quests/1546582362035453952/1547804209305489478.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1546582362035453952/1547804311092985927.png"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 14,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1546582362035453952/1547804209158557789_1080.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1546582362035453952/1547804311092985927.png"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1546582362035453952/1547804209158557789_720.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1546582362035453952/1547804311092985927.png"
+                            },
+                            "video_hls": {
+                                "url": "quests/1546582362035453952/1547804209158557789.m3u8",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1546582362035453952/1547804311092985927.png"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "200 Orbs",
+                            "name_with_article": "200 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 200,
+                        "premium_orb_quantity": null
+                    }
+                ],
+                "rewards_expire_at": "2026-10-18T00:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://www.apple.com/au/iphone-18-pro/?cid=wwa-au-div-iphn-trplh-dpre-discord-skvf-revd-cpv-aos-mul-adevt-gnt-broa-prlp-attnbb-auen-prdflm-video-169ar-15s-trip-cmra-na-na-na-na-na-07351500&mpid=7351500",
+                "button_label": "Learn More",
+                "subtitle": "Pro further "
+            }
+        }
+    },
+    {
+        "id": "1545511262308278434",
+        "config": {
+            "id": "1545511262308278434",
+            "config_version": 2,
+            "starts_at": "2026-09-14T16:00:00+00:00",
+            "expires_at": "2026-09-24T06:00:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://www.roblox.com/ja/games/17625359962/RIVALS?gsrbx=1",
+                "id": "363445589247131668",
+                "name": "Roblox"
+            },
+            "assets": {
+                "hero": "quests/1545511262308278434/1547737041175973948.jpg",
+                "hero_video": "quests/1545511262308278434/1547737121979371540_720.mp4",
+                "quest_bar_hero_blurhash": "I0gKKo7lo+g9gvh4cKQFWWk=",
+                "quest_bar_hero": "quests/1545511262308278434/1547737041175973948.jpg",
+                "quest_bar_hero_video": "quests/1545511262308278434/1547737121979371540_720.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1545079125243600947/1545080582759907378.png",
+                "game_tile_dark": "quests/1545079125243600947/1545080582352937011.png",
+                "logotype_light": "quests/1545511262308278434/1547736754344427701.png",
+                "logotype_dark": "quests/1545511262308278434/1547736754344427701.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "ライバル",
+                "game_title": "ライバル on Roblox",
+                "game_publisher": "ROBLOX"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "363445589247131668"
+                            }
+                        ]
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 Orbs",
+                            "name_with_article": "700 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 700,
+                        "premium_orb_quantity": null
+                    }
+                ],
+                "rewards_expire_at": "2026-10-24T06:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://www.roblox.com/ja/games/17625359962/RIVALS?gsrbx=1",
+                "button_label": "Play Now"
+            }
+        }
+    },
+    {
+        "id": "1545514693555392603",
+        "config": {
+            "id": "1545514693555392603",
+            "config_version": 2,
+            "starts_at": "2026-09-14T16:00:00+00:00",
+            "expires_at": "2026-09-24T06:00:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://www.roblox.com/ko/games/17625359962/RIVALS?gsrbx=1",
+                "id": "363445589247131668",
+                "name": "Roblox"
+            },
+            "assets": {
+                "hero": "quests/1545514693555392603/1547739050692317184.jpg",
+                "hero_video": "quests/1545514693555392603/1547739197404745869_720.mp4",
+                "quest_bar_hero_blurhash": "I0gKKo7lo+g9gvh4cKQFWWk=",
+                "quest_bar_hero": "quests/1545514693555392603/1547739050692317184.jpg",
+                "quest_bar_hero_video": "quests/1545514693555392603/1547739197404745869_720.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1545079125243600947/1545080582759907378.png",
+                "game_tile_dark": "quests/1545079125243600947/1545080582352937011.png",
+                "logotype_light": "quests/1545514693555392603/1547739051254091806.png",
+                "logotype_dark": "quests/1545514693555392603/1547739051254091806.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "라이벌",
+                "game_title": "라이벌 on Roblox",
+                "game_publisher": "ROBLOX"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "363445589247131668"
+                            }
+                        ]
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 Orbs",
+                            "name_with_article": "700 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 700,
+                        "premium_orb_quantity": null
+                    }
+                ],
+                "rewards_expire_at": "2026-10-24T06:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://www.roblox.com/ko/games/17625359962/RIVALS?gsrbx=1",
+                "button_label": "Play Now"
             }
         }
     }
