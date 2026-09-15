@@ -103928,11 +103928,11 @@
                 "name": "Where Winds Meet"
             },
             "assets": {
-                "hero": "quests/1541642467881783337/1541660628853194883.jpg",
-                "hero_video": "quests/1541642467881783337/1541660837800841216_720.mp4",
-                "quest_bar_hero_blurhash": "lTkKFIIHloedhIdhiXkJmgSY3A==",
-                "quest_bar_hero": "quests/1541642467881783337/1541660667390599249.jpg",
-                "quest_bar_hero_video": "quests/1541642467881783337/1541660722499559506_720.mp4",
+                "hero": "quests/1541642467881783337/1549183759625232404.jpg",
+                "hero_video": "quests/1541642467881783337/1549448468622475305_720.mp4",
+                "quest_bar_hero_blurhash": "GXoKFIRAJ6mIdImDiIdweAOoVg==",
+                "quest_bar_hero": "quests/1541642467881783337/1549183682332459169.jpg",
+                "quest_bar_hero_video": "quests/1541642467881783337/1549448358110699540_720.mp4",
                 "game_tile": "PLACEHOLDER",
                 "logotype": "PLACEHOLDER",
                 "game_tile_light": "quests/1527502945875263548/1527507273658667068.png",
@@ -107169,7 +107169,7 @@
                 15
             ],
             "application": {
-                "link": "https://dragonwilds.runescape.com/",
+                "link": "https://dragonwilds.runescape.com/platforms",
                 "id": "1534951967250452680",
                 "name": "[Prod] Dark Queen"
             },
@@ -107238,8 +107238,8 @@
             },
             "share_policy": "shareable_everywhere",
             "cta_config": {
-                "link": "https://dragonwilds.runescape.com/",
-                "button_label": "Wishlist Now"
+                "link": "https://dragonwilds.runescape.com/platforms",
+                "button_label": "Get Game"
             }
         },
         "user_status": null,
@@ -111128,6 +111128,139 @@
                     "ios_app_id": "951627425"
                 },
                 "link": "https://dbz-dokkan-ios.go.link?adj_t=239tbp9v_23ut4nke",
+                "button_label": "Play Now"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "ad_context": null,
+        "preview": false,
+        "traffic_metadata_raw": "EAIYAQ=="
+    },
+    {
+        "id": "1547905303356383283",
+        "config": {
+            "id": "1547905303356383283",
+            "config_version": 2,
+            "starts_at": "2026-09-15T15:30:00+00:00",
+            "expires_at": "2026-09-30T00:00:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://dragonwilds.runescape.com/platforms",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1547905303356383283/1547908519468990484.jpg",
+                "hero_video": "quests/1547905303356383283/1547908784750469261_720.mp4",
+                "quest_bar_hero_blurhash": "kigKFIQyamdrl3mAaJJp0HcHnQ==",
+                "quest_bar_hero": "quests/1547905303356383283/1547908519507001466.jpg",
+                "quest_bar_hero_video": "quests/1547905303356383283/1547908772351967332_720.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1547905303356383283/1547908519569788970.png",
+                "game_tile_dark": "quests/1547905303356383283/1547908519569788970.png",
+                "logotype_light": "quests/1547905303356383283/1549439662941147207.png",
+                "logotype_dark": "quests/1547905303356383283/1549439439791460523.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "RuneScape: Dragonwilds",
+                "game_title": "RuneScape: Dragonwilds",
+                "game_publisher": "Jagex"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 100,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1547905303356383283/1547908918758342686_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1547905303356383283/1547908519507001466.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1547905303356383283/1547908918758342686_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1547905303356383283/1547908519507001466.jpg"
+                            },
+                            "video_hls": {
+                                "url": "quests/1547905303356383283/1547908918758342686.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1547905303356383283/1547908519507001466.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 100,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1547905303356383283/1547908918758342686_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1547905303356383283/1547908519507001466.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1547905303356383283/1547908918758342686_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1547905303356383283/1547908519507001466.jpg"
+                            },
+                            "video_hls": {
+                                "url": "quests/1547905303356383283/1547908918758342686.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1547905303356383283/1547908519507001466.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 3,
+                        "sku_id": "1549428276177543198",
+                        "asset": "quests/1547905303356383283/1549428607934406666.mp4",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "Dragonwilds Avatar Decoration",
+                            "name_with_article": "a Dragonwilds Avatar Decoration",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "expires_at": "2026-10-30T00:00:00+00:00",
+                        "expires_at_premium": null,
+                        "expiration_mode": 3
+                    }
+                ],
+                "rewards_expire_at": "2026-10-30T00:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://dragonwilds.runescape.com/platforms",
                 "button_label": "Play Now"
             }
         },
