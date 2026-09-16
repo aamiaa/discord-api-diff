@@ -103945,7 +103945,7 @@
                 "secondary": "#000000"
             },
             "messages": {
-                "quest_name": "Where Winds Meet 2.0 Wuxia New Era",
+                "quest_name": "Where Winds Meet 2.1 Wuxia New Era",
                 "game_title": "Where Winds Meet",
                 "game_publisher": "NETEASE"
             },
@@ -108382,19 +108382,19 @@
                         "target": 81,
                         "assets": {
                             "video": {
-                                "url": "quests/1534314625397686472/1545140311389634590_1080.mp4",
+                                "url": "quests/1534314625397686472/1549561811932684318_1080.mp4",
                                 "width": 1920,
                                 "height": 1080,
                                 "thumbnail": "quests/1534314625397686472/1549468607208235078.jpg"
                             },
                             "video_low_res": {
-                                "url": "quests/1534314625397686472/1545140311389634590_720.mp4",
+                                "url": "quests/1534314625397686472/1549561811932684318_720.mp4",
                                 "width": 1920,
                                 "height": 1080,
                                 "thumbnail": "quests/1534314625397686472/1549468607208235078.jpg"
                             },
                             "video_hls": {
-                                "url": "quests/1534314625397686472/1545140311389634590.m3u8",
+                                "url": "quests/1534314625397686472/1549561811932684318.m3u8",
                                 "width": 1920,
                                 "height": 1080,
                                 "thumbnail": "quests/1534314625397686472/1549468607208235078.jpg"
@@ -108409,19 +108409,19 @@
                         "target": 81,
                         "assets": {
                             "video": {
-                                "url": "quests/1534314625397686472/1545140311389634590_1080.mp4",
+                                "url": "quests/1534314625397686472/1549561811932684318_1080.mp4",
                                 "width": 1920,
                                 "height": 1080,
                                 "thumbnail": "quests/1534314625397686472/1549468607208235078.jpg"
                             },
                             "video_low_res": {
-                                "url": "quests/1534314625397686472/1545140311389634590_720.mp4",
+                                "url": "quests/1534314625397686472/1549561811932684318_720.mp4",
                                 "width": 1920,
                                 "height": 1080,
                                 "thumbnail": "quests/1534314625397686472/1549468607208235078.jpg"
                             },
                             "video_hls": {
-                                "url": "quests/1534314625397686472/1545140311389634590.m3u8",
+                                "url": "quests/1534314625397686472/1549561811932684318.m3u8",
                                 "width": 1920,
                                 "height": 1080,
                                 "thumbnail": "quests/1534314625397686472/1549468607208235078.jpg"
@@ -112267,6 +112267,888 @@
                 "link": "https://www.othermommymovie.ca",
                 "button_label": "Get Tickets",
                 "subtitle": "In Theatres October 9"
+            }
+        }
+    },
+    {
+        "id": "1547757450760036362",
+        "config": {
+            "id": "1547757450760036362",
+            "config_version": 2,
+            "starts_at": "2026-09-15T17:00:00+00:00",
+            "expires_at": "2026-09-23T13:59:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "http://othermommymovie.com.au/",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1547757450760036362/1549458920492236890.jpg",
+                "hero_video": "quests/1547757450760036362/1549517566358069298.mp4",
+                "quest_bar_hero_blurhash": "TBgKDIJzWXeJeIaQeIYQiDJwSA==",
+                "quest_bar_hero": "quests/1547757450760036362/1549517550981873726.jpg",
+                "quest_bar_hero_video": "quests/1547757450760036362/1549517566358069298.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1547757450760036362/1549458860572680202.png",
+                "game_tile_dark": "quests/1547757450760036362/1549458859989405796.png",
+                "logotype_light": "quests/1547757450760036362/1549458971058896896.png",
+                "logotype_dark": "quests/1547757450760036362/1549458971075678360.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "OTHER MOMMY",
+                "game_title": "In Cinemas October 8",
+                "game_publisher": "Universal Pictures"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 105,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1547757450760036362/1549517567029411930_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1547757450760036362/1549458910006485066.png"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1547757450760036362/1549517567029411930_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1547757450760036362/1549458910006485066.png"
+                            },
+                            "video_hls": {
+                                "url": "quests/1547757450760036362/1549517567029411930.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1547757450760036362/1549458910006485066.png"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 105,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1547757450760036362/1549517566999793684_1080.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1547757450760036362/1549458910006485066.png"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1547757450760036362/1549517566999793684_720.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1547757450760036362/1549458910006485066.png"
+                            },
+                            "video_hls": {
+                                "url": "quests/1547757450760036362/1549517566999793684.m3u8",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1547757450760036362/1549458910006485066.png"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "200 Orbs",
+                            "name_with_article": "200 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 200,
+                        "premium_orb_quantity": null
+                    }
+                ],
+                "rewards_expire_at": "2026-10-23T13:59:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "http://othermommymovie.com.au/",
+                "button_label": "Watch More",
+                "subtitle": "In Cinemas October 8"
+            }
+        }
+    },
+    {
+        "id": "1547745463153721354",
+        "config": {
+            "id": "1547745463153721354",
+            "config_version": 2,
+            "starts_at": "2026-09-15T17:00:00+00:00",
+            "expires_at": "2026-09-23T21:59:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://www.universalpictures.it/micro/other-mommy#iframe1",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1547745463153721354/1549461931872485406.jpg",
+                "hero_video": "quests/1547745463153721354/1549514753012146256.mp4",
+                "quest_bar_hero_blurhash": "TBgKDIJzWXeJeIaQeIYQiDJwSA==",
+                "quest_bar_hero": "quests/1547745463153721354/1549514730224230410.jpg",
+                "quest_bar_hero_video": "quests/1547745463153721354/1549514753012146256.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1547745463153721354/1549461905020551191.png",
+                "game_tile_dark": "quests/1547745463153721354/1549461904978878574.png",
+                "logotype_light": "quests/1547745463153721354/1549461953204981841.png",
+                "logotype_dark": "quests/1547745463153721354/1549461953309835376.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "MAMMINA",
+                "game_title": "DALL'8 OTTOBRE AL CINEMA",
+                "game_publisher": "Universal Pictures"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 105,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1547745463153721354/1549514753460670514_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1547745463153721354/1549461918261968957.png"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1547745463153721354/1549514753460670514_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1547745463153721354/1549461918261968957.png"
+                            },
+                            "video_hls": {
+                                "url": "quests/1547745463153721354/1549514753460670514.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1547745463153721354/1549461918261968957.png"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 105,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1547745463153721354/1549514753741946990_1080.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1547745463153721354/1549461918261968957.png"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1547745463153721354/1549514753741946990_720.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1547745463153721354/1549461918261968957.png"
+                            },
+                            "video_hls": {
+                                "url": "quests/1547745463153721354/1549514753741946990.m3u8",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1547745463153721354/1549461918261968957.png"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "200 Orbs",
+                            "name_with_article": "200 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 200,
+                        "premium_orb_quantity": null
+                    }
+                ],
+                "rewards_expire_at": "2026-10-23T21:59:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://www.universalpictures.it/micro/other-mommy#iframe1",
+                "button_label": "Watch More",
+                "subtitle": "DALL'8 OTTOBRE AL CINEMA"
+            }
+        }
+    },
+    {
+        "id": "1547752239555285002",
+        "config": {
+            "id": "1547752239555285002",
+            "config_version": 2,
+            "starts_at": "2026-09-15T17:00:00+00:00",
+            "expires_at": "2026-09-24T05:59:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "http://madresiniestra-pelicula.mx/",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1547752239555285002/1549459829263700069.jpg",
+                "hero_video": "quests/1547752239555285002/1549514303961440387_720.mp4",
+                "quest_bar_hero_blurhash": "TBgKDIJzWXeJeIaQeIYQiDJwSA==",
+                "quest_bar_hero": "quests/1547752239555285002/1549514254779031703.jpg",
+                "quest_bar_hero_video": "quests/1547752239555285002/1549514303961440387_720.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1547752239555285002/1549459878400233492.png",
+                "game_tile_dark": "quests/1547752239555285002/1549459878966202479.png",
+                "logotype_light": "quests/1547752239555285002/1549459767796170752.png",
+                "logotype_dark": "quests/1547752239555285002/1549459767989370943.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "MADRE SINIESTRA",
+                "game_title": "Solo en cines 8 de octubre.",
+                "game_publisher": "Universal Pictures"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 105,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1547752239555285002/1549514273796133075_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1547752239555285002/1549459866203201606.png"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1547752239555285002/1549514273796133075_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1547752239555285002/1549459866203201606.png"
+                            },
+                            "video_hls": {
+                                "url": "quests/1547752239555285002/1549514273796133075.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1547752239555285002/1549459866203201606.png"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 105,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1547752239555285002/1549514273233965076_1080.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1547752239555285002/1549459866203201606.png"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1547752239555285002/1549514273233965076_720.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1547752239555285002/1549459866203201606.png"
+                            },
+                            "video_hls": {
+                                "url": "quests/1547752239555285002/1549514273233965076.m3u8",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1547752239555285002/1549459866203201606.png"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "200 Orbs",
+                            "name_with_article": "200 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 200,
+                        "premium_orb_quantity": null
+                    }
+                ],
+                "rewards_expire_at": "2026-10-24T05:59:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "http://madresiniestra-pelicula.mx/",
+                "button_label": "Watch More",
+                "subtitle": "Solo en cines 8 de octubre."
+            }
+        }
+    },
+    {
+        "id": "1547741852612952114",
+        "config": {
+            "id": "1547741852612952114",
+            "config_version": 2,
+            "starts_at": "2026-09-15T17:00:00+00:00",
+            "expires_at": "2026-09-23T21:59:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://www.upig.de/micro/other-mommy",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1547741852612952114/1549463725021597836.jpg",
+                "hero_video": "quests/1547741852612952114/1549516548345962526_720.mp4",
+                "quest_bar_hero_blurhash": "TBgKDIJzWXeJeIaQeIYQiDJwSA==",
+                "quest_bar_hero": "quests/1547741852612952114/1549516529635299428.jpg",
+                "quest_bar_hero_video": "quests/1547741852612952114/1549516548345962526_720.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1547741852612952114/1549463698538631300.png",
+                "game_tile_dark": "quests/1547741852612952114/1549463698559471836.png",
+                "logotype_light": "quests/1547741852612952114/1549463754402693211.png",
+                "logotype_dark": "quests/1547741852612952114/1549463755056746496.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "OTHER MOMMY",
+                "game_title": "Ab 29. Oktober nur im Kino.",
+                "game_publisher": "Universal Pictures"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 105,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1547741852612952114/1549516522911826022_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1547741852612952114/1549463714162413599.png"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1547741852612952114/1549516522911826022_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1547741852612952114/1549463714162413599.png"
+                            },
+                            "video_hls": {
+                                "url": "quests/1547741852612952114/1549516522911826022.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1547741852612952114/1549463714162413599.png"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 105,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1547741852612952114/1549516522915897424_1080.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1547741852612952114/1549463714162413599.png"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1547741852612952114/1549516522915897424_720.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1547741852612952114/1549463714162413599.png"
+                            },
+                            "video_hls": {
+                                "url": "quests/1547741852612952114/1549516522915897424.m3u8",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1547741852612952114/1549463714162413599.png"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "200 Orbs",
+                            "name_with_article": "200 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 200,
+                        "premium_orb_quantity": null
+                    }
+                ],
+                "rewards_expire_at": "2026-10-23T21:59:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://www.upig.de/micro/other-mommy",
+                "button_label": "Watch More",
+                "subtitle": "Ab 29. Oktober nur im Kino."
+            }
+        }
+    },
+    {
+        "id": "1547374341073674290",
+        "config": {
+            "id": "1547374341073674290",
+            "config_version": 2,
+            "starts_at": "2026-09-15T22:00:00+00:00",
+            "expires_at": "2026-09-18T21:59:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://www.upig.de/micro/forgotten-island",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1547374341073674290/1547377791182311444.jpg",
+                "hero_video": "quests/1547374341073674290/1547378234277105674_720.mp4",
+                "quest_bar_hero_blurhash": "0fcJDIKKd4iSeHdwh2i7cIw/6w==",
+                "quest_bar_hero": "quests/1547374341073674290/1547377720076533840.jpg",
+                "quest_bar_hero_video": "quests/1547374341073674290/1547378234277105674_720.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1547374341073674290/1547377733150179458.png",
+                "game_tile_dark": "quests/1547374341073674290/1547377733150179458.png",
+                "logotype_light": "quests/1547374341073674290/1547377750866796655.png",
+                "logotype_dark": "quests/1547374341073674290/1547377750866796655.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Forgotten Island",
+                "game_title": "Ab 8. Oktober nur im Kino!",
+                "game_publisher": "Universal Pictures"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 59,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1547374341073674290/1547377721036902441_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1547374341073674290/1547377765144207422.png"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1547374341073674290/1547377721036902441_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1547374341073674290/1547377765144207422.png"
+                            },
+                            "video_hls": {
+                                "url": "quests/1547374341073674290/1547377721036902441.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1547374341073674290/1547377765144207422.png"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 59,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1547374341073674290/1547377721024319628_1080.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1547374341073674290/1547377765144207422.png"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1547374341073674290/1547377721024319628_720.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1547374341073674290/1547377765144207422.png"
+                            },
+                            "video_hls": {
+                                "url": "quests/1547374341073674290/1547377721024319628.m3u8",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1547374341073674290/1547377765144207422.png"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "200 Orbs",
+                            "name_with_article": "200 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 200,
+                        "premium_orb_quantity": null
+                    }
+                ],
+                "rewards_expire_at": "2026-10-18T21:59:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://www.upig.de/micro/forgotten-island",
+                "button_label": "Get Tickets",
+                "subtitle": "Ab 8. Oktober nur im Kino!"
+            }
+        }
+    },
+    {
+        "id": "1547748594604441680",
+        "config": {
+            "id": "1547748594604441680",
+            "config_version": 2,
+            "starts_at": "2026-09-15T17:00:00+00:00",
+            "expires_at": "2026-09-24T02:59:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://www.universalpics.com.br/micro/other-mommy#iframe1",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1547748594604441680/1549460400393945208.jpg",
+                "hero_video": "quests/1547748594604441680/1549517132566495252_720.mp4",
+                "quest_bar_hero_blurhash": "TBgKDIJzWXeJeIaQeIYQiDJwSA==",
+                "quest_bar_hero": "quests/1547748594604441680/1549516923245428898.jpg",
+                "quest_bar_hero_video": "quests/1547748594604441680/1549517132566495252_720.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1547748594604441680/1549460374577741934.png",
+                "game_tile_dark": "quests/1547748594604441680/1549460374422556729.png",
+                "logotype_light": "quests/1547748594604441680/1549460424011812984.png",
+                "logotype_dark": "quests/1547748594604441680/1549460424729301032.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "OUTRA MAMÃE",
+                "game_title": "29 de outubro nos cinemas",
+                "game_publisher": "Universal Pictures"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 105,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1547748594604441680/1549517098701819914_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1547748594604441680/1549460386976370728.png"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1547748594604441680/1549517098701819914_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1547748594604441680/1549460386976370728.png"
+                            },
+                            "video_hls": {
+                                "url": "quests/1547748594604441680/1549517098701819914.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1547748594604441680/1549460386976370728.png"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 105,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1547748594604441680/1549517099167387669_1080.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1547748594604441680/1549460386976370728.png"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1547748594604441680/1549517099167387669_720.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1547748594604441680/1549460386976370728.png"
+                            },
+                            "video_hls": {
+                                "url": "quests/1547748594604441680/1549517099167387669.m3u8",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1547748594604441680/1549460386976370728.png"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "200 Orbs",
+                            "name_with_article": "200 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 200,
+                        "premium_orb_quantity": null
+                    }
+                ],
+                "rewards_expire_at": "2026-10-24T02:59:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://www.universalpics.com.br/micro/other-mommy#iframe1",
+                "button_label": "Watch More",
+                "subtitle": "29 de outubro nos cinemas"
+            }
+        }
+    },
+    {
+        "id": "1547747355267170454",
+        "config": {
+            "id": "1547747355267170454",
+            "config_version": 2,
+            "starts_at": "2026-09-15T17:00:00+00:00",
+            "expires_at": "2026-09-23T22:59:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "http://www.othermommymovie.co.uk",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1547747355267170454/1549461375892590693.jpg",
+                "hero_video": "quests/1547747355267170454/1549513516740903074_720.mp4",
+                "quest_bar_hero_blurhash": "TBgKDIJzWXeJeIaQeIYQiDJwSA==",
+                "quest_bar_hero": "quests/1547747355267170454/1549513496797126876.jpg",
+                "quest_bar_hero_video": "quests/1547747355267170454/1549513516740903074_720.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1547747355267170454/1549461278756569198.png",
+                "game_tile_dark": "quests/1547747355267170454/1549461278756569198.png",
+                "logotype_light": "quests/1547747355267170454/1549461393311404183.png",
+                "logotype_dark": "quests/1547747355267170454/1549461393311404183.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "OTHER MOMMY",
+                "game_title": "In Cinemas October 9",
+                "game_publisher": "Universal Pictures"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 105,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1547747355267170454/1549513449816596551_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1547747355267170454/1549461364509245580.png"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1547747355267170454/1549513449816596551_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1547747355267170454/1549461364509245580.png"
+                            },
+                            "video_hls": {
+                                "url": "quests/1547747355267170454/1549513449816596551.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1547747355267170454/1549461364509245580.png"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 105,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1547747355267170454/1549513450147811500_1080.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1547747355267170454/1549461364509245580.png"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1547747355267170454/1549513450147811500_720.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1547747355267170454/1549461364509245580.png"
+                            },
+                            "video_hls": {
+                                "url": "quests/1547747355267170454/1549513450147811500.m3u8",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1547747355267170454/1549461364509245580.png"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "200 Orbs",
+                            "name_with_article": "200 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 200,
+                        "premium_orb_quantity": null
+                    }
+                ],
+                "rewards_expire_at": "2026-10-23T22:59:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "http://www.othermommymovie.co.uk",
+                "button_label": "Watch More",
+                "subtitle": "In Cinemas October 9"
             }
         }
     }
