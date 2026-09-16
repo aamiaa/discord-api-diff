@@ -187164,5 +187164,1869 @@
             "responsive": null,
             "background_style": "linear-gradient(180deg, #FBDFDD 0%, #975A83 100%)"
         }
+    },
+    {
+        "sku_id": "1545530118263537684",
+        "name": "Fall Foragers",
+        "summary": " ",
+        "store_listing_id": "1545530118263537684",
+        "styles": {
+            "background_colors": [
+                8269621,
+                14046758
+            ],
+            "button_colors": [
+                5793266,
+                5793266
+            ],
+            "confetti_colors": [
+                43772,
+                15774258,
+                16414587,
+                3000177,
+                9739511
+            ]
+        },
+        "hero_ranking": [
+            "1545539307719229510",
+            "1545539978887434321",
+            "1545540330932408490",
+            "1545530967433674853",
+            "1545533300171346131",
+            "1545533418073231482",
+            "1545534123182002246",
+            "1545534249216638986",
+            "1545534622782455918",
+            "1545536600677814393",
+            "1545536891753857144",
+            "1545538298884259930",
+            "1545538607811534988",
+            "1545538988813844600"
+        ],
+        "products": [
+            {
+                "sku_id": "1545539307719229510",
+                "name": "Fall Foragers Bundle",
+                "summary": "{joinedItems}",
+                "styles": {
+                    "background_colors": [
+                        8269621,
+                        14046758
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 2099,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 14400,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 1699,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 14400,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "preview_assets": {
+                    "fg_static": "https://cdn.discordapp.com/media/v1/collectibles-shop/bundle-fg-static/1545539307719229510",
+                    "bg_static": "https://cdn.discordapp.com/media/v1/collectibles-shop/bundle-bg-static/1545539307719229510"
+                },
+                "items": [
+                    {
+                        "type": 0,
+                        "sku_id": "1545530967433674853",
+                        "asset": "a_47202ff223e839a2ecf14a8b0f3ce7a1",
+                        "label": "A black cat lounges in a pile of autumn leaves."
+                    },
+                    {
+                        "type": 2,
+                        "sku_id": "1545534249216638986",
+                        "asset": "nameplates/harvest_mouse/1545534249216638986/",
+                        "label": "A brown mouse nibbles berries atop a pile of red berries.",
+                        "palette": "berry"
+                    },
+                    {
+                        "type": 1,
+                        "sku_id": "1545538298884259930",
+                        "title": "Odette",
+                        "description": "Show this effect when others view your profile.",
+                        "accessibilityLabel": "A swan glides on water as maple leaves fall around it.",
+                        "animationType": 2,
+                        "thumbnailPreviewSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/2ea54999168210cb9b989fa7942891211248431b9f807b24ba51eb43e8a4d819",
+                        "reducedMotionSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/7b52cec2f1b08e7d66338e0f741bbb5b0eec804341af1ba4f6d3c9204237eca0",
+                        "effects": [
+                            {
+                                "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/db755b9de7681c2eb53c21739e83d625d86d9a3ff24b64c263ae384bc3f3dae5",
+                                "loop": false,
+                                "duration": 4981,
+                                "start": 0,
+                                "loopDelay": 0,
+                                "zIndex": 110,
+                                "randomizedSources": []
+                            },
+                            {
+                                "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/42b9a68dea261dcde438a0efd924bc131d788d7cd2900ee6f362bbbd3a0416ea",
+                                "loop": true,
+                                "duration": 4980,
+                                "start": 7981,
+                                "loopDelay": 3000,
+                                "zIndex": 100,
+                                "randomizedSources": []
+                            }
+                        ]
+                    },
+                    {
+                        "type": 3,
+                        "sku_id": "1545538607811534988",
+                        "label": "A black cat peeks out from a pile of leaves at the top with more autumn leaves along the bottom.",
+                        "layers": [
+                            {
+                                "id": "1545538924410044486",
+                                "type": "staple",
+                                "order": "front",
+                                "anchor": "top",
+                                "responsive": false
+                            },
+                            {
+                                "id": "1545538929283833866",
+                                "type": "staple",
+                                "order": "front",
+                                "anchor": "bottom",
+                                "responsive": false
+                            },
+                            {
+                                "id": "1545538933595574423",
+                                "type": "staple",
+                                "order": "back",
+                                "anchor": "top",
+                                "responsive": false
+                            },
+                            {
+                                "id": "1545538943678947388",
+                                "type": "staple",
+                                "order": "back",
+                                "anchor": "bottom",
+                                "responsive": false
+                            }
+                        ],
+                        "inner_width": 1200,
+                        "overflow_top": 304,
+                        "overflow_bottom": 212,
+                        "overflow_horizontal": 56
+                    }
+                ],
+                "type": 1000,
+                "premium_type": 0,
+                "category_sku_id": "1545530118263537684",
+                "bundled_products": [
+                    {
+                        "sku_id": "1545530967433674853",
+                        "name": "Leafy Loaf",
+                        "summary": "Give your avatar a new look.",
+                        "type": 0,
+                        "premium_type": 0,
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 599,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 499,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "sku_id": "1545534249216638986",
+                        "name": "Harvest Mouse (Brown)",
+                        "summary": "Make your name stand out in servers and chats.",
+                        "type": 2,
+                        "premium_type": 0,
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 599,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 499,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "sku_id": "1545538298884259930",
+                        "name": "Odette",
+                        "summary": "Show this effect when others view your profile.",
+                        "type": 1,
+                        "premium_type": 0,
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 599,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 499,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "sku_id": "1545538607811534988",
+                        "name": "Leafy Loaf",
+                        "summary": "Elevate and wrap your profile with a frame.",
+                        "type": 3,
+                        "premium_type": 0,
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 599,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 499,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ],
+                "google_sku_ids": {
+                    "5": "1545539307719229510_1545542949146722314",
+                    "7": "1545539307719229510_1545542954687668336"
+                },
+                "is_first_party": true
+            },
+            {
+                "sku_id": "1545539978887434321",
+                "name": "Autumn Garden Bundle",
+                "summary": "{joinedItems}",
+                "styles": {
+                    "background_colors": [
+                        8269621,
+                        14046758
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 2099,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 14400,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 1699,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 14400,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "preview_assets": {
+                    "fg_static": "https://cdn.discordapp.com/media/v1/collectibles-shop/bundle-fg-static/1545539978887434321",
+                    "bg_static": "https://cdn.discordapp.com/media/v1/collectibles-shop/bundle-bg-static/1545539978887434321"
+                },
+                "items": [
+                    {
+                        "type": 0,
+                        "sku_id": "1545533418073231482",
+                        "asset": "a_3fc0f92dd90e96adb617cd90f207f7f0",
+                        "label": "Red maple branches encircle the avatar."
+                    },
+                    {
+                        "type": 2,
+                        "sku_id": "1545536600677814393",
+                        "asset": "nameplates/toadstools/1545536600677814393/",
+                        "label": "Red-capped toadstools grow in a patch of grass.",
+                        "palette": "teal"
+                    },
+                    {
+                        "type": 1,
+                        "sku_id": "1545536891753857144",
+                        "title": "Autumn Garden",
+                        "description": "Show this effect when others view your profile.",
+                        "accessibilityLabel": "Sunflowers bloom and pumpkins grow in the drizzling rain.",
+                        "animationType": 1,
+                        "staticFrameSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/c57a7f94da5b109e88920de840a391a09c23821af0ae85014169ef5ae0b7f2d4",
+                        "thumbnailPreviewSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/665d257e9ff3475f7d5ca301191bfc7d95180dd1c119293fbc9fb0303abd0a98",
+                        "reducedMotionSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/41e1031b1da05bbb69950cadbdca77c9206a5363d32ca773e473c6a266fac96d",
+                        "effects": [
+                            {
+                                "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/b09bd1d5ff1a75b3c55bacfd013b758df2b4a4bbb175fb7c964407fe67e8544a",
+                                "loop": false,
+                                "duration": 4980,
+                                "start": 0,
+                                "loopDelay": 0,
+                                "zIndex": 110,
+                                "randomizedSources": []
+                            },
+                            {
+                                "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/7379e3f6d88b1d35c7b0180acec64acd2f7b2d39728c7f143aaaa5ad9f4ca4c8",
+                                "loop": true,
+                                "duration": 4980,
+                                "start": 4981,
+                                "loopDelay": 0,
+                                "zIndex": 100,
+                                "randomizedSources": []
+                            }
+                        ]
+                    },
+                    {
+                        "type": 3,
+                        "sku_id": "1545538988813844600",
+                        "label": "Sunflowers grow along the top with gourds lining the bottom.",
+                        "layers": [
+                            {
+                                "id": "1545539108863090758",
+                                "type": "rail",
+                                "order": "front",
+                                "anchor": "center",
+                                "responsive": true
+                            },
+                            {
+                                "id": "1545539113048875008",
+                                "type": "staple",
+                                "order": "front",
+                                "anchor": "top",
+                                "responsive": false
+                            },
+                            {
+                                "id": "1545539117490901153",
+                                "type": "staple",
+                                "order": "front",
+                                "anchor": "bottom",
+                                "responsive": false
+                            },
+                            {
+                                "id": "1545539123123720262",
+                                "type": "rail",
+                                "order": "back",
+                                "anchor": "center",
+                                "responsive": true
+                            },
+                            {
+                                "id": "1545539126810386522",
+                                "type": "staple",
+                                "order": "back",
+                                "anchor": "top",
+                                "responsive": false
+                            },
+                            {
+                                "id": "1545539131990478911",
+                                "type": "staple",
+                                "order": "back",
+                                "anchor": "bottom",
+                                "responsive": false
+                            }
+                        ],
+                        "inner_width": 1200,
+                        "overflow_top": 304,
+                        "overflow_bottom": 212,
+                        "overflow_horizontal": 56
+                    }
+                ],
+                "type": 1000,
+                "premium_type": 0,
+                "category_sku_id": "1545530118263537684",
+                "bundled_products": [
+                    {
+                        "sku_id": "1545533418073231482",
+                        "name": "Japanese Maple",
+                        "summary": "Give your avatar a new look.",
+                        "type": 0,
+                        "premium_type": 0,
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 599,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 499,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "sku_id": "1545536600677814393",
+                        "name": "Toadstools",
+                        "summary": "Make your name stand out in servers and chats.",
+                        "type": 2,
+                        "premium_type": 0,
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 599,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 499,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "sku_id": "1545536891753857144",
+                        "name": "Autumn Garden",
+                        "summary": "Show this effect when others view your profile.",
+                        "type": 1,
+                        "premium_type": 0,
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 599,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 499,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "sku_id": "1545538988813844600",
+                        "name": "Autumn Garden",
+                        "summary": "Elevate and wrap your profile with a frame.",
+                        "type": 3,
+                        "premium_type": 0,
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 599,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 499,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ],
+                "google_sku_ids": {
+                    "5": "1545539978887434321_1545541855721033768",
+                    "7": "1545539978887434321_1545541860385235084"
+                },
+                "is_first_party": true
+            },
+            {
+                "sku_id": "1545540330932408490",
+                "name": "Autumn Robin Bundle",
+                "summary": "{joinedItems}",
+                "styles": {
+                    "background_colors": [
+                        8269621,
+                        14046758
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 1099,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 7600,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 899,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 7600,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "preview_assets": {
+                    "fg_static": "https://cdn.discordapp.com/media/v1/collectibles-shop/bundle-fg-static/1545540330932408490",
+                    "bg_static": "https://cdn.discordapp.com/media/v1/collectibles-shop/bundle-bg-static/1545540330932408490"
+                },
+                "items": [
+                    {
+                        "type": 0,
+                        "sku_id": "1545533300171346131",
+                        "asset": "a_e73462eef71738e4e478a55ccea7823d",
+                        "label": "Bare branches with red berries encircle the avatar, a robin perched at the top."
+                    },
+                    {
+                        "type": 2,
+                        "sku_id": "1545534123182002246",
+                        "asset": "nameplates/gardener's_friend/1545534123182002246/",
+                        "label": "A robin perches on a berry branch.",
+                        "palette": "sky"
+                    }
+                ],
+                "type": 1000,
+                "premium_type": 0,
+                "category_sku_id": "1545530118263537684",
+                "bundled_products": [
+                    {
+                        "sku_id": "1545533300171346131",
+                        "name": "Gardener's Friend",
+                        "summary": "Give your avatar a new look.",
+                        "type": 0,
+                        "premium_type": 0,
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 599,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 499,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "sku_id": "1545534123182002246",
+                        "name": "Gardener's Friend",
+                        "summary": "Make your name stand out in servers and chats.",
+                        "type": 2,
+                        "premium_type": 0,
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 599,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 499,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ],
+                "google_sku_ids": {
+                    "5": "1545540330932408490_1545542409478480003",
+                    "7": "1545540330932408490_1545542414771425280"
+                },
+                "is_first_party": true
+            },
+            {
+                "sku_id": "1545530967433674853",
+                "name": "Leafy Loaf",
+                "summary": "Give your avatar a new look.",
+                "styles": {
+                    "background_colors": [
+                        8269621,
+                        14046758
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "preview_assets": null,
+                "items": [
+                    {
+                        "type": 0,
+                        "sku_id": "1545530967433674853",
+                        "asset": "a_47202ff223e839a2ecf14a8b0f3ce7a1",
+                        "label": "A black cat lounges in a pile of autumn leaves."
+                    }
+                ],
+                "type": 0,
+                "premium_type": 0,
+                "category_sku_id": "1545530118263537684",
+                "google_sku_ids": {
+                    "5": "1545530967433674853_1545533356903636992",
+                    "7": "1545530967433674853_1545533361991319713"
+                },
+                "is_first_party": true
+            },
+            {
+                "sku_id": "1545533300171346131",
+                "name": "Gardener's Friend",
+                "summary": "Give your avatar a new look.",
+                "styles": {
+                    "background_colors": [
+                        8269621,
+                        14046758
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "preview_assets": null,
+                "items": [
+                    {
+                        "type": 0,
+                        "sku_id": "1545533300171346131",
+                        "asset": "a_e73462eef71738e4e478a55ccea7823d",
+                        "label": "Bare branches with red berries encircle the avatar, a robin perched at the top."
+                    }
+                ],
+                "type": 0,
+                "premium_type": 0,
+                "category_sku_id": "1545530118263537684",
+                "google_sku_ids": {
+                    "5": "1545533300171346131_1545534094304092271",
+                    "7": "1545533300171346131_1545534101858291762"
+                },
+                "is_first_party": true
+            },
+            {
+                "sku_id": "1545533418073231482",
+                "name": "Japanese Maple",
+                "summary": "Give your avatar a new look.",
+                "styles": {
+                    "background_colors": [
+                        8269621,
+                        14046758
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "preview_assets": null,
+                "items": [
+                    {
+                        "type": 0,
+                        "sku_id": "1545533418073231482",
+                        "asset": "a_3fc0f92dd90e96adb617cd90f207f7f0",
+                        "label": "Red maple branches encircle the avatar."
+                    }
+                ],
+                "type": 0,
+                "premium_type": 0,
+                "category_sku_id": "1545530118263537684",
+                "google_sku_ids": {
+                    "5": "1545533418073231482_1545534197874167848",
+                    "7": "1545533418073231482_1545534203104337930"
+                },
+                "is_first_party": true
+            },
+            {
+                "sku_id": "1545534123182002246",
+                "name": "Gardener's Friend",
+                "summary": "Make your name stand out in servers and chats.",
+                "styles": {
+                    "background_colors": [
+                        8269621,
+                        14046758
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "preview_assets": null,
+                "items": [
+                    {
+                        "type": 2,
+                        "sku_id": "1545534123182002246",
+                        "asset": "nameplates/gardener's_friend/1545534123182002246/",
+                        "label": "A robin perches on a berry branch.",
+                        "palette": "sky"
+                    }
+                ],
+                "type": 2,
+                "premium_type": 0,
+                "category_sku_id": "1545530118263537684",
+                "google_sku_ids": {
+                    "5": "1545534123182002246_1545536200008536144",
+                    "7": "1545534123182002246_1545536205196759040"
+                },
+                "is_first_party": true
+            },
+            {
+                "sku_id": "1545534249216638986",
+                "name": "Harvest Mouse (Brown)",
+                "summary": "Make your name stand out in servers and chats.",
+                "styles": {
+                    "background_colors": [
+                        8269621,
+                        14046758
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "preview_assets": null,
+                "items": [
+                    {
+                        "type": 2,
+                        "sku_id": "1545534249216638986",
+                        "asset": "nameplates/harvest_mouse/1545534249216638986/",
+                        "label": "A brown mouse nibbles berries atop a pile of red berries.",
+                        "palette": "berry"
+                    }
+                ],
+                "type": 2,
+                "premium_type": 0,
+                "category_sku_id": "1545530118263537684",
+                "google_sku_ids": {
+                    "5": "1545534249216638986_1545538214696194178",
+                    "7": "1545534249216638986_1545538220253515847"
+                },
+                "is_first_party": true
+            },
+            {
+                "sku_id": "1545534622782455918",
+                "name": "Harvest Mouse (Gray)",
+                "summary": "Make your name stand out in servers and chats.",
+                "styles": {
+                    "background_colors": [
+                        8269621,
+                        14046758
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "preview_assets": null,
+                "items": [
+                    {
+                        "type": 2,
+                        "sku_id": "1545534622782455918",
+                        "asset": "nameplates/harvest_mouse/1545534622782455918/",
+                        "label": "A gray mouse nibbles berries atop a pile of red berries.",
+                        "palette": "sky"
+                    }
+                ],
+                "type": 2,
+                "premium_type": 0,
+                "category_sku_id": "1545530118263537684",
+                "google_sku_ids": {
+                    "5": "1545534622782455918_1545538576857567262",
+                    "7": "1545534622782455918_1545538581664235540"
+                },
+                "is_first_party": true
+            },
+            {
+                "sku_id": "1545536600677814393",
+                "name": "Toadstools",
+                "summary": "Make your name stand out in servers and chats.",
+                "styles": {
+                    "background_colors": [
+                        8269621,
+                        14046758
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "preview_assets": null,
+                "items": [
+                    {
+                        "type": 2,
+                        "sku_id": "1545536600677814393",
+                        "asset": "nameplates/toadstools/1545536600677814393/",
+                        "label": "Red-capped toadstools grow in a patch of grass.",
+                        "palette": "teal"
+                    }
+                ],
+                "type": 2,
+                "premium_type": 0,
+                "category_sku_id": "1545530118263537684",
+                "google_sku_ids": {
+                    "5": "1545536600677814393_1545540769157484554",
+                    "7": "1545536600677814393_1545540774559752212"
+                },
+                "is_first_party": true
+            },
+            {
+                "sku_id": "1545536891753857144",
+                "name": "Autumn Garden",
+                "summary": "Show this effect when others view your profile.",
+                "styles": {
+                    "background_colors": [
+                        8269621,
+                        14046758
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "preview_assets": null,
+                "items": [
+                    {
+                        "type": 1,
+                        "sku_id": "1545536891753857144",
+                        "title": "Autumn Garden",
+                        "description": "Show this effect when others view your profile.",
+                        "accessibilityLabel": "Sunflowers bloom and pumpkins grow in the drizzling rain.",
+                        "animationType": 1,
+                        "staticFrameSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/c57a7f94da5b109e88920de840a391a09c23821af0ae85014169ef5ae0b7f2d4",
+                        "thumbnailPreviewSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/665d257e9ff3475f7d5ca301191bfc7d95180dd1c119293fbc9fb0303abd0a98",
+                        "reducedMotionSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/41e1031b1da05bbb69950cadbdca77c9206a5363d32ca773e473c6a266fac96d",
+                        "effects": [
+                            {
+                                "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/b09bd1d5ff1a75b3c55bacfd013b758df2b4a4bbb175fb7c964407fe67e8544a",
+                                "loop": false,
+                                "duration": 4980,
+                                "start": 0,
+                                "loopDelay": 0,
+                                "zIndex": 110,
+                                "randomizedSources": []
+                            },
+                            {
+                                "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/7379e3f6d88b1d35c7b0180acec64acd2f7b2d39728c7f143aaaa5ad9f4ca4c8",
+                                "loop": true,
+                                "duration": 4980,
+                                "start": 4981,
+                                "loopDelay": 0,
+                                "zIndex": 100,
+                                "randomizedSources": []
+                            }
+                        ]
+                    }
+                ],
+                "type": 1,
+                "premium_type": 0,
+                "category_sku_id": "1545530118263537684",
+                "google_sku_ids": {
+                    "5": "1545536891753857144_1549841296233996358",
+                    "7": "1545536891753857144_1549841303506788572"
+                },
+                "is_first_party": true
+            },
+            {
+                "sku_id": "1545538298884259930",
+                "name": "Odette",
+                "summary": "Show this effect when others view your profile.",
+                "styles": {
+                    "background_colors": [
+                        8269621,
+                        14046758
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "preview_assets": null,
+                "items": [
+                    {
+                        "type": 1,
+                        "sku_id": "1545538298884259930",
+                        "title": "Odette",
+                        "description": "Show this effect when others view your profile.",
+                        "accessibilityLabel": "A swan glides on water as maple leaves fall around it.",
+                        "animationType": 2,
+                        "thumbnailPreviewSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/2ea54999168210cb9b989fa7942891211248431b9f807b24ba51eb43e8a4d819",
+                        "reducedMotionSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/7b52cec2f1b08e7d66338e0f741bbb5b0eec804341af1ba4f6d3c9204237eca0",
+                        "effects": [
+                            {
+                                "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/db755b9de7681c2eb53c21739e83d625d86d9a3ff24b64c263ae384bc3f3dae5",
+                                "loop": false,
+                                "duration": 4981,
+                                "start": 0,
+                                "loopDelay": 0,
+                                "zIndex": 110,
+                                "randomizedSources": []
+                            },
+                            {
+                                "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/42b9a68dea261dcde438a0efd924bc131d788d7cd2900ee6f362bbbd3a0416ea",
+                                "loop": true,
+                                "duration": 4980,
+                                "start": 7981,
+                                "loopDelay": 3000,
+                                "zIndex": 100,
+                                "randomizedSources": []
+                            }
+                        ]
+                    }
+                ],
+                "type": 1,
+                "premium_type": 0,
+                "category_sku_id": "1545530118263537684",
+                "google_sku_ids": {
+                    "5": "1545538298884259930_1545539753968009266",
+                    "7": "1545538298884259930_1545539760322257078"
+                },
+                "is_first_party": true
+            },
+            {
+                "sku_id": "1545538607811534988",
+                "name": "Leafy Loaf",
+                "summary": "Elevate and wrap your profile with a frame.",
+                "styles": {
+                    "background_colors": [
+                        8269621,
+                        14046758
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "preview_assets": null,
+                "items": [
+                    {
+                        "type": 3,
+                        "sku_id": "1545538607811534988",
+                        "label": "A black cat peeks out from a pile of leaves at the top with more autumn leaves along the bottom.",
+                        "layers": [
+                            {
+                                "id": "1545538924410044486",
+                                "type": "staple",
+                                "order": "front",
+                                "anchor": "top",
+                                "responsive": false
+                            },
+                            {
+                                "id": "1545538929283833866",
+                                "type": "staple",
+                                "order": "front",
+                                "anchor": "bottom",
+                                "responsive": false
+                            },
+                            {
+                                "id": "1545538933595574423",
+                                "type": "staple",
+                                "order": "back",
+                                "anchor": "top",
+                                "responsive": false
+                            },
+                            {
+                                "id": "1545538943678947388",
+                                "type": "staple",
+                                "order": "back",
+                                "anchor": "bottom",
+                                "responsive": false
+                            }
+                        ],
+                        "inner_width": 1200,
+                        "overflow_top": 304,
+                        "overflow_bottom": 212,
+                        "overflow_horizontal": 56
+                    }
+                ],
+                "type": 3,
+                "premium_type": 0,
+                "category_sku_id": "1545530118263537684",
+                "google_sku_ids": {
+                    "5": "1545538607811534988_1545539728852389978",
+                    "7": "1545538607811534988_1545539737341796372"
+                },
+                "is_first_party": true
+            },
+            {
+                "sku_id": "1545538988813844600",
+                "name": "Autumn Garden",
+                "summary": "Elevate and wrap your profile with a frame.",
+                "styles": {
+                    "background_colors": [
+                        8269621,
+                        14046758
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "preview_assets": null,
+                "items": [
+                    {
+                        "type": 3,
+                        "sku_id": "1545538988813844600",
+                        "label": "Sunflowers grow along the top with gourds lining the bottom.",
+                        "layers": [
+                            {
+                                "id": "1545539108863090758",
+                                "type": "rail",
+                                "order": "front",
+                                "anchor": "center",
+                                "responsive": true
+                            },
+                            {
+                                "id": "1545539113048875008",
+                                "type": "staple",
+                                "order": "front",
+                                "anchor": "top",
+                                "responsive": false
+                            },
+                            {
+                                "id": "1545539117490901153",
+                                "type": "staple",
+                                "order": "front",
+                                "anchor": "bottom",
+                                "responsive": false
+                            },
+                            {
+                                "id": "1545539123123720262",
+                                "type": "rail",
+                                "order": "back",
+                                "anchor": "center",
+                                "responsive": true
+                            },
+                            {
+                                "id": "1545539126810386522",
+                                "type": "staple",
+                                "order": "back",
+                                "anchor": "top",
+                                "responsive": false
+                            },
+                            {
+                                "id": "1545539131990478911",
+                                "type": "staple",
+                                "order": "back",
+                                "anchor": "bottom",
+                                "responsive": false
+                            }
+                        ],
+                        "inner_width": 1200,
+                        "overflow_top": 304,
+                        "overflow_bottom": 212,
+                        "overflow_horizontal": 56
+                    }
+                ],
+                "type": 3,
+                "premium_type": 0,
+                "category_sku_id": "1545530118263537684",
+                "google_sku_ids": {
+                    "5": "1545538988813844600_1545542300262731846",
+                    "7": "1545538988813844600_1545542305237438564"
+                },
+                "is_first_party": true
+            }
+        ],
+        "hero_banner_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/f9bca9ab15cb116106fd293fac4fb4d206c467f8ac866e3b209341ef712b9e28",
+        "hero_logo_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/36f9c78d314bb50ea57f8a257fa75b9045080baf6450a0af88757b945381997a",
+        "catalog_banner_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/31ccd09faaccb7d2976a1f68e7394de25e26f8299c4f49309bf4ff384db31e78",
+        "featured_block_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/b357d6e61234d1825dd96079a1d7d954eb4907ba7aca96c76f4399c4481888b3",
+        "logo_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/36f9c78d314bb50ea57f8a257fa75b9045080baf6450a0af88757b945381997a",
+        "pdp_bg_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/a24841010339e956104a5ad5bf89c31477464c2c88120dfb80e032fa0fb27fa1",
+        "mobile_hero_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/f72782bf9fd09ae423e611f4fb72f6fd16a7f6a49eb0340a499be3d899b10e35",
+        "mobile_banner_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/a7c81816de9d22dd150006476a7ddf944319b7bc5d05ca7dba5a94c282424a21",
+        "mobile_bg_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1229ba78afba139a07b12d50cbbb0b76a7d4311f6a43064100b8115ac4bf6325",
+        "hero_banner_display_config": {
+            "desktop_max_height": null,
+            "mobile_max_height": null,
+            "responsive": null,
+            "background_style": "linear-gradient(180deg, #7E2F35 0%, #D65626 100%)"
+        },
+        "hero_logo_display_config": {
+            "desktop_max_height": 110,
+            "mobile_max_height": null,
+            "responsive": null,
+            "background_style": null
+        }
     }
 ]
