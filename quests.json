@@ -108241,7 +108241,7 @@
             "messages": {
                 "quest_name": "Dumb Ways to Build",
                 "game_title": "Dumb Ways to Build",
-                "game_publisher": "PlaySide Studios"
+                "game_publisher": "Dumb Ways to Die"
             },
             "task_config_v2": {
                 "tasks": {
@@ -113149,6 +113149,225 @@
                 "link": "http://www.othermommymovie.co.uk",
                 "button_label": "Watch More",
                 "subtitle": "In Cinemas October 9"
+            }
+        }
+    },
+    {
+        "id": "1537132225999413298",
+        "config": {
+            "id": "1537132225999413298",
+            "config_version": 2,
+            "starts_at": "2026-09-16T16:00:00+00:00",
+            "expires_at": "2026-09-28T06:59:00+00:00",
+            "features": [
+                27,
+                36,
+                15
+            ],
+            "application": {
+                "link": "https://www.ForgottenIslandTickets.com",
+                "id": "1536314143412457553",
+                "name": "Elba"
+            },
+            "assets": {
+                "hero": "quests/1537132225999413298/1549100554310123520.jpg",
+                "hero_video": "quests/1537132225999413298/1549536715826405557_720.mp4",
+                "quest_bar_hero_blurhash": "X3UFRIYJW4iGe4iFZooIelTICA==",
+                "quest_bar_hero": "quests/1537132225999413298/1549100554033303582.jpg",
+                "quest_bar_hero_video": "quests/1537132225999413298/1549536715826405557_720.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1537132225999413298/1549099454999699497.png",
+                "game_tile_dark": "quests/1537132225999413298/1549100246896873593.png",
+                "logotype_light": "quests/1537132225999413298/1549099454999699497.png",
+                "logotype_dark": "quests/1537132225999413298/1549099454999699497.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "FORGOTTEN ISLAND",
+                "game_title": "IN THEATERS SEPTEMBER 25",
+                "game_publisher": "Universal Pictures"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "ACHIEVEMENT_IN_ACTIVITY": {
+                        "type": "ACHIEVEMENT_IN_ACTIVITY",
+                        "target": 5,
+                        "applications": [
+                            {
+                                "id": "1536314143412457553"
+                            }
+                        ],
+                        "event_name": "progress",
+                        "messages": {
+                            "task_title": "Forgotten Island",
+                            "task_description": "Find all 5 bracelet charms to collect 700 Orbs!"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 Orbs",
+                            "name_with_article": "700 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 700,
+                        "premium_orb_quantity": 840
+                    }
+                ],
+                "rewards_expire_at": "2026-10-28T06:59:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://www.ForgottenIslandTickets.com",
+                "button_label": "Get Tickets",
+                "subtitle": "IN THEATERS SEPTEMBER 25"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "ad_context": null,
+        "preview": false,
+        "traffic_metadata_raw": "EAIYAQ=="
+    },
+    {
+        "id": "1547744067990061116",
+        "config": {
+            "id": "1547744067990061116",
+            "config_version": 2,
+            "starts_at": "2026-09-15T17:00:00+00:00",
+            "expires_at": "2026-09-23T21:59:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "http://laotramadre-lapelicula.es/",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1547744067990061116/1549463309638701137.jpg",
+                "hero_video": "quests/1547744067990061116/1549516052109594674_720.mp4",
+                "quest_bar_hero_blurhash": "TBgKDIJzWXeJeIaQeIYQiDJwSA==",
+                "quest_bar_hero": "quests/1547744067990061116/1549516027388366868.jpg",
+                "quest_bar_hero_video": "quests/1547744067990061116/1549516052109594674_720.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1547744067990061116/1549565032868749403.png",
+                "game_tile_dark": "quests/1547744067990061116/1549565032868749403.png",
+                "logotype_light": "quests/1547744067990061116/1549565032894046329.png",
+                "logotype_dark": "quests/1547744067990061116/1549565032894046329.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "LA OTRA MADRE",
+                "game_title": "9 de Octubre Solo en Cines",
+                "game_publisher": "Universal Pictures"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 105,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1547744067990061116/1549516015266963506_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1547744067990061116/1549463292043468822.png"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1547744067990061116/1549516015266963506_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1547744067990061116/1549463292043468822.png"
+                            },
+                            "video_hls": {
+                                "url": "quests/1547744067990061116/1549516015266963506.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1547744067990061116/1549463292043468822.png"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 105,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1547744067990061116/1549516014809514044_1080.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1547744067990061116/1549463292043468822.png"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1547744067990061116/1549516014809514044_720.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1547744067990061116/1549463292043468822.png"
+                            },
+                            "video_hls": {
+                                "url": "quests/1547744067990061116/1549516014809514044.m3u8",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1547744067990061116/1549463292043468822.png"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "200 Orbs",
+                            "name_with_article": "200 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 200,
+                        "premium_orb_quantity": null
+                    }
+                ],
+                "rewards_expire_at": "2026-10-23T21:59:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "http://laotramadre-lapelicula.es/",
+                "button_label": "Watch More",
+                "subtitle": "9 de Octubre Solo en Cines"
             }
         }
     }
