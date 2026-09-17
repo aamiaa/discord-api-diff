@@ -100110,7 +100110,7 @@
             "id": "1540084308683784265",
             "config_version": 2,
             "starts_at": "2026-08-21T17:00:00+00:00",
-            "expires_at": "2026-09-18T06:59:00+00:00",
+            "expires_at": "2026-09-25T06:59:00+00:00",
             "features": [
                 44,
                 15
@@ -100190,7 +100190,7 @@
                         "premium_orb_quantity": 240
                     }
                 ],
-                "rewards_expire_at": "2026-10-18T06:59:00+00:00",
+                "rewards_expire_at": "2026-10-25T06:59:00+00:00",
                 "platforms": [
                     0
                 ]
@@ -110623,7 +110623,7 @@
                 15
             ],
             "application": {
-                "link": "https://www.peacocktv.com/",
+                "link": "https://www.peacocktv.com/collections/originals",
                 "id": "545364944258990091",
                 "name": "Discord"
             },
@@ -110732,7 +110732,7 @@
             },
             "share_policy": "shareable_everywhere",
             "cta_config": {
-                "link": "https://www.peacocktv.com/",
+                "link": "https://www.peacocktv.com/collections/originals",
                 "button_label": "Watch More",
                 "subtitle": "Mommy’s here. Stream Oct 15, only on Peacock."
             }
@@ -114327,6 +114327,572 @@
                 "link": "https://app.powster.com/universalstudios/forgotten-island-intl/mx/",
                 "button_label": "Get Tickets",
                 "subtitle": "Ahora en cines"
+            }
+        }
+    },
+    {
+        "id": "1550081499628441600",
+        "config": {
+            "id": "1550081499628441600",
+            "config_version": 2,
+            "starts_at": "2026-09-17T17:00:00+00:00",
+            "expires_at": "2026-10-01T00:00:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://warthunder.com/en",
+                "id": "357607478105604096",
+                "name": "War Thunder"
+            },
+            "assets": {
+                "hero": "quests/1550081499628441600/1550083670164119662.jpg",
+                "hero_video": "quests/1550081499628441600/1550084022099517531_720.mp4",
+                "quest_bar_hero_blurhash": "HecJFIBXhoh/eIiHdXsIUtnQkA==",
+                "quest_bar_hero": "quests/1550081499628441600/1550083669404946512.jpg",
+                "quest_bar_hero_video": "quests/1550081499628441600/1550083882219474944_720.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1550081499628441600/1550083669564072028.png",
+                "game_tile_dark": "quests/1550081499628441600/1550083669564072028.png",
+                "logotype_light": "quests/1550081499628441600/1550083669576650812.png",
+                "logotype_dark": "quests/1550081499628441600/1550083669601812560.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "War Thunder",
+                "game_title": "War Thunder",
+                "game_publisher": "Gaijin Entertainment"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "357607478105604096"
+                            }
+                        ]
+                    },
+                    "PLAY_ON_XBOX": {
+                        "type": "PLAY_ON_XBOX",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "357607478105604096"
+                            }
+                        ],
+                        "external_ids": [
+                            "171869406"
+                        ]
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "type": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "357607478105604096"
+                            }
+                        ],
+                        "external_ids": [
+                            "CUSA00224_00",
+                            "PPSA01948_00",
+                            "CUSA00182_00",
+                            "CUSA07701_00",
+                            "PPSA01950_00",
+                            "PPSA02190_00"
+                        ]
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 Orbs",
+                            "name_with_article": "700 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 700,
+                        "premium_orb_quantity": 840
+                    }
+                ],
+                "rewards_expire_at": "2026-10-31T00:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://warthunder.com/en",
+                "button_label": "Play Now"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "ad_context": null,
+        "preview": false,
+        "traffic_metadata_raw": "EAIYAQ=="
+    },
+    {
+        "id": "1548035526555074641",
+        "config": {
+            "id": "1548035526555074641",
+            "config_version": 2,
+            "starts_at": "2026-09-17T17:00:00+00:00",
+            "expires_at": "2026-09-25T00:00:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://www.howtorobabankfilm.com/",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1548035526555074641/1549460320186007732.jpg",
+                "quest_bar_hero_blurhash": "nggKFIKnnYfOk3i/dYqgN6gEqw==",
+                "quest_bar_hero": "quests/1548035526555074641/1549460319884148858.jpg",
+                "quest_bar_hero_video": "quests/1548035526555074641/1549474015670833152_720.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1548035526555074641/1548036423645397012.jpg",
+                "game_tile_dark": "quests/1548035526555074641/1549460319888351352.jpg",
+                "logotype_light": "quests/1548035526555074641/1549460608594739300.png",
+                "logotype_dark": "quests/1548035526555074641/1549460608594739300.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "How To Rob A Bank",
+                "game_title": "How To Rob A Bank Exclusively in Theaters November 13, 2026",
+                "game_publisher": "Amazon MGM Studios"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 112,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1548035526555074641/1549835387340333216_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1548035526555074641/1549460319884148858.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1548035526555074641/1549835387340333216_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1548035526555074641/1549460319884148858.jpg"
+                            },
+                            "video_hls": {
+                                "url": "quests/1548035526555074641/1549835387340333216.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1548035526555074641/1549460319884148858.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 112,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1548035526555074641/1549835377622384731_1080.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1548035526555074641/1549460319884148858.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1548035526555074641/1549835377622384731_720.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1548035526555074641/1549460319884148858.jpg"
+                            },
+                            "video_hls": {
+                                "url": "quests/1548035526555074641/1549835377622384731.m3u8",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1548035526555074641/1549460319884148858.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "200 Orbs",
+                            "name_with_article": "200 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 200,
+                        "premium_orb_quantity": 240
+                    }
+                ],
+                "rewards_expire_at": "2026-10-25T00:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://www.howtorobabankfilm.com/",
+                "button_label": "Learn More",
+                "subtitle": "How To Rob A Bank Exclusively in Theaters November 13, 2026"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "ad_context": null,
+        "preview": false,
+        "traffic_metadata_raw": "EAIYAQ=="
+    },
+    {
+        "id": "1550179068362621049",
+        "config": {
+            "id": "1550179068362621049",
+            "config_version": 2,
+            "starts_at": "2026-09-17T17:00:00+00:00",
+            "expires_at": "2026-09-30T00:00:00+00:00",
+            "features": [
+                44,
+                15
+            ],
+            "application": {
+                "link": "https://f1clashgame.com/",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1550179068362621049/1550181068299046932.jpg",
+                "quest_bar_hero_blurhash": "ChgGDIIHaJh6lXiBeYlJj47wmA==",
+                "quest_bar_hero": "quests/1550179068362621049/1550181092747771975.jpg",
+                "quest_bar_hero_video": "quests/1550179068362621049/1550181140541870090_720.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1550179068362621049/1550180435013668875.png",
+                "game_tile_dark": "quests/1550179068362621049/1550180435013668875.png",
+                "logotype_light": "quests/1550179068362621049/1550180575678042152.png",
+                "logotype_dark": "quests/1550179068362621049/1550180575841755186.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "F1 Clash",
+                "game_title": "F1 Clash",
+                "game_publisher": "Hutch Games"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 29,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1550179068362621049/1550181022941970532_1080.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1550179068362621049/1550181092747771975.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1550179068362621049/1550181022941970532_720.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1550179068362621049/1550181092747771975.jpg"
+                            },
+                            "video_hls": {
+                                "url": "quests/1550179068362621049/1550181022941970532.m3u8",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1550179068362621049/1550181092747771975.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "200 Orbs",
+                            "name_with_article": "200 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 200,
+                        "premium_orb_quantity": 240
+                    }
+                ],
+                "rewards_expire_at": "2026-10-30T00:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "android": {
+                    "android_app_id": "com.hutchgames.formularacing"
+                },
+                "ios": {
+                    "ios_app_id": "1434561536"
+                },
+                "link": "https://f1clashgame.com/",
+                "button_label": "Play Now"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "ad_context": null,
+        "preview": false,
+        "traffic_metadata_raw": "EAIYAQ=="
+    },
+    {
+        "id": "1550143303079567520",
+        "config": {
+            "id": "1550143303079567520",
+            "config_version": 2,
+            "starts_at": "2026-09-17T18:30:00+00:00",
+            "expires_at": "2026-09-27T00:00:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://osrs.runescape.com/download",
+                "id": "1180205756998488064",
+                "name": "Old School RuneScape"
+            },
+            "assets": {
+                "hero": "quests/1550143303079567520/1550200071079989268.jpg",
+                "hero_video": "quests/1550143303079567520/1550200071172263946.mp4",
+                "quest_bar_hero_blurhash": "S+cJEoZvInmIiFd5gGQEiHc=",
+                "quest_bar_hero": "quests/1550143303079567520/1550200071079989268.jpg",
+                "quest_bar_hero_video": "quests/1550143303079567520/1550200071172263946.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1550143303079567520/1550199845912973392.jpg",
+                "game_tile_dark": "quests/1550143303079567520/1550199845912973392.jpg",
+                "logotype_light": "quests/1550143303079567520/1550199845929623582.png",
+                "logotype_dark": "quests/1550143303079567520/1550199846810685502.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Old School Runescape",
+                "game_title": "Old School Runescape",
+                "game_publisher": "JAGEX"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1180205756998488064"
+                            }
+                        ]
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 3,
+                        "sku_id": "1550204246400438492",
+                        "asset": "quests/1550143303079567520/1550205289184100462.mp4",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "Old School RuneScape Avatar Decoration",
+                            "name_with_article": "an Old School RuneScape Avatar Decoration",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "expires_at": "2026-10-28T00:00:00+00:00",
+                        "expires_at_premium": null,
+                        "expiration_mode": 3
+                    }
+                ],
+                "rewards_expire_at": "2026-10-27T00:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://osrs.runescape.com/download",
+                "button_label": "Play Now"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "ad_context": null,
+        "preview": false,
+        "traffic_metadata_raw": "EAIYAQ=="
+    },
+    {
+        "id": "1549631107102810162",
+        "config": {
+            "id": "1549631107102810162",
+            "config_version": 2,
+            "starts_at": "2026-09-17T17:00:00+00:00",
+            "expires_at": "2026-09-21T00:00:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://resident-evil-tix.ca?utm_source=discord&utm_medium=core_tickets",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1549631107102810162/1549631514533167104.jpg",
+                "quest_bar_hero_blurhash": "RwgGDIIHaKtshZeWh4QFfkXQVw==",
+                "quest_bar_hero": "quests/1549631107102810162/1549631515288408135.jpg",
+                "quest_bar_hero_video": "quests/1549631107102810162/1549631564336337028_720.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1549631107102810162/1549631514038505582.jpg",
+                "game_tile_dark": "quests/1549631107102810162/1549631514038505582.jpg",
+                "logotype_light": "quests/1549631107102810162/1549631514067738724.png",
+                "logotype_dark": "quests/1549631107102810162/1549631514067738724.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Resident Evil",
+                "game_title": "Resident Evil - Filmed for IMAX – Now playing in theatres",
+                "game_publisher": "Sony Pictures Entertainment"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 55,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1549631107102810162/1549631514516398141_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1549631107102810162/1549631514059350107.jpeg"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1549631107102810162/1549631514516398141_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1549631107102810162/1549631514059350107.jpeg"
+                            },
+                            "video_hls": {
+                                "url": "quests/1549631107102810162/1549631514516398141.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1549631107102810162/1549631514059350107.jpeg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 40,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1549631107102810162/1549631515120640131_1080.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1549631107102810162/1549631514059350107.jpeg"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1549631107102810162/1549631515120640131_720.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1549631107102810162/1549631514059350107.jpeg"
+                            },
+                            "video_hls": {
+                                "url": "quests/1549631107102810162/1549631515120640131.m3u8",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1549631107102810162/1549631514059350107.jpeg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "200 Orbs",
+                            "name_with_article": "200 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 200,
+                        "premium_orb_quantity": null
+                    }
+                ],
+                "rewards_expire_at": "2026-10-21T00:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://resident-evil-tix.ca?utm_source=discord&utm_medium=core_tickets",
+                "button_label": "Get Tickets",
+                "subtitle": "Resident Evil - Filmed for IMAX – Now playing in theatres"
             }
         }
     }
