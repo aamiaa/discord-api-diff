@@ -115637,5 +115637,227 @@
                 "subtitle": "Pro Further"
             }
         }
+    },
+    {
+        "id": "1543813403204788235",
+        "config": {
+            "id": "1543813403204788235",
+            "config_version": 2,
+            "starts_at": "2026-09-18T17:00:00+00:00",
+            "expires_at": "2026-09-28T17:00:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://store.steampowered.com/app/2507950?utm_source=discordquest",
+                "id": "1314682894106497096",
+                "name": "Delta Force"
+            },
+            "assets": {
+                "hero": "quests/1543813403204788235/1548966819295924315.jpg",
+                "hero_video": "quests/1543813403204788235/1548966852237991966_720.mp4",
+                "quest_bar_hero_blurhash": "3PcNFIKvl2Z6dnd3hXkyUFYQhQ==",
+                "quest_bar_hero": "quests/1543813403204788235/1548966694913835018.jpg",
+                "quest_bar_hero_video": "quests/1543813403204788235/1548966699611463701_720.mp4",
+                "game_tile": "1519541505264451655.png",
+                "logotype": "1521168404357058631.png",
+                "game_tile_light": "quests/1519537307718520912/1519540250509049957.png",
+                "game_tile_dark": "quests/1519537307718520912/1519540250509049957.png",
+                "logotype_light": "quests/1519537307718520912/1521168383956091040.png",
+                "logotype_dark": "quests/1519537307718520912/1519540248462229554.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "2nd Anniversary Season",
+                "game_title": "Delta Force",
+                "game_publisher": "Team Jade"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1314682894106497096"
+                            }
+                        ]
+                    },
+                    "PLAY_ON_XBOX": {
+                        "type": "PLAY_ON_XBOX",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1314682894106497096"
+                            }
+                        ],
+                        "external_ids": [
+                            "1668346801",
+                            "1854680102"
+                        ]
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "type": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1314682894106497096"
+                            }
+                        ],
+                        "external_ids": [
+                            "PPSA28883_00",
+                            "PPSA28884_00",
+                            "PPSA28881_00",
+                            "PPSA28882_00"
+                        ]
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 Orbs",
+                            "name_with_article": "700 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 700,
+                        "premium_orb_quantity": 840
+                    }
+                ],
+                "rewards_expire_at": "2026-10-28T17:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://store.steampowered.com/app/2507950?utm_source=discordquest",
+                "button_label": "Play Now"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "ad_context": null,
+        "preview": false,
+        "traffic_metadata_raw": "EAIYAQ=="
+    },
+    {
+        "id": "1543816964525396028",
+        "config": {
+            "id": "1543816964525396028",
+            "config_version": 2,
+            "starts_at": "2026-09-18T17:00:00+00:00",
+            "expires_at": "2026-10-01T00:00:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://dfgame.onelink.me/QUad/discord",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1543816964525396028/1548972687911682108.jpg",
+                "hero_video": "quests/1543816964525396028/1548972702524637235_720.mp4",
+                "quest_bar_hero_blurhash": "3PcNFIKvl2Z6dnd3hXkyUFYQhQ==",
+                "quest_bar_hero": "quests/1543816964525396028/1548972570974355516.jpg",
+                "quest_bar_hero_video": "quests/1543816964525396028/1548972618038644807_720.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1543816964525396028/1548972264769200138.png",
+                "game_tile_dark": "quests/1543816964525396028/1548972264769200138.png",
+                "logotype_light": "quests/1543816964525396028/1548972394897477632.png",
+                "logotype_dark": "quests/1543816964525396028/1548972383560409139.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "2nd Anniversary Season",
+                "game_title": "Delta Force",
+                "game_publisher": "Team Jade"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 29,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1543816964525396028/1548973096608731178_1080.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1543816964525396028/1548973389635657728.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1543816964525396028/1548973096608731178_720.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1543816964525396028/1548973389635657728.jpg"
+                            },
+                            "video_hls": {
+                                "url": "quests/1543816964525396028/1548973096608731178.m3u8",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1543816964525396028/1548973389635657728.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "200 Orbs",
+                            "name_with_article": "200 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 200,
+                        "premium_orb_quantity": 240
+                    }
+                ],
+                "rewards_expire_at": "2026-10-31T00:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "android": {
+                    "android_app_id": "com.proxima.dfm"
+                },
+                "ios": {
+                    "ios_app_id": "6451399876"
+                },
+                "link": "https://dfgame.onelink.me/QUad/discord",
+                "button_label": "Learn More"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "ad_context": null,
+        "preview": false,
+        "traffic_metadata_raw": "EAIYAQ=="
     }
 ]
