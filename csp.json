@@ -113,7 +113,8 @@
             "https://static.klipy.com",
             "https://streamable.com",
             "https://twitter.com",
-            "https://vid.me"
+            "https://vid.me",
+            "https://x.com"
         ],
         "frame-src": [
             "https://*.dcams.app",
@@ -162,7 +163,8 @@
             "https://www.redditmedia.com/mediaembed/",
             "https://www.tiktok.com/player/",
             "https://www.youtube.com/embed/",
-            "https://www.youtube.com/s/player/"
+            "https://www.youtube.com/s/player/",
+            "https://x.com/i/videos/"
         ],
         "child-src": [
             "https://*.paypal.com",
@@ -196,6 +198,7 @@
             "https://global.localizecdn.com",
             "https://hcaptcha.com",
             "https://hubspotonwebflow.com/assets/js/form-124.js",
+            "https://platform.x.com",
             "https://recaptcha.net/recaptcha/",
             "https://s.ytimg.com/yts/jsbin/",
             "https://script.crazyegg.com",
@@ -287,7 +290,9 @@
             "https://discordapp.com/domain-migration",
             "https://embed.bsky.app",
             "https://hcaptcha.com",
+            "https://platform.x.com",
             "https://recaptcha.net/recaptcha/",
+            "https://syndication.x.com",
             "https://www.google.com/recaptcha/",
             "https://www.youtube.com/embed/"
         ]
