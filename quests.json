@@ -116552,5 +116552,92 @@
                 "subtitle": "9월 23일 대개봉"
             }
         }
+    },
+    {
+        "id": "1549194407641747487",
+        "config": {
+            "id": "1549194407641747487",
+            "config_version": 2,
+            "starts_at": "2026-09-21T03:00:00+00:00",
+            "expires_at": "2026-09-28T02:59:00+00:00",
+            "features": [
+                27,
+                36,
+                15
+            ],
+            "application": {
+                "link": "https://app.powster.com/universalstudios/forgotten-island-intl/br/",
+                "id": "1536314143412457553",
+                "name": "Elba"
+            },
+            "assets": {
+                "hero": "quests/1547367413320777830/1549122469913305179.jpg",
+                "quest_bar_hero_blurhash": "X3UFRIYJW4iGe4iFZooIelTICA==",
+                "quest_bar_hero": "quests/1547367413320777830/1549122497893503166.jpg",
+                "quest_bar_hero_video": "quests/1549194407641747487/1549884626376593438_720.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1547367413320777830/1549122498023657542.png",
+                "game_tile_dark": "quests/1547367413320777830/1549122498023657542.png",
+                "logotype_light": "quests/1549194407641747487/1549884594722046003.png",
+                "logotype_dark": "quests/1549194407641747487/1549884594722046003.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "A Ilha Esquecida",
+                "game_title": "24 de setembro nos cinemas",
+                "game_publisher": "Universal Pictures"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "ACHIEVEMENT_IN_ACTIVITY": {
+                        "type": "ACHIEVEMENT_IN_ACTIVITY",
+                        "target": 5,
+                        "applications": [
+                            {
+                                "id": "1536314143412457553"
+                            }
+                        ],
+                        "event_name": "progress",
+                        "messages": {
+                            "task_title": "A Ilha Esquecida",
+                            "task_description": "Encontre todos os 5 pingentes de pulseira para coletar 700 Orbs!"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 Orbs",
+                            "name_with_article": "700 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 700,
+                        "premium_orb_quantity": null
+                    }
+                ],
+                "rewards_expire_at": "2026-10-28T02:59:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://app.powster.com/universalstudios/forgotten-island-intl/br/",
+                "button_label": "Get Tickets",
+                "subtitle": "24 de setembro nos cinemas"
+            }
+        }
     }
 ]
