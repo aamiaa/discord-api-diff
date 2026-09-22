@@ -116997,7 +116997,7 @@
             "id": "1551702129226293259",
             "config_version": 2,
             "starts_at": "2026-09-21T21:00:00+00:00",
-            "expires_at": "2026-09-28T17:00:00+00:00",
+            "expires_at": "2026-09-22T17:00:00+00:00",
             "features": [
                 44,
                 15
@@ -117077,7 +117077,7 @@
                         "premium_orb_quantity": 240
                     }
                 ],
-                "rewards_expire_at": "2026-10-28T17:00:00+00:00",
+                "rewards_expire_at": "2026-10-22T17:00:00+00:00",
                 "platforms": [
                     0
                 ]
@@ -117091,6 +117091,530 @@
                     "ios_app_id": "1434561536"
                 },
                 "link": "https://f1clashgame.com/",
+                "button_label": "Play Now"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "ad_context": null,
+        "preview": false,
+        "traffic_metadata_raw": "EAIYAQ=="
+    },
+    {
+        "id": "1539421708417765386",
+        "config": {
+            "id": "1539421708417765386",
+            "config_version": 2,
+            "starts_at": "2026-09-22T17:00:00+00:00",
+            "expires_at": "2026-10-01T00:00:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://store.steampowered.com/app/3613050/Gravebound/",
+                "id": "1551691007387508878",
+                "name": "Gravebound"
+            },
+            "assets": {
+                "hero": "quests/1539421708417765386/1546914021784158218.jpg",
+                "hero_video": "quests/1539421708417765386/1539424583407509504_720.mp4",
+                "quest_bar_hero_blurhash": "0icKDIIhiHePdniId2jmcAKpRg==",
+                "quest_bar_hero": "quests/1539421708417765386/1546914000439214120.jpg",
+                "quest_bar_hero_video": "quests/1539421708417765386/1539424135321493544_720.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1539421708417765386/1539423906274742332.jpg",
+                "game_tile_dark": "quests/1539421708417765386/1539423906274742332.jpg",
+                "logotype_light": "quests/1539421708417765386/1539424409083842620.png",
+                "logotype_dark": "quests/1539421708417765386/1539424270306770995.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Gravebound Early Access Launch",
+                "game_title": "Gravebound",
+                "game_publisher": "Crater Studios"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1551691007387508878"
+                            }
+                        ]
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 Orbs",
+                            "name_with_article": "700 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 700,
+                        "premium_orb_quantity": 840
+                    }
+                ],
+                "rewards_expire_at": "2026-10-31T00:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://store.steampowered.com/app/3613050/Gravebound/",
+                "button_label": "Play Now"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "ad_context": null,
+        "preview": false,
+        "traffic_metadata_raw": "EAIYAQ=="
+    },
+    {
+        "id": "1549171029241233449",
+        "config": {
+            "id": "1549171029241233449",
+            "config_version": 2,
+            "starts_at": "2026-09-22T17:00:00+00:00",
+            "expires_at": "2026-10-14T00:00:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://game.ea.com/redirect?campaignName=APXL_LF_US-JP_WPP_DIRD_CM_S30SNA_AXN-001-002&caudience=C3-LAPSED30&ccreative=S30-SNAPBACK-KEY-ART",
+                "id": "542075586886107149",
+                "name": "Apex Legends"
+            },
+            "assets": {
+                "hero": "quests/1549171029241233449/1549172049606475986.jpg",
+                "quest_bar_hero_blurhash": "TQcKJIQEqneIh3iTeXmPd/yHhg==",
+                "quest_bar_hero": "quests/1549171029241233449/1549172049669394472.jpg",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1549171029241233449/1549171819775533056.png",
+                "game_tile_dark": "quests/1549171029241233449/1549171819775533056.png",
+                "logotype_light": "quests/1549171029241233449/1549171857477869578.png",
+                "logotype_dark": "quests/1549171029241233449/1549171857452830801.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Apex VS Street Fighter 6 Event",
+                "game_title": "Apex Legends",
+                "game_publisher": "Electronic Arts"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "542075586886107149"
+                            }
+                        ]
+                    },
+                    "PLAY_ON_XBOX": {
+                        "type": "PLAY_ON_XBOX",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "542075586886107149"
+                            }
+                        ],
+                        "external_ids": [
+                            "175227487"
+                        ]
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "type": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "542075586886107149"
+                            }
+                        ],
+                        "external_ids": [
+                            "CUSA12540_00",
+                            "PPSA04873_00",
+                            "CUSA12552_00",
+                            "PPSA04874_00"
+                        ]
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 1,
+                        "sku_id": "1549171029241233450",
+                        "asset": "quests/1549171029241233449/1549172050067857438.jpg",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "Kung Fu Coach tracker set",
+                            "name_with_article": "a Kung Fu Coach tracker set",
+                            "redemption_instructions_by_platform": {
+                                "0": "Redeem the code below on the Apex Legends redemption page to access your reward.\n\nCodes are not platform specific and are redeemed from within the Apex Legends Storefront.  \n1. Boot Apex Legends on your platform of choice.  \n2. When on the lobby screen select [Store].  \n3. Select [Redeem Code] on the bottom left.  \n4. Enter the code you received.  \n5. Select [Redeem].  \n"
+                            }
+                        },
+                        "approximate_count": null,
+                        "redemption_link": null
+                    }
+                ],
+                "rewards_expire_at": "2026-11-13T00:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://game.ea.com/redirect?campaignName=APXL_LF_US-JP_WPP_DIRD_CM_S30SNA_AXN-001-002&caudience=C3-LAPSED30&ccreative=S30-SNAPBACK-KEY-ART",
+                "button_label": "Get Game",
+                "subtitle": "Street Fighter 6 smashes into the Outlands"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "ad_context": null,
+        "preview": false,
+        "traffic_metadata_raw": "EAIYAQ=="
+    },
+    {
+        "id": "1551999809626439731",
+        "config": {
+            "id": "1551999809626439731",
+            "config_version": 2,
+            "starts_at": "2026-09-22T17:00:00+00:00",
+            "expires_at": "2026-10-06T00:00:00+00:00",
+            "features": [
+                44,
+                15
+            ],
+            "application": {
+                "link": "https://plarium.com/en/game/mech-arena/",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1542119360116555856/1544639630136189030.jpg",
+                "hero_video": "quests/1542119360116555856/1542119619488251945_720.mp4",
+                "quest_bar_hero_blurhash": "FvgFNIZ/KZQsuIhCZnePhPU4ag==",
+                "quest_bar_hero": "quests/1542119360116555856/1544639877285413005.jpg",
+                "quest_bar_hero_video": "quests/1542119360116555856/1542119619488251945_720.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1542119360116555856/1542119454643720192.png",
+                "game_tile_dark": "quests/1542119360116555856/1542119454643720192.png",
+                "logotype_light": "quests/1542119360116555856/1542119494355386378.png",
+                "logotype_dark": "quests/1542119360116555856/1542119493424259162.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Mech Arena",
+                "game_title": "Mech Arena",
+                "game_publisher": "Plarium"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 29,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1542119360116555856/1544640263035822090_1080.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1542119360116555856/1544640816931151902.png"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1542119360116555856/1544640263035822090_720.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1542119360116555856/1544640816931151902.png"
+                            },
+                            "video_hls": {
+                                "url": "quests/1542119360116555856/1544640263035822090.m3u8",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1542119360116555856/1544640816931151902.png"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "200 Orbs",
+                            "name_with_article": "200 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 200,
+                        "premium_orb_quantity": 240
+                    }
+                ],
+                "rewards_expire_at": "2026-11-05T00:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "android": {
+                    "android_app_id": "com.plarium.mechlegion"
+                },
+                "ios": {
+                    "ios_app_id": "1377591228"
+                },
+                "link": "https://plarium.com/en/game/mech-arena/",
+                "button_label": "Download"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "ad_context": null,
+        "preview": false,
+        "traffic_metadata_raw": "EAIYAQ=="
+    },
+    {
+        "id": "1552002448975994942",
+        "config": {
+            "id": "1552002448975994942",
+            "config_version": 2,
+            "starts_at": "2026-09-22T17:00:00+00:00",
+            "expires_at": "2026-10-06T00:00:00+00:00",
+            "features": [
+                44,
+                15
+            ],
+            "application": {
+                "link": "https://f1clashgame.com/",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1550179068362621049/1550181068299046932.jpg",
+                "quest_bar_hero_blurhash": "ChgGDIIHaJh6lXiBeYlJj47wmA==",
+                "quest_bar_hero": "quests/1550179068362621049/1550181092747771975.jpg",
+                "quest_bar_hero_video": "quests/1550179068362621049/1550181140541870090_720.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1550179068362621049/1550180435013668875.png",
+                "game_tile_dark": "quests/1550179068362621049/1550180435013668875.png",
+                "logotype_light": "quests/1550179068362621049/1550180575678042152.png",
+                "logotype_dark": "quests/1550179068362621049/1550180575841755186.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "F1 Clash",
+                "game_title": "F1 Clash",
+                "game_publisher": "Hutch Games"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 29,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1550179068362621049/1550181022941970532_1080.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1550179068362621049/1550181092747771975.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1550179068362621049/1550181022941970532_720.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1550179068362621049/1550181092747771975.jpg"
+                            },
+                            "video_hls": {
+                                "url": "quests/1550179068362621049/1550181022941970532.m3u8",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1550179068362621049/1550181092747771975.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "200 Orbs",
+                            "name_with_article": "200 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 200,
+                        "premium_orb_quantity": 240
+                    }
+                ],
+                "rewards_expire_at": "2026-11-05T00:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "android": {
+                    "android_app_id": "com.hutchgames.formularacing"
+                },
+                "ios": {
+                    "ios_app_id": "1434561536"
+                },
+                "link": "https://f1clashgame.com/",
+                "button_label": "Play Now"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "ad_context": null,
+        "preview": false,
+        "traffic_metadata_raw": "EAIYAQ=="
+    },
+    {
+        "id": "1552010656952356925",
+        "config": {
+            "id": "1552010656952356925",
+            "config_version": 2,
+            "starts_at": "2026-09-22T18:00:00+00:00",
+            "expires_at": "2026-10-06T00:00:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://www.ubisoft.com/en-us/game/invincible-guarding-the-globe",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1547895090830250055/1547951058309877770.jpg",
+                "quest_bar_hero_blurhash": "GdcJJIQYd0iPeIZwhngHcocAhw==",
+                "quest_bar_hero": "quests/1547895090830250055/1547951081353519187.jpg",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1547895090830250055/1547951013405917304.png",
+                "game_tile_dark": "quests/1547895090830250055/1547951013405917304.png",
+                "logotype_light": "quests/1547895090830250055/1549521113950851213.png",
+                "logotype_dark": "quests/1547895090830250055/1549521113950851213.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": " Invincible: Guarding the Globe ",
+                "game_title": " Invincible: Guarding the Globe ",
+                "game_publisher": "Ubisoft Mobile"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 29,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1547895090830250055/1547951013183496292_1080.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1547895090830250055/1547951081353519187.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1547895090830250055/1547951013183496292_720.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1547895090830250055/1547951081353519187.jpg"
+                            },
+                            "video_hls": {
+                                "url": "quests/1547895090830250055/1547951013183496292.m3u8",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1547895090830250055/1547951081353519187.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "200 Orbs",
+                            "name_with_article": "200 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 200,
+                        "premium_orb_quantity": 240
+                    }
+                ],
+                "rewards_expire_at": "2026-11-05T00:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "android": {
+                    "android_app_id": "com.ubisoft.invincible.guardians.globe.idle.superhero.rpg.battle.afk"
+                },
+                "ios": {
+                    "ios_app_id": "6449294809"
+                },
+                "link": "https://www.ubisoft.com/en-us/game/invincible-guarding-the-globe",
                 "button_label": "Play Now"
             }
         },
