@@ -116590,7 +116590,7 @@
             },
             "messages": {
                 "quest_name": "A Ilha Esquecida",
-                "game_title": "24 de setembro nos cinemas",
+                "game_title": "HOJE nos cinemas",
                 "game_publisher": "Universal Pictures"
             },
             "task_config_v2": {
@@ -116638,7 +116638,7 @@
             "cta_config": {
                 "link": "https://app.powster.com/universalstudios/forgotten-island-intl/br/",
                 "button_label": "Get Tickets",
-                "subtitle": "24 de setembro nos cinemas"
+                "subtitle": "HOJE nos cinemas"
             }
         }
     },
@@ -116795,19 +116795,19 @@
                         "target": 65,
                         "assets": {
                             "video": {
-                                "url": "quests/1550471494721871962/1550476800138678395_1080.mp4",
+                                "url": "quests/1550471494721871962/1552426151820136528_1080.mp4",
                                 "width": 1920,
                                 "height": 1080,
                                 "thumbnail": "quests/1550471494721871962/1550474356306477146.jpg"
                             },
                             "video_low_res": {
-                                "url": "quests/1550471494721871962/1550476800138678395_720.mp4",
+                                "url": "quests/1550471494721871962/1552426151820136528_720.mp4",
                                 "width": 1920,
                                 "height": 1080,
                                 "thumbnail": "quests/1550471494721871962/1550474356306477146.jpg"
                             },
                             "video_hls": {
-                                "url": "quests/1550471494721871962/1550476800138678395.m3u8",
+                                "url": "quests/1550471494721871962/1552426151820136528.m3u8",
                                 "width": 1920,
                                 "height": 1080,
                                 "thumbnail": "quests/1550471494721871962/1550474356306477146.jpg"
@@ -116822,19 +116822,19 @@
                         "target": 65,
                         "assets": {
                             "video": {
-                                "url": "quests/1550471494721871962/1550489406568267886_1080.mp4",
+                                "url": "quests/1550471494721871962/1552426151455096882_1080.mp4",
                                 "width": 1080,
                                 "height": 1920,
                                 "thumbnail": "quests/1550471494721871962/1550474356306477146.jpg"
                             },
                             "video_low_res": {
-                                "url": "quests/1550471494721871962/1550489406568267886_720.mp4",
+                                "url": "quests/1550471494721871962/1552426151455096882_720.mp4",
                                 "width": 1080,
                                 "height": 1920,
                                 "thumbnail": "quests/1550471494721871962/1550474356306477146.jpg"
                             },
                             "video_hls": {
-                                "url": "quests/1550471494721871962/1550489406568267886.m3u8",
+                                "url": "quests/1550471494721871962/1552426151455096882.m3u8",
                                 "width": 1080,
                                 "height": 1920,
                                 "thumbnail": "quests/1550471494721871962/1550474356306477146.jpg"
@@ -116872,7 +116872,7 @@
             "share_policy": "shareable_everywhere",
             "cta_config": {
                 "link": "https://store.steampowered.com/app/3669870/CONTROL_Resonant/?utm_source=discord&utm_medium=video&utm_campaign=outbreak&utm_content=launchtrailer-full&utm_term=global-arpg",
-                "button_label": "Pre-Order Now"
+                "button_label": "Buy Now"
             }
         },
         "user_status": null,
@@ -117830,5 +117830,394 @@
         "ad_context": null,
         "preview": false,
         "traffic_metadata_raw": "EAIYAQ=="
+    },
+    {
+        "id": "1552026065491202149",
+        "config": {
+            "id": "1552026065491202149",
+            "config_version": 2,
+            "starts_at": "2026-09-24T16:00:00+00:00",
+            "expires_at": "2026-10-05T06:00:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://www.roblox.com/games/78515283254292/Animal-Hospital?gsrbx=1",
+                "id": "363445589247131668",
+                "name": "Roblox"
+            },
+            "assets": {
+                "hero": "quests/1552026065491202149/1552027741996716062.jpg",
+                "hero_video": "quests/1552026065491202149/1552027800377102469_720.mp4",
+                "quest_bar_hero_blurhash": "yxcGEoQIk0iDeViXBq5RcDk=",
+                "quest_bar_hero": "quests/1552026065491202149/1552027741996716062.jpg",
+                "quest_bar_hero_video": "quests/1552026065491202149/1552027800377102469_720.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1545079125243600947/1545080582759907378.png",
+                "game_tile_dark": "quests/1545079125243600947/1545080582352937011.png",
+                "logotype_light": "quests/1552026065491202149/1552061161371869224.png",
+                "logotype_dark": "quests/1552026065491202149/1552061161371869224.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Animal Hospital",
+                "game_title": "Animal Hospital on Roblox",
+                "game_publisher": "ROBLOX"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "363445589247131668"
+                            }
+                        ]
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 Orbs",
+                            "name_with_article": "700 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 700,
+                        "premium_orb_quantity": 840
+                    }
+                ],
+                "rewards_expire_at": "2026-11-04T06:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://www.roblox.com/games/78515283254292/Animal-Hospital?gsrbx=1",
+                "button_label": "Play Now"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "ad_context": null,
+        "preview": false,
+        "traffic_metadata_raw": "EAIYAQ=="
+    },
+    {
+        "id": "1549139459264741497",
+        "config": {
+            "id": "1549139459264741497",
+            "config_version": 2,
+            "starts_at": "2026-09-24T16:30:00+00:00",
+            "expires_at": "2026-10-05T00:00:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://playvalorant.com/?utm_source=discord&utm_medium=paid&utm_campaign=championsanthem2026",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1549139459264741497/1550542111445749842.jpg",
+                "hero_video": "quests/1549139459264741497/1549140285416542378_720.mp4",
+                "quest_bar_hero_blurhash": "H6cJJIiRdHcPh4hThpySnwr6yQ==",
+                "quest_bar_hero": "quests/1549139459264741497/1550542245713813625.jpg",
+                "quest_bar_hero_video": "quests/1549139459264741497/1549140285416542378_720.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1549139459264741497/1549140233520545947.png",
+                "game_tile_dark": "quests/1549139459264741497/1549140233520545947.png",
+                "logotype_light": "quests/1549139459264741497/1549143006991618180.png",
+                "logotype_dark": "quests/1549139459264741497/1549140206391656508.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "VALORANT Champions Anthem",
+                "game_title": "If the Sun Burns Out Tonight",
+                "game_publisher": "Riot Games"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 233,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1549139459264741497/1549140853266849943_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1549139459264741497/1550541916158955531.png"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1549139459264741497/1549140853266849943_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1549139459264741497/1550541916158955531.png"
+                            },
+                            "video_hls": {
+                                "url": "quests/1549139459264741497/1549140853266849943.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1549139459264741497/1550541916158955531.png"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 233,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1549139459264741497/1549140853266849943_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1549139459264741497/1550541916158955531.png"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1549139459264741497/1549140853266849943_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1549139459264741497/1550541916158955531.png"
+                            },
+                            "video_hls": {
+                                "url": "quests/1549139459264741497/1549140853266849943.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1549139459264741497/1550541916158955531.png"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "200 Orbs",
+                            "name_with_article": "200 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 200,
+                        "premium_orb_quantity": 240
+                    }
+                ],
+                "rewards_expire_at": "2026-11-04T00:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://playvalorant.com/?utm_source=discord&utm_medium=paid&utm_campaign=championsanthem2026",
+                "button_label": "Play Free Now",
+                "subtitle": "Champions starts Sept. 24"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "ad_context": null,
+        "preview": false,
+        "traffic_metadata_raw": "EAIYAQ=="
+    },
+    {
+        "id": "1537134637686591699",
+        "config": {
+            "id": "1537134637686591699",
+            "config_version": 2,
+            "starts_at": "2026-09-24T16:00:00+00:00",
+            "expires_at": "2026-10-05T06:59:00+00:00",
+            "features": [
+                27,
+                36,
+                15
+            ],
+            "application": {
+                "link": "https://playvalorant.com/?utm_source=discord&utm_medium=paid&utm_campaign=valaces2026",
+                "id": "1536318183873454090",
+                "name": "Spades"
+            },
+            "assets": {
+                "hero": "quests/1537134637686591699/1552442586097127464.jpg",
+                "hero_video": "quests/1537134637686591699/1552442502571753512_720.mp4",
+                "quest_bar_hero_blurhash": "jfcJEoJAbYd4eViJb5b5aKk=",
+                "quest_bar_hero": "quests/1537134637686591699/1552442586097127464.jpg",
+                "quest_bar_hero_video": "quests/1537134637686591699/1552442502571753512_720.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1537134637686591699/1552442240171905034.png",
+                "game_tile_dark": "quests/1537134637686591699/1552442240171905034.png",
+                "logotype_light": "quests/1537134637686591699/1552448717464801350.png",
+                "logotype_dark": "quests/1537134637686591699/1552442239391895794.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "VALORANT Aces",
+                "game_title": "VALORANT",
+                "game_publisher": "Riot Games"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "ACHIEVEMENT_IN_ACTIVITY": {
+                        "type": "ACHIEVEMENT_IN_ACTIVITY",
+                        "target": 1,
+                        "applications": [
+                            {
+                                "id": "1536318183873454090"
+                            }
+                        ],
+                        "event_name": "progress",
+                        "messages": {
+                            "task_title": "Take the shot. Beat the clock. Land the ACE.",
+                            "task_description": "Relive some of the greatest plays in VALORANT esports history, but this time YOU'RE in the driver's seat. Can you ACE it?"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 Orbs",
+                            "name_with_article": "700 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 700,
+                        "premium_orb_quantity": 840
+                    }
+                ],
+                "rewards_expire_at": "2026-11-04T06:59:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://playvalorant.com/?utm_source=discord&utm_medium=paid&utm_campaign=valaces2026",
+                "button_label": "Play Free Now",
+                "subtitle": "VALORANT Aces"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "ad_context": null,
+        "preview": false,
+        "traffic_metadata_raw": "EAIYAQ=="
+    },
+    {
+        "id": "1552029588132200532",
+        "config": {
+            "id": "1552029588132200532",
+            "config_version": 2,
+            "starts_at": "2026-09-24T16:00:00+00:00",
+            "expires_at": "2026-10-05T06:00:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://www.roblox.com/games/78515283254292/Animal-Hospital?gsrbx=1",
+                "id": "363445589247131668",
+                "name": "Roblox"
+            },
+            "assets": {
+                "hero": "quests/1552026065491202149/1552027741996716062.jpg",
+                "hero_video": "quests/1552026065491202149/1552027800377102469_720.mp4",
+                "quest_bar_hero_blurhash": "yxcGEoQIk0iDeViXBq5RcDk=",
+                "quest_bar_hero": "quests/1552026065491202149/1552027741996716062.jpg",
+                "quest_bar_hero_video": "quests/1552026065491202149/1552027800377102469_720.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1545079125243600947/1545080582759907378.png",
+                "game_tile_dark": "quests/1545079125243600947/1545080582352937011.png",
+                "logotype_light": "quests/1552029588132200532/1552080028819525763.png",
+                "logotype_dark": "quests/1552029588132200532/1552080028819525763.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Animal Hospital",
+                "game_title": "Animal Hospital on Roblox",
+                "game_publisher": "ROBLOX"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "363445589247131668"
+                            }
+                        ]
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 Orbs",
+                            "name_with_article": "700 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 700,
+                        "premium_orb_quantity": null
+                    }
+                ],
+                "rewards_expire_at": "2026-11-04T06:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://www.roblox.com/games/78515283254292/Animal-Hospital?gsrbx=1",
+                "button_label": "Play Now"
+            }
+        }
     }
 ]
