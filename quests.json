@@ -73825,11 +73825,11 @@
                 "name": "Discord"
             },
             "assets": {
-                "hero": "quests/1509683146239512726/1546921105447723118.jpg",
-                "hero_video": "quests/1509683146239512726/1546921227598434424_720.mp4",
-                "quest_bar_hero_blurhash": "YtgFGojCt6iAYpWYaISABgk=",
-                "quest_bar_hero": "quests/1509683146239512726/1546921105447723118.jpg",
-                "quest_bar_hero_video": "quests/1509683146239512726/1546921227598434424_720.mp4",
+                "hero": "quests/1509683146239512726/1553198374025564170.jpg",
+                "hero_video": "quests/1509683146239512726/1553198442233209003_720.mp4",
+                "quest_bar_hero_blurhash": "oHcKQoRXh1eQd0mImXD3cnc=",
+                "quest_bar_hero": "quests/1509683146239512726/1553198374025564170.jpg",
+                "quest_bar_hero_video": "quests/1509683146239512726/1553198442233209003_720.mp4",
                 "game_tile": "1510024971651387603.png",
                 "logotype": "1510024970380771578.png",
                 "game_tile_light": "quests/1509683146239512726/1510024521875460116.png",
@@ -73853,22 +73853,22 @@
                         "target": 39,
                         "assets": {
                             "video": {
-                                "url": "quests/1509683146239512726/1546921050078715914_1080.mp4",
-                                "width": 607,
-                                "height": 1080,
-                                "thumbnail": "quests/1509683146239512726/1546921049428336650.jpg"
+                                "url": "quests/1509683146239512726/1553198638614847608_1080.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1509683146239512726/1553198672735510578.png"
                             },
                             "video_low_res": {
-                                "url": "quests/1509683146239512726/1546921050078715914_720.mp4",
-                                "width": 607,
-                                "height": 1080,
-                                "thumbnail": "quests/1509683146239512726/1546921049428336650.jpg"
+                                "url": "quests/1509683146239512726/1553198638614847608_720.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1509683146239512726/1553198672735510578.png"
                             },
                             "video_hls": {
-                                "url": "quests/1509683146239512726/1546921050078715914.m3u8",
-                                "width": 607,
-                                "height": 1080,
-                                "thumbnail": "quests/1509683146239512726/1546921049428336650.jpg"
+                                "url": "quests/1509683146239512726/1553198638614847608.m3u8",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1509683146239512726/1553198672735510578.png"
                             }
                         },
                         "messages": {
@@ -118650,5 +118650,135 @@
                 "button_label": "Get Game"
             }
         }
+    },
+    {
+        "id": "1552026570229813258",
+        "config": {
+            "id": "1552026570229813258",
+            "config_version": 2,
+            "starts_at": "2026-09-26T00:00:00+00:00",
+            "expires_at": "2026-10-05T00:00:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://www.bewareboiuna.movie/?utm_source=Discord&utm_medium=paidmedia&utm_content=bewareboiunadiscord&utm_campaign=bewareboiuna",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1552026570229813258/1552038781408776222.jpg",
+                "quest_bar_hero_blurhash": "iPgFFIBwqIduhXiWiJVEXzdfNg==",
+                "quest_bar_hero": "quests/1552026570229813258/1552038782675591268.jpg",
+                "quest_bar_hero_video": "quests/1552026570229813258/1553152488348328047_720.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1552026570229813258/1552038782067413072.jpg",
+                "game_tile_dark": "quests/1552026570229813258/1552038782067413072.jpg",
+                "logotype_light": "quests/1552026570229813258/1552079159612674098.png",
+                "logotype_dark": "quests/1552026570229813258/1552079159742963843.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Beware Boiúna",
+                "game_title": "She decides who lives. She decides who dies. Get tickets now. #BewareBoiuna - only in theaters October 2.",
+                "game_publisher": "Lionsgate"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 29,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1552026570229813258/1552778974445445120_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1552026570229813258/1552038783283626055.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1552026570229813258/1552778974445445120_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1552026570229813258/1552038783283626055.jpg"
+                            },
+                            "video_hls": {
+                                "url": "quests/1552026570229813258/1552778974445445120.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1552026570229813258/1552038783283626055.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 29,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1552026570229813258/1552779905715146842_1080.mp4",
+                                "width": 607,
+                                "height": 1080,
+                                "thumbnail": "quests/1552026570229813258/1552038783283626055.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1552026570229813258/1552779905715146842_720.mp4",
+                                "width": 607,
+                                "height": 1080,
+                                "thumbnail": "quests/1552026570229813258/1552038783283626055.jpg"
+                            },
+                            "video_hls": {
+                                "url": "quests/1552026570229813258/1552779905715146842.m3u8",
+                                "width": 607,
+                                "height": 1080,
+                                "thumbnail": "quests/1552026570229813258/1552038783283626055.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "200 Orbs",
+                            "name_with_article": "200 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 200,
+                        "premium_orb_quantity": 240
+                    }
+                ],
+                "rewards_expire_at": "2026-11-04T00:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://www.bewareboiuna.movie/?utm_source=Discord&utm_medium=paidmedia&utm_content=bewareboiunadiscord&utm_campaign=bewareboiuna",
+                "button_label": "Get Tickets",
+                "subtitle": "She decides who lives. She decides who dies. Get tickets now. #BewareBoiuna - only in theaters October 2."
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "ad_context": null,
+        "preview": false,
+        "traffic_metadata_raw": "EAIYAQ=="
     }
 ]
