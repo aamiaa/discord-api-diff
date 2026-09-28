@@ -119031,5 +119031,412 @@
                 "subtitle": "Ab 8. Oktober nur im Kino!"
             }
         }
+    },
+    {
+        "id": "1552370451727261738",
+        "config": {
+            "id": "1552370451727261738",
+            "config_version": 2,
+            "starts_at": "2026-09-28T16:00:00+00:00",
+            "expires_at": "2026-10-09T16:59:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://tv.apple.com/ca/movie/matchbox-the-movie/umc.cmc.31qa8j1tn2cnpyk3fx43w928d?itscg=MC_10000&itsct=atvp_brand_omd&mttn3pid=innovid&mttnagencyid=a5e&mttncc=CA&mttnsiteid=143238&mttnsubad=07433708",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1549819328193364061/1551415313474789456.jpg",
+                "hero_video": "quests/1552370451727261738/1552704730340262019_720.mp4",
+                "quest_bar_hero_blurhash": "pAgKIoh/lnc+aWh3NUBGBGQ=",
+                "quest_bar_hero": "quests/1549819328193364061/1551415313474789456.jpg",
+                "quest_bar_hero_video": "quests/1552370451727261738/1552704730340262019_720.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1549819328193364061/1551415134751162448.png",
+                "game_tile_dark": "quests/1549819328193364061/1551415134751162448.png",
+                "logotype_light": "quests/1552370451727261738/1553171988045107312.png",
+                "logotype_dark": "quests/1552370451727261738/1553171988045107312.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Matchbox The Movie",
+                "game_title": "Streaming October 9",
+                "game_publisher": "Apple TV"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 29,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1552370451727261738/1552703270667948072_1080.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1549819328193364061/1551415855454228510.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1552370451727261738/1552703270667948072_720.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1549819328193364061/1551415855454228510.jpg"
+                            },
+                            "video_hls": {
+                                "url": "quests/1552370451727261738/1552703270667948072.m3u8",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1549819328193364061/1551415855454228510.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 3,
+                        "sku_id": "1553092380834406460",
+                        "asset": "quests/1552370451727261738/1553179316353892422.mp4",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "Matchbox 1968 Mustang Avatar Decoration",
+                            "name_with_article": "a Matchbox 1968 Mustang Avatar Decoration",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "expires_at": "2026-12-10T00:00:00+00:00",
+                        "expires_at_premium": null,
+                        "expiration_mode": 3
+                    }
+                ],
+                "rewards_expire_at": "2026-11-03T16:59:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "not_shareable",
+            "cta_config": {
+                "link": "https://tv.apple.com/ca/movie/matchbox-the-movie/umc.cmc.31qa8j1tn2cnpyk3fx43w928d?itscg=MC_10000&itsct=atvp_brand_omd&mttn3pid=innovid&mttnagencyid=a5e&mttncc=CA&mttnsiteid=143238&mttnsubad=07433708",
+                "button_label": "View More",
+                "subtitle": "Streaming October 9"
+            }
+        }
+    },
+    {
+        "id": "1552782554845806643",
+        "config": {
+            "id": "1552782554845806643",
+            "config_version": 2,
+            "starts_at": "2026-09-28T16:00:00+00:00",
+            "expires_at": "2026-10-09T16:59:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://tv.apple.com/us/movie/matchbox-the-movie/umc.cmc.31qa8j1tn2cnpyk3fx43w928d?itscg=MC_30000&itsct=atvp_brand_omd&mttn3pid=Discord&mttnagencyid=a5e&mttncc=US&mttnsiteid=143238&mttnsubad=07423619",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1549819328193364061/1551415313474789456.jpg",
+                "hero_video": "quests/1552782554845806643/1552823964705886260_720.mp4",
+                "quest_bar_hero_blurhash": "pAgKIoh/lnc+aWh3NUBGBGQ=",
+                "quest_bar_hero": "quests/1549819328193364061/1551415313474789456.jpg",
+                "quest_bar_hero_video": "quests/1552782554845806643/1552823964705886260_720.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1549819328193364061/1551415134751162448.png",
+                "game_tile_dark": "quests/1549819328193364061/1551415134751162448.png",
+                "logotype_light": "quests/1552782554845806643/1553170776755150958.png",
+                "logotype_dark": "quests/1552782554845806643/1553170776755150958.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Matchbox The Movie",
+                "game_title": "Streaming October 9",
+                "game_publisher": "Apple TV"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 29,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1552782554845806643/1552814902312173690_1080.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1549819328193364061/1551415855454228510.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1552782554845806643/1552814902312173690_720.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1549819328193364061/1551415855454228510.jpg"
+                            },
+                            "video_hls": {
+                                "url": "quests/1552782554845806643/1552814902312173690.m3u8",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1549819328193364061/1551415855454228510.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 3,
+                        "sku_id": "1553093599992746004",
+                        "asset": "quests/1552782554845806643/1553179643538841710.mp4",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "Matchbox Land Rover 6x6 Avatar Decoration",
+                            "name_with_article": "a Matchbox Land Rover 6x6 Avatar Decoration",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "expires_at": "2026-12-10T00:00:00+00:00",
+                        "expires_at_premium": null,
+                        "expiration_mode": 3
+                    }
+                ],
+                "rewards_expire_at": "2026-11-04T06:59:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "not_shareable",
+            "cta_config": {
+                "link": "https://tv.apple.com/us/movie/matchbox-the-movie/umc.cmc.31qa8j1tn2cnpyk3fx43w928d?itscg=MC_30000&itsct=atvp_brand_omd&mttn3pid=Discord&mttnagencyid=a5e&mttncc=US&mttnsiteid=143238&mttnsubad=07423619",
+                "button_label": "View More",
+                "subtitle": "Streaming October 9"
+            }
+        }
+    },
+    {
+        "id": "1549819328193364061",
+        "config": {
+            "id": "1549819328193364061",
+            "config_version": 2,
+            "starts_at": "2026-09-28T16:00:00+00:00",
+            "expires_at": "2026-10-09T16:59:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://tv.apple.com/us/movie/matchbox-the-movie/umc.cmc.31qa8j1tn2cnpyk3fx43w928d?itscg=MC_30000&itsct=atvp_brand_omd&mttn3pid=Discord&mttnagencyid=a5e&mttncc=US&mttnsiteid=143238&mttnsubad=07423618",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1549819328193364061/1551415313474789456.jpg",
+                "hero_video": "quests/1549819328193364061/1552816554800844860_720.mp4",
+                "quest_bar_hero_blurhash": "pAgKIoh/lnc+aWh3NUBGBGQ=",
+                "quest_bar_hero": "quests/1549819328193364061/1551415313474789456.jpg",
+                "quest_bar_hero_video": "quests/1549819328193364061/1552816554800844860_720.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1549819328193364061/1551415134751162448.png",
+                "game_tile_dark": "quests/1549819328193364061/1551415134751162448.png",
+                "logotype_light": "quests/1549819328193364061/1553169864628117564.png",
+                "logotype_dark": "quests/1549819328193364061/1553169864628117564.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Matchbox The Movie",
+                "game_title": "Streaming October 9",
+                "game_publisher": "Apple TV"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 29,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1549819328193364061/1552814648192147476_1080.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1549819328193364061/1551415855454228510.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1549819328193364061/1552814648192147476_720.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1549819328193364061/1551415855454228510.jpg"
+                            },
+                            "video_hls": {
+                                "url": "quests/1549819328193364061/1552814648192147476.m3u8",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1549819328193364061/1551415855454228510.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 3,
+                        "sku_id": "1553092380834406460",
+                        "asset": "quests/1549819328193364061/1553179019908874362.mp4",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "Matchbox 1968 Mustang Avatar Decoration",
+                            "name_with_article": "a Matchbox 1968 Mustang Avatar Decoration",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "expires_at": "2026-12-10T00:00:00+00:00",
+                        "expires_at_premium": null,
+                        "expiration_mode": 3
+                    }
+                ],
+                "rewards_expire_at": "2026-11-08T16:59:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "not_shareable",
+            "cta_config": {
+                "link": "https://tv.apple.com/us/movie/matchbox-the-movie/umc.cmc.31qa8j1tn2cnpyk3fx43w928d?itscg=MC_30000&itsct=atvp_brand_omd&mttn3pid=Discord&mttnagencyid=a5e&mttncc=US&mttnsiteid=143238&mttnsubad=07423618",
+                "button_label": "View More",
+                "subtitle": "Streaming October 9"
+            }
+        }
+    },
+    {
+        "id": "1552698676017766541",
+        "config": {
+            "id": "1552698676017766541",
+            "config_version": 2,
+            "starts_at": "2026-09-28T16:00:00+00:00",
+            "expires_at": "2026-10-09T16:59:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://tv.apple.com/ca/movie/matchbox-the-movie/umc.cmc.31qa8j1tn2cnpyk3fx43w928d?itscg=MC_10000&itsct=atvp_brand_omd&mttn3pid=innovid&mttnagencyid=a5e&mttncc=CA&mttnsiteid=143238&mttnsubad=07433707",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1549819328193364061/1551415313474789456.jpg",
+                "quest_bar_hero_blurhash": "pAgKIoh/lnc+aWh3NUBGBGQ=",
+                "quest_bar_hero": "quests/1549819328193364061/1551415313474789456.jpg",
+                "quest_bar_hero_video": "quests/1552698676017766541/1552705302003060816_720.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1549819328193364061/1551415134751162448.png",
+                "game_tile_dark": "quests/1549819328193364061/1551415134751162448.png",
+                "logotype_light": "quests/1552698676017766541/1553171816137101382.png",
+                "logotype_dark": "quests/1552698676017766541/1553171816137101382.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Matchbox The Movie",
+                "game_title": "Streaming October 9",
+                "game_publisher": "Apple TV"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 29,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1552698676017766541/1552702892736249856_1080.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1549819328193364061/1551415855454228510.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1552698676017766541/1552702892736249856_720.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1549819328193364061/1551415855454228510.jpg"
+                            },
+                            "video_hls": {
+                                "url": "quests/1552698676017766541/1552702892736249856.m3u8",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1549819328193364061/1551415855454228510.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 3,
+                        "sku_id": "1553093599992746004",
+                        "asset": "quests/1552698676017766541/1553179715479797860.mp4",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "Matchbox Land Rover 6x6 Avatar Decoration",
+                            "name_with_article": "a Matchbox Land Rover 6x6 Avatar Decoration",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "expires_at": "2026-12-10T00:00:00+00:00",
+                        "expires_at_premium": null,
+                        "expiration_mode": 3
+                    }
+                ],
+                "rewards_expire_at": "2026-11-08T16:59:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "not_shareable",
+            "cta_config": {
+                "link": "https://tv.apple.com/ca/movie/matchbox-the-movie/umc.cmc.31qa8j1tn2cnpyk3fx43w928d?itscg=MC_10000&itsct=atvp_brand_omd&mttn3pid=innovid&mttnagencyid=a5e&mttncc=CA&mttnsiteid=143238&mttnsubad=07433707",
+                "button_label": "View More",
+                "subtitle": "Streaming October 9"
+            }
+        }
     }
 ]
