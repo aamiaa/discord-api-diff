@@ -168002,42 +168002,42 @@
                         "label": "Contorting creature with long hair peers from above with centipede legs and a tail poking out from below the profile.",
                         "layers": [
                             {
-                                "id": "1551750218125541448",
+                                "id": "1555251340836606012",
                                 "type": "rail",
                                 "order": "front",
                                 "anchor": "center",
                                 "responsive": true
                             },
                             {
-                                "id": "1551750221795426404",
+                                "id": "1555251344544374844",
                                 "type": "staple",
                                 "order": "front",
                                 "anchor": "top",
                                 "responsive": false
                             },
                             {
-                                "id": "1551750225876484136",
+                                "id": "1555251349208436939",
                                 "type": "staple",
                                 "order": "front",
                                 "anchor": "bottom",
                                 "responsive": false
                             },
                             {
-                                "id": "1551750229252902952",
+                                "id": "1555251352794304642",
                                 "type": "rail",
                                 "order": "back",
                                 "anchor": "center",
                                 "responsive": true
                             },
                             {
-                                "id": "1551750232486977656",
+                                "id": "1555251356191821905",
                                 "type": "staple",
                                 "order": "back",
                                 "anchor": "top",
                                 "responsive": false
                             },
                             {
-                                "id": "1551750236182155294",
+                                "id": "1555251359492612126",
                                 "type": "staple",
                                 "order": "back",
                                 "anchor": "bottom",
@@ -168045,7 +168045,7 @@
                             }
                         ],
                         "inner_width": 1200,
-                        "overflow_top": 304,
+                        "overflow_top": 302,
                         "overflow_bottom": 212,
                         "overflow_horizontal": 56
                     }
@@ -191696,6 +191696,1349 @@
             "mobile_max_height": null,
             "responsive": null,
             "background_style": "linear-gradient(180deg, #F5F4F6 0%, #FCEDEE 100%)"
+        }
+    },
+    {
+        "sku_id": "1551701287131947078",
+        "name": "Cauldron Chaos",
+        "summary": " ",
+        "store_listing_id": "1551701287131947078",
+        "styles": {
+            "background_colors": [
+                1183774,
+                1319459
+            ],
+            "button_colors": [
+                5793266,
+                5793266
+            ],
+            "confetti_colors": [
+                12320512,
+                16727693,
+                16580490,
+                8454119
+            ]
+        },
+        "hero_ranking": [
+            "1551710254192926830",
+            "1551710917232959569",
+            "1551708537984389240",
+            "1551702173111554158",
+            "1551708342672560208",
+            "1551708446984896635",
+            "1551708652665315368",
+            "1551708828741931039",
+            "1551709318724849664",
+            "1551709828034994176",
+            "1551710030410022994",
+            "1551710150480367636"
+        ],
+        "products": [
+            {
+                "sku_id": "1551710254192926830",
+                "name": "Lottie's Cauldron Bundle",
+                "summary": "{joinedItems}",
+                "styles": {
+                    "background_colors": [
+                        1183774,
+                        1319459
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        12320512,
+                        16727693,
+                        16580490,
+                        8454119
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 2699,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 2199,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    }
+                },
+                "preview_assets": {
+                    "fg_static": "https://cdn.discordapp.com/media/v1/collectibles-shop/bundle-fg-static/1551710254192926830",
+                    "bg_static": "https://cdn.discordapp.com/media/v1/collectibles-shop/bundle-bg-static/1551710254192926830"
+                },
+                "items": [
+                    {
+                        "type": 0,
+                        "sku_id": "1551702173111554158",
+                        "asset": "a_ea9e485919a47373eb2f05cc4a1d0c0c",
+                        "label": "A purple witch hat decorated with a crescent moon and cat ears, and a cat tail."
+                    },
+                    {
+                        "type": 0,
+                        "sku_id": "1551708342672560208",
+                        "asset": "a_39d94e0acd47c12e98b4f0bccf5694f4",
+                        "label": "A ring of colorful sparkles and stars."
+                    },
+                    {
+                        "type": 2,
+                        "sku_id": "1551708652665315368",
+                        "asset": "nameplates/witch_dust/1551708652665315368/",
+                        "label": "Colorful sparkles and stars scatter across a purple haze.",
+                        "palette": "cobalt"
+                    },
+                    {
+                        "type": 1,
+                        "sku_id": "1551709318724849664",
+                        "title": "Lottie's Cauldron",
+                        "description": "Show this effect when others view your profile.",
+                        "accessibilityLabel": "A witch casts a spell into a cauldron, summoning a crow, cat, or fox.",
+                        "animationType": 2,
+                        "thumbnailPreviewSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/1f8b62514a782fe4d54fdd7fe1dbb6b6bf070716eaf8e41b332dba41ae00598f",
+                        "reducedMotionSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/b7e0110143f9022379069cad2e9a87394f89fc22b85a63792711151071717c95",
+                        "effects": [
+                            {
+                                "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/5c8afd0840307d8903249d27c1255b2d892785a71bf4fe9ab5d08000949f190a",
+                                "loop": true,
+                                "duration": 4980,
+                                "start": 7211,
+                                "loopDelay": 2124,
+                                "zIndex": 100,
+                                "randomizedSources": []
+                            },
+                            {
+                                "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/43c477e789ef0df0d29e3ba3a5aa99ae411ac05f78b82e1a8d023498d058bd0f",
+                                "loop": false,
+                                "duration": 4980,
+                                "start": 0,
+                                "loopDelay": 0,
+                                "zIndex": 110,
+                                "randomizedSources": [
+                                    {
+                                        "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/43c477e789ef0df0d29e3ba3a5aa99ae411ac05f78b82e1a8d023498d058bd0f"
+                                    },
+                                    {
+                                        "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/ca2f790d22d113d9bee33297ca8fc6406b98f8a764359c175cdd227caf8db102"
+                                    },
+                                    {
+                                        "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/75e5356aa4d51fa5fcb5679fc7b3f4c22cdc346b9950c33bfc856fa17419aa3e"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "type": 3,
+                        "sku_id": "1551710030410022994",
+                        "label": "Colorful sparkles and stars line the top and bottom of the profile",
+                        "layers": [
+                            {
+                                "id": "1551710112253485077",
+                                "type": "staple",
+                                "order": "front",
+                                "anchor": "top",
+                                "responsive": false
+                            },
+                            {
+                                "id": "1551710117571854356",
+                                "type": "staple",
+                                "order": "front",
+                                "anchor": "bottom",
+                                "responsive": false
+                            },
+                            {
+                                "id": "1551710121405587537",
+                                "type": "staple",
+                                "order": "back",
+                                "anchor": "top",
+                                "responsive": false
+                            },
+                            {
+                                "id": "1551710127608954921",
+                                "type": "staple",
+                                "order": "back",
+                                "anchor": "bottom",
+                                "responsive": false
+                            }
+                        ],
+                        "inner_width": 1200,
+                        "overflow_top": 304,
+                        "overflow_bottom": 212,
+                        "overflow_horizontal": 56
+                    }
+                ],
+                "type": 1000,
+                "premium_type": 0,
+                "category_sku_id": "1551701287131947078",
+                "bundled_products": [
+                    {
+                        "sku_id": "1551702173111554158",
+                        "name": "Hex's Hat",
+                        "summary": "Give your avatar a new look.",
+                        "type": 0,
+                        "premium_type": 0,
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 599,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 499,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "sku_id": "1551708342672560208",
+                        "name": "Witch Dust",
+                        "summary": "Give your avatar a new look.",
+                        "type": 0,
+                        "premium_type": 0,
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 599,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 499,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "sku_id": "1551708652665315368",
+                        "name": "Witch Dust",
+                        "summary": "Make your name stand out in servers and chats.",
+                        "type": 2,
+                        "premium_type": 0,
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 599,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 499,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "sku_id": "1551709318724849664",
+                        "name": "Lottie's Cauldron",
+                        "summary": "Show this effect when others view your profile.",
+                        "type": 1,
+                        "premium_type": 0,
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 699,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 599,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "sku_id": "1551710030410022994",
+                        "name": "Witch Dust",
+                        "summary": "Elevate and wrap your profile with a frame.",
+                        "type": 3,
+                        "premium_type": 0,
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 599,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 499,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ],
+                "google_sku_ids": {
+                    "5": "1551710254192926830_1551712343644184679",
+                    "7": "1551710254192926830_1551712349973520394"
+                },
+                "is_first_party": true
+            },
+            {
+                "sku_id": "1551710917232959569",
+                "name": "Witching Hour Bundle",
+                "summary": "{joinedItems}",
+                "styles": {
+                    "background_colors": [
+                        1183774,
+                        1319459
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        12320512,
+                        16727693,
+                        16580490,
+                        8454119
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 1599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 1299,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    }
+                },
+                "preview_assets": {
+                    "fg_static": "https://cdn.discordapp.com/media/v1/collectibles-shop/bundle-fg-static/1551710917232959569",
+                    "bg_static": "https://cdn.discordapp.com/media/v1/collectibles-shop/bundle-bg-static/1551710917232959569"
+                },
+                "items": [
+                    {
+                        "type": 0,
+                        "sku_id": "1551708446984896635",
+                        "asset": "a_2e3ef537ad942007c7582f18cd17220b",
+                        "label": "A glowing teal ring etched with runes and stars."
+                    },
+                    {
+                        "type": 2,
+                        "sku_id": "1551708828741931039",
+                        "asset": "nameplates/night_flight/1551708828741931039/",
+                        "label": "Bats fly across a full moon.",
+                        "palette": "cobalt"
+                    },
+                    {
+                        "type": 1,
+                        "sku_id": "1551709828034994176",
+                        "title": "Witching Hour",
+                        "description": "Show this effect when others view your profile.",
+                        "accessibilityLabel": "Bats fly across a full moon.",
+                        "animationType": 2,
+                        "thumbnailPreviewSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/c3ae886983d03f02a9908fbba63fb3f13ea6cf201c57b87d60ed0fb1ef541dd4",
+                        "reducedMotionSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/13f330a26ce36317cd5091c278cd8748e3cfe6cb0d89f63816ff6601b509636b",
+                        "effects": [
+                            {
+                                "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/a0718b5e1c40d673d7286589f1e54fe6fd09564daf8996bc4bb44fe87e53d4ea",
+                                "loop": false,
+                                "duration": 4980,
+                                "start": 0,
+                                "loopDelay": 0,
+                                "zIndex": 110,
+                                "randomizedSources": []
+                            },
+                            {
+                                "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/a6080d56553bc218f1535706e87be77863ca79e0b843db6f46b21fb6f55e3d80",
+                                "loop": true,
+                                "duration": 4982,
+                                "start": 6784,
+                                "loopDelay": 2619,
+                                "zIndex": 100,
+                                "randomizedSources": []
+                            }
+                        ]
+                    }
+                ],
+                "type": 1000,
+                "premium_type": 0,
+                "category_sku_id": "1551701287131947078",
+                "bundled_products": [
+                    {
+                        "sku_id": "1551708446984896635",
+                        "name": "Summoning Circle",
+                        "summary": "Give your avatar a new look.",
+                        "type": 0,
+                        "premium_type": 0,
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 599,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 499,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "sku_id": "1551708828741931039",
+                        "name": "Night Flight",
+                        "summary": "Make your name stand out in servers and chats.",
+                        "type": 2,
+                        "premium_type": 0,
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 599,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 499,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "sku_id": "1551709828034994176",
+                        "name": "Witching Hour",
+                        "summary": "Show this effect when others view your profile.",
+                        "type": 1,
+                        "premium_type": 0,
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 599,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 499,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ],
+                "google_sku_ids": {
+                    "5": "1551710917232959569_1551711431509020743",
+                    "7": "1551710917232959569_1551711437603340360"
+                },
+                "is_first_party": true
+            },
+            {
+                "sku_id": "1551702173111554158",
+                "name": "Hex's Hat",
+                "summary": "Give your avatar a new look.",
+                "styles": {
+                    "background_colors": [
+                        1183774,
+                        1319459
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        12320512,
+                        16727693,
+                        16580490,
+                        8454119
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    }
+                },
+                "preview_assets": null,
+                "items": [
+                    {
+                        "type": 0,
+                        "sku_id": "1551702173111554158",
+                        "asset": "a_ea9e485919a47373eb2f05cc4a1d0c0c",
+                        "label": "A purple witch hat decorated with a crescent moon and cat ears, and a cat tail."
+                    }
+                ],
+                "type": 0,
+                "premium_type": 0,
+                "category_sku_id": "1551701287131947078",
+                "google_sku_ids": {
+                    "5": "1551702173111554158_1551710149918457918",
+                    "7": "1551702173111554158_1551710155438166046"
+                },
+                "is_first_party": true
+            },
+            {
+                "sku_id": "1551708342672560208",
+                "name": "Witch Dust",
+                "summary": "Give your avatar a new look.",
+                "styles": {
+                    "background_colors": [
+                        1183774,
+                        1319459
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        12320512,
+                        16727693,
+                        16580490,
+                        8454119
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    }
+                },
+                "preview_assets": null,
+                "items": [
+                    {
+                        "type": 0,
+                        "sku_id": "1551708342672560208",
+                        "asset": "a_39d94e0acd47c12e98b4f0bccf5694f4",
+                        "label": "A ring of colorful sparkles and stars."
+                    }
+                ],
+                "type": 0,
+                "premium_type": 0,
+                "category_sku_id": "1551701287131947078",
+                "google_sku_ids": {
+                    "5": "1551708342672560208_1551710426209984684",
+                    "7": "1551708342672560208_1551710431398072401"
+                },
+                "is_first_party": true
+            },
+            {
+                "sku_id": "1551708446984896635",
+                "name": "Summoning Circle",
+                "summary": "Give your avatar a new look.",
+                "styles": {
+                    "background_colors": [
+                        1183774,
+                        1319459
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        12320512,
+                        16727693,
+                        16580490,
+                        8454119
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    }
+                },
+                "preview_assets": null,
+                "items": [
+                    {
+                        "type": 0,
+                        "sku_id": "1551708446984896635",
+                        "asset": "a_2e3ef537ad942007c7582f18cd17220b",
+                        "label": "A glowing teal ring etched with runes and stars."
+                    }
+                ],
+                "type": 0,
+                "premium_type": 0,
+                "category_sku_id": "1551701287131947078",
+                "google_sku_ids": {
+                    "5": "1551708446984896635_1551709547230535730",
+                    "7": "1551708446984896635_1551709550862934077"
+                },
+                "is_first_party": true
+            },
+            {
+                "sku_id": "1551708537984389240",
+                "name": "Grinning Gourds",
+                "summary": "Give your avatar a new look.",
+                "styles": {
+                    "background_colors": [
+                        1183774,
+                        1319459
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        12320512,
+                        16727693,
+                        16580490,
+                        8454119
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    }
+                },
+                "preview_assets": null,
+                "items": [
+                    {
+                        "type": 0,
+                        "sku_id": "1551708537984389240",
+                        "asset": "a_f2cea6597b77a277ff458099d051ba62",
+                        "label": "Glowing green ring with two grinning jack-o'-lanterns and flying bats"
+                    }
+                ],
+                "type": 0,
+                "premium_type": 0,
+                "category_sku_id": "1551701287131947078",
+                "google_sku_ids": {
+                    "5": "1551708537984389240_1551710740988297306",
+                    "7": "1551708537984389240_1551710746117939200"
+                },
+                "is_first_party": true
+            },
+            {
+                "sku_id": "1551708652665315368",
+                "name": "Witch Dust",
+                "summary": "Make your name stand out in servers and chats.",
+                "styles": {
+                    "background_colors": [
+                        1183774,
+                        1319459
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        12320512,
+                        16727693,
+                        16580490,
+                        8454119
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    }
+                },
+                "preview_assets": null,
+                "items": [
+                    {
+                        "type": 2,
+                        "sku_id": "1551708652665315368",
+                        "asset": "nameplates/witch_dust/1551708652665315368/",
+                        "label": "Colorful sparkles and stars scatter across a purple haze.",
+                        "palette": "cobalt"
+                    }
+                ],
+                "type": 2,
+                "premium_type": 0,
+                "category_sku_id": "1551701287131947078",
+                "google_sku_ids": {
+                    "5": "1551708652665315368_1551709131520614481",
+                    "7": "1551708652665315368_1551709138525098024"
+                },
+                "is_first_party": true
+            },
+            {
+                "sku_id": "1551708828741931039",
+                "name": "Night Flight",
+                "summary": "Make your name stand out in servers and chats.",
+                "styles": {
+                    "background_colors": [
+                        1183774,
+                        1319459
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        12320512,
+                        16727693,
+                        16580490,
+                        8454119
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    }
+                },
+                "preview_assets": null,
+                "items": [
+                    {
+                        "type": 2,
+                        "sku_id": "1551708828741931039",
+                        "asset": "nameplates/night_flight/1551708828741931039/",
+                        "label": "Bats fly across a full moon.",
+                        "palette": "cobalt"
+                    }
+                ],
+                "type": 2,
+                "premium_type": 0,
+                "category_sku_id": "1551701287131947078",
+                "google_sku_ids": {
+                    "5": "1551708828741931039_1551709337557274684",
+                    "7": "1551708828741931039_1551709342858743818"
+                },
+                "is_first_party": true
+            },
+            {
+                "sku_id": "1551709318724849664",
+                "name": "Lottie's Cauldron",
+                "summary": "Show this effect when others view your profile.",
+                "styles": {
+                    "background_colors": [
+                        1183774,
+                        1319459
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        12320512,
+                        16727693,
+                        16580490,
+                        8454119
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 699,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    }
+                },
+                "preview_assets": null,
+                "items": [
+                    {
+                        "type": 1,
+                        "sku_id": "1551709318724849664",
+                        "title": "Lottie's Cauldron",
+                        "description": "Show this effect when others view your profile.",
+                        "accessibilityLabel": "A witch casts a spell into a cauldron, summoning a crow, cat, or fox.",
+                        "animationType": 2,
+                        "thumbnailPreviewSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/1f8b62514a782fe4d54fdd7fe1dbb6b6bf070716eaf8e41b332dba41ae00598f",
+                        "reducedMotionSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/b7e0110143f9022379069cad2e9a87394f89fc22b85a63792711151071717c95",
+                        "effects": [
+                            {
+                                "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/5c8afd0840307d8903249d27c1255b2d892785a71bf4fe9ab5d08000949f190a",
+                                "loop": true,
+                                "duration": 4980,
+                                "start": 7211,
+                                "loopDelay": 2124,
+                                "zIndex": 100,
+                                "randomizedSources": []
+                            },
+                            {
+                                "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/43c477e789ef0df0d29e3ba3a5aa99ae411ac05f78b82e1a8d023498d058bd0f",
+                                "loop": false,
+                                "duration": 4980,
+                                "start": 0,
+                                "loopDelay": 0,
+                                "zIndex": 110,
+                                "randomizedSources": [
+                                    {
+                                        "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/43c477e789ef0df0d29e3ba3a5aa99ae411ac05f78b82e1a8d023498d058bd0f"
+                                    },
+                                    {
+                                        "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/ca2f790d22d113d9bee33297ca8fc6406b98f8a764359c175cdd227caf8db102"
+                                    },
+                                    {
+                                        "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/75e5356aa4d51fa5fcb5679fc7b3f4c22cdc346b9950c33bfc856fa17419aa3e"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "type": 1,
+                "premium_type": 0,
+                "category_sku_id": "1551701287131947078",
+                "google_sku_ids": {
+                    "5": "1551709318724849664_1551712303957676102",
+                    "7": "1551709318724849664_1551712307887870002"
+                },
+                "is_first_party": true
+            },
+            {
+                "sku_id": "1551709828034994176",
+                "name": "Witching Hour",
+                "summary": "Show this effect when others view your profile.",
+                "styles": {
+                    "background_colors": [
+                        1183774,
+                        1319459
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        12320512,
+                        16727693,
+                        16580490,
+                        8454119
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    }
+                },
+                "preview_assets": null,
+                "items": [
+                    {
+                        "type": 1,
+                        "sku_id": "1551709828034994176",
+                        "title": "Witching Hour",
+                        "description": "Show this effect when others view your profile.",
+                        "accessibilityLabel": "Bats fly across a full moon.",
+                        "animationType": 2,
+                        "thumbnailPreviewSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/c3ae886983d03f02a9908fbba63fb3f13ea6cf201c57b87d60ed0fb1ef541dd4",
+                        "reducedMotionSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/13f330a26ce36317cd5091c278cd8748e3cfe6cb0d89f63816ff6601b509636b",
+                        "effects": [
+                            {
+                                "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/a0718b5e1c40d673d7286589f1e54fe6fd09564daf8996bc4bb44fe87e53d4ea",
+                                "loop": false,
+                                "duration": 4980,
+                                "start": 0,
+                                "loopDelay": 0,
+                                "zIndex": 110,
+                                "randomizedSources": []
+                            },
+                            {
+                                "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/a6080d56553bc218f1535706e87be77863ca79e0b843db6f46b21fb6f55e3d80",
+                                "loop": true,
+                                "duration": 4982,
+                                "start": 6784,
+                                "loopDelay": 2619,
+                                "zIndex": 100,
+                                "randomizedSources": []
+                            }
+                        ]
+                    }
+                ],
+                "type": 1,
+                "premium_type": 0,
+                "category_sku_id": "1551701287131947078",
+                "google_sku_ids": {
+                    "5": "1551709828034994176_1551713401489719327",
+                    "7": "1551709828034994176_1551713405847732344"
+                },
+                "is_first_party": true
+            },
+            {
+                "sku_id": "1551710030410022994",
+                "name": "Witch Dust",
+                "summary": "Elevate and wrap your profile with a frame.",
+                "styles": {
+                    "background_colors": [
+                        1183774,
+                        1319459
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        12320512,
+                        16727693,
+                        16580490,
+                        8454119
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    }
+                },
+                "preview_assets": null,
+                "items": [
+                    {
+                        "type": 3,
+                        "sku_id": "1551710030410022994",
+                        "label": "Colorful sparkles and stars line the top and bottom of the profile",
+                        "layers": [
+                            {
+                                "id": "1551710112253485077",
+                                "type": "staple",
+                                "order": "front",
+                                "anchor": "top",
+                                "responsive": false
+                            },
+                            {
+                                "id": "1551710117571854356",
+                                "type": "staple",
+                                "order": "front",
+                                "anchor": "bottom",
+                                "responsive": false
+                            },
+                            {
+                                "id": "1551710121405587537",
+                                "type": "staple",
+                                "order": "back",
+                                "anchor": "top",
+                                "responsive": false
+                            },
+                            {
+                                "id": "1551710127608954921",
+                                "type": "staple",
+                                "order": "back",
+                                "anchor": "bottom",
+                                "responsive": false
+                            }
+                        ],
+                        "inner_width": 1200,
+                        "overflow_top": 304,
+                        "overflow_bottom": 212,
+                        "overflow_horizontal": 56
+                    }
+                ],
+                "type": 3,
+                "premium_type": 0,
+                "category_sku_id": "1551701287131947078",
+                "google_sku_ids": {
+                    "5": "1551710030410022994_1551712695286235146",
+                    "7": "1551710030410022994_1551712700051099750"
+                },
+                "is_first_party": true
+            },
+            {
+                "sku_id": "1551710150480367636",
+                "name": "Witchlight",
+                "summary": "Elevate and wrap your profile with a frame.",
+                "styles": {
+                    "background_colors": [
+                        1183774,
+                        1319459
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        12320512,
+                        16727693,
+                        16580490,
+                        8454119
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    }
+                },
+                "preview_assets": null,
+                "items": [
+                    {
+                        "type": 3,
+                        "sku_id": "1551710150480367636",
+                        "label": "Blue lit candles line the top with wax dripping down the bottom of the profile.",
+                        "layers": [
+                            {
+                                "id": "1551710209305743421",
+                                "type": "staple",
+                                "order": "front",
+                                "anchor": "top",
+                                "responsive": false
+                            },
+                            {
+                                "id": "1551710217136513115",
+                                "type": "staple",
+                                "order": "front",
+                                "anchor": "bottom",
+                                "responsive": false
+                            },
+                            {
+                                "id": "1551710221196329001",
+                                "type": "staple",
+                                "order": "back",
+                                "anchor": "top",
+                                "responsive": false
+                            }
+                        ],
+                        "inner_width": 1200,
+                        "overflow_top": 304,
+                        "overflow_bottom": 212,
+                        "overflow_horizontal": 56
+                    }
+                ],
+                "type": 3,
+                "premium_type": 0,
+                "category_sku_id": "1551701287131947078",
+                "google_sku_ids": {
+                    "5": "1551710150480367636_1551711927233941616",
+                    "7": "1551710150480367636_1551711931981889536"
+                },
+                "is_first_party": true
+            }
+        ],
+        "hero_banner_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/64a0c031faac5012cb3d816a1c76a26c8f50c6498d72ba4497105ec4910cc446",
+        "hero_logo_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/899918a57b125f0aae1de3418e60f532cc9e7a058505701b641e1372e0a0197f",
+        "catalog_banner_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/9f263ecffcba4e6e050c2f5c5929ae9c0efa885b91ef7d1527caa0f8acc485b4",
+        "featured_block_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/aefa3b6e6af7dff0fc128ea335c8518aa68c47d740f97e7f6e5053c5d1d29078",
+        "logo_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/899918a57b125f0aae1de3418e60f532cc9e7a058505701b641e1372e0a0197f",
+        "pdp_bg_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/5cc8284f729b8c8a189eadbe31d416cdba3ae294a49df346bf024c0b40c38339",
+        "mobile_hero_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/3b9c9cc5f17f5ac2bce12974b9e02ae3849bf3a2faa83ecadb1e464c04a1bd6d",
+        "mobile_banner_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/eee3c119fbce6c612abe8be61744d78cb3f29159e278bd90c9f1c56d255a6374",
+        "mobile_bg_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/318d9c320252c7cf8ab96682a3c17e43fe862dcc71dda82ab8a7acef7cf1f268",
+        "hero_banner_display_config": {
+            "desktop_max_height": null,
+            "mobile_max_height": null,
+            "responsive": null,
+            "background_style": "linear-gradient(180deg, #12101E 0%, #142223 100%)"
         }
     }
 ]

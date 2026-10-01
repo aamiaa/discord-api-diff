@@ -1,0 +1,134 @@
+[
+    {
+        "id": "1548098957769445388",
+        "application_id": "1096190356233670716",
+        "display_name": "Shop Halloween Promo",
+        "reward_type": 1,
+        "reward_status": 2,
+        "reward_config": {
+            "discount": null,
+            "action": {
+                "action_type": 4,
+                "delivery_mode": 2,
+                "sku_ids": [],
+                "orbs_back": null
+            }
+        },
+        "sku_ids": null,
+        "applies_to_all_skus": false,
+        "include_bundles": true,
+        "starts_at": "2026-09-30T16:00:00+00:00",
+        "ends_at": "2026-10-14T16:00:00+00:00",
+        "redemption_ends_at": "2026-10-21T16:00:00+00:00",
+        "progress": {
+            "current": 0,
+            "target": 4,
+            "label": "items owned"
+        },
+        "tenant_metadata": {
+            "social_layer": null,
+            "collectibles": {
+                "type": "COLLECT_AND_CLAIM",
+                "subtype": "TAKEOVER",
+                "collection_id": "1551701287131947078",
+                "shop_home": {
+                    "title": "Cast a spell, unlock a reward",
+                    "description": "Collect 4 items to unlock an exclusive nameplate from the Cauldron Chaos collection. [Terms apply]({help_center_url}).",
+                    "reward_states": {
+                        "in_progress": {
+                            "progress_steps": [
+                                {
+                                    "hero_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/aac5f1177098b45ca05714c26ca68e83e85cf72a3c3aa50fd45561ba0d5b4654"
+                                },
+                                {
+                                    "hero_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/2e984671dd4c92b69e120808fc821363d0cb704ca54e6ba7f707fef302db2815"
+                                },
+                                {
+                                    "hero_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/e8023a634f24982e49983a86a9783d4ebce8a766130431a60d544cf406461f6c"
+                                },
+                                {
+                                    "hero_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/246738305ac0140360c6f8bf847c1f08f14f42a5832d5479a18acea3ba09e930"
+                                }
+                            ]
+                        },
+                        "earned": {
+                            "hero_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/9bc4de1d1d0f6225e8137621f84634ee0807805eb2fa0cdf6321296d5d5a6f7d"
+                        },
+                        "consumed": {
+                            "hero_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/9bc4de1d1d0f6225e8137621f84634ee0807805eb2fa0cdf6321296d5d5a6f7d"
+                        }
+                    },
+                    "style": {
+                        "content_theme": "dark"
+                    }
+                },
+                "index_page": {
+                    "description": "Collect 4 items to unlock an exclusive Cauldron Chaos nameplate. [Terms apply]({help_center_url}).",
+                    "reward_states": {
+                        "in_progress": {
+                            "progress_steps": [
+                                {
+                                    "hero_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/a01074c9d5f699da17e68e5df6c5dd150a7308fe9fe90c83357f5009b257935e"
+                                },
+                                {
+                                    "hero_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/41e55140d1938a0916e832d7d350bc579a13bdfe7d5a095d198afa01241f63f7"
+                                },
+                                {
+                                    "hero_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/b02de646b2841aa62a6ea4d00282fffd0498590ccfe782866ec5aa5c49b69693"
+                                },
+                                {
+                                    "hero_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/2046e6c4ba20150e9cfa592dcecc71bd73c4c7791bdd021edf1c15811c8a642d"
+                                }
+                            ]
+                        },
+                        "earned": {
+                            "hero_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/08877cf585c2ecf11c52daab9ad03f534d6f1232bda89b7ef433b08c59d3e73d"
+                        },
+                        "consumed": {
+                            "hero_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/08877cf585c2ecf11c52daab9ad03f534d6f1232bda89b7ef433b08c59d3e73d"
+                        }
+                    },
+                    "style": {
+                        "content_theme": "dark"
+                    }
+                },
+                "shared": {
+                    "progress_indicator": {
+                        "title": "Unlock an exclusive Halloween item",
+                        "description": "Collect 4 eligible items to unlock. Ends {promotion_end_date}.",
+                        "indicator_reward_states": {
+                            "earned": {
+                                "title": "The spell is complete. Your item is ready.",
+                                "description": "Welcome to the coven. Claim your exclusive Halloween item by {claim_end_date}."
+                            },
+                            "consumed": {
+                                "title": "Spell cast, item claimed",
+                                "description": "Hex Eyes is now yours. Happy Halloween!"
+                            }
+                        },
+                        "assets": {
+                            "background_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/ecb6f3d12ecdffbafedf543963735e9d4a0f0cc2d94fab1371bbbd31a575ec9c",
+                            "reward_preview": {
+                                "hidden_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/5054d9f85dd92f4454fa421efe5b66e159ba78fb923fab4da4920e9dac7664d6",
+                                "revealed_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/9fa53fe80fe6bf4e70d48f4ec0c5a23e7aaed6188122064f57884a55577fe8b6"
+                            }
+                        },
+                        "style": {
+                            "content_theme": "dark",
+                            "progress_color": "#83EE53"
+                        }
+                    },
+                    "navigation": {
+                        "tab": {
+                            "title": "Halloween Promo",
+                            "icon": "TAG"
+                        }
+                    },
+                    "help_center": {
+                        "id": "43715736293655"
+                    }
+                }
+            }
+        }
+    }
+]
