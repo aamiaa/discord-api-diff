@@ -101912,7 +101912,8 @@
             "share_policy": "shareable_everywhere",
             "cta_config": {
                 "link": "https://engagements.appsflyer.com/v1.0/c2s/click/app/steam/3393110?af_media_source=discord&af_adset=interest_mmoplayers&af_ad=DBcutdown_30s&af_lookback_window=7d&af_campaign_id={{CAMPAIGN_ID}}&af_adset_id={{ADGROUP_ID}}&af_ad_id={{AD_ID}}&af_campaign=cheil_20260930_Earlyaccess_A2_US_Earlyaccess_All_NEW_By_DISCORD_Quest&af_r=https%3A%2F%2Fstore.steampowered.com%2Fapp%2F3393110%2FAION_2%2F%3Futm_source%3Ddiscord%26utm_campaign%3Dcheil_20260930_Earlyaccess_A2_US_Earlyaccess_All_NEW_By_DISCORD_Quest%26utm_medium%3Dinterest_mmoplayers%26utm_content%3DDBcutdown_30s",
-                "button_label": "Learn More"
+                "button_label": "Learn More",
+                "subtitle": "a"
             }
         },
         "user_status": null,
@@ -120743,6 +120744,131 @@
                 "link": "https://ad.doubleclick.net/ddm/trackclk/N2998.3866164DISCORD.COM/B34825008.439741304;dc_trk_aid=633152467;dc_trk_cid=265285188;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1",
                 "button_label": "Learn More",
                 "subtitle": "Get 100% fiber internet from Verizon Fios"
+            }
+        }
+    },
+    {
+        "id": "1553186976419807282",
+        "config": {
+            "id": "1553186976419807282",
+            "config_version": 2,
+            "starts_at": "2026-10-02T17:00:00+00:00",
+            "expires_at": "2026-10-10T00:00:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://biomovie.jp/",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1553186976419807282/1553188284883144714.jpg",
+                "quest_bar_hero_blurhash": "kucNCoIGiYeJd1eIBnViYDg=",
+                "quest_bar_hero": "quests/1553186976419807282/1553188284883144714.jpg",
+                "quest_bar_hero_video": "quests/1553186976419807282/1553189780198522961.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1553186976419807282/1553188286095171714.jpg",
+                "game_tile_dark": "quests/1553186976419807282/1553188286095171714.jpg",
+                "logotype_light": "quests/1553186976419807282/1553188284853780540.png",
+                "logotype_dark": "quests/1553186976419807282/1553188285281603624.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "バイオハザード",
+                "game_title": "10月9日(金)全国の映画館で公開",
+                "game_publisher": "Sony Pictures Entertainment"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 29,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1553186976419807282/1553188285441118259_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1553186976419807282/1553188285441118258.png"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1553186976419807282/1553188285441118259_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1553186976419807282/1553188285441118258.png"
+                            },
+                            "video_hls": {
+                                "url": "quests/1553186976419807282/1553188285441118259.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1553186976419807282/1553188285441118258.png"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 29,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1553186976419807282/1553188284967161936_1080.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1553186976419807282/1553188285441118258.png"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1553186976419807282/1553188284967161936_720.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1553186976419807282/1553188285441118258.png"
+                            },
+                            "video_hls": {
+                                "url": "quests/1553186976419807282/1553188284967161936.m3u8",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1553186976419807282/1553188285441118258.png"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "200 Orbs",
+                            "name_with_article": "200 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 200,
+                        "premium_orb_quantity": null
+                    }
+                ],
+                "rewards_expire_at": "2026-11-09T00:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://biomovie.jp/",
+                "button_label": "View More",
+                "subtitle": "10月9日(金)全国の映画館で公開"
             }
         }
     }
