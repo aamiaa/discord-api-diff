@@ -120969,5 +120969,342 @@
         "ad_context": null,
         "preview": false,
         "traffic_metadata_raw": "EAIYAQ=="
+    },
+    {
+        "id": "1554270669267537930",
+        "config": {
+            "id": "1554270669267537930",
+            "config_version": 2,
+            "starts_at": "2026-10-04T21:00:00+00:00",
+            "expires_at": "2026-10-18T20:59:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://Finnkino.fi",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1554270669267537930/1554954274411126886.jpg",
+                "quest_bar_hero_blurhash": "DvYFHIb++sdfd1e3zHg0oDqwyQ==",
+                "quest_bar_hero": "quests/1554270669267537930/1554956133700079678.jpg",
+                "quest_bar_hero_video": "quests/1554270669267537930/1554956459005976768_720.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1554270669267537930/1554954274415583323.png",
+                "game_tile_dark": "quests/1554270669267537930/1554954274415583323.png",
+                "logotype_light": "quests/1554270669267537930/1554954274457391114.png",
+                "logotype_dark": "quests/1554270669267537930/1554954274457391114.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Street Fighter",
+                "game_title": "Street Fighter elokuvateattereissa 16.10.",
+                "game_publisher": "Paramount Pictures"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 28,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1554270669267537930/1554954274981806170_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1554270669267537930/1554954274977615962.png"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1554270669267537930/1554954274981806170_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1554270669267537930/1554954274977615962.png"
+                            },
+                            "video_hls": {
+                                "url": "quests/1554270669267537930/1554954274981806170.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1554270669267537930/1554954274977615962.png"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 19,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1554270669267537930/1554954275350642728_1080.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1554270669267537930/1554954274977615962.png"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1554270669267537930/1554954275350642728_720.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1554270669267537930/1554954274977615962.png"
+                            },
+                            "video_hls": {
+                                "url": "quests/1554270669267537930/1554954275350642728.m3u8",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1554270669267537930/1554954274977615962.png"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "200 Orbs",
+                            "name_with_article": "200 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 200,
+                        "premium_orb_quantity": null
+                    }
+                ],
+                "rewards_expire_at": "2026-11-17T20:59:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://Finnkino.fi",
+                "button_label": "Watch More",
+                "subtitle": "Street Fighter elokuvateattereissa 16.10."
+            }
+        }
+    },
+    {
+        "id": "1552406144067043438",
+        "config": {
+            "id": "1552406144067043438",
+            "config_version": 2,
+            "starts_at": "2026-10-04T23:00:00+00:00",
+            "expires_at": "2026-10-11T22:59:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "http://www.forgottenislandmovie.co.uk/",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1552406144067043438/1554960753272815636.jpg",
+                "quest_bar_hero_blurhash": "0/cJDIKKaIiReHdwd2eqcIs/6g==",
+                "quest_bar_hero": "quests/1552406144067043438/1554960793286615050.jpg",
+                "quest_bar_hero_video": "quests/1552406144067043438/1554961152142745741_720.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1552406144067043438/1554961097772109976.png",
+                "game_tile_dark": "quests/1552406144067043438/1554961097772109976.png",
+                "logotype_light": "quests/1552406144067043438/1554961053014823022.png",
+                "logotype_dark": "quests/1552406144067043438/1554961053014823022.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Forgotten Island",
+                "game_title": "IN CINEMAS OCTOBER 16",
+                "game_publisher": "Universal Pictures"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 59,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1552406144067043438/1554960784692355102_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1552406144067043438/1554960974728003624.png"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1552406144067043438/1554960784692355102_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1552406144067043438/1554960974728003624.png"
+                            },
+                            "video_hls": {
+                                "url": "quests/1552406144067043438/1554960784692355102.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1552406144067043438/1554960974728003624.png"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 59,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1552406144067043438/1554960784524583083_1080.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1552406144067043438/1554960974728003624.png"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1552406144067043438/1554960784524583083_720.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1552406144067043438/1554960974728003624.png"
+                            },
+                            "video_hls": {
+                                "url": "quests/1552406144067043438/1554960784524583083.m3u8",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1552406144067043438/1554960974728003624.png"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "200 Orbs",
+                            "name_with_article": "200 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 200,
+                        "premium_orb_quantity": null
+                    }
+                ],
+                "rewards_expire_at": "2026-11-10T22:59:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "http://www.forgottenislandmovie.co.uk/",
+                "button_label": "Get Tickets",
+                "subtitle": "IN CINEMAS OCTOBER 16"
+            }
+        }
+    },
+    {
+        "id": "1552407794634727635",
+        "config": {
+            "id": "1552407794634727635",
+            "config_version": 2,
+            "starts_at": "2026-10-04T22:00:00+00:00",
+            "expires_at": "2026-10-11T21:59:00+00:00",
+            "features": [
+                27,
+                36,
+                15
+            ],
+            "application": {
+                "link": "https://www.upig.de/micro/forgotten-island",
+                "id": "1536314143412457553",
+                "name": "Elba"
+            },
+            "assets": {
+                "hero": "quests/1547367413320777830/1549122469913305179.jpg",
+                "quest_bar_hero_blurhash": "HBgKGoYLd3V7Z3aHp49V+kk=",
+                "quest_bar_hero": "quests/1547367413320777830/1549122469913305179.jpg",
+                "quest_bar_hero_video": "quests/1549194520128782357/1549886617748246658_720.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1547367413320777830/1549122498023657542.png",
+                "game_tile_dark": "quests/1547367413320777830/1549122498023657542.png",
+                "logotype_light": "quests/1549194520128782357/1549886583019413534.png",
+                "logotype_dark": "quests/1549194520128782357/1549886583019413534.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Forgotten Island",
+                "game_title": "Ab 8. Oktober nur im Kino!",
+                "game_publisher": "Universal Pictures"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "ACHIEVEMENT_IN_ACTIVITY": {
+                        "type": "ACHIEVEMENT_IN_ACTIVITY",
+                        "target": 5,
+                        "applications": [
+                            {
+                                "id": "1536314143412457553"
+                            }
+                        ],
+                        "event_name": "progress",
+                        "messages": {
+                            "task_title": "Forgotten Island",
+                            "task_description": "Finde alle 5 Armband-Anhänger und sammle 700 Orbs!"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 Orbs",
+                            "name_with_article": "700 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 700,
+                        "premium_orb_quantity": null
+                    }
+                ],
+                "rewards_expire_at": "2026-11-10T21:59:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://www.upig.de/micro/forgotten-island",
+                "button_label": "Get Tickets",
+                "subtitle": "Ab 8. Oktober nur im Kino!"
+            }
+        }
     }
 ]
