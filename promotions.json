@@ -112,7 +112,46 @@
                 "experiment_id": null,
                 "experiment_variation_id": null,
                 "ready": true,
-                "properties": "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",
+                "properties": {
+                    "giftReminderNagbar": {
+                        "body": "Limited time offer! Gift Nitro and get a free decoration to keep.",
+                        "bodyLocalized": {
+                            "default": "Limited time offer! Gift Nitro and get a free decoration to keep.",
+                            "localizations": {
+                                "pl": "Oferta ograniczona czasowo! Podaruj Nitro i otrzymaj darmową dekorację na własność.",
+                                "fr": "Offre à durée limitée ! Offre Nitro et reçois une décoration gratuite à conserver.",
+                                "lt": "Riboto laiko pasiūlymas! Padovanok Nitro ir gauk nemokamą papuošimą, kurį galėsi pasilikti.",
+                                "cs": "Časově omezená nabídka! Daruj Nitro a získej zdarma vzhled, který ti zůstane.",
+                                "de": "Zeitlich begrenztes Angebot! Verschenke Nitro und erhalte eine kostenlose Dekoration, die du behalten kannst.",
+                                "zh-CN": "限时特惠！赠送 Nitro 会员，即可免费领取一个可永久保留的专属装饰。",
+                                "vi": "Ưu đãi hạn giờ! Tặng Nitro và nhận một trang trí miễn phí cho mình.",
+                                "en-GB": "Limited-time offer! Gift Nitro and get a free decoration to keep.",
+                                "th": "ข้อเสนอจำกัดเวลา! มอบ Nitro เป็นของขวัญและรับของตกแต่งฟรีไว้ใช้งานถาวร",
+                                "sv-SE": "Tidsbegränsat erbjudande! Ge någon Nitro och få en gratis dekoration att behålla.",
+                                "bg": "Оферта за ограничено време! Подари Nitro и получи безплатна декорация, която да запазиш.",
+                                "el": "Προσφορά περιορισμένου χρόνου! Κάνε δώρο το Nitro και πάρε μια δωρεάν διακόσμηση που θα κρατήσεις για πάντα.",
+                                "hi": "सीमित समय का ऑफ़र! Nitro गिफ़्ट करें और अपने पास रखने के लिए एक फ़्री डेकोरेशन पाएं.",
+                                "da": "Tidsbegrænset tilbud! Giv Nitro som gave, og få en gratis dekoration, som du kan beholde.",
+                                "it": "Offerta a tempo limitato! Regala Nitro e ricevi una decorazione gratis da tenere.",
+                                "uk": "Обмежена у часі пропозиція! Подаруйте Nitro та отримайте безкоштовну прикрасу назавжди.",
+                                "es-419": "¡Oferta por tiempo limitado! Regala Nitro y obtén una decoración gratuita que podrás conservar en tu colección.",
+                                "hu": "Korlátozott ideig elérhető ajánlat! Ajándékozz Nitro-előfizetést, hogy kapj egy ingyenes dekorációt, amelyet megőrizhetsz.",
+                                "zh-TW": "限時優惠！贈送 Nitro，即可獲得一個免費的永久裝飾。",
+                                "ja": "期間限定オファー！Nitroを贈って無料のデコレーションを手に入れよう。",
+                                "no": "Kortvarig tilbud! Gi Nitro i gave og få en gratis dekorasjon du kan beholde.",
+                                "ko": "기간 한정 혜택! Nitro를 선물해 무료 장식을 받아 보세요.",
+                                "ro": "Ofertă valabilă pe perioadă limitată! Dăruiește Nitro și primești o decorațiune gratuită pe care o poți păstra.",
+                                "hr": "Ponuda ograničenog trajanja! Daruj Nitro i dobit ćeš besplatni ukras koji možeš zadržati.",
+                                "ru": "Временное предложение! Подарите Nitro и получите бесплатное украшение.",
+                                "tr": "Sınırlı süreli teklif! Nitro hediye et ve saklayabileceğin ücretsiz bir dekorasyon kazan.",
+                                "fi": "Rajoitetun ajan tarjous! Lahjoita Nitro, niin saat ilmaisen koristeen omaksesi.",
+                                "es-ES": "¡Oferta por tiempo limitado! Regala Nitro y consigue una decoración gratis para quedártela.",
+                                "nl": "Tijdelijke aanbieding! Geef Nitro cadeau en krijg zelf een gratis versiering.",
+                                "pt-BR": "Oferta por tempo limitado! Presenteie Nitro e receba uma decoração grátis."
+                            }
+                        }
+                    }
+                },
                 "start_date": null,
                 "end_date": null
             },
@@ -128,7 +167,18 @@
                 "experiment_id": null,
                 "experiment_variation_id": null,
                 "ready": true,
-                "properties": "QpwBEm5odHRwczovL2Nkbi5kaXNjb3JkYXBwLmNvbS9hc3NldHMvY29udGVudC8xZjFhYTBkZjMwMTBkMThlYWZkYmNiZGU5ZjFlYzc2OTk0ODVlYTZjMThlMWVlOGNhM2UwYTgyYjA1ODBlMzVmLnBuZyIqChJyZ2JhKDg4LDEwMSwyNDIsMCkKD3JnYig4OCwxMDEsMjQyKRUAADRD",
+                "properties": {
+                    "giftIcon": {
+                        "trinketAnimationUrl": "https://cdn.discordapp.com/assets/content/1f1aa0df3010d18eafdbcbde9f1ec7699485ea6c18e1ee8ca3e0a82b0580e35f.png",
+                        "gradient": {
+                            "colors": [
+                                "rgba(88,101,242,0)",
+                                "rgb(88,101,242)"
+                            ],
+                            "angle": 180
+                        }
+                    }
+                },
                 "start_date": null,
                 "end_date": null
             },
@@ -144,7 +194,19 @@
                 "experiment_id": null,
                 "experiment_variation_id": null,
                 "ready": true,
-                "properties": "Up0DIpQDCmNodHRwczovL2Nkbi5kaXNjb3JkYXBwLmNvbS9wcm9tb3Rpb25zL3ByZW1pdW0tbWFya2V0aW5nLzE1NTAyNDgzODE2NjA1Mjg3NDEvMTU1Mjg2Njg3MDIyOTQ3MTM1My5wbmcSY2h0dHBzOi8vY2RuLmRpc2NvcmRhcHAuY29tL3Byb21vdGlvbnMvcHJlbWl1bS1tYXJrZXRpbmcvMTU1MDI0ODM4MTY2MDUyODc0MS8xNTUyODY2ODcwMjI5NDcxMzUzLnBuZxpjaHR0cHM6Ly9jZG4uZGlzY29yZGFwcC5jb20vcHJvbW90aW9ucy9wcmVtaXVtLW1hcmtldGluZy8xNTUwMjQ4MzgxNjYwNTI4NzQxLzE1NTI4NjY4NzAyMjk0NzEzNTMucG5nImNodHRwczovL2Nkbi5kaXNjb3JkYXBwLmNvbS9wcm9tb3Rpb25zL3ByZW1pdW0tbWFya2V0aW5nLzE1NTAyNDgzODE2NjA1Mjg3NDEvMTU1Mjg2Njg3MDIyOTQ3MTM1My5wbmdqAHIAegA=",
+                "properties": {
+                    "giftPlanSelectionCardBanner": {
+                        "avatarAsset": {
+                            "lightUrl": "https://cdn.discordapp.com/promotions/premium-marketing/1550248381660528741/1552866870229471353.png",
+                            "darkUrl": "https://cdn.discordapp.com/promotions/premium-marketing/1550248381660528741/1552866870229471353.png",
+                            "lightStaticUrl": "https://cdn.discordapp.com/promotions/premium-marketing/1550248381660528741/1552866870229471353.png",
+                            "darkStaticUrl": "https://cdn.discordapp.com/promotions/premium-marketing/1550248381660528741/1552866870229471353.png"
+                        },
+                        "headerLocalized": {},
+                        "desktopBodyLocalized": {},
+                        "mobileBodyLocalized": {}
+                    }
+                },
                 "start_date": null,
                 "end_date": null
             },
@@ -160,7 +222,16 @@
                 "experiment_id": null,
                 "experiment_variation_id": null,
                 "ready": true,
-                "properties": "WpcDMpQDCmNodHRwczovL2Nkbi5kaXNjb3JkYXBwLmNvbS9wcm9tb3Rpb25zL3ByZW1pdW0tbWFya2V0aW5nLzE1NTAyNDkxMzE5NDYxNTE5NDcvMTU1Mjc3NjgwMTY4MjU5MTg0NS5wbmcSY2h0dHBzOi8vY2RuLmRpc2NvcmRhcHAuY29tL3Byb21vdGlvbnMvcHJlbWl1bS1tYXJrZXRpbmcvMTU1MDI0OTEzMTk0NjE1MTk0Ny8xNTUyNzc2ODAxNjgyNTkxODQ1LnBuZxpjaHR0cHM6Ly9jZG4uZGlzY29yZGFwcC5jb20vcHJvbW90aW9ucy9wcmVtaXVtLW1hcmtldGluZy8xNTUwMjQ5MTMxOTQ2MTUxOTQ3LzE1NTI3NzY4MDE2ODI1OTE4NDUucG5nImNodHRwczovL2Nkbi5kaXNjb3JkYXBwLmNvbS9wcm9tb3Rpb25zL3ByZW1pdW0tbWFya2V0aW5nLzE1NTAyNDkxMzE5NDYxNTE5NDcvMTU1Mjc3NjgwMTY4MjU5MTg0NS5wbmc=",
+                "properties": {
+                    "giftCustomizationBanner": {
+                        "asset": {
+                            "lightUrl": "https://cdn.discordapp.com/promotions/premium-marketing/1550249131946151947/1552776801682591845.png",
+                            "darkUrl": "https://cdn.discordapp.com/promotions/premium-marketing/1550249131946151947/1552776801682591845.png",
+                            "lightStaticUrl": "https://cdn.discordapp.com/promotions/premium-marketing/1550249131946151947/1552776801682591845.png",
+                            "darkStaticUrl": "https://cdn.discordapp.com/promotions/premium-marketing/1550249131946151947/1552776801682591845.png"
+                        }
+                    }
+                },
                 "start_date": null,
                 "end_date": null
             },
@@ -176,7 +247,89 @@
                 "experiment_id": null,
                 "experiment_variation_id": null,
                 "ready": true,
-                "properties": "Yo03EhpHaWZ0IE5pdHJvLCBnZXQgYSBmYW1pbGlhchpbRXZlcnkgd2l0Y2ggbmVlZHMgYSBmYW1pbGlhci4gR2lmdCBOaXRybyB0aGlzIEhhbGxvd2VlbiBhbmQgcGljayBhIGZyZWUgZGVjb3JhdGlvbiB0byBrZWVwLkKUAwpjaHR0cHM6Ly9jZG4uZGlzY29yZGFwcC5jb20vcHJvbW90aW9ucy9wcmVtaXVtLW1hcmtldGluZy8xNTUwMjQ4MDM4MDIxNDY4MTcxLzE1NTQ1ODk5NTQ0MTg0MDk0ODIucG5nEmNodHRwczovL2Nkbi5kaXNjb3JkYXBwLmNvbS9wcm9tb3Rpb25zL3ByZW1pdW0tbWFya2V0aW5nLzE1NTAyNDgwMzgwMjE0NjgxNzEvMTU1NDU4OTk1NDQxODQwOTQ4Mi5wbmcaY2h0dHBzOi8vY2RuLmRpc2NvcmRhcHAuY29tL3Byb21vdGlvbnMvcHJlbWl1bS1tYXJrZXRpbmcvMTU1MDI0ODAzODAyMTQ2ODE3MS8xNTU0MjA3NDE3MjQyNDg0NzQ2LnBuZyJjaHR0cHM6Ly9jZG4uZGlzY29yZGFwcC5jb20vcHJvbW90aW9ucy9wcmVtaXVtLW1hcmtldGluZy8xNTUwMjQ4MDM4MDIxNDY4MTcxLzE1NTQyMDc0MTcyNDI0ODQ3NDYucG5nUvUMChpHaWZ0IE5pdHJvLCBnZXQgYSBmYW1pbGlhchIoCgJwbBIiUG9kYXJ1aiBOaXRybywgemRvYsSFZMW6IGNob3dhxYRjYRImCgJmchIgT2ZmcmUgTml0cm8sIHJlw6dvaXMgdW4gZmFtaWxpZXISMQoCbHQSK1BhZG92YW5vayBOaXRybyDigJMgdGFwayByYWdhbm9zIHBhZMSXasSXanUSJwoCY3MSIURhcnVqIE5pdHJvLCB6w61za2VqIHNwb2xlxI1uw61rYRI5CgJkZRIzVmVyc2NoZW5rZSBOaXRybywgZXJoYWx0ZSBlaW5lbiBtYWdpc2NoZW4gQmVnbGVpdGVyEi0KBXpoLUNOEiTotaDpgIEgTml0cm/vvIzojrflvpfnhp/mgonnmoTkvJnkvLQSIwoFZW4tR0ISGkdpZnQgTml0cm8sIGdldCBhIGZhbWlsaWFyEjMKAnZpEi1U4bq3bmcgTml0cm8sIG5o4bqtbiBt4buZdCB0aOG7qSBxdWVuIHRodeG7mWMSaAoCdGgSYuC4oeC4reC4miBOaXRybyDguYDguJvguYfguJnguILguK3guIfguILguKfguLHguI0g4LmB4Lil4Liw4Lij4Lix4Lia4Liq4Lix4LiV4Lin4LmM4LiE4Li54LmI4LmD4LiIEjUKBXN2LVNFEixHZSBuw6Vnb24gTml0cm8sIGbDpSBlbiBtYWdpc2sgZsO2bGplc2xhZ2FyZRJMCgJiZxJG0J/QvtC00LDRgNC4IE5pdHJvLCDQv9C+0LvRg9GH0Lgg0LzQsNCz0LjRh9C10YHQutC4INC00L7QstC10YDQtdC90LjQuhJICgJlbBJCzprOrM69zrUgzrTPjs+Bzr8gz4TOvyBOaXRybywgzrHPgM+MzrrPhM63z4POtSDOrc69zrHOvSDOss6/zrfOuM+MEkYKAmhpEkBOaXRybyDgpJfgpL/gpKvgpLzgpY3gpJ8g4KSV4KSw4KWH4KSCLCDgpIngpLjgpYcg4KS44KSu4KSd4KWH4KSCEi8KAmRhEilHaXYgTml0cm8gc29tIGdhdmUsIG9nIGbDpSBlbiBmw7hsZ2VzdmVuZBJPCgJ1axJJ0J/QvtC00LDRgNGD0LnRgtC1IERpc2NvcmQgTml0cm8g0Lkg0L7RgtGA0LjQvNCw0LnRgtC1INGE0LDQvNGW0LvRjNGP0YDQsBImCgJpdBIgUmVnYWxhIE5pdHJvLCByaWNldmkgdW4gZmFtaWdsaW8SNQoGZXMtNDE5EitSZWdhbGEgTml0cm8geSBjb25zaWd1ZSB1bmEgbWFzY290YSBtw6FnaWNhEjgKAmphEjJOaXRyb+OCkui0iOOBo+OBpuOAgeS9v+OBhOmtlOOCkuaJi+OBq+WFpeOCjOOCiOOBhhIhCgV6aC1UVxIY6LSI6YCBIE5pdHJv77yM6YCB5L2/6a2UEj4KAmh1EjhOaXRybyBhasOhbmTDqWtvesOhc8OhdmFsIGJlc3plcmV6aGV0c3ogZWd5IGZhbWlsacOhcmlzdBIjCgJubxIdR2kgTml0cm8gaSBnYXZlLCBmw6Ugbm9lIGZpbnQSNQoCa28SL05pdHJv66W8IOyEoOusvO2VmOqzoCDsgqzsl63rp4jrpbwg67Cb7Jy87IS47JqUEi8KAnJvEilJYS3Im2kgTml0cm8gyJlpIHByaW1lyJl0aSB1biDDrm5zb8ibaXRvchInCgJochIhRGFydWogTml0cm8gaSBkb2JpdmHFoSBwb21vxIduaWthEkwKAnJ1EkbQn9C+0LTQsNGA0LjRgtC1IE5pdHJvINC4INC/0L7Qu9GD0YfQuNGC0LUg0LTRg9GF0LAt0L/QvtC80L7RidC90LjQutCwEjQKAnRyEi5OaXRybyBoZWRpeWUgZWRlcmVrIGJpciBiw7x5w7xsw7wgaGF5dmFuIGthemFuEiUKAmZpEh9MYWhqb2l0YSBOaXRybywgc2FhdCBhcHVvbGVubm9uEisKBWVzLUVTEiJSZWdhbGEgTml0cm8sIGNvbnNpZ3VlIHVuIGZhbWlsaWFyEiYKAm5sEiBHZWVmIE5pdHJvIGVuIG9udHZhbmcgZWVuIGh1bHBqZRIwCgVwdC1CUhInUHJlc2VudGVpZSBvIE5pdHJvIGUgcmVjZWJhIHVtIGZhbWlsaWFyWoAmCltFdmVyeSB3aXRjaCBuZWVkcyBhIGZhbWlsaWFyLiBHaWZ0IE5pdHJvIHRoaXMgSGFsbG93ZWVuIGFuZCBwaWNrIGEgZnJlZSBkZWNvcmF0aW9uIHRvIGtlZXAuEnEKAnBsEmtLYcW8ZGEgd2llZMW6bWEgcG90cnplYnVqZSBjaG93YcWEY2EuIFBvZGFydWogTml0cm8gdyB0ZSBIYWxsb3dlZW4gaSB3eWJpZXJ6IGRhcm1vd8SFIGRla29yYWNqxJkgbmEgc3RhxYJlLhJ4CgJmchJyQ2hhcXVlIHNvcmNpw6hyZSBhIGJlc29pbiBkJ3VuIGZhbWlsaWVyLiBPZmZyZSBOaXRybyBwb3VyIEhhbGxvd2VlbiBldCBjaG9pc2lzIHVuZSBkw6ljb3JhdGlvbiBncmF0dWl0ZSDDoCBnYXJkZXIuEowBCgJsdBKFAUtpZWt2aWVuYWkgcmFnYW5haSByZWlraWEgcGFkxJdqxJdqby4gUGVyIMWhxK8gSGVsb3Z5bsSFIHBhZG92YW5vayBOaXRybyBpciBpxaFzaXJpbmsgbmVtb2thbcSFIHBhcHVvxaFpbcSFLCBrdXLEryBnYWzEl3NpIHBhc2lsaWt0aS4SigEKAmNzEoMBS2HFvmTDoSDEjWFyb2TEm2puw6EgYnl0b3N0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u9C70L7Rg9C40L0g0Lgg0LLRi9Cx0LXRgNC40YLQtSDRgdC10LHQtSDQsdC10YHQv9C70LDRgtC90L7QtSDRg9C60YDQsNGI0LXQvdC40LUuEpUBCgJ0chKOAUhlciBjYWTEsW7EsW4gYsO8ecO8bMO8IGJpciBoYXl2YW5hIGlodGl5YWPEsSB2YXJkxLFyLiBCdSBDYWTEsWxhciBCYXlyYW3EsSduZGEgTml0cm8gaGVkaXllIGV0IHZlIHNlbmluIG9sYWNhayDDvGNyZXRzaXogYmlyIGRla29yYXN5b24gc2XDpy4SfAoCZmkSdkpva2FpbmVuIG5vaXRhIHRhcnZpdHNlZSBhcHVvbGVubm9uLiBMYWhqb2l0YSBOaXRybyBoYWxsb3dlZW5pbiBhaWthbmEsIG5paW4gdm9pdCB2YWxpdGEgaWxtYWlzZW4ga29yaXN0ZWVuIGl0c2VsbGVzaS4SdgoFZXMtRVMSbVRvZGEgYnJ1amEgbmVjZXNpdGEgdW4gZmFtaWxpYXIuIFJlZ2FsYSBOaXRybyBlc3RlIEhhbGxvd2VlbiB5IGVsaWdlIHVuYSBkZWNvcmFjacOzbiBncmF0aXMgcGFyYSBxdWVkw6FydGVsYS4ShQEKBXB0LUJSEnxUb2RhIGJydXhhIHByZWNpc2EgZGUgdW0gY29tcGFuaGVpcm8uIFByZXNlbnRlaWUgbyBOaXRybyBwYXJhIG8gRGlhIGRhcyBCcnV4YXMgZSBlc2NvbGhhIHVtYSBkZWNvcmHDp8OjbyBncsOhdGlzIHBhcmEgdm9jw6ouEogBCgJubBKBAUVsa2UgaGVrcyBoZWVmdCBlZW4gaHVscGplIG5vZGlnLiBHZWVmIGVlbiBOaXRyby1hYm9ubmVtZW50IGNhZGVhdSBtZXQgSGFsbG93ZWVuIGVuIGtpZXMgZWVuIGdyYXRpcyB2ZXJzaWVyaW5nIGRpZSBqZSBtYWcgaG91ZGVuLmIA",
+                "properties": {
+                    "billingSettingsNitroGiftBanner": {
+                        "header": "Gift Nitro, get a familiar",
+                        "body": "Every witch needs a familiar. Gift Nitro this Halloween and pick a free decoration to keep.",
+                        "asset": {
+                            "lightUrl": "https://cdn.discordapp.com/promotions/premium-marketing/1550248038021468171/1554589954418409482.png",
+                            "darkUrl": "https://cdn.discordapp.com/promotions/premium-marketing/1550248038021468171/1554589954418409482.png",
+                            "lightStaticUrl": "https://cdn.discordapp.com/promotions/premium-marketing/1550248038021468171/1554207417242484746.png",
+                            "darkStaticUrl": "https://cdn.discordapp.com/promotions/premium-marketing/1550248038021468171/1554207417242484746.png"
+                        },
+                        "headerLocalized": {
+                            "default": "Gift Nitro, get a familiar",
+                            "localizations": {
+                                "pl": "Podaruj Nitro, zdobądź chowańca",
+                                "fr": "Offre Nitro, reçois un familier",
+                                "lt": "Padovanok Nitro – tapk raganos padėjėju",
+                                "cs": "Daruj Nitro, získej společníka",
+                                "de": "Verschenke Nitro, erhalte einen magischen Begleiter",
+                                "zh-CN": "赠送 Nitro，获得熟悉的伙伴",
+                                "en-GB": "Gift Nitro, get a familiar",
+                                "vi": "Tặng Nitro, nhận một thứ quen thuộc",
+                                "th": "มอบ Nitro เป็นของขวัญ และรับสัตว์คู่ใจ",
+                                "sv-SE": "Ge någon Nitro, få en magisk följeslagare",
+                                "bg": "Подари Nitro, получи магически довереник",
+                                "el": "Κάνε δώρο το Nitro, απόκτησε έναν βοηθό",
+                                "hi": "Nitro गिफ़्ट करें, उसे समझें",
+                                "da": "Giv Nitro som gave, og få en følgesvend",
+                                "uk": "Подаруйте Discord Nitro й отримайте фамільяра",
+                                "it": "Regala Nitro, ricevi un famiglio",
+                                "es-419": "Regala Nitro y consigue una mascota mágica",
+                                "ja": "Nitroを贈って、使い魔を手に入れよう",
+                                "zh-TW": "贈送 Nitro，送使魔",
+                                "hu": "Nitro ajándékozásával beszerezhetsz egy familiárist",
+                                "no": "Gi Nitro i gave, få noe fint",
+                                "ko": "Nitro를 선물하고 사역마를 받으세요",
+                                "ro": "Ia-ți Nitro și primești un însoțitor",
+                                "hr": "Daruj Nitro i dobivaš pomoćnika",
+                                "ru": "Подарите Nitro и получите духа-помощника",
+                                "tr": "Nitro hediye ederek bir büyülü hayvan kazan",
+                                "fi": "Lahjoita Nitro, saat apuolennon",
+                                "es-ES": "Regala Nitro, consigue un familiar",
+                                "nl": "Geef Nitro en ontvang een hulpje",
+                                "pt-BR": "Presenteie o Nitro e receba um familiar"
+                            }
+                        },
+                        "bodyLocalized": {
+                            "default": "Every witch needs a familiar. Gift Nitro this Halloween and pick a free decoration to keep.",
+                            "localizations": {
+                                "pl": "Każda wiedźma potrzebuje chowańca. Podaruj Nitro w te Halloween i wybierz darmową dekorację na stałe.",
+                                "fr": "Chaque sorcière a besoin d'un familier. Offre Nitro pour Halloween et choisis une décoration gratuite à garder.",
+                                "lt": "Kiekvienai raganai reikia padėjėjo. Per šį Helovyną padovanok Nitro ir išsirink nemokamą papuošimą, kurį galėsi pasilikti.",
+                                "cs": "Každá čarodějná bytost potřebuje společníka. Daruj o tomto halloweenu Nitro a vyber si zdarma vzhled, který ti zůstane.",
+                                "de": "Jede Hexe braucht ihren magischen Begleiter. Verschenke dieses Halloween Nitro und wähle eine kostenlose Dekoration zum Behalten.",
+                                "zh-CN": "每个女巫都需要一个伙伴。万圣节期间赠送 Nitro，即可挑选一件免费装饰保留。",
+                                "en-GB": "Every witch needs a familiar. Gift Nitro this Halloween and pick a free decoration to keep.",
+                                "vi": "Mọi phù thủy đều cần một bạn đồng hành. Hãy tặng Nitro trong Halloween này và chọn một vật phẩm trang trí để sở hữu miễn phí.",
+                                "th": "แม่มดทุกคนต้องมีสัตว์คู่ใจ มอบ Nitro เป็นของขวัญในฮาโลวีนนี้ แล้วเลือกของตกแต่งฟรีหนึ่งชิ้นเพื่อเก็บไว้",
+                                "sv-SE": "Varje häxa behöver en magisk följeslagare. Ge någon Nitro under halloween och välj en gratis avatardekoration som du får behålla.",
+                                "bg": "Всяка вещица се нуждае от магически довереник. Подари Nitro за Хелоуин и избери безплатна декорация, която да запазиш.",
+                                "el": "Κάθε μάγισσα χρειάζεται έναν βοηθό. Κάνε δώρο το Nitro αυτό το Halloween και διάλεξε μια δωρεάν διακόσμηση για να κρατήσεις για πάντα.",
+                                "hi": "हर चुड़ैल को एक साथी की ज़रूरत होती है. इस हैलोवीन में Nitro गिफ़्ट करें और अपने पास रखने के लिए एक फ़्री डेकोरेशन चुनें.",
+                                "da": "Enhver heks har brug for en følgesvend. Giv Nitro som gave denne Halloween, og vælg en gratis dekoration, du kan beholde.",
+                                "it": "Ogni strega ha bisogno di un famiglio. Regala Nitro questo Halloween e scegli una decorazione gratis da tenere.",
+                                "uk": "Кожній відьмі потрібен фамільяр. Подаруйте Discord Nitro на Гелловін і заберіть собі безкоштовну прикрасу.",
+                                "es-419": "Toda bruja necesita una mascota mágica. Regala Nitro este Halloween y elige gratis una decoración que podrás conservar en tu colección.",
+                                "hu": "Minden boszorkánynak szüksége van egy familiárisra. Ha Nitrót adsz ajándékba az idei halloween alkalmából, választhatsz egy megőrizhető, ingyenes dekorációt.",
+                                "zh-TW": "每位女巫都需要使魔相伴。今年萬聖節，贈送 Nitro 訂閱即可免費挑選一個裝飾。",
+                                "ja": "すべての魔女には使い魔が必要だよね。このハロウィンにNitroを贈ると、ずっと使える無料デコレーションを1つ選べます。",
+                                "no": "Alle hekser trenger gode venner. Gi Nitro i gave til halloween og velg en gratis dekorasjon du får til odel og eie.",
+                                "ko": "마녀에게는 사역마가 필요한 법이죠. 이번 핼러윈에 Nitro를 선물하고 영구적으로 소장할 무료 장식을 선택하세요.",
+                                "ro": "Orice vrăjitoare are nevoie de un însoțitor. Dăruiește Nitro de Halloween și alege-ți o decorațiune gratuită pe care s-o păstrezi.",
+                                "hr": "Svakoj vještici treba pomoćnik. Daruj Nitro ove Noći vještica i odaberi besplatni ukras koji ćeš zadržati.",
+                                "ru": "Каждой ведьме необходим дух-помощник. Подарите Nitro на Хэллоуин и выберите себе бесплатное украшение.",
+                                "tr": "Her cadının büyülü bir hayvana ihtiyacı vardır. Bu Cadılar Bayramı'nda Nitro hediye et ve senin olacak ücretsiz bir dekorasyon seç.",
+                                "fi": "Jokainen noita tarvitsee apuolennon. Lahjoita Nitro halloweenin aikana, niin voit valita ilmaisen koristeen itsellesi.",
+                                "es-ES": "Toda bruja necesita un familiar. Regala Nitro este Halloween y elige una decoración gratis para quedártela.",
+                                "pt-BR": "Toda bruxa precisa de um companheiro. Presenteie o Nitro para o Dia das Bruxas e escolha uma decoração grátis para você.",
+                                "nl": "Elke heks heeft een hulpje nodig. Geef een Nitro-abonnement cadeau met Halloween en kies een gratis versiering die je mag houden."
+                            }
+                        },
+                        "additionalTermsLocalized": {}
+                    }
+                },
                 "start_date": null,
                 "end_date": null
             },
@@ -192,7 +345,88 @@
                 "experiment_id": null,
                 "experiment_variation_id": null,
                 "ready": true,
-                "properties": "SvYsChpHaWZ0IE5pdHJvLCBnZXQgYSBmYW1pbGlhchJER2lmdCBOaXRybyB0aGlzIEhhbGxvd2VlbiBhbmQgcGljayBhIGZyZWUgYXZhdGFyIGRlY29yYXRpb24gdG8ga2VlcC4ilAMKY2h0dHBzOi8vY2RuLmRpc2NvcmRhcHAuY29tL3Byb21vdGlvbnMvcHJlbWl1bS1tYXJrZXRpbmcvMTU1MDI0NzQ2NjQyOTg0MTQ4Mi8xNTU0NTkwMjY0ODUxNTcwNzQ4LnBuZxJjaHR0cHM6Ly9jZG4uZGlzY29yZGFwcC5jb20vcHJvbW90aW9ucy9wcmVtaXVtLW1hcmtldGluZy8xNTUwMjQ3NDY2NDI5ODQxNDgyLzE1NTQ1OTAyNjQ4NTE1NzA3NDgucG5nGmNodHRwczovL2Nkbi5kaXNjb3JkYXBwLmNvbS9wcm9tb3Rpb25zL3ByZW1pdW0tbWFya2V0aW5nLzE1NTAyNDc0NjY0Mjk4NDE0ODIvMTU1NDIwNzQ5ODg3NjIyNzU5NS5wbmciY2h0dHBzOi8vY2RuLmRpc2NvcmRhcHAuY29tL3Byb21vdGlvbnMvcHJlbWl1bS1tYXJrZXRpbmcvMTU1MDI0NzQ2NjQyOTg0MTQ4Mi8xNTU0MjA3NDk4ODc2MjI3NTk1LnBuZyr1DAoaR2lmdCBOaXRybywgZ2V0IGEgZmFtaWxpYXISKAoCcGwSIlBvZGFydWogTml0cm8sIHpkb2LEhWTFuiBjaG93YcWEY2ESJgoCZnISIE9mZnJlIE5pdHJvLCByZcOnb2lzIHVuIGZhbWlsaWVyEjEKAmx0EitQYWRvdmFub2sgTml0cm8g4oCTIHRhcGsgcmFnYW5vcyBwYWTEl2rEl2p1EicKAmNzEiFEYXJ1aiBOaXRybywgesOtc2tlaiBzcG9sZcSNbsOta2ESOQoCZGUSM1ZlcnNjaGVua2UgTml0cm8sIGVyaGFsdGUgZWluZW4gbWFnaXNjaGVuIEJlZ2xlaXRlchItCgV6aC1DThIk6LWg6YCBIE5pdHJv77yM6I635b6X54af5oKJ55qE5LyZ5Ly0EiMKBWVuLUdCEhpHaWZ0IE5pdHJvLCBnZXQgYSBmYW1pbGlhchIzCgJ2aRItVOG6t25nIE5pdHJvLCBuaOG6rW4gbeG7mXQgdGjhu6kgcXVlbiB0aHXhu5ljEmgKAnRoEmLguKHguK3guJogTml0cm8g4LmA4Lib4LmH4LiZ4LiC4Lit4LiH4LiC4Lin4Lix4LiNIOC5geC4peC4sOC4o+C4seC4muC4quC4seC4leC4p+C5jOC4hOC4ueC5iOC5g+C4iBI1CgVzdi1TRRIsR2UgbsOlZ29uIE5pdHJvLCBmw6UgZW4gbWFnaXNrIGbDtmxqZXNsYWdhcmUSTAoCYmcSRtCf0L7QtNCw0YDQuCBOaXRybywg0L/QvtC70YPRh9C4INC80LDQs9C40YfQtdGB0LrQuCDQtNC+0LLQtdGA0LXQvdC40LoSSAoCZWwSQs6azqzOvc61IM60z47Pgc6/IM+Ezr8gTml0cm8sIM6xz4DPjM66z4TOt8+DzrUgzq3Ovc6xzr0gzrLOv863zrjPjBJGCgJoaRJATml0cm8g4KSX4KS/4KSr4KS84KWN4KSfIOCkleCksOClh+Ckgiwg4KSJ4KS44KWHIOCkuOCkruCkneClh+CkghIvCgJkYRIpR2l2IE5pdHJvIHNvbSBnYXZlLCBvZyBmw6UgZW4gZsO4bGdlc3ZlbmQSTwoCdWsSSdCf0L7QtNCw0YDRg9C50YLQtSBEaXNjb3JkIE5pdHJvINC5INC+0YLRgNC40LzQsNC50YLQtSDRhNCw0LzRltC70YzRj9GA0LASJgoCaXQSIFJlZ2FsYSBOaXRybywgcmljZXZpIHVuIGZhbWlnbGlvEjUKBmVzLTQxORIrUmVnYWxhIE5pdHJvIHkgY29uc2lndWUgdW5hIG1hc2NvdGEgbcOhZ2ljYRI4CgJqYRIyTml0cm/jgpLotIjjgaPjgabjgIHkvb/jgYTprZTjgpLmiYvjgavlhaXjgozjgojjgYYSIQoFemgtVFcSGOi0iOmAgSBOaXRyb++8jOmAgeS9v+mtlBI+CgJodRI4Tml0cm8gYWrDoW5kw6lrb3rDoXPDoXZhbCBiZXN6ZXJlemhldHN6IGVneSBmYW1pbGnDoXJpc3QSIwoCbm8SHUdpIE5pdHJvIGkgZ2F2ZSwgZsOlIG5vZSBmaW50EjUKAmtvEi9OaXRyb+ulvCDshKDrrLztlZjqs6Ag7IKs7Jet66eI66W8IOuwm+ycvOyEuOyalBIvCgJybxIpSWEtyJtpIE5pdHJvIMiZaSBwcmltZciZdGkgdW4gw65uc2/Im2l0b3ISJwoCaHISIURhcnVqIE5pdHJvIGkgZG9iaXZhxaEgcG9tb8SHbmlrYRJMCgJydRJG0J/QvtC00LDRgNC40YLQtSBOaXRybyDQuCDQv9C+0LvRg9GH0LjRgtC1INC00YPRhdCwLdC/0L7QvNC+0YnQvdC40LrQsBI0CgJ0chIuTml0cm8gaGVkaXllIGVkZXJlayBiaXIgYsO8ecO8bMO8IGhheXZhbiBrYXphbhIlCgJmaRIfTGFoam9pdGEgTml0cm8sIHNhYXQgYXB1b2xlbm5vbhIrCgVlcy1FUxIiUmVnYWxhIE5pdHJvLCBjb25zaWd1ZSB1biBmYW1pbGlhchImCgJubBIgR2VlZiBOaXRybyBlbiBvbnR2YW5nIGVlbiBodWxwamUSMAoFcHQtQlISJ1ByZXNlbnRlaWUgbyBOaXRybyBlIHJlY2ViYSB1bSBmYW1pbGlhcjKCHApER2lmdCBOaXRybyB0aGlzIEhhbGxvd2VlbiBhbmQgcGljayBhIGZyZWUgYXZhdGFyIGRlY29yYXRpb24gdG8ga2VlcC4SUwoCcGwSTVBvZGFydWogTml0cm8gdyB0byBIYWxsb3dlZW4gaSB3eWJpZXJ6IGRhcm1vd8SFIGRla29yYWNqxJkgYXdhdGFyYSBuYSBzdGHFgmUuElgKAmZyElJPZmZyZSBOaXRybyBwb3VyIEhhbGxvd2VlbiBldCBjaG9pc2lzIHVuZSBkw6ljb3JhdGlvbiBkJ2F2YXRhciBncmF0dWl0ZSDDoCBnYXJkZXIuEmUKAmx0El9QZXIgxaHEryBIZWxvdnluxIUgcGFkb3Zhbm9rIE5pdHJvIGlyIGnFoXNpcmluayBuZW1va2FtxIUgcGFwdW/FoWltxIUsIGt1csSvIGdhbMSXc2kgcGFzaWxpa3RpLhJhCgJjcxJbUG/FmWnEjyBzaSBvwqB0b210byBoYWxsb3dlZW51IE5pdHJvIGHCoHZ5YmVyIHNpIHpkYXJtYSB2emhsZWQgYXZhdGFydSwga3RlcsO9IHRpIHrFr3N0YW5lLhJhCgJkZRJbVmVyc2NoZW5rZSBkaWVzZXMgSGFsbG93ZWVuIE5pdHJvIHVuZCB3w6RobGUgZWluZSBrb3N0ZW5sb3NlIEF2YXRhcmRla29yYXRpb24g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gumWseWNs+WPr+WFjeiyu+aMkemBuOS4gOWAi+mgreWDj+ijnemjvuOAghKEAQoCaHUSfkhhIE5pdHLDs3QgYWRzeiBhasOhbmTDqWtiYSBheiBpZGVpIGhhbGxvd2VlbiBhbGthbG3DoWLDs2wsIHbDoWxhc3p0aGF0c3ogZWd5IG1lZ8WRcml6aGV0xZEsIGluZ3llbmVzIHByb2ZpbGvDqXAtZGVrb3LDoWNpw7N0LhJfCgJubxJZR2kgTml0cm8gaSBnYXZlIHRpbCBoYWxsb3dlZW4gb2cgdmVsZyBlbiBncmF0aXMgYXZhdGFyZGVrb3Jhc2pvbiBkdSBmw6VyIHRpbCBvZGVsIG9nIGVpZS4SdQoCa28Sb+ydtOuyiCDtlbzrn6zsnIjsl5AgTml0cm/rpbwg7ISg66y87ZWY6rOgIOyYgeq1rOyggeycvOuhnCDshozsnqXtlaAg66y066OMIOyVhOuwlO2DgCDsnqXsi53snYQg7ISg7YOd7ZWY7IS47JqULhJwCgJybxJqRMSDcnVpZciZdGUgTml0cm8gZGUgSGFsbG93ZWVuIMiZaSBhbGVnZS3Im2kgbyBkZWNvcmHIm2l1bmUgcGVudHJ1IGF2YXRhciBncmF0dWl0xIMgcGUgY2FyZSBzLW8gcMSDc3RyZXppLhJdCgJochJXRGFydWogTml0cm8gb3ZlIE5vxIdpIHZqZcWhdGljYSBpIG9kYWJlcmkgYmVzcGxhdG5pIHVrcmFzIGF2YXRhcmEga29qaSDEh2XFoSB6YWRyxb5hdGkuEogBCgJydRKBAdCf0L7QtNCw0YDQuNGC0LUgTml0cm8g0L3QsCDQpdGN0LvQu9C+0YPQuNC9INC4INCy0YvQsdC10YDQuNGC0LUg0YHQtdCx0LUg0LHQtdGB0L/Qu9Cw0YLQvdC+0LUg0YPQutGA0LDRiNC10L3QuNC1INCw0LLQsNGC0LDRgNCwLhJlCgJ0chJfQnUgQ2FkxLFsYXIgQmF5cmFtxLEnbmRhIE5pdHJvIGhlZGl5ZSBldCB2ZSBzZW5pbiBvbGFjYWsgw7xjcmV0c2l6IGJpciBhdmF0YXIgZGVrb3Jhc3lvbnUgc2XDpy4SXgoCZmkSWExhaGpvaXRhIE5pdHJvIGhhbGxvd2VlbmluIGFpa2FuYSwgbmlpbiB2b2l0IHZhbGl0YSBpbG1haXNlbiBhdmF0YXIta29yaXN0ZWVuIGl0c2VsbGVzaS4SXwoFZXMtRVMSVlJlZ2FsYSBOaXRybyBlc3RlIEhhbGxvd2VlbiB5IGVsaWdlIHVuYSBkZWNvcmFjacOzbiBkZSBhdmF0YXIgZ3JhdGlzIHBhcmEgcXVlZMOhcnRlbGEuEmgKBXB0LUJSEl9QcmVzZW50ZWllIG8gTml0cm8gbmVzdGUgRGlhIGRhcyBCcnV4YXMgZSBlc2NvbGhhIHVtYSBkZWNvcmHDp8OjbyBkZSBhdmF0YXIgZ3LDoXRpcyBwYXJhIHZvY8OqLhJrCgJubBJlR2VlZiBlZW4gTml0cm8tYWJvbm5lbWVudCBjYWRlYXUgbWV0IEhhbGxvd2VlbiBlbiBraWVzIGVlbiBncmF0aXMgYXZhdGFydmVyc2llcmluZyBkaWUgamUgbWFnIGhvdWRlbi4=",
+                "properties": {
+                    "giftIconCoachmark": {
+                        "header": "Gift Nitro, get a familiar",
+                        "body": "Gift Nitro this Halloween and pick a free avatar decoration to keep.",
+                        "asset": {
+                            "lightUrl": "https://cdn.discordapp.com/promotions/premium-marketing/1550247466429841482/1554590264851570748.png",
+                            "darkUrl": "https://cdn.discordapp.com/promotions/premium-marketing/1550247466429841482/1554590264851570748.png",
+                            "lightStaticUrl": "https://cdn.discordapp.com/promotions/premium-marketing/1550247466429841482/1554207498876227595.png",
+                            "darkStaticUrl": "https://cdn.discordapp.com/promotions/premium-marketing/1550247466429841482/1554207498876227595.png"
+                        },
+                        "headerLocalized": {
+                            "default": "Gift Nitro, get a familiar",
+                            "localizations": {
+                                "pl": "Podaruj Nitro, zdobądź chowańca",
+                                "fr": "Offre Nitro, reçois un familier",
+                                "lt": "Padovanok Nitro – tapk raganos padėjėju",
+                                "cs": "Daruj Nitro, získej společníka",
+                                "de": "Verschenke Nitro, erhalte einen magischen Begleiter",
+                                "zh-CN": "赠送 Nitro，获得熟悉的伙伴",
+                                "en-GB": "Gift Nitro, get a familiar",
+                                "vi": "Tặng Nitro, nhận một thứ quen thuộc",
+                                "th": "มอบ Nitro เป็นของขวัญ และรับสัตว์คู่ใจ",
+                                "sv-SE": "Ge någon Nitro, få en magisk följeslagare",
+                                "bg": "Подари Nitro, получи магически довереник",
+                                "el": "Κάνε δώρο το Nitro, απόκτησε έναν βοηθό",
+                                "hi": "Nitro गिफ़्ट करें, उसे समझें",
+                                "da": "Giv Nitro som gave, og få en følgesvend",
+                                "uk": "Подаруйте Discord Nitro й отримайте фамільяра",
+                                "it": "Regala Nitro, ricevi un famiglio",
+                                "es-419": "Regala Nitro y consigue una mascota mágica",
+                                "ja": "Nitroを贈って、使い魔を手に入れよう",
+                                "zh-TW": "贈送 Nitro，送使魔",
+                                "hu": "Nitro ajándékozásával beszerezhetsz egy familiárist",
+                                "no": "Gi Nitro i gave, få noe fint",
+                                "ko": "Nitro를 선물하고 사역마를 받으세요",
+                                "ro": "Ia-ți Nitro și primești un însoțitor",
+                                "hr": "Daruj Nitro i dobivaš pomoćnika",
+                                "ru": "Подарите Nitro и получите духа-помощника",
+                                "tr": "Nitro hediye ederek bir büyülü hayvan kazan",
+                                "fi": "Lahjoita Nitro, saat apuolennon",
+                                "es-ES": "Regala Nitro, consigue un familiar",
+                                "nl": "Geef Nitro en ontvang een hulpje",
+                                "pt-BR": "Presenteie o Nitro e receba um familiar"
+                            }
+                        },
+                        "bodyLocalized": {
+                            "default": "Gift Nitro this Halloween and pick a free avatar decoration to keep.",
+                            "localizations": {
+                                "pl": "Podaruj Nitro w to Halloween i wybierz darmową dekorację awatara na stałe.",
+                                "fr": "Offre Nitro pour Halloween et choisis une décoration d'avatar gratuite à garder.",
+                                "lt": "Per šį Helovyną padovanok Nitro ir išsirink nemokamą papuošimą, kurį galėsi pasilikti.",
+                                "cs": "Pořiď si o tomto halloweenu Nitro a vyber si zdarma vzhled avataru, který ti zůstane.",
+                                "de": "Verschenke dieses Halloween Nitro und wähle eine kostenlose Avatardekoration zum Behalten.",
+                                "zh-CN": "万圣节期间赠送 Nitro，即可挑选一件免费头像装饰保留。",
+                                "en-GB": "Gift Nitro this Halloween and pick a free avatar decoration to keep.",
+                                "vi": "Tặng Nitro trong mùa Halloween này và chọn một trang trí ảnh đại diện để sở hữu miễn phí.",
+                                "th": "มอบ Nitro เป็นของขวัญในฮาโลวีนนี้ แล้วเลือกของตกแต่งอวาตาร์ฟรีหนึ่งชิ้นเพื่อเก็บไว้",
+                                "sv-SE": "Ge någon Nitro under halloween och välj en gratis avatardekoration som du får behålla.",
+                                "bg": "Подари Nitro този Хелоуин и избери безплатна декорация за аватар, която да запазиш.",
+                                "el": "Κάνε δώρο το Nitro αυτό το Halloween και διάλεξε μια δωρεάν διακόσμηση άβαταρ για να κρατήσεις για πάντα.",
+                                "hi": "इस हैलोवीन Nitro गिफ़्ट करें और रखने के लिए फ़्री अवतार डेकोरेशन पाएं.",
+                                "da": "Giv Nitro som gave denne Halloween, og vælg en gratis avatardekoration, du kan beholde.",
+                                "it": "Regala Nitro questo Halloween e scegli una decorazione avatar gratis da tenere.",
+                                "uk": "Подаруйте Discord Nitro на Гелловін і заберіть собі безкоштовну прикрасу аватара.",
+                                "es-419": "Regala Nitro este Halloween y elige gratis una decoración de avatar que podrás conservar en tu colección.",
+                                "hu": "Ha Nitrót adsz ajándékba az idei halloween alkalmából, választhatsz egy megőrizhető, ingyenes profilkép-dekorációt.",
+                                "zh-TW": "今年萬聖節，贈送 Nitro 訂閱即可免費挑選一個頭像裝飾。",
+                                "ja": "このハロウィンにNitroを贈ると、ずっと使える無料アバターデコレーションを1つ選べます。",
+                                "no": "Gi Nitro i gave til halloween og velg en gratis avatardekorasjon du får til odel og eie.",
+                                "ko": "이번 핼러윈에 Nitro를 선물하고 영구적으로 소장할 무료 아바타 장식을 선택하세요.",
+                                "ro": "Dăruiește Nitro de Halloween și alege-ți o decorațiune pentru avatar gratuită pe care s-o păstrezi.",
+                                "hr": "Daruj Nitro ove Noći vještica i odaberi besplatni ukras avatara koji ćeš zadržati.",
+                                "ru": "Подарите Nitro на Хэллоуин и выберите себе бесплатное украшение аватара.",
+                                "tr": "Bu Cadılar Bayramı'nda Nitro hediye et ve senin olacak ücretsiz bir avatar dekorasyonu seç.",
+                                "fi": "Lahjoita Nitro halloweenin aikana, niin voit valita ilmaisen avatar-koristeen itsellesi.",
+                                "es-ES": "Regala Nitro este Halloween y elige una decoración de avatar gratis para quedártela.",
+                                "pt-BR": "Presenteie o Nitro neste Dia das Bruxas e escolha uma decoração de avatar grátis para você.",
+                                "nl": "Geef een Nitro-abonnement cadeau met Halloween en kies een gratis avatarversiering die je mag houden."
+                            }
+                        }
+                    }
+                },
                 "start_date": null,
                 "end_date": null
             }
@@ -214,7 +448,7 @@
                 "localization": {
                     "status": 2,
                     "requested_at": null,
-                    "synced_at": "2026-10-05T21:00:51.307827+00:00"
+                    "synced_at": "2026-10-06T04:00:15.745325+00:00"
                 },
                 "reward_config": null,
                 "is_custom_experiment": false
