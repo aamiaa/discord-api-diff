@@ -122375,5 +122375,272 @@
                 "button_label": "Play Now"
             }
         }
+    },
+    {
+        "id": "1557057421417914388",
+        "config": {
+            "id": "1557057421417914388",
+            "config_version": 2,
+            "starts_at": "2026-10-06T17:00:00+00:00",
+            "expires_at": "2026-10-13T00:00:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://www.monopolygo.com/",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1557057421417914388/1557065932893847623.jpg",
+                "hero_video": "quests/1557057421417914388/1557065898186252348.mp4",
+                "quest_bar_hero_blurhash": "3ncKPIRneImDeIlwd3Z4cLUAiA==",
+                "quest_bar_hero": "quests/1557057421417914388/1557065869342023790.jpg",
+                "quest_bar_hero_video": "quests/1557057421417914388/1557065898186252348.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1557057421417914388/1557065465610772621.png",
+                "game_tile_dark": "quests/1557057421417914388/1557065465610772621.png",
+                "logotype_light": "quests/1557057421417914388/1557065742396956682.png",
+                "logotype_dark": "quests/1557057421417914388/1557065742396956682.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "MONOPOLY GO!",
+                "game_title": "MONOPOLY GO!",
+                "game_publisher": "Scopely"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 27,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1557057421417914388/1557066162980790282_1080.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1557057421417914388/1557065869342023790.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1557057421417914388/1557066162980790282_720.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1557057421417914388/1557065869342023790.jpg"
+                            },
+                            "video_hls": {
+                                "url": "quests/1557057421417914388/1557066162980790282.m3u8",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1557057421417914388/1557065869342023790.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 27,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1557057421417914388/1557066162980790282_1080.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1557057421417914388/1557065869342023790.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1557057421417914388/1557066162980790282_720.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1557057421417914388/1557065869342023790.jpg"
+                            },
+                            "video_hls": {
+                                "url": "quests/1557057421417914388/1557066162980790282.m3u8",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1557057421417914388/1557065869342023790.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "200 Orbs",
+                            "name_with_article": "200 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 200,
+                        "premium_orb_quantity": 240
+                    }
+                ],
+                "rewards_expire_at": "2026-11-12T00:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "android": {
+                    "android_app_id": "com.scopely.monopolygo"
+                },
+                "ios": {
+                    "ios_app_id": "1621328561"
+                },
+                "link": "https://www.monopolygo.com/",
+                "button_label": "Learn More"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "ad_context": null,
+        "preview": false,
+        "traffic_metadata_raw": "EAIYAQ=="
+    },
+    {
+        "id": "1554166577207709767",
+        "config": {
+            "id": "1554166577207709767",
+            "config_version": 2,
+            "starts_at": "2026-10-06T17:00:00+00:00",
+            "expires_at": "2026-10-19T00:00:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://youtu.be/LVlyMMWeXfQ",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1554166577207709767/1554560313808912434.jpg",
+                "hero_video": "quests/1554166577207709767/1554560728533434408_720.mp4",
+                "quest_bar_hero_blurhash": "33sGPIj3i1FsqYepiJj4aZtfpQ==",
+                "quest_bar_hero": "quests/1554166577207709767/1554560007721320557.jpg",
+                "quest_bar_hero_video": "quests/1554166577207709767/1554560725815394435_720.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1554166577207709767/1554560587239784539.png",
+                "game_tile_dark": "quests/1554166577207709767/1554561128271585310.png",
+                "logotype_light": "quests/1554166577207709767/1554560411590721616.png",
+                "logotype_dark": "quests/1554166577207709767/1554560411578404894.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "The Triple-I Initiative",
+                "game_title": "The Triple-I Initiative",
+                "game_publisher": "The Triple-I Initiative"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 58,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1554166577207709767/1554561663225561138_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1554166577207709767/1554559884652056626.png"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1554166577207709767/1554561663225561138_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1554166577207709767/1554559884652056626.png"
+                            },
+                            "video_hls": {
+                                "url": "quests/1554166577207709767/1554561663225561138.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1554166577207709767/1554559884652056626.png"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 58,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1554166577207709767/1554561663225561138_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1554166577207709767/1554559884652056626.png"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1554166577207709767/1554561663225561138_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1554166577207709767/1554559884652056626.png"
+                            },
+                            "video_hls": {
+                                "url": "quests/1554166577207709767/1554561663225561138.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1554166577207709767/1554559884652056626.png"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "200 Orbs",
+                            "name_with_article": "200 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 200,
+                        "premium_orb_quantity": 240
+                    }
+                ],
+                "rewards_expire_at": "2026-11-18T00:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://youtu.be/LVlyMMWeXfQ",
+                "button_label": "Subscribe",
+                "subtitle": "8 October - Subscribe To Our YouTube Channel Now"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "ad_context": null,
+        "preview": false,
+        "traffic_metadata_raw": "EAIYAQ=="
     }
 ]
