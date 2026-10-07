@@ -119234,7 +119234,12 @@
                 "button_label": "View More",
                 "subtitle": "Streaming October 9"
             }
-        }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "ad_context": null,
+        "preview": false,
+        "traffic_metadata_raw": "EAIYAQ=="
     },
     {
         "id": "1549819328193364061",
@@ -119336,7 +119341,12 @@
                 "button_label": "View More",
                 "subtitle": "Streaming October 9"
             }
-        }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "ad_context": null,
+        "preview": false,
+        "traffic_metadata_raw": "EAIYAQ=="
     },
     {
         "id": "1552698676017766541",
@@ -121322,7 +121332,7 @@
                 "name": "Discord"
             },
             "assets": {
-                "hero": "quests/1555158122522349568/1555507743421374524.jpg",
+                "hero": "quests/1555158122522349568/1557425444431859752.jpg",
                 "quest_bar_hero_blurhash": "YugFPwJYiaifaHeOiRhoOKhpdghIemAI",
                 "quest_bar_hero": "quests/1555158122522349568/1555507763629662219.jpg",
                 "game_tile": "PLACEHOLDER",
@@ -123139,5 +123149,91 @@
                 "button_label": "Play Now"
             }
         }
+    },
+    {
+        "id": "1552900191751905280",
+        "config": {
+            "id": "1552900191751905280",
+            "config_version": 2,
+            "starts_at": "2026-10-07T17:00:00+00:00",
+            "expires_at": "2026-10-18T06:30:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://store.steampowered.com/app/1924600/March_of_Giants?utm_source=discord&utm_medium=paidsocial&utm_campaign=MOG_2610&utm_content=__AID_NAME__-__CID_NAME__&utm_term=interest_us",
+                "id": "1428223713928810496",
+                "name": "March of Giants"
+            },
+            "assets": {
+                "hero": "quests/1552900191751905280/1553127374189629470.jpg",
+                "hero_video": "quests/1552900191751905280/1553127374193688606.mp4",
+                "quest_bar_hero_blurhash": "VTkSHIIHR4h5eIZ4h4gHfWngtw==",
+                "quest_bar_hero": "quests/1552900191751905280/1553127373116022794.jpg",
+                "quest_bar_hero_video": "quests/1552900191751905280/1553127373237522542.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1552900191751905280/1553127372876816425.jpg",
+                "game_tile_dark": "quests/1552900191751905280/1553127372876816425.jpg",
+                "logotype_light": "quests/1552900191751905280/1553127373103169566.png",
+                "logotype_dark": "quests/1552900191751905280/1553127372851646596.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "March of Giants Playtest",
+                "game_title": "March of Giants",
+                "game_publisher": "Ubisoft"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1428223713928810496"
+                            }
+                        ]
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 Orbs",
+                            "name_with_article": "700 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 700,
+                        "premium_orb_quantity": 840
+                    }
+                ],
+                "rewards_expire_at": "2026-11-17T06:30:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://store.steampowered.com/app/1924600/March_of_Giants?utm_source=discord&utm_medium=paidsocial&utm_campaign=MOG_2610&utm_content=__AID_NAME__-__CID_NAME__&utm_term=interest_us",
+                "button_label": "Play",
+                "subtitle": "Join the Playtest on Steam"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "ad_context": null,
+        "preview": false,
+        "traffic_metadata_raw": "EAIYAQ=="
     }
 ]
