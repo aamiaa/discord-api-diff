@@ -122642,5 +122642,502 @@
         "ad_context": null,
         "preview": false,
         "traffic_metadata_raw": "EAIYAQ=="
+    },
+    {
+        "id": "1556982617587318897",
+        "config": {
+            "id": "1556982617587318897",
+            "config_version": 2,
+            "starts_at": "2026-10-07T08:00:00+00:00",
+            "expires_at": "2026-10-13T00:00:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://arcraiders.com/?utm_campaign=octoberupdate&utm_source=discord&utm_term=us&utm_content=generalgaming&utm_medium=custom",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1554797166101405738/1554817394839650314.jpg",
+                "quest_bar_hero_blurhash": "kwcKDILgPWcefLczaVT0hhM4Cg==",
+                "quest_bar_hero": "quests/1554797166101405738/1554817395741163581.jpg",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1554797166101405738/1554817394969550878.png",
+                "game_tile_dark": "quests/1554797166101405738/1554817394969550878.png",
+                "logotype_light": "quests/1554797166101405738/1554817395745488976.png",
+                "logotype_dark": "quests/1554797166101405738/1554817395745488976.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "ARC Raiders",
+                "game_title": "ARC Raiders",
+                "game_publisher": "Embark"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 91,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1554797166101405738/1554819023357612042_1080.mp4",
+                                "width": 3840,
+                                "height": 2160,
+                                "thumbnail": "quests/1554797166101405738/1554817395049365615.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1554797166101405738/1554819023357612042_720.mp4",
+                                "width": 3840,
+                                "height": 2160,
+                                "thumbnail": "quests/1554797166101405738/1554817395049365615.jpg"
+                            },
+                            "video_hls": {
+                                "url": "quests/1554797166101405738/1554819023357612042.m3u8",
+                                "width": 3840,
+                                "height": 2160,
+                                "thumbnail": "quests/1554797166101405738/1554817395049365615.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 91,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1556982617587318897/1556995679329714306_1080.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1554797166101405738/1554817395049365615.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1556982617587318897/1556995679329714306_720.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1554797166101405738/1554817395049365615.jpg"
+                            },
+                            "video_hls": {
+                                "url": "quests/1556982617587318897/1556995679329714306.m3u8",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1554797166101405738/1554817395049365615.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "200 Orbs",
+                            "name_with_article": "200 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 200,
+                        "premium_orb_quantity": 240
+                    }
+                ],
+                "rewards_expire_at": "2026-11-12T00:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://arcraiders.com/?utm_campaign=octoberupdate&utm_source=discord&utm_term=us&utm_content=generalgaming&utm_medium=custom",
+                "button_label": "Play Now"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "ad_context": null,
+        "preview": false,
+        "traffic_metadata_raw": "EAIYAQ=="
+    },
+    {
+        "id": "1554797166101405738",
+        "config": {
+            "id": "1554797166101405738",
+            "config_version": 2,
+            "starts_at": "2026-10-07T08:00:00+00:00",
+            "expires_at": "2026-10-13T00:00:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://arcraiders.com/?utm_campaign=octoberupdate&utm_source=discord&utm_term=uk&utm_content=generalgaming&utm_medium=custom",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1554797166101405738/1554817394839650314.jpg",
+                "quest_bar_hero_blurhash": "kwcKDILgPWcefLczaVT0hhM4Cg==",
+                "quest_bar_hero": "quests/1554797166101405738/1554817395741163581.jpg",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1554797166101405738/1554817394969550878.png",
+                "game_tile_dark": "quests/1554797166101405738/1554817394969550878.png",
+                "logotype_light": "quests/1554797166101405738/1554817395745488976.png",
+                "logotype_dark": "quests/1554797166101405738/1554817395745488976.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "ARC Raiders",
+                "game_title": "ARC Raiders",
+                "game_publisher": "Embark"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 91,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1554797166101405738/1556617667815931954_1080.mp4",
+                                "width": 3840,
+                                "height": 2160,
+                                "thumbnail": "quests/1554797166101405738/1554817395049365615.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1554797166101405738/1556617667815931954_720.mp4",
+                                "width": 3840,
+                                "height": 2160,
+                                "thumbnail": "quests/1554797166101405738/1554817395049365615.jpg"
+                            },
+                            "video_hls": {
+                                "url": "quests/1554797166101405738/1556617667815931954.m3u8",
+                                "width": 3840,
+                                "height": 2160,
+                                "thumbnail": "quests/1554797166101405738/1554817395049365615.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 91,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1554797166101405738/1556994747909021797_1080.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1554797166101405738/1554817395049365615.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1554797166101405738/1556994747909021797_720.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1554797166101405738/1554817395049365615.jpg"
+                            },
+                            "video_hls": {
+                                "url": "quests/1554797166101405738/1556994747909021797.m3u8",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1554797166101405738/1554817395049365615.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "200 Orbs",
+                            "name_with_article": "200 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 200,
+                        "premium_orb_quantity": null
+                    }
+                ],
+                "rewards_expire_at": "2026-11-12T00:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://arcraiders.com/?utm_campaign=octoberupdate&utm_source=discord&utm_term=uk&utm_content=generalgaming&utm_medium=custom",
+                "button_label": "Play Now"
+            }
+        }
+    },
+    {
+        "id": "1556983453541601361",
+        "config": {
+            "id": "1556983453541601361",
+            "config_version": 2,
+            "starts_at": "2026-10-07T08:00:00+00:00",
+            "expires_at": "2026-10-13T00:00:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://arcraiders.com/fr?utm_campaign=octoberupdate&utm_source=discord&utm_term=fr&utm_content=generalgaming&utm_medium=custom",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1554797166101405738/1554817394839650314.jpg",
+                "quest_bar_hero_blurhash": "kwcKDILgPWcefLczaVT0hhM4Cg==",
+                "quest_bar_hero": "quests/1554797166101405738/1554817395741163581.jpg",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1554797166101405738/1554817394969550878.png",
+                "game_tile_dark": "quests/1554797166101405738/1554817394969550878.png",
+                "logotype_light": "quests/1554797166101405738/1554817395745488976.png",
+                "logotype_dark": "quests/1554797166101405738/1554817395745488976.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "ARC Raiders",
+                "game_title": "ARC Raiders",
+                "game_publisher": "Embark"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 91,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1554797166101405738/1554819025203241040_1080.mp4",
+                                "width": 3840,
+                                "height": 2160,
+                                "thumbnail": "quests/1554797166101405738/1554817395049365615.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1554797166101405738/1554819025203241040_720.mp4",
+                                "width": 3840,
+                                "height": 2160,
+                                "thumbnail": "quests/1554797166101405738/1554817395049365615.jpg"
+                            },
+                            "video_hls": {
+                                "url": "quests/1554797166101405738/1554819025203241040.m3u8",
+                                "width": 3840,
+                                "height": 2160,
+                                "thumbnail": "quests/1554797166101405738/1554817395049365615.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 91,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1556983453541601361/1556995994112233543_1080.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1554797166101405738/1554817395049365615.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1556983453541601361/1556995994112233543_720.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1554797166101405738/1554817395049365615.jpg"
+                            },
+                            "video_hls": {
+                                "url": "quests/1556983453541601361/1556995994112233543.m3u8",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1554797166101405738/1554817395049365615.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "200 Orbs",
+                            "name_with_article": "200 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 200,
+                        "premium_orb_quantity": null
+                    }
+                ],
+                "rewards_expire_at": "2026-11-12T00:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://arcraiders.com/fr?utm_campaign=octoberupdate&utm_source=discord&utm_term=fr&utm_content=generalgaming&utm_medium=custom",
+                "button_label": "Play Now"
+            }
+        }
+    },
+    {
+        "id": "1556984508107063417",
+        "config": {
+            "id": "1556984508107063417",
+            "config_version": 2,
+            "starts_at": "2026-10-07T08:00:00+00:00",
+            "expires_at": "2026-10-13T00:00:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://arcraiders.com/de?utm_campaign=octoberupdate&utm_source=discord&utm_term=de&utm_content=generalgaming&utm_medium=custom",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1554797166101405738/1554817394839650314.jpg",
+                "quest_bar_hero_blurhash": "kwcKDILgPWcefLczaVT0hhM4Cg==",
+                "quest_bar_hero": "quests/1554797166101405738/1554817395741163581.jpg",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1554797166101405738/1554817394969550878.png",
+                "game_tile_dark": "quests/1554797166101405738/1554817394969550878.png",
+                "logotype_light": "quests/1554797166101405738/1554817395745488976.png",
+                "logotype_dark": "quests/1554797166101405738/1554817395745488976.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "ARC Raiders",
+                "game_title": "ARC Raiders",
+                "game_publisher": "Embark"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 91,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1554797166101405738/1554819024041279518_1080.mp4",
+                                "width": 3840,
+                                "height": 2160,
+                                "thumbnail": "quests/1554797166101405738/1554817395049365615.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1554797166101405738/1554819024041279518_720.mp4",
+                                "width": 3840,
+                                "height": 2160,
+                                "thumbnail": "quests/1554797166101405738/1554817395049365615.jpg"
+                            },
+                            "video_hls": {
+                                "url": "quests/1554797166101405738/1554819024041279518.m3u8",
+                                "width": 3840,
+                                "height": 2160,
+                                "thumbnail": "quests/1554797166101405738/1554817395049365615.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 91,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1556984508107063417/1556996279173906462_1080.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1554797166101405738/1554817395049365615.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1556984508107063417/1556996279173906462_720.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1554797166101405738/1554817395049365615.jpg"
+                            },
+                            "video_hls": {
+                                "url": "quests/1556984508107063417/1556996279173906462.m3u8",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1554797166101405738/1554817395049365615.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "200 Orbs",
+                            "name_with_article": "200 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 200,
+                        "premium_orb_quantity": null
+                    }
+                ],
+                "rewards_expire_at": "2026-11-12T00:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://arcraiders.com/de?utm_campaign=octoberupdate&utm_source=discord&utm_term=de&utm_content=generalgaming&utm_medium=custom",
+                "button_label": "Play Now"
+            }
+        }
     }
 ]
