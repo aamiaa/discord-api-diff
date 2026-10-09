@@ -123747,5 +123747,201 @@
         "ad_context": null,
         "preview": false,
         "traffic_metadata_raw": "EAIYAQ=="
+    },
+    {
+        "id": "1552706567374241872",
+        "config": {
+            "id": "1552706567374241872",
+            "config_version": 2,
+            "starts_at": "2026-10-09T07:00:00+00:00",
+            "expires_at": "2026-10-12T06:59:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://tv.apple.com/ca/movie/matchbox-the-movie/umc.cmc.31qa8j1tn2cnpyk3fx43w928d?itscg=MC_10000&itsct=atvp_brand_omd&mttn3pid=innovid&mttnagencyid=a5e&mttncc=CA&mttnsiteid=143238&mttnsubad=07433713",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1552706567374241872/1555299314056691732.jpg",
+                "quest_bar_hero_blurhash": "pQgKGoZvlWgtaWeHIjAWA2Q=",
+                "quest_bar_hero": "quests/1552706567374241872/1555299314056691732.jpg",
+                "quest_bar_hero_video": "quests/1552706567374241872/1555300643835744376_720.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1552706567374241872/1557523100684517538.png",
+                "game_tile_dark": "quests/1552706567374241872/1555299314325000282.png",
+                "logotype_light": "quests/1552706567374241872/1557523100386730076.png",
+                "logotype_dark": "quests/1552706567374241872/1557046882449235968.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Matchbox The Movie",
+                "game_title": "Now streaming on Apple TV",
+                "game_publisher": "Apple TV"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 29,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1552706567374241872/1555299963347402892_1080.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1552706567374241872/1555299314258018314.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1552706567374241872/1555299963347402892_720.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1552706567374241872/1555299314258018314.jpg"
+                            },
+                            "video_hls": {
+                                "url": "quests/1552706567374241872/1555299963347402892.m3u8",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1552706567374241872/1555299314258018314.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "200 Orbs",
+                            "name_with_article": "200 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 200,
+                        "premium_orb_quantity": null
+                    }
+                ],
+                "rewards_expire_at": "2026-11-11T06:59:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "not_shareable",
+            "cta_config": {
+                "link": "https://tv.apple.com/ca/movie/matchbox-the-movie/umc.cmc.31qa8j1tn2cnpyk3fx43w928d?itscg=MC_10000&itsct=atvp_brand_omd&mttn3pid=innovid&mttnagencyid=a5e&mttncc=CA&mttnsiteid=143238&mttnsubad=07433713",
+                "button_label": "Watch Now",
+                "subtitle": "Now streaming on Apple TV"
+            }
+        }
+    },
+    {
+        "id": "1552784415942377583",
+        "config": {
+            "id": "1552784415942377583",
+            "config_version": 2,
+            "starts_at": "2026-10-09T07:00:00+00:00",
+            "expires_at": "2026-10-12T06:59:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://tv.apple.com/us/movie/matchbox-the-movie/umc.cmc.31qa8j1tn2cnpyk3fx43w928d?itscg=MC_50000&itsct=atvp_brand_omd&mttn3pid=Discord&mttnagencyid=a5e&mttncc=US&mttnsiteid=143238&mttnsubad=07469239",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1552784415942377583/1554592774672744508.jpg",
+                "quest_bar_hero_blurhash": "pQgKGoZvlWgtaWeHIjAWA2Q=",
+                "quest_bar_hero": "quests/1552784415942377583/1554592774672744508.jpg",
+                "quest_bar_hero_video": "quests/1552784415942377583/1555701027695624333_720.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1552784415942377583/1557522557769351228.png",
+                "game_tile_dark": "quests/1552784415942377583/1554592442626473994.png",
+                "logotype_light": "quests/1552784415942377583/1557521993631535104.png",
+                "logotype_dark": "quests/1552784415942377583/1557046382920081588.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Matchbox The Movie",
+                "game_title": "Now streaming on Apple TV",
+                "game_publisher": "Apple TV"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 29,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1552784415942377583/1554593454816755823_1080.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1552784415942377583/1554593607237771325.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1552784415942377583/1554593454816755823_720.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1552784415942377583/1554593607237771325.jpg"
+                            },
+                            "video_hls": {
+                                "url": "quests/1552784415942377583/1554593454816755823.m3u8",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1552784415942377583/1554593607237771325.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "200 Orbs",
+                            "name_with_article": "200 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 200,
+                        "premium_orb_quantity": null
+                    }
+                ],
+                "rewards_expire_at": "2026-11-11T06:59:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "not_shareable",
+            "cta_config": {
+                "link": "https://tv.apple.com/us/movie/matchbox-the-movie/umc.cmc.31qa8j1tn2cnpyk3fx43w928d?itscg=MC_50000&itsct=atvp_brand_omd&mttn3pid=Discord&mttnagencyid=a5e&mttncc=US&mttnsiteid=143238&mttnsubad=07469239",
+                "button_label": "Watch Now",
+                "subtitle": "Now streaming on Apple TV"
+            }
+        }
     }
 ]
