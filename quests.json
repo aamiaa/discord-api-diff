@@ -124143,5 +124143,136 @@
         "ad_context": null,
         "preview": false,
         "traffic_metadata_raw": "EAIYAQ=="
+    },
+    {
+        "id": "1555710921614163989",
+        "config": {
+            "id": "1555710921614163989",
+            "config_version": 2,
+            "starts_at": "2026-10-09T23:35:00+00:00",
+            "expires_at": "2026-10-19T00:00:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://www.disneyplus.com/browse/entity-8744ec55-8d14-4631-99b4-c889a2d6013f",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1555710921614163989/1555712982564999188.jpg",
+                "hero_video": "quests/1555710921614163989/1557027360602194001_720.mp4",
+                "quest_bar_hero_blurhash": "ykgKEoIHuHd4h3d3Bnp5n5U=",
+                "quest_bar_hero": "quests/1555710921614163989/1555712982564999188.jpg",
+                "quest_bar_hero_video": "quests/1555710921614163989/1557027360602194001_720.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1555710921614163989/1555712558692966472.jpg",
+                "game_tile_dark": "quests/1555710921614163989/1555712558692966472.jpg",
+                "logotype_light": "quests/1555710921614163989/1555713046717014047.png",
+                "logotype_dark": "quests/1555710921614163989/1555713046717014047.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Vision",
+                "game_title": "Stream VisionQuest on October 14, only on Disney+",
+                "game_publisher": "Disney+"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 29,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1555710921614163989/1555715954644754432_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1555710921614163989/1555716006972755998.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1555710921614163989/1555715954644754432_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1555710921614163989/1555716006972755998.jpg"
+                            },
+                            "video_hls": {
+                                "url": "quests/1555710921614163989/1555715954644754432.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1555710921614163989/1555716006972755998.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 29,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1555710921614163989/1555715655112728576_1080.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1555710921614163989/1555716006972755998.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1555710921614163989/1555715655112728576_720.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1555710921614163989/1555716006972755998.jpg"
+                            },
+                            "video_hls": {
+                                "url": "quests/1555710921614163989/1555715655112728576.m3u8",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1555710921614163989/1555716006972755998.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "200 Orbs",
+                            "name_with_article": "200 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 200,
+                        "premium_orb_quantity": 240
+                    }
+                ],
+                "rewards_expire_at": "2026-11-18T00:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://www.disneyplus.com/browse/entity-8744ec55-8d14-4631-99b4-c889a2d6013f",
+                "button_label": "Learn More",
+                "subtitle": "Stream VisionQuest on October 14, only on Disney+"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "ad_context": null,
+        "preview": false,
+        "traffic_metadata_raw": "EAIYAQ=="
     }
 ]
