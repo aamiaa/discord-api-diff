@@ -124178,7 +124178,7 @@
             },
             "messages": {
                 "quest_name": "Vision",
-                "game_title": "Stream VisionQuest on October 14, only on Disney+",
+                "game_title": "Stream VisionQuest this Wednesday, only on Disney+",
                 "game_publisher": "Disney+"
             },
             "task_config_v2": {
@@ -124188,22 +124188,22 @@
                         "target": 29,
                         "assets": {
                             "video": {
-                                "url": "quests/1555710921614163989/1555715954644754432_1080.mp4",
+                                "url": "quests/1555710921614163989/1558259087953633491_1080.mp4",
                                 "width": 1920,
                                 "height": 1080,
-                                "thumbnail": "quests/1555710921614163989/1555716006972755998.jpg"
+                                "thumbnail": "quests/1555710921614163989/1559234680979722401.jpg"
                             },
                             "video_low_res": {
-                                "url": "quests/1555710921614163989/1555715954644754432_720.mp4",
+                                "url": "quests/1555710921614163989/1558259087953633491_720.mp4",
                                 "width": 1920,
                                 "height": 1080,
-                                "thumbnail": "quests/1555710921614163989/1555716006972755998.jpg"
+                                "thumbnail": "quests/1555710921614163989/1559234680979722401.jpg"
                             },
                             "video_hls": {
-                                "url": "quests/1555710921614163989/1555715954644754432.m3u8",
+                                "url": "quests/1555710921614163989/1558259087953633491.m3u8",
                                 "width": 1920,
                                 "height": 1080,
-                                "thumbnail": "quests/1555710921614163989/1555716006972755998.jpg"
+                                "thumbnail": "quests/1555710921614163989/1559234680979722401.jpg"
                             }
                         },
                         "messages": {
@@ -124215,22 +124215,22 @@
                         "target": 29,
                         "assets": {
                             "video": {
-                                "url": "quests/1555710921614163989/1555715655112728576_1080.mp4",
+                                "url": "quests/1555710921614163989/1558259095415300116_1080.mp4",
                                 "width": 1080,
                                 "height": 1920,
-                                "thumbnail": "quests/1555710921614163989/1555716006972755998.jpg"
+                                "thumbnail": "quests/1555710921614163989/1559234680979722401.jpg"
                             },
                             "video_low_res": {
-                                "url": "quests/1555710921614163989/1555715655112728576_720.mp4",
+                                "url": "quests/1555710921614163989/1558259095415300116_720.mp4",
                                 "width": 1080,
                                 "height": 1920,
-                                "thumbnail": "quests/1555710921614163989/1555716006972755998.jpg"
+                                "thumbnail": "quests/1555710921614163989/1559234680979722401.jpg"
                             },
                             "video_hls": {
-                                "url": "quests/1555710921614163989/1555715655112728576.m3u8",
+                                "url": "quests/1555710921614163989/1558259095415300116.m3u8",
                                 "width": 1080,
                                 "height": 1920,
-                                "thumbnail": "quests/1555710921614163989/1555716006972755998.jpg"
+                                "thumbnail": "quests/1555710921614163989/1559234680979722401.jpg"
                             }
                         },
                         "messages": {
@@ -124266,7 +124266,7 @@
             "cta_config": {
                 "link": "https://www.disneyplus.com/browse/entity-8744ec55-8d14-4631-99b4-c889a2d6013f",
                 "button_label": "Learn More",
-                "subtitle": "Stream VisionQuest on October 14, only on Disney+"
+                "subtitle": "Stream VisionQuest this Wednesday, only on Disney+"
             }
         },
         "user_status": null,
@@ -124551,5 +124551,505 @@
                 "subtitle": "IN CINEMAS OCTOBER 16"
             }
         }
+    },
+    {
+        "id": "1558039850270203925",
+        "config": {
+            "id": "1558039850270203925",
+            "config_version": 2,
+            "starts_at": "2026-10-12T17:00:00+00:00",
+            "expires_at": "2026-10-19T06:59:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://www.dreamgames.com/games/royal-match",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1558039850270203925/1558049215953903688.jpg",
+                "quest_bar_hero_blurhash": "WZcJJIwgGWd7aomWZ3l2cHkIZw==",
+                "quest_bar_hero": "quests/1558039850270203925/1558048886562619434.jpg",
+                "quest_bar_hero_video": "quests/1558039850270203925/1558048991667687506_720.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1558039850270203925/1558048605724475412.png",
+                "game_tile_dark": "quests/1558039850270203925/1558048605724475412.png",
+                "logotype_light": "quests/1558039850270203925/1558048699530215445.png",
+                "logotype_dark": "quests/1558039850270203925/1558048699530215445.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Royal Match",
+                "game_title": "Royal Match ",
+                "game_publisher": "Dream Games"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 58,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1558039850270203925/1558049720688058438_1080.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1558039850270203925/1558052190264885248.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1558039850270203925/1558049720688058438_720.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1558039850270203925/1558052190264885248.jpg"
+                            },
+                            "video_hls": {
+                                "url": "quests/1558039850270203925/1558049720688058438.m3u8",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1558039850270203925/1558052190264885248.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "200 Orbs",
+                            "name_with_article": "200 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 200,
+                        "premium_orb_quantity": 240
+                    }
+                ],
+                "rewards_expire_at": "2026-11-18T06:59:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "android": {
+                    "android_app_id": "com.dreamgames.royalmatch"
+                },
+                "ios": {
+                    "ios_app_id": "1482155847"
+                },
+                "link": "https://www.dreamgames.com/games/royal-match",
+                "button_label": "Download"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "ad_context": null,
+        "preview": false,
+        "traffic_metadata_raw": "EAIYAQ=="
+    },
+    {
+        "id": "1555688599184211998",
+        "config": {
+            "id": "1555688599184211998",
+            "config_version": 2,
+            "starts_at": "2026-10-12T17:00:00+00:00",
+            "expires_at": "2026-10-26T00:00:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://www.searchlightpictures.com/wild-horse-nine?utm_source=Searchlight&utm_medium=Discord&utm_campaign=WildHorseNine#get-tickets",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1555688599184211998/1555701447776145418.jpg",
+                "quest_bar_hero_blurhash": "o0sGNIL7gkpslYdtpZT7hvpNZg==",
+                "quest_bar_hero": "quests/1555688599184211998/1557814557026820116.jpg",
+                "quest_bar_hero_video": "quests/1555688599184211998/1557090880865964142_720.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1555688599184211998/1555698993206657106.png",
+                "game_tile_dark": "quests/1555688599184211998/1555698993206657106.png",
+                "logotype_light": "quests/1555688599184211998/1557824708630810746.png",
+                "logotype_dark": "quests/1555688599184211998/1557824708064448622.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Wild Horse Nine",
+                "game_title": "Only in Theaters November 6th!",
+                "game_publisher": "Searchlight Pictures"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 86,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1555688599184211998/1557816476637995038_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1555688599184211998/1557814557026820116.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1555688599184211998/1557816476637995038_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1555688599184211998/1557814557026820116.jpg"
+                            },
+                            "video_hls": {
+                                "url": "quests/1555688599184211998/1557816476637995038.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1555688599184211998/1557814557026820116.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 86,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1555688599184211998/1557816484531802285_1080.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1555688599184211998/1557814557026820116.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1555688599184211998/1557816484531802285_720.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1555688599184211998/1557814557026820116.jpg"
+                            },
+                            "video_hls": {
+                                "url": "quests/1555688599184211998/1557816484531802285.m3u8",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1555688599184211998/1557814557026820116.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "200 Orbs",
+                            "name_with_article": "200 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 200,
+                        "premium_orb_quantity": 240
+                    }
+                ],
+                "rewards_expire_at": "2026-11-25T00:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://www.searchlightpictures.com/wild-horse-nine?utm_source=Searchlight&utm_medium=Discord&utm_campaign=WildHorseNine#get-tickets",
+                "button_label": "Get Tickets",
+                "subtitle": "Only in Theaters November 6th!"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "ad_context": null,
+        "preview": false,
+        "traffic_metadata_raw": "EAIYAQ=="
+    },
+    {
+        "id": "1552771565991759922",
+        "config": {
+            "id": "1552771565991759922",
+            "config_version": 2,
+            "starts_at": "2026-10-12T17:00:00+00:00",
+            "expires_at": "2026-10-26T06:59:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://fandan.co/clayface",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1552771565991759922/1557147667618861158.jpg",
+                "quest_bar_hero_blurhash": "DQgODIJXZnh7d3dwiHM4hYCGCA==",
+                "quest_bar_hero": "quests/1552771565991759922/1557148733840429207.jpg",
+                "quest_bar_hero_video": "quests/1552771565991759922/1557472108492230766_720.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1552771565991759922/1557147583762399272.png",
+                "game_tile_dark": "quests/1552771565991759922/1557147583762399272.png",
+                "logotype_light": "quests/1552771565991759922/1557147770182312058.png",
+                "logotype_dark": "quests/1552771565991759922/1557147795838861473.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Clayface",
+                "game_title": "In Theaters October 23",
+                "game_publisher": "Warner Bros. Pictures"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 14,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1552771565991759922/1557148452826390631_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1552771565991759922/1557147616171663381.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1552771565991759922/1557148452826390631_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1552771565991759922/1557147616171663381.jpg"
+                            },
+                            "video_hls": {
+                                "url": "quests/1552771565991759922/1557148452826390631.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1552771565991759922/1557147616171663381.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 14,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1552771565991759922/1557148452855615498_1080.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1552771565991759922/1557147616171663381.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1552771565991759922/1557148452855615498_720.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1552771565991759922/1557147616171663381.jpg"
+                            },
+                            "video_hls": {
+                                "url": "quests/1552771565991759922/1557148452855615498.m3u8",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1552771565991759922/1557147616171663381.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 3,
+                        "sku_id": "1558285842169204746",
+                        "asset": "quests/1552771565991759922/1558286084373356595.mp4",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "Clayface Avatar Decoration",
+                            "name_with_article": "a Clayface Avatar Decoration",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "expires_at": "2026-12-25T06:59:00+00:00",
+                        "expires_at_premium": null,
+                        "expiration_mode": 3
+                    }
+                ],
+                "rewards_expire_at": "2026-11-25T06:59:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://fandan.co/clayface",
+                "button_label": "Get Tickets",
+                "subtitle": "In Theaters October 23"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "ad_context": null,
+        "preview": false,
+        "traffic_metadata_raw": "EAIYAQ=="
+    },
+    {
+        "id": "1556768172961570966",
+        "config": {
+            "id": "1556768172961570966",
+            "config_version": 2,
+            "starts_at": "2026-10-12T17:00:00+00:00",
+            "expires_at": "2026-10-19T06:59:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://www.river.movie/",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1556768172961570966/1558013394769023148.jpg",
+                "quest_bar_hero_blurhash": "CwkGAoKHiIeAh9eHd1AM9zg=",
+                "quest_bar_hero": "quests/1556768172961570966/1558013394769023148.jpg",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1556768172961570966/1558013394995388487.jpg",
+                "game_tile_dark": "quests/1556768172961570966/1558013394995388487.jpg",
+                "logotype_light": "quests/1556768172961570966/1558013394827743262.png",
+                "logotype_dark": "quests/1556768172961570966/1558013394827743262.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "River Trailer",
+                "game_title": "River | In Theaters January 15",
+                "game_publisher": "Universal Pictures"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 111,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1556768172961570966/1559221644210217034_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1556768172961570966/1558013394823544852.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1556768172961570966/1559221644210217034_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1556768172961570966/1558013394823544852.jpg"
+                            },
+                            "video_hls": {
+                                "url": "quests/1556768172961570966/1559221644210217034.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1556768172961570966/1558013394823544852.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 111,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1556768172961570966/1559222784029102110_1080.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1556768172961570966/1558013394823544852.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1556768172961570966/1559222784029102110_720.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1556768172961570966/1558013394823544852.jpg"
+                            },
+                            "video_hls": {
+                                "url": "quests/1556768172961570966/1559222784029102110.m3u8",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1556768172961570966/1558013394823544852.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "200 Orbs",
+                            "name_with_article": "200 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 200,
+                        "premium_orb_quantity": 240
+                    }
+                ],
+                "rewards_expire_at": "2026-11-18T06:59:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://www.river.movie/",
+                "button_label": "Learn More",
+                "subtitle": "River | In Theaters January 15"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "ad_context": null,
+        "preview": false,
+        "traffic_metadata_raw": "EAIYAQ=="
     }
 ]
