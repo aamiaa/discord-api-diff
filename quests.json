@@ -121719,7 +121719,7 @@
             "id": "1549142163487592600",
             "config_version": 2,
             "starts_at": "2026-10-05T17:00:00+00:00",
-            "expires_at": "2026-10-19T00:00:00+00:00",
+            "expires_at": "2026-10-20T00:00:00+00:00",
             "features": [
                 15
             ],
@@ -121782,8 +121782,8 @@
                             }
                         ],
                         "external_ids": [
-                            "PPSA20676_00",
-                            "PPSA20711_00"
+                            "PPSA20711_00",
+                            "PPSA20676_00"
                         ]
                     }
                 },
@@ -121809,7 +121809,7 @@
                         "expiration_mode": 3
                     }
                 ],
-                "rewards_expire_at": "2026-11-18T00:00:00+00:00",
+                "rewards_expire_at": "2026-11-19T00:00:00+00:00",
                 "platforms": [
                     0
                 ]
@@ -122392,7 +122392,7 @@
             "id": "1557057421417914388",
             "config_version": 2,
             "starts_at": "2026-10-06T17:00:00+00:00",
-            "expires_at": "2026-10-13T00:00:00+00:00",
+            "expires_at": "2026-10-20T00:00:00+00:00",
             "features": [
                 15
             ],
@@ -122499,7 +122499,7 @@
                         "premium_orb_quantity": 240
                     }
                 ],
-                "rewards_expire_at": "2026-11-12T00:00:00+00:00",
+                "rewards_expire_at": "2026-11-19T00:00:00+00:00",
                 "platforms": [
                     0
                 ]
@@ -124684,8 +124684,8 @@
                 "logotype": "PLACEHOLDER",
                 "game_tile_light": "quests/1555688599184211998/1555698993206657106.png",
                 "game_tile_dark": "quests/1555688599184211998/1555698993206657106.png",
-                "logotype_light": "quests/1555688599184211998/1557824708630810746.png",
-                "logotype_dark": "quests/1555688599184211998/1557824708064448622.png"
+                "logotype_light": "quests/1555688599184211998/1559599325351510107.png",
+                "logotype_dark": "quests/1555688599184211998/1559599319538208860.png"
             },
             "colors": {
                 "primary": "#4752C4",
@@ -125044,6 +125044,137 @@
                 "link": "https://www.river.movie/",
                 "button_label": "Learn More",
                 "subtitle": "River | In Theaters January 15"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "ad_context": null,
+        "preview": false,
+        "traffic_metadata_raw": "EAIYAQ=="
+    },
+    {
+        "id": "1539343821782126622",
+        "config": {
+            "id": "1539343821782126622",
+            "config_version": 2,
+            "starts_at": "2026-10-13T17:00:00+00:00",
+            "expires_at": "2026-10-27T00:00:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://www.amazon.com/gp/video/detail/B0HCLVTLFF/ref=dvm_us_c_dig_TMLT_cm",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1539343821782126622/1558000099425128489.jpg",
+                "hero_video": "quests/1539343821782126622/1558000544759550012_720.mp4",
+                "quest_bar_hero_blurhash": "oPgJDIRmsGYFm3eyeIdUBiRVQA==",
+                "quest_bar_hero": "quests/1539343821782126622/1558000484139401226.jpg",
+                "quest_bar_hero_video": "quests/1539343821782126622/1558000534625980476_720.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1539343821782126622/1558000366295982130.png",
+                "game_tile_dark": "quests/1539343821782126622/1558000366837305415.png",
+                "logotype_light": "quests/1539343821782126622/1558000099399827496.png",
+                "logotype_dark": "quests/1539343821782126622/1558000099467202572.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "The Terminal List S2",
+                "game_title": "The Terminal List returns October 21 on Prime Video",
+                "game_publisher": "Amazon Prime Video"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 101,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1539343821782126622/1559578379492130887_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1539343821782126622/1558000507258404894.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1539343821782126622/1559578379492130887_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1539343821782126622/1558000507258404894.jpg"
+                            },
+                            "video_hls": {
+                                "url": "quests/1539343821782126622/1559578379492130887.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1539343821782126622/1558000507258404894.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 101,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1539343821782126622/1559578379315970200_1080.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1539343821782126622/1558000507258404894.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1539343821782126622/1559578379315970200_720.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1539343821782126622/1558000507258404894.jpg"
+                            },
+                            "video_hls": {
+                                "url": "quests/1539343821782126622/1559578379315970200.m3u8",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1539343821782126622/1558000507258404894.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "200 Orbs",
+                            "name_with_article": "200 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 200,
+                        "premium_orb_quantity": 240
+                    }
+                ],
+                "rewards_expire_at": "2026-11-26T00:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://www.amazon.com/gp/video/detail/B0HCLVTLFF/ref=dvm_us_c_dig_TMLT_cm",
+                "button_label": "Watch More",
+                "subtitle": "The Terminal List returns October 21 on Prime Video"
             }
         },
         "user_status": null,
