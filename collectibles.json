@@ -193252,5 +193252,2138 @@
             "responsive": null,
             "background_style": "linear-gradient(180deg, #12101E 0%, #142223 100%)"
         }
+    },
+    {
+        "sku_id": "1555701506861178970",
+        "name": "Dead by Daylight",
+        "summary": " ",
+        "store_listing_id": "1555701506861178970",
+        "styles": {
+            "background_colors": [
+                1314057,
+                3285535
+            ],
+            "button_colors": [
+                5793266,
+                5793266
+            ],
+            "confetti_colors": [
+                43772,
+                15774258,
+                16414587,
+                3000177,
+                9739511
+            ]
+        },
+        "hero_ranking": [
+            "1556810612112236564",
+            "1556811033446846555",
+            "1556807371660206281",
+            "1556807542322106429",
+            "1556799118427553842",
+            "1556801499403657236",
+            "1556801850206978138",
+            "1556811275214786560",
+            "1556807670403702794",
+            "1556807932140851240",
+            "1556808071609712640",
+            "1556808246776434708",
+            "1556808521750945913",
+            "1556803113887989800",
+            "1556803454863937566",
+            "1556808801229873322",
+            "1556809105601990721",
+            "1556809408984391730",
+            "1556803891289526392",
+            "1556809649808736266"
+        ],
+        "products": [
+            {
+                "sku_id": "1556810612112236564",
+                "name": "The Entity Bundle",
+                "summary": "{joinedItems}",
+                "styles": {
+                    "background_colors": [
+                        1314057,
+                        3285535
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 3099,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 2299,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    }
+                },
+                "preview_assets": {
+                    "fg_static": "https://cdn.discordapp.com/media/v1/collectibles-shop/bundle-fg-static/1556810612112236564",
+                    "bg_static": "https://cdn.discordapp.com/media/v1/collectibles-shop/bundle-bg-static/1556810612112236564"
+                },
+                "items": [
+                    {
+                        "type": 0,
+                        "sku_id": "1556799118427553842",
+                        "asset": "a_2a8858b084e3ad989b46472107427d97",
+                        "label": "A ring of jagged, claw-like blades."
+                    },
+                    {
+                        "type": 2,
+                        "sku_id": "1556807670403702794",
+                        "asset": "nameplates/scratch_marks/1556807670403702794/",
+                        "label": "Jagged red scratch marks streak across a dark haze.",
+                        "palette": "crimson"
+                    },
+                    {
+                        "type": 1,
+                        "sku_id": "1556803454863937566",
+                        "title": "Hook",
+                        "description": "Show this effect when others view your profile.",
+                        "accessibilityLabel": "A hook stands amid fiery, floating embers.",
+                        "animationType": 2,
+                        "thumbnailPreviewSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/cab577b01a214b6b011a12711f9be71cbaa12cd422318075c6ccf06e3060d9d9",
+                        "reducedMotionSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/5e9524b4ddcef93aa2235a6486cbaf26e4264c86b1403f1a3f799902e00965d5",
+                        "effects": [
+                            {
+                                "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/8d3e81b35093e2b431fa53eaaa575bf32522316f56054f7a81fa0ddfa689b7ad",
+                                "loop": false,
+                                "duration": 4980,
+                                "start": 0,
+                                "loopDelay": 0,
+                                "zIndex": 110,
+                                "randomizedSources": []
+                            },
+                            {
+                                "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/41c18f5a837819ef440cd86699b11e1dc201e53d27c327d9dc8d9544f27ef192",
+                                "loop": true,
+                                "duration": 4068,
+                                "start": 7980,
+                                "loopDelay": 3000,
+                                "zIndex": 100,
+                                "randomizedSources": []
+                            }
+                        ]
+                    },
+                    {
+                        "type": 3,
+                        "sku_id": "1556803891289526392",
+                        "label": "Jagged, claw-like blades with glowing orange embers border the top and bottom of the profile.",
+                        "layers": [
+                            {
+                                "id": "1556804044444672091",
+                                "type": "rail",
+                                "order": "front",
+                                "anchor": "center",
+                                "responsive": true
+                            },
+                            {
+                                "id": "1556804055202795591",
+                                "type": "staple",
+                                "order": "front",
+                                "anchor": "top",
+                                "responsive": false
+                            },
+                            {
+                                "id": "1556804059498029207",
+                                "type": "staple",
+                                "order": "front",
+                                "anchor": "bottom",
+                                "responsive": false
+                            },
+                            {
+                                "id": "1556804063751045140",
+                                "type": "staple",
+                                "order": "back",
+                                "anchor": "top",
+                                "responsive": false
+                            },
+                            {
+                                "id": "1556804067785965588",
+                                "type": "staple",
+                                "order": "back",
+                                "anchor": "bottom",
+                                "responsive": false
+                            }
+                        ],
+                        "inner_width": 1200,
+                        "overflow_top": 304,
+                        "overflow_bottom": 212,
+                        "overflow_horizontal": 56
+                    }
+                ],
+                "type": 1000,
+                "premium_type": 0,
+                "category_sku_id": "1555701506861178970",
+                "bundled_products": [
+                    {
+                        "sku_id": "1556799118427553842",
+                        "name": "The Entity",
+                        "summary": "Give your avatar a new look.",
+                        "type": 0,
+                        "premium_type": 0,
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 899,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 699,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "sku_id": "1556807670403702794",
+                        "name": "Scratch Marks (Red)",
+                        "summary": "Make your name stand out in servers and chats.",
+                        "type": 2,
+                        "premium_type": 0,
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 899,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 699,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "sku_id": "1556803454863937566",
+                        "name": "Hook",
+                        "summary": "Show this effect when others view your profile.",
+                        "type": 1,
+                        "premium_type": 0,
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 899,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 699,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "sku_id": "1556803891289526392",
+                        "name": "The Entity",
+                        "summary": "Elevate and wrap your profile with a frame.",
+                        "type": 3,
+                        "premium_type": 0,
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 899,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 699,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ],
+                "google_sku_ids": {
+                    "5": "1556810612112236564_1560009391514722365",
+                    "7": "1556810612112236564_1560009399089627196"
+                },
+                "is_first_party": false
+            },
+            {
+                "sku_id": "1556811033446846555",
+                "name": "Dark Moon Bundle",
+                "summary": "{joinedItems}",
+                "styles": {
+                    "background_colors": [
+                        1314057,
+                        3285535
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 3099,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 2299,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    }
+                },
+                "preview_assets": {
+                    "fg_static": "https://cdn.discordapp.com/media/v1/collectibles-shop/bundle-fg-static/1556811033446846555",
+                    "bg_static": "https://cdn.discordapp.com/media/v1/collectibles-shop/bundle-bg-static/1556811033446846555"
+                },
+                "items": [
+                    {
+                        "type": 0,
+                        "sku_id": "1556801499403657236",
+                        "asset": "a_ad38a7dd006e5700ba9595e5e463a2a9",
+                        "label": "Crows fly out of a dark, jagged crescent moon with smoke-like edges."
+                    },
+                    {
+                        "type": 2,
+                        "sku_id": "1556808246776434708",
+                        "asset": "nameplates/dark_moon/1556808246776434708/",
+                        "label": "A crow's head looms in the foreground beneath a full moon.",
+                        "palette": "black"
+                    },
+                    {
+                        "type": 1,
+                        "sku_id": "1556808801229873322",
+                        "title": "Dark Moon Crows",
+                        "description": "Show this effect when others view your profile.",
+                        "accessibilityLabel": "Crows circle a full moon through swirling clouds.",
+                        "animationType": 2,
+                        "thumbnailPreviewSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/e2d44b2af33aa880400d78215773e80c6965da0abb2a17099d75c2b12e212e57",
+                        "reducedMotionSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/2cddf4a53c94887be0c37bf5ea7c4ec144779c2b8b2ab68a5b2fda7fae3e5299",
+                        "effects": [
+                            {
+                                "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/fa8b3fac80a88fcf24cfee30e5f0b814880bde1fb466d5835aa573aa718d2862",
+                                "loop": false,
+                                "duration": 3984,
+                                "start": 0,
+                                "loopDelay": 0,
+                                "zIndex": 110,
+                                "randomizedSources": []
+                            },
+                            {
+                                "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/e1576790d5f03c7c35ee885468e76bb20a44e40d44c7f959e22fe1c47cb42cc2",
+                                "loop": true,
+                                "duration": 3984,
+                                "start": 6984,
+                                "loopDelay": 3000,
+                                "zIndex": 100,
+                                "randomizedSources": []
+                            }
+                        ]
+                    },
+                    {
+                        "type": 3,
+                        "sku_id": "1556809649808736266",
+                        "label": "Crows perch on branches with a full moon behind them.",
+                        "layers": [
+                            {
+                                "id": "1556809808865136710",
+                                "type": "rail",
+                                "order": "front",
+                                "anchor": "top",
+                                "responsive": true
+                            },
+                            {
+                                "id": "1556809813197983765",
+                                "type": "staple",
+                                "order": "front",
+                                "anchor": "top",
+                                "responsive": false
+                            },
+                            {
+                                "id": "1556809825642614794",
+                                "type": "staple",
+                                "order": "front",
+                                "anchor": "bottom",
+                                "responsive": false
+                            },
+                            {
+                                "id": "1556809829652234330",
+                                "type": "staple",
+                                "order": "back",
+                                "anchor": "top",
+                                "responsive": false
+                            },
+                            {
+                                "id": "1556809833922035752",
+                                "type": "staple",
+                                "order": "back",
+                                "anchor": "bottom",
+                                "responsive": false
+                            }
+                        ],
+                        "inner_width": 1200,
+                        "overflow_top": 304,
+                        "overflow_bottom": 212,
+                        "overflow_horizontal": 53
+                    }
+                ],
+                "type": 1000,
+                "premium_type": 0,
+                "category_sku_id": "1555701506861178970",
+                "bundled_products": [
+                    {
+                        "sku_id": "1556801499403657236",
+                        "name": "Dark Moon (Base)",
+                        "summary": "Give your avatar a new look.",
+                        "type": 0,
+                        "premium_type": 0,
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 899,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 699,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "sku_id": "1556808246776434708",
+                        "name": "Dark Moon (Base)",
+                        "summary": "Make your name stand out in servers and chats.",
+                        "type": 2,
+                        "premium_type": 0,
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 899,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 699,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "sku_id": "1556808801229873322",
+                        "name": "Dark Moon Crows (Base)",
+                        "summary": "Show this effect when others view your profile.",
+                        "type": 1,
+                        "premium_type": 0,
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 899,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 699,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "sku_id": "1556809649808736266",
+                        "name": "Dark Moon",
+                        "summary": "Elevate and wrap your profile with a frame.",
+                        "type": 3,
+                        "premium_type": 0,
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 899,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 699,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ],
+                "google_sku_ids": {
+                    "5": "1556811033446846555_1560009391514722364",
+                    "7": "1556811033446846555_1560009400138207383"
+                },
+                "is_first_party": false
+            },
+            {
+                "sku_id": "1556811275214786560",
+                "name": "Bloodweb Bundle",
+                "summary": "{joinedItems}",
+                "styles": {
+                    "background_colors": [
+                        1314057,
+                        3285535
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 2399,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 1799,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    }
+                },
+                "preview_assets": {
+                    "fg_static": "https://cdn.discordapp.com/media/v1/collectibles-shop/bundle-fg-static/1556811275214786560",
+                    "bg_static": "https://cdn.discordapp.com/media/v1/collectibles-shop/bundle-bg-static/1556811275214786560"
+                },
+                "items": [
+                    {
+                        "type": 0,
+                        "sku_id": "1556807371660206281",
+                        "asset": "a_bb1e17c1e14d8bd73cbe06d948bbf9bd",
+                        "label": "A ring of pulsing red veins webbed together with dark pods."
+                    },
+                    {
+                        "type": 2,
+                        "sku_id": "1556803113887989800",
+                        "asset": "nameplates/bloodweb/1556803113887989800/",
+                        "label": "Red veins web together, glowing with dark pods.",
+                        "palette": "crimson"
+                    },
+                    {
+                        "type": 1,
+                        "sku_id": "1556809408984391730",
+                        "title": "Bloodweb",
+                        "description": "Show this effect when others view your profile.",
+                        "accessibilityLabel": "Red veins web across the profile, glowing with dark pods.",
+                        "animationType": 2,
+                        "thumbnailPreviewSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/5ef5ab33e52bf089d61928b5bb407d474e2812b37c3c4a2e0d92cc66522338e9",
+                        "reducedMotionSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/a5abe06035443feefc1fbce94b6d0c7e11b8fb082fe03c5d1b49daffda903221",
+                        "effects": [
+                            {
+                                "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/66c89674b16a76da71de09b35d219e09da3aa9f7f808247e4e36c7ab5e293aa6",
+                                "loop": false,
+                                "duration": 2988,
+                                "start": 0,
+                                "loopDelay": 0,
+                                "zIndex": 110,
+                                "randomizedSources": []
+                            },
+                            {
+                                "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/b3e6eeebda58d89cbd81b5a521f8f05c7bb4dd0e2d94fa02ef18e3ec865963f9",
+                                "loop": true,
+                                "duration": 2988,
+                                "start": 5988,
+                                "loopDelay": 3000,
+                                "zIndex": 100,
+                                "randomizedSources": []
+                            }
+                        ]
+                    }
+                ],
+                "type": 1000,
+                "premium_type": 0,
+                "category_sku_id": "1555701506861178970",
+                "bundled_products": [
+                    {
+                        "sku_id": "1556807371660206281",
+                        "name": "Bloodweb",
+                        "summary": "Give your avatar a new look.",
+                        "type": 0,
+                        "premium_type": 0,
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 899,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 699,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "sku_id": "1556803113887989800",
+                        "name": "Bloodweb",
+                        "summary": "Make your name stand out in servers and chats.",
+                        "type": 2,
+                        "premium_type": 0,
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 899,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 699,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "sku_id": "1556809408984391730",
+                        "name": "Bloodweb",
+                        "summary": "Show this effect when others view your profile.",
+                        "type": 1,
+                        "premium_type": 0,
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 899,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 699,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ],
+                "google_sku_ids": {
+                    "5": "1556811275214786560_1556813268570341426",
+                    "7": "1556811275214786560_1556813273024962640"
+                },
+                "is_first_party": false
+            },
+            {
+                "sku_id": "1556799118427553842",
+                "name": "The Entity",
+                "summary": "Give your avatar a new look.",
+                "styles": {
+                    "background_colors": [
+                        1314057,
+                        3285535
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 899,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 699,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    }
+                },
+                "preview_assets": null,
+                "items": [
+                    {
+                        "type": 0,
+                        "sku_id": "1556799118427553842",
+                        "asset": "a_2a8858b084e3ad989b46472107427d97",
+                        "label": "A ring of jagged, claw-like blades."
+                    }
+                ],
+                "type": 0,
+                "premium_type": 0,
+                "category_sku_id": "1555701506861178970",
+                "google_sku_ids": {
+                    "5": "1556799118427553842_1556801681050697819",
+                    "7": "1556799118427553842_1556801685995786342"
+                },
+                "is_first_party": false
+            },
+            {
+                "sku_id": "1556801499403657236",
+                "name": "Dark Moon (Base)",
+                "summary": "Give your avatar a new look.",
+                "styles": {
+                    "background_colors": [
+                        1314057,
+                        3285535
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 899,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 699,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    }
+                },
+                "preview_assets": null,
+                "items": [
+                    {
+                        "type": 0,
+                        "sku_id": "1556801499403657236",
+                        "asset": "a_ad38a7dd006e5700ba9595e5e463a2a9",
+                        "label": "Crows fly out of a dark, jagged crescent moon with smoke-like edges."
+                    }
+                ],
+                "type": 0,
+                "premium_type": 0,
+                "category_sku_id": "1555701506861178970",
+                "google_sku_ids": {
+                    "5": "1556801499403657236_1556802027567194263",
+                    "7": "1556801499403657236_1556802033036562522"
+                },
+                "is_first_party": false
+            },
+            {
+                "sku_id": "1556801850206978138",
+                "name": "Dark Moon (Blood Moon)",
+                "summary": "Give your avatar a new look.",
+                "styles": {
+                    "background_colors": [
+                        1314057,
+                        3285535
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 899,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 699,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    }
+                },
+                "preview_assets": null,
+                "items": [
+                    {
+                        "type": 0,
+                        "sku_id": "1556801850206978138",
+                        "asset": "a_6cc06011b9ef1ffe3b39517ae00a0100",
+                        "label": "Crows fly out of a dark, jagged crescent moon in red with smoke-like edges."
+                    }
+                ],
+                "type": 0,
+                "premium_type": 0,
+                "category_sku_id": "1555701506861178970",
+                "google_sku_ids": {
+                    "5": "1556801850206978138_1556805235652042862",
+                    "7": "1556801850206978138_1556805241373204520"
+                },
+                "is_first_party": false
+            },
+            {
+                "sku_id": "1556807371660206281",
+                "name": "Bloodweb",
+                "summary": "Give your avatar a new look.",
+                "styles": {
+                    "background_colors": [
+                        1314057,
+                        3285535
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 899,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 699,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    }
+                },
+                "preview_assets": null,
+                "items": [
+                    {
+                        "type": 0,
+                        "sku_id": "1556807371660206281",
+                        "asset": "a_bb1e17c1e14d8bd73cbe06d948bbf9bd",
+                        "label": "A ring of pulsing red veins webbed together with dark pods."
+                    }
+                ],
+                "type": 0,
+                "premium_type": 0,
+                "category_sku_id": "1555701506861178970",
+                "google_sku_ids": {
+                    "5": "1556807371660206281_1556811242142965860",
+                    "7": "1556807371660206281_1556811247293304974"
+                },
+                "is_first_party": false
+            },
+            {
+                "sku_id": "1556807542322106429",
+                "name": "Void Pumpkins",
+                "summary": "Give your avatar a new look.",
+                "styles": {
+                    "background_colors": [
+                        1314057,
+                        3285535
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 899,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 699,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    }
+                },
+                "preview_assets": null,
+                "items": [
+                    {
+                        "type": 0,
+                        "sku_id": "1556807542322106429",
+                        "asset": "a_8680dc0edb6204316cc50141ba60fb7b",
+                        "label": "Two skeletal pumpkins rotate around each other with trails of fire."
+                    }
+                ],
+                "type": 0,
+                "premium_type": 0,
+                "category_sku_id": "1555701506861178970",
+                "google_sku_ids": {
+                    "5": "1556807542322106429_1556808544307912755",
+                    "7": "1556807542322106429_1556808549210787890"
+                },
+                "is_first_party": false
+            },
+            {
+                "sku_id": "1556807670403702794",
+                "name": "Scratch Marks (Red)",
+                "summary": "Make your name stand out in servers and chats.",
+                "styles": {
+                    "background_colors": [
+                        1314057,
+                        3285535
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 899,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 699,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    }
+                },
+                "preview_assets": null,
+                "items": [
+                    {
+                        "type": 2,
+                        "sku_id": "1556807670403702794",
+                        "asset": "nameplates/scratch_marks/1556807670403702794/",
+                        "label": "Jagged red scratch marks streak across a dark haze.",
+                        "palette": "crimson"
+                    }
+                ],
+                "type": 2,
+                "premium_type": 0,
+                "category_sku_id": "1555701506861178970",
+                "google_sku_ids": {
+                    "5": "1556807670403702794_1556808298299138170",
+                    "7": "1556807670403702794_1556808303005274152"
+                },
+                "is_first_party": false
+            },
+            {
+                "sku_id": "1556807932140851240",
+                "name": "Scratch Marks (Teal)",
+                "summary": "Make your name stand out in servers and chats.",
+                "styles": {
+                    "background_colors": [
+                        1314057,
+                        3285535
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 899,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 699,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    }
+                },
+                "preview_assets": null,
+                "items": [
+                    {
+                        "type": 2,
+                        "sku_id": "1556807932140851240",
+                        "asset": "nameplates/scratch_marks/1556807932140851240/",
+                        "label": "Jagged teal scratch marks streak across a dark haze.",
+                        "palette": "sky"
+                    }
+                ],
+                "type": 2,
+                "premium_type": 0,
+                "category_sku_id": "1555701506861178970",
+                "google_sku_ids": {
+                    "5": "1556807932140851240_1559968893089480724",
+                    "7": "1556807932140851240_1559968900995751946"
+                },
+                "is_first_party": false
+            },
+            {
+                "sku_id": "1556808071609712640",
+                "name": "Scratch Marks (Purple)",
+                "summary": "Make your name stand out in servers and chats.",
+                "styles": {
+                    "background_colors": [
+                        1314057,
+                        3285535
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 899,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 699,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    }
+                },
+                "preview_assets": null,
+                "items": [
+                    {
+                        "type": 2,
+                        "sku_id": "1556808071609712640",
+                        "asset": "nameplates/scratch_marks/1556808071609712640/",
+                        "label": "Jagged purple scratch marks streak across a dark haze.",
+                        "palette": "berry"
+                    }
+                ],
+                "type": 2,
+                "premium_type": 0,
+                "category_sku_id": "1555701506861178970",
+                "google_sku_ids": {
+                    "5": "1556808071609712640_1559967339364221059",
+                    "7": "1556808071609712640_1559967350227206295"
+                },
+                "is_first_party": false
+            },
+            {
+                "sku_id": "1556808246776434708",
+                "name": "Dark Moon (Base)",
+                "summary": "Make your name stand out in servers and chats.",
+                "styles": {
+                    "background_colors": [
+                        1314057,
+                        3285535
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 899,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 699,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    }
+                },
+                "preview_assets": null,
+                "items": [
+                    {
+                        "type": 2,
+                        "sku_id": "1556808246776434708",
+                        "asset": "nameplates/dark_moon/1556808246776434708/",
+                        "label": "A crow's head looms in the foreground beneath a full moon.",
+                        "palette": "black"
+                    }
+                ],
+                "type": 2,
+                "premium_type": 0,
+                "category_sku_id": "1555701506861178970",
+                "google_sku_ids": {
+                    "5": "1556808246776434708_1556810711261253774",
+                    "7": "1556808246776434708_1556810716319850586"
+                },
+                "is_first_party": false
+            },
+            {
+                "sku_id": "1556808521750945913",
+                "name": "Dark Moon (Blood Moon)",
+                "summary": "Make your name stand out in servers and chats.",
+                "styles": {
+                    "background_colors": [
+                        1314057,
+                        3285535
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 899,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 699,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    }
+                },
+                "preview_assets": null,
+                "items": [
+                    {
+                        "type": 2,
+                        "sku_id": "1556808521750945913",
+                        "asset": "nameplates/dark_moon/1556808521750945913/",
+                        "label": "A crow's head looms in the foreground beneath a red full moon.",
+                        "palette": "crimson"
+                    }
+                ],
+                "type": 2,
+                "premium_type": 0,
+                "category_sku_id": "1555701506861178970",
+                "google_sku_ids": {
+                    "5": "1556808521750945913_1559967507438243961",
+                    "7": "1556808521750945913_1559967527776419912"
+                },
+                "is_first_party": false
+            },
+            {
+                "sku_id": "1556803113887989800",
+                "name": "Bloodweb",
+                "summary": "Make your name stand out in servers and chats.",
+                "styles": {
+                    "background_colors": [
+                        1314057,
+                        3285535
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 899,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 699,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    }
+                },
+                "preview_assets": null,
+                "items": [
+                    {
+                        "type": 2,
+                        "sku_id": "1556803113887989800",
+                        "asset": "nameplates/bloodweb/1556803113887989800/",
+                        "label": "Red veins web together, glowing with dark pods.",
+                        "palette": "crimson"
+                    }
+                ],
+                "type": 2,
+                "premium_type": 0,
+                "category_sku_id": "1555701506861178970",
+                "google_sku_ids": {
+                    "5": "1556803113887989800_1556803708627587092",
+                    "7": "1556803113887989800_1556803713367154808"
+                },
+                "is_first_party": false
+            },
+            {
+                "sku_id": "1556803454863937566",
+                "name": "Hook",
+                "summary": "Show this effect when others view your profile.",
+                "styles": {
+                    "background_colors": [
+                        1314057,
+                        3285535
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 899,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 699,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    }
+                },
+                "preview_assets": null,
+                "items": [
+                    {
+                        "type": 1,
+                        "sku_id": "1556803454863937566",
+                        "title": "Hook",
+                        "description": "Show this effect when others view your profile.",
+                        "accessibilityLabel": "A hook stands amid fiery, floating embers.",
+                        "animationType": 2,
+                        "thumbnailPreviewSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/cab577b01a214b6b011a12711f9be71cbaa12cd422318075c6ccf06e3060d9d9",
+                        "reducedMotionSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/5e9524b4ddcef93aa2235a6486cbaf26e4264c86b1403f1a3f799902e00965d5",
+                        "effects": [
+                            {
+                                "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/8d3e81b35093e2b431fa53eaaa575bf32522316f56054f7a81fa0ddfa689b7ad",
+                                "loop": false,
+                                "duration": 4980,
+                                "start": 0,
+                                "loopDelay": 0,
+                                "zIndex": 110,
+                                "randomizedSources": []
+                            },
+                            {
+                                "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/41c18f5a837819ef440cd86699b11e1dc201e53d27c327d9dc8d9544f27ef192",
+                                "loop": true,
+                                "duration": 4068,
+                                "start": 7980,
+                                "loopDelay": 3000,
+                                "zIndex": 100,
+                                "randomizedSources": []
+                            }
+                        ]
+                    }
+                ],
+                "type": 1,
+                "premium_type": 0,
+                "category_sku_id": "1555701506861178970",
+                "google_sku_ids": {
+                    "5": "1556803454863937566_1556807449632309409",
+                    "7": "1556803454863937566_1556807456498122814"
+                },
+                "is_first_party": false
+            },
+            {
+                "sku_id": "1556808801229873322",
+                "name": "Dark Moon Crows (Base)",
+                "summary": "Show this effect when others view your profile.",
+                "styles": {
+                    "background_colors": [
+                        1314057,
+                        3285535
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 899,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 699,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    }
+                },
+                "preview_assets": null,
+                "items": [
+                    {
+                        "type": 1,
+                        "sku_id": "1556808801229873322",
+                        "title": "Dark Moon Crows",
+                        "description": "Show this effect when others view your profile.",
+                        "accessibilityLabel": "Crows circle a full moon through swirling clouds.",
+                        "animationType": 2,
+                        "thumbnailPreviewSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/e2d44b2af33aa880400d78215773e80c6965da0abb2a17099d75c2b12e212e57",
+                        "reducedMotionSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/2cddf4a53c94887be0c37bf5ea7c4ec144779c2b8b2ab68a5b2fda7fae3e5299",
+                        "effects": [
+                            {
+                                "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/fa8b3fac80a88fcf24cfee30e5f0b814880bde1fb466d5835aa573aa718d2862",
+                                "loop": false,
+                                "duration": 3984,
+                                "start": 0,
+                                "loopDelay": 0,
+                                "zIndex": 110,
+                                "randomizedSources": []
+                            },
+                            {
+                                "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/e1576790d5f03c7c35ee885468e76bb20a44e40d44c7f959e22fe1c47cb42cc2",
+                                "loop": true,
+                                "duration": 3984,
+                                "start": 6984,
+                                "loopDelay": 3000,
+                                "zIndex": 100,
+                                "randomizedSources": []
+                            }
+                        ]
+                    }
+                ],
+                "type": 1,
+                "premium_type": 0,
+                "category_sku_id": "1555701506861178970",
+                "google_sku_ids": {
+                    "5": "1556808801229873322_1556810681779621919",
+                    "7": "1556808801229873322_1556810686993014784"
+                },
+                "is_first_party": false
+            },
+            {
+                "sku_id": "1556809105601990721",
+                "name": "Dark Moon Crows (Blood Moon)",
+                "summary": "Show this effect when others view your profile.",
+                "styles": {
+                    "background_colors": [
+                        1314057,
+                        3285535
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 899,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 699,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    }
+                },
+                "preview_assets": null,
+                "items": [
+                    {
+                        "type": 1,
+                        "sku_id": "1556809105601990721",
+                        "title": "Dark Moon Crows",
+                        "description": "Show this effect when others view your profile.",
+                        "accessibilityLabel": "Crows circle a full moon through swirling clouds.",
+                        "animationType": 2,
+                        "thumbnailPreviewSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/ec0936f6f6a116d3e9af10bcc74e278a23bf94efe17c09b51d3bd9190731316b",
+                        "reducedMotionSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/5bd72ec7676db663d46e2f0882e27f7906dd1110289774a0f9d6727f112076bf",
+                        "effects": [
+                            {
+                                "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/c6511c616f05d5490a875c87d0e5423ceacfc13833c7b619a90d53fd78c36240",
+                                "loop": false,
+                                "duration": 3984,
+                                "start": 0,
+                                "loopDelay": 0,
+                                "zIndex": 110,
+                                "randomizedSources": []
+                            },
+                            {
+                                "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/b5d3f10fbb2aa2797ac185bada1d072357fdc6449df0c608a2465111df54293c",
+                                "loop": true,
+                                "duration": 3984,
+                                "start": 6984,
+                                "loopDelay": 3000,
+                                "zIndex": 100,
+                                "randomizedSources": []
+                            }
+                        ]
+                    }
+                ],
+                "type": 1,
+                "premium_type": 0,
+                "category_sku_id": "1555701506861178970",
+                "google_sku_ids": {
+                    "5": "1556809105601990721_1556811934504845312",
+                    "7": "1556809105601990721_1556811939764506724"
+                },
+                "is_first_party": false
+            },
+            {
+                "sku_id": "1556809408984391730",
+                "name": "Bloodweb",
+                "summary": "Show this effect when others view your profile.",
+                "styles": {
+                    "background_colors": [
+                        1314057,
+                        3285535
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 899,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 699,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    }
+                },
+                "preview_assets": null,
+                "items": [
+                    {
+                        "type": 1,
+                        "sku_id": "1556809408984391730",
+                        "title": "Bloodweb",
+                        "description": "Show this effect when others view your profile.",
+                        "accessibilityLabel": "Red veins web across the profile, glowing with dark pods.",
+                        "animationType": 2,
+                        "thumbnailPreviewSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/5ef5ab33e52bf089d61928b5bb407d474e2812b37c3c4a2e0d92cc66522338e9",
+                        "reducedMotionSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/a5abe06035443feefc1fbce94b6d0c7e11b8fb082fe03c5d1b49daffda903221",
+                        "effects": [
+                            {
+                                "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/66c89674b16a76da71de09b35d219e09da3aa9f7f808247e4e36c7ab5e293aa6",
+                                "loop": false,
+                                "duration": 2988,
+                                "start": 0,
+                                "loopDelay": 0,
+                                "zIndex": 110,
+                                "randomizedSources": []
+                            },
+                            {
+                                "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/b3e6eeebda58d89cbd81b5a521f8f05c7bb4dd0e2d94fa02ef18e3ec865963f9",
+                                "loop": true,
+                                "duration": 2988,
+                                "start": 5988,
+                                "loopDelay": 3000,
+                                "zIndex": 100,
+                                "randomizedSources": []
+                            }
+                        ]
+                    }
+                ],
+                "type": 1,
+                "premium_type": 0,
+                "category_sku_id": "1555701506861178970",
+                "google_sku_ids": {
+                    "5": "1556809408984391730_1556812196736929892",
+                    "7": "1556809408984391730_1556812201741000816"
+                },
+                "is_first_party": false
+            },
+            {
+                "sku_id": "1556803891289526392",
+                "name": "The Entity",
+                "summary": "Elevate and wrap your profile with a frame.",
+                "styles": {
+                    "background_colors": [
+                        1314057,
+                        3285535
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 899,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 699,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    }
+                },
+                "preview_assets": null,
+                "items": [
+                    {
+                        "type": 3,
+                        "sku_id": "1556803891289526392",
+                        "label": "Jagged, claw-like blades with glowing orange embers border the top and bottom of the profile.",
+                        "layers": [
+                            {
+                                "id": "1556804044444672091",
+                                "type": "rail",
+                                "order": "front",
+                                "anchor": "center",
+                                "responsive": true
+                            },
+                            {
+                                "id": "1556804055202795591",
+                                "type": "staple",
+                                "order": "front",
+                                "anchor": "top",
+                                "responsive": false
+                            },
+                            {
+                                "id": "1556804059498029207",
+                                "type": "staple",
+                                "order": "front",
+                                "anchor": "bottom",
+                                "responsive": false
+                            },
+                            {
+                                "id": "1556804063751045140",
+                                "type": "staple",
+                                "order": "back",
+                                "anchor": "top",
+                                "responsive": false
+                            },
+                            {
+                                "id": "1556804067785965588",
+                                "type": "staple",
+                                "order": "back",
+                                "anchor": "bottom",
+                                "responsive": false
+                            }
+                        ],
+                        "inner_width": 1200,
+                        "overflow_top": 304,
+                        "overflow_bottom": 212,
+                        "overflow_horizontal": 56
+                    }
+                ],
+                "type": 3,
+                "premium_type": 0,
+                "category_sku_id": "1555701506861178970",
+                "google_sku_ids": {
+                    "5": "1556803891289526392_1556807264323506226",
+                    "7": "1556803891289526392_1556807270099066971"
+                },
+                "is_first_party": false
+            },
+            {
+                "sku_id": "1556809649808736266",
+                "name": "Dark Moon",
+                "summary": "Elevate and wrap your profile with a frame.",
+                "styles": {
+                    "background_colors": [
+                        1314057,
+                        3285535
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 899,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 699,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    }
+                },
+                "preview_assets": null,
+                "items": [
+                    {
+                        "type": 3,
+                        "sku_id": "1556809649808736266",
+                        "label": "Crows perch on branches with a full moon behind them.",
+                        "layers": [
+                            {
+                                "id": "1556809808865136710",
+                                "type": "rail",
+                                "order": "front",
+                                "anchor": "top",
+                                "responsive": true
+                            },
+                            {
+                                "id": "1556809813197983765",
+                                "type": "staple",
+                                "order": "front",
+                                "anchor": "top",
+                                "responsive": false
+                            },
+                            {
+                                "id": "1556809825642614794",
+                                "type": "staple",
+                                "order": "front",
+                                "anchor": "bottom",
+                                "responsive": false
+                            },
+                            {
+                                "id": "1556809829652234330",
+                                "type": "staple",
+                                "order": "back",
+                                "anchor": "top",
+                                "responsive": false
+                            },
+                            {
+                                "id": "1556809833922035752",
+                                "type": "staple",
+                                "order": "back",
+                                "anchor": "bottom",
+                                "responsive": false
+                            }
+                        ],
+                        "inner_width": 1200,
+                        "overflow_top": 304,
+                        "overflow_bottom": 212,
+                        "overflow_horizontal": 53
+                    }
+                ],
+                "type": 3,
+                "premium_type": 0,
+                "category_sku_id": "1555701506861178970",
+                "google_sku_ids": {
+                    "5": "1556809649808736266_1556811385780969512",
+                    "7": "1556809649808736266_1556811392227483698"
+                },
+                "is_first_party": false
+            }
+        ],
+        "hero_banner_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/d8f6559550c103a79a14e71cde30b8813d7a340246237ab55f18a444f399b4ac",
+        "hero_banner_animated_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/0940a74ab2b42e3f76205dd33de677ced7dcdbbf5c6c5cba8934c92a75b5b7b2",
+        "hero_logo_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/8a2682d58677545405949303182907ca4f0a303a4f2b2775735c986e05482ac1",
+        "catalog_banner_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/af897ccd139ab5a5ff78873865e9dca2b6d6075eefa548bc0d7016971d27386c",
+        "catalog_banner_animated_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/bc7f1b3a3ba630ba67f4ba51a59b337fe59bb8f13568782cfe1a464b9210f4b4",
+        "featured_block_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/abf02a6c6d16e9f4636f0837f37072d6165478ac22dbcae908e2d9d49e87236d",
+        "logo_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/8a2682d58677545405949303182907ca4f0a303a4f2b2775735c986e05482ac1",
+        "pdp_bg_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/d4982f374930d2e91c6d0d20e0434f39ba922a2bdb852f098139886e01498d0e",
+        "mobile_hero_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/7c62fe004fc712fd2558e5b3be2ebc9f880eb10742e46b1fbd46b5e8b62904d8",
+        "mobile_banner_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/115a50ac9cff22835d0f6feb2b470ff1c778415992cc7f23c20442223b525147",
+        "mobile_bg_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/3dc95bfee22e2e33e451875ba8a99c7dfb43a19ac7624a789f1a4e5d0a389587",
+        "hero_banner_display_config": {
+            "desktop_max_height": null,
+            "mobile_max_height": null,
+            "responsive": true,
+            "background_style": "linear-gradient(180deg, #140D09 0%, #32221F 100%)"
+        },
+        "hero_logo_display_config": {
+            "desktop_max_height": 110,
+            "mobile_max_height": null,
+            "responsive": null,
+            "background_style": null
+        }
     }
 ]
