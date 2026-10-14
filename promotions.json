@@ -334,5 +334,23 @@
         "country_list_mode": "allowlist",
         "partner_id": "youtube",
         "promotion_type": 4
+    },
+    {
+        "id": "1554632826140500099",
+        "marketing_components": [],
+        "start_date": "2026-10-09T20:34:23.300000+00:00",
+        "end_date": "2026-11-19T05:59:00+00:00",
+        "outbound_redemption_end_date": "2026-11-19T05:59:00+00:00",
+        "outbound_title": "Best Buy Plus",
+        "outbound_redemption_modal_body": "Best Buy Plus",
+        "outbound_terms_and_conditions": "T&C",
+        "outbound_redemption_page_link": "https://www.bestbuy.com/site/clp-membership/null/pcmcat1789762764770.c?id=pcmcat1789762764770",
+        "flags": 13,
+        "allowed_countries": [
+            "US"
+        ],
+        "country_list_mode": "allowlist",
+        "partner_id": "best_buy",
+        "promotion_type": 4
     }
 ]
