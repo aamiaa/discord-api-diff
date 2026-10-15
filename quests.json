@@ -124291,11 +124291,11 @@
                 "name": "Where Winds Meet"
             },
             "assets": {
-                "hero": "quests/1554683719422316636/1554771505303527474.jpg",
-                "hero_video": "quests/1554683719422316636/1554771581992173608_720.mp4",
-                "quest_bar_hero_blurhash": "SbcFDIRWSWe4Z4eQWGinZT9J8w==",
-                "quest_bar_hero": "quests/1554683719422316636/1554771480703664138.jpg",
-                "quest_bar_hero_video": "quests/1554683719422316636/1554771544486576148_720.mp4",
+                "hero": "quests/1554683719422316636/1560322174626037841.jpg",
+                "hero_video": "quests/1554683719422316636/1560322385184292974_720.mp4",
+                "quest_bar_hero_blurhash": "iygGDIIIyEd3dnuMh4cIeHvAlw==",
+                "quest_bar_hero": "quests/1554683719422316636/1560322174680572045.jpg",
+                "quest_bar_hero_video": "quests/1554683719422316636/1560322234696990761_720.mp4",
                 "game_tile": "PLACEHOLDER",
                 "logotype": "PLACEHOLDER",
                 "game_tile_light": "quests/1527502945875263548/1527507273658667068.png",
@@ -124308,7 +124308,7 @@
                 "secondary": "#000000"
             },
             "messages": {
-                "quest_name": "Where Winds Meet 2.2 Wuxia New Era",
+                "quest_name": "Version 2.3: Friends from Afar",
                 "game_title": "Where Winds Meet",
                 "game_publisher": "NETEASE"
             },
@@ -125410,6 +125410,137 @@
             "cta_config": {
                 "link": "https://akendfield.gryphline.com/d27t/V1D6DPQ",
                 "button_label": "Play Now"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "ad_context": null,
+        "preview": false,
+        "traffic_metadata_raw": "EAIYAQ=="
+    },
+    {
+        "id": "1552202240339611688",
+        "config": {
+            "id": "1552202240339611688",
+            "config_version": 2,
+            "starts_at": "2026-10-15T16:00:00+00:00",
+            "expires_at": "2026-11-01T00:00:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://connect.enshrouded.com/Discord_Quest",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1552202240339611688/1554165076234080368.jpg",
+                "hero_video": "quests/1552202240339611688/1554165094886154361_720.mp4",
+                "quest_bar_hero_blurhash": "INgNEoSjgmp/p1eIwDEIO2Y=",
+                "quest_bar_hero": "quests/1552202240339611688/1554165076234080368.jpg",
+                "quest_bar_hero_video": "quests/1552202240339611688/1554165094886154361_720.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1552202240339611688/1554164625501716540.png",
+                "game_tile_dark": "quests/1552202240339611688/1554164625501716540.png",
+                "logotype_light": "quests/1552202240339611688/1554527164097896609.png",
+                "logotype_dark": "quests/1552202240339611688/1554526759993610411.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "The Co-op Survival RPG You Can't Miss",
+                "game_title": "Enshrouded",
+                "game_publisher": "Keen Games"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 45,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1552202240339611688/1556703387146391664_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1552202240339611688/1554164656787030168.png"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1552202240339611688/1556703387146391664_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1552202240339611688/1554164656787030168.png"
+                            },
+                            "video_hls": {
+                                "url": "quests/1552202240339611688/1556703387146391664.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1552202240339611688/1554164656787030168.png"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 45,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1552202240339611688/1556703387146391664_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1552202240339611688/1554164656787030168.png"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1552202240339611688/1556703387146391664_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1552202240339611688/1554164656787030168.png"
+                            },
+                            "video_hls": {
+                                "url": "quests/1552202240339611688/1556703387146391664.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1552202240339611688/1554164656787030168.png"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "200 Orbs",
+                            "name_with_article": "200 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 200,
+                        "premium_orb_quantity": 240
+                    }
+                ],
+                "rewards_expire_at": "2026-12-01T00:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://connect.enshrouded.com/Discord_Quest",
+                "button_label": "Play Now",
+                "subtitle": "Enshrouded 1.0 Out Now"
             }
         },
         "user_status": null,
