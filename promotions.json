@@ -101,27 +101,6 @@
         "id": "1550247125034598460",
         "marketing_components": [
             {
-                "id": "1550249846856745040",
-                "promotion_id": "1550247125034598460",
-                "premium_offer_type": 0,
-                "premium_type": null,
-                "premium_source": null,
-                "premium_subscription_type": null,
-                "component_type": 10,
-                "theme": 0,
-                "experiment_id": null,
-                "experiment_variation_id": null,
-                "ready": true,
-                "properties": {
-                    "giftReminderNagbar": {
-                        "body": "Limited time offer! Gift Nitro and get a free decoration to keep.",
-                        "bodyLocalized": {}
-                    }
-                },
-                "start_date": null,
-                "end_date": null
-            },
-            {
                 "id": "1550251364905394196",
                 "promotion_id": "1550247125034598460",
                 "premium_offer_type": 0,
@@ -204,6 +183,27 @@
                 "end_date": null
             },
             {
+                "id": "1550249846856745040",
+                "promotion_id": "1550247125034598460",
+                "premium_offer_type": 0,
+                "premium_type": null,
+                "premium_source": null,
+                "premium_subscription_type": null,
+                "component_type": 10,
+                "theme": 0,
+                "experiment_id": null,
+                "experiment_variation_id": null,
+                "ready": true,
+                "properties": {
+                    "giftReminderNagbar": {
+                        "body": "Limited time offer! Gift Nitro and get a free decoration to keep.",
+                        "bodyLocalized": {}
+                    }
+                },
+                "start_date": null,
+                "end_date": null
+            },
+            {
                 "id": "1550248220007862382",
                 "promotion_id": "1550247125034598460",
                 "premium_offer_type": 0,
@@ -279,7 +279,8 @@
                 "localization_status": 2,
                 "localization": {
                     "status": 2,
-                    "requested_at": null
+                    "requested_at": null,
+                    "expedited_at": null
                 },
                 "reward_config": null,
                 "is_custom_experiment": false

@@ -121322,7 +121322,7 @@
             "id": "1555158122522349568",
             "config_version": 2,
             "starts_at": "2026-10-05T17:00:00+00:00",
-            "expires_at": "2026-10-20T00:00:00+00:00",
+            "expires_at": "2026-10-17T05:15:00+00:00",
             "features": [
                 15
             ],
@@ -121427,7 +121427,7 @@
                         "premium_orb_quantity": 240
                     }
                 ],
-                "rewards_expire_at": "2026-11-19T00:00:00+00:00",
+                "rewards_expire_at": "2026-11-16T05:15:00+00:00",
                 "platforms": [
                     0
                 ]
@@ -126491,6 +126491,231 @@
                 "link": "https://playvalorant.com/?utm_source=discord&utm_medium=paid&utm_campaign=valaces2026",
                 "button_label": "Play Free Now",
                 "subtitle": "VALORANT Aces"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "ad_context": null,
+        "preview": false,
+        "traffic_metadata_raw": "EAIYAQ=="
+    },
+    {
+        "id": "1552893313500184617",
+        "config": {
+            "id": "1552893313500184617",
+            "config_version": 2,
+            "starts_at": "2026-10-16T17:00:00+00:00",
+            "expires_at": "2026-11-07T01:00:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://www.callofduty.com/playnow/modernwarfare4",
+                "id": "1511443377927880775",
+                "name": "Call of Duty: Modern Warfare 4"
+            },
+            "assets": {
+                "hero": "quests/1552893313500184617/1559713299635904542.jpg",
+                "hero_video": "quests/1552893313500184617/1559713399598751744_720.mp4",
+                "quest_bar_hero_blurhash": "ThgKCoIJ2WWshJhnBlOLIEY=",
+                "quest_bar_hero": "quests/1552893313500184617/1559713299635904542.jpg",
+                "quest_bar_hero_video": "quests/1552893313500184617/1559713411254976584_720.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1552893313500184617/1559715882924511252.png",
+                "game_tile_dark": "quests/1552893313500184617/1559715885319594065.png",
+                "logotype_light": "quests/1552893313500184617/1559715883348271144.png",
+                "logotype_dark": "quests/1552893313500184617/1559715883142746112.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Call of Duty: Modern Warfare 4",
+                "game_title": "Call of Duty: Modern Warfare 4",
+                "game_publisher": "Activision"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1511443377927880775"
+                            }
+                        ]
+                    },
+                    "PLAY_ON_XBOX": {
+                        "type": "PLAY_ON_XBOX",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1511443377927880775"
+                            }
+                        ],
+                        "external_ids": [
+                            "2001700854",
+                            "1680003655"
+                        ]
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "type": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1511443377927880775"
+                            }
+                        ],
+                        "external_ids": [
+                            "CUSA23827_00",
+                            "PPSA07950_00",
+                            "CUSA53714_00",
+                            "PPSA07953_00",
+                            "CUSA53711_00",
+                            "CUSA34031_00",
+                            "CUSA53710_00",
+                            "CUSA34030_00",
+                            "PPSA28781_00",
+                            "CUSA53713_00",
+                            "PPSA07951_00",
+                            "PPSA24264_00",
+                            "PPSA24265_00",
+                            "PPSA01649_00",
+                            "PPSA07952_00",
+                            "CUSA34029_00",
+                            "CUSA34032_00",
+                            "CUSA53712_00",
+                            "PPSA24263_00",
+                            "PPSA24266_00"
+                        ]
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 1,
+                        "sku_id": "1552893313500184618",
+                        "asset": "quests/1552893313500184617/1559719027407069194.jpg",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "Exclusive Calling Card",
+                            "name_with_article": "an Exclusive Calling Card",
+                            "redemption_instructions_by_platform": {
+                                "0": "Redeem your code for an exclusive Calling Card at callofduty.com/redeem."
+                            }
+                        },
+                        "approximate_count": null,
+                        "redemption_link": "http://callofduty.com/promotions/redeemcode"
+                    }
+                ],
+                "rewards_expire_at": "2026-12-07T01:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://www.callofduty.com/playnow/modernwarfare4",
+                "button_label": "Play Now",
+                "subtitle": "Witness the epic conclusion. Pre-Order digitally and play Campaign Early Access now."
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "ad_context": null,
+        "preview": false,
+        "traffic_metadata_raw": "EAIYAQ=="
+    },
+    {
+        "id": "1552348509838123168",
+        "config": {
+            "id": "1552348509838123168",
+            "config_version": 2,
+            "starts_at": "2026-10-16T17:00:00+00:00",
+            "expires_at": "2026-10-23T06:59:00+00:00",
+            "features": [
+                27,
+                36,
+                15
+            ],
+            "application": {
+                "link": "https://www.laroche-posay.us/gaming-for-cause.html?srsltid=AU7gw4UJ3tjYSMAQGuSGjZZN6PTCcuPAfLPxnzKP0dUSLGGpIuU8zfsl",
+                "id": "1550073301500567582",
+                "name": "Black Belt"
+            },
+            "assets": {
+                "hero": "quests/1552348509838123168/1559976798744223914.jpg",
+                "hero_video": "quests/1552348509838123168/1559992962778406912_720.mp4",
+                "quest_bar_hero_blurhash": "mWUJOo5/RlxMiJdncJQFR2o=",
+                "quest_bar_hero": "quests/1552348509838123168/1559976798744223914.jpg",
+                "quest_bar_hero_video": "quests/1552348509838123168/1559992962778406912_720.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1552348509838123168/1559976515473645661.png",
+                "game_tile_dark": "quests/1552348509838123168/1559976515473645661.png",
+                "logotype_light": "quests/1552348509838123168/1559976587963666533.png",
+                "logotype_dark": "quests/1552348509838123168/1559976587963666533.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Gaming for Cause",
+                "game_title": "Gaming for Cause",
+                "game_publisher": "La Roche-Posay"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "ACHIEVEMENT_IN_ACTIVITY": {
+                        "type": "ACHIEVEMENT_IN_ACTIVITY",
+                        "target": 5,
+                        "applications": [
+                            {
+                                "id": "1550073301500567582"
+                            }
+                        ],
+                        "event_name": "progress",
+                        "messages": {
+                            "task_title": "Black Belt",
+                            "task_description": "Find all 5 Gaming For Cause stickers in Ninja's room to earn 700 Orbs "
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 Orbs",
+                            "name_with_article": "700 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 700,
+                        "premium_orb_quantity": 840
+                    }
+                ],
+                "rewards_expire_at": "2026-11-22T06:59:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://www.laroche-posay.us/gaming-for-cause.html?srsltid=AU7gw4UJ3tjYSMAQGuSGjZZN6PTCcuPAfLPxnzKP0dUSLGGpIuU8zfsl",
+                "button_label": "Visit Website",
+                "subtitle": "Explore more about Gaming For Cause"
             }
         },
         "user_status": null,
