@@ -121322,7 +121322,7 @@
             "id": "1555158122522349568",
             "config_version": 2,
             "starts_at": "2026-10-05T17:00:00+00:00",
-            "expires_at": "2026-10-15T21:15:00+00:00",
+            "expires_at": "2026-10-20T00:00:00+00:00",
             "features": [
                 15
             ],
@@ -121427,7 +121427,7 @@
                         "premium_orb_quantity": 240
                     }
                 ],
-                "rewards_expire_at": "2026-11-14T21:15:00+00:00",
+                "rewards_expire_at": "2026-11-19T00:00:00+00:00",
                 "platforms": [
                     0
                 ]
@@ -126405,5 +126405,98 @@
                 "button_label": "Play Now"
             }
         }
+    },
+    {
+        "id": "1551980932276293683",
+        "config": {
+            "id": "1551980932276293683",
+            "config_version": 2,
+            "starts_at": "2026-10-16T16:00:00+00:00",
+            "expires_at": "2026-10-26T23:59:00+00:00",
+            "features": [
+                27,
+                36,
+                15
+            ],
+            "application": {
+                "link": "https://playvalorant.com/?utm_source=discord&utm_medium=paid&utm_campaign=valaces2026",
+                "id": "1536318183873454090",
+                "name": "Spades"
+            },
+            "assets": {
+                "hero": "quests/1551980932276293683/1553077441788903474.jpg",
+                "hero_video": "quests/1551980932276293683/1553077580767436962.mp4",
+                "quest_bar_hero_blurhash": "z/cJCoAwWW1mepl3v13T/BM=",
+                "quest_bar_hero": "quests/1551980932276293683/1553077441788903474.jpg",
+                "quest_bar_hero_video": "quests/1551980932276293683/1553077580767436962.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1551980932276293683/1553077381638660231.png",
+                "game_tile_dark": "quests/1551980932276293683/1553077381638660231.png",
+                "logotype_light": "quests/1551980932276293683/1553077363468927197.png",
+                "logotype_dark": "quests/1551980932276293683/1553077381567352852.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "VALORANT Aces Round 3",
+                "game_title": "VALORANT",
+                "game_publisher": "Riot Games"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "ACHIEVEMENT_IN_ACTIVITY": {
+                        "type": "ACHIEVEMENT_IN_ACTIVITY",
+                        "target": 1,
+                        "applications": [
+                            {
+                                "id": "1536318183873454090"
+                            }
+                        ],
+                        "event_name": "progress",
+                        "messages": {
+                            "task_title": "VALORANT Aces Round 3",
+                            "task_description": "Run it back and relive some of the greatest plays in VALORANT esports, but this time YOU'RE in the driver's seat. Can you ACE it?"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 Orbs",
+                            "name_with_article": "700 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 700,
+                        "premium_orb_quantity": 840
+                    }
+                ],
+                "rewards_expire_at": "2026-11-25T23:59:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://playvalorant.com/?utm_source=discord&utm_medium=paid&utm_campaign=valaces2026",
+                "button_label": "Play Free Now",
+                "subtitle": "VALORANT Aces"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "ad_context": null,
+        "preview": false,
+        "traffic_metadata_raw": "EAIYAQ=="
     }
 ]
