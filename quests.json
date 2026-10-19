@@ -127193,5 +127193,638 @@
         "ad_context": null,
         "preview": false,
         "traffic_metadata_raw": "EAIYAQ=="
+    },
+    {
+        "id": "1558112706446368769",
+        "config": {
+            "id": "1558112706446368769",
+            "config_version": 2,
+            "starts_at": "2026-10-19T17:00:00+00:00",
+            "expires_at": "2026-10-24T23:00:00+00:00",
+            "features": [
+                44,
+                15
+            ],
+            "application": {
+                "link": "https://www.dreamgames.com/games/royal-match",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1558039850270203925/1558049215953903688.jpg",
+                "quest_bar_hero_blurhash": "WZcJJIwgGWd7aomWZ3l2cHkIZw==",
+                "quest_bar_hero": "quests/1558039850270203925/1558048886562619434.jpg",
+                "quest_bar_hero_video": "quests/1558039850270203925/1558048991667687506_720.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1558039850270203925/1558048605724475412.png",
+                "game_tile_dark": "quests/1558039850270203925/1558048605724475412.png",
+                "logotype_light": "quests/1558039850270203925/1558048699530215445.png",
+                "logotype_dark": "quests/1558039850270203925/1558048699530215445.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Royal Match",
+                "game_title": "Royal Match",
+                "game_publisher": "Dream Games"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 58,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1558112706446368769/1560598818389491782_1080.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1558039850270203925/1558052190264885248.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1558112706446368769/1560598818389491782_720.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1558039850270203925/1558052190264885248.jpg"
+                            },
+                            "video_hls": {
+                                "url": "quests/1558112706446368769/1560598818389491782.m3u8",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1558039850270203925/1558052190264885248.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "200 Orbs",
+                            "name_with_article": "200 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 200,
+                        "premium_orb_quantity": 240
+                    }
+                ],
+                "rewards_expire_at": "2026-11-23T23:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "android": {
+                    "android_app_id": "com.dreamgames.royalmatch"
+                },
+                "ios": {
+                    "ios_app_id": "1482155847"
+                },
+                "link": "https://www.dreamgames.com/games/royal-match",
+                "button_label": "Download"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "ad_context": null,
+        "preview": false,
+        "traffic_metadata_raw": "EAIYAQ=="
+    },
+    {
+        "id": "1557109486291001375",
+        "config": {
+            "id": "1557109486291001375",
+            "config_version": 2,
+            "starts_at": "2026-10-19T17:00:00+00:00",
+            "expires_at": "2026-10-26T00:00:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://geni.us/RivalSenseiPro30",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1553913530225262633/1554253132614074368.jpg",
+                "hero_video": "quests/1553913530225262633/1554252997465211051_720.mp4",
+                "quest_bar_hero_blurhash": "qBgKFIKWdp56d4efhXfyezufqA==",
+                "quest_bar_hero": "quests/1553913530225262633/1554253079459794954.jpg",
+                "quest_bar_hero_video": "quests/1553913530225262633/1554252997465211051_720.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1553913530225262633/1554252577128976454.png",
+                "game_tile_dark": "quests/1553913530225262633/1554252577036832898.png",
+                "logotype_light": "quests/1553913530225262633/1554252577934147605.png",
+                "logotype_dark": "quests/1553913530225262633/1554252577065926797.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Sensei Pro and Rival Pro",
+                "game_title": "Sensei Pro & Rival Pro",
+                "game_publisher": "SteelSeries GG"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 29,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1553913530225262633/1557179098118225921_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1553913530225262633/1554252576789106759.png"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1553913530225262633/1557179098118225921_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1553913530225262633/1554252576789106759.png"
+                            },
+                            "video_hls": {
+                                "url": "quests/1553913530225262633/1557179098118225921.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1553913530225262633/1554252576789106759.png"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 29,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1553913530225262633/1557179098118225921_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1553913530225262633/1554252576789106759.png"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1553913530225262633/1557179098118225921_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1553913530225262633/1554252576789106759.png"
+                            },
+                            "video_hls": {
+                                "url": "quests/1553913530225262633/1557179098118225921.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1553913530225262633/1554252576789106759.png"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "200 Orbs",
+                            "name_with_article": "200 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 200,
+                        "premium_orb_quantity": 240
+                    }
+                ],
+                "rewards_expire_at": "2026-11-25T00:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://geni.us/RivalSenseiPro30",
+                "button_label": "Buy Now",
+                "subtitle": "Ultra Wideband for Insane Performance - Shop Now"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "ad_context": null,
+        "preview": false,
+        "traffic_metadata_raw": "EAIYAQ=="
+    },
+    {
+        "id": "1559920791959769158",
+        "config": {
+            "id": "1559920791959769158",
+            "config_version": 2,
+            "starts_at": "2026-10-19T17:00:00+00:00",
+            "expires_at": "2026-10-26T00:00:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://store.steampowered.com/app/3734220/Guns_of_Eschaton/?utm_source=discord&utm_medium=quest&utm_campaign=goe_video_quest_oct26&utm_content=video",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1559920791959769158/1560644425774796872.jpg",
+                "hero_video": "quests/1559920791959769158/1560644492716019752_720.mp4",
+                "quest_bar_hero_blurhash": "0CgKFIIJiYiJh4dyiWcMh/ByGA==",
+                "quest_bar_hero": "quests/1559920791959769158/1560644388479311942.jpg",
+                "quest_bar_hero_video": "quests/1559920791959769158/1560644492716019752_720.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1559920791959769158/1560643061372162079.png",
+                "game_tile_dark": "quests/1559920791959769158/1560643061372162079.png",
+                "logotype_light": "quests/1559920791959769158/1560643291228278844.png",
+                "logotype_dark": "quests/1559920791959769158/1560648441355575479.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Gun Of Eschaton",
+                "game_title": "Gun Of Eschaton",
+                "game_publisher": "4Divinity"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 127,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1559920791959769158/1560644961312047174_1080.mp4",
+                                "width": 2560,
+                                "height": 1440,
+                                "thumbnail": "quests/1559920791959769158/1560643980511678505.png",
+                                "caption": "quests/1559920791959769158/1560645514247282719.vtt"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1559920791959769158/1560644961312047174_720.mp4",
+                                "width": 2560,
+                                "height": 1440,
+                                "thumbnail": "quests/1559920791959769158/1560643980511678505.png",
+                                "caption": "quests/1559920791959769158/1560645514247282719.vtt"
+                            },
+                            "video_hls": {
+                                "url": "quests/1559920791959769158/1560644961312047174.m3u8",
+                                "width": 2560,
+                                "height": 1440,
+                                "thumbnail": "quests/1559920791959769158/1560643980511678505.png",
+                                "caption": "quests/1559920791959769158/1560645514247282719.vtt"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 127,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1559920791959769158/1560644961312047174_1080.mp4",
+                                "width": 2560,
+                                "height": 1440,
+                                "thumbnail": "quests/1559920791959769158/1560643980511678505.png",
+                                "caption": "quests/1559920791959769158/1560645514247282719.vtt"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1559920791959769158/1560644961312047174_720.mp4",
+                                "width": 2560,
+                                "height": 1440,
+                                "thumbnail": "quests/1559920791959769158/1560643980511678505.png",
+                                "caption": "quests/1559920791959769158/1560645514247282719.vtt"
+                            },
+                            "video_hls": {
+                                "url": "quests/1559920791959769158/1560644961312047174.m3u8",
+                                "width": 2560,
+                                "height": 1440,
+                                "thumbnail": "quests/1559920791959769158/1560643980511678505.png",
+                                "caption": "quests/1559920791959769158/1560645514247282719.vtt"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "200 Orbs",
+                            "name_with_article": "200 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 200,
+                        "premium_orb_quantity": 240
+                    }
+                ],
+                "rewards_expire_at": "2026-11-25T00:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://store.steampowered.com/app/3734220/Guns_of_Eschaton/?utm_source=discord&utm_medium=quest&utm_campaign=goe_video_quest_oct26&utm_content=video",
+                "button_label": "Play Now"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "ad_context": null,
+        "preview": false,
+        "traffic_metadata_raw": "EAIYAQ=="
+    },
+    {
+        "id": "1555669093204500591",
+        "config": {
+            "id": "1555669093204500591",
+            "config_version": 2,
+            "starts_at": "2026-10-19T17:00:00+00:00",
+            "expires_at": "2026-11-09T01:00:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://www.topazlabs.com/promos/adobe/studio?utm_source=discord&utm_medium=paid_social&utm_campaign=topaz_studio_Oct-Adobe-Promo_20161019",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1555669093204500591/1560045804025286737.jpg",
+                "hero_video": "quests/1555669093204500591/1560045860962836500_720.mp4",
+                "quest_bar_hero_blurhash": "6OcJEoTYc3qfeKeHBG118VY=",
+                "quest_bar_hero": "quests/1555669093204500591/1560045804025286737.jpg",
+                "quest_bar_hero_video": "quests/1555669093204500591/1560045860962836500_720.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1555669093204500591/1560045513246515351.png",
+                "game_tile_dark": "quests/1555669093204500591/1560045513234059294.png",
+                "logotype_light": "quests/1555669093204500591/1560339801217966271.png",
+                "logotype_dark": "quests/1555669093204500591/1560339800807178322.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Save 50% on Topaz Studio",
+                "game_title": "Add detail and realism to low-res videos",
+                "game_publisher": "Topaz Studio"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 9,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1555669093204500591/1560045513359884439_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1555669093204500591/1560045513938702396.png"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1555669093204500591/1560045513359884439_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1555669093204500591/1560045513938702396.png"
+                            },
+                            "video_hls": {
+                                "url": "quests/1555669093204500591/1560045513359884439.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1555669093204500591/1560045513938702396.png"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 9,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1555669093204500591/1560045513359884439_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1555669093204500591/1560045513938702396.png"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1555669093204500591/1560045513359884439_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1555669093204500591/1560045513938702396.png"
+                            },
+                            "video_hls": {
+                                "url": "quests/1555669093204500591/1560045513359884439.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1555669093204500591/1560045513938702396.png"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "200 Orbs",
+                            "name_with_article": "200 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 200,
+                        "premium_orb_quantity": 240
+                    }
+                ],
+                "rewards_expire_at": "2026-12-09T01:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://www.topazlabs.com/promos/adobe/studio?utm_source=discord&utm_medium=paid_social&utm_campaign=topaz_studio_Oct-Adobe-Promo_20161019",
+                "button_label": "Get Offer",
+                "subtitle": "Save 50% on your first 3 months, ends Nov 16"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "ad_context": null,
+        "preview": false,
+        "traffic_metadata_raw": "EAIYAQ=="
+    },
+    {
+        "id": "1553913530225262633",
+        "config": {
+            "id": "1553913530225262633",
+            "config_version": 2,
+            "starts_at": "2026-10-19T17:00:00+00:00",
+            "expires_at": "2026-10-26T00:00:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://geni.us/RivalSenseiPro90",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1553913530225262633/1554253132614074368.jpg",
+                "hero_video": "quests/1553913530225262633/1554252997465211051_720.mp4",
+                "quest_bar_hero_blurhash": "qBgKFIKWdp56d4efhXfyezufqA==",
+                "quest_bar_hero": "quests/1553913530225262633/1554253079459794954.jpg",
+                "quest_bar_hero_video": "quests/1553913530225262633/1554252997465211051_720.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1553913530225262633/1554252577128976454.png",
+                "game_tile_dark": "quests/1553913530225262633/1554252577036832898.png",
+                "logotype_light": "quests/1553913530225262633/1554252577934147605.png",
+                "logotype_dark": "quests/1553913530225262633/1554252577065926797.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Sensei Pro and Rival Pro",
+                "game_title": "Sensei Pro & Rival Pro",
+                "game_publisher": "SteelSeries GG"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 92,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1553913530225262633/1554254047039455322_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1553913530225262633/1554252576789106759.png"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1553913530225262633/1554254047039455322_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1553913530225262633/1554252576789106759.png"
+                            },
+                            "video_hls": {
+                                "url": "quests/1553913530225262633/1554254047039455322.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1553913530225262633/1554252576789106759.png"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 92,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1553913530225262633/1554254047039455322_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1553913530225262633/1554252576789106759.png"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1553913530225262633/1554254047039455322_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1553913530225262633/1554252576789106759.png"
+                            },
+                            "video_hls": {
+                                "url": "quests/1553913530225262633/1554254047039455322.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1553913530225262633/1554252576789106759.png"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "200 Orbs",
+                            "name_with_article": "200 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 200,
+                        "premium_orb_quantity": null
+                    }
+                ],
+                "rewards_expire_at": "2026-11-25T00:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://geni.us/RivalSenseiPro90",
+                "button_label": "Buy Now",
+                "subtitle": "Ultra Wideband for Insane Performance - Shop Now"
+            }
+        }
     }
 ]
