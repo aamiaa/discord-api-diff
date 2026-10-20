@@ -128083,5 +128083,218 @@
                 "subtitle": "Join The FanDuel Server"
             }
         }
+    },
+    {
+        "id": "1560389333956034571",
+        "config": {
+            "id": "1560389333956034571",
+            "config_version": 2,
+            "starts_at": "2026-10-20T18:30:00+00:00",
+            "expires_at": "2026-10-28T00:00:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://www.probablymonsters.com/en/nekome/?utm_source=discord&utm_medium=quest&utm_campaign=next_fest_2026",
+                "id": "1560760495248777256",
+                "name": "Nekome: Nazi Hunter"
+            },
+            "assets": {
+                "hero": "quests/1560389333956034571/1561822710416408616.jpg",
+                "quest_bar_hero_blurhash": "nKwGLITtkmhflZeFmHn+X+b+VQ==",
+                "quest_bar_hero": "quests/1560389333956034571/1562148372494819460.jpg",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1560389333956034571/1560448094741729320.jpg",
+                "game_tile_dark": "quests/1560389333956034571/1560448094741729320.jpg",
+                "logotype_light": "quests/1560389333956034571/1560448094817091614.png",
+                "logotype_dark": "quests/1560389333956034571/1560448095156969552.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Play Nekome Demo",
+                "game_title": "Nekome",
+                "game_publisher": "ProbablyMonsters"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1560760495248777256"
+                            }
+                        ]
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 Orbs",
+                            "name_with_article": "700 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 700,
+                        "premium_orb_quantity": 840
+                    }
+                ],
+                "rewards_expire_at": "2026-11-27T00:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://www.probablymonsters.com/en/nekome/?utm_source=discord&utm_medium=quest&utm_campaign=next_fest_2026",
+                "button_label": "Play Now"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "ad_context": null,
+        "preview": false,
+        "traffic_metadata_raw": "EAIYAQ=="
+    },
+    {
+        "id": "1552735480024531076",
+        "config": {
+            "id": "1552735480024531076",
+            "config_version": 2,
+            "starts_at": "2026-10-20T18:00:00+00:00",
+            "expires_at": "2026-10-30T00:00:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://discord.com/invite/wizards-magic",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1552735480024531076/1560073085888241714.jpg",
+                "quest_bar_hero_blurhash": "j4kGFIZ2FaiPiGdae3iFn2r6uQ==",
+                "quest_bar_hero": "quests/1552735480024531076/1560455897312927835.jpg",
+                "quest_bar_hero_video": "quests/1552735480024531076/1560455911141543936_720.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1552735480024531076/1560073877432963102.png",
+                "game_tile_dark": "quests/1552735480024531076/1560071538001182760.png",
+                "logotype_light": "quests/1552735480024531076/1560073594569097226.png",
+                "logotype_dark": "quests/1552735480024531076/1560071536944357458.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Magic: The Gathering | Star Trek",
+                "game_title": "Join the official Magic: The Gathering server",
+                "game_publisher": "Wizards of The Coast"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 119,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1552735480024531076/1561796312687575161_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1552735480024531076/1560455692924485673.png"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1552735480024531076/1561796312687575161_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1552735480024531076/1560455692924485673.png"
+                            },
+                            "video_hls": {
+                                "url": "quests/1552735480024531076/1561796312687575161.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1552735480024531076/1560455692924485673.png"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 119,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1552735480024531076/1561796312687575161_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1552735480024531076/1560455692924485673.png"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1552735480024531076/1561796312687575161_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1552735480024531076/1560455692924485673.png"
+                            },
+                            "video_hls": {
+                                "url": "quests/1552735480024531076/1561796312687575161.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1552735480024531076/1560455692924485673.png"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "200 Orbs",
+                            "name_with_article": "200 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 200,
+                        "premium_orb_quantity": 240
+                    }
+                ],
+                "rewards_expire_at": "2026-11-29T00:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://discord.com/invite/wizards-magic",
+                "button_label": "Join Server",
+                "subtitle": "Join the official Magic: The Gathering server"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "ad_context": null,
+        "preview": false,
+        "traffic_metadata_raw": "EAIYAQ=="
     }
 ]
