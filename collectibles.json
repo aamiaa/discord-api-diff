@@ -151500,7 +151500,7 @@
                     {
                         "type": 0,
                         "sku_id": "1498447602054598888",
-                        "asset": "a_ad4ccdcd7723bbd2f841217d8c7cfbaf",
+                        "asset": "a_d99bdd79bdb259ffa2777dfdab8e9d75",
                         "label": "Green striped watermelon rind hood around avatar"
                     }
                 ],
@@ -195378,6 +195378,1550 @@
             "mobile_max_height": null,
             "responsive": true,
             "background_style": "linear-gradient(180deg, #140D09 0%, #32221F 100%)"
+        },
+        "hero_logo_display_config": {
+            "desktop_max_height": 110,
+            "mobile_max_height": null,
+            "responsive": null,
+            "background_style": null
+        }
+    },
+    {
+        "sku_id": "1558225633413173430",
+        "name": "The Nightmare Before Christmas",
+        "summary": " ",
+        "store_listing_id": "1558225633413173430",
+        "styles": {
+            "background_colors": [
+                2828631,
+                7104371
+            ],
+            "button_colors": [
+                5793266,
+                5793266
+            ],
+            "confetti_colors": [
+                43772,
+                15774258,
+                16414587,
+                3000177,
+                9739511
+            ]
+        },
+        "hero_ranking": [
+            "1559671447574544485",
+            "1559635382172258366",
+            "1559631197070426122",
+            "1559631474259398756",
+            "1559632048791097385",
+            "1559627983088783492",
+            "1559628807718051933",
+            "1559629977685860432",
+            "1559671735320711248",
+            "1559672894622007336",
+            "1559632434109091910",
+            "1559632988885618788",
+            "1559633219555557497",
+            "1559633476419059792",
+            "1559647861375766689"
+        ],
+        "products": [
+            {
+                "sku_id": "1559671447574544485",
+                "name": "Jack Skellington Bundle",
+                "summary": "{joinedItems}",
+                "styles": {
+                    "background_colors": [
+                        2828631,
+                        7104371
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 2399,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 1799,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    }
+                },
+                "preview_assets": {
+                    "fg_static": "https://cdn.discordapp.com/media/v1/collectibles-shop/bundle-fg-static/1559671447574544485",
+                    "bg_static": "https://cdn.discordapp.com/media/v1/collectibles-shop/bundle-bg-static/1559671447574544485"
+                },
+                "items": [
+                    {
+                        "type": 0,
+                        "sku_id": "1559627983088783492",
+                        "asset": "a_e81e1e612b7f8e117aab78bd93a7b13f",
+                        "label": "A ring of bones with Jack Skellington's face appearing in the middle"
+                    },
+                    {
+                        "type": 2,
+                        "sku_id": "1559632434109091910",
+                        "asset": "nameplates/jack_skellington/1559632434109091910/",
+                        "label": "Jack Skellington waves and grins, and then changes into a devilish expression",
+                        "palette": "violet"
+                    },
+                    {
+                        "type": 1,
+                        "sku_id": "1559647861375766689",
+                        "title": "Pumpkin King",
+                        "description": "Show this effect when others view your profile.",
+                        "accessibilityLabel": "Jack Skellington walks to the top of a hill with Zero by his side",
+                        "animationType": 2,
+                        "thumbnailPreviewSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/6aeb427ac508cf460f7e81a82d8afdfbf990b04e44c0ff90eed2e4d0cdfe3102",
+                        "reducedMotionSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/9ded7ab3835e2337a61150485a54c0aabaf80207b22d798ceb61e968b3ac2564",
+                        "effects": [
+                            {
+                                "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/eee0f1514dda8c2101518c5e6b8a5b47fee945b3dfe75ed9d77d47b7d085fa4e",
+                                "loop": false,
+                                "duration": 4833,
+                                "start": 0,
+                                "loopDelay": 0,
+                                "zIndex": 100,
+                                "randomizedSources": []
+                            },
+                            {
+                                "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/37587c9bd13f372a5e31c94e2df03ba4ac7e136518dcb864477e3532e16bb1b3",
+                                "loop": true,
+                                "duration": 3250,
+                                "start": 5500,
+                                "loopDelay": 8000,
+                                "zIndex": 101,
+                                "randomizedSources": []
+                            },
+                            {
+                                "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/80593e36c37d0154e0edcbd5cf57e20898df6da6518acdbd225d26f672a8b3fd",
+                                "loop": true,
+                                "duration": 3250,
+                                "start": 11750,
+                                "loopDelay": 8000,
+                                "zIndex": 102,
+                                "randomizedSources": []
+                            }
+                        ]
+                    }
+                ],
+                "type": 1000,
+                "premium_type": 0,
+                "category_sku_id": "1558225633413173430",
+                "bundled_products": [
+                    {
+                        "sku_id": "1559627983088783492",
+                        "name": "Jack Skellington (Base)",
+                        "summary": "Give your avatar a new look.",
+                        "type": 0,
+                        "premium_type": 0,
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 899,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 699,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "sku_id": "1559632434109091910",
+                        "name": "Jack Skellington",
+                        "summary": "Make your name stand out in servers and chats.",
+                        "type": 2,
+                        "premium_type": 0,
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 899,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 699,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "sku_id": "1559647861375766689",
+                        "name": "Pumpkin King",
+                        "summary": "Show this effect when others view your profile.",
+                        "type": 1,
+                        "premium_type": 0,
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 899,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 699,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ],
+                "google_sku_ids": {
+                    "5": "1559671447574544485_1559673079746142369",
+                    "7": "1559671447574544485_1559673088398860318"
+                },
+                "is_first_party": false
+            },
+            {
+                "sku_id": "1559635382172258366",
+                "name": "Sally Bundle",
+                "summary": "{joinedItems}",
+                "styles": {
+                    "background_colors": [
+                        2828631,
+                        7104371
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 1699,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 1299,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    }
+                },
+                "preview_assets": {
+                    "fg_static": "https://cdn.discordapp.com/media/v1/collectibles-shop/bundle-fg-static/1559635382172258366",
+                    "bg_static": "https://cdn.discordapp.com/media/v1/collectibles-shop/bundle-bg-static/1559635382172258366"
+                },
+                "items": [
+                    {
+                        "type": 0,
+                        "sku_id": "1559629977685860432",
+                        "asset": "a_7e81fa0417592ce61ca12ec98d085da4",
+                        "label": "A ghoulish butterfly emerging from one of Sally's potion bottles"
+                    },
+                    {
+                        "type": 2,
+                        "sku_id": "1559632988885618788",
+                        "asset": "nameplates/sally/1559632988885618788/",
+                        "label": "Sally contentedly plucks petals from a dead flower against a patchwork fabric backdrop",
+                        "palette": "bubble_gum"
+                    }
+                ],
+                "type": 1000,
+                "premium_type": 0,
+                "category_sku_id": "1558225633413173430",
+                "bundled_products": [
+                    {
+                        "sku_id": "1559629977685860432",
+                        "name": "Sally's Potion",
+                        "summary": "Give your avatar a new look.",
+                        "type": 0,
+                        "premium_type": 0,
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 899,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 699,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "sku_id": "1559632988885618788",
+                        "name": "Sally",
+                        "summary": "Make your name stand out in servers and chats.",
+                        "type": 2,
+                        "premium_type": 0,
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 899,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 699,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ],
+                "google_sku_ids": {
+                    "5": "1559635382172258366_1559636144193277992",
+                    "7": "1559635382172258366_1559636155132154016"
+                },
+                "is_first_party": false
+            },
+            {
+                "sku_id": "1559671735320711248",
+                "name": "Zero Bundle",
+                "summary": "{joinedItems}",
+                "styles": {
+                    "background_colors": [
+                        2828631,
+                        7104371
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 1699,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 1299,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    }
+                },
+                "preview_assets": {
+                    "fg_static": "https://cdn.discordapp.com/media/v1/collectibles-shop/bundle-fg-static/1559671735320711248",
+                    "bg_static": "https://cdn.discordapp.com/media/v1/collectibles-shop/bundle-bg-static/1559671735320711248"
+                },
+                "items": [
+                    {
+                        "type": 0,
+                        "sku_id": "1559631197070426122",
+                        "asset": "a_7a21b35a01e3474c922f4055d8a32727",
+                        "label": "Zero emerging from his graveyard house and doing a flying loop"
+                    },
+                    {
+                        "type": 2,
+                        "sku_id": "1559633219555557497",
+                        "asset": "nameplates/zero_lights_the_night/1559633219555557497/",
+                        "label": "Zero flies with a glowing nose over a spooky town",
+                        "palette": "cobalt"
+                    }
+                ],
+                "type": 1000,
+                "premium_type": 0,
+                "category_sku_id": "1558225633413173430",
+                "bundled_products": [
+                    {
+                        "sku_id": "1559631197070426122",
+                        "name": "Zero",
+                        "summary": "Give your avatar a new look.",
+                        "type": 0,
+                        "premium_type": 0,
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 899,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 699,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "sku_id": "1559633219555557497",
+                        "name": "Zero Lights the Night",
+                        "summary": "Make your name stand out in servers and chats.",
+                        "type": 2,
+                        "premium_type": 0,
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 899,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 699,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ],
+                "google_sku_ids": {
+                    "5": "1559671735320711248_1559676881341775932",
+                    "7": "1559671735320711248_1559676888140750878"
+                },
+                "is_first_party": false
+            },
+            {
+                "sku_id": "1559672894622007336",
+                "name": "Oogie Boogie Bundle",
+                "summary": "{joinedItems}",
+                "styles": {
+                    "background_colors": [
+                        2828631,
+                        7104371
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 1699,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 1299,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    }
+                },
+                "preview_assets": {
+                    "fg_static": "https://cdn.discordapp.com/media/v1/collectibles-shop/bundle-fg-static/1559672894622007336",
+                    "bg_static": "https://cdn.discordapp.com/media/v1/collectibles-shop/bundle-bg-static/1559672894622007336"
+                },
+                "items": [
+                    {
+                        "type": 0,
+                        "sku_id": "1559631474259398756",
+                        "asset": "a_f8677689e87f66cdad68b9696fbd3ece",
+                        "label": "Bats exploding out of orange moonlight with Oogie Boogie's face appearing in the center"
+                    },
+                    {
+                        "type": 1,
+                        "sku_id": "1559633476419059792",
+                        "title": "Pumpkin King",
+                        "description": "Show this effect when others view your profile.",
+                        "accessibilityLabel": "Fog rolls through purple Halloween Town gates as spiders drop and bats fly past",
+                        "animationType": 1,
+                        "staticFrameSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/1d061816513baa518be8209389874c65c19b978fd4d5795080c869d003894dcd",
+                        "thumbnailPreviewSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/7e89bda86fea9e7265ff5afc49072bb41b68bfce070eaa6cd94b7db9de2efef7",
+                        "reducedMotionSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/a19d4c351a13aa5e2783a14890f5c3a66bc5be9fe68eb8f66ef3df108161e40b",
+                        "effects": [
+                            {
+                                "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/3ac46037eb9df8b4acf6c1a870aac0a2f34690fa87264dfdd72a529f57d338d5",
+                                "loop": false,
+                                "duration": 3000,
+                                "start": 0,
+                                "loopDelay": 0,
+                                "zIndex": 100,
+                                "randomizedSources": []
+                            },
+                            {
+                                "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/4af341ad6cc59e7ba658cd3d9a9cfe3fa1b007c6228b526f187ccd0fce5b8493",
+                                "loop": true,
+                                "duration": 3000,
+                                "start": 2999,
+                                "loopDelay": 0,
+                                "zIndex": 101,
+                                "randomizedSources": []
+                            },
+                            {
+                                "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/89f3fdce84de5c7eaa4f677fcb2e4047d83fdea95ed7264211afff7d502699a6",
+                                "loop": true,
+                                "duration": 3000,
+                                "start": 3500,
+                                "loopDelay": 8000,
+                                "zIndex": 102,
+                                "randomizedSources": []
+                            },
+                            {
+                                "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/67879ec1b314e5602b563b7381df7f779b5c3703ab41b2687c56dc49dd453bcd",
+                                "loop": true,
+                                "duration": 3000,
+                                "start": 10500,
+                                "loopDelay": 6000,
+                                "zIndex": 103,
+                                "randomizedSources": []
+                            }
+                        ]
+                    }
+                ],
+                "type": 1000,
+                "premium_type": 0,
+                "category_sku_id": "1558225633413173430",
+                "bundled_products": [
+                    {
+                        "sku_id": "1559631474259398756",
+                        "name": "Ooogie Boogie (Base)",
+                        "summary": "Give your avatar a new look.",
+                        "type": 0,
+                        "premium_type": 0,
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 899,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 699,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "sku_id": "1559633476419059792",
+                        "name": "Halloween Forever",
+                        "summary": "Show this effect when others view your profile.",
+                        "type": 1,
+                        "premium_type": 0,
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 899,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 699,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ],
+                "google_sku_ids": {
+                    "5": "1559672894622007336_1559675808195420250",
+                    "7": "1559672894622007336_1559675820019028038"
+                },
+                "is_first_party": false
+            },
+            {
+                "sku_id": "1559627983088783492",
+                "name": "Jack Skellington (Base)",
+                "summary": "Give your avatar a new look.",
+                "styles": {
+                    "background_colors": [
+                        2828631,
+                        7104371
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 899,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 699,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    }
+                },
+                "preview_assets": null,
+                "items": [
+                    {
+                        "type": 0,
+                        "sku_id": "1559627983088783492",
+                        "asset": "a_e81e1e612b7f8e117aab78bd93a7b13f",
+                        "label": "A ring of bones with Jack Skellington's face appearing in the middle"
+                    }
+                ],
+                "type": 0,
+                "premium_type": 0,
+                "category_sku_id": "1558225633413173430",
+                "google_sku_ids": {
+                    "5": "1559627983088783492_1559630255646318713",
+                    "7": "1559627983088783492_1559630265448398949"
+                },
+                "is_first_party": false
+            },
+            {
+                "sku_id": "1559628807718051933",
+                "name": "Jack Skellington (Bones)",
+                "summary": "Give your avatar a new look.",
+                "styles": {
+                    "background_colors": [
+                        2828631,
+                        7104371
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 899,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 699,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    }
+                },
+                "preview_assets": null,
+                "items": [
+                    {
+                        "type": 0,
+                        "sku_id": "1559628807718051933",
+                        "asset": "a_bd4f2ec24aef14f147779f1490340ffc",
+                        "label": "A ring of bones with a bat collar"
+                    }
+                ],
+                "type": 0,
+                "premium_type": 0,
+                "category_sku_id": "1558225633413173430",
+                "google_sku_ids": {
+                    "5": "1559628807718051933_1559629916817985566",
+                    "7": "1559628807718051933_1559629925407789146"
+                },
+                "is_first_party": false
+            },
+            {
+                "sku_id": "1559629977685860432",
+                "name": "Sally's Potion",
+                "summary": "Give your avatar a new look.",
+                "styles": {
+                    "background_colors": [
+                        2828631,
+                        7104371
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 899,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 699,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    }
+                },
+                "preview_assets": null,
+                "items": [
+                    {
+                        "type": 0,
+                        "sku_id": "1559629977685860432",
+                        "asset": "a_7e81fa0417592ce61ca12ec98d085da4",
+                        "label": "A ghoulish butterfly emerging from one of Sally's potion bottles"
+                    }
+                ],
+                "type": 0,
+                "premium_type": 0,
+                "category_sku_id": "1558225633413173430",
+                "google_sku_ids": {
+                    "5": "1559629977685860432_1559632108086104194",
+                    "7": "1559629977685860432_1559632118286393434"
+                },
+                "is_first_party": false
+            },
+            {
+                "sku_id": "1559631197070426122",
+                "name": "Zero",
+                "summary": "Give your avatar a new look.",
+                "styles": {
+                    "background_colors": [
+                        2828631,
+                        7104371
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 899,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 699,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    }
+                },
+                "preview_assets": null,
+                "items": [
+                    {
+                        "type": 0,
+                        "sku_id": "1559631197070426122",
+                        "asset": "a_7a21b35a01e3474c922f4055d8a32727",
+                        "label": "Zero emerging from his graveyard house and doing a flying loop"
+                    }
+                ],
+                "type": 0,
+                "premium_type": 0,
+                "category_sku_id": "1558225633413173430",
+                "google_sku_ids": {
+                    "5": "1559631197070426122_1559634887177142422",
+                    "7": "1559631197070426122_1559634895528005792"
+                },
+                "is_first_party": false
+            },
+            {
+                "sku_id": "1559631474259398756",
+                "name": "Ooogie Boogie (Base)",
+                "summary": "Give your avatar a new look.",
+                "styles": {
+                    "background_colors": [
+                        2828631,
+                        7104371
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 899,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 699,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    }
+                },
+                "preview_assets": null,
+                "items": [
+                    {
+                        "type": 0,
+                        "sku_id": "1559631474259398756",
+                        "asset": "a_f8677689e87f66cdad68b9696fbd3ece",
+                        "label": "Bats exploding out of orange moonlight with Oogie Boogie's face appearing in the center"
+                    }
+                ],
+                "type": 0,
+                "premium_type": 0,
+                "category_sku_id": "1558225633413173430",
+                "google_sku_ids": {
+                    "5": "1559631474259398756_1559632909055434824",
+                    "7": "1559631474259398756_1559632918265995395"
+                },
+                "is_first_party": false
+            },
+            {
+                "sku_id": "1559632048791097385",
+                "name": "Ooogie Boogie (Bats)",
+                "summary": "Give your avatar a new look.",
+                "styles": {
+                    "background_colors": [
+                        2828631,
+                        7104371
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 899,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 699,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    }
+                },
+                "preview_assets": null,
+                "items": [
+                    {
+                        "type": 0,
+                        "sku_id": "1559632048791097385",
+                        "asset": "a_716898b73bcc334d0df92eafe1b84f40",
+                        "label": "Bats exploding out of orange moonlight"
+                    }
+                ],
+                "type": 0,
+                "premium_type": 0,
+                "category_sku_id": "1558225633413173430",
+                "google_sku_ids": {
+                    "5": "1559632048791097385_1559633086902313030",
+                    "7": "1559632048791097385_1559633094598852648"
+                },
+                "is_first_party": false
+            },
+            {
+                "sku_id": "1559632434109091910",
+                "name": "Jack Skellington",
+                "summary": "Make your name stand out in servers and chats.",
+                "styles": {
+                    "background_colors": [
+                        2828631,
+                        7104371
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 899,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 699,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    }
+                },
+                "preview_assets": null,
+                "items": [
+                    {
+                        "type": 2,
+                        "sku_id": "1559632434109091910",
+                        "asset": "nameplates/jack_skellington/1559632434109091910/",
+                        "label": "Jack Skellington waves and grins, and then changes into a devilish expression",
+                        "palette": "violet"
+                    }
+                ],
+                "type": 2,
+                "premium_type": 0,
+                "category_sku_id": "1558225633413173430",
+                "google_sku_ids": {
+                    "5": "1559632434109091910_1559637140189478912",
+                    "7": "1559632434109091910_1559637148100198400"
+                },
+                "is_first_party": false
+            },
+            {
+                "sku_id": "1559632988885618788",
+                "name": "Sally",
+                "summary": "Make your name stand out in servers and chats.",
+                "styles": {
+                    "background_colors": [
+                        2828631,
+                        7104371
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 899,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 699,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    }
+                },
+                "preview_assets": null,
+                "items": [
+                    {
+                        "type": 2,
+                        "sku_id": "1559632988885618788",
+                        "asset": "nameplates/sally/1559632988885618788/",
+                        "label": "Sally contentedly plucks petals from a dead flower against a patchwork fabric backdrop",
+                        "palette": "bubble_gum"
+                    }
+                ],
+                "type": 2,
+                "premium_type": 0,
+                "category_sku_id": "1558225633413173430",
+                "google_sku_ids": {
+                    "5": "1559632988885618788_1559635027774546000",
+                    "7": "1559632988885618788_1559635038323085322"
+                },
+                "is_first_party": false
+            },
+            {
+                "sku_id": "1559633219555557497",
+                "name": "Zero Lights the Night",
+                "summary": "Make your name stand out in servers and chats.",
+                "styles": {
+                    "background_colors": [
+                        2828631,
+                        7104371
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 899,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 699,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    }
+                },
+                "preview_assets": null,
+                "items": [
+                    {
+                        "type": 2,
+                        "sku_id": "1559633219555557497",
+                        "asset": "nameplates/zero_lights_the_night/1559633219555557497/",
+                        "label": "Zero flies with a glowing nose over a spooky town",
+                        "palette": "cobalt"
+                    }
+                ],
+                "type": 2,
+                "premium_type": 0,
+                "category_sku_id": "1558225633413173430",
+                "google_sku_ids": {
+                    "5": "1559633219555557497_1559636305342767215",
+                    "7": "1559633219555557497_1559636313873850368"
+                },
+                "is_first_party": false
+            },
+            {
+                "sku_id": "1559633476419059792",
+                "name": "Halloween Forever",
+                "summary": "Show this effect when others view your profile.",
+                "styles": {
+                    "background_colors": [
+                        2828631,
+                        7104371
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 899,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 699,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    }
+                },
+                "preview_assets": null,
+                "items": [
+                    {
+                        "type": 1,
+                        "sku_id": "1559633476419059792",
+                        "title": "Pumpkin King",
+                        "description": "Show this effect when others view your profile.",
+                        "accessibilityLabel": "Fog rolls through purple Halloween Town gates as spiders drop and bats fly past",
+                        "animationType": 1,
+                        "staticFrameSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/1d061816513baa518be8209389874c65c19b978fd4d5795080c869d003894dcd",
+                        "thumbnailPreviewSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/7e89bda86fea9e7265ff5afc49072bb41b68bfce070eaa6cd94b7db9de2efef7",
+                        "reducedMotionSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/a19d4c351a13aa5e2783a14890f5c3a66bc5be9fe68eb8f66ef3df108161e40b",
+                        "effects": [
+                            {
+                                "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/3ac46037eb9df8b4acf6c1a870aac0a2f34690fa87264dfdd72a529f57d338d5",
+                                "loop": false,
+                                "duration": 3000,
+                                "start": 0,
+                                "loopDelay": 0,
+                                "zIndex": 100,
+                                "randomizedSources": []
+                            },
+                            {
+                                "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/4af341ad6cc59e7ba658cd3d9a9cfe3fa1b007c6228b526f187ccd0fce5b8493",
+                                "loop": true,
+                                "duration": 3000,
+                                "start": 2999,
+                                "loopDelay": 0,
+                                "zIndex": 101,
+                                "randomizedSources": []
+                            },
+                            {
+                                "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/89f3fdce84de5c7eaa4f677fcb2e4047d83fdea95ed7264211afff7d502699a6",
+                                "loop": true,
+                                "duration": 3000,
+                                "start": 3500,
+                                "loopDelay": 8000,
+                                "zIndex": 102,
+                                "randomizedSources": []
+                            },
+                            {
+                                "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/67879ec1b314e5602b563b7381df7f779b5c3703ab41b2687c56dc49dd453bcd",
+                                "loop": true,
+                                "duration": 3000,
+                                "start": 10500,
+                                "loopDelay": 6000,
+                                "zIndex": 103,
+                                "randomizedSources": []
+                            }
+                        ]
+                    }
+                ],
+                "type": 1,
+                "premium_type": 0,
+                "category_sku_id": "1558225633413173430",
+                "google_sku_ids": {
+                    "5": "1559633476419059792_1559635905420066876",
+                    "7": "1559633476419059792_1559635913368412190"
+                },
+                "is_first_party": false
+            },
+            {
+                "sku_id": "1559647861375766689",
+                "name": "Pumpkin King",
+                "summary": "Show this effect when others view your profile.",
+                "styles": {
+                    "background_colors": [
+                        2828631,
+                        7104371
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 899,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 699,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                }
+                            ]
+                        }
+                    }
+                },
+                "preview_assets": null,
+                "items": [
+                    {
+                        "type": 1,
+                        "sku_id": "1559647861375766689",
+                        "title": "Pumpkin King",
+                        "description": "Show this effect when others view your profile.",
+                        "accessibilityLabel": "Jack Skellington walks to the top of a hill with Zero by his side",
+                        "animationType": 2,
+                        "thumbnailPreviewSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/6aeb427ac508cf460f7e81a82d8afdfbf990b04e44c0ff90eed2e4d0cdfe3102",
+                        "reducedMotionSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/9ded7ab3835e2337a61150485a54c0aabaf80207b22d798ceb61e968b3ac2564",
+                        "effects": [
+                            {
+                                "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/eee0f1514dda8c2101518c5e6b8a5b47fee945b3dfe75ed9d77d47b7d085fa4e",
+                                "loop": false,
+                                "duration": 4833,
+                                "start": 0,
+                                "loopDelay": 0,
+                                "zIndex": 100,
+                                "randomizedSources": []
+                            },
+                            {
+                                "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/37587c9bd13f372a5e31c94e2df03ba4ac7e136518dcb864477e3532e16bb1b3",
+                                "loop": true,
+                                "duration": 3250,
+                                "start": 5500,
+                                "loopDelay": 8000,
+                                "zIndex": 101,
+                                "randomizedSources": []
+                            },
+                            {
+                                "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/80593e36c37d0154e0edcbd5cf57e20898df6da6518acdbd225d26f672a8b3fd",
+                                "loop": true,
+                                "duration": 3250,
+                                "start": 11750,
+                                "loopDelay": 8000,
+                                "zIndex": 102,
+                                "randomizedSources": []
+                            }
+                        ]
+                    }
+                ],
+                "type": 1,
+                "premium_type": 0,
+                "category_sku_id": "1558225633413173430",
+                "google_sku_ids": {
+                    "5": "1559647861375766689_1559650714144346163",
+                    "7": "1559647861375766689_1559650722126110842"
+                },
+                "is_first_party": false
+            }
+        ],
+        "hero_banner_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/4f45fe175d63f6dbd0db7a34b656dee064a63dabd13e2aafa862019cce7d10d1",
+        "hero_banner_animated_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/2af551609f54d49c8cc9bed96b9983ce4787d392a8536b54074ee2eca47066f8",
+        "hero_logo_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/13b620ee70b9d36b01187382cbb8e1a8e9e6623e4a106314a41e17bf373274a9",
+        "catalog_banner_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/83b6691118c7c1741c8db09acbcd9480c9249292b0bab38f327754c8325568bd",
+        "featured_block_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/61efafbd9618f4e504a79dbc40e6687987158cd2b991eb654faa30dc99e00baf",
+        "logo_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/13b620ee70b9d36b01187382cbb8e1a8e9e6623e4a106314a41e17bf373274a9",
+        "pdp_bg_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/362d8385ec72f68b323b437a2ca2066a4d04fd6c2ce78a4e5e10a6a626689080",
+        "mobile_hero_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/39fe0858ecb0abd5ab9b120a22abf69d9109b66709989e6c96a665a988ddb237",
+        "mobile_banner_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/51d21d916c6c3f9802f70fbc77bd7bedaa02e9513e7246b1fb0e8dde3a6f6842",
+        "mobile_bg_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/87b0226e3138c753084c5f5c69e4f899a4531127ba09b00ab13a1f691e4aade7",
+        "hero_banner_display_config": {
+            "desktop_max_height": null,
+            "mobile_max_height": null,
+            "responsive": null,
+            "background_style": "linear-gradient(180deg, #2B2957 0%, #6C6773 100%)"
         },
         "hero_logo_display_config": {
             "desktop_max_height": 110,
