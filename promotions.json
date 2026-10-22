@@ -456,5 +456,122 @@
         "partner_id": "logitech",
         "promotion_type": 7,
         "priority": null
+    },
+    {
+        "id": "1554628839802667048",
+        "marketing_components": [
+            {
+                "id": "1562520793693290588",
+                "promotion_id": "1554628839802667048",
+                "premium_offer_type": 0,
+                "premium_type": null,
+                "premium_source": null,
+                "premium_subscription_type": null,
+                "component_type": 26,
+                "theme": 0,
+                "experiment_id": null,
+                "experiment_variation_id": null,
+                "ready": true,
+                "properties": {
+                    "outboundPromotionClaimModalCard": {
+                        "asset": {
+                            "lightUrl": "https://cdn.discordapp.com/promotions/premium-marketing/1562520793693290588/1562521229615698111.png",
+                            "darkUrl": "https://cdn.discordapp.com/promotions/premium-marketing/1562520793693290588/1562521219750961192.png",
+                            "lightStaticUrl": "https://cdn.discordapp.com/promotions/premium-marketing/1562520793693290588/1562521235160703148.png",
+                            "darkStaticUrl": "https://cdn.discordapp.com/promotions/premium-marketing/1562520793693290588/1562521225052430386.png"
+                        }
+                    }
+                },
+                "start_date": null,
+                "end_date": null
+            },
+            {
+                "id": "1562212894781734972",
+                "promotion_id": "1554628839802667048",
+                "premium_offer_type": 0,
+                "premium_type": null,
+                "premium_source": null,
+                "premium_subscription_type": null,
+                "component_type": 23,
+                "theme": 0,
+                "experiment_id": null,
+                "experiment_variation_id": null,
+                "ready": true,
+                "properties": {
+                    "premiumHomeRewardsPerkCard": {
+                        "asset": {
+                            "lightUrl": "https://cdn.discordapp.com/promotions/premium-marketing/1562212894781734972/1562520662365569055.png",
+                            "darkUrl": "https://cdn.discordapp.com/promotions/premium-marketing/1562212894781734972/1562520650265010277.png",
+                            "lightStaticUrl": "https://cdn.discordapp.com/promotions/premium-marketing/1562212894781734972/1562520667138564207.png",
+                            "darkStaticUrl": "https://cdn.discordapp.com/promotions/premium-marketing/1562212894781734972/1562520657982525480.png"
+                        }
+                    }
+                },
+                "start_date": null,
+                "end_date": null
+            },
+            {
+                "id": "1562520828854140978",
+                "promotion_id": "1554628839802667048",
+                "premium_offer_type": 0,
+                "premium_type": null,
+                "premium_source": null,
+                "premium_subscription_type": null,
+                "component_type": 24,
+                "theme": 0,
+                "experiment_id": null,
+                "experiment_variation_id": null,
+                "ready": true,
+                "properties": {
+                    "marketingPageRewardsBentoBox": {
+                        "asset": {
+                            "lightUrl": "https://cdn.discordapp.com/promotions/premium-marketing/1562520828854140978/1562521362625597460.png",
+                            "darkUrl": "https://cdn.discordapp.com/promotions/premium-marketing/1562520828854140978/1562521352869773412.png",
+                            "lightStaticUrl": "https://cdn.discordapp.com/promotions/premium-marketing/1562520828854140978/1562521367327416350.png",
+                            "darkStaticUrl": "https://cdn.discordapp.com/promotions/premium-marketing/1562520828854140978/1562521358494208153.png"
+                        }
+                    }
+                },
+                "start_date": null,
+                "end_date": null
+            },
+            {
+                "id": "1562520762529882152",
+                "promotion_id": "1554628839802667048",
+                "premium_offer_type": 0,
+                "premium_type": null,
+                "premium_source": null,
+                "premium_subscription_type": null,
+                "component_type": 25,
+                "theme": 0,
+                "experiment_id": null,
+                "experiment_variation_id": null,
+                "ready": true,
+                "properties": {
+                    "outboundPromotionPopover": {
+                        "asset": {
+                            "lightUrl": "https://cdn.discordapp.com/promotions/premium-marketing/1562520762529882152/1562521098166206464.png",
+                            "darkUrl": "https://cdn.discordapp.com/promotions/premium-marketing/1562520762529882152/1562521092315156600.png",
+                            "lightStaticUrl": "https://cdn.discordapp.com/promotions/premium-marketing/1562520762529882152/1562521102603780146.png",
+                            "darkStaticUrl": "https://cdn.discordapp.com/promotions/premium-marketing/1562520762529882152/1562521108241055744.png"
+                        }
+                    }
+                },
+                "start_date": null,
+                "end_date": null
+            }
+        ],
+        "start_date": "2026-10-21T20:54:15.400000+00:00",
+        "end_date": "2027-08-07T04:59:00+00:00",
+        "outbound_redemption_end_date": "2027-08-07T04:59:00+00:00",
+        "outbound_title": "Nitro Blueprint Weapon",
+        "outbound_redemption_modal_body": "Nitro Blueprint Weapon",
+        "outbound_terms_and_conditions": "Nitro Blueprint Weapon",
+        "outbound_redemption_page_link": "https://www.callofduty.com/redeem",
+        "flags": 13,
+        "country_list_mode": "blocklist",
+        "partner_id": "call_of_duty",
+        "promotion_type": 4,
+        "priority": null
     }
 ]

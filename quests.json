@@ -125651,7 +125651,7 @@
                 "name": "Discord"
             },
             "assets": {
-                "hero": "quests/1556310841178194060/1559714860311388201.jpg",
+                "hero": "quests/1556310841178194060/1562908583257972826.jpg",
                 "hero_video": "quests/1556310841178194060/1559714934651232356_720.mp4",
                 "quest_bar_hero_blurhash": "xvYFJIKBC1xbmIaCWHhvsvpGug==",
                 "quest_bar_hero": "quests/1556310841178194060/1559710893774999653.jpg",
@@ -125756,7 +125756,7 @@
             "share_policy": "shareable_everywhere",
             "cta_config": {
                 "link": "https://www.livenation.com/artist/K8vZ917q7K0/kenshi-yonezu-events",
-                "button_label": "Learn More",
+                "button_label": "Get Tickets",
                 "subtitle": "2026-2027 World Tour / Ghost"
             }
         },
@@ -128847,5 +128847,347 @@
         "ad_context": null,
         "preview": false,
         "traffic_metadata_raw": "EAIYAQ=="
+    },
+    {
+        "id": "1562420837292707873",
+        "config": {
+            "id": "1562420837292707873",
+            "config_version": 2,
+            "starts_at": "2026-10-22T17:00:00+00:00",
+            "expires_at": "2026-10-26T00:00:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://www.cyberpunk.net/gb/en/buy?utm_source=discord&utm_medium=cpm&utm_campaign=EDGERUNNERS2&utm_term=quest&utm_content=ER2UpdateKV",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1562406097615323156/1562407223643078666.jpg",
+                "hero_video": "quests/1562420837292707873/1562857440825970779_720.mp4",
+                "quest_bar_hero_blurhash": "1ucJFIQGaKenaGiGhpuHcGkKqA==",
+                "quest_bar_hero": "quests/1562406097615323156/1562407223450271795.jpg",
+                "quest_bar_hero_video": "quests/1562420837292707873/1562857440825970779_720.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1562420837292707873/1562517837359349930.png",
+                "game_tile_dark": "quests/1562420837292707873/1562517837359349930.png",
+                "logotype_light": "quests/1562406097615323156/1562407223773106277.png",
+                "logotype_dark": "quests/1562406097615323156/1562407223773106277.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Cyberpunk: Edgerunners 2 Update",
+                "game_title": "Cyberpunk: Edgerunners 2 Update",
+                "game_publisher": "CD PROJEKT RED "
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 29,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1562406097615323156/1562407482448678943_1080.mp4",
+                                "width": 3840,
+                                "height": 2160,
+                                "thumbnail": "quests/1562406097615323156/1562407222871334932.png"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1562406097615323156/1562407482448678943_720.mp4",
+                                "width": 3840,
+                                "height": 2160,
+                                "thumbnail": "quests/1562406097615323156/1562407222871334932.png"
+                            },
+                            "video_hls": {
+                                "url": "quests/1562406097615323156/1562407482448678943.m3u8",
+                                "width": 3840,
+                                "height": 2160,
+                                "thumbnail": "quests/1562406097615323156/1562407222871334932.png"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 29,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1562406097615323156/1562407482448678943_1080.mp4",
+                                "width": 3840,
+                                "height": 2160,
+                                "thumbnail": "quests/1562406097615323156/1562407222871334932.png"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1562406097615323156/1562407482448678943_720.mp4",
+                                "width": 3840,
+                                "height": 2160,
+                                "thumbnail": "quests/1562406097615323156/1562407222871334932.png"
+                            },
+                            "video_hls": {
+                                "url": "quests/1562406097615323156/1562407482448678943.m3u8",
+                                "width": 3840,
+                                "height": 2160,
+                                "thumbnail": "quests/1562406097615323156/1562407222871334932.png"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "200 Orbs",
+                            "name_with_article": "200 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 200,
+                        "premium_orb_quantity": 240
+                    }
+                ],
+                "rewards_expire_at": "2026-11-25T00:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://www.cyberpunk.net/gb/en/buy?utm_source=discord&utm_medium=cpm&utm_campaign=EDGERUNNERS2&utm_term=quest&utm_content=ER2UpdateKV",
+                "button_label": "Get Game"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "ad_context": null,
+        "preview": false,
+        "traffic_metadata_raw": "EAIYAQ=="
+    },
+    {
+        "id": "1553157223117496330",
+        "config": {
+            "id": "1553157223117496330",
+            "config_version": 2,
+            "starts_at": "2026-10-22T17:00:00+00:00",
+            "expires_at": "2026-11-08T01:00:00+00:00",
+            "features": [
+                26,
+                15
+            ],
+            "application": {
+                "link": "https://www.firefox.com/?utm_medium=paidvideo&utm_source=discord&utm_campaign=nova&utm_content=playquest",
+                "id": "1491208267928703226",
+                "name": "Firefox"
+            },
+            "assets": {
+                "hero": "quests/1553157223117496330/1560448151926734868.jpg",
+                "hero_video": "quests/1553157223117496330/1560448170260172800_720.mp4",
+                "quest_bar_hero_blurhash": "WzcSCoT2eGh2iIl4ep5Af2Y=",
+                "quest_bar_hero": "quests/1553157223117496330/1560448151926734868.jpg",
+                "quest_bar_hero_video": "quests/1553157223117496330/1560448170260172800_720.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1553157223117496330/1559690577132654612.png",
+                "game_tile_dark": "quests/1553157223117496330/1559690577132654612.png",
+                "logotype_light": "quests/1553157223117496330/1559690602961182780.png",
+                "logotype_dark": "quests/1553157223117496330/1559690603443257415.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Firefox Browser",
+                "game_title": "the latest Firefox Browser",
+                "game_publisher": "Mozilla"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1491208267928703226"
+                            }
+                        ]
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 Orbs",
+                            "name_with_article": "700 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 700,
+                        "premium_orb_quantity": 840
+                    }
+                ],
+                "rewards_expire_at": "2026-12-08T01:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://www.firefox.com/?utm_medium=paidvideo&utm_source=discord&utm_campaign=nova&utm_content=playquest",
+                "button_label": "Download",
+                "subtitle": "Try Firefox today"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "ad_context": null,
+        "preview": false,
+        "traffic_metadata_raw": "EAIYAQ=="
+    },
+    {
+        "id": "1562406097615323156",
+        "config": {
+            "id": "1562406097615323156",
+            "config_version": 2,
+            "starts_at": "2026-10-22T17:00:00+00:00",
+            "expires_at": "2026-10-26T00:00:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://www.cyberpunk.net/de/de/buy?utm_source=discord&utm_medium=cpm&utm_campaign=EDGERUNNERS2&utm_term=quest&utm_content=ER2UpdateKV",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1562406097615323156/1562407223643078666.jpg",
+                "hero_video": "quests/1562406097615323156/1562862162349662318_720.mp4",
+                "quest_bar_hero_blurhash": "1ucJFIQGaKenaGiGhpuHcGkKqA==",
+                "quest_bar_hero": "quests/1562406097615323156/1562407223450271795.jpg",
+                "quest_bar_hero_video": "quests/1562406097615323156/1562862162349662318_720.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1562406097615323156/1562465921816072202.png",
+                "game_tile_dark": "quests/1562406097615323156/1562465921816072202.png",
+                "logotype_light": "quests/1562406097615323156/1562407223773106277.png",
+                "logotype_dark": "quests/1562406097615323156/1562407223773106277.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Cyberpunk: Edgerunners 2 Update",
+                "game_title": "Cyberpunk: Edgerunners 2 Update",
+                "game_publisher": "CD PROJEKT RED "
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 29,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1562406097615323156/1562408021244645446_1080.mp4",
+                                "width": 3840,
+                                "height": 2160,
+                                "thumbnail": "quests/1562406097615323156/1562407223643217970.png"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1562406097615323156/1562408021244645446_720.mp4",
+                                "width": 3840,
+                                "height": 2160,
+                                "thumbnail": "quests/1562406097615323156/1562407223643217970.png"
+                            },
+                            "video_hls": {
+                                "url": "quests/1562406097615323156/1562408021244645446.m3u8",
+                                "width": 3840,
+                                "height": 2160,
+                                "thumbnail": "quests/1562406097615323156/1562407223643217970.png"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 29,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1562406097615323156/1562408021244645446_1080.mp4",
+                                "width": 3840,
+                                "height": 2160,
+                                "thumbnail": "quests/1562406097615323156/1562407223643217970.png"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1562406097615323156/1562408021244645446_720.mp4",
+                                "width": 3840,
+                                "height": 2160,
+                                "thumbnail": "quests/1562406097615323156/1562407223643217970.png"
+                            },
+                            "video_hls": {
+                                "url": "quests/1562406097615323156/1562408021244645446.m3u8",
+                                "width": 3840,
+                                "height": 2160,
+                                "thumbnail": "quests/1562406097615323156/1562407223643217970.png"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "200 Orbs",
+                            "name_with_article": "200 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 200,
+                        "premium_orb_quantity": null
+                    }
+                ],
+                "rewards_expire_at": "2026-11-25T00:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://www.cyberpunk.net/de/de/buy?utm_source=discord&utm_medium=cpm&utm_campaign=EDGERUNNERS2&utm_term=quest&utm_content=ER2UpdateKV",
+                "button_label": "Get Game"
+            }
+        }
     }
 ]
