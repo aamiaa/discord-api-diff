@@ -129581,5 +129581,305 @@
         "ad_context": null,
         "preview": false,
         "traffic_metadata_raw": "EAIYAQ=="
+    },
+    {
+        "id": "1549087389715013632",
+        "config": {
+            "id": "1549087389715013632",
+            "config_version": 2,
+            "starts_at": "2026-10-23T17:00:00+00:00",
+            "expires_at": "2026-11-10T01:00:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://www.xfinity.com",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1549087389715013632/1557062659436839012.jpg",
+                "quest_bar_hero_blurhash": "FkUGPISTx2WbeXlfd242aUBn+Q==",
+                "quest_bar_hero": "quests/1549087389715013632/1557062731213836388.jpg",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1549087389715013632/1557062564087865434.png",
+                "game_tile_dark": "quests/1549087389715013632/1557062564087865434.png",
+                "logotype_light": "quests/1549087389715013632/1557060836915421305.png",
+                "logotype_dark": "quests/1549087389715013632/1557060836747382784.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Xfinity Imagine That",
+                "game_title": "Explore the best internet deals for gaming",
+                "game_publisher": "Xfinity"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 29,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1549087389715013632/1557060836776869971_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1549087389715013632/1557060837141905438.png"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1549087389715013632/1557060836776869971_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1549087389715013632/1557060837141905438.png"
+                            },
+                            "video_hls": {
+                                "url": "quests/1549087389715013632/1557060836776869971.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1549087389715013632/1557060837141905438.png"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 29,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1549087389715013632/1557795550986764338_1080.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1549087389715013632/1557060837141905438.png"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1549087389715013632/1557795550986764338_720.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1549087389715013632/1557060837141905438.png"
+                            },
+                            "video_hls": {
+                                "url": "quests/1549087389715013632/1557795550986764338.m3u8",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1549087389715013632/1557060837141905438.png"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "200 Orbs",
+                            "name_with_article": "200 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 200,
+                        "premium_orb_quantity": null
+                    }
+                ],
+                "rewards_expire_at": "2026-12-10T01:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://www.xfinity.com",
+                "button_label": "Learn More",
+                "subtitle": "Explore the best internet deals for gaming"
+            }
+        }
+    },
+    {
+        "id": "1562882129065410582",
+        "config": {
+            "id": "1562882129065410582",
+            "config_version": 2,
+            "starts_at": "2026-10-23T17:00:00+00:00",
+            "expires_at": "2026-11-05T01:00:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://l.capcom.gg/c/0qbaww",
+                "id": "1456485028350656512",
+                "name": "Resident Evil Requiem"
+            },
+            "assets": {
+                "hero": "quests/1560042472560787507/1560046579577262140.jpg",
+                "quest_bar_hero_blurhash": "yzgGDIIAeXhnaoiGiIgChjZAaQ==",
+                "quest_bar_hero": "quests/1560042472560787507/1560046580449411163.jpg",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1560042472560787507/1560046580596219924.png",
+                "game_tile_dark": "quests/1560042472560787507/1560046580596219924.png",
+                "logotype_light": "quests/1560042472560787507/1560046580625842217.png",
+                "logotype_dark": "quests/1560042472560787507/1560046580625842217.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Resident Evil Sale",
+                "game_title": "Resident Evil",
+                "game_publisher": "Capcom"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1456485028350656512"
+                            },
+                            {
+                                "id": "443160369192632330"
+                            },
+                            {
+                                "id": "1129504209226711190"
+                            },
+                            {
+                                "id": "1162153766859059241"
+                            },
+                            {
+                                "id": "1196883977944956962"
+                            },
+                            {
+                                "id": "1129504165727584307"
+                            },
+                            {
+                                "id": "1442727969830207508"
+                            },
+                            {
+                                "id": "1129504702879518821"
+                            },
+                            {
+                                "id": "1445177238525050950"
+                            }
+                        ]
+                    },
+                    "PLAY_ON_XBOX": {
+                        "type": "PLAY_ON_XBOX",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1456485028350656512"
+                            }
+                        ],
+                        "external_ids": [
+                            "2108722049",
+                            "1852916479",
+                            "420309331",
+                            "651668093",
+                            "770775860",
+                            "374621264",
+                            "1278031123",
+                            "1469186547",
+                            "1658810016"
+                        ]
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "type": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1456485028350656512"
+                            }
+                        ],
+                        "external_ids": [
+                            "PPSA30803_00",
+                            "PPSA03953_00",
+                            "PPSA36563_00",
+                            "PPSA04289_00",
+                            "PPSA19000_00",
+                            "CUSA37739_00",
+                            "CUSA14129_00",
+                            "PPSA07412_00",
+                            "PPSA36562_00",
+                            "PPSA03952_00",
+                            "PPSA09418_00",
+                            "PPSA04288_00",
+                            "CUSA37742_00",
+                            "CUSA16723_00",
+                            "CUSA09193_00",
+                            "CUSA14123_00",
+                            "CUSA37740_00",
+                            "CUSA18017_00",
+                            "CUSA01067_00",
+                            "PPSA03954_00",
+                            "PPSA04404_00",
+                            "CUSA02337_00",
+                            "NPXS29218_00",
+                            "PPSA03955_00",
+                            "PPSA04405_00",
+                            "CUSA35714_00",
+                            "CUSA16724_00",
+                            "PPSA36561_00",
+                            "PPSA19001_00",
+                            "PPSA07411_00",
+                            "PPSA31247_00",
+                            "PPSA01557_00",
+                            "CUSA37741_00",
+                            "CUSA09171_00",
+                            "PPSA03956_00",
+                            "PPSA01556_00",
+                            "PPSA31246_00",
+                            "CUSA18008_00",
+                            "CUSA01068_00",
+                            "CUSA14168_00",
+                            "CUSA01905_00",
+                            "CUSA01815_00",
+                            "CUSA33387_00"
+                        ]
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 Orbs",
+                            "name_with_article": "700 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 700,
+                        "premium_orb_quantity": null
+                    }
+                ],
+                "rewards_expire_at": "2026-12-05T01:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://l.capcom.gg/c/0qbaww",
+                "button_label": "Shop Now"
+            }
+        }
     }
 ]
