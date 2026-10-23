@@ -129189,5 +129189,135 @@
                 "button_label": "Get Game"
             }
         }
+    },
+    {
+        "id": "1562260965687300186",
+        "config": {
+            "id": "1562260965687300186",
+            "config_version": 2,
+            "starts_at": "2026-10-23T04:00:00+00:00",
+            "expires_at": "2026-10-24T09:59:59+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://www.callofduty.com/playnow/modernwarfare4",
+                "id": "1511443377927880775",
+                "name": "Call of Duty: Modern Warfare 4"
+            },
+            "assets": {
+                "hero": "quests/1562260965687300186/1562266078267318392.jpg",
+                "hero_video": "quests/1562260965687300186/1562266096717799494_720.mp4",
+                "quest_bar_hero_blurhash": "k+cFCoLQdciHhbeGZ3lwhQg=",
+                "quest_bar_hero": "quests/1562260965687300186/1562266078267318392.jpg",
+                "quest_bar_hero_video": "quests/1562260965687300186/1562266102388752384_720.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1562260965687300186/1562265709726269501.png",
+                "game_tile_dark": "quests/1562260965687300186/1562265709743046786.png",
+                "logotype_light": "quests/1562260965687300186/1562265998646579282.png",
+                "logotype_dark": "quests/1562260965687300186/1562265998768476250.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Call of Duty: Modern Warfare 4",
+                "game_title": "Call of Duty: Modern Warfare 4",
+                "game_publisher": "Activision"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1511443377927880775"
+                            }
+                        ]
+                    },
+                    "PLAY_ON_XBOX": {
+                        "type": "PLAY_ON_XBOX",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1511443377927880775"
+                            }
+                        ],
+                        "external_ids": [
+                            "1680003655",
+                            "2001700854"
+                        ]
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "type": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1511443377927880775"
+                            }
+                        ],
+                        "external_ids": [
+                            "CUSA23827_00",
+                            "CUSA53714_00",
+                            "PPSA24265_00",
+                            "CUSA34032_00",
+                            "CUSA53712_00",
+                            "PPSA07952_00",
+                            "CUSA53710_00",
+                            "CUSA34030_00",
+                            "CUSA34029_00",
+                            "PPSA07950_00",
+                            "PPSA01649_00",
+                            "PPSA24263_00",
+                            "PPSA07953_00",
+                            "CUSA53711_00",
+                            "CUSA34031_00",
+                            "PPSA24266_00",
+                            "PPSA24264_00",
+                            "PPSA28781_00",
+                            "PPSA07951_00",
+                            "CUSA53713_00"
+                        ]
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 Orbs",
+                            "name_with_article": "700 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 700,
+                        "premium_orb_quantity": 840
+                    }
+                ],
+                "rewards_expire_at": "2026-11-23T09:59:59+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://www.callofduty.com/playnow/modernwarfare4",
+                "button_label": "Play Now",
+                "subtitle": "Cross the line"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "ad_context": null,
+        "preview": false,
+        "traffic_metadata_raw": "EAIYAQ=="
     }
 ]
