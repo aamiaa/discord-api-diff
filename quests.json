@@ -124808,15 +124808,15 @@
             },
             "assets": {
                 "hero": "quests/1552771565991759922/1557147667618861158.jpg",
-                "quest_bar_hero_blurhash": "DQgODIJXZnh7d3dwiHM4hYCGCA==",
-                "quest_bar_hero": "quests/1552771565991759922/1557148733840429207.jpg",
-                "quest_bar_hero_video": "quests/1552771565991759922/1557472108492230766_720.mp4",
+                "quest_bar_hero_blurhash": "RRgGDIJ6n6OIlFdjWZd7inCxBw==",
+                "quest_bar_hero": "quests/1552771565991759922/1563217423832850482.jpg",
+                "quest_bar_hero_video": "quests/1552771565991759922/1563217550157029437_720.mp4",
                 "game_tile": "PLACEHOLDER",
                 "logotype": "PLACEHOLDER",
                 "game_tile_light": "quests/1552771565991759922/1557147583762399272.png",
                 "game_tile_dark": "quests/1552771565991759922/1557147583762399272.png",
-                "logotype_light": "quests/1552771565991759922/1557147770182312058.png",
-                "logotype_dark": "quests/1552771565991759922/1557147795838861473.png"
+                "logotype_light": "quests/1552771565991759922/1557150632702378024.png",
+                "logotype_dark": "quests/1552771565991759922/1557150664633753710.png"
             },
             "colors": {
                 "primary": "#4752C4",
@@ -124824,7 +124824,7 @@
             },
             "messages": {
                 "quest_name": "Clayface",
-                "game_title": "In Theaters October 23",
+                "game_title": "In Theaters Now",
                 "game_publisher": "Warner Bros. Pictures"
             },
             "task_config_v2": {
@@ -124834,22 +124834,22 @@
                         "target": 14,
                         "assets": {
                             "video": {
-                                "url": "quests/1552771565991759922/1557148452826390631_1080.mp4",
+                                "url": "quests/1552771565991759922/1563217842256478349_1080.mp4",
                                 "width": 1920,
                                 "height": 1080,
-                                "thumbnail": "quests/1552771565991759922/1557147616171663381.jpg"
+                                "thumbnail": "quests/1552771565991759922/1557150595373342790.jpg"
                             },
                             "video_low_res": {
-                                "url": "quests/1552771565991759922/1557148452826390631_720.mp4",
+                                "url": "quests/1552771565991759922/1563217842256478349_720.mp4",
                                 "width": 1920,
                                 "height": 1080,
-                                "thumbnail": "quests/1552771565991759922/1557147616171663381.jpg"
+                                "thumbnail": "quests/1552771565991759922/1557150595373342790.jpg"
                             },
                             "video_hls": {
-                                "url": "quests/1552771565991759922/1557148452826390631.m3u8",
+                                "url": "quests/1552771565991759922/1563217842256478349.m3u8",
                                 "width": 1920,
                                 "height": 1080,
-                                "thumbnail": "quests/1552771565991759922/1557147616171663381.jpg"
+                                "thumbnail": "quests/1552771565991759922/1557150595373342790.jpg"
                             }
                         },
                         "messages": {
@@ -124861,22 +124861,22 @@
                         "target": 14,
                         "assets": {
                             "video": {
-                                "url": "quests/1552771565991759922/1557148452855615498_1080.mp4",
+                                "url": "quests/1552771565991759922/1563217842243903488_1080.mp4",
                                 "width": 1080,
                                 "height": 1920,
-                                "thumbnail": "quests/1552771565991759922/1557147616171663381.jpg"
+                                "thumbnail": "quests/1552771565991759922/1557150595373342790.jpg"
                             },
                             "video_low_res": {
-                                "url": "quests/1552771565991759922/1557148452855615498_720.mp4",
+                                "url": "quests/1552771565991759922/1563217842243903488_720.mp4",
                                 "width": 1080,
                                 "height": 1920,
-                                "thumbnail": "quests/1552771565991759922/1557147616171663381.jpg"
+                                "thumbnail": "quests/1552771565991759922/1557150595373342790.jpg"
                             },
                             "video_hls": {
-                                "url": "quests/1552771565991759922/1557148452855615498.m3u8",
+                                "url": "quests/1552771565991759922/1563217842243903488.m3u8",
                                 "width": 1080,
                                 "height": 1920,
-                                "thumbnail": "quests/1552771565991759922/1557147616171663381.jpg"
+                                "thumbnail": "quests/1552771565991759922/1557150595373342790.jpg"
                             }
                         },
                         "messages": {
@@ -124915,7 +124915,7 @@
             "cta_config": {
                 "link": "https://fandan.co/clayface",
                 "button_label": "Get Tickets",
-                "subtitle": "In Theaters October 23"
+                "subtitle": "In Theaters Now"
             }
         },
         "user_status": null,
@@ -129312,6 +129312,268 @@
                 "link": "https://www.callofduty.com/playnow/modernwarfare4",
                 "button_label": "Play Now",
                 "subtitle": "Cross the line"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "ad_context": null,
+        "preview": false,
+        "traffic_metadata_raw": "EAIYAQ=="
+    },
+    {
+        "id": "1552895954753945620",
+        "config": {
+            "id": "1552895954753945620",
+            "config_version": 2,
+            "starts_at": "2026-10-23T16:15:00+00:00",
+            "expires_at": "2026-11-07T01:00:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://www.callofduty.com/playnow/modernwarfare4",
+                "id": "1511443377927880775",
+                "name": "Call of Duty: Modern Warfare 4"
+            },
+            "assets": {
+                "hero": "quests/1552895954753945620/1562258909522300978.jpg",
+                "hero_video": "quests/1552895954753945620/1562259114036305920_720.mp4",
+                "quest_bar_hero_blurhash": "k+cFCoLQdciHhbeGZ3lwhQg=",
+                "quest_bar_hero": "quests/1552895954753945620/1562258909522300978.jpg",
+                "quest_bar_hero_video": "quests/1552895954753945620/1562258933308063885_720.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1552895954753945620/1562258716068417567.png",
+                "game_tile_dark": "quests/1552895954753945620/1562258715908771930.png",
+                "logotype_light": "quests/1552895954753945620/1562258132917297152.png",
+                "logotype_dark": "quests/1552895954753945620/1562258132225228810.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Call of Duty: Modern Warfare 4",
+                "game_title": "Call of Duty: Modern Warfare 4",
+                "game_publisher": "Activision"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1511443377927880775"
+                            }
+                        ]
+                    },
+                    "PLAY_ON_XBOX": {
+                        "type": "PLAY_ON_XBOX",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1511443377927880775"
+                            }
+                        ],
+                        "external_ids": [
+                            "1680003655",
+                            "2001700854"
+                        ]
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "type": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1511443377927880775"
+                            }
+                        ],
+                        "external_ids": [
+                            "CUSA53711_00",
+                            "CUSA34031_00",
+                            "PPSA07950_00",
+                            "PPSA24266_00",
+                            "CUSA53714_00",
+                            "CUSA23827_00",
+                            "CUSA34032_00",
+                            "CUSA53712_00",
+                            "PPSA24265_00",
+                            "CUSA34029_00",
+                            "PPSA24264_00",
+                            "CUSA53713_00",
+                            "CUSA53710_00",
+                            "CUSA34030_00",
+                            "PPSA07952_00",
+                            "PPSA07953_00",
+                            "PPSA28781_00",
+                            "PPSA07951_00",
+                            "PPSA24263_00",
+                            "PPSA01649_00"
+                        ]
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 Orbs",
+                            "name_with_article": "700 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 700,
+                        "premium_orb_quantity": 840
+                    }
+                ],
+                "rewards_expire_at": "2026-12-07T01:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://www.callofduty.com/playnow/modernwarfare4",
+                "button_label": "Play Now",
+                "subtitle": "Cross the line"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "ad_context": null,
+        "preview": false,
+        "traffic_metadata_raw": "EAIYAQ=="
+    },
+    {
+        "id": "1552895020724527125",
+        "config": {
+            "id": "1552895020724527125",
+            "config_version": 2,
+            "starts_at": "2026-10-23T16:15:00+00:00",
+            "expires_at": "2026-11-07T01:00:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://www.callofduty.com/playnow/modernwarfare4",
+                "id": "1511443377927880775",
+                "name": "Call of Duty: Modern Warfare 4"
+            },
+            "assets": {
+                "hero": "quests/1552895020724527125/1562256208717414440.jpg",
+                "hero_video": "quests/1552895020724527125/1562256423583350824_720.mp4",
+                "quest_bar_hero_blurhash": "ihgGCoArAnGLdKupH34J2ak=",
+                "quest_bar_hero": "quests/1552895020724527125/1562256208717414440.jpg",
+                "quest_bar_hero_video": "quests/1552895020724527125/1562256251629346846_720.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1552895020724527125/1559719512566276217.png",
+                "game_tile_dark": "quests/1552895020724527125/1559719512180391966.png",
+                "logotype_light": "quests/1552895020724527125/1559719512167682098.png",
+                "logotype_dark": "quests/1552895020724527125/1559719512167682128.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Call of Duty: Modern Warfare 4",
+                "game_title": "Call of Duty: Modern Warfare 4",
+                "game_publisher": "Activision"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1511443377927880775"
+                            }
+                        ]
+                    },
+                    "PLAY_ON_XBOX": {
+                        "type": "PLAY_ON_XBOX",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1511443377927880775"
+                            }
+                        ],
+                        "external_ids": [
+                            "1680003655",
+                            "2001700854"
+                        ]
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "type": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1511443377927880775"
+                            }
+                        ],
+                        "external_ids": [
+                            "CUSA53711_00",
+                            "CUSA34031_00",
+                            "PPSA07950_00",
+                            "PPSA24266_00",
+                            "CUSA53714_00",
+                            "CUSA23827_00",
+                            "CUSA53712_00",
+                            "CUSA34032_00",
+                            "PPSA24265_00",
+                            "CUSA34029_00",
+                            "PPSA24264_00",
+                            "CUSA53713_00",
+                            "CUSA53710_00",
+                            "CUSA34030_00",
+                            "PPSA07952_00",
+                            "PPSA07953_00",
+                            "PPSA28781_00",
+                            "PPSA07951_00",
+                            "PPSA24263_00",
+                            "PPSA01649_00"
+                        ]
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 1,
+                        "sku_id": "1552893313500184618",
+                        "asset": "quests/1552895020724527125/1559719416478957589.jpg",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "15m 2XP Token",
+                            "name_with_article": "A 15m 2XP Token",
+                            "redemption_instructions_by_platform": {
+                                "0": "Redeem your code for your 2XP Token at callofduty.com/redeem."
+                            }
+                        },
+                        "approximate_count": null,
+                        "redemption_link": "http://callofduty.com/promotions/redeemcode"
+                    }
+                ],
+                "rewards_expire_at": "2026-12-07T01:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://www.callofduty.com/playnow/modernwarfare4",
+                "button_label": "Play Now",
+                "subtitle": "Hold the line"
             }
         },
         "user_status": null,
