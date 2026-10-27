@@ -130708,5 +130708,118 @@
         "ad_context": null,
         "preview": false,
         "traffic_metadata_raw": "EAIYAQ=="
+    },
+    {
+        "id": "1549143645842841640",
+        "config": {
+            "id": "1549143645842841640",
+            "config_version": 2,
+            "starts_at": "2026-10-27T17:00:00+00:00",
+            "expires_at": "2026-11-03T01:00:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://playvalorant.com/?utm_source=discord&utm_medium=paid&utm_campaign=hushplay",
+                "id": "700136079562375258",
+                "name": "Valorant"
+            },
+            "assets": {
+                "hero": "quests/1549143645842841640/1549144005206351953.jpg",
+                "hero_video": "quests/1549143645842841640/1555282580264190002.mp4",
+                "quest_bar_hero_blurhash": "DtcFDIQRT3hdp4WKh2i5T0f6Yg==",
+                "quest_bar_hero": "quests/1549143645842841640/1555282551889727758.jpg",
+                "quest_bar_hero_video": "quests/1549143645842841640/1555282580264190002.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1549143645842841640/1549143951263531068.png",
+                "game_tile_dark": "quests/1549143645842841640/1549143951263531068.png",
+                "logotype_light": "quests/1549143645842841640/1549143951275991050.png",
+                "logotype_dark": "quests/1549143645842841640/1549143951275991050.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "VALORANT HUSH",
+                "game_title": "VALORANT",
+                "game_publisher": "Riot Games"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "700136079562375258"
+                            }
+                        ]
+                    },
+                    "PLAY_ON_XBOX": {
+                        "type": "PLAY_ON_XBOX",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "700136079562375258"
+                            }
+                        ],
+                        "external_ids": [
+                            "2139646219"
+                        ]
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "type": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "700136079562375258"
+                            }
+                        ],
+                        "external_ids": [
+                            "PPSA20711_00",
+                            "PPSA20676_00"
+                        ]
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 3,
+                        "sku_id": "1563255493906923561",
+                        "asset": "quests/1549143645842841640/1563278725448208485.mp4",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "SHHH. SNACK TIME Avatar Decoration",
+                            "name_with_article": "a SHHH. SNACK TIME Avatar Decoration",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "expires_at": "2027-01-03T01:00:00+00:00",
+                        "expires_at_premium": null,
+                        "expiration_mode": 3
+                    }
+                ],
+                "rewards_expire_at": "2026-12-03T01:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://playvalorant.com/?utm_source=discord&utm_medium=paid&utm_campaign=hushplay",
+                "button_label": "Play Free Now"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "ad_context": null,
+        "preview": false,
+        "traffic_metadata_raw": "EAIYAQ=="
     }
 ]
