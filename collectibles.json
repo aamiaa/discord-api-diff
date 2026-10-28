@@ -196944,5 +196944,900 @@
             "responsive": null,
             "background_style": null
         }
+    },
+    {
+        "sku_id": "1560734289350361138",
+        "name": "Día de Muertos",
+        "summary": " ",
+        "store_listing_id": "1560734289350361138",
+        "styles": {
+            "background_colors": [
+                3289459,
+                14521911
+            ],
+            "button_colors": [
+                5793266,
+                5793266
+            ],
+            "confetti_colors": [
+                43772,
+                15774258,
+                16414587,
+                3000177,
+                9739511
+            ]
+        },
+        "hero_ranking": [
+            "1561806274583068682",
+            "1561803284287717447",
+            "1561803485622575244",
+            "1561803720419967158",
+            "1561804071151730749",
+            "1561805807509569566",
+            "1561806070656270466"
+        ],
+        "products": [
+            {
+                "sku_id": "1561806274583068682",
+                "name": "Todos Santos Bundle",
+                "summary": "{joinedItems}",
+                "styles": {
+                    "background_colors": [
+                        3289459,
+                        14521911
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 2099,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 14400,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 1699,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 14400,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "preview_assets": {
+                    "fg_static": "https://cdn.discordapp.com/media/v1/collectibles-shop/bundle-fg-static/1561806274583068682",
+                    "bg_static": "https://cdn.discordapp.com/media/v1/collectibles-shop/bundle-bg-static/1561806274583068682"
+                },
+                "items": [
+                    {
+                        "type": 0,
+                        "sku_id": "1561803284287717447",
+                        "asset": "a_3026bd6951300ce1a4962c18efabd967",
+                        "label": "Marigolds and candles arch around a sugar skull, swaying lightly."
+                    },
+                    {
+                        "type": 2,
+                        "sku_id": "1561803485622575244",
+                        "asset": "nameplates/calavera/1561803485622575244/",
+                        "label": "A blueish purple sugar skull rests on an altar beside a candle.",
+                        "palette": "berry"
+                    },
+                    {
+                        "type": 1,
+                        "sku_id": "1561805807509569566",
+                        "title": "Papel Picado",
+                        "description": "Show this effect when others view your profile.",
+                        "accessibilityLabel": "Papel picado banners sway overhead as fireworks burst above the profile.",
+                        "animationType": 2,
+                        "thumbnailPreviewSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/231e59dbbbb079cf28597c6532f49cdeb2be83da9fdf65180f868306cdedb691",
+                        "reducedMotionSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/e1a7f4927ed80551149bd7c7c5d4dd9d12355bc6a69dba5bd8a5b2259a4b77fe",
+                        "effects": [
+                            {
+                                "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/aadd0461eb76cb0fed9d077084b0808488afbd7652054fc77c3ab9d6b74003da",
+                                "loop": false,
+                                "duration": 4981,
+                                "start": 0,
+                                "loopDelay": 0,
+                                "zIndex": 110,
+                                "randomizedSources": []
+                            },
+                            {
+                                "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/11ba3e0b85bf79ce6c869e3510f3fcb0a9bd61038a8effff786125e23459c865",
+                                "loop": true,
+                                "duration": 4981,
+                                "start": 7981,
+                                "loopDelay": 3000,
+                                "zIndex": 100,
+                                "randomizedSources": []
+                            }
+                        ]
+                    },
+                    {
+                        "type": 3,
+                        "sku_id": "1561806070656270466",
+                        "label": "An iridescent quetzal wraps around the top and bottom of the profile, its tail feathers trailing into leaves.",
+                        "layers": [
+                            {
+                                "id": "1561806203603132476",
+                                "type": "staple",
+                                "order": "front",
+                                "anchor": "top",
+                                "responsive": false
+                            },
+                            {
+                                "id": "1561806207197642893",
+                                "type": "staple",
+                                "order": "front",
+                                "anchor": "bottom",
+                                "responsive": false
+                            },
+                            {
+                                "id": "1561806211907588176",
+                                "type": "rail",
+                                "order": "back",
+                                "anchor": "center",
+                                "responsive": true
+                            },
+                            {
+                                "id": "1561806215527276664",
+                                "type": "staple",
+                                "order": "back",
+                                "anchor": "top",
+                                "responsive": false
+                            },
+                            {
+                                "id": "1561806220204187748",
+                                "type": "staple",
+                                "order": "back",
+                                "anchor": "bottom",
+                                "responsive": false
+                            }
+                        ],
+                        "inner_width": 1200,
+                        "overflow_top": 304,
+                        "overflow_bottom": 212,
+                        "overflow_horizontal": 56
+                    }
+                ],
+                "type": 1000,
+                "premium_type": 0,
+                "category_sku_id": "1560734289350361138",
+                "bundled_products": [
+                    {
+                        "sku_id": "1561803284287717447",
+                        "name": "Ofrenda",
+                        "summary": "Give your avatar a new look.",
+                        "type": 0,
+                        "premium_type": 0,
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 599,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 499,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "sku_id": "1561803485622575244",
+                        "name": "Calavera (Purple)",
+                        "summary": "Make your name stand out in servers and chats.",
+                        "type": 2,
+                        "premium_type": 0,
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 599,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 499,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "sku_id": "1561805807509569566",
+                        "name": "Papel Picado",
+                        "summary": "Show this effect when others view your profile.",
+                        "type": 1,
+                        "premium_type": 0,
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 599,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 499,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "sku_id": "1561806070656270466",
+                        "name": "Alebrije",
+                        "summary": "Elevate and wrap your profile with a frame.",
+                        "type": 3,
+                        "premium_type": 0,
+                        "prices": {
+                            "0": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 599,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            },
+                            "4": {
+                                "country_prices": {
+                                    "country_code": "US",
+                                    "prices": [
+                                        {
+                                            "amount": 499,
+                                            "currency": "usd",
+                                            "exponent": 2
+                                        },
+                                        {
+                                            "amount": 4100,
+                                            "currency": "discord_orb",
+                                            "exponent": 0
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                ],
+                "google_sku_ids": {
+                    "5": "1561806274583068682_1561806707242573935",
+                    "7": "1561806274583068682_1561806716335554660"
+                },
+                "is_first_party": true
+            },
+            {
+                "sku_id": "1561803284287717447",
+                "name": "Ofrenda",
+                "summary": "Give your avatar a new look.",
+                "styles": {
+                    "background_colors": [
+                        3289459,
+                        14521911
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "preview_assets": null,
+                "items": [
+                    {
+                        "type": 0,
+                        "sku_id": "1561803284287717447",
+                        "asset": "a_3026bd6951300ce1a4962c18efabd967",
+                        "label": "Marigolds and candles arch around a sugar skull, swaying lightly."
+                    }
+                ],
+                "type": 0,
+                "premium_type": 0,
+                "category_sku_id": "1560734289350361138",
+                "google_sku_ids": {
+                    "5": "1561803284287717447_1561806922191999086",
+                    "7": "1561803284287717447_1561806930178089200"
+                },
+                "is_first_party": true
+            },
+            {
+                "sku_id": "1561803485622575244",
+                "name": "Calavera (Purple)",
+                "summary": "Make your name stand out in servers and chats.",
+                "styles": {
+                    "background_colors": [
+                        3289459,
+                        14521911
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "preview_assets": null,
+                "items": [
+                    {
+                        "type": 2,
+                        "sku_id": "1561803485622575244",
+                        "asset": "nameplates/calavera/1561803485622575244/",
+                        "label": "A blueish purple sugar skull rests on an altar beside a candle.",
+                        "palette": "berry"
+                    }
+                ],
+                "type": 2,
+                "premium_type": 0,
+                "category_sku_id": "1560734289350361138",
+                "google_sku_ids": {
+                    "5": "1561803485622575244_1561807406726385684",
+                    "7": "1561803485622575244_1561807414766862346"
+                },
+                "is_first_party": true
+            },
+            {
+                "sku_id": "1561803720419967158",
+                "name": "Calavera (Red)",
+                "summary": "Make your name stand out in servers and chats.",
+                "styles": {
+                    "background_colors": [
+                        3289459,
+                        14521911
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "preview_assets": null,
+                "items": [
+                    {
+                        "type": 2,
+                        "sku_id": "1561803720419967158",
+                        "asset": "nameplates/calavera/1561803720419967158/",
+                        "label": "A purplish red sugar skull rests on an altar beside a candle.",
+                        "palette": "crimson"
+                    }
+                ],
+                "type": 2,
+                "premium_type": 0,
+                "category_sku_id": "1560734289350361138",
+                "google_sku_ids": {
+                    "5": "1561803720419967158_1561809768539103303",
+                    "7": "1561803720419967158_1561809776327794779"
+                },
+                "is_first_party": true
+            },
+            {
+                "sku_id": "1561804071151730749",
+                "name": "Calavera (Blue)",
+                "summary": "Make your name stand out in servers and chats.",
+                "styles": {
+                    "background_colors": [
+                        3289459,
+                        14521911
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "preview_assets": null,
+                "items": [
+                    {
+                        "type": 2,
+                        "sku_id": "1561804071151730749",
+                        "asset": "nameplates/calavera/1561804071151730749/",
+                        "label": "A blue sugar skull rests on an altar beside a candle.",
+                        "palette": "cobalt"
+                    }
+                ],
+                "type": 2,
+                "premium_type": 0,
+                "category_sku_id": "1560734289350361138",
+                "google_sku_ids": {
+                    "5": "1561804071151730749_1561807550863638528",
+                    "7": "1561804071151730749_1561807558283632700"
+                },
+                "is_first_party": true
+            },
+            {
+                "sku_id": "1561805807509569566",
+                "name": "Papel Picado",
+                "summary": "Show this effect when others view your profile.",
+                "styles": {
+                    "background_colors": [
+                        3289459,
+                        14521911
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "preview_assets": null,
+                "items": [
+                    {
+                        "type": 1,
+                        "sku_id": "1561805807509569566",
+                        "title": "Papel Picado",
+                        "description": "Show this effect when others view your profile.",
+                        "accessibilityLabel": "Papel picado banners sway overhead as fireworks burst above the profile.",
+                        "animationType": 2,
+                        "thumbnailPreviewSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/231e59dbbbb079cf28597c6532f49cdeb2be83da9fdf65180f868306cdedb691",
+                        "reducedMotionSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/e1a7f4927ed80551149bd7c7c5d4dd9d12355bc6a69dba5bd8a5b2259a4b77fe",
+                        "effects": [
+                            {
+                                "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/aadd0461eb76cb0fed9d077084b0808488afbd7652054fc77c3ab9d6b74003da",
+                                "loop": false,
+                                "duration": 4981,
+                                "start": 0,
+                                "loopDelay": 0,
+                                "zIndex": 110,
+                                "randomizedSources": []
+                            },
+                            {
+                                "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/11ba3e0b85bf79ce6c869e3510f3fcb0a9bd61038a8effff786125e23459c865",
+                                "loop": true,
+                                "duration": 4981,
+                                "start": 7981,
+                                "loopDelay": 3000,
+                                "zIndex": 100,
+                                "randomizedSources": []
+                            }
+                        ]
+                    }
+                ],
+                "type": 1,
+                "premium_type": 0,
+                "category_sku_id": "1560734289350361138",
+                "google_sku_ids": {
+                    "5": "1561805807509569566_1561807537563631647",
+                    "7": "1561805807509569566_1561807545339875328"
+                },
+                "is_first_party": true
+            },
+            {
+                "sku_id": "1561806070656270466",
+                "name": "Alebrije",
+                "summary": "Elevate and wrap your profile with a frame.",
+                "styles": {
+                    "background_colors": [
+                        3289459,
+                        14521911
+                    ],
+                    "button_colors": [
+                        5793266,
+                        5793266
+                    ],
+                    "confetti_colors": [
+                        43772,
+                        15774258,
+                        16414587,
+                        3000177,
+                        9739511
+                    ]
+                },
+                "prices": {
+                    "0": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 599,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    },
+                    "4": {
+                        "country_prices": {
+                            "country_code": "US",
+                            "prices": [
+                                {
+                                    "amount": 499,
+                                    "currency": "usd",
+                                    "exponent": 2
+                                },
+                                {
+                                    "amount": 4100,
+                                    "currency": "discord_orb",
+                                    "exponent": 0
+                                }
+                            ]
+                        }
+                    }
+                },
+                "preview_assets": null,
+                "items": [
+                    {
+                        "type": 3,
+                        "sku_id": "1561806070656270466",
+                        "label": "An iridescent quetzal wraps around the top and bottom of the profile, its tail feathers trailing into leaves.",
+                        "layers": [
+                            {
+                                "id": "1561806203603132476",
+                                "type": "staple",
+                                "order": "front",
+                                "anchor": "top",
+                                "responsive": false
+                            },
+                            {
+                                "id": "1561806207197642893",
+                                "type": "staple",
+                                "order": "front",
+                                "anchor": "bottom",
+                                "responsive": false
+                            },
+                            {
+                                "id": "1561806211907588176",
+                                "type": "rail",
+                                "order": "back",
+                                "anchor": "center",
+                                "responsive": true
+                            },
+                            {
+                                "id": "1561806215527276664",
+                                "type": "staple",
+                                "order": "back",
+                                "anchor": "top",
+                                "responsive": false
+                            },
+                            {
+                                "id": "1561806220204187748",
+                                "type": "staple",
+                                "order": "back",
+                                "anchor": "bottom",
+                                "responsive": false
+                            }
+                        ],
+                        "inner_width": 1200,
+                        "overflow_top": 304,
+                        "overflow_bottom": 212,
+                        "overflow_horizontal": 56
+                    }
+                ],
+                "type": 3,
+                "premium_type": 0,
+                "category_sku_id": "1560734289350361138",
+                "google_sku_ids": {
+                    "5": "1561806070656270466_1561806965724811294",
+                    "7": "1561806070656270466_1561806979305971732"
+                },
+                "is_first_party": true
+            }
+        ],
+        "hero_banner_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/517dff1af02d0340c61212e1bf920e87fbf689d795f73c84510d7d019d1b6756",
+        "hero_logo_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/3a0d4af91712313a8401574ebd8aa7f7772b8c422a941b1fa206a9c08945b00e",
+        "catalog_banner_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/82eb41ccf030da1e49c3dd3cf5614d019ed2c585a0de3bfccf72bd7075721f3e",
+        "featured_block_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/13b18841d66e5fcce1e479c3fb7dd157c580f8b43f74ff8591316c1e82758d13",
+        "logo_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/3a0d4af91712313a8401574ebd8aa7f7772b8c422a941b1fa206a9c08945b00e",
+        "pdp_bg_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/fcdf94cf975578d7991bc00e9da7a47e97a943578602f8b744435e33fd3a95b9",
+        "mobile_hero_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/9c26deb9829673c5b53f26bae16215b000796c0bdb73c5299e6c708a3b7f8768",
+        "mobile_banner_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/2e61f5be167f76f6f217614f427d429728982e36a654215e1c4d52b2b26f73d2",
+        "mobile_bg_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/4d4666ac2d8c28c965de023e8440bd731e980480f94490581e3f28673900fa75"
     }
 ]
