@@ -121332,7 +121332,7 @@
                 "name": "Discord"
             },
             "assets": {
-                "hero": "quests/1555158122522349568/1557425444431859752.jpg",
+                "hero": "quests/1555158122522349568/1565391486550544455.jpg",
                 "quest_bar_hero_blurhash": "YugFPwJYiaifaHeOiRhoOKhpdghIemAI",
                 "quest_bar_hero": "quests/1555158122522349568/1555507763629662219.jpg",
                 "game_tile": "PLACEHOLDER",
@@ -127576,7 +127576,7 @@
             "id": "1555669093204500591",
             "config_version": 2,
             "starts_at": "2026-10-19T17:00:00+00:00",
-            "expires_at": "2026-11-09T01:00:00+00:00",
+            "expires_at": "2026-10-29T17:15:00+00:00",
             "features": [
                 15
             ],
@@ -127683,7 +127683,7 @@
                         "premium_orb_quantity": 240
                     }
                 ],
-                "rewards_expire_at": "2026-12-09T01:00:00+00:00",
+                "rewards_expire_at": "2026-11-28T17:15:00+00:00",
                 "platforms": [
                     0
                 ]
@@ -131147,6 +131147,99 @@
                 },
                 "link": "https://mhoutlanders.onelink.me/ZNdp/8x2ju3sx",
                 "button_label": "Play Now"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "ad_context": null,
+        "preview": false,
+        "traffic_metadata_raw": "EAIYAQ=="
+    },
+    {
+        "id": "1557996162189893723",
+        "config": {
+            "id": "1557996162189893723",
+            "config_version": 2,
+            "starts_at": "2026-10-29T17:00:00+00:00",
+            "expires_at": "2026-11-09T01:00:00+00:00",
+            "features": [
+                27,
+                36,
+                15
+            ],
+            "application": {
+                "link": "https://www.searchlightpictures.com/wild-horse-nine?utm_source=Searchlight&utm_medium=Discord&utm_campaign=WildHorseNine#get-tickets",
+                "id": "1557307363499712582",
+                "name": "Moai"
+            },
+            "assets": {
+                "hero": "quests/1557996162189893723/1565140375390134323.jpg",
+                "hero_video": "quests/1557996162189893723/1565144354702758158_720.mp4",
+                "quest_bar_hero_blurhash": "2IoGGoZG0Z/5b2aHn+X2W0w=",
+                "quest_bar_hero": "quests/1557996162189893723/1565140375390134323.jpg",
+                "quest_bar_hero_video": "quests/1557996162189893723/1565140701438803978_720.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1557996162189893723/1562356588751093803.jpg",
+                "game_tile_dark": "quests/1557996162189893723/1562356588751093803.jpg",
+                "logotype_light": "quests/1557996162189893723/1562463225574981772.png",
+                "logotype_dark": "quests/1557996162189893723/1562463225574981772.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Wild Horse Nine",
+                "game_title": "Only in Theaters November 6th!",
+                "game_publisher": "Searchlight Pictures"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "ACHIEVEMENT_IN_ACTIVITY": {
+                        "type": "ACHIEVEMENT_IN_ACTIVITY",
+                        "target": 5,
+                        "applications": [
+                            {
+                                "id": "1557307363499712582"
+                            }
+                        ],
+                        "event_name": "progress",
+                        "messages": {
+                            "task_title": "Moai",
+                            "task_description": "Find 9 hidden memoir tapes to earn 700 Orbs"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 Orbs",
+                            "name_with_article": "700 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 700,
+                        "premium_orb_quantity": 840
+                    }
+                ],
+                "rewards_expire_at": "2026-12-09T01:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://www.searchlightpictures.com/wild-horse-nine?utm_source=Searchlight&utm_medium=Discord&utm_campaign=WildHorseNine#get-tickets",
+                "button_label": "Get Tickets",
+                "subtitle": "Only in Theaters November 6th!"
             }
         },
         "user_status": null,
