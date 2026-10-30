@@ -131247,5 +131247,268 @@
         "ad_context": null,
         "preview": false,
         "traffic_metadata_raw": "EAIYAQ=="
+    },
+    {
+        "id": "1557935197906010122",
+        "config": {
+            "id": "1557935197906010122",
+            "config_version": 2,
+            "starts_at": "2026-10-29T17:00:00+00:00",
+            "expires_at": "2026-11-06T01:00:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://discord.com/shop?tab=game-shops&applicationId=1288512934112264234&skuId=1560331674338988132",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1557935197906010122/1562976463391690774.jpg",
+                "hero_video": "quests/1557935197906010122/1562976650423959592_720.mp4",
+                "quest_bar_hero_blurhash": "TPcFFIAIZtSvZmqhW2pUcLj8xg==",
+                "quest_bar_hero": "quests/1557935197906010122/1562976528915111956.jpg",
+                "quest_bar_hero_video": "quests/1557935197906010122/1562976650423959592_720.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1557935197906010122/1562976086894186557.png",
+                "game_tile_dark": "quests/1557935197906010122/1562976086894186557.png",
+                "logotype_light": "quests/1557935197906010122/1562976086936133712.png",
+                "logotype_dark": "quests/1557935197906010122/1562976086936133712.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Rust Zombie Wumpus",
+                "game_title": "Rust Zombie Wumpus",
+                "game_publisher": "Discord"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 14,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1557935197906010122/1562976769286340710_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1557935197906010122/1562977418090913903.png"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1557935197906010122/1562976769286340710_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1557935197906010122/1562977418090913903.png"
+                            },
+                            "video_hls": {
+                                "url": "quests/1557935197906010122/1562976769286340710.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1557935197906010122/1562977418090913903.png"
+                            }
+                        },
+                        "messages": {
+                            "video_title": ""
+                        }
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 14,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1557935197906010122/1562976769286340710_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1557935197906010122/1562977418090913903.png"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1557935197906010122/1562976769286340710_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1557935197906010122/1562977418090913903.png"
+                            },
+                            "video_hls": {
+                                "url": "quests/1557935197906010122/1562976769286340710.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1557935197906010122/1562977418090913903.png"
+                            }
+                        },
+                        "messages": {
+                            "video_title": ""
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "200 Orbs",
+                            "name_with_article": "200 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 200,
+                        "premium_orb_quantity": 240
+                    }
+                ],
+                "rewards_expire_at": "2026-12-06T01:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://discord.com/shop?tab=game-shops&applicationId=1288512934112264234&skuId=1560331674338988132",
+                "button_label": "Shop Now"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "ad_context": null,
+        "preview": false,
+        "traffic_metadata_raw": "EAIYAQ=="
+    },
+    {
+        "id": "1507498167833460806",
+        "config": {
+            "id": "1507498167833460806",
+            "config_version": 2,
+            "starts_at": "2026-10-30T00:00:00+00:00",
+            "expires_at": "2026-11-16T01:00:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://www.amazon.com/gp/video/detail/B0H9PFG4BM",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1507498167833460806/1564443308267143210.jpg",
+                "quest_bar_hero_blurhash": "VbsGFIjSF5iHcHuHlZjxa3T9mA==",
+                "quest_bar_hero": "quests/1507498167833460806/1564443308393111633.jpg",
+                "quest_bar_hero_video": "quests/1507498167833460806/1564443423208120321_720.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1507498167833460806/1565461003607744744.png",
+                "game_tile_dark": "quests/1507498167833460806/1565460897521082378.png",
+                "logotype_light": "quests/1507498167833460806/1565461185996918914.png",
+                "logotype_dark": "quests/1507498167833460806/1565460897957413144.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "The Rings of Power",
+                "game_title": "The Rings of Power S3 premieres Nov 11 on Prime",
+                "game_publisher": "Amazon Prime Video"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 123,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1507498167833460806/1564812916442533918_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1507498167833460806/1564443308346834994.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1507498167833460806/1564812916442533918_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1507498167833460806/1564443308346834994.jpg"
+                            },
+                            "video_hls": {
+                                "url": "quests/1507498167833460806/1564812916442533918.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1507498167833460806/1564443308346834994.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 123,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1507498167833460806/1564812916232945774_1080.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1507498167833460806/1564443308346834994.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1507498167833460806/1564812916232945774_720.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1507498167833460806/1564443308346834994.jpg"
+                            },
+                            "video_hls": {
+                                "url": "quests/1507498167833460806/1564812916232945774.m3u8",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1507498167833460806/1564443308346834994.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 3,
+                        "sku_id": "1564764857088344095",
+                        "asset": "quests/1507498167833460806/1564765085925384312.mp4",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "Morgoth's Crown Avatar Decoration",
+                            "name_with_article": "a Morgoth's Crown Avatar Decoration",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "expires_at": "2027-01-16T01:00:00+00:00",
+                        "expires_at_premium": null,
+                        "expiration_mode": 3
+                    }
+                ],
+                "rewards_expire_at": "2026-12-16T01:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://www.amazon.com/gp/video/detail/B0H9PFG4BM",
+                "button_label": "Watch More",
+                "subtitle": "The Rings of Power S3 premieres Nov 11 on Prime."
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "ad_context": null,
+        "preview": false,
+        "traffic_metadata_raw": "EAIYAQ=="
     }
 ]
