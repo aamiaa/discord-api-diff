@@ -121322,7 +121322,7 @@
             "id": "1555158122522349568",
             "config_version": 2,
             "starts_at": "2026-10-05T17:00:00+00:00",
-            "expires_at": "2026-10-17T05:15:00+00:00",
+            "expires_at": "2026-11-04T06:15:00+00:00",
             "features": [
                 15
             ],
@@ -121427,7 +121427,7 @@
                         "premium_orb_quantity": 240
                     }
                 ],
-                "rewards_expire_at": "2026-11-16T05:15:00+00:00",
+                "rewards_expire_at": "2026-12-04T06:15:00+00:00",
                 "platforms": [
                     0
                 ]
@@ -127097,7 +127097,7 @@
             },
             "messages": {
                 "quest_name": "The Mosquito Bowl",
-                "game_title": "The Mosquito Bowl | In theaters October 30",
+                "game_title": "The Mosquito Bowl | Now playing in theaters",
                 "game_publisher": "Netflix"
             },
             "task_config_v2": {
@@ -127107,22 +127107,22 @@
                         "target": 29,
                         "assets": {
                             "video": {
-                                "url": "quests/1556747190242779347/1559691764065894512_1080.mp4",
+                                "url": "quests/1556747190242779347/1565100076303515811_1080.mp4",
                                 "width": 1920,
                                 "height": 1080,
-                                "thumbnail": "quests/1556747190242779347/1559691828339408946.jpg"
+                                "thumbnail": "quests/1556747190242779347/1559691828876288000.jpg"
                             },
                             "video_low_res": {
-                                "url": "quests/1556747190242779347/1559691764065894512_720.mp4",
+                                "url": "quests/1556747190242779347/1565100076303515811_720.mp4",
                                 "width": 1920,
                                 "height": 1080,
-                                "thumbnail": "quests/1556747190242779347/1559691828339408946.jpg"
+                                "thumbnail": "quests/1556747190242779347/1559691828876288000.jpg"
                             },
                             "video_hls": {
-                                "url": "quests/1556747190242779347/1559691764065894512.m3u8",
+                                "url": "quests/1556747190242779347/1565100076303515811.m3u8",
                                 "width": 1920,
                                 "height": 1080,
-                                "thumbnail": "quests/1556747190242779347/1559691828339408946.jpg"
+                                "thumbnail": "quests/1556747190242779347/1559691828876288000.jpg"
                             }
                         },
                         "messages": {
@@ -127134,22 +127134,22 @@
                         "target": 29,
                         "assets": {
                             "video": {
-                                "url": "quests/1556747190242779347/1559691764636590141_1080.mp4",
+                                "url": "quests/1556747190242779347/1565100076282417183_1080.mp4",
                                 "width": 1080,
                                 "height": 1920,
-                                "thumbnail": "quests/1556747190242779347/1559691828339408946.jpg"
+                                "thumbnail": "quests/1556747190242779347/1559691828876288000.jpg"
                             },
                             "video_low_res": {
-                                "url": "quests/1556747190242779347/1559691764636590141_720.mp4",
+                                "url": "quests/1556747190242779347/1565100076282417183_720.mp4",
                                 "width": 1080,
                                 "height": 1920,
-                                "thumbnail": "quests/1556747190242779347/1559691828339408946.jpg"
+                                "thumbnail": "quests/1556747190242779347/1559691828876288000.jpg"
                             },
                             "video_hls": {
-                                "url": "quests/1556747190242779347/1559691764636590141.m3u8",
+                                "url": "quests/1556747190242779347/1565100076282417183.m3u8",
                                 "width": 1080,
                                 "height": 1920,
-                                "thumbnail": "quests/1556747190242779347/1559691828339408946.jpg"
+                                "thumbnail": "quests/1556747190242779347/1559691828876288000.jpg"
                             }
                         },
                         "messages": {
@@ -127185,7 +127185,7 @@
             "cta_config": {
                 "link": "https://www.themosquitobowlfilm.com/",
                 "button_label": "Get Tickets",
-                "subtitle": "The Mosquito Bowl | In theaters October 30"
+                "subtitle": "The Mosquito Bowl | Now playing in theaters"
             }
         },
         "user_status": null,
@@ -127413,7 +127413,7 @@
                             }
                         },
                         "orb_quantity": 200,
-                        "premium_orb_quantity": 240
+                        "premium_orb_quantity": null
                     }
                 ],
                 "rewards_expire_at": "2026-11-25T00:00:00+00:00",
@@ -127427,12 +127427,7 @@
                 "button_label": "Buy Now",
                 "subtitle": "Ultra Wideband for Insane Performance - Shop Now"
             }
-        },
-        "user_status": null,
-        "targeted_content": [],
-        "ad_context": null,
-        "preview": false,
-        "traffic_metadata_raw": "EAIYAQ=="
+        }
     },
     {
         "id": "1559920791959769158",
@@ -127811,7 +127806,7 @@
                             }
                         },
                         "orb_quantity": 200,
-                        "premium_orb_quantity": null
+                        "premium_orb_quantity": 240
                     }
                 ],
                 "rewards_expire_at": "2026-11-25T00:00:00+00:00",
@@ -127825,7 +127820,12 @@
                 "button_label": "Buy Now",
                 "subtitle": "Ultra Wideband for Insane Performance - Shop Now"
             }
-        }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "ad_context": null,
+        "preview": false,
+        "traffic_metadata_raw": "EAIYAQ=="
     },
     {
         "id": "1555629080697897022",
@@ -128313,11 +128313,11 @@
                 "name": "Once Human"
             },
             "assets": {
-                "hero": "quests/1554696065704529930/1561581743771754556.jpg",
-                "hero_video": "quests/1554696065704529930/1561577087075229696_720.mp4",
-                "quest_bar_hero_blurhash": "TdcJCoKAiotreJh2jsDiCDw=",
-                "quest_bar_hero": "quests/1554696065704529930/1561581743771754556.jpg",
-                "quest_bar_hero_video": "quests/1554696065704529930/1561577005755932732_720.mp4",
+                "hero": "quests/1554696065704529930/1565737636289585295.jpg",
+                "hero_video": "quests/1554696065704529930/1565737717067812884_720.mp4",
+                "quest_bar_hero_blurhash": "oecJGoSvdYaKenZ3CJesYLs=",
+                "quest_bar_hero": "quests/1554696065704529930/1565737636289585295.jpg",
+                "quest_bar_hero_video": "quests/1554696065704529930/1565737497793798214_720.mp4",
                 "game_tile": "PLACEHOLDER",
                 "logotype": "PLACEHOLDER",
                 "game_tile_light": "quests/1554696065704529930/1561576918782836796.png",
@@ -131510,5 +131510,469 @@
         "ad_context": null,
         "preview": false,
         "traffic_metadata_raw": "EAIYAQ=="
+    },
+    {
+        "id": "1565598409891651604",
+        "config": {
+            "id": "1565598409891651604",
+            "config_version": 2,
+            "starts_at": "2026-10-31T04:00:00+00:00",
+            "expires_at": "2026-11-12T04:00:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://akendfield.gryphline.com/d27t/V1D6DVQSTEAM",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1565598409891651604/1565729880216440983.jpg",
+                "quest_bar_hero_blurhash": "KPgNDIByd3WAZ4eWh4NRnABnBw==",
+                "quest_bar_hero": "quests/1565598409891651604/1565600382116434090.jpg",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1565598409891651604/1565600289837416498.jpg",
+                "game_tile_dark": "quests/1565598409891651604/1565600289837416498.jpg",
+                "logotype_light": "quests/1565598409891651604/1565600289812123718.png",
+                "logotype_dark": "quests/1565598409891651604/1565600289875165225.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "ENDFIELD IS NOW ON STEAM",
+                "game_title": "Arknights: Endfield",
+                "game_publisher": "GRYPHLINE"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 29,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1565598409891651604/1565602089965588540_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1565598409891651604/1565619468929998969.png"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1565598409891651604/1565602089965588540_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1565598409891651604/1565619468929998969.png"
+                            },
+                            "video_hls": {
+                                "url": "quests/1565598409891651604/1565602089965588540.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1565598409891651604/1565619468929998969.png"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 29,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1565598409891651604/1565602089965588540_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1565598409891651604/1565619468929998969.png"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1565598409891651604/1565602089965588540_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1565598409891651604/1565619468929998969.png"
+                            },
+                            "video_hls": {
+                                "url": "quests/1565598409891651604/1565602089965588540.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1565598409891651604/1565619468929998969.png"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "200 Orbs",
+                            "name_with_article": "200 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 200,
+                        "premium_orb_quantity": 240
+                    }
+                ],
+                "rewards_expire_at": "2026-12-12T04:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://akendfield.gryphline.com/d27t/V1D6DVQSTEAM",
+                "button_label": "Play Now"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "ad_context": null,
+        "preview": false,
+        "traffic_metadata_raw": "EAIYAQ=="
+    },
+    {
+        "id": "1562305244216430702",
+        "config": {
+            "id": "1562305244216430702",
+            "config_version": 2,
+            "starts_at": "2026-10-30T17:00:00+00:00",
+            "expires_at": "2026-11-09T01:00:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://tickets.godzillaminuszero.com/?utm_source=discord&utm_campaign=GMZ&utm_medium=quest",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1562305244216430702/1562305876713545728.jpg",
+                "hero_video": "quests/1562305244216430702/1562308054521876500_720.mp4",
+                "quest_bar_hero_blurhash": "lecNFITAk3hch5iIloigiweqaA==",
+                "quest_bar_hero": "quests/1562305244216430702/1562305876755222548.jpg",
+                "quest_bar_hero_video": "quests/1562305244216430702/1565472612161818836_720.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1562305244216430702/1562305876767805440.png",
+                "game_tile_dark": "quests/1562305244216430702/1562305876767805440.png",
+                "logotype_light": "quests/1562305244216430702/1562305877636157480.png",
+                "logotype_dark": "quests/1562305244216430702/1562305877778632724.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Godzilla Minus Zero",
+                "game_title": "In Theatres November 6",
+                "game_publisher": "GKIDS"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 82,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1562305244216430702/1562305877845876807_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1562305244216430702/1562305878139347055.png"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1562305244216430702/1562305877845876807_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1562305244216430702/1562305878139347055.png"
+                            },
+                            "video_hls": {
+                                "url": "quests/1562305244216430702/1562305877845876807.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1562305244216430702/1562305878139347055.png"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 82,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1562305244216430702/1562305876851949660_1080.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1562305244216430702/1562305878139347055.png"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1562305244216430702/1562305876851949660_720.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1562305244216430702/1562305878139347055.png"
+                            },
+                            "video_hls": {
+                                "url": "quests/1562305244216430702/1562305876851949660.m3u8",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1562305244216430702/1562305878139347055.png"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 3,
+                        "sku_id": "1565167965530226698",
+                        "asset": "quests/1562305244216430702/1565168385954947082.mp4",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "Godzilla Minus Zero Avatar Decoration",
+                            "name_with_article": "a Godzilla Minus Zero Avatar Decoration",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "expires_at": "2027-01-09T01:00:00+00:00",
+                        "expires_at_premium": null,
+                        "expiration_mode": 3
+                    }
+                ],
+                "rewards_expire_at": "2026-12-09T01:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://tickets.godzillaminuszero.com/?utm_source=discord&utm_campaign=GMZ&utm_medium=quest",
+                "button_label": "Get Tickets",
+                "subtitle": "In Theatres November 6"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "ad_context": null,
+        "preview": false,
+        "traffic_metadata_raw": "EAIYAQ=="
+    },
+    {
+        "id": "1565590271301779568",
+        "config": {
+            "id": "1565590271301779568",
+            "config_version": 2,
+            "starts_at": "2026-10-31T04:00:00+00:00",
+            "expires_at": "2026-11-12T04:00:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://akendfield.gryphline.com/d27t/V1D6DPQSTEAM",
+                "id": "1461154307171811401",
+                "name": "Arknights: Endfield"
+            },
+            "assets": {
+                "hero": "quests/1565590271301779568/1565596757994377256.jpg",
+                "quest_bar_hero_blurhash": "rfgNHICAqneIZodmhpiEew+nWA==",
+                "quest_bar_hero": "quests/1565590271301779568/1565619409513480242.jpg",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1534395181334270063/1534399094129295400.jpg",
+                "game_tile_dark": "quests/1534395181334270063/1534399094129295400.jpg",
+                "logotype_light": "quests/1534395181334270063/1534399093877637151.png",
+                "logotype_dark": "quests/1534395181334270063/1534399093881704558.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "ENDFIELD IS NOW ON STEAM",
+                "game_title": "Arknights: Endfield",
+                "game_publisher": "GRYPHLINE"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1461154307171811401"
+                            }
+                        ]
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "type": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1461154307171811401"
+                            }
+                        ],
+                        "external_ids": [
+                            "PPSA18538_00"
+                        ]
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 Orbs",
+                            "name_with_article": "700 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 700,
+                        "premium_orb_quantity": 840
+                    }
+                ],
+                "rewards_expire_at": "2026-12-12T04:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://akendfield.gryphline.com/d27t/V1D6DPQSTEAM",
+                "button_label": "Play Now"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "ad_context": null,
+        "preview": false,
+        "traffic_metadata_raw": "EAIYAQ=="
+    },
+    {
+        "id": "1565032458741612545",
+        "config": {
+            "id": "1565032458741612545",
+            "config_version": 2,
+            "starts_at": "2026-10-30T17:00:00+00:00",
+            "expires_at": "2026-11-06T07:59:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://game.ea.com/redirect?campaignName=FC27_UA_SA_EA_SOC_DISC_LC_NOT-FLEX&caudience=3P-INT-PLAT-COMPETITIVEGAMING_CLK&ccreative=X_FC27-LA-LOGOANIM-LOOP_X_VID_6_2460x740_X_HC",
+                "id": "1531874756096295054",
+                "name": "EA Sports FC 27"
+            },
+            "assets": {
+                "hero": "quests/1565032458741612545/1565734112290021407.jpg",
+                "hero_video": "quests/1565032458741612545/1565734164550918225_720.mp4",
+                "quest_bar_hero_blurhash": "aigJDIzfpomZammNZXdwd/uJOA==",
+                "quest_bar_hero": "quests/1565032458741612545/1565734105356964020.jpg",
+                "quest_bar_hero_video": "quests/1565032458741612545/1565734152844742726_720.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1551969525602451497/1551970436106027178.png",
+                "game_tile_dark": "quests/1551969525602451497/1551970362135150602.png",
+                "logotype_light": "quests/1551969525602451497/1551970362869153803.png",
+                "logotype_dark": "quests/1551969525602451497/1551970362521026750.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "EA SPORTS FC™ 27",
+                "game_title": "EA SPORTS FC™ 27",
+                "game_publisher": "Electronic Arts"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1531874756096295054"
+                            }
+                        ]
+                    },
+                    "PLAY_ON_XBOX": {
+                        "type": "PLAY_ON_XBOX",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1531874756096295054"
+                            }
+                        ],
+                        "external_ids": [
+                            "2047118660",
+                            "1675858627"
+                        ]
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "type": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1531874756096295054"
+                            }
+                        ],
+                        "external_ids": [
+                            "CUSA57220_00",
+                            "CUSA58964_00",
+                            "PPSA34015_00"
+                        ]
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 Orbs",
+                            "name_with_article": "700 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 700,
+                        "premium_orb_quantity": null
+                    }
+                ],
+                "rewards_expire_at": "2026-12-06T07:59:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://game.ea.com/redirect?campaignName=FC27_UA_SA_EA_SOC_DISC_LC_NOT-FLEX&caudience=3P-INT-PLAT-COMPETITIVEGAMING_CLK&ccreative=X_FC27-LA-LOGOANIM-LOOP_X_VID_6_2460x740_X_HC",
+                "button_label": "Get Game"
+            }
+        }
     }
 ]
