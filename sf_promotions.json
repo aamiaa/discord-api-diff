@@ -130,5 +130,88 @@
                 }
             }
         }
+    },
+    {
+        "id": "1561837966131863552",
+        "application_id": "1096190356233670716",
+        "display_name": "Spilled Milk",
+        "reward_type": 1,
+        "reward_status": 2,
+        "reward_config": {
+            "discount": null,
+            "action": {
+                "action_type": 4,
+                "delivery_mode": 2,
+                "sku_ids": [],
+                "orbs_back": null
+            }
+        },
+        "sku_ids": null,
+        "applies_to_all_skus": false,
+        "include_bundles": true,
+        "starts_at": "2026-11-04T16:30:00+00:00",
+        "ends_at": "2026-11-18T17:00:00+00:00",
+        "redemption_ends_at": "2026-11-23T17:00:00+00:00",
+        "progress": {
+            "current": 0,
+            "target": 4,
+            "label": "items owned"
+        },
+        "tenant_metadata": {
+            "social_layer": null,
+            "collectibles": {
+                "type": "COLLECT_AND_CLAIM",
+                "subtype": "BASIC",
+                "collection_id": "1561844530079076372",
+                "shop_home": {
+                    "description": "Collect 4 items to unlock an exclusive Deadpool/Wolverine Avatar Decoration. [Terms apply]({help_center_url}).",
+                    "style": {
+                        "content_theme": "dark"
+                    }
+                },
+                "index_page": {
+                    "description": "Collect 4 items to unlock an exclusive Deadpool/Wolverine Avatar Decoration. [Terms apply]({help_center_url}).",
+                    "style": {
+                        "content_theme": "dark"
+                    }
+                },
+                "shared": {
+                    "progress_indicator": {
+                        "title": "Unlock an exclusive Deadpool/Wolverine Avatar Decoration",
+                        "description": "Collect 4 eligible items to unlock. Ends {promotion_end_date}.",
+                        "indicator_reward_states": {
+                            "earned": {
+                                "title": "Your Avatar Decoration is ready.",
+                                "description": "You've made Deadpool and Wolverine very proud. Claim your exclusive item by {claim_end_date}."
+                            },
+                            "consumed": {
+                                "title": "Avatar Decoration claimed.",
+                                "description": "Babypool is now yours. Good luck with potty training."
+                            }
+                        },
+                        "assets": {
+                            "background_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/7596b6605d8eb4f4381fe655e97aa81c22fe9edaa5dee89da4ced75fd6737379",
+                            "reward_preview": {
+                                "hidden_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/dd133062c56896ad4e4109eccfa36d0eeb9054f263164d78cd3156cd94253e85",
+                                "revealed_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/878cdc7d24aab4ee4d8a0cd673097ec3b47f38fd57df586fec809db37e29d345"
+                            }
+                        },
+                        "style": {
+                            "content_theme": "dark",
+                            "progress_color": "#83EE53"
+                        }
+                    },
+                    "navigation": {
+                        "tab": {
+                            "title": "Deadpool / Wolverine",
+                            "icon": "TAG"
+                        }
+                    },
+                    "help_center": {
+                        "id": "44565196921239"
+                    }
+                }
+            }
+        }
     }
 ]

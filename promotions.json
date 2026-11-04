@@ -663,5 +663,65 @@
         "partner_id": "logitech",
         "promotion_type": 7,
         "priority": null
+    },
+    {
+        "id": "1561815608524415106",
+        "marketing_components": [
+            {
+                "id": "1565865437156089986",
+                "promotion_id": "1561815608524415106",
+                "premium_offer_type": 0,
+                "premium_type": null,
+                "premium_source": null,
+                "premium_subscription_type": null,
+                "component_type": 27,
+                "theme": 0,
+                "experiment_id": null,
+                "experiment_variation_id": null,
+                "ready": true,
+                "properties": {
+                    "shopCoachmark": {
+                        "asset": {
+                            "lightUrl": "https://cdn.discordapp.com/promotions/premium-marketing/1565865110071677079/1567326653145817140.png",
+                            "darkUrl": "https://cdn.discordapp.com/promotions/premium-marketing/1565865110071677079/1567326653145817140.png",
+                            "lightStaticUrl": "https://cdn.discordapp.com/promotions/premium-marketing/1565865110071677079/1567326653145817140.png",
+                            "darkStaticUrl": "https://cdn.discordapp.com/promotions/premium-marketing/1565865110071677079/1567326653145817140.png"
+                        },
+                        "headerLocalized": {},
+                        "bodyLocalized": {},
+                        "buttonLabelLocalized": {},
+                        "displayType": "SHOP_COACHMARK_DISPLAY_TYPE_VIDEO_TILE",
+                        "badgeTextLocalized": {},
+                        "badgeIcon": "TagIcon",
+                        "showHoverGradient": true,
+                        "hoverBackground": {
+                            "lightUrl": "https://cdn.discordapp.com/promotions/premium-marketing/1565865110071677079/1565865281434161172.png",
+                            "darkUrl": "https://cdn.discordapp.com/promotions/premium-marketing/1565865110071677079/1565865281434161172.png",
+                            "lightStaticUrl": "https://cdn.discordapp.com/promotions/premium-marketing/1565865110071677079/1565865281434161172.png",
+                            "darkStaticUrl": "https://cdn.discordapp.com/promotions/premium-marketing/1565865110071677079/1565865281434161172.png"
+                        },
+                        "header": "Deadpool/Wolverine",
+                        "body": "Collect 4 items and unlock an exclusive Avatar Decoration before it's gone.",
+                        "buttonLabel": "Take me there",
+                        "badgeText": "PROMO",
+                        "version": 103
+                    }
+                },
+                "start_date": null,
+                "end_date": null
+            }
+        ],
+        "start_date": "2026-11-04T16:30:00+00:00",
+        "end_date": "2026-11-18T17:00:00+00:00",
+        "flags": 1537,
+        "country_list_mode": "blocklist",
+        "promotion_type": 5,
+        "metadata": {
+            "premium_promotion": {
+                "reward_sku_ids": [],
+                "reward_config": null
+            }
+        },
+        "priority": 75
     }
 ]
