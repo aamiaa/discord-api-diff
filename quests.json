@@ -131435,8 +131435,10 @@
             },
             "assets": {
                 "hero": "quests/1565598409891651604/1565729880216440983.jpg",
+                "hero_video": "quests/1565598409891651604/1567966834618278078_720.mp4",
                 "quest_bar_hero_blurhash": "KPgNDIByd3WAZ4eWh4NRnABnBw==",
                 "quest_bar_hero": "quests/1565598409891651604/1565600382116434090.jpg",
+                "quest_bar_hero_video": "quests/1565598409891651604/1567966738795208785_720.mp4",
                 "game_tile": "PLACEHOLDER",
                 "logotype": "PLACEHOLDER",
                 "game_tile_light": "quests/1565598409891651604/1565600289837416498.jpg",
@@ -131912,7 +131914,7 @@
                 "secondary": "#000000"
             },
             "messages": {
-                "quest_name": "eスポーツ高等学院",
+                "quest_name": "𝖾スポーツ高等学院",
                 "game_title": "eスポーツ高等学院",
                 "game_publisher": "eスポーツ高等学院"
             },
@@ -134823,6 +134825,1519 @@
                 "link": "https://www.primevideo.com/detail/gti/amzn1.dv.gti.8c43a805-f19b-4642-b474-7494b7759e80",
                 "button_label": "Watch More",
                 "subtitle": "Nuova stagione - 11 novembre"
+            }
+        }
+    },
+    {
+        "id": "1567288099795374120",
+        "config": {
+            "id": "1567288099795374120",
+            "config_version": 2,
+            "starts_at": "2026-11-05T18:00:00+00:00",
+            "expires_at": "2026-11-19T01:00:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://store.steampowered.com/app/3274580/Anno_117_Pax_Romana/?utm_source=discord&utm_medium=social-community&utm_campaign=dlc-launch_2611&utm_content=post&utm_term=a117",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1567288099795374120/1567318201258348676.jpg",
+                "hero_video": "quests/1567288099795374120/1567299606918725702_720.mp4",
+                "quest_bar_hero_blurhash": "VxgGHIKBiGe/hodfl3ujoBgJaw==",
+                "quest_bar_hero": "quests/1567288099795374120/1567299207633838200.jpg",
+                "quest_bar_hero_video": "quests/1567288099795374120/1567299606918725702_720.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1567288099795374120/1567298856121540709.jpg",
+                "game_tile_dark": "quests/1567288099795374120/1567298856121540709.jpg",
+                "logotype_light": "quests/1567288099795374120/1567298895367901234.png",
+                "logotype_dark": "quests/1567288099795374120/1567298896147906692.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Anno 117 | 40% Off",
+                "game_title": "Anno 117 | 40% Off",
+                "game_publisher": "Ubisoft"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 97,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1567288099795374120/1567318702414626867_1080.mp4",
+                                "width": 1280,
+                                "height": 720,
+                                "thumbnail": "quests/1567288099795374120/1567319958743031808.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1567288099795374120/1567318702414626867_720.mp4",
+                                "width": 1280,
+                                "height": 720,
+                                "thumbnail": "quests/1567288099795374120/1567319958743031808.jpg"
+                            },
+                            "video_hls": {
+                                "url": "quests/1567288099795374120/1567318702414626867.m3u8",
+                                "width": 1280,
+                                "height": 720,
+                                "thumbnail": "quests/1567288099795374120/1567319958743031808.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 97,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1567288099795374120/1567318702414626867_1080.mp4",
+                                "width": 1280,
+                                "height": 720,
+                                "thumbnail": "quests/1567288099795374120/1567319958743031808.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1567288099795374120/1567318702414626867_720.mp4",
+                                "width": 1280,
+                                "height": 720,
+                                "thumbnail": "quests/1567288099795374120/1567319958743031808.jpg"
+                            },
+                            "video_hls": {
+                                "url": "quests/1567288099795374120/1567318702414626867.m3u8",
+                                "width": 1280,
+                                "height": 720,
+                                "thumbnail": "quests/1567288099795374120/1567319958743031808.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "200 Orbs",
+                            "name_with_article": "200 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 200,
+                        "premium_orb_quantity": 240
+                    }
+                ],
+                "rewards_expire_at": "2026-12-19T01:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://store.steampowered.com/app/3274580/Anno_117_Pax_Romana/?utm_source=discord&utm_medium=social-community&utm_campaign=dlc-launch_2611&utm_content=post&utm_term=a117",
+                "button_label": "Buy Now"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "ad_context": null,
+        "preview": false
+    },
+    {
+        "id": "1567431461559078952",
+        "config": {
+            "id": "1567431461559078952",
+            "config_version": 2,
+            "starts_at": "2026-11-05T18:00:00+00:00",
+            "expires_at": "2026-11-10T01:00:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://www.karoshi.movie",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1567431461559078952/1567433714617557023.jpg",
+                "quest_bar_hero_blurhash": "khgKFIJvQYc2VpmGmHUNauSgRw==",
+                "quest_bar_hero": "quests/1567431461559078952/1567433632748937227.jpg",
+                "quest_bar_hero_video": "quests/1567431461559078952/1567434972350906479_720.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1567431461559078952/1567433805948657704.png",
+                "game_tile_dark": "quests/1567431461559078952/1567433805948657704.png",
+                "logotype_light": "quests/1567431461559078952/1567433689644929076.png",
+                "logotype_dark": "quests/1567431461559078952/1567433689644929076.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "KARŌSHI Trailer",
+                "game_title": "KARŌSHI. Work Kills. In Theaters Feb. 5.",
+                "game_publisher": "Lionsgate"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 104,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1567431461559078952/1567433759479955536_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1567431461559078952/1567433785757270076.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1567431461559078952/1567433759479955536_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1567431461559078952/1567433785757270076.jpg"
+                            },
+                            "video_hls": {
+                                "url": "quests/1567431461559078952/1567433759479955536.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1567431461559078952/1567433785757270076.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 104,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1567431461559078952/1567433759371034665_1080.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1567431461559078952/1567433785757270076.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1567431461559078952/1567433759371034665_720.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1567431461559078952/1567433785757270076.jpg"
+                            },
+                            "video_hls": {
+                                "url": "quests/1567431461559078952/1567433759371034665.m3u8",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1567431461559078952/1567433785757270076.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "200 Orbs",
+                            "name_with_article": "200 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 200,
+                        "premium_orb_quantity": 240
+                    }
+                ],
+                "rewards_expire_at": "2026-12-10T01:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://www.karoshi.movie",
+                "button_label": "Learn More",
+                "subtitle": "KARŌSHI. Work Kills. In Theaters Feb. 5."
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "ad_context": null,
+        "preview": false
+    },
+    {
+        "id": "1564479754147594341",
+        "config": {
+            "id": "1564479754147594341",
+            "config_version": 2,
+            "starts_at": "2026-11-05T18:00:00+00:00",
+            "expires_at": "2026-11-13T01:00:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://www.audible.com/pd/Exoplanet-Audiobook/B0HDFGKSTL",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1564479754147594341/1564484000674873436.jpg",
+                "hero_video": "quests/1564479754147594341/1567292653089857546_720.mp4",
+                "quest_bar_hero_blurhash": "GfgFEoQKOIhPhkZzSW+m9GY=",
+                "quest_bar_hero": "quests/1564479754147594341/1564484000674873436.jpg",
+                "quest_bar_hero_video": "quests/1564479754147594341/1567292480070754365_720.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1564479754147594341/1564483497849004052.jpg",
+                "game_tile_dark": "quests/1564479754147594341/1564483497849004052.jpg",
+                "logotype_light": "quests/1564479754147594341/1564483552077283389.png",
+                "logotype_dark": "quests/1564479754147594341/1564483607295426640.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Audible Exoplanet",
+                "game_title": "'Exoplanet' coming to Audible on November 5",
+                "game_publisher": "Audible"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 29,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1564479754147594341/1564484000930725898_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1564479754147594341/1564484000842780692.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1564479754147594341/1564484000930725898_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1564479754147594341/1564484000842780692.jpg"
+                            },
+                            "video_hls": {
+                                "url": "quests/1564479754147594341/1564484000930725898.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1564479754147594341/1564484000842780692.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 29,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1564479754147594341/1564484000809226341_1080.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1564479754147594341/1564484000842780692.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1564479754147594341/1564484000809226341_720.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1564479754147594341/1564484000842780692.jpg"
+                            },
+                            "video_hls": {
+                                "url": "quests/1564479754147594341/1564484000809226341.m3u8",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1564479754147594341/1564484000842780692.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "200 Orbs",
+                            "name_with_article": "200 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 200,
+                        "premium_orb_quantity": 240
+                    }
+                ],
+                "rewards_expire_at": "2026-12-13T01:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://www.audible.com/pd/Exoplanet-Audiobook/B0HDFGKSTL",
+                "button_label": "Listen Now",
+                "subtitle": "'Exoplanet' coming to Audible on November 5"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "ad_context": null,
+        "preview": false
+    },
+    {
+        "id": "1565688209650884639",
+        "config": {
+            "id": "1565688209650884639",
+            "config_version": 2,
+            "starts_at": "2026-11-05T18:00:00+00:00",
+            "expires_at": "2026-11-13T01:00:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://www.primevideo.com/detail/0NBVXAJ6EQW7OTHPOIWASZ9313",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1565688209650884639/1567455062014296115.jpg",
+                "quest_bar_hero_blurhash": "DwgKBIAGeHl6hYiJhYoDOBqEQA==",
+                "quest_bar_hero": "quests/1565688209650884639/1567455104913645610.jpg",
+                "quest_bar_hero_video": "quests/1565688209650884639/1567455118683545742_720.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1565688209650884639/1567455061917827122.png",
+                "game_tile_dark": "quests/1565688209650884639/1567455061917827122.png",
+                "logotype_light": "quests/1565688209650884639/1567455061917827122.png",
+                "logotype_dark": "quests/1565688209650884639/1567455061917827122.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Apocalipsis Z",
+                "game_title": "Restez silencieux pour survivre. Le 30 octobre sur Prime Video.",
+                "game_publisher": "Amazon Prime Video"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 40,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1565688209650884639/1567582623952543865_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1565688209650884639/1567455104913645610.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1565688209650884639/1567582623952543865_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1565688209650884639/1567455104913645610.jpg"
+                            },
+                            "video_hls": {
+                                "url": "quests/1565688209650884639/1567582623952543865.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1565688209650884639/1567455104913645610.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 40,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1565688209650884639/1567582623839158384_1080.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1565688209650884639/1567455104913645610.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1565688209650884639/1567582623839158384_720.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1565688209650884639/1567455104913645610.jpg"
+                            },
+                            "video_hls": {
+                                "url": "quests/1565688209650884639/1567582623839158384.m3u8",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1565688209650884639/1567455104913645610.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "200 Orbs",
+                            "name_with_article": "200 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 200,
+                        "premium_orb_quantity": null
+                    }
+                ],
+                "rewards_expire_at": "2026-12-13T01:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://www.primevideo.com/detail/0NBVXAJ6EQW7OTHPOIWASZ9313",
+                "button_label": "Watch Now",
+                "subtitle": "Restez silencieux pour survivre. Le 30 octobre sur Prime Video."
+            }
+        }
+    },
+    {
+        "id": "1565686679119855649",
+        "config": {
+            "id": "1565686679119855649",
+            "config_version": 2,
+            "starts_at": "2026-11-05T18:00:00+00:00",
+            "expires_at": "2026-11-13T01:00:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://www.primevideo.com/detail/0NBVXAJ6EQW7OTHPOIWASZ9313",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1565686679119855649/1567460274145992755.jpg",
+                "quest_bar_hero_blurhash": "DwgKBIAGeHl6hYiJhYoDOBqEQA==",
+                "quest_bar_hero": "quests/1565686679119855649/1567460296241582080.jpg",
+                "quest_bar_hero_video": "quests/1565686679119855649/1567460359369916416_720.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1565686679119855649/1567460201714548756.png",
+                "game_tile_dark": "quests/1565686679119855649/1567460201714548756.png",
+                "logotype_light": "quests/1565686679119855649/1567460201714548756.png",
+                "logotype_dark": "quests/1565686679119855649/1567460201714548756.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Apocalipsis Z",
+                "game_title": "Guarda silencio para sobrevivir. 30 de octubre en Prime Video.",
+                "game_publisher": "Amazon Prime Video"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 40,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1565686679119855649/1567582794736078848_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1565686679119855649/1567460296241582080.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1565686679119855649/1567582794736078848_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1565686679119855649/1567460296241582080.jpg"
+                            },
+                            "video_hls": {
+                                "url": "quests/1565686679119855649/1567582794736078848.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1565686679119855649/1567460296241582080.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 40,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1565686679119855649/1567582795130474526_1080.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1565686679119855649/1567460296241582080.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1565686679119855649/1567582795130474526_720.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1565686679119855649/1567460296241582080.jpg"
+                            },
+                            "video_hls": {
+                                "url": "quests/1565686679119855649/1567582795130474526.m3u8",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1565686679119855649/1567460296241582080.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "200 Orbs",
+                            "name_with_article": "200 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 200,
+                        "premium_orb_quantity": null
+                    }
+                ],
+                "rewards_expire_at": "2026-12-13T01:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://www.primevideo.com/detail/0NBVXAJ6EQW7OTHPOIWASZ9313",
+                "button_label": "Watch Now",
+                "subtitle": "Guarda silencio para sobrevivir. 30 de octubre en Prime Video."
+            }
+        }
+    },
+    {
+        "id": "1565685505352409129",
+        "config": {
+            "id": "1565685505352409129",
+            "config_version": 2,
+            "starts_at": "2026-11-05T18:00:00+00:00",
+            "expires_at": "2026-11-13T01:00:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://www.primevideo.com/detail/0NBVXAJ6EQW7OTHPOIWASZ9313",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1565685505352409129/1567458887974649866.jpg",
+                "quest_bar_hero_blurhash": "DwgKBIAGeHl6hYiJhYoDOBqEQA==",
+                "quest_bar_hero": "quests/1565685505352409129/1567459164672761896.jpg",
+                "quest_bar_hero_video": "quests/1565685505352409129/1567459205148057690_720.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1565685505352409129/1567458887903346798.png",
+                "game_tile_dark": "quests/1565685505352409129/1567458887903346798.png",
+                "logotype_light": "quests/1565685505352409129/1567458887903346798.png",
+                "logotype_dark": "quests/1565685505352409129/1567458887903346798.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Apocalipsis Z",
+                "game_title": "Mantém-te em silêncio para sobreviver. 30 de outubro no Prime Video.",
+                "game_publisher": "Amazon Prime Video"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 14,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1565685505352409129/1567458888075448370_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1565685505352409129/1567459164672761896.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1565685505352409129/1567458888075448370_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1565685505352409129/1567459164672761896.jpg"
+                            },
+                            "video_hls": {
+                                "url": "quests/1565685505352409129/1567458888075448370.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1565685505352409129/1567459164672761896.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 14,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1565685505352409129/1567458888075448370_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1565685505352409129/1567459164672761896.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1565685505352409129/1567458888075448370_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1565685505352409129/1567459164672761896.jpg"
+                            },
+                            "video_hls": {
+                                "url": "quests/1565685505352409129/1567458888075448370.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1565685505352409129/1567459164672761896.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "200 Orbs",
+                            "name_with_article": "200 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 200,
+                        "premium_orb_quantity": null
+                    }
+                ],
+                "rewards_expire_at": "2026-12-13T01:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://www.primevideo.com/detail/0NBVXAJ6EQW7OTHPOIWASZ9313",
+                "button_label": "Watch Now",
+                "subtitle": "Mantém-te em silêncio para sobreviver. 30 de outubro no Prime Video."
+            }
+        }
+    },
+    {
+        "id": "1565686352622784553",
+        "config": {
+            "id": "1565686352622784553",
+            "config_version": 2,
+            "starts_at": "2026-11-05T18:00:00+00:00",
+            "expires_at": "2026-11-13T01:00:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://www.primevideo.com/detail/0NBVXAJ6EQW7OTHPOIWASZ9313",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1565686352622784553/1567458127069061231.jpg",
+                "quest_bar_hero_blurhash": "DwgKBIAGeHl6hYiJhYoDOBqEQA==",
+                "quest_bar_hero": "quests/1565686352622784553/1567458169419079680.jpg",
+                "quest_bar_hero_video": "quests/1565686352622784553/1567458186150027265_720.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1565686352622784553/1567459833031163904.png",
+                "game_tile_dark": "quests/1565686352622784553/1567459833031163904.png",
+                "logotype_light": "quests/1565686352622784553/1567459833031163904.png",
+                "logotype_dark": "quests/1565686352622784553/1567459833031163904.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Apocalipsis Z",
+                "game_title": "Guarda silencio para sobrevivir. 30 de octubre en Prime Video.",
+                "game_publisher": "Amazon Prime Video"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 40,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1565686352622784553/1567582836825923614_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1565686352622784553/1567458169419079680.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1565686352622784553/1567582836825923614_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1565686352622784553/1567458169419079680.jpg"
+                            },
+                            "video_hls": {
+                                "url": "quests/1565686352622784553/1567582836825923614.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1565686352622784553/1567458169419079680.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 40,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1565686352622784553/1567582836834439298_1080.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1565686352622784553/1567458169419079680.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1565686352622784553/1567582836834439298_720.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1565686352622784553/1567458169419079680.jpg"
+                            },
+                            "video_hls": {
+                                "url": "quests/1565686352622784553/1567582836834439298.m3u8",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1565686352622784553/1567458169419079680.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "200 Orbs",
+                            "name_with_article": "200 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 200,
+                        "premium_orb_quantity": null
+                    }
+                ],
+                "rewards_expire_at": "2026-12-13T01:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://www.primevideo.com/detail/0NBVXAJ6EQW7OTHPOIWASZ9313",
+                "button_label": "Watch Now",
+                "subtitle": "Guarda silencio para sobrevivir. 30 de octubre en Prime Video."
+            }
+        }
+    },
+    {
+        "id": "1565684623369838673",
+        "config": {
+            "id": "1565684623369838673",
+            "config_version": 2,
+            "starts_at": "2026-11-05T18:00:00+00:00",
+            "expires_at": "2026-11-13T01:00:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://www.primevideo.com/detail/0NBVXAJ6EQW7OTHPOIWASZ9313",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1565684623369838673/1567457485714100274.jpg",
+                "quest_bar_hero_blurhash": "DwgKBIAGeHl6hYiJhYoDOBqEQA==",
+                "quest_bar_hero": "quests/1565684623369838673/1567457525169655901.jpg",
+                "quest_bar_hero_video": "quests/1565684623369838673/1567457545126158466_720.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1565684623369838673/1567459718044319764.png",
+                "game_tile_dark": "quests/1565684623369838673/1567459718044319764.png",
+                "logotype_light": "quests/1565684623369838673/1567459718044319764.png",
+                "logotype_dark": "quests/1565684623369838673/1567459718044319764.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Apocalipsis Z",
+                "game_title": "Guarda silencio para sobrevivir. 30 de octubre en Prime Video.",
+                "game_publisher": "Amazon Prime Video"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 40,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1565684623369838673/1567582955344363722_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1565684623369838673/1567457525169655901.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1565684623369838673/1567582955344363722_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1565684623369838673/1567457525169655901.jpg"
+                            },
+                            "video_hls": {
+                                "url": "quests/1565684623369838673/1567582955344363722.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1565684623369838673/1567457525169655901.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 40,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1565684623369838673/1567582954887192627_1080.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1565684623369838673/1567457525169655901.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1565684623369838673/1567582954887192627_720.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1565684623369838673/1567457525169655901.jpg"
+                            },
+                            "video_hls": {
+                                "url": "quests/1565684623369838673/1567582954887192627.m3u8",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1565684623369838673/1567457525169655901.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "200 Orbs",
+                            "name_with_article": "200 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 200,
+                        "premium_orb_quantity": null
+                    }
+                ],
+                "rewards_expire_at": "2026-12-13T01:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://www.primevideo.com/detail/0NBVXAJ6EQW7OTHPOIWASZ9313",
+                "button_label": "Watch Now",
+                "subtitle": "Guarda silencio para sobrevivir. 30 de octubre en Prime Video."
+            }
+        }
+    },
+    {
+        "id": "1565687563925196883",
+        "config": {
+            "id": "1565687563925196883",
+            "config_version": 2,
+            "starts_at": "2026-11-05T18:00:00+00:00",
+            "expires_at": "2026-11-13T01:00:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://www.primevideo.com/detail/0NBVXAJ6EQW7OTHPOIWASZ9313",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1565687563925196883/1567456163916947528.jpg",
+                "quest_bar_hero_blurhash": "DwgKBIAGeHl6hYiJhYoDOBqEQA==",
+                "quest_bar_hero": "quests/1565687563925196883/1567456207642431589.jpg",
+                "quest_bar_hero_video": "quests/1565687563925196883/1567456221424783431_720.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1565687563925196883/1567459636183957534.png",
+                "game_tile_dark": "quests/1565687563925196883/1567459636183957534.png",
+                "logotype_light": "quests/1565687563925196883/1567459636183957534.png",
+                "logotype_dark": "quests/1565687563925196883/1567459636183957534.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Apocalipsis Z",
+                "game_title": "Guarda silencio para sobrevivir. 30 de octubre en Prime Video.",
+                "game_publisher": "Amazon Prime Video"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 40,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1565687563925196883/1567582704109625495_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1565687563925196883/1567456207642431589.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1565687563925196883/1567582704109625495_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1565687563925196883/1567456207642431589.jpg"
+                            },
+                            "video_hls": {
+                                "url": "quests/1565687563925196883/1567582704109625495.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1565687563925196883/1567456207642431589.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 40,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1565687563925196883/1567582704147636274_1080.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1565687563925196883/1567456207642431589.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1565687563925196883/1567582704147636274_720.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1565687563925196883/1567456207642431589.jpg"
+                            },
+                            "video_hls": {
+                                "url": "quests/1565687563925196883/1567582704147636274.m3u8",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1565687563925196883/1567456207642431589.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "200 Orbs",
+                            "name_with_article": "200 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 200,
+                        "premium_orb_quantity": null
+                    }
+                ],
+                "rewards_expire_at": "2026-12-13T01:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://www.primevideo.com/detail/0NBVXAJ6EQW7OTHPOIWASZ9313",
+                "button_label": "Watch Now",
+                "subtitle": "Guarda silencio para sobrevivir. 30 de octubre en Prime Video."
+            }
+        }
+    },
+    {
+        "id": "1565684908595355741",
+        "config": {
+            "id": "1565684908595355741",
+            "config_version": 2,
+            "starts_at": "2026-11-05T18:00:00+00:00",
+            "expires_at": "2026-11-13T01:00:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://www.primevideo.com/detail/0NBVXAJ6EQW7OTHPOIWASZ9313",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1565684908595355741/1567453851773308978.jpg",
+                "quest_bar_hero_blurhash": "DwgKBIAGeHl6hYiJhYoDOBqEQA==",
+                "quest_bar_hero": "quests/1565684908595355741/1567453944706236506.jpg",
+                "quest_bar_hero_video": "quests/1565684908595355741/1567453961458290739_720.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1565684908595355741/1567453834035462187.png",
+                "game_tile_dark": "quests/1565684908595355741/1567453834035462187.png",
+                "logotype_light": "quests/1565684908595355741/1567453834035462187.png",
+                "logotype_dark": "quests/1565684908595355741/1567453834035462187.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Apocalipsis Z",
+                "game_title": "Zachowaj ciszę, aby przetrwać. 30 października na Prime Video.",
+                "game_publisher": "Amazon Prime Video"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 40,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1565684908595355741/1567582904115142776_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1565684908595355741/1567453944706236506.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1565684908595355741/1567582904115142776_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1565684908595355741/1567453944706236506.jpg"
+                            },
+                            "video_hls": {
+                                "url": "quests/1565684908595355741/1567582904115142776.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1565684908595355741/1567453944706236506.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 40,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1565684908595355741/1567582903980789770_1080.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1565684908595355741/1567453944706236506.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1565684908595355741/1567582903980789770_720.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1565684908595355741/1567453944706236506.jpg"
+                            },
+                            "video_hls": {
+                                "url": "quests/1565684908595355741/1567582903980789770.m3u8",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1565684908595355741/1567453944706236506.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "200 Orbs",
+                            "name_with_article": "200 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 200,
+                        "premium_orb_quantity": null
+                    }
+                ],
+                "rewards_expire_at": "2026-12-13T01:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://www.primevideo.com/detail/0NBVXAJ6EQW7OTHPOIWASZ9313",
+                "button_label": "Watch Now",
+                "subtitle": "Zachowaj ciszę, aby przetrwać. 30 października na Prime Video."
+            }
+        }
+    },
+    {
+        "id": "1565687137360416899",
+        "config": {
+            "id": "1565687137360416899",
+            "config_version": 2,
+            "starts_at": "2026-11-05T18:00:00+00:00",
+            "expires_at": "2026-11-13T01:00:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://www.primevideo.com/detail/0NBVXAJ6EQW7OTHPOIWASZ9313",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1565687137360416899/1567454439025934466.jpg",
+                "quest_bar_hero_blurhash": "DwgKBIAGeHl6hYiJhYoDOBqEQA==",
+                "quest_bar_hero": "quests/1565687137360416899/1567454587621736558.jpg",
+                "quest_bar_hero_video": "quests/1565687137360416899/1567454602792669294_720.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1565687137360416899/1567459544072724510.png",
+                "game_tile_dark": "quests/1565687137360416899/1567459544072724510.png",
+                "logotype_light": "quests/1565687137360416899/1567459544072724510.png",
+                "logotype_dark": "quests/1565687137360416899/1567459544072724510.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Apocalipsis Z",
+                "game_title": "Guarda silencio para sobrevivir. 30 de octubre en Prime Video.",
+                "game_publisher": "Amazon Prime Video"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 40,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1565687137360416899/1567582750180122805_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1565687137360416899/1567454587621736558.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1565687137360416899/1567582750180122805_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1565687137360416899/1567454587621736558.jpg"
+                            },
+                            "video_hls": {
+                                "url": "quests/1565687137360416899/1567582750180122805.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1565687137360416899/1567454587621736558.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 40,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1565687137360416899/1567582749953630298_1080.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1565687137360416899/1567454587621736558.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1565687137360416899/1567582749953630298_720.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1565687137360416899/1567454587621736558.jpg"
+                            },
+                            "video_hls": {
+                                "url": "quests/1565687137360416899/1567582749953630298.m3u8",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1565687137360416899/1567454587621736558.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "200 Orbs",
+                            "name_with_article": "200 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 200,
+                        "premium_orb_quantity": null
+                    }
+                ],
+                "rewards_expire_at": "2026-12-13T01:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://www.primevideo.com/detail/0NBVXAJ6EQW7OTHPOIWASZ9313",
+                "button_label": "Watch Now",
+                "subtitle": "Guarda silencio para sobrevivir. 30 de octubre en Prime Video."
+            }
+        }
+    },
+    {
+        "id": "1565688527361020035",
+        "config": {
+            "id": "1565688527361020035",
+            "config_version": 2,
+            "starts_at": "2026-11-05T18:00:00+00:00",
+            "expires_at": "2026-11-13T01:00:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://www.primevideo.com/detail/0NBVXAJ6EQW7OTHPOIWASZ9313",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1565688527361020035/1567297272570576997.jpg",
+                "quest_bar_hero_blurhash": "DwgKBIAGeHl6hYiJhYoDOBqEQA==",
+                "quest_bar_hero": "quests/1565688527361020035/1567297286839603332.jpg",
+                "quest_bar_hero_video": "quests/1565688527361020035/1567456555828256888_720.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1565688527361020035/1567297175925301258.png",
+                "game_tile_dark": "quests/1565688527361020035/1567297175925301258.png",
+                "logotype_light": "quests/1565688527361020035/1567297175887552612.png",
+                "logotype_dark": "quests/1565688527361020035/1567297175925301258.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Apocalipsis Z",
+                "game_title": "Bleib leise, um zu überleben. Ab 30. Oktober bei Prime Video.",
+                "game_publisher": "Amazon Prime Video"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 40,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1565688527361020035/1567580609981980743_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1565688527361020035/1567297286839603332.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1565688527361020035/1567580609981980743_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1565688527361020035/1567297286839603332.jpg"
+                            },
+                            "video_hls": {
+                                "url": "quests/1565688527361020035/1567580609981980743.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1565688527361020035/1567297286839603332.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 40,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1565688527361020035/1567580637735419984_1080.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1565688527361020035/1567297286839603332.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1565688527361020035/1567580637735419984_720.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1565688527361020035/1567297286839603332.jpg"
+                            },
+                            "video_hls": {
+                                "url": "quests/1565688527361020035/1567580637735419984.m3u8",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1565688527361020035/1567297286839603332.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "200 Orbs",
+                            "name_with_article": "200 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 200,
+                        "premium_orb_quantity": null
+                    }
+                ],
+                "rewards_expire_at": "2026-12-13T01:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://www.primevideo.com/detail/0NBVXAJ6EQW7OTHPOIWASZ9313",
+                "button_label": "Watch Now",
+                "subtitle": "Bleib leise, um zu überleben. Ab 30. Oktober bei Prime Video."
             }
         }
     }
