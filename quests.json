@@ -128518,7 +128518,7 @@
             "id": "1552381063475499109",
             "config_version": 2,
             "starts_at": "2026-10-21T18:00:00+00:00",
-            "expires_at": "2026-11-05T01:00:00+00:00",
+            "expires_at": "2026-11-05T07:59:00+00:00",
             "features": [
                 15
             ],
@@ -128625,7 +128625,7 @@
                         "premium_orb_quantity": 240
                     }
                 ],
-                "rewards_expire_at": "2026-12-05T01:00:00+00:00",
+                "rewards_expire_at": "2026-12-05T07:59:00+00:00",
                 "platforms": [
                     0
                 ]
@@ -132264,7 +132264,7 @@
             "id": "1562169814540353659",
             "config_version": 2,
             "starts_at": "2026-11-02T00:00:00+00:00",
-            "expires_at": "2026-11-12T23:59:00+00:00",
+            "expires_at": "2026-11-04T22:50:00+00:00",
             "features": [
                 15
             ],
@@ -132344,7 +132344,7 @@
                         "premium_orb_quantity": null
                     }
                 ],
-                "rewards_expire_at": "2026-12-12T23:59:00+00:00",
+                "rewards_expire_at": "2026-12-04T22:50:00+00:00",
                 "platforms": [
                     0
                 ]
@@ -133171,7 +133171,7 @@
             "id": "1552381793074675762",
             "config_version": 2,
             "starts_at": "2026-11-04T18:00:00+00:00",
-            "expires_at": "2026-11-19T01:00:00+00:00",
+            "expires_at": "2026-11-19T07:59:00+00:00",
             "features": [
                 15
             ],
@@ -133233,7 +133233,7 @@
                         "premium_orb_quantity": 840
                     }
                 ],
-                "rewards_expire_at": "2026-12-19T01:00:00+00:00",
+                "rewards_expire_at": "2026-12-19T07:59:00+00:00",
                 "platforms": [
                     0
                 ]
@@ -133255,7 +133255,7 @@
             "id": "1562249301252645008",
             "config_version": 2,
             "starts_at": "2026-11-04T18:00:00+00:00",
-            "expires_at": "2026-11-04T18:45:00+00:00",
+            "expires_at": "2026-11-12T07:59:00+00:00",
             "features": [
                 15
             ],
@@ -133292,19 +133292,19 @@
                         "target": 28,
                         "assets": {
                             "video": {
-                                "url": "quests/1562249301252645008/1567293718430486638_1080.mp4",
+                                "url": "quests/1562249301252645008/1567686748882997288_1080.mp4",
                                 "width": 1920,
                                 "height": 1080,
                                 "thumbnail": "quests/1562249301252645008/1566918347533189181.jpg"
                             },
                             "video_low_res": {
-                                "url": "quests/1562249301252645008/1567293718430486638_720.mp4",
+                                "url": "quests/1562249301252645008/1567686748882997288_720.mp4",
                                 "width": 1920,
                                 "height": 1080,
                                 "thumbnail": "quests/1562249301252645008/1566918347533189181.jpg"
                             },
                             "video_hls": {
-                                "url": "quests/1562249301252645008/1567293718430486638.m3u8",
+                                "url": "quests/1562249301252645008/1567686748882997288.m3u8",
                                 "width": 1920,
                                 "height": 1080,
                                 "thumbnail": "quests/1562249301252645008/1566918347533189181.jpg"
@@ -133319,19 +133319,19 @@
                         "target": 28,
                         "assets": {
                             "video": {
-                                "url": "quests/1562249301252645008/1567293718430486638_1080.mp4",
+                                "url": "quests/1562249301252645008/1567686748882997288_1080.mp4",
                                 "width": 1920,
                                 "height": 1080,
                                 "thumbnail": "quests/1562249301252645008/1566918347533189181.jpg"
                             },
                             "video_low_res": {
-                                "url": "quests/1562249301252645008/1567293718430486638_720.mp4",
+                                "url": "quests/1562249301252645008/1567686748882997288_720.mp4",
                                 "width": 1920,
                                 "height": 1080,
                                 "thumbnail": "quests/1562249301252645008/1566918347533189181.jpg"
                             },
                             "video_hls": {
-                                "url": "quests/1562249301252645008/1567293718430486638.m3u8",
+                                "url": "quests/1562249301252645008/1567686748882997288.m3u8",
                                 "width": 1920,
                                 "height": 1080,
                                 "thumbnail": "quests/1562249301252645008/1566918347533189181.jpg"
@@ -133361,7 +133361,7 @@
                         "premium_orb_quantity": 240
                     }
                 ],
-                "rewards_expire_at": "2026-12-04T18:45:00+00:00",
+                "rewards_expire_at": "2026-12-12T07:59:00+00:00",
                 "platforms": [
                     0
                 ]
@@ -133692,6 +133692,1137 @@
                 "link": "https://www.sonypictures.ca/movies/resident-evil",
                 "button_label": "Buy Now",
                 "subtitle": "From the director of Weapons. Resident Evil – Watch at Home Now"
+            }
+        }
+    },
+    {
+        "id": "1552876032875560980",
+        "config": {
+            "id": "1552876032875560980",
+            "config_version": 2,
+            "starts_at": "2026-11-04T23:30:00+00:00",
+            "expires_at": "2026-11-19T01:00:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://shop.battle.net/product/world-of-warcraft-forever?utm_source=Discord&utm_medium=PaidGGM",
+                "id": "1553234742529364018",
+                "name": "World of Warcraft: Forever"
+            },
+            "assets": {
+                "hero": "quests/1552876032875560980/1563326884849127464.jpg",
+                "quest_bar_hero_blurhash": "TRcGO4gCbHeImKhoiJBoBpk=",
+                "quest_bar_hero": "quests/1552876032875560980/1563326884849127464.jpg",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1552876032875560980/1562577947129286738.png",
+                "game_tile_dark": "quests/1552876032875560980/1562577947129286738.png",
+                "logotype_light": "quests/1552876032875560980/1562578916412227644.png",
+                "logotype_dark": "quests/1552876032875560980/1562577947154452530.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "World of Warcraft: Forever Play",
+                "game_title": "World of Warcraft: Forever",
+                "game_publisher": "Blizzard Entertainment"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1553234742529364018"
+                            }
+                        ]
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 Orbs",
+                            "name_with_article": "700 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 700,
+                        "premium_orb_quantity": 840
+                    }
+                ],
+                "rewards_expire_at": "2026-12-19T01:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://shop.battle.net/product/world-of-warcraft-forever?utm_source=Discord&utm_medium=PaidGGM",
+                "button_label": "Play Now",
+                "subtitle": "Carve a New Path"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "ad_context": null,
+        "preview": false
+    },
+    {
+        "id": "1552815635506008175",
+        "config": {
+            "id": "1552815635506008175",
+            "config_version": 2,
+            "starts_at": "2026-11-04T21:00:00+00:00",
+            "expires_at": "2026-11-19T01:00:00+00:00",
+            "features": [
+                27,
+                36,
+                15
+            ],
+            "application": {
+                "link": "https://www.primevideo.com/detail/gti/amzn1.dv.gti.8c43a805-f19b-4642-b474-7494b7759e80",
+                "id": "1559569075544268840",
+                "name": "[Prod] Volcano"
+            },
+            "assets": {
+                "hero": "quests/1552815635506008175/1567420269931532298.jpg",
+                "quest_bar_hero_blurhash": "WxkODID5ZlaId3h6hXf4ilqAWA==",
+                "quest_bar_hero": "quests/1552815635506008175/1567003730187001998.jpg",
+                "quest_bar_hero_video": "quests/1552815635506008175/1567420191145594940_720.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1552815635506008175/1567569882437124217.png",
+                "game_tile_dark": "quests/1552815635506008175/1567569882437124217.png",
+                "logotype_light": "quests/1552815635506008175/1566999835150778468.png",
+                "logotype_dark": "quests/1552815635506008175/1566999835150778468.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Forge The Ring",
+                "game_title": "The Rings of Power S3 premieres Nov 11 on Prime",
+                "game_publisher": "Amazon Prime Video"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "ACHIEVEMENT_IN_ACTIVITY": {
+                        "type": "ACHIEVEMENT_IN_ACTIVITY",
+                        "target": 5,
+                        "applications": [
+                            {
+                                "id": "1559569075544268840"
+                            }
+                        ],
+                        "event_name": "progress",
+                        "messages": {
+                            "task_title": "Volcano",
+                            "task_description": "Enter Sauron’s forge in Barad-dûr and attempt to forge the One Ring to earn 700 Orbs."
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 Orbs",
+                            "name_with_article": "700 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 700,
+                        "premium_orb_quantity": 840
+                    }
+                ],
+                "rewards_expire_at": "2026-12-19T01:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://www.primevideo.com/detail/gti/amzn1.dv.gti.8c43a805-f19b-4642-b474-7494b7759e80",
+                "button_label": "Watch More",
+                "subtitle": "The Rings of Power S3 premieres Nov 11 on Prime."
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "ad_context": null,
+        "preview": false
+    },
+    {
+        "id": "1567032464046559233",
+        "config": {
+            "id": "1567032464046559233",
+            "config_version": 2,
+            "starts_at": "2026-11-04T21:00:00+00:00",
+            "expires_at": "2026-11-19T01:00:00+00:00",
+            "features": [
+                27,
+                36,
+                15
+            ],
+            "application": {
+                "link": "https://www.primevideo.com/detail/gti/amzn1.dv.gti.8c43a805-f19b-4642-b474-7494b7759e80",
+                "id": "1559569075544268840",
+                "name": "[Prod] Volcano"
+            },
+            "assets": {
+                "hero": "quests/1567032464046559233/1567428335905013790.jpg",
+                "quest_bar_hero_blurhash": "WxkODID5ZlaId3h6hXf4ilqAWA==",
+                "quest_bar_hero": "quests/1552815635506008175/1567003730187001998.jpg",
+                "quest_bar_hero_video": "quests/1567032464046559233/1567428264040075316_720.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1567032464046559233/1567570611977592904.png",
+                "game_tile_dark": "quests/1567032464046559233/1567570611977592904.png",
+                "logotype_light": "quests/1552815635506008175/1566999835150778468.png",
+                "logotype_dark": "quests/1552815635506008175/1566999835150778468.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Forge The Ring",
+                "game_title": "The Rings of Power S3 premieres Nov 11 on Prime",
+                "game_publisher": "Amazon Prime Video"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "ACHIEVEMENT_IN_ACTIVITY": {
+                        "type": "ACHIEVEMENT_IN_ACTIVITY",
+                        "target": 5,
+                        "applications": [
+                            {
+                                "id": "1559569075544268840"
+                            }
+                        ],
+                        "event_name": "progress",
+                        "messages": {
+                            "task_title": "Volcano",
+                            "task_description": "Enter Sauron’s forge in Barad-dûr and attempt to forge the One Ring to earn 700 Orbs."
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 Orbs",
+                            "name_with_article": "700 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 700,
+                        "premium_orb_quantity": null
+                    }
+                ],
+                "rewards_expire_at": "2026-12-19T01:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://www.primevideo.com/detail/gti/amzn1.dv.gti.8c43a805-f19b-4642-b474-7494b7759e80",
+                "button_label": "Watch More",
+                "subtitle": "The Rings of Power S3 premieres Nov 11 on Prime."
+            }
+        }
+    },
+    {
+        "id": "1567230969730179103",
+        "config": {
+            "id": "1567230969730179103",
+            "config_version": 2,
+            "starts_at": "2026-11-04T21:00:00+00:00",
+            "expires_at": "2026-11-19T01:00:00+00:00",
+            "features": [
+                27,
+                36,
+                15
+            ],
+            "application": {
+                "link": "https://www.primevideo.com/detail/gti/amzn1.dv.gti.8c43a805-f19b-4642-b474-7494b7759e80",
+                "id": "1559569075544268840",
+                "name": "[Prod] Volcano"
+            },
+            "assets": {
+                "hero": "quests/1567230969730179103/1567421173682147338.jpg",
+                "quest_bar_hero_blurhash": "WxkODID5ZlaId3h6hXf4ilqAWA==",
+                "quest_bar_hero": "quests/1552815635506008175/1567003730187001998.jpg",
+                "quest_bar_hero_video": "quests/1567230969730179103/1567421098931257374_720.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1567230969730179103/1567570089644138579.png",
+                "game_tile_dark": "quests/1567230969730179103/1567570089644138579.png",
+                "logotype_light": "quests/1567230969730179103/1567236293900116140.png",
+                "logotype_dark": "quests/1567230969730179103/1567236293900116140.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Smeed de Ring",
+                "game_title": "Nieuw seizoen - 11 november",
+                "game_publisher": "Amazon Prime Video"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "ACHIEVEMENT_IN_ACTIVITY": {
+                        "type": "ACHIEVEMENT_IN_ACTIVITY",
+                        "target": 5,
+                        "applications": [
+                            {
+                                "id": "1559569075544268840"
+                            }
+                        ],
+                        "event_name": "progress",
+                        "messages": {
+                            "task_title": "Volcano",
+                            "task_description": "Betreed Saurons smidse in Barad-dûr en probeer de Ene Ring te smeden om 700 Orbs te verdienen."
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 Orbs",
+                            "name_with_article": "700 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 700,
+                        "premium_orb_quantity": null
+                    }
+                ],
+                "rewards_expire_at": "2026-12-19T01:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://www.primevideo.com/detail/gti/amzn1.dv.gti.8c43a805-f19b-4642-b474-7494b7759e80",
+                "button_label": "Watch More",
+                "subtitle": "Nieuw seizoen - 11 november"
+            }
+        }
+    },
+    {
+        "id": "1567066771570032681",
+        "config": {
+            "id": "1567066771570032681",
+            "config_version": 2,
+            "starts_at": "2026-11-04T21:00:00+00:00",
+            "expires_at": "2026-11-19T01:00:00+00:00",
+            "features": [
+                27,
+                36,
+                15
+            ],
+            "application": {
+                "link": "https://www.primevideo.com/detail/gti/amzn1.dv.gti.8c43a805-f19b-4642-b474-7494b7759e80",
+                "id": "1559569075544268840",
+                "name": "[Prod] Volcano"
+            },
+            "assets": {
+                "hero": "quests/1567066771570032681/1567426237884928050.jpg",
+                "quest_bar_hero_blurhash": "WxkODID5ZlaId3h6hXf4ilqAWA==",
+                "quest_bar_hero": "quests/1552815635506008175/1567003730187001998.jpg",
+                "quest_bar_hero_video": "quests/1567066771570032681/1567426167856697415_720.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1567066771570032681/1567570414291656776.png",
+                "game_tile_dark": "quests/1567066771570032681/1567570414291656776.png",
+                "logotype_light": "quests/1567066771570032681/1567068749570248785.png",
+                "logotype_dark": "quests/1567066771570032681/1567068749570248785.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Forge The Ring",
+                "game_title": "The Rings of Power S3 premieres Nov 11 on Prime",
+                "game_publisher": "Amazon Prime Video"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "ACHIEVEMENT_IN_ACTIVITY": {
+                        "type": "ACHIEVEMENT_IN_ACTIVITY",
+                        "target": 5,
+                        "applications": [
+                            {
+                                "id": "1559569075544268840"
+                            }
+                        ],
+                        "event_name": "progress",
+                        "messages": {
+                            "task_title": "Volcano",
+                            "task_description": "Enter Sauron’s forge in Barad-dûr and attempt to forge the One Ring to earn 700 Orbs."
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 Orbs",
+                            "name_with_article": "700 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 700,
+                        "premium_orb_quantity": null
+                    }
+                ],
+                "rewards_expire_at": "2026-12-19T01:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://www.primevideo.com/detail/gti/amzn1.dv.gti.8c43a805-f19b-4642-b474-7494b7759e80",
+                "button_label": "Watch More",
+                "subtitle": "The Rings of Power S3 premieres Nov 11 on Prime"
+            }
+        }
+    },
+    {
+        "id": "1567218676527140916",
+        "config": {
+            "id": "1567218676527140916",
+            "config_version": 2,
+            "starts_at": "2026-11-04T21:00:00+00:00",
+            "expires_at": "2026-11-19T01:00:00+00:00",
+            "features": [
+                27,
+                36,
+                15
+            ],
+            "application": {
+                "link": "https://www.primevideo.com/detail/gti/amzn1.dv.gti.8c43a805-f19b-4642-b474-7494b7759e80",
+                "id": "1559569075544268840",
+                "name": "[Prod] Volcano"
+            },
+            "assets": {
+                "hero": "quests/1567218676527140916/1567424110592790619.jpg",
+                "quest_bar_hero_blurhash": "WxkODID5ZlaId3h6hXf4ilqAWA==",
+                "quest_bar_hero": "quests/1552815635506008175/1567003730187001998.jpg",
+                "quest_bar_hero_video": "quests/1567218676527140916/1567423987187720332_720.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1567218676527140916/1567570217087930491.png",
+                "game_tile_dark": "quests/1567218676527140916/1567570217087930491.png",
+                "logotype_light": "quests/1567218676527140916/1567220346564771920.png",
+                "logotype_dark": "quests/1567218676527140916/1567220346564771920.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Forger l’Anneau",
+                "game_title": "Nouvelle saison - 11 novembre",
+                "game_publisher": "Amazon Prime Video"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "ACHIEVEMENT_IN_ACTIVITY": {
+                        "type": "ACHIEVEMENT_IN_ACTIVITY",
+                        "target": 5,
+                        "applications": [
+                            {
+                                "id": "1559569075544268840"
+                            }
+                        ],
+                        "event_name": "progress",
+                        "messages": {
+                            "task_title": "Volcano",
+                            "task_description": "Pénétrez dans la forge de Sauron à Barad-dûr et tentez de forger l’Anneau Unique pour gagner 700 Orbs."
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 Orbs",
+                            "name_with_article": "700 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 700,
+                        "premium_orb_quantity": null
+                    }
+                ],
+                "rewards_expire_at": "2026-12-19T01:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://www.primevideo.com/detail/gti/amzn1.dv.gti.8c43a805-f19b-4642-b474-7494b7759e80",
+                "button_label": "Watch More",
+                "subtitle": "Nouvelle saison - 11 novembre"
+            }
+        }
+    },
+    {
+        "id": "1567236419095892040",
+        "config": {
+            "id": "1567236419095892040",
+            "config_version": 2,
+            "starts_at": "2026-11-04T21:00:00+00:00",
+            "expires_at": "2026-11-19T01:00:00+00:00",
+            "features": [
+                27,
+                36,
+                15
+            ],
+            "application": {
+                "link": "https://www.primevideo.com/detail/gti/amzn1.dv.gti.8c43a805-f19b-4642-b474-7494b7759e80",
+                "id": "1559569075544268840",
+                "name": "[Prod] Volcano"
+            },
+            "assets": {
+                "hero": "quests/1567236419095892040/1567420581643681852.jpg",
+                "quest_bar_hero_blurhash": "WxkODID5ZlaId3h6hXf4ilqAWA==",
+                "quest_bar_hero": "quests/1552815635506008175/1567003730187001998.jpg",
+                "quest_bar_hero_video": "quests/1567236419095892040/1567420503470243990_720.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1567236419095892040/1567570028793036830.png",
+                "game_tile_dark": "quests/1567236419095892040/1567570028793036830.png",
+                "logotype_light": "quests/1567236419095892040/1567238147530555423.png",
+                "logotype_dark": "quests/1567236419095892040/1567238147530555423.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Smid Ringen",
+                "game_title": "Ny säsong – 11 november",
+                "game_publisher": "Amazon Prime Video"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "ACHIEVEMENT_IN_ACTIVITY": {
+                        "type": "ACHIEVEMENT_IN_ACTIVITY",
+                        "target": 5,
+                        "applications": [
+                            {
+                                "id": "1559569075544268840"
+                            }
+                        ],
+                        "event_name": "progress",
+                        "messages": {
+                            "task_title": "Volcano",
+                            "task_description": "Träd in i Saurons smedja i Barad-dûr och försök smida Härskarringen för att tjäna 700 Orbs."
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 Orbs",
+                            "name_with_article": "700 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 700,
+                        "premium_orb_quantity": null
+                    }
+                ],
+                "rewards_expire_at": "2026-12-19T01:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://www.primevideo.com/detail/gti/amzn1.dv.gti.8c43a805-f19b-4642-b474-7494b7759e80",
+                "button_label": "Watch More",
+                "subtitle": "Ny säsong – 11 november"
+            }
+        }
+    },
+    {
+        "id": "1567041162999504977",
+        "config": {
+            "id": "1567041162999504977",
+            "config_version": 2,
+            "starts_at": "2026-11-04T21:00:00+00:00",
+            "expires_at": "2026-11-19T01:00:00+00:00",
+            "features": [
+                27,
+                36,
+                15
+            ],
+            "application": {
+                "link": "http://www.primevideo.com/detail/gti/amzn1.dv.gti.8c43a805-f19b-4642-b474-7494b7759e80",
+                "id": "1559569075544268840",
+                "name": "[Prod] Volcano"
+            },
+            "assets": {
+                "hero": "quests/1567041162999504977/1567428089410097302.jpg",
+                "quest_bar_hero_blurhash": "WxkODID5ZlaId3h6hXf4ilqAWA==",
+                "quest_bar_hero": "quests/1552815635506008175/1567003730187001998.jpg",
+                "quest_bar_hero_video": "quests/1567041162999504977/1567428014197837824_720.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1567041162999504977/1567570539134853192.png",
+                "game_tile_dark": "quests/1567041162999504977/1567570539134853192.png",
+                "logotype_light": "quests/1567041162999504977/1567044058600308798.png",
+                "logotype_dark": "quests/1567041162999504977/1567044058600308798.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Forjar el Anillo",
+                "game_title": "Nueva temporada - 11 de noviembre",
+                "game_publisher": "Amazon Prime Video"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "ACHIEVEMENT_IN_ACTIVITY": {
+                        "type": "ACHIEVEMENT_IN_ACTIVITY",
+                        "target": 5,
+                        "applications": [
+                            {
+                                "id": "1559569075544268840"
+                            }
+                        ],
+                        "event_name": "progress",
+                        "messages": {
+                            "task_title": "Volcano",
+                            "task_description": "Entra a la forja de Sauron en Barad-dûr e intenta forjar el Anillo Único para ganar 700 Orbs."
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 Orbs",
+                            "name_with_article": "700 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 700,
+                        "premium_orb_quantity": null
+                    }
+                ],
+                "rewards_expire_at": "2026-12-19T01:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "http://www.primevideo.com/detail/gti/amzn1.dv.gti.8c43a805-f19b-4642-b474-7494b7759e80",
+                "button_label": "Watch More",
+                "subtitle": "Nueva temporada - 11 de noviembre"
+            }
+        }
+    },
+    {
+        "id": "1567238277797384276",
+        "config": {
+            "id": "1567238277797384276",
+            "config_version": 2,
+            "starts_at": "2026-11-04T21:00:00+00:00",
+            "expires_at": "2026-11-19T01:00:00+00:00",
+            "features": [
+                27,
+                36,
+                15
+            ],
+            "application": {
+                "link": "https://www.primevideo.com/detail/gti/amzn1.dv.gti.8c43a805-f19b-4642-b474-7494b7759e80",
+                "id": "1559569075544268840",
+                "name": "[Prod] Volcano"
+            },
+            "assets": {
+                "hero": "quests/1567211003173937273/1567212555280064605.jpg",
+                "quest_bar_hero_blurhash": "WxkODID5ZlaId3h6hXf4ilqAWA==",
+                "quest_bar_hero": "quests/1552815635506008175/1567003730187001998.jpg",
+                "quest_bar_hero_video": "quests/1567238277797384276/1567419656900317286_720.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1567238277797384276/1567569960371232880.png",
+                "game_tile_dark": "quests/1567238277797384276/1567569960371232880.png",
+                "logotype_light": "quests/1567238277797384276/1567419577648816148.png",
+                "logotype_dark": "quests/1567238277797384276/1567419577648816148.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Wykuj Pierścień",
+                "game_title": "Nowy sezon – 11 listopada",
+                "game_publisher": "Amazon Prime Video"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "ACHIEVEMENT_IN_ACTIVITY": {
+                        "type": "ACHIEVEMENT_IN_ACTIVITY",
+                        "target": 5,
+                        "applications": [
+                            {
+                                "id": "1559569075544268840"
+                            }
+                        ],
+                        "event_name": "progress",
+                        "messages": {
+                            "task_title": "Volcano",
+                            "task_description": "Wejdź do kuźni Saurona w Barad-dûr i spróbuj wykuć Jedyny Pierścień, aby zdobyć 700 Orbs."
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 Orbs",
+                            "name_with_article": "700 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 700,
+                        "premium_orb_quantity": null
+                    }
+                ],
+                "rewards_expire_at": "2026-12-19T01:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://www.primevideo.com/detail/gti/amzn1.dv.gti.8c43a805-f19b-4642-b474-7494b7759e80",
+                "button_label": "Watch More",
+                "subtitle": "Nowy sezon – 11 listopada"
+            }
+        }
+    },
+    {
+        "id": "1567213028401750107",
+        "config": {
+            "id": "1567213028401750107",
+            "config_version": 2,
+            "starts_at": "2026-11-04T21:00:00+00:00",
+            "expires_at": "2026-11-19T01:00:00+00:00",
+            "features": [
+                27,
+                36,
+                15
+            ],
+            "application": {
+                "link": "https://www.primevideo.com/detail/gti/amzn1.dv.gti.8c43a805-f19b-4642-b474-7494b7759e80",
+                "id": "1559569075544268840",
+                "name": "[Prod] Volcano"
+            },
+            "assets": {
+                "hero": "quests/1567213028401750107/1567424398934409237.jpg",
+                "quest_bar_hero_blurhash": "WxkODID5ZlaId3h6hXf4ilqAWA==",
+                "quest_bar_hero": "quests/1552815635506008175/1567003730187001998.jpg",
+                "quest_bar_hero_video": "quests/1567213028401750107/1567424320907776030_720.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1567213028401750107/1567570280522457338.png",
+                "game_tile_dark": "quests/1567213028401750107/1567570280522457338.png",
+                "logotype_light": "quests/1567213028401750107/1567213893850501281.png",
+                "logotype_dark": "quests/1567213028401750107/1567213893850501281.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Den Ring schmieden",
+                "game_title": "Neue Staffel - 11. November",
+                "game_publisher": "Amazon Prime Video"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "ACHIEVEMENT_IN_ACTIVITY": {
+                        "type": "ACHIEVEMENT_IN_ACTIVITY",
+                        "target": 5,
+                        "applications": [
+                            {
+                                "id": "1559569075544268840"
+                            }
+                        ],
+                        "event_name": "progress",
+                        "messages": {
+                            "task_title": "Volcano",
+                            "task_description": "Betritt Saurons Schmiede in Barad-dûr und versuche, den Einen Ring zu schmieden, um 700 Orbs zu verdienen."
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 Orbs",
+                            "name_with_article": "700 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 700,
+                        "premium_orb_quantity": null
+                    }
+                ],
+                "rewards_expire_at": "2026-12-19T01:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://www.primevideo.com/detail/gti/amzn1.dv.gti.8c43a805-f19b-4642-b474-7494b7759e80",
+                "button_label": "Watch More",
+                "subtitle": "Neue Staffel - 11. November"
+            }
+        }
+    },
+    {
+        "id": "1567229882713378928",
+        "config": {
+            "id": "1567229882713378928",
+            "config_version": 2,
+            "starts_at": "2026-11-04T21:00:00+00:00",
+            "expires_at": "2026-11-19T01:00:00+00:00",
+            "features": [
+                27,
+                36,
+                15
+            ],
+            "application": {
+                "link": "https://www.primevideo.com/detail/gti/amzn1.dv.gti.8c43a805-f19b-4642-b474-7494b7759e80://example.com/",
+                "id": "1559569075544268840",
+                "name": "[Prod] Volcano"
+            },
+            "assets": {
+                "hero": "quests/1567229882713378928/1567421918963961856.jpg",
+                "quest_bar_hero_blurhash": "WxkODID5ZlaId3h6hXf4ilqAWA==",
+                "quest_bar_hero": "quests/1552815635506008175/1567003730187001998.jpg",
+                "quest_bar_hero_video": "quests/1567229882713378928/1567421387319021618_720.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1567229882713378928/1567570153191776426.png",
+                "game_tile_dark": "quests/1567229882713378928/1567570153191776426.png",
+                "logotype_light": "quests/1567229882713378928/1567230613218398298.png",
+                "logotype_dark": "quests/1567229882713378928/1567230613218398298.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Forjar el Anillo",
+                "game_title": "Nueva temporada - 11 de noviembre",
+                "game_publisher": "Amazon Prime Video"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "ACHIEVEMENT_IN_ACTIVITY": {
+                        "type": "ACHIEVEMENT_IN_ACTIVITY",
+                        "target": 5,
+                        "applications": [
+                            {
+                                "id": "1559569075544268840"
+                            }
+                        ],
+                        "event_name": "progress",
+                        "messages": {
+                            "task_title": "Volcano",
+                            "task_description": "Entra en la forja de Sauron en Barad-dûr e intenta forjar el Anillo Único para ganar 700 Orbs."
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 Orbs",
+                            "name_with_article": "700 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 700,
+                        "premium_orb_quantity": null
+                    }
+                ],
+                "rewards_expire_at": "2026-12-19T01:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://www.primevideo.com/detail/gti/amzn1.dv.gti.8c43a805-f19b-4642-b474-7494b7759e80://example.com/",
+                "button_label": "Watch More",
+                "subtitle": "Nueva temporada - 11 de noviembre"
+            }
+        }
+    },
+    {
+        "id": "1567044620804825209",
+        "config": {
+            "id": "1567044620804825209",
+            "config_version": 2,
+            "starts_at": "2026-11-04T21:00:00+00:00",
+            "expires_at": "2026-11-19T01:00:00+00:00",
+            "features": [
+                27,
+                36,
+                15
+            ],
+            "application": {
+                "link": "https://www.primevideo.com/detail/gti/amzn1.dv.gti.8c43a805-f19b-4642-b474-7494b7759e80",
+                "id": "1559569075544268840",
+                "name": "[Prod] Volcano"
+            },
+            "assets": {
+                "hero": "quests/1567044620804825209/1567427407433048114.jpg",
+                "quest_bar_hero_blurhash": "WxkODID5ZlaId3h6hXf4ilqAWA==",
+                "quest_bar_hero": "quests/1552815635506008175/1567003730187001998.jpg",
+                "quest_bar_hero_video": "quests/1567044620804825209/1567427335748325457_720.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1567044620804825209/1567570471669600420.png",
+                "game_tile_dark": "quests/1567044620804825209/1567570471669600420.png",
+                "logotype_light": "quests/1567041162999504977/1567044058600308798.png",
+                "logotype_dark": "quests/1567041162999504977/1567044058600308798.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Forjar el Anillo",
+                "game_title": "Nueva temporada - 11 de noviembre",
+                "game_publisher": "Amazon Prime Video"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "ACHIEVEMENT_IN_ACTIVITY": {
+                        "type": "ACHIEVEMENT_IN_ACTIVITY",
+                        "target": 5,
+                        "applications": [
+                            {
+                                "id": "1559569075544268840"
+                            }
+                        ],
+                        "event_name": "progress",
+                        "messages": {
+                            "task_title": "Volcano",
+                            "task_description": "1567041162999504977"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 Orbs",
+                            "name_with_article": "700 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 700,
+                        "premium_orb_quantity": null
+                    }
+                ],
+                "rewards_expire_at": "2026-12-19T01:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://www.primevideo.com/detail/gti/amzn1.dv.gti.8c43a805-f19b-4642-b474-7494b7759e80",
+                "button_label": "Watch More",
+                "subtitle": "Nueva temporada - 11 de noviembre"
+            }
+        }
+    },
+    {
+        "id": "1567211003173937273",
+        "config": {
+            "id": "1567211003173937273",
+            "config_version": 2,
+            "starts_at": "2026-11-04T21:00:00+00:00",
+            "expires_at": "2026-11-19T01:00:00+00:00",
+            "features": [
+                27,
+                36,
+                15
+            ],
+            "application": {
+                "link": "https://www.primevideo.com/detail/gti/amzn1.dv.gti.8c43a805-f19b-4642-b474-7494b7759e80",
+                "id": "1559569075544268840",
+                "name": "[Prod] Volcano"
+            },
+            "assets": {
+                "hero": "quests/1567211003173937273/1567425717590036610.jpg",
+                "quest_bar_hero_blurhash": "WxkODID5ZlaId3h6hXf4ilqAWA==",
+                "quest_bar_hero": "quests/1552815635506008175/1567003730187001998.jpg",
+                "quest_bar_hero_video": "quests/1567211003173937273/1567425632173035601_720.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1567211003173937273/1567570346541056250.png",
+                "game_tile_dark": "quests/1567211003173937273/1567570346541056250.png",
+                "logotype_light": "quests/1567211003173937273/1567212325323407470.png",
+                "logotype_dark": "quests/1567211003173937273/1567212325323407470.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Forgia l’Anello",
+                "game_title": "Nuova stagione - 11 novembre",
+                "game_publisher": "Amazon Prime Video"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "ACHIEVEMENT_IN_ACTIVITY": {
+                        "type": "ACHIEVEMENT_IN_ACTIVITY",
+                        "target": 5,
+                        "applications": [
+                            {
+                                "id": "1559569075544268840"
+                            }
+                        ],
+                        "event_name": "progress",
+                        "messages": {
+                            "task_title": "Volcano",
+                            "task_description": "Entra nella fucina di Sauron a Barad-dûr e prova a forgiare l’Unico Anello per guadagnare 700 Orbs."
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 Orbs",
+                            "name_with_article": "700 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 700,
+                        "premium_orb_quantity": null
+                    }
+                ],
+                "rewards_expire_at": "2026-12-19T01:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://www.primevideo.com/detail/gti/amzn1.dv.gti.8c43a805-f19b-4642-b474-7494b7759e80",
+                "button_label": "Watch More",
+                "subtitle": "Nuova stagione - 11 novembre"
             }
         }
     }
