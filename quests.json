@@ -138298,7 +138298,7 @@
             },
             "messages": {
                 "quest_name": "The Hunger Games Video",
-                "game_title": "IN THEATERS AND IMAX NOV 20",
+                "game_title": "IN THEATERS FRIDAY",
                 "game_publisher": "Lionsgate"
             },
             "task_config_v2": {
@@ -138311,19 +138311,19 @@
                                 "url": "quests/1567441774820065380/1567448750396280842_1080.mp4",
                                 "width": 1920,
                                 "height": 1080,
-                                "thumbnail": "quests/1567441774820065380/1567443299718004766.png"
+                                "thumbnail": "quests/1567441774820065380/1567443299923660800.png"
                             },
                             "video_low_res": {
                                 "url": "quests/1567441774820065380/1567448750396280842_720.mp4",
                                 "width": 1920,
                                 "height": 1080,
-                                "thumbnail": "quests/1567441774820065380/1567443299718004766.png"
+                                "thumbnail": "quests/1567441774820065380/1567443299923660800.png"
                             },
                             "video_hls": {
                                 "url": "quests/1567441774820065380/1567448750396280842.m3u8",
                                 "width": 1920,
                                 "height": 1080,
-                                "thumbnail": "quests/1567441774820065380/1567443299718004766.png"
+                                "thumbnail": "quests/1567441774820065380/1567443299923660800.png"
                             }
                         },
                         "messages": {
@@ -138389,7 +138389,7 @@
             "cta_config": {
                 "link": "https://www.fandango.com/the-hunger-games-sunrise-on-the-reaping-2026-240138/movie-overview?cmp=ST_Lionsgate:HungerGamesSOTR:Discord",
                 "button_label": "Get Tickets",
-                "subtitle": "IN THEATERS AND IMAX NOV 20"
+                "subtitle": "IN THEATERS FRIDAY"
             }
         },
         "user_status": null,
@@ -139663,7 +139663,7 @@
         "config": {
             "id": "1553085045168939138",
             "config_version": 2,
-            "starts_at": "2026-11-12T19:00:00+00:00",
+            "starts_at": "2026-11-16T20:15:00+00:00",
             "expires_at": "2026-11-19T07:59:00+00:00",
             "features": [
                 44,
@@ -140940,5 +140940,1553 @@
         "targeted_content": [],
         "ad_context": null,
         "preview": false
+    },
+    {
+        "id": "1570911530306773063",
+        "config": {
+            "id": "1570911530306773063",
+            "config_version": 2,
+            "starts_at": "2026-11-16T18:00:00+00:00",
+            "expires_at": "2026-11-26T01:00:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://www.roblox.com/games/126987974021910/Illegal-Soccer?gsrbx=1&ad_name=JQHLA154",
+                "id": "363445589247131668",
+                "name": "Roblox"
+            },
+            "assets": {
+                "hero": "quests/1570911530306773063/1570913270427160677.jpg",
+                "hero_video": "quests/1570911530306773063/1570913292560633919_720.mp4",
+                "quest_bar_hero_blurhash": "odYJOogHdIWUhlinFTCFBHU=",
+                "quest_bar_hero": "quests/1570911530306773063/1570913270427160677.jpg",
+                "quest_bar_hero_video": "quests/1570911530306773063/1570913292560633919_720.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1562915304299044884/1562916601886670980.png",
+                "game_tile_dark": "quests/1562915304299044884/1562916601861243000.png",
+                "logotype_light": "quests/1570911530306773063/1570913087559700590.png",
+                "logotype_dark": "quests/1570911530306773063/1570913087559700590.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Illegal Soccer",
+                "game_title": "Illegal Soccer on Roblox",
+                "game_publisher": "ROBLOX"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "363445589247131668"
+                            }
+                        ]
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 Orbs",
+                            "name_with_article": "700 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 700,
+                        "premium_orb_quantity": 840
+                    }
+                ],
+                "rewards_expire_at": "2026-12-26T01:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://www.roblox.com/games/126987974021910/Illegal-Soccer?gsrbx=1&ad_name=JQHLA154",
+                "button_label": "Play Now"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "ad_context": null,
+        "preview": false
+    },
+    {
+        "id": "1554599670037348492",
+        "config": {
+            "id": "1554599670037348492",
+            "config_version": 2,
+            "starts_at": "2026-11-16T18:00:00+00:00",
+            "expires_at": "2026-11-28T01:00:00+00:00",
+            "features": [
+                27,
+                36,
+                15
+            ],
+            "application": {
+                "link": "https://www.amazon.com/dp/B0H8MGR6PV",
+                "id": "1562778462358470746",
+                "name": "Bulero"
+            },
+            "assets": {
+                "hero": "quests/1554599670037348492/1570912515750236271.jpg",
+                "quest_bar_hero_blurhash": "j+cJCoJphmSfl1iH36X3PJk=",
+                "quest_bar_hero": "quests/1554599670037348492/1570912515750236271.jpg",
+                "quest_bar_hero_video": "quests/1554599670037348492/1570912533773160509_720.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1554599670037348492/1570912279522713730.png",
+                "game_tile_dark": "quests/1554599670037348492/1570912279522713730.png",
+                "logotype_light": "quests/1554599670037348492/1571930214597009538.png",
+                "logotype_dark": "quests/1554599670037348492/1571930214597009538.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Blade Runner 2099",
+                "game_title": "Blade Runner 2099, a new limited series, premieres November 25 only on Prime.",
+                "game_publisher": "Amazon Prime Video"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "ACHIEVEMENT_IN_ACTIVITY": {
+                        "type": "ACHIEVEMENT_IN_ACTIVITY",
+                        "target": 5,
+                        "applications": [
+                            {
+                                "id": "1562778462358470746"
+                            }
+                        ],
+                        "event_name": "progress",
+                        "messages": {
+                            "task_title": "Bulero",
+                            "task_description": "Complete your index test shift and win 700 Discord orbs!"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 Orbs",
+                            "name_with_article": "700 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 700,
+                        "premium_orb_quantity": 840
+                    }
+                ],
+                "rewards_expire_at": "2026-12-28T01:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://www.amazon.com/dp/B0H8MGR6PV",
+                "button_label": "Watch More",
+                "subtitle": "Blade Runner 2099, a new limited series, premieres November 25 only on Prime Video."
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "ad_context": null,
+        "preview": false
+    },
+    {
+        "id": "1565839524045521056",
+        "config": {
+            "id": "1565839524045521056",
+            "config_version": 2,
+            "starts_at": "2026-11-16T18:00:00+00:00",
+            "expires_at": "2026-11-30T01:00:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://firefox.com/get/?p=discord&utm_source=discord&utm_campaign=nova&utm_content=videoquest2",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1565839524045521056/1570580205192355963.jpg",
+                "hero_video": "quests/1565839524045521056/1570905808827580607_720.mp4",
+                "quest_bar_hero_blurhash": "lzcKIoJTimhwmHWIMJR26gc=",
+                "quest_bar_hero": "quests/1565839524045521056/1570580205192355963.jpg",
+                "quest_bar_hero_video": "quests/1565839524045521056/1570905808827580607_720.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1565839524045521056/1570577393905705000.png",
+                "game_tile_dark": "quests/1565839524045521056/1570577393905705000.png",
+                "logotype_light": "quests/1565839524045521056/1570577394094440618.png",
+                "logotype_dark": "quests/1565839524045521056/1570577341426704495.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Firefox Browser Video",
+                "game_title": "Firefox Browser",
+                "game_publisher": "Mozilla"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 59,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1565839524045521056/1570586289491681411_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1565839524045521056/1570577485836456016.png",
+                                "caption": "quests/1565839524045521056/1570588182775337060.vtt"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1565839524045521056/1570586289491681411_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1565839524045521056/1570577485836456016.png",
+                                "caption": "quests/1565839524045521056/1570588182775337060.vtt"
+                            },
+                            "video_hls": {
+                                "url": "quests/1565839524045521056/1570586289491681411.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1565839524045521056/1570577485836456016.png",
+                                "caption": "quests/1565839524045521056/1570588182775337060.vtt"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 59,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1565839524045521056/1570586289491681411_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1565839524045521056/1570577485836456016.png",
+                                "caption": "quests/1565839524045521056/1570588182775337060.vtt"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1565839524045521056/1570586289491681411_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1565839524045521056/1570577485836456016.png",
+                                "caption": "quests/1565839524045521056/1570588182775337060.vtt"
+                            },
+                            "video_hls": {
+                                "url": "quests/1565839524045521056/1570586289491681411.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1565839524045521056/1570577485836456016.png",
+                                "caption": "quests/1565839524045521056/1570588182775337060.vtt"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "200 Orbs",
+                            "name_with_article": "200 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 200,
+                        "premium_orb_quantity": 240
+                    }
+                ],
+                "rewards_expire_at": "2026-12-30T01:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://firefox.com/get/?p=discord&utm_source=discord&utm_campaign=nova&utm_content=videoquest2",
+                "button_label": "Download",
+                "subtitle": "Try Firefox today"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "ad_context": null,
+        "preview": false
+    },
+    {
+        "id": "1552724802249433261",
+        "config": {
+            "id": "1552724802249433261",
+            "config_version": 2,
+            "starts_at": "2026-11-16T18:00:00+00:00",
+            "expires_at": "2026-11-26T01:00:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://2kgam.es/3RuZ5v9",
+                "id": "1531874750249566429",
+                "name": "NBA 2K"
+            },
+            "assets": {
+                "hero": "quests/1552724802249433261/1571933514872393888.jpg",
+                "quest_bar_hero_blurhash": "ZlcGJITHSZZwhXp0hXl3gIMIFw==",
+                "quest_bar_hero": "quests/1552724802249433261/1571933976057225336.jpg",
+                "quest_bar_hero_video": "quests/1552724802249433261/1571933290250768446_720.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1552724802249433261/1571931302582681812.png",
+                "game_tile_dark": "quests/1552724802249433261/1571931302582681812.png",
+                "logotype_light": "quests/1552724802249433261/1571932132769538129.png",
+                "logotype_dark": "quests/1552724802249433261/1571932166546264075.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "NBA 2K27 Vice City Edition",
+                "game_title": "It's a Vice City takeover during S3 of NBA 2K27.",
+                "game_publisher": "NBA 2K27"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 84,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1552724802249433261/1571932366643925134_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1552724802249433261/1571932230027059322.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1552724802249433261/1571932366643925134_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1552724802249433261/1571932230027059322.jpg"
+                            },
+                            "video_hls": {
+                                "url": "quests/1552724802249433261/1571932366643925134.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1552724802249433261/1571932230027059322.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 84,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1552724802249433261/1571932366643925134_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1552724802249433261/1571932230027059322.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1552724802249433261/1571932366643925134_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1552724802249433261/1571932230027059322.jpg"
+                            },
+                            "video_hls": {
+                                "url": "quests/1552724802249433261/1571932366643925134.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1552724802249433261/1571932230027059322.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 3,
+                        "sku_id": "1570925242799497256",
+                        "asset": "quests/1552724802249433261/1571256507062817071.mp4",
+                        "asset_video": null,
+                        "messages": {
+                            "name": "NBA 2K27 Expert Player Medal",
+                            "name_with_article": "a NBA 2K27 Expert Player Medal",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "expires_at": "2027-01-26T01:00:00+00:00",
+                        "expires_at_premium": null,
+                        "expiration_mode": 3
+                    }
+                ],
+                "rewards_expire_at": "2026-12-26T01:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://2kgam.es/3RuZ5v9",
+                "button_label": "Learn More",
+                "subtitle": "It's a Vice City takeover during S3 of NBA 2K27."
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "ad_context": null,
+        "preview": false
+    },
+    {
+        "id": "1568040462269288469",
+        "config": {
+            "id": "1568040462269288469",
+            "config_version": 2,
+            "starts_at": "2026-11-16T18:00:00+00:00",
+            "expires_at": "2026-11-26T01:00:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://www.roblox.com/es/games/126987974021910/Illegal-Soccer?gsrbx=1&ad_name=JQHLA154",
+                "id": "363445589247131668",
+                "name": "Roblox"
+            },
+            "assets": {
+                "hero": "quests/1568040462269288469/1570918007323107380.jpg",
+                "hero_video": "quests/1568040462269288469/1570918027057168454_720.mp4",
+                "quest_bar_hero_blurhash": "odYJOogHdIWUhlinFTCFBHU=",
+                "quest_bar_hero": "quests/1568040462269288469/1570918007323107380.jpg",
+                "quest_bar_hero_video": "quests/1568040462269288469/1570918027057168454_720.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1555736600657395752/1562927942093381715.png",
+                "game_tile_dark": "quests/1555736600657395752/1562927942059688097.png",
+                "logotype_light": "quests/1568040462269288469/1570917942957314198.png",
+                "logotype_dark": "quests/1568040462269288469/1570917942957314198.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Illegal Soccer",
+                "game_title": "Illegal Soccer on Roblox",
+                "game_publisher": "ROBLOX"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "363445589247131668"
+                            }
+                        ]
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 Orbs",
+                            "name_with_article": "700 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 700,
+                        "premium_orb_quantity": null
+                    }
+                ],
+                "rewards_expire_at": "2026-12-26T01:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://www.roblox.com/es/games/126987974021910/Illegal-Soccer?gsrbx=1&ad_name=JQHLA154",
+                "button_label": "Play Now"
+            }
+        }
+    },
+    {
+        "id": "1568040711310282773",
+        "config": {
+            "id": "1568040711310282773",
+            "config_version": 2,
+            "starts_at": "2026-11-16T18:00:00+00:00",
+            "expires_at": "2026-11-26T01:00:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://www.roblox.com/id/games/126987974021910/Illegal-Soccer?gsrbx=1&ad_name=JQHLA154",
+                "id": "363445589247131668",
+                "name": "Roblox"
+            },
+            "assets": {
+                "hero": "quests/1568040711310282773/1570918688926736576.jpg",
+                "hero_video": "quests/1568040711310282773/1570918707683659927_720.mp4",
+                "quest_bar_hero_blurhash": "odYJOogHdIWUhlinFTCFBHU=",
+                "quest_bar_hero": "quests/1568040711310282773/1570918688926736576.jpg",
+                "quest_bar_hero_video": "quests/1568040711310282773/1570918707683659927_720.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1555736600657395752/1562927942093381715.png",
+                "game_tile_dark": "quests/1555736600657395752/1562927942059688097.png",
+                "logotype_light": "quests/1568040711310282773/1570918603237105705.png",
+                "logotype_dark": "quests/1568040711310282773/1570918603237105705.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Illegal Soccer",
+                "game_title": "Illegal Soccer on Roblox",
+                "game_publisher": "ROBLOX"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "363445589247131668"
+                            }
+                        ]
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 Orbs",
+                            "name_with_article": "700 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 700,
+                        "premium_orb_quantity": null
+                    }
+                ],
+                "rewards_expire_at": "2026-12-26T01:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://www.roblox.com/id/games/126987974021910/Illegal-Soccer?gsrbx=1&ad_name=JQHLA154",
+                "button_label": "Play Now"
+            }
+        }
+    },
+    {
+        "id": "1568040941644816405",
+        "config": {
+            "id": "1568040941644816405",
+            "config_version": 2,
+            "starts_at": "2026-11-16T18:00:00+00:00",
+            "expires_at": "2026-11-26T01:00:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://www.roblox.com/th/games/126987974021910/Illegal-Soccer?gsrbx=1&ad_name=JQHLA154",
+                "id": "363445589247131668",
+                "name": "Roblox"
+            },
+            "assets": {
+                "hero": "quests/1568040941644816405/1570919301282668634.jpg",
+                "hero_video": "quests/1568040941644816405/1570919323831247080_720.mp4",
+                "quest_bar_hero_blurhash": "odYJOogHdIWUhlinFTCFBHU=",
+                "quest_bar_hero": "quests/1568040941644816405/1570919301282668634.jpg",
+                "quest_bar_hero_video": "quests/1568040941644816405/1570919323831247080_720.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1555736600657395752/1562927942093381715.png",
+                "game_tile_dark": "quests/1555736600657395752/1562927942059688097.png",
+                "logotype_light": "quests/1568040941644816405/1570919239227932672.png",
+                "logotype_dark": "quests/1568040941644816405/1570919239227932672.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Illegal Soccer",
+                "game_title": "Illegal Soccer on Roblox",
+                "game_publisher": "ROBLOX"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "363445589247131668"
+                            }
+                        ]
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 Orbs",
+                            "name_with_article": "700 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 700,
+                        "premium_orb_quantity": null
+                    }
+                ],
+                "rewards_expire_at": "2026-12-26T01:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://www.roblox.com/th/games/126987974021910/Illegal-Soccer?gsrbx=1&ad_name=JQHLA154",
+                "button_label": "Play Now"
+            }
+        }
+    },
+    {
+        "id": "1567611163867619369",
+        "config": {
+            "id": "1567611163867619369",
+            "config_version": 2,
+            "starts_at": "2026-11-16T18:00:00+00:00",
+            "expires_at": "2026-11-26T01:00:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://www.roblox.com/de/games/126987974021910/Illegal-Soccer?gsrbx=1&ad_name=JQHLA154",
+                "id": "363445589247131668",
+                "name": "Roblox"
+            },
+            "assets": {
+                "hero": "quests/1567611163867619369/1570915952269328435.jpg",
+                "hero_video": "quests/1567611163867619369/1570915969373700207_720.mp4",
+                "quest_bar_hero_blurhash": "odYJOogHdIWUhlinFTCFBHU=",
+                "quest_bar_hero": "quests/1567611163867619369/1570915952269328435.jpg",
+                "quest_bar_hero_video": "quests/1567611163867619369/1570915969373700207_720.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1555718124269998120/1559975225859510362.png",
+                "game_tile_dark": "quests/1555718124269998120/1559975225825956042.png",
+                "logotype_light": "quests/1567611163867619369/1570915864113451139.png",
+                "logotype_dark": "quests/1567611163867619369/1570915864113451139.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Illegal Soccer",
+                "game_title": "Illegal Soccer on Roblox",
+                "game_publisher": "ROBLOX"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "363445589247131668"
+                            }
+                        ]
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 Orbs",
+                            "name_with_article": "700 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 700,
+                        "premium_orb_quantity": null
+                    }
+                ],
+                "rewards_expire_at": "2026-12-26T01:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://www.roblox.com/de/games/126987974021910/Illegal-Soccer?gsrbx=1&ad_name=JQHLA154",
+                "button_label": "Play Now"
+            }
+        }
+    },
+    {
+        "id": "1570843893824618577",
+        "config": {
+            "id": "1570843893824618577",
+            "config_version": 2,
+            "starts_at": "2026-11-15T22:00:00+00:00",
+            "expires_at": "2026-11-16T22:59:59+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://discord.com/quest-home",
+                "id": "1445160676522856458",
+                "name": "Grand Theft Auto VI"
+            },
+            "assets": {
+                "hero": "quests/1570814059626889397/1570830415944487155.jpg",
+                "quest_bar_hero_blurhash": "lmgOJI5YmXd+VnaQenfPlveKWA==",
+                "quest_bar_hero": "quests/1570814059626889397/1570830339255828603.jpg",
+                "quest_bar_hero_video": "quests/1570814059626889397/1570830370616909844.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1570814059626889397/1570830057226641468.png",
+                "game_tile_dark": "quests/1570814059626889397/1570829985915084882.png",
+                "logotype_light": "quests/1570814059626889397/1570830167713259540.png",
+                "logotype_dark": "quests/1570814059626889397/1570830126180999288.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Grand Theft Auto VI: Pre-Load",
+                "game_title": "GTAVI erscheint am 19. November. Bestelle jetzt vor und lade es vorab herunter.",
+                "game_publisher": "Rockstar Games"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 29,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1570843893824618577/1570847250228191443_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1570843893824618577/1570847018883096626.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1570843893824618577/1570847250228191443_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1570843893824618577/1570847018883096626.jpg"
+                            },
+                            "video_hls": {
+                                "url": "quests/1570843893824618577/1570847250228191443.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1570843893824618577/1570847018883096626.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": ""
+                        }
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 29,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1570843893824618577/1570847250228191443_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1570843893824618577/1570847018883096626.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1570843893824618577/1570847250228191443_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1570843893824618577/1570847018883096626.jpg"
+                            },
+                            "video_hls": {
+                                "url": "quests/1570843893824618577/1570847250228191443.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1570843893824618577/1570847018883096626.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": ""
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "200 Orbs",
+                            "name_with_article": "200 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 200,
+                        "premium_orb_quantity": null
+                    }
+                ],
+                "rewards_expire_at": "2026-12-16T22:59:59+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://discord.com/quest-home",
+                "button_label": "Learn More",
+                "subtitle": "GTAVI erscheint am 19. November. Bestelle jetzt vor und lade es vorab herunter."
+            }
+        }
+    },
+    {
+        "id": "1570882982095622235",
+        "config": {
+            "id": "1570882982095622235",
+            "config_version": 2,
+            "starts_at": "2026-11-15T23:00:00+00:00",
+            "expires_at": "2026-11-16T23:59:59+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://discord.com/quest-home",
+                "id": "1445160676522856458",
+                "name": "Grand Theft Auto VI"
+            },
+            "assets": {
+                "hero": "quests/1570814059626889397/1570830415944487155.jpg",
+                "quest_bar_hero_blurhash": "lmgOJI5YmXd+VnaQenfPlveKWA==",
+                "quest_bar_hero": "quests/1570814059626889397/1570830339255828603.jpg",
+                "quest_bar_hero_video": "quests/1570814059626889397/1570830370616909844.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1570814059626889397/1570830057226641468.png",
+                "game_tile_dark": "quests/1570814059626889397/1570829985915084882.png",
+                "logotype_light": "quests/1570814059626889397/1570830167713259540.png",
+                "logotype_dark": "quests/1570814059626889397/1570830126180999288.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Grand Theft Auto VI: Pre-Load",
+                "game_title": "GTAVI Coming Nov. 19. Pre-Order Now and Pre-Load.",
+                "game_publisher": "Rockstar Games"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 29,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1570882982095622235/1570883756162547803_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1570882982095622235/1570883706103668756.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1570882982095622235/1570883756162547803_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1570882982095622235/1570883706103668756.jpg"
+                            },
+                            "video_hls": {
+                                "url": "quests/1570882982095622235/1570883756162547803.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1570882982095622235/1570883706103668756.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": ""
+                        }
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 29,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1570882982095622235/1570883756162547803_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1570882982095622235/1570883706103668756.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1570882982095622235/1570883756162547803_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1570882982095622235/1570883706103668756.jpg"
+                            },
+                            "video_hls": {
+                                "url": "quests/1570882982095622235/1570883756162547803.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1570882982095622235/1570883706103668756.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": ""
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "200 Orbs",
+                            "name_with_article": "200 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 200,
+                        "premium_orb_quantity": null
+                    }
+                ],
+                "rewards_expire_at": "2026-12-16T23:59:59+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://discord.com/quest-home",
+                "button_label": "Learn More",
+                "subtitle": "GTAVI Coming Nov. 19. Pre-Order Now and Pre-Load."
+            }
+        }
+    },
+    {
+        "id": "1568040098199511132",
+        "config": {
+            "id": "1568040098199511132",
+            "config_version": 2,
+            "starts_at": "2026-11-16T18:00:00+00:00",
+            "expires_at": "2026-11-26T01:00:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://www.roblox.com/pl/games/126987974021910/Illegal-Soccer?gsrbx=1&ad_name=JQHLA154",
+                "id": "363445589247131668",
+                "name": "Roblox"
+            },
+            "assets": {
+                "hero": "quests/1568040098199511132/1570917018260078662.jpg",
+                "hero_video": "quests/1568040098199511132/1570917039126749405_720.mp4",
+                "quest_bar_hero_blurhash": "odYJOogHdIWUhlinFTCFBHU=",
+                "quest_bar_hero": "quests/1568040098199511132/1570917018260078662.jpg",
+                "quest_bar_hero_video": "quests/1568040098199511132/1570917039126749405_720.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1555736600657395752/1562927942093381715.png",
+                "game_tile_dark": "quests/1555736600657395752/1562927942059688097.png",
+                "logotype_light": "quests/1568040098199511132/1570916927738486915.png",
+                "logotype_dark": "quests/1568040098199511132/1570916927738486915.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Illegal Soccer",
+                "game_title": "Illegal Soccer on Roblox",
+                "game_publisher": "ROBLOX"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "363445589247131668"
+                            }
+                        ]
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 Orbs",
+                            "name_with_article": "700 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 700,
+                        "premium_orb_quantity": null
+                    }
+                ],
+                "rewards_expire_at": "2026-12-26T01:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://www.roblox.com/pl/games/126987974021910/Illegal-Soccer?gsrbx=1&ad_name=JQHLA154",
+                "button_label": "Play Now"
+            }
+        }
+    },
+    {
+        "id": "1570886049071235213",
+        "config": {
+            "id": "1570886049071235213",
+            "config_version": 2,
+            "starts_at": "2026-11-16T15:00:00+00:00",
+            "expires_at": "2026-11-17T14:59:59+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://discord.com/quest-home",
+                "id": "1445160676522856458",
+                "name": "Grand Theft Auto VI"
+            },
+            "assets": {
+                "hero": "quests/1570814059626889397/1570830415944487155.jpg",
+                "quest_bar_hero_blurhash": "lmgOJI5YmXd+VnaQenfPlveKWA==",
+                "quest_bar_hero": "quests/1570814059626889397/1570830339255828603.jpg",
+                "quest_bar_hero_video": "quests/1570814059626889397/1570830370616909844.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1570814059626889397/1570830057226641468.png",
+                "game_tile_dark": "quests/1570814059626889397/1570829985915084882.png",
+                "logotype_light": "quests/1570814059626889397/1570830167713259540.png",
+                "logotype_dark": "quests/1570814059626889397/1570830126180999288.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "『グランド・セフト・オートVI』：プリロード",
+                "game_title": "『GTAVI』11月19日登場。今すぐプレオーダー＆プリロードしよう。",
+                "game_publisher": "Rockstar Games"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 29,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1570886049071235213/1570886932421152848_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1570886049071235213/1570886879761531072.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1570886049071235213/1570886932421152848_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1570886049071235213/1570886879761531072.jpg"
+                            },
+                            "video_hls": {
+                                "url": "quests/1570886049071235213/1570886932421152848.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1570886049071235213/1570886879761531072.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": ""
+                        }
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 29,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1570886049071235213/1570886932421152848_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1570886049071235213/1570886879761531072.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1570886049071235213/1570886932421152848_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1570886049071235213/1570886879761531072.jpg"
+                            },
+                            "video_hls": {
+                                "url": "quests/1570886049071235213/1570886932421152848.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1570886049071235213/1570886879761531072.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": ""
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "200 Orbs",
+                            "name_with_article": "200 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 200,
+                        "premium_orb_quantity": null
+                    }
+                ],
+                "rewards_expire_at": "2026-12-17T14:59:59+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://discord.com/quest-home",
+                "button_label": "Learn More",
+                "subtitle": "『GTAVI』11月19日登場。今すぐプレオーダー＆プリロードしよう"
+            }
+        }
+    },
+    {
+        "id": "1567611962655772834",
+        "config": {
+            "id": "1567611962655772834",
+            "config_version": 2,
+            "starts_at": "2026-11-16T18:00:00+00:00",
+            "expires_at": "2026-11-26T01:00:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://www.roblox.com/games/126987974021910/Illegal-Soccer?gsrbx=1&ad_name=JQHLA154\t",
+                "id": "363445589247131668",
+                "name": "Roblox"
+            },
+            "assets": {
+                "hero": "quests/1567611962655772834/1570914426213896316.jpg",
+                "hero_video": "quests/1567611962655772834/1570914448472936620_720.mp4",
+                "quest_bar_hero_blurhash": "odYJOogHdIWUhlinFTCFBHU=",
+                "quest_bar_hero": "quests/1567611962655772834/1570914426213896316.jpg",
+                "quest_bar_hero_video": "quests/1567611962655772834/1570914448472936620_720.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1555736600657395752/1562927942093381715.png",
+                "game_tile_dark": "quests/1555736600657395752/1562927942059688097.png",
+                "logotype_light": "quests/1567611962655772834/1570914331137417356.png",
+                "logotype_dark": "quests/1567611962655772834/1570914331137417356.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Illegal Soccer",
+                "game_title": "Illegal Soccer by Roblox",
+                "game_publisher": "ROBLOX"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "363445589247131668"
+                            }
+                        ]
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 Orbs",
+                            "name_with_article": "700 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 700,
+                        "premium_orb_quantity": null
+                    }
+                ],
+                "rewards_expire_at": "2026-12-26T01:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://www.roblox.com/games/126987974021910/Illegal-Soccer?gsrbx=1&ad_name=JQHLA154\t",
+                "button_label": "Play Now"
+            }
+        }
+    },
+    {
+        "id": "1570866907249115307",
+        "config": {
+            "id": "1570866907249115307",
+            "config_version": 2,
+            "starts_at": "2026-11-15T22:00:00+00:00",
+            "expires_at": "2026-11-16T22:59:59+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://discord.com/quest-home",
+                "id": "1445160676522856458",
+                "name": "Grand Theft Auto VI"
+            },
+            "assets": {
+                "hero": "quests/1570814059626889397/1570830415944487155.jpg",
+                "quest_bar_hero_blurhash": "lmgOJI5YmXd+VnaQenfPlveKWA==",
+                "quest_bar_hero": "quests/1570814059626889397/1570830339255828603.jpg",
+                "quest_bar_hero_video": "quests/1570814059626889397/1570830370616909844.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1570814059626889397/1570830057226641468.png",
+                "game_tile_dark": "quests/1570814059626889397/1570829985915084882.png",
+                "logotype_light": "quests/1570814059626889397/1570830167713259540.png",
+                "logotype_dark": "quests/1570814059626889397/1570830126180999288.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Grand Theft Auto VI: Pre-Load",
+                "game_title": "GTAVI arrive le 19 novembre. Précommandez maintenant et préchargez.",
+                "game_publisher": "Rockstar Games"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 29,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1570866907249115307/1570878860952740121_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1570866907249115307/1570878801619980450.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1570866907249115307/1570878860952740121_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1570866907249115307/1570878801619980450.jpg"
+                            },
+                            "video_hls": {
+                                "url": "quests/1570866907249115307/1570878860952740121.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1570866907249115307/1570878801619980450.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": ""
+                        }
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 29,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1570866907249115307/1570878860952740121_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1570866907249115307/1570878801619980450.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1570866907249115307/1570878860952740121_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1570866907249115307/1570878801619980450.jpg"
+                            },
+                            "video_hls": {
+                                "url": "quests/1570866907249115307/1570878860952740121.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1570866907249115307/1570878801619980450.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": ""
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "200 Orbs",
+                            "name_with_article": "200 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 200,
+                        "premium_orb_quantity": null
+                    }
+                ],
+                "rewards_expire_at": "2026-12-16T22:59:59+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://discord.com/quest-home",
+                "button_label": "Learn More",
+                "subtitle": "GTAVI arrive le 19 novembre. Précommandez maintenant et préchargez."
+            }
+        }
+    },
+    {
+        "id": "1570814059626889397",
+        "config": {
+            "id": "1570814059626889397",
+            "config_version": 2,
+            "starts_at": "2026-11-16T04:00:00+00:00",
+            "expires_at": "2026-11-17T09:59:59+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://discord.com/quest-home",
+                "id": "1445160676522856458",
+                "name": "Grand Theft Auto VI"
+            },
+            "assets": {
+                "hero": "quests/1570814059626889397/1570830415944487155.jpg",
+                "quest_bar_hero_blurhash": "lmgOJI5YmXd+VnaQenfPlveKWA==",
+                "quest_bar_hero": "quests/1570814059626889397/1570830339255828603.jpg",
+                "quest_bar_hero_video": "quests/1570814059626889397/1570830370616909844.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1570814059626889397/1570830057226641468.png",
+                "game_tile_dark": "quests/1570814059626889397/1570829985915084882.png",
+                "logotype_light": "quests/1570814059626889397/1570830167713259540.png",
+                "logotype_dark": "quests/1570814059626889397/1570830126180999288.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Grand Theft Auto VI: Pre-Load",
+                "game_title": "GTAVI Coming Nov. 19. Pre-Order Now and Pre-Load.",
+                "game_publisher": "Rockstar Games"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 29,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1570814059626889397/1570828229709799584_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1570814059626889397/1570828617800355870.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1570814059626889397/1570828229709799584_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1570814059626889397/1570828617800355870.jpg"
+                            },
+                            "video_hls": {
+                                "url": "quests/1570814059626889397/1570828229709799584.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1570814059626889397/1570828617800355870.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": ""
+                        }
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 29,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1570814059626889397/1570828229709799584_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1570814059626889397/1570828617800355870.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1570814059626889397/1570828229709799584_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1570814059626889397/1570828617800355870.jpg"
+                            },
+                            "video_hls": {
+                                "url": "quests/1570814059626889397/1570828229709799584.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1570814059626889397/1570828617800355870.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": ""
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "200 Orbs",
+                            "name_with_article": "200 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 200,
+                        "premium_orb_quantity": null
+                    }
+                ],
+                "rewards_expire_at": "2026-12-17T09:59:59+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://discord.com/quest-home",
+                "button_label": "Learn More",
+                "subtitle": "GTAVI Coming Nov. 19. Pre-Order Now and Pre-Load."
+            }
+        }
     }
 ]
