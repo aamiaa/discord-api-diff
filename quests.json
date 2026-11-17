@@ -141263,7 +141263,7 @@
                 15
             ],
             "application": {
-                "link": "https://2kgam.es/3RuZ5v9",
+                "link": "https://2kgam.es/4iPoH0M",
                 "id": "1531874750249566429",
                 "name": "NBA 2K"
             },
@@ -141374,7 +141374,7 @@
             },
             "share_policy": "shareable_everywhere",
             "cta_config": {
-                "link": "https://2kgam.es/3RuZ5v9",
+                "link": "https://2kgam.es/4iPoH0M",
                 "button_label": "Learn More",
                 "subtitle": "It's a Vice City takeover during S3 of NBA 2K27."
             }
@@ -142986,6 +142986,131 @@
                 "link": "https://discord.com/quest-home",
                 "button_label": "Learn More",
                 "subtitle": "GTAVI erscheint am 19. November. Bestelle jetzt vor und lade es vorab herunter."
+            }
+        }
+    },
+    {
+        "id": "1570888500847312907",
+        "config": {
+            "id": "1570888500847312907",
+            "config_version": 2,
+            "starts_at": "2026-11-17T15:00:00+00:00",
+            "expires_at": "2026-11-18T14:59:59+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://discord.com/quest-home",
+                "id": "1445160676522856458",
+                "name": "Grand Theft Auto VI"
+            },
+            "assets": {
+                "hero": "quests/1570814059626889397/1570830415944487155.jpg",
+                "quest_bar_hero_blurhash": "lmgOJI5YmXd+VnaQenfPlveKWA==",
+                "quest_bar_hero": "quests/1570814059626889397/1570830339255828603.jpg",
+                "quest_bar_hero_video": "quests/1570814059626889397/1570830370616909844.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1570814059626889397/1570830057226641468.png",
+                "game_tile_dark": "quests/1570814059626889397/1570829985915084882.png",
+                "logotype_light": "quests/1570814059626889397/1570830167713259540.png",
+                "logotype_dark": "quests/1570814059626889397/1570830126180999288.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "『グランド・セフト・オートVI』：プリロード",
+                "game_title": "『GTAVI』11月19日登場。今すぐプレオーダー＆プリロードしよう。",
+                "game_publisher": "Rockstar Games"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 29,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1570886049071235213/1570886932421152848_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1570886049071235213/1570886879761531072.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1570886049071235213/1570886932421152848_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1570886049071235213/1570886879761531072.jpg"
+                            },
+                            "video_hls": {
+                                "url": "quests/1570886049071235213/1570886932421152848.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1570886049071235213/1570886879761531072.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": ""
+                        }
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 29,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1570886049071235213/1570886932421152848_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1570886049071235213/1570886879761531072.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1570886049071235213/1570886932421152848_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1570886049071235213/1570886879761531072.jpg"
+                            },
+                            "video_hls": {
+                                "url": "quests/1570886049071235213/1570886932421152848.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1570886049071235213/1570886879761531072.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": ""
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "200 Orbs",
+                            "name_with_article": "200 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 200,
+                        "premium_orb_quantity": null
+                    }
+                ],
+                "rewards_expire_at": "2026-12-18T14:59:59+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://discord.com/quest-home",
+                "button_label": "Learn More",
+                "subtitle": "『GTAVI』11月19日登場。今すぐプレオーダー＆プリロードしよう"
             }
         }
     }
