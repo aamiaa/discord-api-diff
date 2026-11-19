@@ -131072,7 +131072,7 @@
             "id": "1557996162189893723",
             "config_version": 2,
             "starts_at": "2026-10-29T17:00:00+00:00",
-            "expires_at": "2026-11-16T01:00:00+00:00",
+            "expires_at": "2026-11-23T01:00:00+00:00",
             "features": [
                 27,
                 36,
@@ -131141,7 +131141,7 @@
                         "premium_orb_quantity": 840
                     }
                 ],
-                "rewards_expire_at": "2026-12-16T01:00:00+00:00",
+                "rewards_expire_at": "2026-12-23T01:00:00+00:00",
                 "platforms": [
                     0
                 ]
@@ -138298,7 +138298,7 @@
             },
             "messages": {
                 "quest_name": "The Hunger Games Video",
-                "game_title": "IN THEATERS FRIDAY",
+                "game_title": "IN THEATERS TOMORROW",
                 "game_publisher": "Lionsgate"
             },
             "task_config_v2": {
@@ -138311,19 +138311,19 @@
                                 "url": "quests/1567441774820065380/1567448750396280842_1080.mp4",
                                 "width": 1920,
                                 "height": 1080,
-                                "thumbnail": "quests/1567441774820065380/1567443299923660800.png"
+                                "thumbnail": "quests/1567441774820065380/1567443299915145306.png"
                             },
                             "video_low_res": {
                                 "url": "quests/1567441774820065380/1567448750396280842_720.mp4",
                                 "width": 1920,
                                 "height": 1080,
-                                "thumbnail": "quests/1567441774820065380/1567443299923660800.png"
+                                "thumbnail": "quests/1567441774820065380/1567443299915145306.png"
                             },
                             "video_hls": {
                                 "url": "quests/1567441774820065380/1567448750396280842.m3u8",
                                 "width": 1920,
                                 "height": 1080,
-                                "thumbnail": "quests/1567441774820065380/1567443299923660800.png"
+                                "thumbnail": "quests/1567441774820065380/1567443299915145306.png"
                             }
                         },
                         "messages": {
@@ -138338,19 +138338,19 @@
                                 "url": "quests/1567441774820065380/1570882628377251842_1080.mp4",
                                 "width": 607,
                                 "height": 1080,
-                                "thumbnail": "quests/1567441774820065380/1567443299718004766.png"
+                                "thumbnail": "quests/1567441774820065380/1567443299915145306.png"
                             },
                             "video_low_res": {
                                 "url": "quests/1567441774820065380/1570882628377251842_720.mp4",
                                 "width": 607,
                                 "height": 1080,
-                                "thumbnail": "quests/1567441774820065380/1567443299718004766.png"
+                                "thumbnail": "quests/1567441774820065380/1567443299915145306.png"
                             },
                             "video_hls": {
                                 "url": "quests/1567441774820065380/1570882628377251842.m3u8",
                                 "width": 607,
                                 "height": 1080,
-                                "thumbnail": "quests/1567441774820065380/1567443299718004766.png"
+                                "thumbnail": "quests/1567441774820065380/1567443299915145306.png"
                             }
                         },
                         "messages": {
@@ -138389,7 +138389,7 @@
             "cta_config": {
                 "link": "https://www.fandango.com/the-hunger-games-sunrise-on-the-reaping-2026-240138/movie-overview?cmp=ST_Lionsgate:HungerGamesSOTR:Discord",
                 "button_label": "Get Tickets",
-                "subtitle": "IN THEATERS FRIDAY"
+                "subtitle": "IN THEATERS TOMORROW"
             }
         },
         "user_status": null,
@@ -145420,5 +145420,263 @@
                 "subtitle": "GTAVI — Now Available"
             }
         }
+    },
+    {
+        "id": "1554267506372255815",
+        "config": {
+            "id": "1554267506372255815",
+            "config_version": 2,
+            "starts_at": "2026-11-19T18:00:00+00:00",
+            "expires_at": "2026-11-27T07:59:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://discord.gg/dunemovie",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1554267506372255815/1570924470158237948.jpg",
+                "quest_bar_hero_blurhash": "HBgODIJgyWqIqXiRiHdQiAV1GQ==",
+                "quest_bar_hero": "quests/1554267506372255815/1570925037337317406.jpg",
+                "quest_bar_hero_video": "quests/1554267506372255815/1570925172876255293_720.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1554267506372255815/1570924356022833203.png",
+                "game_tile_dark": "quests/1554267506372255815/1570924356022833203.png",
+                "logotype_light": "quests/1554267506372255815/1570927458511888425.png",
+                "logotype_dark": "quests/1554267506372255815/1570927458511888425.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Dune: Part Three",
+                "game_title": "Only in Theaters 12.18 Filmed for IMAX",
+                "game_publisher": "Warner Bros. Pictures"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 157,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1554267506372255815/1572691663913091082_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1554267506372255815/1572062421579726939.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1554267506372255815/1572691663913091082_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1554267506372255815/1572062421579726939.jpg"
+                            },
+                            "video_hls": {
+                                "url": "quests/1554267506372255815/1572691663913091082.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1554267506372255815/1572062421579726939.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 157,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1554267506372255815/1572691640051572756_1080.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1554267506372255815/1572062421579726939.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1554267506372255815/1572691640051572756_720.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1554267506372255815/1572062421579726939.jpg"
+                            },
+                            "video_hls": {
+                                "url": "quests/1554267506372255815/1572691640051572756.m3u8",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1554267506372255815/1572062421579726939.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "200 Orbs",
+                            "name_with_article": "200 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 200,
+                        "premium_orb_quantity": 240
+                    }
+                ],
+                "rewards_expire_at": "2026-12-27T07:59:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://discord.gg/dunemovie",
+                "button_label": "Join Server",
+                "subtitle": "Only in Theaters 12.18 Filmed for IMAX"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "ad_context": null,
+        "preview": false
+    },
+    {
+        "id": "1559615920190529706",
+        "config": {
+            "id": "1559615920190529706",
+            "config_version": 2,
+            "starts_at": "2026-11-19T18:00:00+00:00",
+            "expires_at": "2026-11-30T07:59:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://www.universalpicturesathome.com/movies/the-odyssey-2026?utm_source=paid&utm_medium=site-direct&utm_campaign=tradhe-theodyssey&utm_content=discord",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1559615920190529706/1572012927391895702.jpg",
+                "quest_bar_hero_blurhash": "y/cJDIJ3d4h/d4iDeHBZd5929w==",
+                "quest_bar_hero": "quests/1559615920190529706/1570532267179245568.jpg",
+                "quest_bar_hero_video": "quests/1559615920190529706/1570532291489304759_720.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1559615920190529706/1572750651165773934.png",
+                "game_tile_dark": "quests/1559615920190529706/1572750651165773934.png",
+                "logotype_light": "quests/1559615920190529706/1572750650612125746.png",
+                "logotype_dark": "quests/1559615920190529706/1570530656440819722.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "The Odyssey",
+                "game_title": "Watch The Odyssey at home now",
+                "game_publisher": "Universal Pictures"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 29,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1559615920190529706/1570532478064529408_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1559615920190529706/1572013049445884074.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1559615920190529706/1570532478064529408_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1559615920190529706/1572013049445884074.jpg"
+                            },
+                            "video_hls": {
+                                "url": "quests/1559615920190529706/1570532478064529408.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1559615920190529706/1572013049445884074.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 29,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1559615920190529706/1570532478064529408_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1559615920190529706/1572013049445884074.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1559615920190529706/1570532478064529408_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1559615920190529706/1572013049445884074.jpg"
+                            },
+                            "video_hls": {
+                                "url": "quests/1559615920190529706/1570532478064529408.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1559615920190529706/1572013049445884074.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "200 Orbs",
+                            "name_with_article": "200 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 200,
+                        "premium_orb_quantity": 240
+                    }
+                ],
+                "rewards_expire_at": "2026-12-30T07:59:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://www.universalpicturesathome.com/movies/the-odyssey-2026?utm_source=paid&utm_medium=site-direct&utm_campaign=tradhe-theodyssey&utm_content=discord",
+                "button_label": "Watch Now",
+                "subtitle": "Watch The Odyssey at home now"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "ad_context": null,
+        "preview": false
     }
 ]
