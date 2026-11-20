@@ -145937,5 +145937,130 @@
         "targeted_content": [],
         "ad_context": null,
         "preview": false
+    },
+    {
+        "id": "1570608924418121829",
+        "config": {
+            "id": "1570608924418121829",
+            "config_version": 2,
+            "starts_at": "2026-11-20T18:00:00+00:00",
+            "expires_at": "2026-11-30T01:00:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://www.primevideo.com/detail/gti/amzn1.dv.gti.67f9dbb8-4667-4040-8fec-3b786be5c60b",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1554596155680100372/1570544357692678226.jpg",
+                "quest_bar_hero_blurhash": "TQgGJIhAaMkui3d1mHtAOwezcw==",
+                "quest_bar_hero": "quests/1554596155680100372/1570544375396704366.jpg",
+                "quest_bar_hero_video": "quests/1570608924418121829/1572381557044543558_720.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1554596155680100372/1570544415741845535.png",
+                "game_tile_dark": "quests/1554596155680100372/1570544415741845535.png",
+                "logotype_light": "quests/1554596155680100372/1570544334636454058.png",
+                "logotype_dark": "quests/1554596155680100372/1570544334636454058.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Blade Runner 2099",
+                "game_title": "Blade Runner 2099, a new limited series, premieres November 25 only on Prime Video.",
+                "game_publisher": "Amazon Prime Video"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 29,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1570608924418121829/1573040417602019358_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1554596155680100372/1570544392249286767.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1570608924418121829/1573040417602019358_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1554596155680100372/1570544392249286767.jpg"
+                            },
+                            "video_hls": {
+                                "url": "quests/1570608924418121829/1573040417602019358.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1554596155680100372/1570544392249286767.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 29,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1570608924418121829/1573040417463603441_1080.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1554596155680100372/1570544392249286767.jpg"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1570608924418121829/1573040417463603441_720.mp4",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1554596155680100372/1570544392249286767.jpg"
+                            },
+                            "video_hls": {
+                                "url": "quests/1570608924418121829/1573040417463603441.m3u8",
+                                "width": 1080,
+                                "height": 1920,
+                                "thumbnail": "quests/1554596155680100372/1570544392249286767.jpg"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "200 Orbs",
+                            "name_with_article": "200 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 200,
+                        "premium_orb_quantity": null
+                    }
+                ],
+                "rewards_expire_at": "2026-12-30T01:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://www.primevideo.com/detail/gti/amzn1.dv.gti.67f9dbb8-4667-4040-8fec-3b786be5c60b",
+                "button_label": "Watch More",
+                "subtitle": "Blade Runner 2099, a new limited series, premieres November 25 only on Prime Video."
+            }
+        }
     }
 ]
