@@ -723,5 +723,464 @@
             }
         },
         "priority": 75
+    },
+    {
+        "id": "1555653750218039336",
+        "marketing_components": [
+            {
+                "id": "1566840213479759902",
+                "promotion_id": "1555653750218039336",
+                "premium_offer_type": 0,
+                "premium_type": 0,
+                "premium_source": 0,
+                "premium_subscription_type": 0,
+                "component_type": 15,
+                "theme": 0,
+                "experiment_id": null,
+                "experiment_variation_id": null,
+                "ready": true,
+                "properties": {
+                    "planSelectCardBanner": {
+                        "asset": {
+                            "lightUrl": "https://cdn.discordapp.com/promotions/premium-marketing/1566840009640644639/1572071225453318275.png",
+                            "darkUrl": "https://cdn.discordapp.com/promotions/premium-marketing/1566840009640644639/1572071225453318275.png",
+                            "lightStaticUrl": "https://cdn.discordapp.com/promotions/premium-marketing/1566840009640644639/1572071225453318275.png",
+                            "darkStaticUrl": "https://cdn.discordapp.com/promotions/premium-marketing/1566840009640644639/1572071225453318275.png"
+                        },
+                        "body": "Join Nitro and unlock 10,000 Orbs. Offer ends 11/30.",
+                        "bodyLocalized": {}
+                    }
+                },
+                "start_date": null,
+                "end_date": null
+            },
+            {
+                "id": "1565839472396861570",
+                "promotion_id": "1555653750218039336",
+                "premium_offer_type": 0,
+                "premium_type": 0,
+                "premium_source": 0,
+                "premium_subscription_type": 0,
+                "component_type": 3,
+                "theme": 0,
+                "experiment_id": null,
+                "experiment_variation_id": null,
+                "ready": true,
+                "properties": {
+                    "paymentModalBanner": {
+                        "assetUrl": "https://cdn.discordapp.com/promotions/premium-marketing/1565839119526006935/1572694487799562270.png",
+                        "body": "Your 10,000 Orbs are on their way. They’ll land in your account as soon as you complete your purchase.",
+                        "headerLocalized": {},
+                        "bodyLocalized": {},
+                        "gradient": "PAYMENT_MODAL_BANNER_GRADIENT_NITRO_PINK"
+                    }
+                },
+                "start_date": null,
+                "end_date": null
+            },
+            {
+                "id": "1566840913890902189",
+                "promotion_id": "1555653750218039336",
+                "premium_offer_type": 0,
+                "premium_type": 0,
+                "premium_source": 0,
+                "premium_subscription_type": 0,
+                "component_type": 14,
+                "theme": 0,
+                "experiment_id": null,
+                "experiment_variation_id": null,
+                "ready": true,
+                "properties": {
+                    "nagbar": {
+                        "body": "⏰ Black Friday deals end in {days_left, plural, one {# day} other {# days}}! Join Nitro and we’ll drop 10,000 Orbs in your account.",
+                        "ctaLabel": "Claim Offer",
+                        "ctaAction": "BUTTON_ACTION_OPEN_TIER_2_PAYMENT_MODAL",
+                        "helpArticle": {
+                            "id": "44757116266007",
+                            "linkTextLocalized": {}
+                        },
+                        "bodyLocalized": {},
+                        "ctaLabelLocalized": {}
+                    }
+                },
+                "start_date": "2026-11-28T13:00:00+00:00",
+                "end_date": null
+            },
+            {
+                "id": "1565811013155029113",
+                "promotion_id": "1555653750218039336",
+                "premium_offer_type": 0,
+                "premium_type": 0,
+                "premium_source": 0,
+                "premium_subscription_type": 0,
+                "component_type": 0,
+                "theme": 0,
+                "experiment_id": null,
+                "experiment_variation_id": null,
+                "ready": true,
+                "properties": {
+                    "announcementModalVariant_1": {
+                        "header": "BLACK FRIDAY OFFER: GET 10,000 ORBS WITH NITRO",
+                        "subheader": "A wicked-good deal is here. Join Nitro by 11/30 we’ll drop 10,000 Orbs in your account. That’s enough for 2 Shop items!",
+                        "button": {
+                            "copy": "Claim Offer",
+                            "buttonAction": "BUTTON_ACTION_OPEN_TIER_2_PAYMENT_MODAL",
+                            "copyLocalized": {}
+                        },
+                        "heroArtImageLinkDarkTheme": "https://cdn.discordapp.com/promotions/premium-marketing/1557836715773661325/1572695964093780059.png",
+                        "heroArtImageLinkLightTheme": "https://cdn.discordapp.com/promotions/premium-marketing/1557836715773661325/1572695964093780059.png",
+                        "disclaimer": {
+                            "disclaimerTextLocalized": {}
+                        },
+                        "helpArticle": {
+                            "id": "44757116266007",
+                            "linkTextLocalized": {}
+                        },
+                        "headerLocalized": {},
+                        "subheaderLocalized": {},
+                        "modalTopPillLocalized": {}
+                    }
+                },
+                "start_date": null,
+                "end_date": null
+            },
+            {
+                "id": "1566836281143722176",
+                "promotion_id": "1555653750218039336",
+                "premium_offer_type": 0,
+                "premium_type": 0,
+                "premium_source": 0,
+                "premium_subscription_type": 0,
+                "component_type": 2,
+                "theme": 0,
+                "experiment_id": null,
+                "experiment_variation_id": null,
+                "ready": true,
+                "properties": {
+                    "marketingPageBanner": {
+                        "assetUrl": "https://cdn.discordapp.com/promotions/premium-marketing/1566835699599151196/1572068451756023961.png",
+                        "header": "Unlock 10,000 Orbs with Nitro",
+                        "body": "Black Friday offer: join Nitro by 11/30 and we’ll drop 10,000 Orbs in your account.",
+                        "button": {
+                            "copy": "Claim Offer",
+                            "buttonAction": "BUTTON_ACTION_OPEN_TIER_2_PAYMENT_MODAL",
+                            "copyLocalized": {}
+                        },
+                        "helpArticle": {
+                            "id": "44757116266007",
+                            "linkTextLocalized": {}
+                        },
+                        "headerLocalized": {},
+                        "bodyLocalized": {},
+                        "buttonVariant": "MARKETING_PAGE_BANNER_BUTTON_VARIANT_PRIMARY"
+                    }
+                },
+                "start_date": null,
+                "end_date": null
+            },
+            {
+                "id": "1566843242136215673",
+                "promotion_id": "1555653750218039336",
+                "premium_offer_type": 0,
+                "premium_type": 0,
+                "premium_source": 0,
+                "premium_subscription_type": 0,
+                "component_type": 16,
+                "theme": 0,
+                "experiment_id": null,
+                "experiment_variation_id": null,
+                "ready": true,
+                "properties": {
+                    "billingSettingsBanner": {
+                        "header": "Unlock 10,000 Orbs with Nitro",
+                        "body": "Black Friday offer: join Nitro and we’ll drop 10,000 Orbs in your account. That’s enough for 2 Shop items!",
+                        "asset": {
+                            "lightUrl": "https://cdn.discordapp.com/promotions/premium-marketing/1566842116741529693/1572721803783307314.png",
+                            "darkUrl": "https://cdn.discordapp.com/promotions/premium-marketing/1566842116741529693/1572721803783307314.png",
+                            "lightStaticUrl": "https://cdn.discordapp.com/promotions/premium-marketing/1566842116741529693/1572721803783307314.png",
+                            "darkStaticUrl": "https://cdn.discordapp.com/promotions/premium-marketing/1566842116741529693/1572721803783307314.png"
+                        },
+                        "button": {
+                            "copy": "Claim Offer",
+                            "buttonAction": "BUTTON_ACTION_OPEN_TIER_2_PAYMENT_MODAL",
+                            "copyLocalized": {}
+                        },
+                        "headerLocalized": {},
+                        "bodyLocalized": {},
+                        "helpArticle": {
+                            "id": "44757116266007",
+                            "linkText": "Terms apply.",
+                            "linkTextLocalized": {}
+                        }
+                    }
+                },
+                "start_date": null,
+                "end_date": null
+            },
+            {
+                "id": "1566839796515737841",
+                "promotion_id": "1555653750218039336",
+                "premium_offer_type": 0,
+                "premium_type": 0,
+                "premium_source": 0,
+                "premium_subscription_type": 0,
+                "component_type": 12,
+                "theme": 0,
+                "experiment_id": null,
+                "experiment_variation_id": null,
+                "ready": true,
+                "properties": {
+                    "premiumTabTooltip": {
+                        "header": "Get 10,000 Orbs with Nitro",
+                        "body": "Now until 11/30, join Nitro and we’ll drop 10,000 Orbs in your account.",
+                        "asset": {
+                            "lightUrl": "https://cdn.discordapp.com/promotions/premium-marketing/1566839578256605255/1572069699343224863.png",
+                            "darkUrl": "https://cdn.discordapp.com/promotions/premium-marketing/1566839578256605255/1572069699343224863.png",
+                            "lightStaticUrl": "https://cdn.discordapp.com/promotions/premium-marketing/1566839578256605255/1572069699343224863.png",
+                            "darkStaticUrl": "https://cdn.discordapp.com/promotions/premium-marketing/1566839578256605255/1572069699343224863.png"
+                        },
+                        "headerLocalized": {},
+                        "bodyLocalized": {}
+                    }
+                },
+                "start_date": null,
+                "end_date": null
+            },
+            {
+                "id": "1569500133710631043",
+                "promotion_id": "1555653750218039336",
+                "premium_offer_type": 0,
+                "premium_type": 0,
+                "premium_source": 0,
+                "premium_subscription_type": 0,
+                "component_type": 34,
+                "theme": 0,
+                "experiment_id": null,
+                "experiment_variation_id": null,
+                "ready": true,
+                "properties": {
+                    "collectionPageMarketingBlock": {
+                        "titleLocalized": {},
+                        "title": "Get 10k Orbs when you join Nitro",
+                        "art": {
+                            "lightUrl": "https://cdn.discordapp.com/promotions/premium-marketing/1569499909835718759/1572773397467762769.png",
+                            "darkUrl": "https://cdn.discordapp.com/promotions/premium-marketing/1569499909835718759/1572773397467762769.png",
+                            "lightStaticUrl": "https://cdn.discordapp.com/promotions/premium-marketing/1569499909835718759/1572773397467762769.png",
+                            "darkStaticUrl": "https://cdn.discordapp.com/promotions/premium-marketing/1569499909835718759/1572773397467762769.png"
+                        },
+                        "button": {
+                            "copy": "Subscribe",
+                            "buttonAction": "BUTTON_ACTION_OPEN_TIER_2_PAYMENT_MODAL",
+                            "copyLocalized": {}
+                        }
+                    }
+                },
+                "start_date": null,
+                "end_date": null
+            },
+            {
+                "id": "1572519627525726249",
+                "promotion_id": "1555653750218039336",
+                "premium_offer_type": 0,
+                "premium_type": null,
+                "premium_source": null,
+                "premium_subscription_type": null,
+                "component_type": 39,
+                "theme": 0,
+                "experiment_id": null,
+                "experiment_variation_id": null,
+                "ready": true,
+                "properties": {
+                    "orbsConfirmationModal": {
+                        "headerLocalized": {},
+                        "subheaderLocalized": {},
+                        "subheader": "They're already in your account. Spend them in the Shop, where more Black Friday deals await."
+                    }
+                },
+                "start_date": null,
+                "end_date": null
+            },
+            {
+                "id": "1566839113200435230",
+                "promotion_id": "1555653750218039336",
+                "premium_offer_type": 0,
+                "premium_type": null,
+                "premium_source": null,
+                "premium_subscription_type": null,
+                "component_type": 1,
+                "theme": 0,
+                "experiment_id": null,
+                "experiment_variation_id": null,
+                "ready": true,
+                "properties": {
+                    "premiumTab": {
+                        "badgeLabel": "OFFER",
+                        "acknowledgedBadgeLabel": "OFFER",
+                        "showHoverGradient": true,
+                        "badgeLabelLocalized": {},
+                        "acknowledgedBadgeLabelLocalized": {},
+                        "backgroundImage": {
+                            "lightUrl": "https://cdn.discordapp.com/promotions/premium-marketing/1566838907604177198/1573095762907107348.png",
+                            "darkUrl": "https://cdn.discordapp.com/promotions/premium-marketing/1566838907604177198/1573095762907107348.png",
+                            "lightStaticUrl": "https://cdn.discordapp.com/promotions/premium-marketing/1566838907604177198/1573095762907107348.png",
+                            "darkStaticUrl": "https://cdn.discordapp.com/promotions/premium-marketing/1566838907604177198/1573095762907107348.png"
+                        },
+                        "hoverGradientColors": {
+                            "center": {
+                                "light": {
+                                    "paletteColor": "illo-pink.30",
+                                    "opacity": 1
+                                },
+                                "ash": {
+                                    "paletteColor": "illo-purple.40",
+                                    "opacity": 1
+                                },
+                                "dark": {
+                                    "paletteColor": "illo-purple.40",
+                                    "opacity": 1
+                                },
+                                "onyx": {
+                                    "paletteColor": "illo-purple.40",
+                                    "opacity": 1
+                                }
+                            },
+                            "innerRing": {
+                                "light": {
+                                    "paletteColor": "illo-purple.40",
+                                    "opacity": 0.5
+                                },
+                                "ash": {
+                                    "paletteColor": "illo-blue.60",
+                                    "opacity": 0.5
+                                },
+                                "dark": {
+                                    "paletteColor": "illo-blue.60",
+                                    "opacity": 0.5
+                                },
+                                "onyx": {
+                                    "paletteColor": "illo-blue.60",
+                                    "opacity": 0.5
+                                }
+                            },
+                            "outerRing": {
+                                "light": {
+                                    "paletteColor": "illo-blue.40"
+                                },
+                                "ash": {
+                                    "paletteColor": "illo-blue.70"
+                                },
+                                "dark": {
+                                    "paletteColor": "illo-blue.70"
+                                },
+                                "onyx": {
+                                    "paletteColor": "illo-blue.70"
+                                }
+                            }
+                        }
+                    }
+                },
+                "start_date": null,
+                "end_date": null
+            }
+        ],
+        "start_date": "2026-11-19T13:00:00+00:00",
+        "end_date": "2026-12-01T07:59:00+00:00",
+        "flags": 513,
+        "country_list_mode": "blocklist",
+        "promotion_type": 5,
+        "metadata": {
+            "premium_promotion": {
+                "reward_sku_ids": [],
+                "reward_config": null
+            }
+        },
+        "priority": 2
+    },
+    {
+        "id": "1569498283594874940",
+        "marketing_components": [
+            {
+                "id": "1572772169640050719",
+                "promotion_id": "1569498283594874940",
+                "premium_offer_type": 0,
+                "premium_type": null,
+                "premium_source": null,
+                "premium_subscription_type": null,
+                "component_type": 34,
+                "theme": 0,
+                "experiment_id": null,
+                "experiment_variation_id": null,
+                "ready": true,
+                "properties": {
+                    "collectionPageMarketingBlock": {
+                        "titleLocalized": {},
+                        "title": "Earn Orbs on every Rust purchase",
+                        "art": {
+                            "lightUrl": "https://cdn.discordapp.com/promotions/premium-marketing/1572772123431407717/1572773126314532885.png",
+                            "darkUrl": "https://cdn.discordapp.com/promotions/premium-marketing/1572772123431407717/1572773126314532885.png",
+                            "lightStaticUrl": "https://cdn.discordapp.com/promotions/premium-marketing/1572772123431407717/1572773126314532885.png",
+                            "darkStaticUrl": "https://cdn.discordapp.com/promotions/premium-marketing/1572772123431407717/1572773126314532885.png"
+                        },
+                        "button": {
+                            "copy": "Rust Shop",
+                            "buttonAction": "BUTTON_ACTION_OPEN_SOCIAL_LAYER_STOREFRONT",
+                            "copyLocalized": {},
+                            "navigableStorefrontApplicationId": {
+                                "value": "1288512934112264234"
+                            }
+                        }
+                    }
+                },
+                "start_date": null,
+                "end_date": null
+            },
+            {
+                "id": "1572771890102280282",
+                "promotion_id": "1569498283594874940",
+                "premium_offer_type": 0,
+                "premium_type": null,
+                "premium_source": null,
+                "premium_subscription_type": null,
+                "component_type": 34,
+                "theme": 0,
+                "experiment_id": null,
+                "experiment_variation_id": null,
+                "ready": true,
+                "properties": {
+                    "collectionPageMarketingBlock": {
+                        "titleLocalized": {},
+                        "title": "Earn Orbs on every Bloons TD 6 purchase",
+                        "art": {
+                            "lightUrl": "https://cdn.discordapp.com/promotions/premium-marketing/1572771834544521389/1572772977123131462.png",
+                            "darkUrl": "https://cdn.discordapp.com/promotions/premium-marketing/1572771834544521389/1572772977123131462.png",
+                            "lightStaticUrl": "https://cdn.discordapp.com/promotions/premium-marketing/1572771834544521389/1572772977123131462.png",
+                            "darkStaticUrl": "https://cdn.discordapp.com/promotions/premium-marketing/1572771834544521389/1572772977123131462.png"
+                        },
+                        "button": {
+                            "copy": "Bloons TD6 Shop",
+                            "buttonAction": "BUTTON_ACTION_OPEN_SOCIAL_LAYER_STOREFRONT",
+                            "copyLocalized": {},
+                            "navigableStorefrontApplicationId": {
+                                "value": "614380482620293151"
+                            }
+                        }
+                    }
+                },
+                "start_date": null,
+                "end_date": null
+            }
+        ],
+        "start_date": "2026-11-23T16:45:00+00:00",
+        "end_date": "2026-12-01T07:59:00+00:00",
+        "flags": 1537,
+        "country_list_mode": "blocklist",
+        "promotion_type": 5,
+        "metadata": {
+            "premium_promotion": {
+                "reward_sku_ids": [],
+                "reward_config": null
+            }
+        },
+        "priority": 3
     }
 ]

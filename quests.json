@@ -144025,7 +144025,7 @@
                 "name": "Discord"
             },
             "assets": {
-                "hero": "quests/1569427099574468719/1570863487909892146.jpg",
+                "hero": "quests/1569427099574468719/1574460737185915131.jpg",
                 "hero_video": "quests/1569427099574468719/1570866494605361252_720.mp4",
                 "quest_bar_hero_blurhash": "DucJCoIFs2poVpl4B8aXQIk=",
                 "quest_bar_hero": "quests/1569427099574468719/1570863487909892146.jpg",
@@ -146296,5 +146296,1267 @@
         "targeted_content": [],
         "ad_context": null,
         "preview": false
+    },
+    {
+        "id": "1565840089576251403",
+        "config": {
+            "id": "1565840089576251403",
+            "config_version": 2,
+            "starts_at": "2026-11-23T18:00:00+00:00",
+            "expires_at": "2026-12-07T01:00:00+00:00",
+            "features": [
+                26,
+                15
+            ],
+            "application": {
+                "link": "https://firefox.com/get/?p=discord&utm_source=discord&utm_campaign=nova&utm_content=playquest2",
+                "id": "1491208267928703226",
+                "name": "Firefox"
+            },
+            "assets": {
+                "hero": "quests/1565840089576251403/1573061974479212745.jpg",
+                "hero_video": "quests/1565840089576251403/1573062890926247946_720.mp4",
+                "quest_bar_hero_blurhash": "YTcKHIT2iFd2iHmOc4t6j4ffpg==",
+                "quest_bar_hero": "quests/1565840089576251403/1573061895106203799.jpg",
+                "quest_bar_hero_video": "quests/1565840089576251403/1573062890926247946_720.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1565840089576251403/1570590001266294827.png",
+                "game_tile_dark": "quests/1565840089576251403/1570590001266294827.png",
+                "logotype_light": "quests/1565840089576251403/1570590000767041546.png",
+                "logotype_dark": "quests/1565840089576251403/1570590000813183037.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Firefox Browser",
+                "game_title": "Firefox Browser",
+                "game_publisher": "Mozilla"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1491208267928703226"
+                            }
+                        ]
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 Orbs",
+                            "name_with_article": "700 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 700,
+                        "premium_orb_quantity": 840
+                    }
+                ],
+                "rewards_expire_at": "2027-01-06T01:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://firefox.com/get/?p=discord&utm_source=discord&utm_campaign=nova&utm_content=playquest2",
+                "button_label": "Download",
+                "subtitle": "Try Firefox today"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "ad_context": null,
+        "preview": false
+    },
+    {
+        "id": "1569875293647143013",
+        "config": {
+            "id": "1569875293647143013",
+            "config_version": 2,
+            "starts_at": "2026-11-23T18:00:00+00:00",
+            "expires_at": "2026-11-28T07:59:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://www.topazlabs.com/sale?utm_source=discord&utm_medium=paid_social&utm_campaign=Black-Friday-Promo_20161123",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1569875293647143013/1571951508155797546.jpg",
+                "hero_video": "quests/1569875293647143013/1571951539596300448_720.mp4",
+                "quest_bar_hero_blurhash": "WBgGHIb4TqBVZiY0V4YFV1dwZQ==",
+                "quest_bar_hero": "quests/1569875293647143013/1571359150687129760.jpg",
+                "quest_bar_hero_video": "quests/1569875293647143013/1571951539596300448_720.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1569875293647143013/1571359721263341718.png",
+                "game_tile_dark": "quests/1569875293647143013/1571359721317994546.png",
+                "logotype_light": "quests/1569875293647143013/1571359721326248056.png",
+                "logotype_dark": "quests/1569875293647143013/1571359721338708028.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Save up to 67% on Topaz Studio",
+                "game_title": "Make image & video magic with Topaz Studio.",
+                "game_publisher": "Topaz Labs"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 35,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1569875293647143013/1571359071502733424_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1569875293647143013/1572725046298943659.png"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1569875293647143013/1571359071502733424_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1569875293647143013/1572725046298943659.png"
+                            },
+                            "video_hls": {
+                                "url": "quests/1569875293647143013/1571359071502733424.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1569875293647143013/1572725046298943659.png"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 35,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1569875293647143013/1571359071502733424_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1569875293647143013/1572725046298943659.png"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1569875293647143013/1571359071502733424_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1569875293647143013/1572725046298943659.png"
+                            },
+                            "video_hls": {
+                                "url": "quests/1569875293647143013/1571359071502733424.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1569875293647143013/1572725046298943659.png"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "200 Orbs",
+                            "name_with_article": "200 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 200,
+                        "premium_orb_quantity": 240
+                    }
+                ],
+                "rewards_expire_at": "2026-12-28T07:59:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://www.topazlabs.com/sale?utm_source=discord&utm_medium=paid_social&utm_campaign=Black-Friday-Promo_20161123",
+                "button_label": "Get Offer",
+                "subtitle": "Save up to 67% during Black Friday"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "ad_context": null,
+        "preview": false
+    },
+    {
+        "id": "1562498875032473711",
+        "config": {
+            "id": "1562498875032473711",
+            "config_version": 2,
+            "starts_at": "2026-11-23T18:00:00+00:00",
+            "expires_at": "2026-12-08T01:00:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://www.eveonline.com/?utm_source=discord&utm_medium=cpm&utm_campaign=cn:ww_lg:en_mg:1_pd:1_cd:play-quest-231126_cs:general_ct:video_tg:homepage_br:eve",
+                "id": "363413402300710912",
+                "name": "EVE Online"
+            },
+            "assets": {
+                "hero": "quests/1562498875032473711/1571907022322929716.jpg",
+                "hero_video": "quests/1562498875032473711/1570955067006128198_720.mp4",
+                "quest_bar_hero_blurhash": "D0kKFIRuVnjPaHeneXccv7PgKw==",
+                "quest_bar_hero": "quests/1562498875032473711/1571907022322929716.jpg",
+                "quest_bar_hero_video": "quests/1562498875032473711/1570955067006128198_720.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1562498875032473711/1570954685542703155.png",
+                "game_tile_dark": "quests/1562498875032473711/1571906222263631935.png",
+                "logotype_light": "quests/1562498875032473711/1570954801552953424.png",
+                "logotype_dark": "quests/1562498875032473711/1571906307819184188.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "EVE Online",
+                "game_title": "EVE Online",
+                "game_publisher": "Fenris Creations"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "363413402300710912"
+                            }
+                        ]
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 Orbs",
+                            "name_with_article": "700 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 700,
+                        "premium_orb_quantity": 840
+                    }
+                ],
+                "rewards_expire_at": "2027-01-07T01:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://www.eveonline.com/?utm_source=discord&utm_medium=cpm&utm_campaign=cn:ww_lg:en_mg:1_pd:1_cd:play-quest-231126_cs:general_ct:video_tg:homepage_br:eve",
+                "button_label": "Play Now"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "ad_context": null,
+        "preview": false
+    },
+    {
+        "id": "1550194203613462641",
+        "config": {
+            "id": "1550194203613462641",
+            "config_version": 2,
+            "starts_at": "2026-11-23T18:00:00+00:00",
+            "expires_at": "2026-12-21T01:00:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://ad.doubleclick.net/ddm/trackclk/N1072492.3866164DISCORD.COM/B36301544.452360517;dc_trk_aid=650892657;dc_trk_cid=264945399;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=1;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1550194203613462641/1567253750534643874.jpg",
+                "quest_bar_hero_blurhash": "mukKHJB4iTWEeFeAaH6kgF4L5w==",
+                "quest_bar_hero": "quests/1550194203613462641/1567253867702263828.jpg",
+                "quest_bar_hero_video": "quests/1550194203613462641/1567253927592726551_720.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1550194203613462641/1562260466460270592.png",
+                "game_tile_dark": "quests/1550194203613462641/1562260466460270592.png",
+                "logotype_light": "quests/1550194203613462641/1562260472974020702.png",
+                "logotype_dark": "quests/1550194203613462641/1562260472974020702.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Power Up Your Play",
+                "game_title": "The power to be epic on the go",
+                "game_publisher": "Nintendo"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 29,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1550194203613462641/1569785080245911653_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1550194203613462641/1567565413162684526.png"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1550194203613462641/1569785080245911653_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1550194203613462641/1567565413162684526.png"
+                            },
+                            "video_hls": {
+                                "url": "quests/1550194203613462641/1569785080245911653.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1550194203613462641/1567565413162684526.png"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 29,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1550194203613462641/1569785080245911653_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1550194203613462641/1567565413162684526.png"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1550194203613462641/1569785080245911653_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1550194203613462641/1567565413162684526.png"
+                            },
+                            "video_hls": {
+                                "url": "quests/1550194203613462641/1569785080245911653.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1550194203613462641/1567565413162684526.png"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "200 Orbs",
+                            "name_with_article": "200 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 200,
+                        "premium_orb_quantity": 240
+                    }
+                ],
+                "rewards_expire_at": "2027-01-20T01:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://ad.doubleclick.net/ddm/trackclk/N1072492.3866164DISCORD.COM/B36301544.452360517;dc_trk_aid=650892657;dc_trk_cid=264945399;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=1;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1",
+                "button_label": "Learn More",
+                "subtitle": "The power to be epic on the go"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "ad_context": null,
+        "preview": false
+    },
+    {
+        "id": "1554640018063098007",
+        "config": {
+            "id": "1554640018063098007",
+            "config_version": 2,
+            "starts_at": "2026-11-23T17:00:00+00:00",
+            "expires_at": "2026-12-07T07:59:00+00:00",
+            "features": [
+                27,
+                36,
+                15
+            ],
+            "application": {
+                "link": "https://www.violentnightmovie.com",
+                "id": "1556967295803330580",
+                "name": "[Prod] Red Snow"
+            },
+            "assets": {
+                "hero": "quests/1554640018063098007/1572734467792179303.jpg",
+                "quest_bar_hero_blurhash": "EAcOFIIKhXmIhYuLd3YFY5dQOQ==",
+                "quest_bar_hero": "quests/1554640018063098007/1572734360615002325.jpg",
+                "quest_bar_hero_video": "quests/1554640018063098007/1572734381817200701_720.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1554640018063098007/1572733294611796099.png",
+                "game_tile_dark": "quests/1554640018063098007/1572733294611796099.png",
+                "logotype_light": "quests/1554640018063098007/1572733448454545460.png",
+                "logotype_dark": "quests/1554640018063098007/1572733294573916342.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Violent Night 2",
+                "game_title": "In Theaters December 4",
+                "game_publisher": "Universal Pictures"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "ACHIEVEMENT_IN_ACTIVITY": {
+                        "type": "ACHIEVEMENT_IN_ACTIVITY",
+                        "target": 5,
+                        "applications": [
+                            {
+                                "id": "1556967295803330580"
+                            }
+                        ],
+                        "event_name": "progress",
+                        "messages": {
+                            "task_title": "Violent Night 2",
+                            "task_description": "Defend the Mall to win 700 Orbs!"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 Orbs",
+                            "name_with_article": "700 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 700,
+                        "premium_orb_quantity": 840
+                    }
+                ],
+                "rewards_expire_at": "2027-01-06T07:59:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://www.violentnightmovie.com",
+                "button_label": "Get Tickets",
+                "subtitle": "In Theaters December 4"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "ad_context": null,
+        "preview": false
+    },
+    {
+        "id": "1554268840194613358",
+        "config": {
+            "id": "1554268840194613358",
+            "config_version": 2,
+            "starts_at": "2026-11-23T18:00:00+00:00",
+            "expires_at": "2026-12-08T07:59:00+00:00",
+            "features": [
+                27,
+                36,
+                15
+            ],
+            "application": {
+                "link": "https://www.dunemovie.com/tickets/",
+                "id": "1564260265963290634",
+                "name": "[Prod] Sahara"
+            },
+            "assets": {
+                "hero": "quests/1554268840194613358/1573086151861080065.jpg",
+                "quest_bar_hero_blurhash": "nBgOHIR4l3iPd4iIiHaIcIMIRw==",
+                "quest_bar_hero": "quests/1554268840194613358/1573086532074610849.jpg",
+                "quest_bar_hero_video": "quests/1554268840194613358/1573086204277030933_720.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1554268840194613358/1573085965608681623.png",
+                "game_tile_dark": "quests/1554268840194613358/1573085965608681623.png",
+                "logotype_light": "quests/1554268840194613358/1573417543295705138.png",
+                "logotype_dark": "quests/1554268840194613358/1573417543295705138.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Dune: Part Three",
+                "game_title": "Only in Theaters 12.18 Filmed for IMAX",
+                "game_publisher": "Warner Bros. Pictures"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "ACHIEVEMENT_IN_ACTIVITY": {
+                        "type": "ACHIEVEMENT_IN_ACTIVITY",
+                        "target": 5,
+                        "applications": [
+                            {
+                                "id": "1564260265963290634"
+                            }
+                        ],
+                        "event_name": "progress",
+                        "messages": {
+                            "task_title": "Sahara",
+                            "task_description": "Assemble, prime, and pack Thumpers to earn 700 Orbs! "
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 Orbs",
+                            "name_with_article": "700 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 700,
+                        "premium_orb_quantity": 840
+                    }
+                ],
+                "rewards_expire_at": "2027-01-07T07:59:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://www.dunemovie.com/tickets/",
+                "button_label": "Get Tickets",
+                "subtitle": "Only in Theaters 12.18 Filmed for IMAX"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "ad_context": null,
+        "preview": false
+    },
+    {
+        "id": "1550193977830023278",
+        "config": {
+            "id": "1550193977830023278",
+            "config_version": 2,
+            "starts_at": "2026-11-23T18:00:00+00:00",
+            "expires_at": "2026-12-21T01:00:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://ad.doubleclick.net/ddm/trackclk/N1072492.3866164DISCORD.COM/B36301547.451812685;dc_trk_aid=651238009;dc_trk_cid=264226592;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1550193977830023278/1570900914389127299.jpg",
+                "quest_bar_hero_blurhash": "mukKHJB4iTWEeFeAaH6kgF4L5w==",
+                "quest_bar_hero": "quests/1550193977830023278/1570900914389127298.jpg",
+                "quest_bar_hero_video": "quests/1550193977830023278/1570900923591692400.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1550193977830023278/1570900914385059840.png",
+                "game_tile_dark": "quests/1550193977830023278/1570900914385059840.png",
+                "logotype_light": "quests/1550193977830023278/1570900914385059840.png",
+                "logotype_dark": "quests/1550193977830023278/1570900914385059840.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Power Up Your Play",
+                "game_title": "The power to be epic anytime, anywhere.",
+                "game_publisher": "Nintendo"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 29,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1550193977830023278/1570901259181887568_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1550193977830023278/1570901081335136397.png"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1550193977830023278/1570901259181887568_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1550193977830023278/1570901081335136397.png"
+                            },
+                            "video_hls": {
+                                "url": "quests/1550193977830023278/1570901259181887568.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1550193977830023278/1570901081335136397.png"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 29,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1550193977830023278/1570901259181887568_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1550193977830023278/1570901081335136397.png"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1550193977830023278/1570901259181887568_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1550193977830023278/1570901081335136397.png"
+                            },
+                            "video_hls": {
+                                "url": "quests/1550193977830023278/1570901259181887568.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1550193977830023278/1570901081335136397.png"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "200 Orbs",
+                            "name_with_article": "200 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 200,
+                        "premium_orb_quantity": 240
+                    }
+                ],
+                "rewards_expire_at": "2027-01-20T01:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://ad.doubleclick.net/ddm/trackclk/N1072492.3866164DISCORD.COM/B36301547.451812685;dc_trk_aid=651238009;dc_trk_cid=264226592;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1",
+                "button_label": "Learn More",
+                "subtitle": "The power to be epic anytime, anywhere."
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "ad_context": null,
+        "preview": false
+    },
+    {
+        "id": "1570609588468846613",
+        "config": {
+            "id": "1570609588468846613",
+            "config_version": 2,
+            "starts_at": "2026-11-23T18:00:00+00:00",
+            "expires_at": "2026-11-30T01:00:00+00:00",
+            "features": [
+                27,
+                36,
+                15
+            ],
+            "application": {
+                "link": "http://www.primevideo.com/detail/gti/amzn1.dv.gti.67f9dbb8-4667-4040-8fec-3b786be5c60b",
+                "id": "1562778462358470746",
+                "name": "[Prod] Bulero"
+            },
+            "assets": {
+                "hero": "quests/1570609588468846613/1574438152217567464.jpg",
+                "quest_bar_hero_blurhash": "j+cJCoJphmSfl1iH36X3PJk=",
+                "quest_bar_hero": "quests/1570609588468846613/1574438152217567464.jpg",
+                "quest_bar_hero_video": "quests/1570609588468846613/1574438152192401468.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1570609588468846613/1574438152058179655.png",
+                "game_tile_dark": "quests/1570609588468846613/1574438152058179655.png",
+                "logotype_light": "quests/1570609588468846613/1574438152133804173.png",
+                "logotype_dark": "quests/1570609588468846613/1574438152133804173.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Blade Runner 2099",
+                "game_title": "Nieuwe miniserie. Vanaf 25 november 2026, alleen op Prime",
+                "game_publisher": "Amazon Prime Video"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "ACHIEVEMENT_IN_ACTIVITY": {
+                        "type": "ACHIEVEMENT_IN_ACTIVITY",
+                        "target": 5,
+                        "applications": [
+                            {
+                                "id": "1562778462358470746"
+                            }
+                        ],
+                        "event_name": "progress",
+                        "messages": {
+                            "task_title": "Bulero",
+                            "task_description": "Voltooi je indextest-dienst en win 700 Discord-orbs!"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 Orbs",
+                            "name_with_article": "700 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 700,
+                        "premium_orb_quantity": null
+                    }
+                ],
+                "rewards_expire_at": "2026-12-30T01:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "http://www.primevideo.com/detail/gti/amzn1.dv.gti.67f9dbb8-4667-4040-8fec-3b786be5c60b",
+                "button_label": "Watch More",
+                "subtitle": "Nieuwe miniserie. Vanaf 25 november 2026, alleen op Prime"
+            }
+        }
+    },
+    {
+        "id": "1554250694930858026",
+        "config": {
+            "id": "1554250694930858026",
+            "config_version": 2,
+            "starts_at": "2026-11-23T17:00:00+00:00",
+            "expires_at": "2027-01-01T01:00:00+00:00",
+            "features": [
+                27,
+                36,
+                15
+            ],
+            "application": {
+                "link": "https://ad.doubleclick.net/ddm/trackclk/N2998.3866164DISCORD.COM/B34825008.439741304;dc_trk_aid=633152467;dc_trk_cid=268334836;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1",
+                "id": "1561747122129338368",
+                "name": "Fios Fast Flight"
+            },
+            "assets": {
+                "hero": "quests/1554250694930858026/1573009405417357454.jpg",
+                "quest_bar_hero_blurhash": "lHkGFIIHmWeLhHqLmoj3g2oCuQ==",
+                "quest_bar_hero": "quests/1554250694930858026/1573009292712353982.jpg",
+                "quest_bar_hero_video": "quests/1554250694930858026/1573009316187742328_720.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1541854877850796113/1549149905950478406.png",
+                "game_tile_dark": "quests/1541854877850796113/1549149905950478406.png",
+                "logotype_light": "quests/1554250694930858026/1573009918544445630.png",
+                "logotype_dark": "quests/1554250694930858026/1573009918544445630.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Fios Fast Flight",
+                "game_title": "Verizon Fios",
+                "game_publisher": "Verizon"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "ACHIEVEMENT_IN_ACTIVITY": {
+                        "type": "ACHIEVEMENT_IN_ACTIVITY",
+                        "target": 5,
+                        "applications": [
+                            {
+                                "id": "1561747122129338368"
+                            }
+                        ],
+                        "event_name": "progress",
+                        "messages": {
+                            "task_title": "Elves",
+                            "task_description": "Play Verizon’s Fios Fast Flight: The Buffer Buster game and earn 700 orbs"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 Orbs",
+                            "name_with_article": "700 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 700,
+                        "premium_orb_quantity": null
+                    }
+                ],
+                "rewards_expire_at": "2027-01-31T01:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://ad.doubleclick.net/ddm/trackclk/N2998.3866164DISCORD.COM/B34825008.439741304;dc_trk_aid=633152467;dc_trk_cid=268334836;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1",
+                "button_label": "Shop Now",
+                "subtitle": "Score the 100% fiber-optic network"
+            }
+        }
+    },
+    {
+        "id": "1570610949310783580",
+        "config": {
+            "id": "1570610949310783580",
+            "config_version": 2,
+            "starts_at": "2026-11-23T18:00:00+00:00",
+            "expires_at": "2026-11-30T01:00:00+00:00",
+            "features": [
+                27,
+                36,
+                15
+            ],
+            "application": {
+                "link": "http://www.primevideo.com/detail/gti/amzn1.dv.gti.67f9dbb8-4667-4040-8fec-3b786be5c60b",
+                "id": "1562778462358470746",
+                "name": "[Prod] Bulero"
+            },
+            "assets": {
+                "hero": "quests/1570610949310783580/1574436925358481631.jpg",
+                "quest_bar_hero_blurhash": "j+cJCoJphmSfl1iH36X3PJk=",
+                "quest_bar_hero": "quests/1570610949310783580/1574436925358481631.jpg",
+                "quest_bar_hero_video": "quests/1570610949310783580/1574436925161472141.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1570610949310783580/1574436925434241074.png",
+                "game_tile_dark": "quests/1570610949310783580/1574436925434241074.png",
+                "logotype_light": "quests/1570610949310783580/1574436925429780520.png",
+                "logotype_dark": "quests/1570610949310783580/1574436925429780520.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Blade Runner 2099",
+                "game_title": "Nowy miniserial. Premiera 25 listopada 2026 r., tylko w Prime",
+                "game_publisher": "Amazon Prime Video"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "ACHIEVEMENT_IN_ACTIVITY": {
+                        "type": "ACHIEVEMENT_IN_ACTIVITY",
+                        "target": 5,
+                        "applications": [
+                            {
+                                "id": "1562778462358470746"
+                            }
+                        ],
+                        "event_name": "progress",
+                        "messages": {
+                            "task_title": "Bulero",
+                            "task_description": "Ukończ zmianę z testem indeksującym i zdobądź 700 Discord Orbs!"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 Orbs",
+                            "name_with_article": "700 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 700,
+                        "premium_orb_quantity": null
+                    }
+                ],
+                "rewards_expire_at": "2026-12-30T01:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "http://www.primevideo.com/detail/gti/amzn1.dv.gti.67f9dbb8-4667-4040-8fec-3b786be5c60b",
+                "button_label": "Watch More",
+                "subtitle": "Nowy miniserial. Premiera 25 listopada 2026 r., tylko w Prime"
+            }
+        }
+    },
+    {
+        "id": "1569441320681083014",
+        "config": {
+            "id": "1569441320681083014",
+            "config_version": 2,
+            "starts_at": "2026-11-23T17:00:00+00:00",
+            "expires_at": "2026-12-07T07:59:00+00:00",
+            "features": [
+                27,
+                36,
+                15
+            ],
+            "application": {
+                "link": "https://www.universalpictures.co.uk/movies/violent-night-2/",
+                "id": "1556967295803330580",
+                "name": "[Prod] Red Snow"
+            },
+            "assets": {
+                "hero": "quests/1569441320681083014/1574471434825236723.jpg",
+                "quest_bar_hero_blurhash": "EAcOFIIKhXmIhYuLd3YFY5dQOQ==",
+                "quest_bar_hero": "quests/1569441320681083014/1573055096177303645.jpg",
+                "quest_bar_hero_video": "quests/1569441320681083014/1573055132080279775_720.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1569441320681083014/1573055056201392249.jpg",
+                "game_tile_dark": "quests/1569441320681083014/1573055056201392249.jpg",
+                "logotype_light": "quests/1569441320681083014/1573054733554290758.png",
+                "logotype_dark": "quests/1569441320681083014/1573054801426514010.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Violent Night 2",
+                "game_title": "In Cinemas December 4",
+                "game_publisher": "Universal Pictures"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "ACHIEVEMENT_IN_ACTIVITY": {
+                        "type": "ACHIEVEMENT_IN_ACTIVITY",
+                        "target": 5,
+                        "applications": [
+                            {
+                                "id": "1556967295803330580"
+                            }
+                        ],
+                        "event_name": "progress",
+                        "messages": {
+                            "task_title": "Violent Night 2",
+                            "task_description": "Defend the Mall to win 700 Orbs!"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 Orbs",
+                            "name_with_article": "700 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 700,
+                        "premium_orb_quantity": null
+                    }
+                ],
+                "rewards_expire_at": "2027-01-06T07:59:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://www.universalpictures.co.uk/movies/violent-night-2/",
+                "button_label": "Learn More",
+                "subtitle": "In Cinemas December 4"
+            }
+        }
+    },
+    {
+        "id": "1570610405070348419",
+        "config": {
+            "id": "1570610405070348419",
+            "config_version": 2,
+            "starts_at": "2026-11-23T18:00:00+00:00",
+            "expires_at": "2026-11-30T01:00:00+00:00",
+            "features": [
+                27,
+                36,
+                15
+            ],
+            "application": {
+                "link": "http://www.primevideo.com/detail/gti/amzn1.dv.gti.67f9dbb8-4667-4040-8fec-3b786be5c60b",
+                "id": "1562778462358470746",
+                "name": "[Prod] Bulero"
+            },
+            "assets": {
+                "hero": "quests/1570610405070348419/1574437561521148054.jpg",
+                "quest_bar_hero_blurhash": "j+cJCoJphmSfl1iH36X3PJk=",
+                "quest_bar_hero": "quests/1570610405070348419/1574437561521148054.jpg",
+                "quest_bar_hero_video": "quests/1570610405070348419/1574437561756155964.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1570610405070348419/1574437561458499604.png",
+                "game_tile_dark": "quests/1570610405070348419/1574437561458499604.png",
+                "logotype_light": "quests/1570610405070348419/1574437561357828228.png",
+                "logotype_dark": "quests/1570610405070348419/1574437561357828228.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Blade Runner 2099",
+                "game_title": "Ny miniserie. Premiär 25 november 2026, endast på Prime.",
+                "game_publisher": "Amazon Prime Video"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "ACHIEVEMENT_IN_ACTIVITY": {
+                        "type": "ACHIEVEMENT_IN_ACTIVITY",
+                        "target": 5,
+                        "applications": [
+                            {
+                                "id": "1562778462358470746"
+                            }
+                        ],
+                        "event_name": "progress",
+                        "messages": {
+                            "task_title": "Bulero",
+                            "task_description": "Genomför ditt indextest-skift och vinn 700 Discord Orbs!"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 Orbs",
+                            "name_with_article": "700 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 700,
+                        "premium_orb_quantity": null
+                    }
+                ],
+                "rewards_expire_at": "2026-12-30T01:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "http://www.primevideo.com/detail/gti/amzn1.dv.gti.67f9dbb8-4667-4040-8fec-3b786be5c60b",
+                "button_label": "Watch More",
+                "subtitle": "Ny miniserie. Premiär 25 november 2026, endast på Prime."
+            }
+        }
+    },
+    {
+        "id": "1567608233445695689",
+        "config": {
+            "id": "1567608233445695689",
+            "config_version": 2,
+            "starts_at": "2026-11-23T17:00:00+00:00",
+            "expires_at": "2026-12-07T07:59:00+00:00",
+            "features": [
+                27,
+                36,
+                15
+            ],
+            "application": {
+                "link": "https://www.violentnightmovie.ca/",
+                "id": "1556967295803330580",
+                "name": "[Prod] Red Snow"
+            },
+            "assets": {
+                "hero": "quests/1567608233445695689/1572737163458650203.jpg",
+                "quest_bar_hero_blurhash": "EAcOFIIKhXmIhYuLd3YFY5dQOQ==",
+                "quest_bar_hero": "quests/1567608233445695689/1572736826467295263.jpg",
+                "quest_bar_hero_video": "quests/1567608233445695689/1572737091123806369_720.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1567608233445695689/1572736826802839723.png",
+                "game_tile_dark": "quests/1567608233445695689/1572736826802839723.png",
+                "logotype_light": "quests/1567608233445695689/1572737044524965888.png",
+                "logotype_dark": "quests/1567608233445695689/1572736826291130570.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Violent Night 2",
+                "game_title": "In Theatres December 4",
+                "game_publisher": "Universal Pictures"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "ACHIEVEMENT_IN_ACTIVITY": {
+                        "type": "ACHIEVEMENT_IN_ACTIVITY",
+                        "target": 5,
+                        "applications": [
+                            {
+                                "id": "1556967295803330580"
+                            }
+                        ],
+                        "event_name": "progress",
+                        "messages": {
+                            "task_title": "Violent Night 2",
+                            "task_description": "Defend the Mall to win 700 Orbs!"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 Orbs",
+                            "name_with_article": "700 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 700,
+                        "premium_orb_quantity": null
+                    }
+                ],
+                "rewards_expire_at": "2027-01-06T07:59:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://www.violentnightmovie.ca/",
+                "button_label": "Get Tickets",
+                "subtitle": "In Theatres December 4"
+            }
+        }
     }
 ]
