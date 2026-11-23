@@ -1182,5 +1182,107 @@
             }
         },
         "priority": 3
+    },
+    {
+        "id": "1565818160895238204",
+        "marketing_components": [
+            {
+                "id": "1573056495052918865",
+                "promotion_id": "1565818160895238204",
+                "premium_offer_type": 0,
+                "premium_type": null,
+                "premium_source": null,
+                "premium_subscription_type": null,
+                "component_type": 5,
+                "theme": 0,
+                "experiment_id": null,
+                "experiment_variation_id": null,
+                "ready": true,
+                "properties": {
+                    "giftIcon": {
+                        "trinketAnimationUrl": "https://cdn.discordapp.com/promotions/premium-marketing/1571939033238601739/1571967199491662028.png",
+                        "gradient": {
+                            "colors": [
+                                "rgba(75,5,197,0)",
+                                "rgb(75,5,197)"
+                            ],
+                            "angle": 180
+                        }
+                    }
+                },
+                "start_date": null,
+                "end_date": null
+            },
+            {
+                "id": "1572016452867727450",
+                "promotion_id": "1565818160895238204",
+                "premium_offer_type": 0,
+                "premium_type": null,
+                "premium_source": null,
+                "premium_subscription_type": null,
+                "component_type": 8,
+                "theme": 0,
+                "experiment_id": null,
+                "experiment_variation_id": null,
+                "ready": true,
+                "properties": {
+                    "giftCustomizationBanner": {
+                        "asset": {
+                            "lightUrl": "https://cdn.discordapp.com/promotions/premium-marketing/1572016412837421159/1572016432588394527.png",
+                            "darkUrl": "https://cdn.discordapp.com/promotions/premium-marketing/1572016412837421159/1572016432588394527.png",
+                            "lightStaticUrl": "https://cdn.discordapp.com/promotions/premium-marketing/1572016412837421159/1572016432588394527.png",
+                            "darkStaticUrl": "https://cdn.discordapp.com/promotions/premium-marketing/1572016412837421159/1572016432588394527.png"
+                        },
+                        "desktopBodyLocalized": {},
+                        "mobileBodyLocalized": {}
+                    }
+                },
+                "start_date": null,
+                "end_date": null
+            },
+            {
+                "id": "1572016542013460640",
+                "promotion_id": "1565818160895238204",
+                "premium_offer_type": 0,
+                "premium_type": null,
+                "premium_source": null,
+                "premium_subscription_type": null,
+                "component_type": 7,
+                "theme": 0,
+                "experiment_id": null,
+                "experiment_variation_id": null,
+                "ready": true,
+                "properties": {
+                    "giftPlanSelectionCardBanner": {
+                        "avatarAsset": {
+                            "lightUrl": "https://cdn.discordapp.com/promotions/premium-marketing/1572016482622242949/1572016526528094399.png",
+                            "darkUrl": "https://cdn.discordapp.com/promotions/premium-marketing/1572016482622242949/1572016526528094399.png",
+                            "lightStaticUrl": "https://cdn.discordapp.com/promotions/premium-marketing/1572016482622242949/1572016526528094399.png",
+                            "darkStaticUrl": "https://cdn.discordapp.com/promotions/premium-marketing/1572016482622242949/1572016526528094399.png"
+                        },
+                        "headerLocalized": {},
+                        "desktopBodyLocalized": {},
+                        "mobileBodyLocalized": {}
+                    }
+                },
+                "start_date": null,
+                "end_date": null
+            }
+        ],
+        "start_date": "2026-11-02T18:00:00+00:00",
+        "end_date": "2026-12-01T07:59:00+00:00",
+        "flags": 513,
+        "country_list_mode": "blocklist",
+        "promotion_type": 6,
+        "metadata": {
+            "premium_promotion": {
+                "reward_sku_ids": [
+                    "1572014001158754395",
+                    "1572012306248900639"
+                ],
+                "reward_config": null
+            }
+        },
+        "priority": 1
     }
 ]
