@@ -147558,5 +147558,834 @@
                 "subtitle": "In Theatres December 4"
             }
         }
+    },
+    {
+        "id": "1552776617640722593",
+        "config": {
+            "id": "1552776617640722593",
+            "config_version": 2,
+            "starts_at": "2026-11-24T17:45:00+00:00",
+            "expires_at": "2026-12-08T07:59:00+00:00",
+            "features": [
+                27,
+                36,
+                15
+            ],
+            "application": {
+                "link": "https://www.focusfeatures.com/werwulf",
+                "id": "1550095387505860719",
+                "name": "[Prod] Full-moon"
+            },
+            "assets": {
+                "hero": "quests/1552776617640722593/1574496991793127434.jpg",
+                "quest_bar_hero_blurhash": "TucJFIJIVneAiYl6hoiXf3X5SA==",
+                "quest_bar_hero": "quests/1552776617640722593/1574496991403311134.jpg",
+                "quest_bar_hero_video": "quests/1552776617640722593/1574497609610035290_720.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1552776617640722593/1574496974885888121.png",
+                "game_tile_dark": "quests/1552776617640722593/1574496974885888121.png",
+                "logotype_light": "quests/1552776617640722593/1574497546427044020.png",
+                "logotype_dark": "quests/1552776617640722593/1574496991310909440.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Werwulf",
+                "game_title": "In Theaters December 25",
+                "game_publisher": "Focus Features"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "ACHIEVEMENT_IN_ACTIVITY": {
+                        "type": "ACHIEVEMENT_IN_ACTIVITY",
+                        "target": 5,
+                        "applications": [
+                            {
+                                "id": "1550095387505860719"
+                            }
+                        ],
+                        "event_name": "progress",
+                        "messages": {
+                            "task_title": "[Prod] Full-moon",
+                            "task_description": "Find evidence of the Werwulf to earn 700 Discord Orbs!"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 Orbs",
+                            "name_with_article": "700 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 700,
+                        "premium_orb_quantity": 840
+                    }
+                ],
+                "rewards_expire_at": "2027-01-07T07:59:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://www.focusfeatures.com/werwulf",
+                "button_label": "Get Tickets",
+                "subtitle": "In Theaters December 25"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "ad_context": null,
+        "preview": false
+    },
+    {
+        "id": "1572257914884985003",
+        "config": {
+            "id": "1572257914884985003",
+            "config_version": 2,
+            "starts_at": "2026-11-24T18:00:00+00:00",
+            "expires_at": "2026-12-08T01:00:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://store.steampowered.com/app/3734220/Guns_of_Eschaton/?utm_source=discord&utm_medium=quest&utm_campaign=goe_video_quest_coop_nov26&utm_content=video",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1572257914884985003/1574361565006794782.jpg",
+                "hero_video": "quests/1572257914884985003/1574731834938359900_720.mp4",
+                "quest_bar_hero_blurhash": "0CgKFIIJiYeJh4dyiXcMiPFyCA==",
+                "quest_bar_hero": "quests/1572257914884985003/1574361476922212522.jpg",
+                "quest_bar_hero_video": "quests/1572257914884985003/1574731834938359900_720.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1572257914884985003/1574361073522311208.png",
+                "game_tile_dark": "quests/1572257914884985003/1574361073522311208.png",
+                "logotype_light": "quests/1572257914884985003/1574361346345275392.png",
+                "logotype_dark": "quests/1572257914884985003/1574361345778909244.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Gun Of Eschaton",
+                "game_title": "Gun Of Eschaton",
+                "game_publisher": "4Divinity"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 71,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1572257914884985003/1574734769848066140_1080.mp4",
+                                "width": 3840,
+                                "height": 2160,
+                                "thumbnail": "quests/1572257914884985003/1574737143442448544.png"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1572257914884985003/1574734769848066140_720.mp4",
+                                "width": 3840,
+                                "height": 2160,
+                                "thumbnail": "quests/1572257914884985003/1574737143442448544.png"
+                            },
+                            "video_hls": {
+                                "url": "quests/1572257914884985003/1574734769848066140.m3u8",
+                                "width": 3840,
+                                "height": 2160,
+                                "thumbnail": "quests/1572257914884985003/1574737143442448544.png"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 71,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1572257914884985003/1574734769848066140_1080.mp4",
+                                "width": 3840,
+                                "height": 2160,
+                                "thumbnail": "quests/1572257914884985003/1574737143442448544.png"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1572257914884985003/1574734769848066140_720.mp4",
+                                "width": 3840,
+                                "height": 2160,
+                                "thumbnail": "quests/1572257914884985003/1574737143442448544.png"
+                            },
+                            "video_hls": {
+                                "url": "quests/1572257914884985003/1574734769848066140.m3u8",
+                                "width": 3840,
+                                "height": 2160,
+                                "thumbnail": "quests/1572257914884985003/1574737143442448544.png"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "200 Orbs",
+                            "name_with_article": "200 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 200,
+                        "premium_orb_quantity": 240
+                    }
+                ],
+                "rewards_expire_at": "2027-01-07T01:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://store.steampowered.com/app/3734220/Guns_of_Eschaton/?utm_source=discord&utm_medium=quest&utm_campaign=goe_video_quest_coop_nov26&utm_content=video",
+                "button_label": "Learn More"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "ad_context": null,
+        "preview": false
+    },
+    {
+        "id": "1554214770670829588",
+        "config": {
+            "id": "1554214770670829588",
+            "config_version": 2,
+            "starts_at": "2026-11-24T17:45:00+00:00",
+            "expires_at": "2026-12-08T07:59:00+00:00",
+            "features": [
+                27,
+                36,
+                15
+            ],
+            "application": {
+                "link": "https://www.universalpictures.de/micro/werwulf",
+                "id": "1550095387505860719",
+                "name": "[Prod] Full-moon"
+            },
+            "assets": {
+                "hero": "quests/1554214770670829588/1574498574346100877.jpg",
+                "quest_bar_hero_blurhash": "TucJFIJIVneAiYl6hoiXf3X5SA==",
+                "quest_bar_hero": "quests/1554214770670829588/1574498543534866502.jpg",
+                "quest_bar_hero_video": "quests/1554214770670829588/1574498960486170624_720.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1554214770670829588/1574498543610363964.png",
+                "game_tile_dark": "quests/1554214770670829588/1574498543610363964.png",
+                "logotype_light": "quests/1554214770670829588/1574498572685025380.png",
+                "logotype_dark": "quests/1554214770670829588/1574498572655796284.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "WERWULF",
+                "game_title": "Ab 7. Januar nur im Kino!",
+                "game_publisher": "Focus Features"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "ACHIEVEMENT_IN_ACTIVITY": {
+                        "type": "ACHIEVEMENT_IN_ACTIVITY",
+                        "target": 5,
+                        "applications": [
+                            {
+                                "id": "1550095387505860719"
+                            }
+                        ],
+                        "event_name": "progress",
+                        "messages": {
+                            "task_title": "[Prod] Full-moon",
+                            "task_description": "Finde Beweise für den Werwulf und sichere dir 700 Discord Orbs!"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 Orbs",
+                            "name_with_article": "700 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 700,
+                        "premium_orb_quantity": null
+                    }
+                ],
+                "rewards_expire_at": "2027-01-07T07:59:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://www.universalpictures.de/micro/werwulf",
+                "button_label": "Learn More",
+                "subtitle": "Ab 7. Januar nur im Kino!"
+            }
+        }
+    },
+    {
+        "id": "1554262075298160671",
+        "config": {
+            "id": "1554262075298160671",
+            "config_version": 2,
+            "starts_at": "2026-11-24T17:45:00+00:00",
+            "expires_at": "2026-12-08T07:59:00+00:00",
+            "features": [
+                27,
+                36,
+                15
+            ],
+            "application": {
+                "link": "https://www.universalpictures.it/micro/werwulf#iframe1",
+                "id": "1550095387505860719",
+                "name": "[Prod] Full-moon"
+            },
+            "assets": {
+                "hero": "quests/1554262075298160671/1574500834434220134.jpg",
+                "quest_bar_hero_blurhash": "TucJFIJIVneAiYl6hoiXf3X5SA==",
+                "quest_bar_hero": "quests/1554262075298160671/1574500469924175922.jpg",
+                "quest_bar_hero_video": "quests/1554262075298160671/1574501062641979493_720.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1554262075298160671/1574500469940813864.png",
+                "game_tile_dark": "quests/1554262075298160671/1574500469940813864.png",
+                "logotype_light": "quests/1554262075298160671/1574500835138736200.png",
+                "logotype_dark": "quests/1554262075298160671/1574500835256438824.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Werwulf",
+                "game_title": "Dal 1° gennaio al cinema.",
+                "game_publisher": "Focus Features"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "ACHIEVEMENT_IN_ACTIVITY": {
+                        "type": "ACHIEVEMENT_IN_ACTIVITY",
+                        "target": 5,
+                        "applications": [
+                            {
+                                "id": "1550095387505860719"
+                            }
+                        ],
+                        "event_name": "progress",
+                        "messages": {
+                            "task_title": "[Prod] Full-moon",
+                            "task_description": "Trova le prove di Werwulf per vincere 700 Discord Orbs!"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 Orbs",
+                            "name_with_article": "700 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 700,
+                        "premium_orb_quantity": null
+                    }
+                ],
+                "rewards_expire_at": "2027-01-07T07:59:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://www.universalpictures.it/micro/werwulf#iframe1",
+                "button_label": "Watch More",
+                "subtitle": "Dal 1° gennaio al cinema."
+            }
+        }
+    },
+    {
+        "id": "1554219417762664488",
+        "config": {
+            "id": "1554219417762664488",
+            "config_version": 2,
+            "starts_at": "2026-11-24T17:45:00+00:00",
+            "expires_at": "2026-12-08T07:59:00+00:00",
+            "features": [
+                27,
+                36,
+                15
+            ],
+            "application": {
+                "link": "https://www.universalpictures.es/micro/licantropo#iframe1",
+                "id": "1550095387505860719",
+                "name": "[Prod] Full-moon"
+            },
+            "assets": {
+                "hero": "quests/1554219417762664488/1574499187222118471.jpg",
+                "quest_bar_hero_blurhash": "TucJFIJIVneAiYl6hoiXf3X5SA==",
+                "quest_bar_hero": "quests/1554219417762664488/1574499142493937674.jpg",
+                "quest_bar_hero_video": "quests/1554219417762664488/1574499250635800736_720.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1554219417762664488/1574499142582145114.png",
+                "game_tile_dark": "quests/1554219417762664488/1574499142582145114.png",
+                "logotype_light": "quests/1554219417762664488/1574499187209277540.png",
+                "logotype_dark": "quests/1554219417762664488/1574499187662528655.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Licántropo",
+                "game_title": "¡6 de enero exclusivamente en cines!",
+                "game_publisher": "Universal Pictures"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "ACHIEVEMENT_IN_ACTIVITY": {
+                        "type": "ACHIEVEMENT_IN_ACTIVITY",
+                        "target": 5,
+                        "applications": [
+                            {
+                                "id": "1550095387505860719"
+                            }
+                        ],
+                        "event_name": "progress",
+                        "messages": {
+                            "task_title": "[Prod] Full-moon",
+                            "task_description": "¡Encuentra pruebas de que el licántropo existe y gana 700 Discord Orbs!"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 Orbs",
+                            "name_with_article": "700 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 700,
+                        "premium_orb_quantity": null
+                    }
+                ],
+                "rewards_expire_at": "2027-01-07T07:59:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://www.universalpictures.es/micro/licantropo#iframe1",
+                "button_label": "Learn More",
+                "subtitle": "¡6 de enero exclusivamente en cines!"
+            }
+        }
+    },
+    {
+        "id": "1557482279519920238",
+        "config": {
+            "id": "1557482279519920238",
+            "config_version": 2,
+            "starts_at": "2026-11-24T17:45:00+00:00",
+            "expires_at": "2026-12-08T07:59:00+00:00",
+            "features": [
+                27,
+                36,
+                15
+            ],
+            "application": {
+                "link": "https://www.universalpictures.fr/micro/werwulf#iframe1",
+                "id": "1550095387505860719",
+                "name": "[Prod] Full-moon"
+            },
+            "assets": {
+                "hero": "quests/1557482279519920238/1574501361561636935.jpg",
+                "quest_bar_hero_blurhash": "TucJFIJIVneAiYl6hoiXf3X5SA==",
+                "quest_bar_hero": "quests/1557482279519920238/1574501361226223666.jpg",
+                "quest_bar_hero_video": "quests/1557482279519920238/1574501424929439784_720.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1557482279519920238/1574501361238671483.png",
+                "game_tile_dark": "quests/1557482279519920238/1574501361238671483.png",
+                "logotype_light": "quests/1557482279519920238/1574501361221898362.png",
+                "logotype_dark": "quests/1557482279519920238/1574501361259774282.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "WERWULF : LA BÊTE MAUDITE",
+                "game_title": "Le 6 janvier au cinéma.",
+                "game_publisher": "Focus Features"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "ACHIEVEMENT_IN_ACTIVITY": {
+                        "type": "ACHIEVEMENT_IN_ACTIVITY",
+                        "target": 5,
+                        "applications": [
+                            {
+                                "id": "1550095387505860719"
+                            }
+                        ],
+                        "event_name": "progress",
+                        "messages": {
+                            "task_title": "[Prod] Full-moon",
+                            "task_description": "Trouvez des preuves de son existence pour gagner 700 Discord orbs !"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 Orbs",
+                            "name_with_article": "700 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 700,
+                        "premium_orb_quantity": null
+                    }
+                ],
+                "rewards_expire_at": "2027-01-07T07:59:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://www.universalpictures.fr/micro/werwulf#iframe1",
+                "button_label": "Learn More",
+                "subtitle": "Le 6 janvier au cinéma."
+            }
+        }
+    },
+    {
+        "id": "1554259671248797826",
+        "config": {
+            "id": "1554259671248797826",
+            "config_version": 2,
+            "starts_at": "2026-11-24T17:45:00+00:00",
+            "expires_at": "2026-12-08T07:59:00+00:00",
+            "features": [
+                27,
+                36,
+                15
+            ],
+            "application": {
+                "link": "https://www.universalpictures.com.mx/micro/werwulf#iframe1",
+                "id": "1550095387505860719",
+                "name": "[Prod] Full-moon"
+            },
+            "assets": {
+                "hero": "quests/1554259671248797826/1574499557948002344.jpg",
+                "quest_bar_hero_blurhash": "TucJFIJIVneAiYl6hoiXf3X5SA==",
+                "quest_bar_hero": "quests/1554259671248797826/1574499557889548288.jpg",
+                "quest_bar_hero_video": "quests/1554259671248797826/1574499619822502079_720.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1554259671248797826/1574499557973303458.png",
+                "game_tile_dark": "quests/1554259671248797826/1574499557973303458.png",
+                "logotype_light": "quests/1554259671248797826/1574499558287867945.png",
+                "logotype_dark": "quests/1554259671248797826/1574499558078152796.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "WERWULF",
+                "game_title": "Solo en cines 31 de diciembre.",
+                "game_publisher": "Focus Features"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "ACHIEVEMENT_IN_ACTIVITY": {
+                        "type": "ACHIEVEMENT_IN_ACTIVITY",
+                        "target": 5,
+                        "applications": [
+                            {
+                                "id": "1550095387505860719"
+                            }
+                        ],
+                        "event_name": "progress",
+                        "messages": {
+                            "task_title": "[Prod] Full-moon",
+                            "task_description": "Encuentra pruebas de que el hombre lobo existe para ganar 700 Discord Orbs!"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 Orbs",
+                            "name_with_article": "700 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 700,
+                        "premium_orb_quantity": null
+                    }
+                ],
+                "rewards_expire_at": "2027-01-07T07:59:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://www.universalpictures.com.mx/micro/werwulf#iframe1",
+                "button_label": "Learn More",
+                "subtitle": "Solo en cines 31 de diciembre."
+            }
+        }
+    },
+    {
+        "id": "1572830707561275532",
+        "config": {
+            "id": "1572830707561275532",
+            "config_version": 2,
+            "starts_at": "2026-11-24T17:45:00+00:00",
+            "expires_at": "2026-12-08T07:59:00+00:00",
+            "features": [
+                27,
+                36,
+                15
+            ],
+            "application": {
+                "link": "https://www.werwulfmovie.ca/",
+                "id": "1550095387505860719",
+                "name": "[Prod] Full-moon"
+            },
+            "assets": {
+                "hero": "quests/1572830707561275532/1574493905108475936.jpg",
+                "quest_bar_hero_blurhash": "TucJFIJIVneAiYl6hoiXf3X5SA==",
+                "quest_bar_hero": "quests/1572830707561275532/1574502109272084540.jpg",
+                "quest_bar_hero_video": "quests/1572830707561275532/1574502128871800852_720.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1572830707561275532/1574493878734819438.png",
+                "game_tile_dark": "quests/1572830707561275532/1574493878734819438.png",
+                "logotype_light": "quests/1572830707561275532/1574502033719951450.png",
+                "logotype_dark": "quests/1572830707561275532/1574493905431433287.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Werwulf",
+                "game_title": "In Theatres December 25",
+                "game_publisher": "Focus Features"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "ACHIEVEMENT_IN_ACTIVITY": {
+                        "type": "ACHIEVEMENT_IN_ACTIVITY",
+                        "target": 5,
+                        "applications": [
+                            {
+                                "id": "1550095387505860719"
+                            }
+                        ],
+                        "event_name": "progress",
+                        "messages": {
+                            "task_title": "[Prod] Full-moon",
+                            "task_description": "Find evidence of the Werwulf to earn 700 Discord Orbs!"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 Orbs",
+                            "name_with_article": "700 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 700,
+                        "premium_orb_quantity": null
+                    }
+                ],
+                "rewards_expire_at": "2027-01-07T07:59:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://www.werwulfmovie.ca/",
+                "button_label": "Get Tickets",
+                "subtitle": "In Theatres December 25"
+            }
+        }
+    },
+    {
+        "id": "1554210488559075468",
+        "config": {
+            "id": "1554210488559075468",
+            "config_version": 2,
+            "starts_at": "2026-11-24T17:45:00+00:00",
+            "expires_at": "2026-12-08T07:59:00+00:00",
+            "features": [
+                27,
+                36,
+                15
+            ],
+            "application": {
+                "link": "https://www.focusfeaturesfilms.co.uk/films/werwulf/",
+                "id": "1550095387505860719",
+                "name": "[Prod] Full-moon"
+            },
+            "assets": {
+                "hero": "quests/1554210488559075468/1574498121394946220.jpg",
+                "quest_bar_hero_blurhash": "TucJFIJIVneAiYl6hoiXf3X5SA==",
+                "quest_bar_hero": "quests/1554210488559075468/1574498143549132810.jpg",
+                "quest_bar_hero_video": "quests/1554210488559075468/1574498221303140473_720.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1554210488559075468/1574498143309930666.png",
+                "game_tile_dark": "quests/1554210488559075468/1574498143309930666.png",
+                "logotype_light": "quests/1554210488559075468/1574498121256538122.png",
+                "logotype_dark": "quests/1554210488559075468/1574498121445277716.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Werwulf",
+                "game_title": "In Cinemas January 1",
+                "game_publisher": "Focus Features"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "ACHIEVEMENT_IN_ACTIVITY": {
+                        "type": "ACHIEVEMENT_IN_ACTIVITY",
+                        "target": 5,
+                        "applications": [
+                            {
+                                "id": "1550095387505860719"
+                            }
+                        ],
+                        "event_name": "progress",
+                        "messages": {
+                            "task_title": "[Prod] Full-moon",
+                            "task_description": "Find evidence of the Werwulf to earn 700 Discord Orbs!"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 Orbs",
+                            "name_with_article": "700 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 700,
+                        "premium_orb_quantity": null
+                    }
+                ],
+                "rewards_expire_at": "2027-01-07T07:59:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://www.focusfeaturesfilms.co.uk/films/werwulf/",
+                "button_label": "Learn More",
+                "subtitle": "In Cinemas January 1"
+            }
+        }
     }
 ]
