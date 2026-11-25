@@ -140307,7 +140307,7 @@
             "id": "1567667084823896205",
             "config_version": 2,
             "starts_at": "2026-11-09T19:00:00+00:00",
-            "expires_at": "2026-12-01T07:59:00+00:00",
+            "expires_at": "2026-11-30T07:59:00+00:00",
             "features": [
                 44,
                 15
@@ -140318,10 +140318,9 @@
                 "name": "Discord"
             },
             "assets": {
-                "hero": "quests/1567667084823896205/1567669680771170374.jpg",
-                "quest_bar_hero_blurhash": "U9UJMoYwlod5d4iH801lv2U=",
-                "quest_bar_hero": "quests/1567667084823896205/1567669680771170374.jpg",
-                "quest_bar_hero_video": "quests/1567667084823896205/1567672453705109564.mp4",
+                "hero": "quests/1567667084823896205/1574973917750108170.jpg",
+                "quest_bar_hero_blurhash": "WXoGHIL2x5c3ipeoiob3Kdb7UQ==",
+                "quest_bar_hero": "quests/1567667084823896205/1574973917750108170.jpg",
                 "game_tile": "PLACEHOLDER",
                 "logotype": "PLACEHOLDER",
                 "game_tile_light": "quests/1547370886645026876/1547372640371613696.png",
@@ -140334,33 +140333,33 @@
                 "secondary": "#000000"
             },
             "messages": {
-                "quest_name": "FanDuel Everywhere",
-                "game_title": "FanDuel Everywhere",
+                "quest_name": "FanDuelsGiving",
+                "game_title": "FanDuelsGiving",
                 "game_publisher": "FanDuel"
             },
             "task_config_v2": {
                 "tasks": {
                     "WATCH_VIDEO": {
                         "type": "WATCH_VIDEO",
-                        "target": 17,
+                        "target": 42,
                         "assets": {
                             "video": {
-                                "url": "quests/1567667084823896205/1567669987945087057_1080.mp4",
+                                "url": "quests/1567667084823896205/1574951237982355526_1080.mp4",
                                 "width": 1920,
                                 "height": 1080,
-                                "thumbnail": "quests/1547370886645026876/1547372361232285696.jpg"
+                                "thumbnail": "quests/1567667084823896205/1574973917750108170.jpg"
                             },
                             "video_low_res": {
-                                "url": "quests/1567667084823896205/1567669987945087057_720.mp4",
+                                "url": "quests/1567667084823896205/1574951237982355526_720.mp4",
                                 "width": 1920,
                                 "height": 1080,
-                                "thumbnail": "quests/1547370886645026876/1547372361232285696.jpg"
+                                "thumbnail": "quests/1567667084823896205/1574973917750108170.jpg"
                             },
                             "video_hls": {
-                                "url": "quests/1567667084823896205/1567669987945087057.m3u8",
+                                "url": "quests/1567667084823896205/1574951237982355526.m3u8",
                                 "width": 1920,
                                 "height": 1080,
-                                "thumbnail": "quests/1547370886645026876/1547372361232285696.jpg"
+                                "thumbnail": "quests/1567667084823896205/1574973917750108170.jpg"
                             }
                         },
                         "messages": {
@@ -140369,25 +140368,25 @@
                     },
                     "WATCH_VIDEO_ON_MOBILE": {
                         "type": "WATCH_VIDEO_ON_MOBILE",
-                        "target": 17,
+                        "target": 42,
                         "assets": {
                             "video": {
-                                "url": "quests/1567667084823896205/1567669987936698559_1080.mp4",
+                                "url": "quests/1567667084823896205/1574971930811826176_1080.mp4",
                                 "width": 1080,
                                 "height": 1920,
-                                "thumbnail": "quests/1547370886645026876/1547372361232285696.jpg"
+                                "thumbnail": "quests/1567667084823896205/1574973917750108170.jpg"
                             },
                             "video_low_res": {
-                                "url": "quests/1567667084823896205/1567669987936698559_720.mp4",
+                                "url": "quests/1567667084823896205/1574971930811826176_720.mp4",
                                 "width": 1080,
                                 "height": 1920,
-                                "thumbnail": "quests/1547370886645026876/1547372361232285696.jpg"
+                                "thumbnail": "quests/1567667084823896205/1574973917750108170.jpg"
                             },
                             "video_hls": {
-                                "url": "quests/1567667084823896205/1567669987936698559.m3u8",
+                                "url": "quests/1567667084823896205/1574971930811826176.m3u8",
                                 "width": 1080,
                                 "height": 1920,
-                                "thumbnail": "quests/1547370886645026876/1547372361232285696.jpg"
+                                "thumbnail": "quests/1567667084823896205/1574973917750108170.jpg"
                             }
                         },
                         "messages": {
@@ -140414,7 +140413,7 @@
                         "premium_orb_quantity": null
                     }
                 ],
-                "rewards_expire_at": "2026-12-31T07:59:00+00:00",
+                "rewards_expire_at": "2026-12-30T07:59:00+00:00",
                 "platforms": [
                     0
                 ]
@@ -140685,7 +140684,7 @@
             "id": "1567671337126858953",
             "config_version": 2,
             "starts_at": "2026-11-09T19:00:00+00:00",
-            "expires_at": "2026-12-01T07:59:00+00:00",
+            "expires_at": "2026-11-30T07:59:00+00:00",
             "features": [
                 44,
                 15
@@ -140696,10 +140695,9 @@
                 "name": "Discord"
             },
             "assets": {
-                "hero": "quests/1567671337126858953/1567671827772350595.jpg",
-                "quest_bar_hero_blurhash": "U9UJMoYwlod5d4iH801lv2U=",
-                "quest_bar_hero": "quests/1567671337126858953/1567671827772350595.jpg",
-                "quest_bar_hero_video": "quests/1567671337126858953/1567672596198203475.mp4",
+                "hero": "quests/1567671337126858953/1574974502117572700.jpg",
+                "quest_bar_hero_blurhash": "WXoGHIL2x5c3ipeoiob3Kdb7UQ==",
+                "quest_bar_hero": "quests/1567671337126858953/1574974502117572700.jpg",
                 "game_tile": "PLACEHOLDER",
                 "logotype": "PLACEHOLDER",
                 "game_tile_light": "quests/1547370886645026876/1547372640371613696.png",
@@ -140712,33 +140710,33 @@
                 "secondary": "#000000"
             },
             "messages": {
-                "quest_name": "FanDuel Everywhere",
-                "game_title": "FanDuel Everywhere",
+                "quest_name": "FanDuelsGiving",
+                "game_title": "FanDuelsGiving",
                 "game_publisher": "FanDuel"
             },
             "task_config_v2": {
                 "tasks": {
                     "WATCH_VIDEO": {
                         "type": "WATCH_VIDEO",
-                        "target": 17,
+                        "target": 42,
                         "assets": {
                             "video": {
-                                "url": "quests/1567671337126858953/1567671921448063116_1080.mp4",
+                                "url": "quests/1567671337126858953/1574951181409587310_1080.mp4",
                                 "width": 1920,
                                 "height": 1080,
-                                "thumbnail": "quests/1547370886645026876/1547372361232285696.jpg"
+                                "thumbnail": "quests/1567671337126858953/1574974502117572700.jpg"
                             },
                             "video_low_res": {
-                                "url": "quests/1567671337126858953/1567671921448063116_720.mp4",
+                                "url": "quests/1567671337126858953/1574951181409587310_720.mp4",
                                 "width": 1920,
                                 "height": 1080,
-                                "thumbnail": "quests/1547370886645026876/1547372361232285696.jpg"
+                                "thumbnail": "quests/1567671337126858953/1574974502117572700.jpg"
                             },
                             "video_hls": {
-                                "url": "quests/1567671337126858953/1567671921448063116.m3u8",
+                                "url": "quests/1567671337126858953/1574951181409587310.m3u8",
                                 "width": 1920,
                                 "height": 1080,
-                                "thumbnail": "quests/1547370886645026876/1547372361232285696.jpg"
+                                "thumbnail": "quests/1567671337126858953/1574974502117572700.jpg"
                             }
                         },
                         "messages": {
@@ -140747,25 +140745,25 @@
                     },
                     "WATCH_VIDEO_ON_MOBILE": {
                         "type": "WATCH_VIDEO_ON_MOBILE",
-                        "target": 17,
+                        "target": 42,
                         "assets": {
                             "video": {
-                                "url": "quests/1567671337126858953/1567671921523560478_1080.mp4",
+                                "url": "quests/1567671337126858953/1574971725542596629_1080.mp4",
                                 "width": 1080,
                                 "height": 1920,
-                                "thumbnail": "quests/1547370886645026876/1547372361232285696.jpg"
+                                "thumbnail": "quests/1567671337126858953/1574974502117572700.jpg"
                             },
                             "video_low_res": {
-                                "url": "quests/1567671337126858953/1567671921523560478_720.mp4",
+                                "url": "quests/1567671337126858953/1574971725542596629_720.mp4",
                                 "width": 1080,
                                 "height": 1920,
-                                "thumbnail": "quests/1547370886645026876/1547372361232285696.jpg"
+                                "thumbnail": "quests/1567671337126858953/1574974502117572700.jpg"
                             },
                             "video_hls": {
-                                "url": "quests/1567671337126858953/1567671921523560478.m3u8",
+                                "url": "quests/1567671337126858953/1574971725542596629.m3u8",
                                 "width": 1080,
                                 "height": 1920,
-                                "thumbnail": "quests/1547370886645026876/1547372361232285696.jpg"
+                                "thumbnail": "quests/1567671337126858953/1574974502117572700.jpg"
                             }
                         },
                         "messages": {
@@ -140792,7 +140790,7 @@
                         "premium_orb_quantity": null
                     }
                 ],
-                "rewards_expire_at": "2026-12-31T07:59:00+00:00",
+                "rewards_expire_at": "2026-12-30T07:59:00+00:00",
                 "platforms": [
                     0
                 ]
@@ -145704,9 +145702,10 @@
             },
             "assets": {
                 "hero": "quests/1554596155680100372/1570544357692678226.jpg",
+                "hero_video": "quests/1554596155680100372/1574908287571202058_720.mp4",
                 "quest_bar_hero_blurhash": "TQgGJIhAaMkui3d1mHtAOwezcw==",
                 "quest_bar_hero": "quests/1554596155680100372/1570544375396704366.jpg",
-                "quest_bar_hero_video": "quests/1554596155680100372/1572382228304892045_720.mp4",
+                "quest_bar_hero_video": "quests/1554596155680100372/1574908176850092112_720.mp4",
                 "game_tile": "PLACEHOLDER",
                 "logotype": "PLACEHOLDER",
                 "game_tile_light": "quests/1554596155680100372/1570544415741845535.png",
@@ -148387,5 +148386,134 @@
                 "subtitle": "In Cinemas January 1"
             }
         }
+    },
+    {
+        "id": "1573128124378390630",
+        "config": {
+            "id": "1573128124378390630",
+            "config_version": 2,
+            "starts_at": "2026-11-24T20:00:00+00:00",
+            "expires_at": "2026-12-07T01:00:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://www.fandango.com/the-hunger-games-sunrise-on-the-reaping-2026-240138/movie-overview?cmp=ST_Lionsgate:HungerGamesSOTR:Discord",
+                "id": "545364944258990091",
+                "name": "Discord"
+            },
+            "assets": {
+                "hero": "quests/1567441774820065380/1567443278289313932.jpg",
+                "quest_bar_hero_blurhash": "GTgKCoQ1dsZfeIZ2MIQCdmo=",
+                "quest_bar_hero": "quests/1567441774820065380/1567443278289313932.jpg",
+                "quest_bar_hero_video": "quests/1573128124378390630/1574862741846360195_720.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1567441774820065380/1567443432710864946.png",
+                "game_tile_dark": "quests/1567441774820065380/1567443432681771028.png",
+                "logotype_light": "quests/1567441774820065380/1567443367418138775.png",
+                "logotype_dark": "quests/1567441774820065380/1567443367489568778.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "The Hunger Games",
+                "game_title": "IN THEATERS NOW",
+                "game_publisher": "Lionsgate"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "WATCH_VIDEO": {
+                        "type": "WATCH_VIDEO",
+                        "target": 14,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1573128124378390630/1574511257476661312_1080.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1567441774820065380/1567443299784990861.png"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1573128124378390630/1574511257476661312_720.mp4",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1567441774820065380/1567443299784990861.png"
+                            },
+                            "video_hls": {
+                                "url": "quests/1573128124378390630/1574511257476661312.m3u8",
+                                "width": 1920,
+                                "height": 1080,
+                                "thumbnail": "quests/1567441774820065380/1567443299784990861.png"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    },
+                    "WATCH_VIDEO_ON_MOBILE": {
+                        "type": "WATCH_VIDEO_ON_MOBILE",
+                        "target": 14,
+                        "assets": {
+                            "video": {
+                                "url": "quests/1573128124378390630/1574511257166413916_1080.mp4",
+                                "width": 607,
+                                "height": 1080,
+                                "thumbnail": "quests/1567441774820065380/1567443299784990861.png"
+                            },
+                            "video_low_res": {
+                                "url": "quests/1573128124378390630/1574511257166413916_720.mp4",
+                                "width": 607,
+                                "height": 1080,
+                                "thumbnail": "quests/1567441774820065380/1567443299784990861.png"
+                            },
+                            "video_hls": {
+                                "url": "quests/1573128124378390630/1574511257166413916.m3u8",
+                                "width": 607,
+                                "height": 1080,
+                                "thumbnail": "quests/1567441774820065380/1567443299784990861.png"
+                            }
+                        },
+                        "messages": {
+                            "video_title": "PLACEHOLDER"
+                        }
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "200 Orbs",
+                            "name_with_article": "200 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 200,
+                        "premium_orb_quantity": 240
+                    }
+                ],
+                "rewards_expire_at": "2027-01-06T01:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://www.fandango.com/the-hunger-games-sunrise-on-the-reaping-2026-240138/movie-overview?cmp=ST_Lionsgate:HungerGamesSOTR:Discord",
+                "button_label": "Get Tickets",
+                "subtitle": "IN THEATERS NOW"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "ad_context": null,
+        "preview": false
     }
 ]
