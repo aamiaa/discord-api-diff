@@ -149059,5 +149059,569 @@
                 "button_label": "Play Now"
             }
         }
+    },
+    {
+        "id": "1574926639333122220",
+        "config": {
+            "id": "1574926639333122220",
+            "config_version": 2,
+            "starts_at": "2026-11-26T18:00:00+00:00",
+            "expires_at": "2026-12-06T01:00:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://www.roblox.com/games/13621938427/untitled-boxing-game?gsrbx=1&ad_name=UPRNC4CJ\t",
+                "id": "363445589247131668",
+                "name": "Roblox"
+            },
+            "assets": {
+                "hero": "quests/1574926639333122220/1574927088794865875.jpg",
+                "hero_video": "quests/1574926639333122220/1574927155245092976_720.mp4",
+                "quest_bar_hero_blurhash": "2RcOEobQVppbeTeHCYHWEFg=",
+                "quest_bar_hero": "quests/1574926639333122220/1574927088794865875.jpg",
+                "quest_bar_hero_video": "quests/1574926639333122220/1574927155245092976_720.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1562915304299044884/1562916601886670980.png",
+                "game_tile_dark": "quests/1562915304299044884/1562916601861243000.png",
+                "logotype_light": "quests/1574926639333122220/1574927089352839260.png",
+                "logotype_dark": "quests/1574926639333122220/1574927089352839260.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Untitled Boxing Game",
+                "game_title": "Untitled Boxing Game on Roblox",
+                "game_publisher": "ROBLOX"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "363445589247131668"
+                            }
+                        ]
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 Orbs",
+                            "name_with_article": "700 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 700,
+                        "premium_orb_quantity": 840
+                    }
+                ],
+                "rewards_expire_at": "2027-01-05T01:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://www.roblox.com/games/13621938427/untitled-boxing-game?gsrbx=1&ad_name=UPRNC4CJ\t",
+                "button_label": "Play Now"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "ad_context": null,
+        "preview": false
+    },
+    {
+        "id": "1568041238115131453",
+        "config": {
+            "id": "1568041238115131453",
+            "config_version": 2,
+            "starts_at": "2026-11-26T18:00:00+00:00",
+            "expires_at": "2026-12-06T01:00:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://www.roblox.com/th/games/13621938427/untitled-boxing-game?gsrbx=1&ad_name=UPRNC4CJ",
+                "id": "363445589247131668",
+                "name": "Roblox"
+            },
+            "assets": {
+                "hero": "quests/1568041238115131453/1574902916962066594.jpg",
+                "hero_video": "quests/1568041238115131453/1574903027096227880_720.mp4",
+                "quest_bar_hero_blurhash": "2RcOEobQVppbeTeHCYHWEFg=",
+                "quest_bar_hero": "quests/1568041238115131453/1574902916962066594.jpg",
+                "quest_bar_hero_video": "quests/1568041238115131453/1574903027096227880_720.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1555736600657395752/1562927942093381715.png",
+                "game_tile_dark": "quests/1555736600657395752/1562927942059688097.png",
+                "logotype_light": "quests/1568041238115131453/1574902917024981032.png",
+                "logotype_dark": "quests/1568041238115131453/1574902917024981032.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "เกมมวยที่ไม่มีชื่อ",
+                "game_title": "เกมมวยที่ไม่มีชื่อ on Roblox",
+                "game_publisher": "ROBLOX"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "363445589247131668"
+                            }
+                        ]
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 Orbs",
+                            "name_with_article": "700 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 700,
+                        "premium_orb_quantity": null
+                    }
+                ],
+                "rewards_expire_at": "2027-01-05T01:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://www.roblox.com/th/games/13621938427/untitled-boxing-game?gsrbx=1&ad_name=UPRNC4CJ",
+                "button_label": "Play Now"
+            }
+        }
+    },
+    {
+        "id": "1568040234019586149",
+        "config": {
+            "id": "1568040234019586149",
+            "config_version": 2,
+            "starts_at": "2026-11-26T18:00:00+00:00",
+            "expires_at": "2026-12-06T01:00:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://www.roblox.com/pl/games/13621938427/untitled-boxing-gamer?gsrbx=1&ad_name=UPRNC4CJ",
+                "id": "363445589247131668",
+                "name": "Roblox"
+            },
+            "assets": {
+                "hero": "quests/1568040234019586149/1574917467221000305.jpg",
+                "hero_video": "quests/1568040234019586149/1574917467409743953.mp4",
+                "quest_bar_hero_blurhash": "2RcOEobQVppbeTeHCYHWEFg=",
+                "quest_bar_hero": "quests/1568040234019586149/1574917467221000305.jpg",
+                "quest_bar_hero_video": "quests/1568040234019586149/1574917467409743953.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1555736600657395752/1562927942093381715.png",
+                "game_tile_dark": "quests/1555736600657395752/1562927942059688097.png",
+                "logotype_light": "quests/1568040234019586149/1574917467409743954.png",
+                "logotype_dark": "quests/1568040234019586149/1574917467409743954.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "bez tytułu gra bokserska",
+                "game_title": "bez tytułu gra bokserska on Roblox",
+                "game_publisher": "ROBLOX"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "363445589247131668"
+                            }
+                        ]
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 Orbs",
+                            "name_with_article": "700 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 700,
+                        "premium_orb_quantity": null
+                    }
+                ],
+                "rewards_expire_at": "2027-01-05T01:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://www.roblox.com/pl/games/13621938427/untitled-boxing-gamer?gsrbx=1&ad_name=UPRNC4CJ",
+                "button_label": "Play Now"
+            }
+        }
+    },
+    {
+        "id": "1568040819804348570",
+        "config": {
+            "id": "1568040819804348570",
+            "config_version": 2,
+            "starts_at": "2026-11-26T18:00:00+00:00",
+            "expires_at": "2026-12-06T01:00:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://www.roblox.com/id/games/13621938427/untitled-boxing-game?gsrbx=1&ad_name=UPRNC4CJ",
+                "id": "363445589247131668",
+                "name": "Roblox"
+            },
+            "assets": {
+                "hero": "quests/1568040819804348570/1574909935802646638.jpg",
+                "hero_video": "quests/1568040819804348570/1574909934556942356.mp4",
+                "quest_bar_hero_blurhash": "2RcOEobQVppbeTeHCYHWEFg=",
+                "quest_bar_hero": "quests/1568040819804348570/1574909935802646638.jpg",
+                "quest_bar_hero_video": "quests/1568040819804348570/1574909934556942356.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1555736600657395752/1562927942093381715.png",
+                "game_tile_dark": "quests/1555736600657395752/1562927942059688097.png",
+                "logotype_light": "quests/1568040819804348570/1574909934590627870.png",
+                "logotype_dark": "quests/1568040819804348570/1574909934590627870.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Game tinju tanpa judul",
+                "game_title": "Game tinju tanpa judul on Roblox",
+                "game_publisher": "ROBLOX"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "363445589247131668"
+                            }
+                        ]
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 Orbs",
+                            "name_with_article": "700 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 700,
+                        "premium_orb_quantity": null
+                    }
+                ],
+                "rewards_expire_at": "2027-01-05T01:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://www.roblox.com/id/games/13621938427/untitled-boxing-game?gsrbx=1&ad_name=UPRNC4CJ",
+                "button_label": "Play Now"
+            }
+        }
+    },
+    {
+        "id": "1567613747357417633",
+        "config": {
+            "id": "1567613747357417633",
+            "config_version": 2,
+            "starts_at": "2026-11-26T17:00:00+00:00",
+            "expires_at": "2026-12-06T01:00:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://www.roblox.com/games/13621938427/untitled-boxing-game?gsrbx=1&ad_name=UPRNC4CJ",
+                "id": "363445589247131668",
+                "name": "Roblox"
+            },
+            "assets": {
+                "hero": "quests/1567613747357417633/1574581531039633538.jpg",
+                "hero_video": "quests/1567613747357417633/1574581602263113789_720.mp4",
+                "quest_bar_hero_blurhash": "2RcOEobQVppbeTeHCYHWEFg=",
+                "quest_bar_hero": "quests/1567613747357417633/1574581531039633538.jpg",
+                "quest_bar_hero_video": "quests/1567613747357417633/1574581602263113789_720.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1555736600657395752/1562927942093381715.png",
+                "game_tile_dark": "quests/1555736600657395752/1562927942059688097.png",
+                "logotype_light": "quests/1567613747357417633/1574581530980913302.png",
+                "logotype_dark": "quests/1567613747357417633/1574581530980913302.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "Untitled Boxing Game",
+                "game_title": "Untitled Boxing Game by Roblox",
+                "game_publisher": "ROBLOX"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "363445589247131668"
+                            }
+                        ]
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 Orbs",
+                            "name_with_article": "700 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 700,
+                        "premium_orb_quantity": null
+                    }
+                ],
+                "rewards_expire_at": "2027-01-05T01:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://www.roblox.com/games/13621938427/untitled-boxing-game?gsrbx=1&ad_name=UPRNC4CJ",
+                "button_label": "Play Now"
+            }
+        }
+    },
+    {
+        "id": "1567612471408328915",
+        "config": {
+            "id": "1567612471408328915",
+            "config_version": 2,
+            "starts_at": "2026-11-26T18:00:00+00:00",
+            "expires_at": "2026-12-06T01:00:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://www.roblox.com/de/games/13621938427/untitled-boxing-game?gsrbx=1&ad_name=UPRNC4CJ",
+                "id": "363445589247131668",
+                "name": "Roblox"
+            },
+            "assets": {
+                "hero": "quests/1567612471408328915/1574919159232336005.jpg",
+                "hero_video": "quests/1567612471408328915/1574919159131799754.mp4",
+                "quest_bar_hero_blurhash": "2RcOEobQVppbeTeHCYHWEFg=",
+                "quest_bar_hero": "quests/1567612471408328915/1574919159232336005.jpg",
+                "quest_bar_hero_video": "quests/1567612471408328915/1574919159131799754.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1555718124269998120/1559975225859510362.png",
+                "game_tile_dark": "quests/1555718124269998120/1559975225825956042.png",
+                "logotype_light": "quests/1567612471408328915/1574919159282663445.png",
+                "logotype_dark": "quests/1567612471408328915/1574919159282663445.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "unbetiteltes Boxspiel",
+                "game_title": "unbetiteltes Boxspiel on Roblox",
+                "game_publisher": "ROBLOX"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "363445589247131668"
+                            }
+                        ]
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 Orbs",
+                            "name_with_article": "700 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 700,
+                        "premium_orb_quantity": null
+                    }
+                ],
+                "rewards_expire_at": "2027-01-05T01:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://www.roblox.com/de/games/13621938427/untitled-boxing-game?gsrbx=1&ad_name=UPRNC4CJ",
+                "button_label": "Play Now"
+            }
+        }
+    },
+    {
+        "id": "1568040565919056114",
+        "config": {
+            "id": "1568040565919056114",
+            "config_version": 2,
+            "starts_at": "2026-11-26T18:00:00+00:00",
+            "expires_at": "2026-12-06T01:00:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://www.roblox.com/es/games/13621938427/untitled-boxing-game?gsrbx=1&ad_name=UPRNC4CJ",
+                "id": "363445589247131668",
+                "name": "Roblox"
+            },
+            "assets": {
+                "hero": "quests/1568040565919056114/1574916469093965895.jpg",
+                "hero_video": "quests/1568040565919056114/1574916469039570944.mp4",
+                "quest_bar_hero_blurhash": "2RcOEobQVppbeTeHCYHWEFg=",
+                "quest_bar_hero": "quests/1568040565919056114/1574916469093965895.jpg",
+                "quest_bar_hero_video": "quests/1568040565919056114/1574916469039570944.mp4",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1555736600657395752/1562927942093381715.png",
+                "game_tile_dark": "quests/1555736600657395752/1562927942059688097.png",
+                "logotype_light": "quests/1568040565919056114/1574916469437759529.png",
+                "logotype_dark": "quests/1568040565919056114/1574916469437759529.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "juego de boxeo sin título",
+                "game_title": "juego de boxeo sin título on Roblox",
+                "game_publisher": "ROBLOX"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "363445589247131668"
+                            }
+                        ]
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 Orbs",
+                            "name_with_article": "700 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 700,
+                        "premium_orb_quantity": null
+                    }
+                ],
+                "rewards_expire_at": "2027-01-05T01:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "shareable_everywhere",
+            "cta_config": {
+                "link": "https://www.roblox.com/es/games/13621938427/untitled-boxing-game?gsrbx=1&ad_name=UPRNC4CJ",
+                "button_label": "Play Now"
+            }
+        }
     }
 ]
