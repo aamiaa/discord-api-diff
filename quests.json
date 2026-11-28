@@ -147660,16 +147660,14 @@
                 15
             ],
             "application": {
-                "link": "https://store.steampowered.com/app/3734220/Guns_of_Eschaton/?utm_source=discord&utm_medium=quest&utm_campaign=goe_video_quest_coop_nov26&utm_content=video",
+                "link": "https://discord.gg/42kzaCxM4G",
                 "id": "545364944258990091",
                 "name": "Discord"
             },
             "assets": {
-                "hero": "quests/1572257914884985003/1574361565006794782.jpg",
-                "hero_video": "quests/1572257914884985003/1574731834938359900_720.mp4",
-                "quest_bar_hero_blurhash": "0CgKFIIJiYeJh4dyiXcMiPFyCA==",
-                "quest_bar_hero": "quests/1572257914884985003/1574361476922212522.jpg",
-                "quest_bar_hero_video": "quests/1572257914884985003/1574731834938359900_720.mp4",
+                "hero": "quests/1572257914884985003/1575907067556794602.jpg",
+                "quest_bar_hero_blurhash": "nUkKDIA3WFiJd3eQeXgMhbAFuA==",
+                "quest_bar_hero": "quests/1572257914884985003/1575907067556794602.jpg",
                 "game_tile": "PLACEHOLDER",
                 "logotype": "PLACEHOLDER",
                 "game_tile_light": "quests/1572257914884985003/1574361073522311208.png",
@@ -147769,8 +147767,8 @@
             },
             "share_policy": "shareable_everywhere",
             "cta_config": {
-                "link": "https://store.steampowered.com/app/3734220/Guns_of_Eschaton/?utm_source=discord&utm_medium=quest&utm_campaign=goe_video_quest_coop_nov26&utm_content=video",
-                "button_label": "Learn More"
+                "link": "https://discord.gg/42kzaCxM4G",
+                "button_label": "Sign Up"
             }
         },
         "user_status": null,
@@ -149623,5 +149621,112 @@
                 "button_label": "Play Now"
             }
         }
+    },
+    {
+        "id": "1564712834909077515",
+        "config": {
+            "id": "1564712834909077515",
+            "config_version": 2,
+            "starts_at": "2026-11-27T15:00:00+00:00",
+            "expires_at": "2026-11-30T06:00:00+00:00",
+            "features": [
+                15
+            ],
+            "application": {
+                "link": "https://playarkheron.openworld.gg/freetoplay/",
+                "id": "1428186199440228452",
+                "name": "Arkheron"
+            },
+            "assets": {
+                "hero": "quests/1564712834909077515/1572740457820061696.jpg",
+                "quest_bar_hero_blurhash": "klgKDIaHeHh2iHhweXlohYBWCA==",
+                "quest_bar_hero": "quests/1564712834909077515/1572740464698724524.jpg",
+                "game_tile": "PLACEHOLDER",
+                "logotype": "PLACEHOLDER",
+                "game_tile_light": "quests/1564712834909077515/1570511343080046723.png",
+                "game_tile_dark": "quests/1564712834909077515/1570511343080046723.png",
+                "logotype_light": "quests/1564712834909077515/1570529113951838309.png",
+                "logotype_dark": "quests/1564712834909077515/1570529113242869983.png"
+            },
+            "colors": {
+                "primary": "#4752C4",
+                "secondary": "#000000"
+            },
+            "messages": {
+                "quest_name": "ARKHERON Early Access",
+                "game_title": "ARKHERON Early Access (FREE)",
+                "game_publisher": "Bonfire"
+            },
+            "task_config_v2": {
+                "tasks": {
+                    "PLAY_ON_DESKTOP": {
+                        "type": "PLAY_ON_DESKTOP",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1428186199440228452"
+                            }
+                        ]
+                    },
+                    "PLAY_ON_XBOX": {
+                        "type": "PLAY_ON_XBOX",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1428186199440228452"
+                            }
+                        ],
+                        "external_ids": [
+                            "1820798557"
+                        ]
+                    },
+                    "PLAY_ON_PLAYSTATION": {
+                        "type": "PLAY_ON_PLAYSTATION",
+                        "target": 900,
+                        "applications": [
+                            {
+                                "id": "1428186199440228452"
+                            }
+                        ],
+                        "external_ids": [
+                            "PPSA32570_00"
+                        ]
+                    }
+                },
+                "join_operator": "or"
+            },
+            "rewards_config": {
+                "assignment_method": 1,
+                "rewards": [
+                    {
+                        "type": 4,
+                        "sku_id": "1287881739531976815",
+                        "messages": {
+                            "name": "700 Orbs",
+                            "name_with_article": "700 Orbs",
+                            "redemption_instructions_by_platform": {
+                                "0": "PLACEHOLDER"
+                            }
+                        },
+                        "orb_quantity": 700,
+                        "premium_orb_quantity": 840
+                    }
+                ],
+                "rewards_expire_at": "2026-12-30T06:00:00+00:00",
+                "platforms": [
+                    0
+                ]
+            },
+            "share_policy": "not_shareable",
+            "cta_config": {
+                "link": "https://playarkheron.openworld.gg/freetoplay/",
+                "button_label": "Play Game",
+                "subtitle": "Grab your squad and head back into the Spires!"
+            }
+        },
+        "user_status": null,
+        "targeted_content": [],
+        "ad_context": null,
+        "preview": false
     }
 ]
